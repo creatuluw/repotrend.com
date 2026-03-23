@@ -1,8 +1,10 @@
+repotrend\bsky\post-to-bsky.js
+```
+
+```javascript
 import fs from "fs";
 import path from "path";
-import React from "react";
 import { BskyAgent } from "@atproto/api";
-import { ImageResponse, GoogleFont, cache } from "@cf-wasm/og/node";
 
 // File paths
 const REPOS_FILE = path.join(process.cwd(), "site", "repos.json");
@@ -63,72 +65,67 @@ function pickUnpostedRepo(repos, postedRepos) {
   return unpostedRepos[randomIndex];
 }
 
-// Format number for display (e.g., 16885 -> "16.9k")
-function formatNumber(num) {
-  if (num >= 1000000) {
-    return (num / 1000000).toFixed(1) + "M";
-  }
-  if (num >= 1000) {
-    return (num / 1000).toFixed(1) + "k";
-  }
-  return num.toString();
-}
-
-// Generate custom OG image using @cf-wasm/og
-async function generateOgImage(repo) {
-  console.log("Generating custom OG image...");
-
-  // Simple fallback values
-  const repoName = repo.name || "Unknown Repo";
-  const ownerName = repo.owner?.login || "unknown";
-  const description = (repo.description || "No description").substring(0, 100);
+// Fetch og:image from GitHub repo page
+async function fetchOgImage(url) {
+  console.log(`Fetching OG image from: ${url}`);
 
   try {
-    // Simple test - just text with background, no flex
-    const imageBuffer = await ImageResponse.async(
-      <div
-        style={{
-          display: "flex",
-          width: "100%",
-          height: "100%",
-          backgroundColor: "#0d1117",
-          flexDirection: "column",
-          alignItems: "center",
-          justifyContent: "center",
-          padding: "60px",
-        }}
-      >
-        <div style={{ color: "#58a6ff", fontSize: "64px", fontWeight: 700 }}>
-          {repoName}
-        </div>
-        <div style={{ color: "#8b949e", fontSize: "32px", marginTop: "20px" }}>
-          by {ownerName}
-        </div>
-        <div
-          style={{
-            color: "#c9d1d9",
-            fontSize: "28px",
-            marginTop: "30px",
-            textAlign: "center",
-          }}
-        >
-          {description}
-        </div>
-        <div style={{ color: "#8b949e", fontSize: "24px", marginTop: "50px" }}>
-          te9.dev
-        </div>
-      </div>,
-      {
-        width: 1200,
-        height: 630,
-      },
-    );
+    const response = await fetch(url);
+    const html = await response.text();
 
-    console.log("OG image generated successfully!");
-    return imageBuffer;
+    // Parse og:image from HTML
+    const match = html.match(/<meta[^>]*property=["']og:image["'][^>]*content=["']([^"']*)["']/i);
+    let imageUrl = null;
+
+    if (match) {
+      imageUrl = match[1];
+    } else {
+      // Try alternate format
+      const altMatch = html.match(/<meta[^>]*content=["']([^"']*)["'][^>]*property=["']og:image["']/i);
+      if (altMatch) {
+        imageUrl = altMatch[1];
+      }
+    }
+
+    // Handle relative image URLs
+    if (imageUrl && !imageUrl.startsWith("http")) {
+      const urlObj = new URL(url);
+      imageUrl = imageUrl.startsWith("//")
+        ? `${urlObj.protocol}${imageUrl}`
+        : `${urlObj.origin}${imageUrl}`;
+    }
+
+    if (imageUrl) {
+      console.log(`Found OG image: ${imageUrl}`);
+    } else {
+      console.log("No OG image found");
+    }
+
+    return imageUrl;
   } catch (error) {
-    console.error("Error generating OG image:", error.message);
-    console.error(error.stack);
+    console.error("Error fetching OG image:", error.message);
+    return null;
+  }
+}
+
+// Download image and return as buffer
+async function downloadImage(imageUrl) {
+  if (!imageUrl) return null;
+
+  try {
+    console.log(`Downloading image: ${imageUrl}`);
+    const response = await fetch(imageUrl);
+    const buffer = await response.arrayBuffer();
+
+    // Check size (limit to 1MB)
+    if (buffer.byteLength > 1000000) {
+      console.warn("Image too large, skipping thumbnail");
+      return null;
+    }
+
+    return Buffer.from(buffer);
+  } catch (error) {
+    console.error("Error downloading image:", error.message);
     return null;
   }
 }
@@ -139,7 +136,7 @@ async function uploadBlob(agent, imageBuffer) {
     console.log("Uploading image blob to Bluesky...");
     const result = await agent.uploadBlob(imageBuffer, {
       headers: {
-        "Content-Type": "image/png",
+        "Content-Type": "image/jpeg",
       },
     });
     console.log("Blob uploaded successfully");
@@ -164,30 +161,33 @@ async function postToBluesky(repo, imageBlob) {
     });
     console.log("Logged in successfully!");
 
-    // Build the embed with custom OG image
-    const external = {
-      $type: "app.bsky.embed.external",
-      external: {
-        uri: repo.html_url,
-        title: repo.name,
-        description: repo.description || "Trending GitHub Repository",
-      },
-    };
-
-    // Add thumbnail if we have a blob
+    // Build the embed with GitHub OG image
+    let embed = null;
     if (imageBlob) {
-      external.external.thumb = imageBlob;
+      embed = {
+        $type: "app.bsky.embed.external",
+        external: {
+          uri: repo.html_url,
+          title: repo.name,
+          description: repo.description || "Trending GitHub Repository",
+          thumb: imageBlob,
+        },
+      };
     }
 
     // Create the post
     const post = {
       $type: "app.bsky.feed.post",
-      text: `${repo.name} - Trending on te9.dev`,
+      text: `${repo.name} - Trending on te9.dev\n\n${repo.html_url}`,
       createdAt: new Date().toISOString(),
-      embed: external,
     };
 
-    console.log("Creating post with custom OG image...");
+    // Add embed if available
+    if (embed) {
+      post.embed = embed;
+    }
+
+    console.log("Creating post with embed...");
     const response = await agent.post(post);
     console.log("Post created successfully!");
     console.log("Post URI:", response.uri);
@@ -236,40 +236,43 @@ async function main() {
   }
   console.log(`Selected: ${repo.name} (${repo.html_url})\n`);
 
-  // Generate custom OG image
-  const imageBuffer = await generateOgImage(repo);
+  // Fetch OG image from GitHub
+  const ogImageUrl = await fetchOgImage(repo.html_url);
 
-  // Upload image and post to Bluesky
+  // Download og:image if available
   let imageBlob = null;
-  if (imageBuffer) {
-    console.log("Posting to Bluesky with custom OG image...");
-    try {
+  if (ogImageUrl) {
+    const imageBuffer = await downloadImage(ogImageUrl);
+    if (imageBuffer) {
+      // Login and upload blob
       const agent = new BskyAgent({ service: "https://bsky.social" });
       await agent.login({
         identifier: BSKY_HANDLE,
         password: BSKY_APP_PASSWORD,
       });
       imageBlob = await uploadBlob(agent, imageBuffer);
-      await postToBluesky(repo, imageBlob);
-    } catch (error) {
-      console.error("\n=== Failed to post ===");
-      process.exit(1);
     }
-  } else {
-    console.error("Failed to generate OG image, skipping post");
-    process.exit(1);
   }
 
-  // Save to posted repos
-  postedRepos.push({
-    id: repo.id,
-    name: repo.name,
-    html_url: repo.html_url,
-    posted_at: new Date().toISOString(),
-  });
-  savePostedRepos(postedRepos);
+  // Post to Bluesky with embed
+  console.log("Posting to Bluesky with URL card...");
+  try {
+    await postToBluesky(repo, imageBlob);
 
-  console.log("\n=== Post completed successfully! ===");
+    // Save to posted repos
+    postedRepos.push({
+      id: repo.id,
+      name: repo.name,
+      html_url: repo.html_url,
+      posted_at: new Date().toISOString(),
+    });
+    savePostedRepos(postedRepos);
+
+    console.log("\n=== Post completed successfully! ===");
+  } catch (error) {
+    console.error("\n=== Failed to post ===");
+    process.exit(1);
+  }
 }
 
 main().catch((error) => {
