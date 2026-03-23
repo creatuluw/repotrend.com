@@ -1,0 +1,12 @@
+{
+  "name": "repotrend",
+  "version": "1.0.0",
+  "description": "RepoTrend - Track trending GitHub repositories",
+  "type": "module",
+  "scripts": {
+    "post-to-bsky": "node bsky/post-to-bsky.js"
+  },
+  "dependencies": {
+    "@atproto/api": "^0.13.0"
+  }
+}

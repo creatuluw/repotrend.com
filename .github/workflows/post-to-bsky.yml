@@ -1,0 +1,39 @@
+name: Post to Bluesky
+
+on:
+  workflow_run:
+    workflows: ["Deploy Site to FTP"]
+    types:
+      - completed
+  workflow_dispatch:
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Post to Bluesky
+        env:
+          BSKY_HANDLE: ${{ secrets.BSKY_HANDLE }}
+          BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
+        run: npm run post-to-bsky
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add bsky/posted-repos.json
+          git diff --staged --quiet || git commit -m "Update posted repos tracking $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
