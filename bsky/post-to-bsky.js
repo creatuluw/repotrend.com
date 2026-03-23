@@ -82,12 +82,9 @@ async function generateOgImage(repo) {
   const repoName = repo.name || "Unknown Repo";
   const ownerName = repo.owner?.login || "unknown";
   const description = (repo.description || "No description").substring(0, 100);
-  const stars = formatNumber(repo.stargazers_count || 0);
-  const forks = formatNumber(repo.forks_count || 0);
-  const language = repo.language || "Code";
 
   try {
-    // Simple test - just text with background
+    // Simple test - just text with background, no flex
     const imageBuffer = await ImageResponse.async(
       <div
         style={{
@@ -96,60 +93,28 @@ async function generateOgImage(repo) {
           height: "100%",
           backgroundColor: "#0d1117",
           flexDirection: "column",
-          justifyContent: "center",
           alignItems: "center",
-          padding: "40px",
+          justifyContent: "center",
+          padding: "60px",
         }}
       >
-        <div
-          style={{
-            color: "#ff9500",
-            fontSize: "48px",
-            fontWeight: 700,
-            marginBottom: "20px",
-          }}
-        >
+        <div style={{ color: "#58a6ff", fontSize: "64px", fontWeight: 700 }}>
           {repoName}
         </div>
-        <div
-          style={{
-            color: "#8b949e",
-            fontSize: "24px",
-            marginBottom: "20px",
-          }}
-        >
+        <div style={{ color: "#8b949e", fontSize: "32px", marginTop: "20px" }}>
           by {ownerName}
         </div>
         <div
           style={{
             color: "#c9d1d9",
-            fontSize: "20px",
+            fontSize: "28px",
+            marginTop: "30px",
             textAlign: "center",
-            maxWidth: "800px",
           }}
         >
           {description}
         </div>
-        <div
-          style={{
-            display: "flex",
-            gap: "30px",
-            marginTop: "30px",
-            color: "#e3b341",
-            fontSize: "20px",
-          }}
-        >
-          <span>⭐ {stars}</span>
-          <span>🍴 {forks}</span>
-          <span>💻 {language}</span>
-        </div>
-        <div
-          style={{
-            marginTop: "40px",
-            color: "#8b949e",
-            fontSize: "18px",
-          }}
-        >
+        <div style={{ color: "#8b949e", fontSize: "24px", marginTop: "50px" }}>
           te9.dev
         </div>
       </div>,
