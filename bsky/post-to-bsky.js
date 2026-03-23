@@ -57,22 +57,112 @@ function pickUnpostedRepo(repos, postedRepos) {
     return null;
   }
 
-  // Pick a random unposted repo
   const randomIndex = Math.floor(Math.random() * unpostedRepos.length);
   return unpostedRepos[randomIndex];
 }
 
-// Format repo for Bluesky post (max 300 characters)
-function formatRepoPost(repo) {
-  // Format: Repo name on first line, URL on its own line for OG preview
-  const text = `${repo.name}
+// Fetch OG meta tags from a URL
+async function fetchOgTags(url) {
+  console.log(`Fetching OG tags from: ${url}`);
 
-${repo.html_url}`;
-  return text;
+  try {
+    const response = await fetch(url);
+    const html = await response.text();
+
+    // Parse OG tags from HTML
+    const getMetaContent = (property) => {
+      const match = html.match(
+        new RegExp(
+          `<meta[^>]*property=["']${property}["'][^>]*content=["']([^"']*)["']`,
+          "i",
+        ),
+      );
+      if (match) return match[1];
+      // Try alternate format: <meta content="..." property="...">
+      const altMatch = html.match(
+        new RegExp(
+          `<meta[^>]*content=["']([^"']*)["'][^>]*property=["']${property}["']`,
+          "i",
+        ),
+      );
+      if (altMatch) return altMatch[1];
+      return null;
+    };
+
+    const title =
+      getMetaContent("og:title") || getMetaContent("twitter:title") || "";
+    const description =
+      getMetaContent("og:description") ||
+      getMetaContent("twitter:description") ||
+      "";
+    const image =
+      getMetaContent("og:image") || getMetaContent("twitter:image") || "";
+
+    // Handle relative image URLs
+    let fullImageUrl = image;
+    if (image && !image.startsWith("http")) {
+      const urlObj = new URL(url);
+      fullImageUrl = image.startsWith("//")
+        ? `${urlObj.protocol}${image}`
+        : `${urlObj.origin}${image}`;
+    }
+
+    console.log(`OG Title: ${title}`);
+    console.log(
+      `OG Description: ${description ? description.substring(0, 50) + "..." : "none"}`,
+    );
+    console.log(
+      `OG Image: ${fullImageUrl ? fullImageUrl.substring(0, 50) + "..." : "none"}`,
+    );
+
+    return { title, description, image: fullImageUrl };
+  } catch (error) {
+    console.error("Error fetching OG tags:", error.message);
+    return { title: "", description: "", image: "" };
+  }
 }
 
-// Post to Bluesky
-async function postToBluesky(text) {
+// Download image and return as buffer
+async function downloadImage(imageUrl) {
+  if (!imageUrl) return null;
+
+  try {
+    console.log(`Downloading image: ${imageUrl}`);
+    const response = await fetch(imageUrl);
+    const buffer = await response.arrayBuffer();
+
+    // Check size (limit to 1MB)
+    if (buffer.byteLength > 1000000) {
+      console.warn("Image too large, skipping thumbnail");
+      return null;
+    }
+
+    return Buffer.from(buffer);
+  } catch (error) {
+    console.error("Error downloading image:", error.message);
+    return null;
+  }
+}
+
+// Upload blob to Bluesky
+async function uploadBlob(agent, imageBuffer) {
+  try {
+    console.log("Uploading image blob to Bluesky...");
+    const result = await agent.uploadBlob(imageBuffer, {
+      headers: {
+        "Content-Type": "image/jpeg",
+      },
+    });
+    console.log("Blob uploaded successfully");
+    return result.blob;
+  } catch (error) {
+    console.error("Error uploading blob:", error.message);
+    return null;
+  }
+}
+
+// Post to Bluesky with embed
+async function postToBluesky(repo, ogTags, imageBlob) {
   const agent = new BskyAgent({
     service: "https://bsky.social",
   });
@@ -85,12 +175,39 @@ async function postToBluesky(text) {
     });
     console.log("Logged in successfully!");
 
+    // Build the embed
+    let embed = null;
+    if (ogTags.title || ogTags.description) {
+      const external = {
+        $type: "app.bsky.embed.external",
+        external: {
+          uri: repo.html_url,
+          title: ogTags.title || repo.name,
+          description: ogTags.description || repo.description || "",
+        },
+      };
+
+      // Add thumbnail if we have a blob
+      if (imageBlob) {
+        external.external.thumb = imageBlob;
+      }
+
+      embed = external;
+    }
+
+    // Create the post
     const post = {
       $type: "app.bsky.feed.post",
-      text: text,
+      text: `${repo.name}`,
       createdAt: new Date().toISOString(),
     };
 
+    // Add embed if available
+    if (embed) {
+      post.embed = embed;
+    }
+
+    console.log("Creating post with embed...");
     const response = await agent.post(post);
     console.log("Post created successfully!");
     console.log("Post URI:", response.uri);
@@ -139,17 +256,28 @@ async function main() {
   }
   console.log(`Selected: ${repo.name} (${repo.html_url})\n`);
 
-  // Format post
-  const postText = formatRepoPost(repo);
-  console.log("Post text:");
-  console.log("---");
-  console.log(postText);
-  console.log("---\n");
+  // Fetch OG tags from the GitHub repo
+  const ogTags = await fetchOgTags(repo.html_url);
 
-  // Post to Bluesky
-  console.log("Posting to Bluesky...");
+  // Download og:image if available
+  let imageBlob = null;
+  if (ogTags.image) {
+    const imageBuffer = await downloadImage(ogTags.image);
+    if (imageBuffer) {
+      // Login and upload blob
+      const agent = new BskyAgent({ service: "https://bsky.social" });
+      await agent.login({
+        identifier: BSKY_HANDLE,
+        password: BSKY_APP_PASSWORD,
+      });
+      imageBlob = await uploadBlob(agent, imageBuffer);
+    }
+  }
+
+  // Post to Bluesky with embed
+  console.log("Posting to Bluesky with URL card...");
   try {
-    await postToBluesky(postText);
+    await postToBluesky(repo, ogTags, imageBlob);
 
     // Save to posted repos
     postedRepos.push({
