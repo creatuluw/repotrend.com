@@ -6,6 +6,8 @@ import { fileURLToPath } from "url";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
+const REPO_DIR = path.join(__dirname, "site", "repo");
+
 // Get the most recent file in a directory matching a pattern
 function getMostRecentFile(dir, prefix) {
   const files = fs
@@ -31,6 +33,12 @@ function pickRandomRepo(filepath) {
 // Check if repo already exists in repos.json
 function repoExistsInList(repo, reposList) {
   return reposList.some((r) => r.id === repo.id);
+}
+
+// Check if repo has a corresponding HTML page
+function repoPageExists(repo) {
+  const pagePath = path.join(REPO_DIR, `${repo.name}.html`);
+  return fs.existsSync(pagePath);
 }
 
 // Main function
@@ -62,6 +70,19 @@ async function main() {
     console.log(
       `Loaded ${existingRepos.length} existing repos from repos.json`,
     );
+
+    // Check for existing repos that don't have pages
+    const existingWithoutPages = existingRepos.filter(
+      (repo) => !repoPageExists(repo),
+    );
+    if (existingWithoutPages.length > 0) {
+      console.log(
+        `\nWARNING: ${existingWithoutPages.length} existing repos are missing HTML pages:`,
+      );
+      for (const repo of existingWithoutPages) {
+        console.log(`  - ${repo.name}`);
+      }
+    }
   }
 
   const newRepos = [];
@@ -84,15 +105,24 @@ async function main() {
     while (attempts < 100 && !found) {
       const randomRepo = pickRandomRepo(filePath);
 
+      // Only require pages for repos if we already have existing repos (not first run)
+      const requirePage = existingRepos.length > 0;
+
       if (
         !repoExistsInList(randomRepo, existingRepos) &&
-        !repoExistsInList(randomRepo, newRepos)
+        !repoExistsInList(randomRepo, newRepos) &&
+        (!requirePage || repoPageExists(randomRepo))
       ) {
         newRepos.push(randomRepo);
         console.log(
           `  + Picked repo: ${randomRepo.name} (${randomRepo.stargazers_count} stars)`,
         );
         found = true;
+      } else if (!repoPageExists(randomRepo)) {
+        console.log(
+          `  - Skipping ${randomRepo.name}: no HTML page exists in site/repo/`,
+        );
+        attempts++;
       } else {
         attempts++;
       }
@@ -100,7 +130,7 @@ async function main() {
 
     if (!found) {
       console.log(
-        `  - Could not find a new repo for ${prefix} (all 100 were already in repos.json)`,
+        `  - Could not find a new repo for ${prefix} (all 100 were already in repos.json or missing pages)`,
       );
       skippedRepos.push(prefix);
     }
