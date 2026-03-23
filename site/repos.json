@@ -136,5 +136,74 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1156956890,
+    "name": "zeroclaw",
+    "owner": {
+      "id": 261820148,
+      "url": "https://api.github.com/users/zeroclaw-labs",
+      "html_url": "https://github.com/zeroclaw-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/261820148?v=4"
+    },
+    "html_url": "https://github.com/zeroclaw-labs/zeroclaw",
+    "description": "Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀",
+    "created_at": "2026-02-13T08:56:04Z",
+    "updated_at": "2026-03-23T16:19:31Z",
+    "pushed_at": "2026-03-23T16:19:38Z",
+    "git_url": "git://github.com/zeroclaw-labs/zeroclaw.git",
+    "homepage": "https://www.zeroclawlabs.ai/",
+    "size": 35263,
+    "stargazers_count": 28507,
+    "watchers_count": 28507,
+    "language": "Rust",
+    "forks_count": 3905,
+    "open_issues_count": 377
+  },
+  {
+    "id": 1171284401,
+    "name": "OpenRoom",
+    "owner": {
+      "id": 194880281,
+      "url": "https://api.github.com/users/MiniMax-AI",
+      "html_url": "https://github.com/MiniMax-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/194880281?v=4"
+    },
+    "html_url": "https://github.com/MiniMax-AI/OpenRoom",
+    "description": "A browser-based desktop where AI Agent operates every app through natural language.",
+    "created_at": "2026-03-03T04:01:01Z",
+    "updated_at": "2026-03-23T15:54:19Z",
+    "pushed_at": "2026-03-23T12:26:14Z",
+    "git_url": "git://github.com/MiniMax-AI/OpenRoom.git",
+    "homepage": "https://www.openroom.ai",
+    "size": 5968,
+    "stargazers_count": 695,
+    "watchers_count": 695,
+    "language": "TypeScript",
+    "forks_count": 75,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1187736714,
+    "name": "pycharm-professional-premium",
+    "owner": {
+      "id": 257169633,
+      "url": "https://api.github.com/users/Meetiattract",
+      "html_url": "https://github.com/Meetiattract",
+      "avatar_url": "https://avatars.githubusercontent.com/u/257169633?v=4"
+    },
+    "html_url": "https://github.com/Meetiattract/pycharm-professional-premium",
+    "description": "Get the PyCharm Professional Premium suite on GitHub: a complete, high-performance toolkit for advanced Python development and web automation.",
+    "created_at": "2026-03-21T04:56:37Z",
+    "updated_at": "2026-03-23T06:03:26Z",
+    "pushed_at": "2026-03-21T04:59:00Z",
+    "git_url": "git://github.com/Meetiattract/pycharm-professional-premium.git",
+    "homepage": "",
+    "size": 2,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
