@@ -41,7 +41,8 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git config --local credential.helper '!f() { echo "password=${{ secrets.PAT }}"; }; f'
+          git config --local credential.helper ""
+          git remote set-url origin https://x-access-token:${{ secrets.PAT }}@github.com/${{ github.repository }}.git
           git add data/
           git diff --staged --quiet || git commit -m "Update repos data $(date -u +%Y-%m-%d)"
           git push
