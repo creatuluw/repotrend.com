@@ -17,6 +17,9 @@ const BSKY_HANDLE = process.env.BSKY_HANDLE;
 const BSKY_APP_PASSWORD = process.env.BSKY_APP_PASSWORD;
 const MARKUPGO_API_KEY = process.env.MARKUPGO_API_KEY;
 
+// Base URL for the deployed repo pages
+const BASE_URL = "https://te9.dev/repotrend/repo";
+
 // Ensure bsky directory exists
 if (!fs.existsSync(BSKY_DIR)) {
   fs.mkdirSync(BSKY_DIR, { recursive: true });
@@ -106,7 +109,7 @@ function loadCardTemplate() {
   }
 }
 
-// Generate HTML card for a repo
+// Generate HTML card for OG image
 function generateCardHtml(repo) {
   let html = loadCardTemplate();
   if (!html) return null;
@@ -166,7 +169,7 @@ async function generateOgImage(html) {
   console.log("Generating OG image using markupgo API...");
 
   try {
-    const response = await fetch("https://api.markupgo.com/v1/image", {
+    const response = await fetch("https://api.markupgo.com/api/v1/image", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
@@ -224,7 +227,7 @@ async function pollForImageResult(taskId) {
       console.log(`Polling for result... (attempt ${i + 1}/${maxAttempts})`);
 
       const response = await fetch(
-        `https://api.markupgo.com/v1/image/${taskId}`,
+        `https://api.markupgo.com/api/v1/image/${taskId}`,
         {
           headers: {
             "x-api-key": MARKUPGO_API_KEY,
@@ -297,14 +300,14 @@ async function uploadBlob(agent, imageBuffer) {
       },
     });
     console.log("Blob uploaded successfully");
-    return result.blob;
+    return result.data.blob;
   } catch (error) {
     console.error("Error uploading blob:", error.message);
     return null;
   }
 }
 
-// Post to Bluesky with embed
+// Post to Bluesky with external embed
 async function postToBluesky(repo, imageBlob) {
   const agent = new BskyAgent({
     service: "https://bsky.social",
@@ -318,33 +321,40 @@ async function postToBluesky(repo, imageBlob) {
     });
     console.log("Logged in successfully!");
 
-    // Build the embed with OG image
-    let embed = null;
+    const repoName = repo.name || "Unknown Repo";
+    const description = repo.description || "Trending on te9.dev";
+    const stars = formatNumber(repo.stargazers_count || 0);
+    const forks = formatNumber(repo.forks_count || 0);
+    const pageUrl = `${BASE_URL}/${repoName}.html`;
+
+    // Build the external embed
+    const external = {
+      $type: "app.bsky.embed.external#main",
+      uri: pageUrl,
+      title: `${repoName} - Trending on te9.dev`,
+      description: description,
+    };
+
+    // Add thumb if we have an image blob
     if (imageBlob) {
-      embed = {
-        $type: "app.bsky.embed.external",
-        external: {
-          uri: repo.html_url,
-          title: repo.name,
-          description: repo.description || "Trending GitHub Repository",
-          thumb: imageBlob,
-        },
-      };
+      external.thumb = imageBlob;
     }
+
+    const embed = {
+      $type: "app.bsky.embed.external",
+      external: external,
+    };
 
     // Create the post
     const post = {
       $type: "app.bsky.feed.post",
-      text: `${repo.name} - Trending on te9.dev\n\n${repo.html_url}`,
+      text: `${repoName} | ${stars} stars | ${forks} forks\n\n${description}`,
       createdAt: new Date().toISOString(),
+      embed: embed,
     };
 
-    // Add embed if available
-    if (embed) {
-      post.embed = embed;
-    }
-
-    console.log("Creating post with embed...");
+    console.log("Creating post with external embed...");
+    console.log(`  URL: ${pageUrl}`);
     const response = await agent.post(post);
     console.log("Post created successfully!");
     console.log("Post URI:", response.uri);
@@ -398,7 +408,7 @@ async function main() {
   }
   console.log(`Selected: ${repo.name} (${repo.html_url})\n`);
 
-  // Generate HTML card
+  // Generate HTML card for OG image
   console.log("Generating HTML card...");
   const cardHtml = generateCardHtml(repo);
   if (!cardHtml) {
@@ -415,43 +425,29 @@ async function main() {
   console.log("Generating OG image...");
   const imageUrl = await generateOgImage(cardHtml);
 
-  if (!imageUrl) {
-    console.error("Failed to generate OG image, posting without image...");
-    try {
-      await postToBluesky(repo, null);
-    } catch (error) {
-      console.error("\n=== Failed to post ===");
-      process.exit(1);
-    }
-  } else {
+  let imageBlob = null;
+  if (imageUrl) {
     // Download the generated image
     const imageBuffer = await downloadImage(imageUrl);
-    if (!imageBuffer) {
-      console.error(
-        "Failed to download generated image, posting without it...",
-      );
-      try {
-        await postToBluesky(repo, null);
-      } catch (error) {
-        console.error("\n=== Failed to post ===");
-        process.exit(1);
-      }
-    } else {
+    if (imageBuffer) {
       // Login and upload blob
-      console.log("Posting to Bluesky with OG image...");
-      try {
-        const agent = new BskyAgent({ service: "https://bsky.social" });
-        await agent.login({
-          identifier: BSKY_HANDLE,
-          password: BSKY_APP_PASSWORD,
-        });
-        const imageBlob = await uploadBlob(agent, imageBuffer);
-        await postToBluesky(repo, imageBlob);
-      } catch (error) {
-        console.error("\n=== Failed to post ===");
-        process.exit(1);
-      }
+      console.log("Uploading thumbnail to Bluesky...");
+      const agent = new BskyAgent({ service: "https://bsky.social" });
+      await agent.login({
+        identifier: BSKY_HANDLE,
+        password: BSKY_APP_PASSWORD,
+      });
+      imageBlob = await uploadBlob(agent, imageBuffer);
     }
+  }
+
+  // Post to Bluesky with external embed
+  console.log("Posting to Bluesky with external embed...");
+  try {
+    await postToBluesky(repo, imageBlob);
+  } catch (error) {
+    console.error("\n=== Failed to post ===");
+    process.exit(1);
   }
 
   // Save to posted repos

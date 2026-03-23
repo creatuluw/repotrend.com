@@ -4,6 +4,7 @@
   "description": "RepoTrend - Track trending GitHub repositories",
   "type": "module",
   "scripts": {
+    "generate-repo-pages": "node generate-repo-pages.js",
     "post-to-bsky": "node bsky/post-to-bsky.js"
   },
   "dependencies": {

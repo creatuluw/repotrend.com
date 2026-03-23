@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": 1174238266,
+    "name": "ai-rules",
+    "html_url": "https://github.com/fjb040911/ai-rules",
+    "posted_at": "2026-03-23T12:25:17.567Z"
+  },
+  {
+    "id": 1186863491,
+    "name": "opencode-claude-auth-sync",
+    "html_url": "https://github.com/lehdqlsl/opencode-claude-auth-sync",
+    "posted_at": "2026-03-23T12:49:28.566Z"
+  },
+  {
+    "id": 1127110039,
+    "name": "planning-with-files",
+    "html_url": "https://github.com/OthmanAdi/planning-with-files",
+    "posted_at": "2026-03-23T12:52:18.835Z"
+  }
+]
