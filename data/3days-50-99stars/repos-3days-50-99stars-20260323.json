@@ -23,29 +23,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1189664719,
-    "name": "auto-discord-quest-completer",
-    "owner": {
-      "id": 255568577,
-      "url": "https://api.github.com/users/deadmorosebeaver5",
-      "html_url": "https://github.com/deadmorosebeaver5",
-      "avatar_url": "https://avatars.githubusercontent.com/u/255568577?v=4"
-    },
-    "html_url": "https://github.com/deadmorosebeaver5/auto-discord-quest-completer",
-    "description": "Auto Discord Quest Completer is a high-performance tool for instant reward claims. It features automated stream simulation and quest tracking for seamless, one-click badge and gift unlocking.",
-    "created_at": "2026-03-23T14:47:39Z",
-    "updated_at": "2026-03-23T16:02:53Z",
-    "pushed_at": "2026-03-23T14:50:38Z",
-    "git_url": "git://github.com/deadmorosebeaver5/auto-discord-quest-completer.git",
-    "homepage": "",
-    "size": 7,
-    "stargazers_count": 94,
-    "watchers_count": 94,
-    "language": null,
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
     "id": 1187884745,
     "name": "toolpick",
     "owner": {
@@ -80,7 +57,7 @@
     "html_url": "https://github.com/Wechat-ggGitHub/wechat-claude-code",
     "description": "Chat with Claude Code from WeChat - a Claude Code Skill",
     "created_at": "2026-03-22T15:16:14Z",
-    "updated_at": "2026-03-23T16:02:49Z",
+    "updated_at": "2026-03-23T16:03:29Z",
     "pushed_at": "2026-03-23T16:03:04Z",
     "git_url": "git://github.com/Wechat-ggGitHub/wechat-claude-code.git",
     "homepage": null,
@@ -90,6 +67,29 @@
     "language": "TypeScript",
     "forks_count": 32,
     "open_issues_count": 7
+  },
+  {
+    "id": 1186973832,
+    "name": "ClawLink",
+    "owner": {
+      "id": 39891019,
+      "url": "https://api.github.com/users/CN-Syndra",
+      "html_url": "https://github.com/CN-Syndra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39891019?v=4"
+    },
+    "html_url": "https://github.com/CN-Syndra/ClawLink",
+    "description": "An AI Agent Social Network — Let your AI (Claw) talk to other people's AIs directly. Autonomous agent-to-agent communication, negotiation, and collaboration, with full owner control.",
+    "created_at": "2026-03-20T07:38:57Z",
+    "updated_at": "2026-03-23T16:08:51Z",
+    "pushed_at": "2026-03-23T10:08:01Z",
+    "git_url": "git://github.com/CN-Syndra/ClawLink.git",
+    "homepage": "https://clawlink.live",
+    "size": 5930,
+    "stargazers_count": 90,
+    "watchers_count": 90,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 0
   },
   {
     "id": 1189287055,
@@ -135,29 +135,6 @@
     "watchers_count": 89,
     "language": null,
     "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1186973832,
-    "name": "ClawLink",
-    "owner": {
-      "id": 39891019,
-      "url": "https://api.github.com/users/CN-Syndra",
-      "html_url": "https://github.com/CN-Syndra",
-      "avatar_url": "https://avatars.githubusercontent.com/u/39891019?v=4"
-    },
-    "html_url": "https://github.com/CN-Syndra/ClawLink",
-    "description": "An AI Agent Social Network — Let your AI (Claw) talk to other people's AIs directly. Autonomous agent-to-agent communication, negotiation, and collaboration, with full owner control.",
-    "created_at": "2026-03-20T07:38:57Z",
-    "updated_at": "2026-03-23T15:57:38Z",
-    "pushed_at": "2026-03-23T10:08:01Z",
-    "git_url": "git://github.com/CN-Syndra/ClawLink.git",
-    "homepage": "https://clawlink.live",
-    "size": 5930,
-    "stargazers_count": 88,
-    "watchers_count": 88,
-    "language": "TypeScript",
-    "forks_count": 3,
     "open_issues_count": 0
   },
   {
@@ -342,7 +319,7 @@
     "watchers_count": 81,
     "language": "TypeScript",
     "forks_count": 31,
-    "open_issues_count": 3
+    "open_issues_count": 4
   },
   {
     "id": 1186781039,
@@ -667,6 +644,29 @@
     "open_issues_count": 1
   },
   {
+    "id": 1187150337,
+    "name": "awesome-autoresearch",
+    "owner": {
+      "id": 204474669,
+      "url": "https://api.github.com/users/alvinunreal",
+      "html_url": "https://github.com/alvinunreal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/204474669?v=4"
+    },
+    "html_url": "https://github.com/alvinunreal/awesome-autoresearch",
+    "description": "A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch.",
+    "created_at": "2026-03-20T11:55:51Z",
+    "updated_at": "2026-03-23T16:06:51Z",
+    "pushed_at": "2026-03-23T12:18:34Z",
+    "git_url": "git://github.com/alvinunreal/awesome-autoresearch.git",
+    "homepage": null,
+    "size": 14,
+    "stargazers_count": 74,
+    "watchers_count": 74,
+    "language": null,
+    "forks_count": 5,
+    "open_issues_count": 1
+  },
+  {
     "id": 1187971007,
     "name": "minecraft-client-collection",
     "owner": {
@@ -805,29 +805,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1187150337,
-    "name": "awesome-autoresearch",
-    "owner": {
-      "id": 204474669,
-      "url": "https://api.github.com/users/alvinunreal",
-      "html_url": "https://github.com/alvinunreal",
-      "avatar_url": "https://avatars.githubusercontent.com/u/204474669?v=4"
-    },
-    "html_url": "https://github.com/alvinunreal/awesome-autoresearch",
-    "description": "A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch.",
-    "created_at": "2026-03-20T11:55:51Z",
-    "updated_at": "2026-03-23T16:03:16Z",
-    "pushed_at": "2026-03-23T12:18:34Z",
-    "git_url": "git://github.com/alvinunreal/awesome-autoresearch.git",
-    "homepage": null,
-    "size": 14,
-    "stargazers_count": 72,
-    "watchers_count": 72,
-    "language": null,
-    "forks_count": 4,
-    "open_issues_count": 1
-  },
-  {
     "id": 1188905362,
     "name": "Ladder",
     "owner": {
@@ -871,7 +848,7 @@
     "watchers_count": 70,
     "language": "Shell",
     "forks_count": 8,
-    "open_issues_count": 3
+    "open_issues_count": 2
   },
   {
     "id": 1188905359,
@@ -966,6 +943,29 @@
     "open_issues_count": 0
   },
   {
+    "id": 1189234446,
+    "name": "awesome-hermes-agent",
+    "owner": {
+      "id": 93952610,
+      "url": "https://api.github.com/users/0xNyk",
+      "html_url": "https://github.com/0xNyk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93952610?v=4"
+    },
+    "html_url": "https://github.com/0xNyk/awesome-hermes-agent",
+    "description": "A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research",
+    "created_at": "2026-03-23T05:34:37Z",
+    "updated_at": "2026-03-23T16:06:30Z",
+    "pushed_at": "2026-03-23T14:12:18Z",
+    "git_url": "git://github.com/0xNyk/awesome-hermes-agent.git",
+    "homepage": null,
+    "size": 38,
+    "stargazers_count": 67,
+    "watchers_count": 67,
+    "language": null,
+    "forks_count": 5,
+    "open_issues_count": 0
+  },
+  {
     "id": 1187932438,
     "name": "bulletproof",
     "owner": {
@@ -1012,26 +1012,26 @@
     "open_issues_count": 0
   },
   {
-    "id": 1189234446,
-    "name": "awesome-hermes-agent",
+    "id": 1188751123,
+    "name": "BloxShade-Improve-Roblox-With-Shaders-Windows",
     "owner": {
-      "id": 93952610,
-      "url": "https://api.github.com/users/0xNyk",
-      "html_url": "https://github.com/0xNyk",
-      "avatar_url": "https://avatars.githubusercontent.com/u/93952610?v=4"
+      "id": 189444000,
+      "url": "https://api.github.com/users/djdmboss",
+      "html_url": "https://github.com/djdmboss",
+      "avatar_url": "https://avatars.githubusercontent.com/u/189444000?v=4"
     },
-    "html_url": "https://github.com/0xNyk/awesome-hermes-agent",
-    "description": "A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research",
-    "created_at": "2026-03-23T05:34:37Z",
-    "updated_at": "2026-03-23T15:59:22Z",
-    "pushed_at": "2026-03-23T14:12:18Z",
-    "git_url": "git://github.com/0xNyk/awesome-hermes-agent.git",
-    "homepage": null,
-    "size": 38,
+    "html_url": "https://github.com/djdmboss/BloxShade-Improve-Roblox-With-Shaders-Windows",
+    "description": "Ultimate Bloxshade 2026: Improve Roblox with Shaders! Realistic lighting, shadows & ReShade. Boost graphics & FPS in any game. Best Roblox shaders pack! ",
+    "created_at": "2026-03-22T14:35:54Z",
+    "updated_at": "2026-03-23T16:03:31Z",
+    "pushed_at": "2026-03-22T14:56:54Z",
+    "git_url": "git://github.com/djdmboss/BloxShade-Improve-Roblox-With-Shaders-Windows.git",
+    "homepage": "",
+    "size": 36,
     "stargazers_count": 66,
     "watchers_count": 66,
-    "language": null,
-    "forks_count": 5,
+    "language": "C++",
+    "forks_count": 0,
     "open_issues_count": 0
   },
   {
@@ -1100,29 +1100,6 @@
     "stargazers_count": 66,
     "watchers_count": 66,
     "language": "Rust",
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1188751123,
-    "name": "BloxShade-Improve-Roblox-With-Shaders-Windows",
-    "owner": {
-      "id": 189444000,
-      "url": "https://api.github.com/users/djdmboss",
-      "html_url": "https://github.com/djdmboss",
-      "avatar_url": "https://avatars.githubusercontent.com/u/189444000?v=4"
-    },
-    "html_url": "https://github.com/djdmboss/BloxShade-Improve-Roblox-With-Shaders-Windows",
-    "description": "Ultimate Bloxshade 2026: Improve Roblox with Shaders! Realistic lighting, shadows & ReShade. Boost graphics & FPS in any game. Best Roblox shaders pack! ",
-    "created_at": "2026-03-22T14:35:54Z",
-    "updated_at": "2026-03-23T15:39:14Z",
-    "pushed_at": "2026-03-22T14:56:54Z",
-    "git_url": "git://github.com/djdmboss/BloxShade-Improve-Roblox-With-Shaders-Windows.git",
-    "homepage": "",
-    "size": 36,
-    "stargazers_count": 65,
-    "watchers_count": 65,
-    "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
   },
@@ -1265,29 +1242,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1188484451,
-    "name": "DigitalInheritance",
-    "owner": {
-      "id": 12063612,
-      "url": "https://api.github.com/users/z589533",
-      "html_url": "https://github.com/z589533",
-      "avatar_url": "https://avatars.githubusercontent.com/u/12063612?v=4"
-    },
-    "html_url": "https://github.com/z589533/DigitalInheritance",
-    "description": "数字继承史观",
-    "created_at": "2026-03-22T06:16:52Z",
-    "updated_at": "2026-03-23T15:57:55Z",
-    "pushed_at": "2026-03-23T15:57:49Z",
-    "git_url": "git://github.com/z589533/DigitalInheritance.git",
-    "homepage": null,
-    "size": 575,
-    "stargazers_count": 63,
-    "watchers_count": 63,
-    "language": null,
-    "forks_count": 5,
-    "open_issues_count": 0
-  },
-  {
     "id": 1188528281,
     "name": "WeClawBot-ex",
     "owner": {
@@ -1299,8 +1253,8 @@
     "html_url": "https://github.com/ImGoodBai/WeClawBot-ex",
     "description": "微信 ClawBot 官方版一次只能一个微信扫码用。    做了个开源扩展：支持多个微信同时扫码、同时登录、同时对话，带本地 Web 管理界面。",
     "created_at": "2026-03-22T07:50:36Z",
-    "updated_at": "2026-03-23T16:01:45Z",
-    "pushed_at": "2026-03-23T16:01:21Z",
+    "updated_at": "2026-03-23T16:09:14Z",
+    "pushed_at": "2026-03-23T16:09:09Z",
     "git_url": "git://github.com/ImGoodBai/WeClawBot-ex.git",
     "homepage": "",
     "size": 2210,
@@ -1403,29 +1357,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1188058210,
-    "name": "OpenMarketAgents",
-    "owner": {
-      "id": 263425398,
-      "url": "https://api.github.com/users/wring576v7k0",
-      "html_url": "https://github.com/wring576v7k0",
-      "avatar_url": "https://avatars.githubusercontent.com/u/263425398?v=4"
-    },
-    "html_url": "https://github.com/wring576v7k0/OpenMarketAgents",
-    "description": null,
-    "created_at": "2026-03-21T15:04:50Z",
-    "updated_at": "2026-03-23T13:09:30Z",
-    "pushed_at": "2026-03-21T15:07:38Z",
-    "git_url": "git://github.com/wring576v7k0/OpenMarketAgents.git",
-    "homepage": "",
-    "size": 6,
-    "stargazers_count": 58,
-    "watchers_count": 58,
-    "language": "Python",
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
     "id": 1188249786,
     "name": "Diyanet-Offline-Namaz-Vakitleri-Hesaplama",
     "owner": {
@@ -1446,6 +1377,52 @@
     "watchers_count": 57,
     "language": "HTML",
     "forks_count": 3,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1188058210,
+    "name": "OpenMarketAgents",
+    "owner": {
+      "id": 263425398,
+      "url": "https://api.github.com/users/wring576v7k0",
+      "html_url": "https://github.com/wring576v7k0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/263425398?v=4"
+    },
+    "html_url": "https://github.com/wring576v7k0/OpenMarketAgents",
+    "description": null,
+    "created_at": "2026-03-21T15:04:50Z",
+    "updated_at": "2026-03-23T16:08:16Z",
+    "pushed_at": "2026-03-21T15:07:38Z",
+    "git_url": "git://github.com/wring576v7k0/OpenMarketAgents.git",
+    "homepage": "",
+    "size": 6,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1189540594,
+    "name": "darksword-kexploit",
+    "owner": {
+      "id": 18235760,
+      "url": "https://api.github.com/users/opa334",
+      "html_url": "https://github.com/opa334",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18235760?v=4"
+    },
+    "html_url": "https://github.com/opa334/darksword-kexploit",
+    "description": "iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C (WIP)",
+    "created_at": "2026-03-23T12:29:29Z",
+    "updated_at": "2026-03-23T16:08:19Z",
+    "pushed_at": "2026-03-23T12:34:38Z",
+    "git_url": "git://github.com/opa334/darksword-kexploit.git",
+    "homepage": null,
+    "size": 6,
+    "stargazers_count": 56,
+    "watchers_count": 56,
+    "language": "Objective-C",
+    "forks_count": 1,
     "open_issues_count": 0
   },
   {
@@ -1584,29 +1561,6 @@
     "watchers_count": 54,
     "language": "TypeScript",
     "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1189540594,
-    "name": "darksword-kexploit",
-    "owner": {
-      "id": 18235760,
-      "url": "https://api.github.com/users/opa334",
-      "html_url": "https://github.com/opa334",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18235760?v=4"
-    },
-    "html_url": "https://github.com/opa334/darksword-kexploit",
-    "description": "iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C (WIP)",
-    "created_at": "2026-03-23T12:29:29Z",
-    "updated_at": "2026-03-23T15:55:07Z",
-    "pushed_at": "2026-03-23T12:34:38Z",
-    "git_url": "git://github.com/opa334/darksword-kexploit.git",
-    "homepage": null,
-    "size": 6,
-    "stargazers_count": 54,
-    "watchers_count": 54,
-    "language": "Objective-C",
-    "forks_count": 1,
     "open_issues_count": 0
   },
   {
@@ -2024,29 +1978,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1187741262,
-    "name": "zoom-pro",
-    "owner": {
-      "id": 257169642,
-      "url": "https://api.github.com/users/Nebulanihole",
-      "html_url": "https://github.com/Nebulanihole",
-      "avatar_url": "https://avatars.githubusercontent.com/u/257169642?v=4"
-    },
-    "html_url": "https://github.com/Nebulanihole/zoom-pro",
-    "description": "A premium communication solution that removes standard meeting limits, allowing for unlimited group sessions and high-definition video conferencing for up to 100 participants.",
-    "created_at": "2026-03-21T05:07:44Z",
-    "updated_at": "2026-03-23T06:03:28Z",
-    "pushed_at": "2026-03-21T05:08:08Z",
-    "git_url": "git://github.com/Nebulanihole/zoom-pro.git",
-    "homepage": "",
-    "size": 2,
-    "stargazers_count": 50,
-    "watchers_count": 50,
-    "language": null,
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
     "id": 1187738530,
     "name": "nukebot-v2",
     "owner": {
@@ -2061,6 +1992,29 @@
     "updated_at": "2026-03-23T06:03:27Z",
     "pushed_at": "2026-03-21T05:01:41Z",
     "git_url": "git://github.com/beatassurancemound/nukebot-v2.git",
+    "homepage": "",
+    "size": 2,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1187741262,
+    "name": "zoom-pro",
+    "owner": {
+      "id": 257169642,
+      "url": "https://api.github.com/users/Nebulanihole",
+      "html_url": "https://github.com/Nebulanihole",
+      "avatar_url": "https://avatars.githubusercontent.com/u/257169642?v=4"
+    },
+    "html_url": "https://github.com/Nebulanihole/zoom-pro",
+    "description": "A premium communication solution that removes standard meeting limits, allowing for unlimited group sessions and high-definition video conferencing for up to 100 participants.",
+    "created_at": "2026-03-21T05:07:44Z",
+    "updated_at": "2026-03-23T06:03:28Z",
+    "pushed_at": "2026-03-21T05:08:08Z",
+    "git_url": "git://github.com/Nebulanihole/zoom-pro.git",
     "homepage": "",
     "size": 2,
     "stargazers_count": 50,
@@ -2093,29 +2047,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1187811008,
-    "name": "best-hack-rust",
-    "owner": {
-      "id": 257170278,
-      "url": "https://api.github.com/users/RestInspection",
-      "html_url": "https://github.com/RestInspection",
-      "avatar_url": "https://avatars.githubusercontent.com/u/257170278?v=4"
-    },
-    "html_url": "https://github.com/RestInspection/best-hack-rust",
-    "description": "An elite all-in-one survival enhancement suite for Rust that integrates advanced ESP, silent aim, and automated resource gathering into a single stealth-optimized package.",
-    "created_at": "2026-03-21T07:40:00Z",
-    "updated_at": "2026-03-23T06:03:32Z",
-    "pushed_at": "2026-03-21T07:40:24Z",
-    "git_url": "git://github.com/RestInspection/best-hack-rust.git",
-    "homepage": "",
-    "size": 2,
-    "stargazers_count": 50,
-    "watchers_count": 50,
-    "language": null,
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
     "id": 1187662174,
     "name": "moomooiohack-2026",
     "owner": {
@@ -2130,6 +2061,29 @@
     "updated_at": "2026-03-23T06:03:21Z",
     "pushed_at": "2026-03-21T01:57:23Z",
     "git_url": "git://github.com/SorcererBarrier/moomooiohack-2026.git",
+    "homepage": "",
+    "size": 2,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1187673135,
+    "name": "quizlet-match-hack",
+    "owner": {
+      "id": 257168902,
+      "url": "https://api.github.com/users/knitchorddoor",
+      "html_url": "https://github.com/knitchorddoor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/257168902?v=4"
+    },
+    "html_url": "https://github.com/knitchorddoor/quizlet-match-hack",
+    "description": "Quizlet Match toolkit with automation features to complete match games faster and improve study efficiency on Quizlet.",
+    "created_at": "2026-03-21T02:19:10Z",
+    "updated_at": "2026-03-23T06:03:21Z",
+    "pushed_at": "2026-03-21T02:22:20Z",
+    "git_url": "git://github.com/knitchorddoor/quizlet-match-hack.git",
     "homepage": "",
     "size": 2,
     "stargazers_count": 50,
@@ -2162,20 +2116,20 @@
     "open_issues_count": 0
   },
   {
-    "id": 1187673135,
-    "name": "quizlet-match-hack",
+    "id": 1187811008,
+    "name": "best-hack-rust",
     "owner": {
-      "id": 257168902,
-      "url": "https://api.github.com/users/knitchorddoor",
-      "html_url": "https://github.com/knitchorddoor",
-      "avatar_url": "https://avatars.githubusercontent.com/u/257168902?v=4"
+      "id": 257170278,
+      "url": "https://api.github.com/users/RestInspection",
+      "html_url": "https://github.com/RestInspection",
+      "avatar_url": "https://avatars.githubusercontent.com/u/257170278?v=4"
     },
-    "html_url": "https://github.com/knitchorddoor/quizlet-match-hack",
-    "description": "Quizlet Match toolkit with automation features to complete match games faster and improve study efficiency on Quizlet.",
-    "created_at": "2026-03-21T02:19:10Z",
-    "updated_at": "2026-03-23T06:03:21Z",
-    "pushed_at": "2026-03-21T02:22:20Z",
-    "git_url": "git://github.com/knitchorddoor/quizlet-match-hack.git",
+    "html_url": "https://github.com/RestInspection/best-hack-rust",
+    "description": "An elite all-in-one survival enhancement suite for Rust that integrates advanced ESP, silent aim, and automated resource gathering into a single stealth-optimized package.",
+    "created_at": "2026-03-21T07:40:00Z",
+    "updated_at": "2026-03-23T06:03:32Z",
+    "pushed_at": "2026-03-21T07:40:24Z",
+    "git_url": "git://github.com/RestInspection/best-hack-rust.git",
     "homepage": "",
     "size": 2,
     "stargazers_count": 50,
@@ -2291,6 +2245,52 @@
     "updated_at": "2026-03-23T06:03:17Z",
     "pushed_at": "2026-03-20T23:57:47Z",
     "git_url": "git://github.com/PeltBullWalk/google-drive-pro-unlimited.git",
+    "homepage": "",
+    "size": 2,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1187648852,
+    "name": "AntiDetection-ProxyBrowser-2026",
+    "owner": {
+      "id": 257168441,
+      "url": "https://api.github.com/users/Creekzusquare",
+      "html_url": "https://github.com/Creekzusquare",
+      "avatar_url": "https://avatars.githubusercontent.com/u/257168441?v=4"
+    },
+    "html_url": "https://github.com/Creekzusquare/AntiDetection-ProxyBrowser-2026",
+    "description": "Privacy Shield Browser is a robust, open-source-based solution designed to help researchers, QA testers, and developers maintain session integrity across multiple isolated browser environments. With its intuitive interface and advanced digital fingerprinting management, it allows users to perform concurrent testing in segregated sandbox environment",
+    "created_at": "2026-03-21T01:16:51Z",
+    "updated_at": "2026-03-23T06:03:19Z",
+    "pushed_at": "2026-03-21T01:20:03Z",
+    "git_url": "git://github.com/Creekzusquare/AntiDetection-ProxyBrowser-2026.git",
+    "homepage": "",
+    "size": 2,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1187729940,
+    "name": "office-pro-premium",
+    "owner": {
+      "id": 257169543,
+      "url": "https://api.github.com/users/bodydreamzen",
+      "html_url": "https://github.com/bodydreamzen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/257169543?v=4"
+    },
+    "html_url": "https://github.com/bodydreamzen/office-pro-premium",
+    "description": "Office Pro Premium utility with productivity tools, document features and enhancements for a better Microsoft Office experience.",
+    "created_at": "2026-03-21T04:39:57Z",
+    "updated_at": "2026-03-23T06:03:26Z",
+    "pushed_at": "2026-03-21T04:41:01Z",
+    "git_url": "git://github.com/bodydreamzen/office-pro-premium.git",
     "homepage": "",
     "size": 2,
     "stargazers_count": 50,
