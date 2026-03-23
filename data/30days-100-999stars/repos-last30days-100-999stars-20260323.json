@@ -69,6 +69,29 @@
     "open_issues_count": 1
   },
   {
+    "id": 1175937361,
+    "name": "autoresearch-mlx",
+    "owner": {
+      "id": 259202195,
+      "url": "https://api.github.com/users/trevin-creator",
+      "html_url": "https://github.com/trevin-creator",
+      "avatar_url": "https://avatars.githubusercontent.com/u/259202195?v=4"
+    },
+    "html_url": "https://github.com/trevin-creator/autoresearch-mlx",
+    "description": "Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required.",
+    "created_at": "2026-03-08T11:46:25Z",
+    "updated_at": "2026-03-23T16:01:29Z",
+    "pushed_at": "2026-03-10T22:30:24Z",
+    "git_url": "git://github.com/trevin-creator/autoresearch-mlx.git",
+    "homepage": null,
+    "size": 51,
+    "stargazers_count": 979,
+    "watchers_count": 979,
+    "language": "Python",
+    "forks_count": 191,
+    "open_issues_count": 10
+  },
+  {
     "id": 1168261320,
     "name": "best-prompts",
     "owner": {
@@ -92,29 +115,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1175937361,
-    "name": "autoresearch-mlx",
-    "owner": {
-      "id": 259202195,
-      "url": "https://api.github.com/users/trevin-creator",
-      "html_url": "https://github.com/trevin-creator",
-      "avatar_url": "https://avatars.githubusercontent.com/u/259202195?v=4"
-    },
-    "html_url": "https://github.com/trevin-creator/autoresearch-mlx",
-    "description": "Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required.",
-    "created_at": "2026-03-08T11:46:25Z",
-    "updated_at": "2026-03-23T15:26:19Z",
-    "pushed_at": "2026-03-10T22:30:24Z",
-    "git_url": "git://github.com/trevin-creator/autoresearch-mlx.git",
-    "homepage": null,
-    "size": 51,
-    "stargazers_count": 978,
-    "watchers_count": 978,
-    "language": "Python",
-    "forks_count": 191,
-    "open_issues_count": 10
-  },
-  {
     "id": 1165855406,
     "name": "gitagent",
     "owner": {
@@ -126,13 +126,13 @@
     "html_url": "https://github.com/open-gitagent/gitagent",
     "description": "A framework-agnostic, git-native standard for defining AI agents",
     "created_at": "2026-02-24T16:08:24Z",
-    "updated_at": "2026-03-23T16:00:11Z",
+    "updated_at": "2026-03-23T16:01:49Z",
     "pushed_at": "2026-03-23T14:13:21Z",
     "git_url": "git://github.com/open-gitagent/gitagent.git",
     "homepage": "https://gitagent.sh",
     "size": 24577,
-    "stargazers_count": 976,
-    "watchers_count": 976,
+    "stargazers_count": 977,
+    "watchers_count": 977,
     "language": "TypeScript",
     "forks_count": 98,
     "open_issues_count": 19
@@ -334,7 +334,7 @@
     "description": "Open-Source Generative UI Framework",
     "created_at": "2026-03-12T20:40:06Z",
     "updated_at": "2026-03-23T15:34:52Z",
-    "pushed_at": "2026-03-23T12:45:55Z",
+    "pushed_at": "2026-03-23T16:02:53Z",
     "git_url": "git://github.com/CopilotKit/OpenGenerativeUI.git",
     "homepage": "",
     "size": 610,
@@ -379,13 +379,13 @@
     "html_url": "https://github.com/UniRound-Tec/Aurogen",
     "description": "\"Aurogen🍊: The Multi-Agent Evolution of OpenClaw.\"",
     "created_at": "2026-03-09T11:20:55Z",
-    "updated_at": "2026-03-23T14:48:40Z",
+    "updated_at": "2026-03-23T16:01:47Z",
     "pushed_at": "2026-03-21T01:59:20Z",
     "git_url": "git://github.com/UniRound-Tec/Aurogen.git",
     "homepage": "https://docs.aurogen.site/",
     "size": 18981,
-    "stargazers_count": 929,
-    "watchers_count": 929,
+    "stargazers_count": 930,
+    "watchers_count": 930,
     "language": "TypeScript",
     "forks_count": 241,
     "open_issues_count": 1
@@ -517,13 +517,13 @@
     "html_url": "https://github.com/mattprusak/autoresearch-genealogy",
     "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
     "created_at": "2026-03-18T17:57:50Z",
-    "updated_at": "2026-03-23T15:32:00Z",
+    "updated_at": "2026-03-23T16:03:08Z",
     "pushed_at": "2026-03-18T17:57:52Z",
     "git_url": "git://github.com/mattprusak/autoresearch-genealogy.git",
     "homepage": null,
     "size": 154,
-    "stargazers_count": 891,
-    "watchers_count": 891,
+    "stargazers_count": 892,
+    "watchers_count": 892,
     "language": null,
     "forks_count": 75,
     "open_issues_count": 4
@@ -607,7 +607,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/121472001?v=4"
     },
     "html_url": "https://github.com/LeoYeAI/openclaw-guardian",
-    "description": "����️ Guardian watchdog for OpenClaw Gateway — auto-monitor, self-repair via doctor --fix, git-based rollback, daily snapshots, and Discord alerts. Powered by MyClaw.ai",
+    "description": "🛡️ Guardian watchdog for OpenClaw Gateway — auto-monitor, self-repair via doctor --fix, git-based rollback, daily snapshots, and Discord alerts. Powered by MyClaw.ai",
     "created_at": "2026-03-02T01:51:35Z",
     "updated_at": "2026-03-23T14:25:57Z",
     "pushed_at": "2026-03-02T13:38:57Z",
@@ -874,6 +874,29 @@
     "open_issues_count": 13
   },
   {
+    "id": 1176128802,
+    "name": "claude-statusline",
+    "owner": {
+      "id": 4921183,
+      "url": "https://api.github.com/users/kamranahmedse",
+      "html_url": "https://github.com/kamranahmedse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4921183?v=4"
+    },
+    "html_url": "https://github.com/kamranahmedse/claude-statusline",
+    "description": "Minimal Claude Code statusline setup I personally use",
+    "created_at": "2026-03-08T16:53:33Z",
+    "updated_at": "2026-03-23T16:02:07Z",
+    "pushed_at": "2026-03-22T21:52:26Z",
+    "git_url": "git://github.com/kamranahmedse/claude-statusline.git",
+    "homepage": "",
+    "size": 43,
+    "stargazers_count": 824,
+    "watchers_count": 824,
+    "language": "Shell",
+    "forks_count": 52,
+    "open_issues_count": 7
+  },
+  {
     "id": 1180464097,
     "name": "meta-lobbying-and-other-findings",
     "owner": {
@@ -894,29 +917,6 @@
     "watchers_count": 824,
     "language": "HTML",
     "forks_count": 80,
-    "open_issues_count": 7
-  },
-  {
-    "id": 1176128802,
-    "name": "claude-statusline",
-    "owner": {
-      "id": 4921183,
-      "url": "https://api.github.com/users/kamranahmedse",
-      "html_url": "https://github.com/kamranahmedse",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4921183?v=4"
-    },
-    "html_url": "https://github.com/kamranahmedse/claude-statusline",
-    "description": "Minimal Claude Code statusline setup I personally use",
-    "created_at": "2026-03-08T16:53:33Z",
-    "updated_at": "2026-03-23T15:44:42Z",
-    "pushed_at": "2026-03-22T21:52:26Z",
-    "git_url": "git://github.com/kamranahmedse/claude-statusline.git",
-    "homepage": "",
-    "size": 43,
-    "stargazers_count": 822,
-    "watchers_count": 822,
-    "language": "Shell",
-    "forks_count": 52,
     "open_issues_count": 7
   },
   {
@@ -1280,7 +1280,7 @@
     "pushed_at": "2026-03-23T15:01:26Z",
     "git_url": "git://github.com/frank890417/taiwan-md.git",
     "homepage": "https://taiwan.md",
-    "size": 80981,
+    "size": 80965,
     "stargazers_count": 785,
     "watchers_count": 785,
     "language": "Astro",
@@ -1414,15 +1414,15 @@
     "html_url": "https://github.com/nexu-io/nexu",
     "description": "The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, local-first, chat from your phone 24/7.",
     "created_at": "2026-02-25T02:47:19Z",
-    "updated_at": "2026-03-23T15:49:32Z",
+    "updated_at": "2026-03-23T16:02:59Z",
     "pushed_at": "2026-03-23T15:50:22Z",
     "git_url": "git://github.com/nexu-io/nexu.git",
     "homepage": "https://nexu.io",
     "size": 92447,
-    "stargazers_count": 763,
-    "watchers_count": 763,
+    "stargazers_count": 764,
+    "watchers_count": 764,
     "language": "TypeScript",
-    "forks_count": 48,
+    "forks_count": 49,
     "open_issues_count": 37
   },
   {
@@ -1483,13 +1483,13 @@
     "html_url": "https://github.com/ghostty-org/ghostling",
     "description": "A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣",
     "created_at": "2026-03-20T19:31:34Z",
-    "updated_at": "2026-03-23T15:58:46Z",
+    "updated_at": "2026-03-23T16:03:13Z",
     "pushed_at": "2026-03-22T13:49:33Z",
     "git_url": "git://github.com/ghostty-org/ghostling.git",
     "homepage": "",
     "size": 1560,
-    "stargazers_count": 749,
-    "watchers_count": 749,
+    "stargazers_count": 750,
+    "watchers_count": 750,
     "language": "C",
     "forks_count": 21,
     "open_issues_count": 1
@@ -1690,13 +1690,13 @@
     "html_url": "https://github.com/wong2/weixin-agent-sdk",
     "description": null,
     "created_at": "2026-03-22T03:57:01Z",
-    "updated_at": "2026-03-23T15:58:14Z",
+    "updated_at": "2026-03-23T16:02:49Z",
     "pushed_at": "2026-03-23T05:39:56Z",
     "git_url": "git://github.com/wong2/weixin-agent-sdk.git",
     "homepage": null,
     "size": 82,
-    "stargazers_count": 724,
-    "watchers_count": 724,
+    "stargazers_count": 723,
+    "watchers_count": 723,
     "language": "TypeScript",
     "forks_count": 80,
     "open_issues_count": 7
@@ -1978,6 +1978,29 @@
     "open_issues_count": 0
   },
   {
+    "id": 1183645536,
+    "name": "kimodo",
+    "owner": {
+      "id": 49653101,
+      "url": "https://api.github.com/users/nv-tlabs",
+      "html_url": "https://github.com/nv-tlabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49653101?v=4"
+    },
+    "html_url": "https://github.com/nv-tlabs/kimodo",
+    "description": "Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation.",
+    "created_at": "2026-03-16T20:19:30Z",
+    "updated_at": "2026-03-23T16:02:27Z",
+    "pushed_at": "2026-03-20T23:24:46Z",
+    "git_url": "git://github.com/nv-tlabs/kimodo.git",
+    "homepage": "",
+    "size": 42816,
+    "stargazers_count": 668,
+    "watchers_count": 668,
+    "language": "Python",
+    "forks_count": 40,
+    "open_issues_count": 6
+  },
+  {
     "id": 1188049269,
     "name": "codex-console",
     "owner": {
@@ -1999,29 +2022,6 @@
     "language": "Python",
     "forks_count": 470,
     "open_issues_count": 14
-  },
-  {
-    "id": 1183645536,
-    "name": "kimodo",
-    "owner": {
-      "id": 49653101,
-      "url": "https://api.github.com/users/nv-tlabs",
-      "html_url": "https://github.com/nv-tlabs",
-      "avatar_url": "https://avatars.githubusercontent.com/u/49653101?v=4"
-    },
-    "html_url": "https://github.com/nv-tlabs/kimodo",
-    "description": "Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation.",
-    "created_at": "2026-03-16T20:19:30Z",
-    "updated_at": "2026-03-23T15:39:41Z",
-    "pushed_at": "2026-03-20T23:24:46Z",
-    "git_url": "git://github.com/nv-tlabs/kimodo.git",
-    "homepage": "",
-    "size": 42816,
-    "stargazers_count": 666,
-    "watchers_count": 666,
-    "language": "Python",
-    "forks_count": 40,
-    "open_issues_count": 6
   },
   {
     "id": 1184985738,
@@ -2081,13 +2081,13 @@
     "html_url": "https://github.com/wangziqi06/724-office",
     "description": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
     "created_at": "2026-03-17T05:56:13Z",
-    "updated_at": "2026-03-23T15:56:50Z",
+    "updated_at": "2026-03-23T16:02:37Z",
     "pushed_at": "2026-03-17T05:56:17Z",
     "git_url": "git://github.com/wangziqi06/724-office.git",
     "homepage": null,
     "size": 43,
-    "stargazers_count": 664,
-    "watchers_count": 664,
+    "stargazers_count": 665,
+    "watchers_count": 665,
     "language": "Python",
     "forks_count": 75,
     "open_issues_count": 3

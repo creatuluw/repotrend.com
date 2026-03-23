@@ -23,6 +23,29 @@
     "open_issues_count": 0
   },
   {
+    "id": 1189664719,
+    "name": "auto-discord-quest-completer",
+    "owner": {
+      "id": 255568577,
+      "url": "https://api.github.com/users/deadmorosebeaver5",
+      "html_url": "https://github.com/deadmorosebeaver5",
+      "avatar_url": "https://avatars.githubusercontent.com/u/255568577?v=4"
+    },
+    "html_url": "https://github.com/deadmorosebeaver5/auto-discord-quest-completer",
+    "description": "Auto Discord Quest Completer is a high-performance tool for instant reward claims. It features automated stream simulation and quest tracking for seamless, one-click badge and gift unlocking.",
+    "created_at": "2026-03-23T14:47:39Z",
+    "updated_at": "2026-03-23T16:02:53Z",
+    "pushed_at": "2026-03-23T14:50:38Z",
+    "git_url": "git://github.com/deadmorosebeaver5/auto-discord-quest-completer.git",
+    "homepage": "",
+    "size": 7,
+    "stargazers_count": 94,
+    "watchers_count": 94,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
     "id": 1187884745,
     "name": "toolpick",
     "owner": {
@@ -57,39 +80,16 @@
     "html_url": "https://github.com/Wechat-ggGitHub/wechat-claude-code",
     "description": "Chat with Claude Code from WeChat - a Claude Code Skill",
     "created_at": "2026-03-22T15:16:14Z",
-    "updated_at": "2026-03-23T15:33:29Z",
-    "pushed_at": "2026-03-23T08:30:41Z",
+    "updated_at": "2026-03-23T16:02:49Z",
+    "pushed_at": "2026-03-23T16:03:04Z",
     "git_url": "git://github.com/Wechat-ggGitHub/wechat-claude-code.git",
     "homepage": null,
     "size": 57,
-    "stargazers_count": 91,
-    "watchers_count": 91,
+    "stargazers_count": 90,
+    "watchers_count": 90,
     "language": "TypeScript",
     "forks_count": 32,
     "open_issues_count": 7
-  },
-  {
-    "id": 1189664719,
-    "name": "auto-discord-quest-completer",
-    "owner": {
-      "id": 255568577,
-      "url": "https://api.github.com/users/deadmorosebeaver5",
-      "html_url": "https://github.com/deadmorosebeaver5",
-      "avatar_url": "https://avatars.githubusercontent.com/u/255568577?v=4"
-    },
-    "html_url": "https://github.com/deadmorosebeaver5/auto-discord-quest-completer",
-    "description": "Auto Discord Quest Completer is a high-performance tool for instant reward claims. It features automated stream simulation and quest tracking for seamless, one-click badge and gift unlocking.",
-    "created_at": "2026-03-23T14:47:39Z",
-    "updated_at": "2026-03-23T16:00:28Z",
-    "pushed_at": "2026-03-23T14:50:38Z",
-    "git_url": "git://github.com/deadmorosebeaver5/auto-discord-quest-completer.git",
-    "homepage": "",
-    "size": 7,
-    "stargazers_count": 91,
-    "watchers_count": 91,
-    "language": null,
-    "forks_count": 0,
-    "open_issues_count": 0
   },
   {
     "id": 1189287055,
@@ -483,6 +483,29 @@
     "open_issues_count": 0
   },
   {
+    "id": 1189033239,
+    "name": "harness-100",
+    "owner": {
+      "id": 2889542,
+      "url": "https://api.github.com/users/revfactory",
+      "html_url": "https://github.com/revfactory",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2889542?v=4"
+    },
+    "html_url": "https://github.com/revfactory/harness-100",
+    "description": null,
+    "created_at": "2026-03-22T22:41:15Z",
+    "updated_at": "2026-03-23T16:01:00Z",
+    "pushed_at": "2026-03-22T22:42:10Z",
+    "git_url": "git://github.com/revfactory/harness-100.git",
+    "homepage": null,
+    "size": 3360,
+    "stargazers_count": 76,
+    "watchers_count": 76,
+    "language": null,
+    "forks_count": 32,
+    "open_issues_count": 0
+  },
+  {
     "id": 1186907729,
     "name": "BioReason-Pro",
     "owner": {
@@ -573,29 +596,6 @@
     "language": "Python",
     "forks_count": 9,
     "open_issues_count": 1
-  },
-  {
-    "id": 1189033239,
-    "name": "harness-100",
-    "owner": {
-      "id": 2889542,
-      "url": "https://api.github.com/users/revfactory",
-      "html_url": "https://github.com/revfactory",
-      "avatar_url": "https://avatars.githubusercontent.com/u/2889542?v=4"
-    },
-    "html_url": "https://github.com/revfactory/harness-100",
-    "description": null,
-    "created_at": "2026-03-22T22:41:15Z",
-    "updated_at": "2026-03-23T15:47:55Z",
-    "pushed_at": "2026-03-22T22:42:10Z",
-    "git_url": "git://github.com/revfactory/harness-100.git",
-    "homepage": null,
-    "size": 3360,
-    "stargazers_count": 75,
-    "watchers_count": 75,
-    "language": null,
-    "forks_count": 32,
-    "open_issues_count": 0
   },
   {
     "id": 1187996178,
@@ -805,6 +805,29 @@
     "open_issues_count": 0
   },
   {
+    "id": 1187150337,
+    "name": "awesome-autoresearch",
+    "owner": {
+      "id": 204474669,
+      "url": "https://api.github.com/users/alvinunreal",
+      "html_url": "https://github.com/alvinunreal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/204474669?v=4"
+    },
+    "html_url": "https://github.com/alvinunreal/awesome-autoresearch",
+    "description": "A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch.",
+    "created_at": "2026-03-20T11:55:51Z",
+    "updated_at": "2026-03-23T16:03:16Z",
+    "pushed_at": "2026-03-23T12:18:34Z",
+    "git_url": "git://github.com/alvinunreal/awesome-autoresearch.git",
+    "homepage": null,
+    "size": 14,
+    "stargazers_count": 72,
+    "watchers_count": 72,
+    "language": null,
+    "forks_count": 4,
+    "open_issues_count": 1
+  },
+  {
     "id": 1188905362,
     "name": "Ladder",
     "owner": {
@@ -874,6 +897,29 @@
     "open_issues_count": 1
   },
   {
+    "id": 1188660860,
+    "name": "katmer-code",
+    "owner": {
+      "id": 91309341,
+      "url": "https://api.github.com/users/hkcanan",
+      "html_url": "https://github.com/hkcanan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91309341?v=4"
+    },
+    "html_url": "https://github.com/hkcanan/katmer-code",
+    "description": "Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support",
+    "created_at": "2026-03-22T12:08:26Z",
+    "updated_at": "2026-03-23T16:02:32Z",
+    "pushed_at": "2026-03-23T14:10:15Z",
+    "git_url": "git://github.com/hkcanan/katmer-code.git",
+    "homepage": null,
+    "size": 3918,
+    "stargazers_count": 69,
+    "watchers_count": 69,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 0
+  },
+  {
     "id": 1186996982,
     "name": "pm-workspace-wizard",
     "owner": {
@@ -894,52 +940,6 @@
     "watchers_count": 69,
     "language": null,
     "forks_count": 12,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1187150337,
-    "name": "awesome-autoresearch",
-    "owner": {
-      "id": 204474669,
-      "url": "https://api.github.com/users/alvinunreal",
-      "html_url": "https://github.com/alvinunreal",
-      "avatar_url": "https://avatars.githubusercontent.com/u/204474669?v=4"
-    },
-    "html_url": "https://github.com/alvinunreal/awesome-autoresearch",
-    "description": "A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch.",
-    "created_at": "2026-03-20T11:55:51Z",
-    "updated_at": "2026-03-23T15:50:03Z",
-    "pushed_at": "2026-03-23T12:18:34Z",
-    "git_url": "git://github.com/alvinunreal/awesome-autoresearch.git",
-    "homepage": null,
-    "size": 14,
-    "stargazers_count": 68,
-    "watchers_count": 68,
-    "language": null,
-    "forks_count": 4,
-    "open_issues_count": 1
-  },
-  {
-    "id": 1188660860,
-    "name": "katmer-code",
-    "owner": {
-      "id": 91309341,
-      "url": "https://api.github.com/users/hkcanan",
-      "html_url": "https://github.com/hkcanan",
-      "avatar_url": "https://avatars.githubusercontent.com/u/91309341?v=4"
-    },
-    "html_url": "https://github.com/hkcanan/katmer-code",
-    "description": "Claude Code inside Obsidian — academic research skills, inline diff editing, MCP support",
-    "created_at": "2026-03-22T12:08:26Z",
-    "updated_at": "2026-03-23T14:10:15Z",
-    "pushed_at": "2026-03-23T14:10:15Z",
-    "git_url": "git://github.com/hkcanan/katmer-code.git",
-    "homepage": null,
-    "size": 3918,
-    "stargazers_count": 68,
-    "watchers_count": 68,
-    "language": "TypeScript",
-    "forks_count": 3,
     "open_issues_count": 0
   },
   {
@@ -1299,8 +1299,8 @@
     "html_url": "https://github.com/ImGoodBai/WeClawBot-ex",
     "description": "微信 ClawBot 官方版一次只能一个微信扫码用。    做了个开源扩展：支持多个微信同时扫码、同时登录、同时对话，带本地 Web 管理界面。",
     "created_at": "2026-03-22T07:50:36Z",
-    "updated_at": "2026-03-23T15:38:00Z",
-    "pushed_at": "2026-03-23T13:12:49Z",
+    "updated_at": "2026-03-23T16:01:45Z",
+    "pushed_at": "2026-03-23T16:01:21Z",
     "git_url": "git://github.com/ImGoodBai/WeClawBot-ex.git",
     "homepage": "",
     "size": 2210,
