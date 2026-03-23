@@ -1,0 +1,674 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>GitHub Repo Grid Ranking</title>
+        <style>
+            :root {
+                --bg-color: #0d1117;
+                --card-bg: #161b22;
+                --border-color: #30363d;
+                --text-main: #c9d1d9;
+                --text-muted: #8b949e;
+                --accent-blue: #58a6ff;
+                --accent-gold: #e3b341;
+                --accent-green: #3fb950;
+            }
+
+            body {
+                font-family:
+                    -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans",
+                    Helvetica, Arial, sans-serif;
+                background-color: var(--bg-color);
+                color: var(--text-main);
+                margin: 0;
+                padding: 0;
+                line-height: 1.5;
+            }
+
+            .container {
+                max-width: 1200px;
+                margin: 40px auto;
+                padding: 0 20px;
+            }
+
+            header {
+                text-align: center;
+                margin-bottom: 50px;
+            }
+
+            h1 {
+                font-size: 2.5rem;
+                font-weight: 600;
+                margin-bottom: 10px;
+                background: linear-gradient(
+                    to right,
+                    var(--accent-blue),
+                    var(--accent-green)
+                );
+                -webkit-background-clip: text;
+                -webkit-text-fill-color: transparent;
+            }
+
+            p.subtitle {
+                color: var(--text-muted);
+                font-size: 1.1rem;
+            }
+
+            /* --- GRID LAYOUT --- */
+            #leaderboard {
+                display: grid;
+                grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+                gap: 24px;
+            }
+
+            /* --- CARD STYLES --- */
+            .repo-card {
+                background-color: var(--card-bg);
+                border: 1px solid var(--border-color);
+                border-radius: 8px;
+                padding: 20px;
+                display: flex;
+                flex-direction: column;
+                position: relative;
+                transition:
+                    transform 0.2s,
+                    border-color 0.2s,
+                    box-shadow 0.2s;
+                height: 100%;
+                box-sizing: border-box;
+            }
+
+            .repo-card:hover {
+                border-color: var(--accent-blue);
+                transform: translateY(-4px);
+                box-shadow: 0 12px 28px rgba(0, 0, 0, 0.3);
+            }
+
+            /* Rank Badge */
+            .rank-badge {
+                position: absolute;
+                top: -10px;
+                right: 12px;
+                background-color: var(--border-color);
+                color: var(--text-muted);
+                font-weight: 700;
+                font-size: 0.9rem;
+                padding: 4px 10px;
+                border-radius: 12px;
+                border: 1px solid var(--bg-color);
+                z-index: 1;
+            }
+
+            /* Gold/Silver/Bronze Highlights */
+            .repo-card.rank-1 {
+                border-top: 3px solid var(--accent-gold);
+            }
+            .repo-card.rank-1 .rank-badge {
+                background-color: var(--accent-gold);
+                color: #000;
+            }
+
+            .repo-card.rank-2 {
+                border-top: 3px solid #a8a8a8;
+            }
+            .repo-card.rank-2 .rank-badge {
+                background-color: #a8a8a8;
+                color: #000;
+            }
+
+            .repo-card.rank-3 {
+                border-top: 3px solid #cd7f32;
+            }
+            .repo-card.rank-3 .rank-badge {
+                background-color: #cd7f32;
+                color: #000;
+            }
+
+            /* Card Header */
+            .card-header {
+                display: flex;
+                align-items: center;
+                margin-bottom: 12px;
+                margin-top: 5px;
+            }
+
+            .repo-avatar {
+                width: 32px;
+                height: 32px;
+                border-radius: 50%;
+                margin-right: 12px;
+                border: 2px solid var(--border-color);
+            }
+
+            .owner-name {
+                font-size: 0.9rem;
+                color: var(--text-muted);
+            }
+
+            .repo-name {
+                font-size: 1.1rem;
+                font-weight: 600;
+                color: var(--accent-blue);
+                text-decoration: none;
+                display: block;
+                margin-bottom: 8px;
+            }
+
+            .repo-name:hover {
+                text-decoration: underline;
+            }
+
+            /* Description */
+            .repo-desc {
+                color: var(--text-main);
+                font-size: 0.9rem;
+                flex-grow: 1;
+                margin-bottom: 16px;
+                line-height: 1.4;
+                display: -webkit-box;
+                -webkit-line-clamp: 3;
+                -webkit-box-orient: vertical;
+                overflow: hidden;
+            }
+
+            /* Topics */
+            .topics-container {
+                display: flex;
+                flex-wrap: wrap;
+                gap: 6px;
+                margin-bottom: 16px;
+                min-height: 26px;
+            }
+
+            .topic-tag {
+                background-color: rgba(56, 139, 253, 0.1);
+                color: #58a6ff;
+                padding: 2px 8px;
+                border-radius: 12px;
+                font-size: 0.7rem;
+                font-weight: 500;
+            }
+
+            /* Card Footer */
+            .card-footer {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                border-top: 1px solid var(--border-color);
+                padding-top: 12px;
+                margin-top: auto;
+                flex-wrap: wrap;
+                gap: 10px;
+            }
+
+            .meta {
+                display: flex;
+                gap: 12px;
+                font-size: 0.85rem;
+                color: var(--text-muted);
+            }
+
+            .meta-item {
+                display: flex;
+                align-items: center;
+                gap: 4px;
+            }
+
+            .lang-dot {
+                height: 10px;
+                width: 10px;
+                border-radius: 50%;
+                display: inline-block;
+            }
+
+            /* --- BLUESKY BUTTON STYLE (from user snippet) --- */
+            .bsky-share-btn {
+                display: inline-flex;
+                align-items: center;
+                gap: 0.4rem;
+                padding: 0.4rem 0.7rem;
+                border-radius: 999px;
+                background: #1185fe;
+                color: #fff;
+                text-decoration: none;
+                font-size: 0.8rem;
+                font-weight: 500;
+                white-space: nowrap;
+                transition: opacity 0.2s;
+            }
+
+            .bsky-share-btn:hover {
+                opacity: 0.9;
+                color: #fff;
+            }
+
+            .bsky-share-btn svg {
+                width: 1em;
+                height: 1em;
+            }
+
+            .bsky-share-btn svg path {
+                fill: #fff;
+            }
+
+            /* Language Colors */
+            .lang-Python {
+                background-color: #3572a5;
+            }
+            .lang-C {
+                background-color: #555555;
+            }
+            .lang-Swift {
+                background-color: #f05138;
+            }
+            .lang-HTML {
+                background-color: #e34c26;
+            }
+            .lang-TypeScript {
+                background-color: #3178c6;
+            }
+            .lang-JavaScript {
+                background-color: #f1e05a;
+            }
+            .lang-Go {
+                background-color: #00add8;
+            }
+            .lang-Rust {
+                background-color: #dea584;
+            }
+            .lang-default {
+                background-color: #8b949e;
+            }
+
+            /* Generic Icons */
+            .icon {
+                fill: currentColor;
+                height: 16px;
+                width: 16px;
+                vertical-align: text-bottom;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <header>
+                <h1>Repo Leaderboard</h1>
+                <p class="subtitle">
+                    Top repositories ranked by community stars
+                </p>
+            </header>
+
+            <div id="leaderboard">
+                <!-- Content generated by JS -->
+            </div>
+        </div>
+
+        <script>
+            // JSON Data
+            const rawData = {
+                total_count: 11,
+                items: [
+                    {
+                        id: 1162099055,
+                        name: "taste-skill",
+                        full_name: "Leonxlnx/taste-skill",
+                        owner: {
+                            login: "Leonxlnx",
+                            avatar_url:
+                                "https://avatars.githubusercontent.com/u/219127460?v=4",
+                        },
+                        html_url: "https://github.com/Leonxlnx/taste-skill",
+                        description:
+                            'Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop"',
+                        stargazers_count: 4249,
+                        forks_count: 359,
+                        language: null,
+                        topics: [
+                            "agent",
+                            "ai",
+                            "coding",
+                            "lowcode",
+                            "nocode",
+                            "skill",
+                            "skills",
+                            "vibecoding",
+                        ],
+                    },
+                    {
+                        id: 1161318197,
+                        name: "picolm",
+                        full_name: "RightNow-AI/picolm",
+                        owner: {
+                            login: "RightNow-AI",
+                            avatar_url:
+                                "https://avatars.githubusercontent.com/u/226207176?v=4",
+                        },
+                        html_url: "https://github.com/RightNow-AI/picolm",
+                        description:
+                            "Run a 1-billion parameter LLM on a $10 board with 256MB RAM",
+                        stargazers_count: 1409,
+                        forks_count: 166,
+                        language: "C",
+                        topics: [
+                            "arm",
+                            "embedded",
+                            "inference",
+                            "llm",
+                            "openclaw",
+                            "picoclaw",
+                            "quantization",
+                            "raspberry-pi",
+                            "risc-v",
+                        ],
+                    },
+                    {
+                        id: 1161394125,
+                        name: "ghost-os",
+                        full_name: "ghostwright/ghost-os",
+                        owner: {
+                            login: "ghostwright",
+                            avatar_url:
+                                "https://avatars.githubusercontent.com/u/262488619?v=4",
+                        },
+                        html_url: "https://github.com/ghostwright/ghost-os",
+                        description:
+                            "Full computer-use for AI agents. Self-learning workflows. Native macOS. No screenshots required.",
+                        stargazers_count: 1096,
+                        forks_count: 97,
+                        language: "Swift",
+                        topics: [
+                            "accessibility",
+                            "ai-agents",
+                            "automation",
+                            "claude-code",
+                            "computer-use",
+                            "llm-tools",
+                            "macos",
+                            "mcp",
+                            "recipes",
+                            "swift",
+                        ],
+                    },
+                    {
+                        id: 1161415745,
+                        name: "apple-silicon-accelerometer",
+                        full_name: "olvvier/apple-silicon-accelerometer",
+                        owner: {
+                            login: "olvvier",
+                            avatar_url:
+                                "https://avatars.githubusercontent.com/u/45577527?v=4",
+                        },
+                        html_url:
+                            "https://github.com/olvvier/apple-silicon-accelerometer",
+                        description:
+                            "reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid",
+                        stargazers_count: 996,
+                        forks_count: 49,
+                        language: "Python",
+                        topics: [
+                            "accelerometer",
+                            "apple",
+                            "applespu",
+                            "gyroscope",
+                            "hid",
+                            "iokit",
+                            "m2",
+                            "m3",
+                            "m4",
+                            "macbook",
+                            "macos",
+                            "mems",
+                            "research",
+                            "sensor",
+                            "spu",
+                        ],
+                    },
+                    {
+                        id: 1161785306,
+                        name: "awesome-openclaw-usecases-moltbook",
+                        full_name:
+                            "EvoLinkAI/awesome-openclaw-usecases-moltbook",
+                        owner: {
+                            login: "EvoLinkAI",
+                            avatar_url:
+                                "https://avatars.githubusercontent.com/u/253253881?v=4",
+                        },
+                        html_url:
+                            "https://github.com/EvoLinkAI/awesome-openclaw-usecases-moltbook",
+                        description:
+                            "70 real-world OpenClaw use cases from the Moltbook community. Everyday life, automation, data analysis, security & more.",
+                        stargazers_count: 859,
+                        forks_count: 92,
+                        language: null,
+                        topics: ["awesome", "openclaw"],
+                    },
+                    {
+                        id: 1161523102,
+                        name: "Nova-Proxy",
+                        full_name: "IRNova/Nova-Proxy",
+                        owner: {
+                            login: "IRNova",
+                            avatar_url:
+                                "https://avatars.githubusercontent.com/u/226289179?v=4",
+                        },
+                        html_url: "https://github.com/IRNova/Nova-Proxy",
+                        description:
+                            "یک پنل گرافیکی کاربردی برای ارائه اشتراک‌های Worker با پروکسی‌های ، Trojan و Warp...",
+                        stargazers_count: 674,
+                        forks_count: 105,
+                        language: "HTML",
+                        topics: [],
+                    },
+                    {
+                        id: 1161940285,
+                        name: "room",
+                        full_name: "quoroom-ai/room",
+                        owner: {
+                            login: "quoroom-ai",
+                            avatar_url:
+                                "https://avatars.githubusercontent.com/u/262635923?v=4",
+                        },
+                        html_url: "https://github.com/quoroom-ai/room",
+                        description:
+                            "Open-source earning-focused swarm intelligence engine. Self-governing AI collectives...",
+                        stargazers_count: 642,
+                        forks_count: 21,
+                        language: "TypeScript",
+                        topics: [
+                            "ai",
+                            "automaton",
+                            "claude",
+                            "claudecode",
+                            "giminiapi",
+                            "linux",
+                            "llm",
+                            "macos",
+                            "openclaw",
+                            "windows",
+                        ],
+                    },
+                    {
+                        id: 1161355400,
+                        name: "openclaw-docs",
+                        full_name: "yeuxuan/openclaw-docs",
+                        owner: {
+                            login: "yeuxuan",
+                            avatar_url:
+                                "https://avatars.githubusercontent.com/u/77331948?v=4",
+                        },
+                        html_url: "https://github.com/yeuxuan/openclaw-docs",
+                        description:
+                            "OpenClaw 中文文档站 | AI 智能体框架 源码剖析 安装教程 | WhatsApp Telegram Discord 飞书 多通道机器人",
+                        stargazers_count: 580,
+                        forks_count: 81,
+                        language: "JavaScript",
+                        topics: [
+                            "ai-agent",
+                            "chinese",
+                            "clawdbot",
+                            "documentation",
+                            "llm",
+                            "multi-channel",
+                            "openclaw",
+                        ],
+                    },
+                    {
+                        id: 1161720369,
+                        name: "VMkatz",
+                        full_name: "nikaiw/VMkatz",
+                        owner: {
+                            login: "nikaiw",
+                            avatar_url:
+                                "https://avatars.githubusercontent.com/u/1255732?v=4",
+                        },
+                        html_url: "https://github.com/nikaiw/VMkatz",
+                        description:
+                            "Extract Windows credentials directly from VM memory snapshots and virtual disks",
+                        stargazers_count: 564,
+                        forks_count: 40,
+                        language: "Rust",
+                        topics: [
+                            "esxi",
+                            "lsass",
+                            "mimikatz",
+                            "ntlm",
+                            "offensive-security",
+                            "post-exploitation",
+                        ],
+                    },
+                    {
+                        id: 1162021647,
+                        name: "agentsview",
+                        full_name: "wesm/agentsview",
+                        owner: {
+                            login: "wesm",
+                            avatar_url:
+                                "https://avatars.githubusercontent.com/u/329591?v=4",
+                        },
+                        html_url: "https://github.com/wesm/agentsview",
+                        description:
+                            "A local-first desktop and web application for browsing, searching, and analyzing AI agent coding sessions...",
+                        stargazers_count: 543,
+                        forks_count: 63,
+                        language: "Go",
+                        topics: [],
+                    },
+                    {
+                        id: 1161896420,
+                        name: "value-realization",
+                        full_name: "Done-0/value-realization",
+                        owner: {
+                            login: "Done-0",
+                            avatar_url:
+                                "https://avatars.githubusercontent.com/u/168193380?v=4",
+                        },
+                        html_url: "https://github.com/Done-0/value-realization",
+                        description:
+                            "Evaluate product ideas by analyzing whether end users will discover clear value...",
+                        stargazers_count: 501,
+                        forks_count: 47,
+                        language: null,
+                        topics: [],
+                    },
+                ],
+            };
+
+            // Helpers
+            const formatNumber = (num) =>
+                num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+            const getLangClass = (lang) => {
+                if (!lang) return "lang-default";
+                if (lang === "C") return "lang-C";
+                return `lang-${lang}`;
+            };
+
+            // Sort Data
+            const sortedItems = rawData.items.sort(
+                (a, b) => b.stargazers_count - a.stargazers_count,
+            );
+            const container = document.getElementById("leaderboard");
+
+            // Render Grid
+            sortedItems.forEach((repo, index) => {
+                const rank = index + 1;
+                let rankClass = "";
+                if (rank <= 3) rankClass = `rank-${rank}`;
+
+                const card = document.createElement("div");
+                card.className = `repo-card ${rankClass}`;
+
+                // Prepare Topics
+                const topicsHtml =
+                    repo.topics.length > 0
+                        ? `<div class="topics-container">${repo.topics
+                              .slice(0, 4)
+                              .map((t) => `<span class="topic-tag">${t}</span>`)
+                              .join("")}</div>`
+                        : '<div class="topics-container"></div>';
+
+                // Prepare Bluesky Share URL
+                // Format: "Check out "Repo Name": Link"
+                const shareText = `Check out "${repo.name}": ${repo.html_url}`;
+                const shareUrl = `https://bsky.app/intent/compose?text=${encodeURIComponent(shareText)}`;
+
+                card.innerHTML = `
+                <div class="rank-badge">#${rank}</div>
+
+                <div class="card-header">
+                    <img src="${repo.owner.avatar_url}" alt="${repo.owner.login}" class="repo-avatar">
+                    <span class="owner-name">${repo.owner.login}</span>
+                </div>
+
+                <a href="${repo.html_url}" target="_blank" class="repo-name">${repo.name}</a>
+
+                <p class="repo-desc">${repo.description || "No description provided."}</p>
+
+                ${topicsHtml}
+
+                <div class="card-footer">
+                    <div class="meta">
+                        <div class="meta-item">
+                            <svg class="icon" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path></svg>
+                            ${formatNumber(repo.stargazers_count)}
+                        </div>
+                        <div class="meta-item">
+                            <svg class="icon" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
+                            ${formatNumber(repo.forks_count)}
+                        </div>
+                    </div>
+
+                    <div style="display: flex; align-items: center; gap: 10px;">
+                        ${
+                            repo.language
+                                ? `
+                        <div class="meta-item">
+                            <span class="lang-dot ${getLangClass(repo.language)}"></span>
+                            ${repo.language}
+                        </div>
+                        `
+                                : ""
+                        }
+
+                        <!-- Bluesky Share Button -->
+                        <a
+                          href="${shareUrl}"
+                          class="bsky-share-btn"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          title="Share on Bluesky"
+                        >
+                          <svg width="1em" height="1em" viewBox="0 0 600 530" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                            <path d="m135.72 44.03c66.496 49.921 138.02 151.14 164.28 205.46 26.262-54.316 97.782-155.54 164.28-205.46 47.98-36.021 125.72-63.892 125.72 24.795 0 17.712-10.155 148.79-16.111 170.07-20.703 73.984-96.144 92.854-163.25 81.433 117.3 19.964 147.14 86.092 82.697 152.22-122.39 125.59-175.91-31.511-189.63-71.766-2.514-7.3797-3.6904-10.832-3.7077-7.8964-0.0174-2.9357-1.1937 0.51669-3.7077 7.8964-13.714 40.255-67.233 197.36-189.63 71.766-64.444-66.128-34.605-132.26 82.697-152.22-67.108 11.421-142.55-7.4491-163.25-81.433-5.9562-21.282-16.111-152.36-16.111-170.07 0-88.687 77.742-60.816 125.72-24.795z" />
+                          </svg>
+                          <span>Share</span>
+                        </a>
+                    </div>
+                </div>
+            `;
+                container.appendChild(card);
+            });
+        </script>
+    </body>
+</html>
