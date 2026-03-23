@@ -67,5 +67,74 @@
     "language": "Shell",
     "forks_count": 8,
     "open_issues_count": 3
+  },
+  {
+    "id": 1153093670,
+    "name": "awesome-openclaw-usecases",
+    "owner": {
+      "id": 41022652,
+      "url": "https://api.github.com/users/hesamsheikh",
+      "html_url": "https://github.com/hesamsheikh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41022652?v=4"
+    },
+    "html_url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
+    "description": "A community collection of OpenClaw use cases for making life easier.",
+    "created_at": "2026-02-08T22:08:17Z",
+    "updated_at": "2026-03-23T16:02:48Z",
+    "pushed_at": "2026-03-14T12:08:53Z",
+    "git_url": "git://github.com/hesamsheikh/awesome-openclaw-usecases.git",
+    "homepage": "",
+    "size": 107,
+    "stargazers_count": 26933,
+    "watchers_count": 26933,
+    "language": null,
+    "forks_count": 2249,
+    "open_issues_count": 41
+  },
+  {
+    "id": 1167284837,
+    "name": "opennews-mcp",
+    "owner": {
+      "id": 176155065,
+      "url": "https://api.github.com/users/6551Team",
+      "html_url": "https://github.com/6551Team",
+      "avatar_url": "https://avatars.githubusercontent.com/u/176155065?v=4"
+    },
+    "html_url": "https://github.com/6551Team/opennews-mcp",
+    "description": "Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates",
+    "created_at": "2026-02-26T06:04:49Z",
+    "updated_at": "2026-03-22T18:05:03Z",
+    "pushed_at": "2026-03-11T11:52:36Z",
+    "git_url": "git://github.com/6551Team/opennews-mcp.git",
+    "homepage": "https://6551.io/mcp",
+    "size": 105,
+    "stargazers_count": 701,
+    "watchers_count": 701,
+    "language": "Python",
+    "forks_count": 119,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1187856146,
+    "name": "bitdefender-total-security-ultimate-protection",
+    "owner": {
+      "id": 257171264,
+      "url": "https://api.github.com/users/MeshContractorSay",
+      "html_url": "https://github.com/MeshContractorSay",
+      "avatar_url": "https://avatars.githubusercontent.com/u/257171264?v=4"
+    },
+    "html_url": "https://github.com/MeshContractorSay/bitdefender-total-security-ultimate-protection",
+    "description": "Get Bitdefender Total Security Ultimate on GitHub: a complete, high-performance toolkit for seamless malware defense and professional protection. #Antivirus",
+    "created_at": "2026-03-21T09:12:54Z",
+    "updated_at": "2026-03-23T08:02:17Z",
+    "pushed_at": "2026-03-21T09:13:34Z",
+    "git_url": "git://github.com/MeshContractorSay/bitdefender-total-security-ultimate-protection.git",
+    "homepage": "",
+    "size": 2,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
