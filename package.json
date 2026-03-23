@@ -7,6 +7,9 @@
     "post-to-bsky": "node bsky/post-to-bsky.js"
   },
   "dependencies": {
-    "@atproto/api": "^0.13.0"
+    "@atproto/api": "^0.13.0",
+    "@cf-wasm/og": "^0.3.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
