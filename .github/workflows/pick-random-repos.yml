@@ -6,6 +6,10 @@ on:
     - cron: "0 0,8,16 * * *"
   workflow_dispatch: # Allow manual trigger
 
+concurrency:
+  group: pick-random-repos
+  cancel-in-progress: true
+
 jobs:
   pick:
     runs-on: ubuntu-latest
