@@ -1,7 +1,3 @@
-repotrend\bsky\post-to-bsky.js
-```
-
-```javascript
 import fs from "fs";
 import path from "path";
 import { BskyAgent } from "@atproto/api";
@@ -10,7 +6,11 @@ import { BskyAgent } from "@atproto/api";
 const REPOS_FILE = path.join(process.cwd(), "site", "repos.json");
 const POSTED_FILE = path.join(process.cwd(), "bsky", "posted-repos.json");
 const BSKY_DIR = path.join(process.cwd(), "bsky");
-const CARD_TEMPLATE_FILE = path.join(process.cwd(), "bsky", "og-card-template.html");
+const CARD_TEMPLATE_FILE = path.join(
+  process.cwd(),
+  "bsky",
+  "og-card-template.html",
+);
 
 // Bluesky credentials from environment
 const BSKY_HANDLE = process.env.BSKY_HANDLE;
@@ -229,7 +229,7 @@ async function pollForImageResult(taskId) {
           headers: {
             "x-api-key": MARKUPGO_API_KEY,
           },
-        }
+        },
       );
 
       if (!response.ok) {
@@ -363,15 +363,13 @@ async function main() {
   // Validate credentials
   if (!BSKY_HANDLE || !BSKY_APP_PASSWORD) {
     console.error(
-      "Error: BSKY_HANDLE and BSKY_APP_PASSWORD environment variables must be set."
+      "Error: BSKY_HANDLE and BSKY_APP_PASSWORD environment variables must be set.",
     );
     process.exit(1);
   }
 
   if (!MARKUPGO_API_KEY) {
-    console.error(
-      "Error: MARKUPGO_API_KEY environment variable must be set."
-    );
+    console.error("Error: MARKUPGO_API_KEY environment variable must be set.");
     process.exit(1);
   }
 
@@ -429,7 +427,9 @@ async function main() {
     // Download the generated image
     const imageBuffer = await downloadImage(imageUrl);
     if (!imageBuffer) {
-      console.error("Failed to download generated image, posting without it...");
+      console.error(
+        "Failed to download generated image, posting without it...",
+      );
       try {
         await postToBluesky(repo, null);
       } catch (error) {
