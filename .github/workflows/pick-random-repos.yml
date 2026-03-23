@@ -28,6 +28,11 @@ jobs:
       - name: Pick random repos
         run: node pick-random-repos.js
 
+      - name: Generate repo HTML pages
+        run: node generate-repo-pages.js
+        env:
+          MARKUPGO_API_KEY: ${{ secrets.MARKUPGO_API_KEY }}
+
       - name: Commit and push changes
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
@@ -35,7 +40,7 @@ jobs:
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
-          git add site/repos.json
-          git diff --staged --quiet || git commit -m "Add random repos $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git add site/repos.json site/repo/
+          git diff --staged --quiet || git commit -m "Add random repos and generate pages $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git pull --rebase origin ${{ github.ref_name }}
           git push origin HEAD:${{ github.ref_name }}
