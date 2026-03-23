@@ -18,16 +18,13 @@
 
         <nav class="terminal-nav">
             <div class="nav-content">
-                <a href="#" class="nav-prompt">
+                <a href="https://te9.dev" class="nav-prompt" target="_blank">
                     <span class="prompt-symbol">›</span>
                     <span class="prompt-text">te9.dev</span>
                     <span class="prompt-cursor">_</span>
                 </a>
                 <div class="nav-links">
                     <a href="#repos">repos</a>
-                    <a href="https://patrick.te9.dev" target="_blank"
-                        >patrick.te9.dev →</a
-                    >
                 </div>
             </div>
         </nav>
@@ -336,6 +333,7 @@
                 gap: 8px;
                 flex-wrap: wrap;
                 margin: 32px 0;
+                justify-content: center;
             }
 
             .filter-tab {
@@ -456,6 +454,7 @@
                 display: flex;
                 gap: 48px;
                 margin-top: 32px;
+                justify-content: center;
             }
 
             .stat-item {
@@ -480,6 +479,7 @@
             /* Section Header */
             .section-header {
                 margin-bottom: 32px;
+                text-align: center;
             }
 
             .section-label {
@@ -499,6 +499,7 @@
             /* Repos Section */
             .repos-section {
                 padding: 80px 0;
+                text-align: center;
             }
 
             /* Responsive */
@@ -522,6 +523,37 @@
                 .section-title {
                     font-size: 2rem;
                 }
+            }
+
+            /* Footer */
+            .site-footer {
+                text-align: center;
+            }
+
+            .footer-content {
+                max-width: 800px;
+                margin: 0 auto;
+            }
+
+            .footer-main {
+                display: flex;
+                justify-content: center;
+                gap: 64px;
+                margin-bottom: 32px;
+            }
+
+            .footer-brand {
+                text-align: left;
+            }
+
+            .footer-links {
+                text-align: left;
+            }
+
+            .footer-bottom {
+                text-align: center;
+                padding-top: 24px;
+                border-top: 1px solid var(--border-color);
             }
         </style>
 
