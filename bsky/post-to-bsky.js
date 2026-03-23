@@ -329,7 +329,7 @@ async function postToBluesky(repo, imageBlob) {
 
     // Build the external embed
     const external = {
-      $type: "app.bsky.embed.external#main",
+      $type: "app.bsky.embed.external#external",
       uri: pageUrl,
       title: `${repoName} - Trending on te9.dev`,
       description: description,
