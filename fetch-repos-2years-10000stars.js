@@ -1,6 +1,11 @@
-const https = require("https");
-const fs = require("fs");
-const path = require("path");
+import https from "https";
+import fs from "fs";
+import path from "path";
+import { dirname } from "path";
+import { fileURLToPath } from "url";
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
 
 // Calculate date 2 years ago
 function getDate2YearsAgo() {
@@ -83,9 +88,7 @@ async function main() {
   const filepath = path.join(dataDir, filename);
 
   // Build API URL: repos with >= 10000 stars from last 2 years
-  const query = encodeURIComponent(
-    `created:>=${date2yearsAgo} stars:>=10000`,
-  );
+  const query = encodeURIComponent(`created:>=${date2yearsAgo} stars:>=10000`);
   const apiUrl = `https://api.github.com/search/repositories?q=${query}&sort=stars&order=desc&per_page=100`;
 
   console.log(
