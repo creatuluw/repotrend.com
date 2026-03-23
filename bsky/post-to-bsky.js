@@ -62,33 +62,22 @@ function pickUnpostedRepo(repos, postedRepos) {
   return unpostedRepos[randomIndex];
 }
 
-// Format repo for Bluesky post
+// Format repo for Bluesky post (max 300 characters)
 function formatRepoPost(repo) {
-  const starsFormatted = formatStars(repo.stargazers_count);
+  // Truncate description to fit within 300 chars
+  // Format: "{description}\n{url}\n#GitHub #Trending"
+  const maxDescLen = 200; // Conservative limit for description
+  let desc = repo.description || "No description";
+  if (desc.length > maxDescLen) {
+    desc = desc.substring(0, maxDescLen - 3) + "...";
+  }
 
-  const text = `🚀 Trending Repo
-
-${repo.name} by ${repo.owner.html_url.split("/").pop()}
-⭐ ${starsFormatted} stars | ${repo.language || "Unknown"}
-
-${repo.description || "No description available"}
+  const text = `${desc}
 
 ${repo.html_url}
 
-#GitHub #OpenSource #Trending #${repo.language || "Code"}`;
-
+#GitHub #Trending`;
   return text;
-}
-
-// Format star count (e.g., 16885 -> "16.9k")
-function formatStars(count) {
-  if (count >= 1000000) {
-    return (count / 1000000).toFixed(1) + "M";
-  }
-  if (count >= 1000) {
-    return (count / 1000).toFixed(1) + "k";
-  }
-  return count.toString();
 }
 
 // Post to Bluesky
