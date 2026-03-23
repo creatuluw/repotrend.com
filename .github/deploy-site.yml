@@ -1,0 +1,24 @@
+name: Deploy Site to FTP
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Run at 4:00, 12:00, and 20:00 UTC
+    - cron: '0 4,12,20 * * *'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Deploy to FTP
+        uses: SamKirkland/FTP-Deploy-Action@4.3.3
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: site/
+          server-dir: /public_html/repotrend.com/
