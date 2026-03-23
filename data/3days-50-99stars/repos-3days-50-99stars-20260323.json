@@ -506,6 +506,29 @@
     "open_issues_count": 0
   },
   {
+    "id": 1187975106,
+    "name": "Worm-GPT-LLM-2026",
+    "owner": {
+      "id": 269011895,
+      "url": "https://api.github.com/users/dubermandeer",
+      "html_url": "https://github.com/dubermandeer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269011895?v=4"
+    },
+    "html_url": "https://github.com/dubermandeer/Worm-GPT-LLM-2026",
+    "description": "High-performance C++ execution engine for LLM red-teaming and prompt engineering. Deploy dynamic jailbreak payloads, bypass alignment guardrails, and utilize free autonomous uncensored conversational logic locally.",
+    "created_at": "2026-03-21T12:57:34Z",
+    "updated_at": "2026-03-23T08:00:39Z",
+    "pushed_at": "2026-03-21T13:00:04Z",
+    "git_url": "git://github.com/dubermandeer/Worm-GPT-LLM-2026.git",
+    "homepage": "",
+    "size": 7,
+    "stargazers_count": 75,
+    "watchers_count": 75,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
     "id": 1187942527,
     "name": "CCGenerator-2026",
     "owner": {
@@ -529,27 +552,27 @@
     "open_issues_count": 0
   },
   {
-    "id": 1187975106,
-    "name": "Worm-GPT-LLM-2026",
+    "id": 1188322477,
+    "name": "cc-skills-golang",
     "owner": {
-      "id": 269011895,
-      "url": "https://api.github.com/users/dubermandeer",
-      "html_url": "https://github.com/dubermandeer",
-      "avatar_url": "https://avatars.githubusercontent.com/u/269011895?v=4"
+      "id": 2951285,
+      "url": "https://api.github.com/users/samber",
+      "html_url": "https://github.com/samber",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2951285?v=4"
     },
-    "html_url": "https://github.com/dubermandeer/Worm-GPT-LLM-2026",
-    "description": "High-performance C++ execution engine for LLM red-teaming and prompt engineering. Deploy dynamic jailbreak payloads, bypass alignment guardrails, and utilize free autonomous uncensored conversational logic locally.",
-    "created_at": "2026-03-21T12:57:34Z",
-    "updated_at": "2026-03-23T08:00:39Z",
-    "pushed_at": "2026-03-21T13:00:04Z",
-    "git_url": "git://github.com/dubermandeer/Worm-GPT-LLM-2026.git",
+    "html_url": "https://github.com/samber/cc-skills-golang",
+    "description": "🧑‍🎨 A collection of Golang agentic skills that works",
+    "created_at": "2026-03-21T23:10:11Z",
+    "updated_at": "2026-03-23T16:09:21Z",
+    "pushed_at": "2026-03-23T13:07:12Z",
+    "git_url": "git://github.com/samber/cc-skills-golang.git",
     "homepage": "",
-    "size": 7,
+    "size": 936,
     "stargazers_count": 75,
     "watchers_count": 75,
-    "language": "C++",
-    "forks_count": 0,
-    "open_issues_count": 0
+    "language": "Go",
+    "forks_count": 1,
+    "open_issues_count": 1
   },
   {
     "id": 1186886585,
@@ -621,29 +644,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1188322477,
-    "name": "cc-skills-golang",
-    "owner": {
-      "id": 2951285,
-      "url": "https://api.github.com/users/samber",
-      "html_url": "https://github.com/samber",
-      "avatar_url": "https://avatars.githubusercontent.com/u/2951285?v=4"
-    },
-    "html_url": "https://github.com/samber/cc-skills-golang",
-    "description": "🧑‍🎨 A collection of Golang agentic skills that works",
-    "created_at": "2026-03-21T23:10:11Z",
-    "updated_at": "2026-03-23T15:59:33Z",
-    "pushed_at": "2026-03-23T13:07:12Z",
-    "git_url": "git://github.com/samber/cc-skills-golang.git",
-    "homepage": "",
-    "size": 936,
-    "stargazers_count": 74,
-    "watchers_count": 74,
-    "language": "Go",
-    "forks_count": 1,
-    "open_issues_count": 1
-  },
-  {
     "id": 1187150337,
     "name": "awesome-autoresearch",
     "owner": {
@@ -655,13 +655,13 @@
     "html_url": "https://github.com/alvinunreal/awesome-autoresearch",
     "description": "A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch.",
     "created_at": "2026-03-20T11:55:51Z",
-    "updated_at": "2026-03-23T16:06:51Z",
+    "updated_at": "2026-03-23T16:13:03Z",
     "pushed_at": "2026-03-23T12:18:34Z",
     "git_url": "git://github.com/alvinunreal/awesome-autoresearch.git",
     "homepage": null,
     "size": 14,
-    "stargazers_count": 74,
-    "watchers_count": 74,
+    "stargazers_count": 75,
+    "watchers_count": 75,
     "language": null,
     "forks_count": 5,
     "open_issues_count": 1
@@ -687,6 +687,29 @@
     "watchers_count": 73,
     "language": "C++",
     "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1187397147,
+    "name": "anima",
+    "owner": {
+      "id": 269776084,
+      "url": "https://api.github.com/users/anima-aios",
+      "html_url": "https://github.com/anima-aios",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269776084?v=4"
+    },
+    "html_url": "https://github.com/anima-aios/anima",
+    "description": "Growth Visible, Cognition Measurable",
+    "created_at": "2026-03-20T17:18:34Z",
+    "updated_at": "2026-03-23T16:09:55Z",
+    "pushed_at": "2026-03-23T02:50:22Z",
+    "git_url": "git://github.com/anima-aios/anima.git",
+    "homepage": null,
+    "size": 1211,
+    "stargazers_count": 73,
+    "watchers_count": 73,
+    "language": "Python",
+    "forks_count": 6,
     "open_issues_count": 0
   },
   {
@@ -756,29 +779,6 @@
     "watchers_count": 73,
     "language": null,
     "forks_count": 1,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1187397147,
-    "name": "anima",
-    "owner": {
-      "id": 269776084,
-      "url": "https://api.github.com/users/anima-aios",
-      "html_url": "https://github.com/anima-aios",
-      "avatar_url": "https://avatars.githubusercontent.com/u/269776084?v=4"
-    },
-    "html_url": "https://github.com/anima-aios/anima",
-    "description": "Growth Visible, Cognition Measurable",
-    "created_at": "2026-03-20T17:18:34Z",
-    "updated_at": "2026-03-23T15:00:36Z",
-    "pushed_at": "2026-03-23T02:50:22Z",
-    "git_url": "git://github.com/anima-aios/anima.git",
-    "homepage": null,
-    "size": 1211,
-    "stargazers_count": 72,
-    "watchers_count": 72,
-    "language": "Python",
-    "forks_count": 6,
     "open_issues_count": 0
   },
   {
@@ -943,6 +943,29 @@
     "open_issues_count": 0
   },
   {
+    "id": 1187932438,
+    "name": "bulletproof",
+    "owner": {
+      "id": 234405715,
+      "url": "https://api.github.com/users/artemiimillier",
+      "html_url": "https://github.com/artemiimillier",
+      "avatar_url": "https://avatars.githubusercontent.com/u/234405715?v=4"
+    },
+    "html_url": "https://github.com/artemiimillier/bulletproof",
+    "description": "Turns AI agents from chaotic code generators into disciplined engineers. 12-stage workflow from research to production.",
+    "created_at": "2026-03-21T11:42:49Z",
+    "updated_at": "2026-03-23T16:12:28Z",
+    "pushed_at": "2026-03-21T13:47:58Z",
+    "git_url": "git://github.com/artemiimillier/bulletproof.git",
+    "homepage": null,
+    "size": 42,
+    "stargazers_count": 68,
+    "watchers_count": 68,
+    "language": null,
+    "forks_count": 6,
+    "open_issues_count": 1
+  },
+  {
     "id": 1189234446,
     "name": "awesome-hermes-agent",
     "owner": {
@@ -964,29 +987,6 @@
     "language": null,
     "forks_count": 5,
     "open_issues_count": 0
-  },
-  {
-    "id": 1187932438,
-    "name": "bulletproof",
-    "owner": {
-      "id": 234405715,
-      "url": "https://api.github.com/users/artemiimillier",
-      "html_url": "https://github.com/artemiimillier",
-      "avatar_url": "https://avatars.githubusercontent.com/u/234405715?v=4"
-    },
-    "html_url": "https://github.com/artemiimillier/bulletproof",
-    "description": "Turns AI agents from chaotic code generators into disciplined engineers. 12-stage workflow from research to production.",
-    "created_at": "2026-03-21T11:42:49Z",
-    "updated_at": "2026-03-23T14:32:09Z",
-    "pushed_at": "2026-03-21T13:47:58Z",
-    "git_url": "git://github.com/artemiimillier/bulletproof.git",
-    "homepage": null,
-    "size": 42,
-    "stargazers_count": 67,
-    "watchers_count": 67,
-    "language": null,
-    "forks_count": 6,
-    "open_issues_count": 1
   },
   {
     "id": 1187166424,
@@ -1334,6 +1334,29 @@
     "open_issues_count": 0
   },
   {
+    "id": 1189540594,
+    "name": "darksword-kexploit",
+    "owner": {
+      "id": 18235760,
+      "url": "https://api.github.com/users/opa334",
+      "html_url": "https://github.com/opa334",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18235760?v=4"
+    },
+    "html_url": "https://github.com/opa334/darksword-kexploit",
+    "description": "iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C (WIP)",
+    "created_at": "2026-03-23T12:29:29Z",
+    "updated_at": "2026-03-23T16:12:52Z",
+    "pushed_at": "2026-03-23T12:34:38Z",
+    "git_url": "git://github.com/opa334/darksword-kexploit.git",
+    "homepage": null,
+    "size": 6,
+    "stargazers_count": 59,
+    "watchers_count": 59,
+    "language": "Objective-C",
+    "forks_count": 1,
+    "open_issues_count": 0
+  },
+  {
     "id": 1187029667,
     "name": "dripline",
     "owner": {
@@ -1377,52 +1400,6 @@
     "watchers_count": 57,
     "language": "HTML",
     "forks_count": 3,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1188058210,
-    "name": "OpenMarketAgents",
-    "owner": {
-      "id": 263425398,
-      "url": "https://api.github.com/users/wring576v7k0",
-      "html_url": "https://github.com/wring576v7k0",
-      "avatar_url": "https://avatars.githubusercontent.com/u/263425398?v=4"
-    },
-    "html_url": "https://github.com/wring576v7k0/OpenMarketAgents",
-    "description": null,
-    "created_at": "2026-03-21T15:04:50Z",
-    "updated_at": "2026-03-23T16:08:16Z",
-    "pushed_at": "2026-03-21T15:07:38Z",
-    "git_url": "git://github.com/wring576v7k0/OpenMarketAgents.git",
-    "homepage": "",
-    "size": 6,
-    "stargazers_count": 57,
-    "watchers_count": 57,
-    "language": "Python",
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1189540594,
-    "name": "darksword-kexploit",
-    "owner": {
-      "id": 18235760,
-      "url": "https://api.github.com/users/opa334",
-      "html_url": "https://github.com/opa334",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18235760?v=4"
-    },
-    "html_url": "https://github.com/opa334/darksword-kexploit",
-    "description": "iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C (WIP)",
-    "created_at": "2026-03-23T12:29:29Z",
-    "updated_at": "2026-03-23T16:08:19Z",
-    "pushed_at": "2026-03-23T12:34:38Z",
-    "git_url": "git://github.com/opa334/darksword-kexploit.git",
-    "homepage": null,
-    "size": 6,
-    "stargazers_count": 56,
-    "watchers_count": 56,
-    "language": "Objective-C",
-    "forks_count": 1,
     "open_issues_count": 0
   },
   {
@@ -1492,29 +1469,6 @@
     "watchers_count": 55,
     "language": "Python",
     "forks_count": 1,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1189557035,
-    "name": "FortniteAdvantage",
-    "owner": {
-      "id": 213133102,
-      "url": "https://api.github.com/users/mingojce",
-      "html_url": "https://github.com/mingojce",
-      "avatar_url": "https://avatars.githubusercontent.com/u/213133102?v=4"
-    },
-    "html_url": "https://github.com/mingojce/FortniteAdvantage",
-    "description": "Advanced Gaming Enhancement Tool",
-    "created_at": "2026-03-23T12:49:06Z",
-    "updated_at": "2026-03-23T13:46:29Z",
-    "pushed_at": "2026-03-23T12:56:46Z",
-    "git_url": "git://github.com/mingojce/FortniteAdvantage.git",
-    "homepage": "",
-    "size": 916,
-    "stargazers_count": 55,
-    "watchers_count": 55,
-    "language": "C++",
-    "forks_count": 0,
     "open_issues_count": 0
   },
   {
@@ -2291,6 +2245,52 @@
     "updated_at": "2026-03-23T06:03:26Z",
     "pushed_at": "2026-03-21T04:41:01Z",
     "git_url": "git://github.com/bodydreamzen/office-pro-premium.git",
+    "homepage": "",
+    "size": 2,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1187818067,
+    "name": "ip-stresser-pro-2026",
+    "owner": {
+      "id": 257170297,
+      "url": "https://api.github.com/users/StringMarine",
+      "html_url": "https://github.com/StringMarine",
+      "avatar_url": "https://avatars.githubusercontent.com/u/257170297?v=4"
+    },
+    "html_url": "https://github.com/StringMarine/ip-stresser-pro-2026",
+    "description": "IP Stresser Pro 2026 - open-source network testing tool for Windows. 14 game methods, UDP/TCP floods, HTTP attacks.",
+    "created_at": "2026-03-21T07:54:40Z",
+    "updated_at": "2026-03-23T06:03:34Z",
+    "pushed_at": "2026-03-21T07:55:00Z",
+    "git_url": "git://github.com/StringMarine/ip-stresser-pro-2026.git",
+    "homepage": "",
+    "size": 2,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1187608440,
+    "name": "sublime-text-full",
+    "owner": {
+      "id": 257167777,
+      "url": "https://api.github.com/users/TigerDistinguish30",
+      "html_url": "https://github.com/TigerDistinguish30",
+      "avatar_url": "https://avatars.githubusercontent.com/u/257167777?v=4"
+    },
+    "html_url": "https://github.com/TigerDistinguish30/sublime-text-full",
+    "description": "A high-performance, fully-featured text editing suite that combines lightning-fast performance with a comprehensive collection of essential plugins for modern software development.",
+    "created_at": "2026-03-20T23:32:10Z",
+    "updated_at": "2026-03-23T06:03:15Z",
+    "pushed_at": "2026-03-20T23:32:50Z",
+    "git_url": "git://github.com/TigerDistinguish30/sublime-text-full.git",
     "homepage": "",
     "size": 2,
     "stargazers_count": 50,
