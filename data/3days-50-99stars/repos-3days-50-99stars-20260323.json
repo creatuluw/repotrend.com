@@ -69,6 +69,52 @@
     "open_issues_count": 7
   },
   {
+    "id": 1189664719,
+    "name": "auto-discord-quest-completer",
+    "owner": {
+      "id": 255568577,
+      "url": "https://api.github.com/users/deadmorosebeaver5",
+      "html_url": "https://github.com/deadmorosebeaver5",
+      "avatar_url": "https://avatars.githubusercontent.com/u/255568577?v=4"
+    },
+    "html_url": "https://github.com/deadmorosebeaver5/auto-discord-quest-completer",
+    "description": "Auto Discord Quest Completer is a high-performance tool for instant reward claims. It features automated stream simulation and quest tracking for seamless, one-click badge and gift unlocking.",
+    "created_at": "2026-03-23T14:47:39Z",
+    "updated_at": "2026-03-23T16:00:28Z",
+    "pushed_at": "2026-03-23T14:50:38Z",
+    "git_url": "git://github.com/deadmorosebeaver5/auto-discord-quest-completer.git",
+    "homepage": "",
+    "size": 7,
+    "stargazers_count": 91,
+    "watchers_count": 91,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1189287055,
+    "name": "agent-kernel",
+    "owner": {
+      "id": 144778,
+      "url": "https://api.github.com/users/oguzbilgic",
+      "html_url": "https://github.com/oguzbilgic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/144778?v=4"
+    },
+    "html_url": "https://github.com/oguzbilgic/agent-kernel",
+    "description": "Minimal kernel to make any AI coding agent stateful. Clone, point your agent, go.",
+    "created_at": "2026-03-23T06:57:50Z",
+    "updated_at": "2026-03-23T15:52:29Z",
+    "pushed_at": "2026-03-23T07:43:54Z",
+    "git_url": "git://github.com/oguzbilgic/agent-kernel.git",
+    "homepage": "",
+    "size": 8,
+    "stargazers_count": 89,
+    "watchers_count": 89,
+    "language": null,
+    "forks_count": 6,
+    "open_issues_count": 0
+  },
+  {
     "id": 1188704403,
     "name": "ccgen-2026",
     "owner": {
@@ -92,26 +138,26 @@
     "open_issues_count": 0
   },
   {
-    "id": 1189287055,
-    "name": "agent-kernel",
+    "id": 1186973832,
+    "name": "ClawLink",
     "owner": {
-      "id": 144778,
-      "url": "https://api.github.com/users/oguzbilgic",
-      "html_url": "https://github.com/oguzbilgic",
-      "avatar_url": "https://avatars.githubusercontent.com/u/144778?v=4"
+      "id": 39891019,
+      "url": "https://api.github.com/users/CN-Syndra",
+      "html_url": "https://github.com/CN-Syndra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39891019?v=4"
     },
-    "html_url": "https://github.com/oguzbilgic/agent-kernel",
-    "description": "Minimal kernel to make any AI coding agent stateful. Clone, point your agent, go.",
-    "created_at": "2026-03-23T06:57:50Z",
-    "updated_at": "2026-03-23T15:39:38Z",
-    "pushed_at": "2026-03-23T07:43:54Z",
-    "git_url": "git://github.com/oguzbilgic/agent-kernel.git",
-    "homepage": "",
-    "size": 8,
-    "stargazers_count": 87,
-    "watchers_count": 87,
-    "language": null,
-    "forks_count": 6,
+    "html_url": "https://github.com/CN-Syndra/ClawLink",
+    "description": "An AI Agent Social Network — Let your AI (Claw) talk to other people's AIs directly. Autonomous agent-to-agent communication, negotiation, and collaboration, with full owner control.",
+    "created_at": "2026-03-20T07:38:57Z",
+    "updated_at": "2026-03-23T15:57:38Z",
+    "pushed_at": "2026-03-23T10:08:01Z",
+    "git_url": "git://github.com/CN-Syndra/ClawLink.git",
+    "homepage": "https://clawlink.live",
+    "size": 5930,
+    "stargazers_count": 88,
+    "watchers_count": 88,
+    "language": "TypeScript",
+    "forks_count": 3,
     "open_issues_count": 0
   },
   {
@@ -124,7 +170,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/146857845?v=4"
     },
     "html_url": "https://github.com/ddxd001/ros2-python-tutorial",
-    "description": "ros2教学项目 本项目为ros2初���者设计，通过提供的10个例程可以快速学会ros2的基本用法",
+    "description": "ros2教学项目 本项目为ros2初学者设计，通过提供的10个例程可以快速学会ros2的基本用法",
     "created_at": "2026-03-21T14:01:15Z",
     "updated_at": "2026-03-23T15:38:41Z",
     "pushed_at": "2026-03-21T14:22:00Z",
@@ -274,29 +320,6 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 2
-  },
-  {
-    "id": 1186973832,
-    "name": "ClawLink",
-    "owner": {
-      "id": 39891019,
-      "url": "https://api.github.com/users/CN-Syndra",
-      "html_url": "https://github.com/CN-Syndra",
-      "avatar_url": "https://avatars.githubusercontent.com/u/39891019?v=4"
-    },
-    "html_url": "https://github.com/CN-Syndra/ClawLink",
-    "description": "An AI Agent Social Network — Let your AI (Claw) talk to other people's AIs directly. Autonomous agent-to-agent communication, negotiation, and collaboration, with full owner control.",
-    "created_at": "2026-03-20T07:38:57Z",
-    "updated_at": "2026-03-23T15:41:15Z",
-    "pushed_at": "2026-03-23T10:08:01Z",
-    "git_url": "git://github.com/CN-Syndra/ClawLink.git",
-    "homepage": "https://clawlink.live",
-    "size": 5930,
-    "stargazers_count": 82,
-    "watchers_count": 82,
-    "language": "TypeScript",
-    "forks_count": 3,
-    "open_issues_count": 0
   },
   {
     "id": 1188419917,
@@ -552,6 +575,29 @@
     "open_issues_count": 1
   },
   {
+    "id": 1189033239,
+    "name": "harness-100",
+    "owner": {
+      "id": 2889542,
+      "url": "https://api.github.com/users/revfactory",
+      "html_url": "https://github.com/revfactory",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2889542?v=4"
+    },
+    "html_url": "https://github.com/revfactory/harness-100",
+    "description": null,
+    "created_at": "2026-03-22T22:41:15Z",
+    "updated_at": "2026-03-23T15:47:55Z",
+    "pushed_at": "2026-03-22T22:42:10Z",
+    "git_url": "git://github.com/revfactory/harness-100.git",
+    "homepage": null,
+    "size": 3360,
+    "stargazers_count": 75,
+    "watchers_count": 75,
+    "language": null,
+    "forks_count": 32,
+    "open_issues_count": 0
+  },
+  {
     "id": 1187996178,
     "name": "ccleaner-pro-free-2026",
     "owner": {
@@ -598,27 +644,27 @@
     "open_issues_count": 0
   },
   {
-    "id": 1189033239,
-    "name": "harness-100",
+    "id": 1188322477,
+    "name": "cc-skills-golang",
     "owner": {
-      "id": 2889542,
-      "url": "https://api.github.com/users/revfactory",
-      "html_url": "https://github.com/revfactory",
-      "avatar_url": "https://avatars.githubusercontent.com/u/2889542?v=4"
+      "id": 2951285,
+      "url": "https://api.github.com/users/samber",
+      "html_url": "https://github.com/samber",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2951285?v=4"
     },
-    "html_url": "https://github.com/revfactory/harness-100",
-    "description": null,
-    "created_at": "2026-03-22T22:41:15Z",
-    "updated_at": "2026-03-23T14:47:18Z",
-    "pushed_at": "2026-03-22T22:42:10Z",
-    "git_url": "git://github.com/revfactory/harness-100.git",
-    "homepage": null,
-    "size": 3360,
+    "html_url": "https://github.com/samber/cc-skills-golang",
+    "description": "🧑‍🎨 A collection of Golang agentic skills that works",
+    "created_at": "2026-03-21T23:10:11Z",
+    "updated_at": "2026-03-23T15:59:33Z",
+    "pushed_at": "2026-03-23T13:07:12Z",
+    "git_url": "git://github.com/samber/cc-skills-golang.git",
+    "homepage": "",
+    "size": 936,
     "stargazers_count": 74,
     "watchers_count": 74,
-    "language": null,
-    "forks_count": 32,
-    "open_issues_count": 0
+    "language": "Go",
+    "forks_count": 1,
+    "open_issues_count": 1
   },
   {
     "id": 1187971007,
@@ -759,29 +805,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1189664719,
-    "name": "auto-discord-quest-completer",
-    "owner": {
-      "id": 255568577,
-      "url": "https://api.github.com/users/deadmorosebeaver5",
-      "html_url": "https://github.com/deadmorosebeaver5",
-      "avatar_url": "https://avatars.githubusercontent.com/u/255568577?v=4"
-    },
-    "html_url": "https://github.com/deadmorosebeaver5/auto-discord-quest-completer",
-    "description": "Auto Discord Quest Completer is a high-performance tool for instant reward claims. It features automated stream simulation and quest tracking for seamless, one-click badge and gift unlocking.",
-    "created_at": "2026-03-23T14:47:39Z",
-    "updated_at": "2026-03-23T15:45:36Z",
-    "pushed_at": "2026-03-23T14:50:38Z",
-    "git_url": "git://github.com/deadmorosebeaver5/auto-discord-quest-completer.git",
-    "homepage": "",
-    "size": 0,
-    "stargazers_count": 72,
-    "watchers_count": 72,
-    "language": null,
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
     "id": 1188905362,
     "name": "Ladder",
     "owner": {
@@ -803,29 +826,6 @@
     "language": "TypeScript",
     "forks_count": 6,
     "open_issues_count": 0
-  },
-  {
-    "id": 1188322477,
-    "name": "cc-skills-golang",
-    "owner": {
-      "id": 2951285,
-      "url": "https://api.github.com/users/samber",
-      "html_url": "https://github.com/samber",
-      "avatar_url": "https://avatars.githubusercontent.com/u/2951285?v=4"
-    },
-    "html_url": "https://github.com/samber/cc-skills-golang",
-    "description": "🧑‍🎨 A collection of Golang agentic skills that works",
-    "created_at": "2026-03-21T23:10:11Z",
-    "updated_at": "2026-03-23T15:39:37Z",
-    "pushed_at": "2026-03-23T13:07:12Z",
-    "git_url": "git://github.com/samber/cc-skills-golang.git",
-    "homepage": "",
-    "size": 936,
-    "stargazers_count": 70,
-    "watchers_count": 70,
-    "language": "Go",
-    "forks_count": 1,
-    "open_issues_count": 1
   },
   {
     "id": 1186863491,
@@ -851,6 +851,29 @@
     "open_issues_count": 3
   },
   {
+    "id": 1188905359,
+    "name": "ai-coding-principles",
+    "owner": {
+      "id": 44741987,
+      "url": "https://api.github.com/users/luoling8192",
+      "html_url": "https://github.com/luoling8192",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44741987?v=4"
+    },
+    "html_url": "https://github.com/luoling8192/ai-coding-principles",
+    "description": "A collection of Claude Code skills that enforce coding discipline and prevent common AI coding anti-patterns.",
+    "created_at": "2026-03-22T18:34:13Z",
+    "updated_at": "2026-03-23T15:58:19Z",
+    "pushed_at": "2026-03-23T06:43:54Z",
+    "git_url": "git://github.com/luoling8192/ai-coding-principles.git",
+    "homepage": "",
+    "size": 17,
+    "stargazers_count": 69,
+    "watchers_count": 69,
+    "language": null,
+    "forks_count": 2,
+    "open_issues_count": 1
+  },
+  {
     "id": 1186996982,
     "name": "pm-workspace-wizard",
     "owner": {
@@ -872,6 +895,29 @@
     "language": null,
     "forks_count": 12,
     "open_issues_count": 0
+  },
+  {
+    "id": 1187150337,
+    "name": "awesome-autoresearch",
+    "owner": {
+      "id": 204474669,
+      "url": "https://api.github.com/users/alvinunreal",
+      "html_url": "https://github.com/alvinunreal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/204474669?v=4"
+    },
+    "html_url": "https://github.com/alvinunreal/awesome-autoresearch",
+    "description": "A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch.",
+    "created_at": "2026-03-20T11:55:51Z",
+    "updated_at": "2026-03-23T15:50:03Z",
+    "pushed_at": "2026-03-23T12:18:34Z",
+    "git_url": "git://github.com/alvinunreal/awesome-autoresearch.git",
+    "homepage": null,
+    "size": 14,
+    "stargazers_count": 68,
+    "watchers_count": 68,
+    "language": null,
+    "forks_count": 4,
+    "open_issues_count": 1
   },
   {
     "id": 1188660860,
@@ -920,29 +966,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1187150337,
-    "name": "awesome-autoresearch",
-    "owner": {
-      "id": 204474669,
-      "url": "https://api.github.com/users/alvinunreal",
-      "html_url": "https://github.com/alvinunreal",
-      "avatar_url": "https://avatars.githubusercontent.com/u/204474669?v=4"
-    },
-    "html_url": "https://github.com/alvinunreal/awesome-autoresearch",
-    "description": "A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch.",
-    "created_at": "2026-03-20T11:55:51Z",
-    "updated_at": "2026-03-23T15:41:53Z",
-    "pushed_at": "2026-03-23T12:18:34Z",
-    "git_url": "git://github.com/alvinunreal/awesome-autoresearch.git",
-    "homepage": null,
-    "size": 14,
-    "stargazers_count": 67,
-    "watchers_count": 67,
-    "language": null,
-    "forks_count": 4,
-    "open_issues_count": 1
-  },
-  {
     "id": 1187932438,
     "name": "bulletproof",
     "owner": {
@@ -989,6 +1012,29 @@
     "open_issues_count": 0
   },
   {
+    "id": 1189234446,
+    "name": "awesome-hermes-agent",
+    "owner": {
+      "id": 93952610,
+      "url": "https://api.github.com/users/0xNyk",
+      "html_url": "https://github.com/0xNyk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93952610?v=4"
+    },
+    "html_url": "https://github.com/0xNyk/awesome-hermes-agent",
+    "description": "A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research",
+    "created_at": "2026-03-23T05:34:37Z",
+    "updated_at": "2026-03-23T15:59:22Z",
+    "pushed_at": "2026-03-23T14:12:18Z",
+    "git_url": "git://github.com/0xNyk/awesome-hermes-agent.git",
+    "homepage": null,
+    "size": 38,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": null,
+    "forks_count": 5,
+    "open_issues_count": 0
+  },
+  {
     "id": 1188463011,
     "name": "polyclaude",
     "owner": {
@@ -1009,6 +1055,29 @@
     "watchers_count": 66,
     "language": null,
     "forks_count": 5,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1188476469,
+    "name": "Roblox-Brainrot-Asset-2026",
+    "owner": {
+      "id": 269575768,
+      "url": "https://api.github.com/users/excutflyingjoe7412",
+      "html_url": "https://github.com/excutflyingjoe7412",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269575768?v=4"
+    },
+    "html_url": "https://github.com/excutflyingjoe7412/Roblox-Brainrot-Asset-2026",
+    "description": "Blox-Rot (2026) — Advanced Roblox Asset Stealer & UGC Limiteds Autobuyer. Extract Skibidi Toilet models, Dragon meshes, and rare animations from any game. High-speed sniper for Dragon and Brainrot themed limited items. Professional Roblox developer utility.",
+    "created_at": "2026-03-22T05:59:21Z",
+    "updated_at": "2026-03-23T15:57:09Z",
+    "pushed_at": "2026-03-22T06:01:44Z",
+    "git_url": "git://github.com/excutflyingjoe7412/Roblox-Brainrot-Asset-2026.git",
+    "homepage": "",
+    "size": 5,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": "C#",
+    "forks_count": 0,
     "open_issues_count": 0
   },
   {
@@ -1035,29 +1104,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1189234446,
-    "name": "awesome-hermes-agent",
-    "owner": {
-      "id": 93952610,
-      "url": "https://api.github.com/users/0xNyk",
-      "html_url": "https://github.com/0xNyk",
-      "avatar_url": "https://avatars.githubusercontent.com/u/93952610?v=4"
-    },
-    "html_url": "https://github.com/0xNyk/awesome-hermes-agent",
-    "description": "A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research",
-    "created_at": "2026-03-23T05:34:37Z",
-    "updated_at": "2026-03-23T15:41:19Z",
-    "pushed_at": "2026-03-23T14:12:18Z",
-    "git_url": "git://github.com/0xNyk/awesome-hermes-agent.git",
-    "homepage": null,
-    "size": 38,
-    "stargazers_count": 65,
-    "watchers_count": 65,
-    "language": null,
-    "forks_count": 5,
-    "open_issues_count": 0
-  },
-  {
     "id": 1188751123,
     "name": "BloxShade-Improve-Roblox-With-Shaders-Windows",
     "owner": {
@@ -1081,27 +1127,96 @@
     "open_issues_count": 0
   },
   {
-    "id": 1188905359,
-    "name": "ai-coding-principles",
+    "id": 1188453400,
+    "name": "AdoptMe-Glitch-Trade-2026",
     "owner": {
-      "id": 44741987,
-      "url": "https://api.github.com/users/luoling8192",
-      "html_url": "https://github.com/luoling8192",
-      "avatar_url": "https://avatars.githubusercontent.com/u/44741987?v=4"
+      "id": 269575456,
+      "url": "https://api.github.com/users/bafymundead",
+      "html_url": "https://github.com/bafymundead",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269575456?v=4"
     },
-    "html_url": "https://github.com/luoling8192/ai-coding-principles",
-    "description": "A collection of Claude Code skills that enforce coding discipline and prevent common AI coding anti-patterns.",
-    "created_at": "2026-03-22T18:34:13Z",
-    "updated_at": "2026-03-23T15:45:00Z",
-    "pushed_at": "2026-03-23T06:43:54Z",
-    "git_url": "git://github.com/luoling8192/ai-coding-principles.git",
+    "html_url": "https://github.com/bafymundead/AdoptMe-Glitch-Trade-2026",
+    "description": "Nexus (2026) — Ultimate Adopt Me Trade Engine. Features Instant Accept Glitch, Visual Pet Spawner (Client-Side), and Auto-Trade Acceptance. Advanced networking tool for Roblox trading optimization and pet inventory management.",
+    "created_at": "2026-03-22T05:03:35Z",
+    "updated_at": "2026-03-23T15:57:01Z",
+    "pushed_at": "2026-03-22T05:06:09Z",
+    "git_url": "git://github.com/bafymundead/AdoptMe-Glitch-Trade-2026.git",
     "homepage": "",
-    "size": 17,
+    "size": 7,
     "stargazers_count": 65,
     "watchers_count": 65,
-    "language": null,
-    "forks_count": 2,
-    "open_issues_count": 1
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1188512046,
+    "name": "Pet-Orbit-Autofarm-2026",
+    "owner": {
+      "id": 269576108,
+      "url": "https://api.github.com/users/mellpromen10",
+      "html_url": "https://github.com/mellpromen10",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269576108?v=4"
+    },
+    "html_url": "https://github.com/mellpromen10/Pet-Orbit-Autofarm-2026",
+    "description": "Pet-Orbit (2026) — High-Performance Multi-Account Manager for Pet Go & PS99. Features AI-Driven Auto-Hatching, CPU/RAM Optimization for 50+ Accounts, and Real-Time Huge/Titanic Tracker. The ultimate macrobot for Roblox Pet Simulators.",
+    "created_at": "2026-03-22T07:15:44Z",
+    "updated_at": "2026-03-23T15:57:17Z",
+    "pushed_at": "2026-03-22T07:18:12Z",
+    "git_url": "git://github.com/mellpromen10/Pet-Orbit-Autofarm-2026.git",
+    "homepage": "",
+    "size": 5,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1188576779,
+    "name": "FL-Studio-25",
+    "owner": {
+      "id": 269585859,
+      "url": "https://api.github.com/users/taviaezer",
+      "html_url": "https://github.com/taviaezer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269585859?v=4"
+    },
+    "html_url": "https://github.com/taviaezer/FL-Studio-25",
+    "description": "FL-Unlocker (2026) — Ultimate Music Production Suite. Pre-Activated FL Studio 26.3.3 All Plugins Edition. Features AI Stem Separation, Advanced Piano Roll Scripts, and 100+ Premium VSTs. High-Performance DAW for Windows & macOS.",
+    "created_at": "2026-03-22T09:29:16Z",
+    "updated_at": "2026-03-23T15:57:25Z",
+    "pushed_at": "2026-03-22T09:32:41Z",
+    "git_url": "git://github.com/taviaezer/FL-Studio-25.git",
+    "homepage": "",
+    "size": 6,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1188745100,
+    "name": "Crypto-Auto-Withdraw-2026",
+    "owner": {
+      "id": 269586553,
+      "url": "https://api.github.com/users/luminorena815",
+      "html_url": "https://github.com/luminorena815",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269586553?v=4"
+    },
+    "html_url": "https://github.com/luminorena815/Crypto-Auto-Withdraw-2026",
+    "description": "Crypto AutoWithdraw Professional 2026 — High-Speed Asset Synchronization & Liquidity Management Suite. Features Real-Time Mempool Monitoring for BTC, ETH (ERC-20), and SOL. Automated Transaction Broadcasting with Advanced Gas-Fee Optimization for Asset Recovery and Wallet Protection.",
+    "created_at": "2026-03-22T14:26:27Z",
+    "updated_at": "2026-03-23T15:57:34Z",
+    "pushed_at": "2026-03-22T14:36:38Z",
+    "git_url": "git://github.com/luminorena815/Crypto-Auto-Withdraw-2026.git",
+    "homepage": "",
+    "size": 8,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   },
   {
     "id": 1188258408,
@@ -1147,6 +1262,29 @@
     "watchers_count": 63,
     "language": null,
     "forks_count": 12,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1188484451,
+    "name": "DigitalInheritance",
+    "owner": {
+      "id": 12063612,
+      "url": "https://api.github.com/users/z589533",
+      "html_url": "https://github.com/z589533",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12063612?v=4"
+    },
+    "html_url": "https://github.com/z589533/DigitalInheritance",
+    "description": "数字继承史观",
+    "created_at": "2026-03-22T06:16:52Z",
+    "updated_at": "2026-03-23T15:57:55Z",
+    "pushed_at": "2026-03-23T15:57:49Z",
+    "git_url": "git://github.com/z589533/DigitalInheritance.git",
+    "homepage": null,
+    "size": 575,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": null,
+    "forks_count": 5,
     "open_issues_count": 0
   },
   {
@@ -1217,29 +1355,6 @@
     "language": "TypeScript",
     "forks_count": 3,
     "open_issues_count": 2
-  },
-  {
-    "id": 1188484451,
-    "name": "DigitalInheritance",
-    "owner": {
-      "id": 12063612,
-      "url": "https://api.github.com/users/z589533",
-      "html_url": "https://github.com/z589533",
-      "avatar_url": "https://avatars.githubusercontent.com/u/12063612?v=4"
-    },
-    "html_url": "https://github.com/z589533/DigitalInheritance",
-    "description": "数字继承史观",
-    "created_at": "2026-03-22T06:16:52Z",
-    "updated_at": "2026-03-23T15:41:35Z",
-    "pushed_at": "2026-03-23T15:40:39Z",
-    "git_url": "git://github.com/z589533/DigitalInheritance.git",
-    "homepage": null,
-    "size": 575,
-    "stargazers_count": 62,
-    "watchers_count": 62,
-    "language": null,
-    "forks_count": 5,
-    "open_issues_count": 0
   },
   {
     "id": 1188489340,
@@ -1472,6 +1587,29 @@
     "open_issues_count": 0
   },
   {
+    "id": 1189540594,
+    "name": "darksword-kexploit",
+    "owner": {
+      "id": 18235760,
+      "url": "https://api.github.com/users/opa334",
+      "html_url": "https://github.com/opa334",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18235760?v=4"
+    },
+    "html_url": "https://github.com/opa334/darksword-kexploit",
+    "description": "iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C (WIP)",
+    "created_at": "2026-03-23T12:29:29Z",
+    "updated_at": "2026-03-23T15:55:07Z",
+    "pushed_at": "2026-03-23T12:34:38Z",
+    "git_url": "git://github.com/opa334/darksword-kexploit.git",
+    "homepage": null,
+    "size": 6,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "Objective-C",
+    "forks_count": 1,
+    "open_issues_count": 0
+  },
+  {
     "id": 1189134889,
     "name": "create-symbol",
     "owner": {
@@ -1483,13 +1621,13 @@
     "html_url": "https://github.com/EvanBacon/create-symbol",
     "description": "Create SF Symbols from SVGs",
     "created_at": "2026-03-23T02:27:28Z",
-    "updated_at": "2026-03-23T13:49:42Z",
+    "updated_at": "2026-03-23T15:59:14Z",
     "pushed_at": "2026-03-23T02:53:43Z",
     "git_url": "git://github.com/EvanBacon/create-symbol.git",
     "homepage": null,
     "size": 16,
-    "stargazers_count": 53,
-    "watchers_count": 53,
+    "stargazers_count": 54,
+    "watchers_count": 54,
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 0
@@ -2153,144 +2291,6 @@
     "updated_at": "2026-03-23T06:03:17Z",
     "pushed_at": "2026-03-20T23:57:47Z",
     "git_url": "git://github.com/PeltBullWalk/google-drive-pro-unlimited.git",
-    "homepage": "",
-    "size": 2,
-    "stargazers_count": 50,
-    "watchers_count": 50,
-    "language": null,
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1187648852,
-    "name": "AntiDetection-ProxyBrowser-2026",
-    "owner": {
-      "id": 257168441,
-      "url": "https://api.github.com/users/Creekzusquare",
-      "html_url": "https://github.com/Creekzusquare",
-      "avatar_url": "https://avatars.githubusercontent.com/u/257168441?v=4"
-    },
-    "html_url": "https://github.com/Creekzusquare/AntiDetection-ProxyBrowser-2026",
-    "description": "Privacy Shield Browser is a robust, open-source-based solution designed to help researchers, QA testers, and developers maintain session integrity across multiple isolated browser environments. With its intuitive interface and advanced digital fingerprinting management, it allows users to perform concurrent testing in segregated sandbox environment",
-    "created_at": "2026-03-21T01:16:51Z",
-    "updated_at": "2026-03-23T06:03:19Z",
-    "pushed_at": "2026-03-21T01:20:03Z",
-    "git_url": "git://github.com/Creekzusquare/AntiDetection-ProxyBrowser-2026.git",
-    "homepage": "",
-    "size": 2,
-    "stargazers_count": 50,
-    "watchers_count": 50,
-    "language": null,
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1187729940,
-    "name": "office-pro-premium",
-    "owner": {
-      "id": 257169543,
-      "url": "https://api.github.com/users/bodydreamzen",
-      "html_url": "https://github.com/bodydreamzen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/257169543?v=4"
-    },
-    "html_url": "https://github.com/bodydreamzen/office-pro-premium",
-    "description": "Office Pro Premium utility with productivity tools, document features and enhancements for a better Microsoft Office experience.",
-    "created_at": "2026-03-21T04:39:57Z",
-    "updated_at": "2026-03-23T06:03:26Z",
-    "pushed_at": "2026-03-21T04:41:01Z",
-    "git_url": "git://github.com/bodydreamzen/office-pro-premium.git",
-    "homepage": "",
-    "size": 2,
-    "stargazers_count": 50,
-    "watchers_count": 50,
-    "language": null,
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1187818067,
-    "name": "ip-stresser-pro-2026",
-    "owner": {
-      "id": 257170297,
-      "url": "https://api.github.com/users/StringMarine",
-      "html_url": "https://github.com/StringMarine",
-      "avatar_url": "https://avatars.githubusercontent.com/u/257170297?v=4"
-    },
-    "html_url": "https://github.com/StringMarine/ip-stresser-pro-2026",
-    "description": "IP Stresser Pro 2026 - open-source network testing tool for Windows. 14 game methods, UDP/TCP floods, HTTP attacks.",
-    "created_at": "2026-03-21T07:54:40Z",
-    "updated_at": "2026-03-23T06:03:34Z",
-    "pushed_at": "2026-03-21T07:55:00Z",
-    "git_url": "git://github.com/StringMarine/ip-stresser-pro-2026.git",
-    "homepage": "",
-    "size": 2,
-    "stargazers_count": 50,
-    "watchers_count": 50,
-    "language": null,
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1187608440,
-    "name": "sublime-text-full",
-    "owner": {
-      "id": 257167777,
-      "url": "https://api.github.com/users/TigerDistinguish30",
-      "html_url": "https://github.com/TigerDistinguish30",
-      "avatar_url": "https://avatars.githubusercontent.com/u/257167777?v=4"
-    },
-    "html_url": "https://github.com/TigerDistinguish30/sublime-text-full",
-    "description": "A high-performance, fully-featured text editing suite that combines lightning-fast performance with a comprehensive collection of essential plugins for modern software development.",
-    "created_at": "2026-03-20T23:32:10Z",
-    "updated_at": "2026-03-23T06:03:15Z",
-    "pushed_at": "2026-03-20T23:32:50Z",
-    "git_url": "git://github.com/TigerDistinguish30/sublime-text-full.git",
-    "homepage": "",
-    "size": 2,
-    "stargazers_count": 50,
-    "watchers_count": 50,
-    "language": null,
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1187613676,
-    "name": "leonardo-ai-elite-premium",
-    "owner": {
-      "id": 257168329,
-      "url": "https://api.github.com/users/StalkerMageSymbolize",
-      "html_url": "https://github.com/StalkerMageSymbolize",
-      "avatar_url": "https://avatars.githubusercontent.com/u/257168329?v=4"
-    },
-    "html_url": "https://github.com/StalkerMageSymbolize/leonardo-ai-elite-premium",
-    "description": "Get the Leonardo AI Elite Premium suite on GitHub: a complete, high-performance toolkit for seamless AI image generation and creative automation.",
-    "created_at": "2026-03-20T23:45:46Z",
-    "updated_at": "2026-03-23T06:03:16Z",
-    "pushed_at": "2026-03-20T23:47:20Z",
-    "git_url": "git://github.com/StalkerMageSymbolize/leonardo-ai-elite-premium.git",
-    "homepage": "",
-    "size": 2,
-    "stargazers_count": 50,
-    "watchers_count": 50,
-    "language": null,
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1187622365,
-    "name": "f95-game-updater",
-    "owner": {
-      "id": 257168325,
-      "url": "https://api.github.com/users/spyhornetdestroy",
-      "html_url": "https://github.com/spyhornetdestroy",
-      "avatar_url": "https://avatars.githubusercontent.com/u/257168325?v=4"
-    },
-    "html_url": "https://github.com/spyhornetdestroy/f95-game-updater",
-    "description": "F95 game updater utility for tracking new releases, downloading updates and managing your F95zone game library easily.",
-    "created_at": "2026-03-21T00:08:29Z",
-    "updated_at": "2026-03-23T06:03:18Z",
-    "pushed_at": "2026-03-21T00:09:14Z",
-    "git_url": "git://github.com/spyhornetdestroy/f95-game-updater.git",
     "homepage": "",
     "size": 2,
     "stargazers_count": 50,
