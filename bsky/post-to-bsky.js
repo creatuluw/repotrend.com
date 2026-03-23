@@ -64,19 +64,9 @@ function pickUnpostedRepo(repos, postedRepos) {
 
 // Format repo for Bluesky post (max 300 characters)
 function formatRepoPost(repo) {
-  // Truncate description to fit within 300 chars
-  // Format: "{description}\n{url}\n#GitHub #Trending"
-  const maxDescLen = 200; // Conservative limit for description
-  let desc = repo.description || "No description";
-  if (desc.length > maxDescLen) {
-    desc = desc.substring(0, maxDescLen - 3) + "...";
-  }
-
-  const text = `${desc}
-
-${repo.html_url}
-
-#GitHub #Trending`;
+  // Format matches the site's Bluesky share button
+  // Format: 'Check out "Repo Name": URL'
+  const text = `Check out "${repo.name}": ${repo.html_url}`;
   return text;
 }
 
