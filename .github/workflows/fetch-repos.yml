@@ -49,5 +49,5 @@ jobs:
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
           git add data/
           git diff --staged --quiet || git commit -m "Update repos data $(date -u +%Y-%m-%d)"
-          git fetch origin
+          git pull --rebase origin ${{ github.ref_name }}
           git push origin HEAD:${{ github.ref_name }}
