@@ -1,0 +1,31 @@
+name: Pick Random Repos
+
+on:
+  schedule:
+    # Run every 8 hours: 0, 8, 16 UTC
+    - cron: "0 0,8,16 * * *"
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  pick:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Pick random repos
+        run: node pick-random-repos.js
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add site/repos.json
+          git diff --staged --quiet || git commit -m "Add random repos $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push

@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1127110039,
+    "name": "planning-with-files",
+    "owner": {
+      "id": 78882424,
+      "url": "https://api.github.com/users/OthmanAdi",
+      "html_url": "https://github.com/OthmanAdi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78882424?v=4"
+    },
+    "html_url": "https://github.com/OthmanAdi/planning-with-files",
+    "description": "Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.",
+    "created_at": "2026-01-03T07:37:28Z",
+    "updated_at": "2026-03-23T08:27:27Z",
+    "pushed_at": "2026-03-22T16:03:44Z",
+    "git_url": "git://github.com/OthmanAdi/planning-with-files.git",
+    "homepage": "",
+    "size": 586,
+    "stargazers_count": 16885,
+    "watchers_count": 16885,
+    "language": "Python",
+    "forks_count": 1539,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1174238266,
+    "name": "ai-rules",
+    "owner": {
+      "id": 8717555,
+      "url": "https://api.github.com/users/fjb040911",
+      "html_url": "https://github.com/fjb040911",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8717555?v=4"
+    },
+    "html_url": "https://github.com/fjb040911/ai-rules",
+    "description": "ai-rules is a governance framework designed to solve \"Architectural Decay\" in AI-driven development. It forces AI Agents (Cursor, Windsurf, Copilot) to respect your project's boundaries, UI libraries, and design patterns.",
+    "created_at": "2026-03-06T08:07:15Z",
+    "updated_at": "2026-03-23T08:12:14Z",
+    "pushed_at": "2026-03-11T06:53:24Z",
+    "git_url": "git://github.com/fjb040911/ai-rules.git",
+    "homepage": "",
+    "size": 2081,
+    "stargazers_count": 753,
+    "watchers_count": 753,
+    "language": "JavaScript",
+    "forks_count": 17,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1186863491,
+    "name": "opencode-claude-auth-sync",
+    "owner": {
+      "id": 7637916,
+      "url": "https://api.github.com/users/lehdqlsl",
+      "html_url": "https://github.com/lehdqlsl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7637916?v=4"
+    },
+    "html_url": "https://github.com/lehdqlsl/opencode-claude-auth-sync",
+    "description": "Sync Claude CLI credentials to OpenCode — no separate Anthropic login needed",
+    "created_at": "2026-03-20T04:18:06Z",
+    "updated_at": "2026-03-23T05:14:47Z",
+    "pushed_at": "2026-03-22T08:19:01Z",
+    "git_url": "git://github.com/lehdqlsl/opencode-claude-auth-sync.git",
+    "homepage": null,
+    "size": 84,
+    "stargazers_count": 68,
+    "watchers_count": 68,
+    "language": "Shell",
+    "forks_count": 8,
+    "open_issues_count": 3
+  }
+]
