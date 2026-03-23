@@ -4,7 +4,7 @@
   "description": "RepoTrend - Track trending GitHub repositories",
   "type": "module",
   "scripts": {
-    "build-post-to-bsky": "esbuild bsky/post-to-bsky.js --bundle --outfile=bsky/post-to-bsky.mjs --format=esm --platform=node --jsx=automatic --loader:.js=jsx --external:@atproto/api",
+    "build-post-to-bsky": "esbuild bsky/post-to-bsky.js --bundle --outfile=bsky/post-to-bsky.mjs --format=esm --platform=node --jsx=automatic --loader:.js=jsx --external:@atproto/api --external:react --external:react-dom",
     "post-to-bsky": "npm run build-post-to-bsky && node bsky/post-to-bsky.mjs"
   },
   "dependencies": {
