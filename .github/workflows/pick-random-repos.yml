@@ -29,7 +29,7 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          git config --local credential.helper '!f() { echo "password=${{ secrets.GITHUB_TOKEN }}"; }; f'
           git add site/repos.json
           git diff --staged --quiet || git commit -m "Add random repos $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push
