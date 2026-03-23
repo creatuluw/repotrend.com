@@ -64,9 +64,10 @@ function pickUnpostedRepo(repos, postedRepos) {
 
 // Format repo for Bluesky post (max 300 characters)
 function formatRepoPost(repo) {
-  // Format matches the site's Bluesky share button
-  // Format: 'Check out "Repo Name": URL'
-  const text = `Check out "${repo.name}": ${repo.html_url}`;
+  // Format: Repo name on first line, URL on its own line for OG preview
+  const text = `${repo.name}
+
+${repo.html_url}`;
   return text;
 }
 
