@@ -23,6 +23,29 @@
     "open_issues_count": 0
   },
   {
+    "id": 1186973832,
+    "name": "ClawLink",
+    "owner": {
+      "id": 39891019,
+      "url": "https://api.github.com/users/CN-Syndra",
+      "html_url": "https://github.com/CN-Syndra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39891019?v=4"
+    },
+    "html_url": "https://github.com/CN-Syndra/ClawLink",
+    "description": "An AI Agent Social Network — Let your AI (Claw) talk to other people's AIs directly. Autonomous agent-to-agent communication, negotiation, and collaboration, with full owner control.",
+    "created_at": "2026-03-20T07:38:57Z",
+    "updated_at": "2026-03-23T16:18:58Z",
+    "pushed_at": "2026-03-23T10:08:01Z",
+    "git_url": "git://github.com/CN-Syndra/ClawLink.git",
+    "homepage": "https://clawlink.live",
+    "size": 5930,
+    "stargazers_count": 92,
+    "watchers_count": 92,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 0
+  },
+  {
     "id": 1187884745,
     "name": "toolpick",
     "owner": {
@@ -67,29 +90,6 @@
     "language": "TypeScript",
     "forks_count": 32,
     "open_issues_count": 7
-  },
-  {
-    "id": 1186973832,
-    "name": "ClawLink",
-    "owner": {
-      "id": 39891019,
-      "url": "https://api.github.com/users/CN-Syndra",
-      "html_url": "https://github.com/CN-Syndra",
-      "avatar_url": "https://avatars.githubusercontent.com/u/39891019?v=4"
-    },
-    "html_url": "https://github.com/CN-Syndra/ClawLink",
-    "description": "An AI Agent Social Network — Let your AI (Claw) talk to other people's AIs directly. Autonomous agent-to-agent communication, negotiation, and collaboration, with full owner control.",
-    "created_at": "2026-03-20T07:38:57Z",
-    "updated_at": "2026-03-23T16:08:51Z",
-    "pushed_at": "2026-03-23T10:08:01Z",
-    "git_url": "git://github.com/CN-Syndra/ClawLink.git",
-    "homepage": "https://clawlink.live",
-    "size": 5930,
-    "stargazers_count": 90,
-    "watchers_count": 90,
-    "language": "TypeScript",
-    "forks_count": 3,
-    "open_issues_count": 0
   },
   {
     "id": 1189287055,
@@ -184,6 +184,29 @@
     "open_issues_count": 0
   },
   {
+    "id": 1188845498,
+    "name": "awesome-autoresearch",
+    "owner": {
+      "id": 132215366,
+      "url": "https://api.github.com/users/WecoAI",
+      "html_url": "https://github.com/WecoAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/132215366?v=4"
+    },
+    "html_url": "https://github.com/WecoAI/awesome-autoresearch",
+    "description": "A curated list of AutoResearch use cases and open source implementations",
+    "created_at": "2026-03-22T16:59:33Z",
+    "updated_at": "2026-03-23T16:17:48Z",
+    "pushed_at": "2026-03-22T20:44:09Z",
+    "git_url": "git://github.com/WecoAI/awesome-autoresearch.git",
+    "homepage": "",
+    "size": 179,
+    "stargazers_count": 85,
+    "watchers_count": 85,
+    "language": null,
+    "forks_count": 6,
+    "open_issues_count": 1
+  },
+  {
     "id": 1187998858,
     "name": "Awp-gg-Roblox-Executor-2026",
     "owner": {
@@ -205,29 +228,6 @@
     "language": "C++",
     "forks_count": 12,
     "open_issues_count": 0
-  },
-  {
-    "id": 1188845498,
-    "name": "awesome-autoresearch",
-    "owner": {
-      "id": 132215366,
-      "url": "https://api.github.com/users/WecoAI",
-      "html_url": "https://github.com/WecoAI",
-      "avatar_url": "https://avatars.githubusercontent.com/u/132215366?v=4"
-    },
-    "html_url": "https://github.com/WecoAI/awesome-autoresearch",
-    "description": "A curated list of AutoResearch use cases and open source implementations",
-    "created_at": "2026-03-22T16:59:33Z",
-    "updated_at": "2026-03-23T15:40:18Z",
-    "pushed_at": "2026-03-22T20:44:09Z",
-    "git_url": "git://github.com/WecoAI/awesome-autoresearch.git",
-    "homepage": "",
-    "size": 179,
-    "stargazers_count": 84,
-    "watchers_count": 84,
-    "language": null,
-    "forks_count": 6,
-    "open_issues_count": 1
   },
   {
     "id": 1187090511,
@@ -437,6 +437,52 @@
     "open_issues_count": 0
   },
   {
+    "id": 1187150337,
+    "name": "awesome-autoresearch",
+    "owner": {
+      "id": 204474669,
+      "url": "https://api.github.com/users/alvinunreal",
+      "html_url": "https://github.com/alvinunreal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/204474669?v=4"
+    },
+    "html_url": "https://github.com/alvinunreal/awesome-autoresearch",
+    "description": "A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch.",
+    "created_at": "2026-03-20T11:55:51Z",
+    "updated_at": "2026-03-23T16:20:00Z",
+    "pushed_at": "2026-03-23T12:18:34Z",
+    "git_url": "git://github.com/alvinunreal/awesome-autoresearch.git",
+    "homepage": null,
+    "size": 14,
+    "stargazers_count": 78,
+    "watchers_count": 78,
+    "language": null,
+    "forks_count": 5,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1188322477,
+    "name": "cc-skills-golang",
+    "owner": {
+      "id": 2951285,
+      "url": "https://api.github.com/users/samber",
+      "html_url": "https://github.com/samber",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2951285?v=4"
+    },
+    "html_url": "https://github.com/samber/cc-skills-golang",
+    "description": "🧑‍🎨 A collection of Golang agentic skills that works",
+    "created_at": "2026-03-21T23:10:11Z",
+    "updated_at": "2026-03-23T16:14:25Z",
+    "pushed_at": "2026-03-23T13:07:12Z",
+    "git_url": "git://github.com/samber/cc-skills-golang.git",
+    "homepage": "",
+    "size": 936,
+    "stargazers_count": 76,
+    "watchers_count": 76,
+    "language": "Go",
+    "forks_count": 1,
+    "open_issues_count": 1
+  },
+  {
     "id": 1188539168,
     "name": "awesome-automated-research",
     "owner": {
@@ -552,29 +598,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1188322477,
-    "name": "cc-skills-golang",
-    "owner": {
-      "id": 2951285,
-      "url": "https://api.github.com/users/samber",
-      "html_url": "https://github.com/samber",
-      "avatar_url": "https://avatars.githubusercontent.com/u/2951285?v=4"
-    },
-    "html_url": "https://github.com/samber/cc-skills-golang",
-    "description": "🧑‍🎨 A collection of Golang agentic skills that works",
-    "created_at": "2026-03-21T23:10:11Z",
-    "updated_at": "2026-03-23T16:09:21Z",
-    "pushed_at": "2026-03-23T13:07:12Z",
-    "git_url": "git://github.com/samber/cc-skills-golang.git",
-    "homepage": "",
-    "size": 936,
-    "stargazers_count": 75,
-    "watchers_count": 75,
-    "language": "Go",
-    "forks_count": 1,
-    "open_issues_count": 1
-  },
-  {
     "id": 1186886585,
     "name": "x-bookmark-to-obsidian",
     "owner": {
@@ -644,27 +667,50 @@
     "open_issues_count": 0
   },
   {
-    "id": 1187150337,
-    "name": "awesome-autoresearch",
+    "id": 1187397147,
+    "name": "anima",
     "owner": {
-      "id": 204474669,
-      "url": "https://api.github.com/users/alvinunreal",
-      "html_url": "https://github.com/alvinunreal",
-      "avatar_url": "https://avatars.githubusercontent.com/u/204474669?v=4"
+      "id": 269776084,
+      "url": "https://api.github.com/users/anima-aios",
+      "html_url": "https://github.com/anima-aios",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269776084?v=4"
     },
-    "html_url": "https://github.com/alvinunreal/awesome-autoresearch",
-    "description": "A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch.",
-    "created_at": "2026-03-20T11:55:51Z",
-    "updated_at": "2026-03-23T16:13:03Z",
-    "pushed_at": "2026-03-23T12:18:34Z",
-    "git_url": "git://github.com/alvinunreal/awesome-autoresearch.git",
+    "html_url": "https://github.com/anima-aios/anima",
+    "description": "Growth Visible, Cognition Measurable",
+    "created_at": "2026-03-20T17:18:34Z",
+    "updated_at": "2026-03-23T16:16:57Z",
+    "pushed_at": "2026-03-23T02:50:22Z",
+    "git_url": "git://github.com/anima-aios/anima.git",
     "homepage": null,
-    "size": 14,
-    "stargazers_count": 75,
-    "watchers_count": 75,
-    "language": null,
-    "forks_count": 5,
-    "open_issues_count": 1
+    "size": 1211,
+    "stargazers_count": 74,
+    "watchers_count": 74,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1188452883,
+    "name": "cc-weixin",
+    "owner": {
+      "id": 1819149,
+      "url": "https://api.github.com/users/hao-ji-xing",
+      "html_url": "https://github.com/hao-ji-xing",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1819149?v=4"
+    },
+    "html_url": "https://github.com/hao-ji-xing/cc-weixin",
+    "description": null,
+    "created_at": "2026-03-22T05:02:11Z",
+    "updated_at": "2026-03-23T16:19:16Z",
+    "pushed_at": "2026-03-23T04:23:21Z",
+    "git_url": "git://github.com/hao-ji-xing/cc-weixin.git",
+    "homepage": null,
+    "size": 422,
+    "stargazers_count": 74,
+    "watchers_count": 74,
+    "language": "TypeScript",
+    "forks_count": 15,
+    "open_issues_count": 3
   },
   {
     "id": 1187971007,
@@ -688,52 +734,6 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
-  },
-  {
-    "id": 1187397147,
-    "name": "anima",
-    "owner": {
-      "id": 269776084,
-      "url": "https://api.github.com/users/anima-aios",
-      "html_url": "https://github.com/anima-aios",
-      "avatar_url": "https://avatars.githubusercontent.com/u/269776084?v=4"
-    },
-    "html_url": "https://github.com/anima-aios/anima",
-    "description": "Growth Visible, Cognition Measurable",
-    "created_at": "2026-03-20T17:18:34Z",
-    "updated_at": "2026-03-23T16:09:55Z",
-    "pushed_at": "2026-03-23T02:50:22Z",
-    "git_url": "git://github.com/anima-aios/anima.git",
-    "homepage": null,
-    "size": 1211,
-    "stargazers_count": 73,
-    "watchers_count": 73,
-    "language": "Python",
-    "forks_count": 6,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1188452883,
-    "name": "cc-weixin",
-    "owner": {
-      "id": 1819149,
-      "url": "https://api.github.com/users/hao-ji-xing",
-      "html_url": "https://github.com/hao-ji-xing",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1819149?v=4"
-    },
-    "html_url": "https://github.com/hao-ji-xing/cc-weixin",
-    "description": null,
-    "created_at": "2026-03-22T05:02:11Z",
-    "updated_at": "2026-03-23T15:38:34Z",
-    "pushed_at": "2026-03-23T04:23:21Z",
-    "git_url": "git://github.com/hao-ji-xing/cc-weixin.git",
-    "homepage": null,
-    "size": 422,
-    "stargazers_count": 73,
-    "watchers_count": 73,
-    "language": "TypeScript",
-    "forks_count": 15,
-    "open_issues_count": 3
   },
   {
     "id": 1186875100,
@@ -851,6 +851,29 @@
     "open_issues_count": 2
   },
   {
+    "id": 1189234446,
+    "name": "awesome-hermes-agent",
+    "owner": {
+      "id": 93952610,
+      "url": "https://api.github.com/users/0xNyk",
+      "html_url": "https://github.com/0xNyk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93952610?v=4"
+    },
+    "html_url": "https://github.com/0xNyk/awesome-hermes-agent",
+    "description": "A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research",
+    "created_at": "2026-03-23T05:34:37Z",
+    "updated_at": "2026-03-23T16:17:39Z",
+    "pushed_at": "2026-03-23T14:12:18Z",
+    "git_url": "git://github.com/0xNyk/awesome-hermes-agent.git",
+    "homepage": null,
+    "size": 38,
+    "stargazers_count": 69,
+    "watchers_count": 69,
+    "language": null,
+    "forks_count": 5,
+    "open_issues_count": 0
+  },
+  {
     "id": 1188905359,
     "name": "ai-coding-principles",
     "owner": {
@@ -966,29 +989,6 @@
     "open_issues_count": 1
   },
   {
-    "id": 1189234446,
-    "name": "awesome-hermes-agent",
-    "owner": {
-      "id": 93952610,
-      "url": "https://api.github.com/users/0xNyk",
-      "html_url": "https://github.com/0xNyk",
-      "avatar_url": "https://avatars.githubusercontent.com/u/93952610?v=4"
-    },
-    "html_url": "https://github.com/0xNyk/awesome-hermes-agent",
-    "description": "A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research",
-    "created_at": "2026-03-23T05:34:37Z",
-    "updated_at": "2026-03-23T16:06:30Z",
-    "pushed_at": "2026-03-23T14:12:18Z",
-    "git_url": "git://github.com/0xNyk/awesome-hermes-agent.git",
-    "homepage": null,
-    "size": 38,
-    "stargazers_count": 67,
-    "watchers_count": 67,
-    "language": null,
-    "forks_count": 5,
-    "open_issues_count": 0
-  },
-  {
     "id": 1187166424,
     "name": "ppt-agent",
     "owner": {
@@ -1009,6 +1009,29 @@
     "watchers_count": 67,
     "language": "Python",
     "forks_count": 19,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1188093383,
+    "name": "mouse-fs",
+    "owner": {
+      "id": 115550741,
+      "url": "https://api.github.com/users/timwehrle",
+      "html_url": "https://github.com/timwehrle",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115550741?v=4"
+    },
+    "html_url": "https://github.com/timwehrle/mouse-fs",
+    "description": "Store 2 bytes of arbitrary data in a Logitech mouse's DPI register",
+    "created_at": "2026-03-21T15:58:27Z",
+    "updated_at": "2026-03-23T16:14:22Z",
+    "pushed_at": "2026-03-21T19:41:42Z",
+    "git_url": "git://github.com/timwehrle/mouse-fs.git",
+    "homepage": "",
+    "size": 7,
+    "stargazers_count": 67,
+    "watchers_count": 67,
+    "language": "Rust",
+    "forks_count": 0,
     "open_issues_count": 0
   },
   {
@@ -1077,29 +1100,6 @@
     "stargazers_count": 66,
     "watchers_count": 66,
     "language": "C#",
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1188093383,
-    "name": "mouse-fs",
-    "owner": {
-      "id": 115550741,
-      "url": "https://api.github.com/users/timwehrle",
-      "html_url": "https://github.com/timwehrle",
-      "avatar_url": "https://avatars.githubusercontent.com/u/115550741?v=4"
-    },
-    "html_url": "https://github.com/timwehrle/mouse-fs",
-    "description": "Store 2 bytes of arbitrary data in a Logitech mouse's DPI register",
-    "created_at": "2026-03-21T15:58:27Z",
-    "updated_at": "2026-03-23T15:14:14Z",
-    "pushed_at": "2026-03-21T19:41:42Z",
-    "git_url": "git://github.com/timwehrle/mouse-fs.git",
-    "homepage": "",
-    "size": 7,
-    "stargazers_count": 66,
-    "watchers_count": 66,
-    "language": "Rust",
     "forks_count": 0,
     "open_issues_count": 0
   },
@@ -1196,6 +1196,29 @@
     "open_issues_count": 0
   },
   {
+    "id": 1188528281,
+    "name": "WeClawBot-ex",
+    "owner": {
+      "id": 298383,
+      "url": "https://api.github.com/users/ImGoodBai",
+      "html_url": "https://github.com/ImGoodBai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/298383?v=4"
+    },
+    "html_url": "https://github.com/ImGoodBai/WeClawBot-ex",
+    "description": "微信 ClawBot 官方版一次只能一个微信扫码用。    做了个开源扩展：支持多个微信同时扫码、同时登录、同时对话，带本地 Web 管理界面。",
+    "created_at": "2026-03-22T07:50:36Z",
+    "updated_at": "2026-03-23T16:17:57Z",
+    "pushed_at": "2026-03-23T16:09:09Z",
+    "git_url": "git://github.com/ImGoodBai/WeClawBot-ex.git",
+    "homepage": "",
+    "size": 2210,
+    "stargazers_count": 64,
+    "watchers_count": 64,
+    "language": "TypeScript",
+    "forks_count": 22,
+    "open_issues_count": 2
+  },
+  {
     "id": 1188258408,
     "name": "game-theory-model",
     "owner": {
@@ -1240,29 +1263,6 @@
     "language": null,
     "forks_count": 12,
     "open_issues_count": 0
-  },
-  {
-    "id": 1188528281,
-    "name": "WeClawBot-ex",
-    "owner": {
-      "id": 298383,
-      "url": "https://api.github.com/users/ImGoodBai",
-      "html_url": "https://github.com/ImGoodBai",
-      "avatar_url": "https://avatars.githubusercontent.com/u/298383?v=4"
-    },
-    "html_url": "https://github.com/ImGoodBai/WeClawBot-ex",
-    "description": "微信 ClawBot 官方版一次只能一个微信扫码用。    做了个开源扩展：支持多个微信同时扫码、同时登录、同时对话，带本地 Web 管理界面。",
-    "created_at": "2026-03-22T07:50:36Z",
-    "updated_at": "2026-03-23T16:09:14Z",
-    "pushed_at": "2026-03-23T16:09:09Z",
-    "git_url": "git://github.com/ImGoodBai/WeClawBot-ex.git",
-    "homepage": "",
-    "size": 2210,
-    "stargazers_count": 63,
-    "watchers_count": 63,
-    "language": "TypeScript",
-    "forks_count": 22,
-    "open_issues_count": 2
   },
   {
     "id": 1187713177,
@@ -1311,6 +1311,29 @@
     "open_issues_count": 2
   },
   {
+    "id": 1189540594,
+    "name": "darksword-kexploit",
+    "owner": {
+      "id": 18235760,
+      "url": "https://api.github.com/users/opa334",
+      "html_url": "https://github.com/opa334",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18235760?v=4"
+    },
+    "html_url": "https://github.com/opa334/darksword-kexploit",
+    "description": "iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C (WIP)",
+    "created_at": "2026-03-23T12:29:29Z",
+    "updated_at": "2026-03-23T16:15:54Z",
+    "pushed_at": "2026-03-23T12:34:38Z",
+    "git_url": "git://github.com/opa334/darksword-kexploit.git",
+    "homepage": null,
+    "size": 6,
+    "stargazers_count": 60,
+    "watchers_count": 60,
+    "language": "Objective-C",
+    "forks_count": 1,
+    "open_issues_count": 0
+  },
+  {
     "id": 1188489340,
     "name": "ccleaner-professional-premium-edition-update",
     "owner": {
@@ -1331,29 +1354,6 @@
     "watchers_count": 59,
     "language": null,
     "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1189540594,
-    "name": "darksword-kexploit",
-    "owner": {
-      "id": 18235760,
-      "url": "https://api.github.com/users/opa334",
-      "html_url": "https://github.com/opa334",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18235760?v=4"
-    },
-    "html_url": "https://github.com/opa334/darksword-kexploit",
-    "description": "iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C (WIP)",
-    "created_at": "2026-03-23T12:29:29Z",
-    "updated_at": "2026-03-23T16:12:52Z",
-    "pushed_at": "2026-03-23T12:34:38Z",
-    "git_url": "git://github.com/opa334/darksword-kexploit.git",
-    "homepage": null,
-    "size": 6,
-    "stargazers_count": 59,
-    "watchers_count": 59,
-    "language": "Objective-C",
-    "forks_count": 1,
     "open_issues_count": 0
   },
   {
@@ -2208,6 +2208,29 @@
     "open_issues_count": 0
   },
   {
+    "id": 1188209296,
+    "name": "rsloop",
+    "owner": {
+      "id": 224568696,
+      "url": "https://api.github.com/users/RustedBytes",
+      "html_url": "https://github.com/RustedBytes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/224568696?v=4"
+    },
+    "html_url": "https://github.com/RustedBytes/rsloop",
+    "description": "An event loop for asyncio written in Rust",
+    "created_at": "2026-03-21T19:04:49Z",
+    "updated_at": "2026-03-23T16:18:23Z",
+    "pushed_at": "2026-03-23T14:01:40Z",
+    "git_url": "git://github.com/RustedBytes/rsloop.git",
+    "homepage": "",
+    "size": 1378,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": "Rust",
+    "forks_count": 2,
+    "open_issues_count": 1
+  },
+  {
     "id": 1187648852,
     "name": "AntiDetection-ProxyBrowser-2026",
     "owner": {
@@ -2268,29 +2291,6 @@
     "updated_at": "2026-03-23T06:03:34Z",
     "pushed_at": "2026-03-21T07:55:00Z",
     "git_url": "git://github.com/StringMarine/ip-stresser-pro-2026.git",
-    "homepage": "",
-    "size": 2,
-    "stargazers_count": 50,
-    "watchers_count": 50,
-    "language": null,
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1187608440,
-    "name": "sublime-text-full",
-    "owner": {
-      "id": 257167777,
-      "url": "https://api.github.com/users/TigerDistinguish30",
-      "html_url": "https://github.com/TigerDistinguish30",
-      "avatar_url": "https://avatars.githubusercontent.com/u/257167777?v=4"
-    },
-    "html_url": "https://github.com/TigerDistinguish30/sublime-text-full",
-    "description": "A high-performance, fully-featured text editing suite that combines lightning-fast performance with a comprehensive collection of essential plugins for modern software development.",
-    "created_at": "2026-03-20T23:32:10Z",
-    "updated_at": "2026-03-23T06:03:15Z",
-    "pushed_at": "2026-03-20T23:32:50Z",
-    "git_url": "git://github.com/TigerDistinguish30/sublime-text-full.git",
     "homepage": "",
     "size": 2,
     "stargazers_count": 50,
