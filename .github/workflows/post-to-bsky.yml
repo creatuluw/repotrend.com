@@ -31,6 +31,7 @@ jobs:
         env:
           BSKY_HANDLE: ${{ secrets.BSKY_HANDLE }}
           BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
+          MARKUPGO_API_KEY: ${{ secrets.MARKUPGO_API_KEY }}
         run: npm run post-to-bsky
 
       - name: Commit and push changes
