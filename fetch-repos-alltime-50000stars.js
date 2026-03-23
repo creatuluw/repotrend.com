@@ -1,6 +1,6 @@
-const https = require("https");
-const fs = require("fs");
-const path = require("path");
+import https from "https";
+import fs from "fs";
+import path from "path";
 
 // Format date as YYYYMMDD
 function getDateString() {
@@ -78,9 +78,7 @@ async function main() {
   const query = encodeURIComponent("stars:>=50000");
   const apiUrl = `https://api.github.com/search/repositories?q=${query}&sort=stars&order=desc&per_page=100`;
 
-  console.log(
-    `Fetching all time repos with >= 50000 stars...`,
-  );
+  console.log(`Fetching all time repos with >= 50000 stars...`);
   console.log(`API URL: ${apiUrl}`);
 
   try {
