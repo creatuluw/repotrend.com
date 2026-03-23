@@ -127,7 +127,15 @@ function generateCardHtml(repo) {
   }
 
   // Get owner name
-  const ownerName = repo.owner?.login || "unknown";
+  let ownerName = repo.owner?.login;
+  if (!ownerName && repo.html_url) {
+    // Extract owner from html_url like https://github.com/owner/repo
+    const match = repo.html_url.match(/github\.com\/([^\/]+)/);
+    if (match) {
+      ownerName = match[1];
+    }
+  }
+  ownerName = ownerName || "unknown";
 
   // Get topics (max 4)
   const topics = (repo.topics || []).slice(0, 4);
