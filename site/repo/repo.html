@@ -618,9 +618,11 @@
         <div class="redirect-footer">
             <div class="redirect-content">
                 <p class="redirect-text">
-                    Redirecting to
-                    <a href="{{GITHUB_URL}}" target="_blank">{{GITHUB_URL}}</a>
-                    in <span id="countdown">5</span> seconds...
+                    Redirecting to GitHub in
+                    <span id="countdown">10</span> seconds...
+                    <a href="{{GITHUB_URL}}" target="_blank" class="direct-link"
+                        >Go directly to {{REPO_NAME}} →</a
+                    >
                 </p>
                 <div class="countdown-bar">
                     <div class="countdown-track">
@@ -631,7 +633,7 @@
                         ></div>
                     </div>
                     <span class="countdown-number" id="countdown-number"
-                        >5s</span
+                        >10s</span
                     >
                 </div>
             </div>
@@ -655,12 +657,12 @@
                 const countdownNumber =
                     document.getElementById("countdown-number");
                 const redirectUrl = "{{GITHUB_URL}}";
-                let seconds = 5;
+                let seconds = 10;
 
                 const interval = setInterval(function () {
                     seconds--;
                     countdownEl.textContent = seconds;
-                    countdownFill.style.width = seconds * 20 + "%";
+                    countdownFill.style.width = seconds * 10 + "%";
                     countdownNumber.textContent = seconds + "s";
 
                     if (seconds <= 0) {
