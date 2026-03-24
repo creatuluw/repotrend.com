@@ -2,9 +2,8 @@ name: Fetch Top Repos
 
 on:
   schedule:
-    # Run 4 times a day at 00:00, 06:00, 12:00, 18:00 UTC
     - cron: "0 0,6,12,18 * * *"
-  workflow_dispatch: # Allow manual trigger
+  workflow_dispatch:
 
 concurrency:
   group: fetch-repos
@@ -19,36 +18,38 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: "20"
 
-      - name: Fetch repos (all time, 50000+ stars)
-        run: node fetch-repos-alltime-50000stars.js
-
-      - name: Fetch repos (2 years, 10000+ stars)
-        run: node fetch-repos-2years-10000stars.js
-
-      - name: Fetch repos (90 days, 1000+ stars)
-        run: node fetch-repos-90days-1000stars.js
-
-      - name: Fetch repos (30 days, 100-999 stars)
-        run: node fetch-repos-30days-100-999stars.js
-
-      - name: Fetch repos (3 days, 50-99 stars)
-        run: node fetch-repos-3days-50-99stars.js
-
-      - name: Commit and push changes
+      - name: Sync with remote and run all fetch scripts
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
-          git fetch origin
+
+          # Clean any leftover state and sync with remote FIRST
+          git checkout -- .
+          git clean -fd
+          git fetch origin ${{ github.ref_name }}
           git reset --hard origin/${{ github.ref_name }}
+
+          # Now run all fetch scripts
+          node fetch-repos-alltime-50000stars.js
+          node fetch-repos-2years-10000stars.js
+          node fetch-repos-90days-1000stars.js
+          node fetch-repos-30days-100-999stars.js
+          node fetch-repos-3days-50-99stars.js
+
+          # Commit and push changes
           git add data/
-          git diff --staged --quiet || git commit -m "Update repos data $(date -u +%Y-%m-%d)"
-          git push origin HEAD:${{ github.ref_name }}
+          if ! git diff --staged --quiet; then
+            git commit -m "Update repos data $(date -u +%Y-%m-%d)"
+            git push origin HEAD:${{ github.ref_name }}
+          fi
