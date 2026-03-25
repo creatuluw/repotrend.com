@@ -481,5 +481,74 @@
     "language": "Rust",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1166139870,
+    "name": "openfang",
+    "owner": {
+      "id": 226207176,
+      "url": "https://api.github.com/users/RightNow-AI",
+      "html_url": "https://github.com/RightNow-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/226207176?v=4"
+    },
+    "html_url": "https://github.com/RightNow-AI/openfang",
+    "description": "Open-source Agent Operating System",
+    "created_at": "2026-02-24T23:12:38Z",
+    "updated_at": "2026-03-23T17:43:35Z",
+    "pushed_at": "2026-03-20T00:50:11Z",
+    "git_url": "git://github.com/RightNow-AI/openfang.git",
+    "homepage": "https://www.openfang.sh/",
+    "size": 8376,
+    "stargazers_count": 15339,
+    "watchers_count": 15339,
+    "language": "Rust",
+    "forks_count": 1854,
+    "open_issues_count": 106
+  },
+  {
+    "id": 1184866064,
+    "name": "codex-autoresearch",
+    "owner": {
+      "id": 36369803,
+      "url": "https://api.github.com/users/leo-lilinxiao",
+      "html_url": "https://github.com/leo-lilinxiao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36369803?v=4"
+    },
+    "html_url": "https://github.com/leo-lilinxiao/codex-autoresearch",
+    "description": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept.",
+    "created_at": "2026-03-18T02:20:03Z",
+    "updated_at": "2026-03-24T18:11:22Z",
+    "pushed_at": "2026-03-23T14:42:13Z",
+    "git_url": "git://github.com/leo-lilinxiao/codex-autoresearch.git",
+    "homepage": null,
+    "size": 3045,
+    "stargazers_count": 651,
+    "watchers_count": 651,
+    "language": "Python",
+    "forks_count": 74,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1188319115,
+    "name": "sts2-cli",
+    "owner": {
+      "id": 12581701,
+      "url": "https://api.github.com/users/wuhao21",
+      "html_url": "https://github.com/wuhao21",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12581701?v=4"
+    },
+    "html_url": "https://github.com/wuhao21/sts2-cli",
+    "description": "Headless Slay the Spire 2 CLI — play the full game from a terminal.",
+    "created_at": "2026-03-21T23:01:42Z",
+    "updated_at": "2026-03-24T16:48:06Z",
+    "pushed_at": "2026-03-24T07:17:30Z",
+    "git_url": "git://github.com/wuhao21/sts2-cli.git",
+    "homepage": "",
+    "size": 19418,
+    "stargazers_count": 67,
+    "watchers_count": 67,
+    "language": "C#",
+    "forks_count": 5,
+    "open_issues_count": 3
   }
 ]
