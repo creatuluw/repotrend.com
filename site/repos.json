@@ -205,5 +205,74 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1136666433,
+    "name": "humanizer",
+    "owner": {
+      "id": 1672,
+      "url": "https://api.github.com/users/blader",
+      "html_url": "https://github.com/blader",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1672?v=4"
+    },
+    "html_url": "https://github.com/blader/humanizer",
+    "description": "Claude Code skill that removes signs of AI-generated writing from text",
+    "created_at": "2026-01-18T05:30:15Z",
+    "updated_at": "2026-03-23T18:16:20Z",
+    "pushed_at": "2026-03-20T00:45:10Z",
+    "git_url": "git://github.com/blader/humanizer.git",
+    "homepage": null,
+    "size": 47,
+    "stargazers_count": 10731,
+    "watchers_count": 10731,
+    "language": null,
+    "forks_count": 876,
+    "open_issues_count": 53
+  },
+  {
+    "id": 1173309453,
+    "name": "Research-Paper-Writing-Skills",
+    "owner": {
+      "id": 37432881,
+      "url": "https://api.github.com/users/Master-cai",
+      "html_url": "https://github.com/Master-cai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37432881?v=4"
+    },
+    "html_url": "https://github.com/Master-cai/Research-Paper-Writing-Skills",
+    "description": "Skill package for ML/CV/NLP paper writing, curated and adapted from Prof. Peng Sida's open notes for Codex, Claude Code, and Gemini.",
+    "created_at": "2026-03-05T08:19:31Z",
+    "updated_at": "2026-03-24T17:53:07Z",
+    "pushed_at": "2026-03-05T08:29:18Z",
+    "git_url": "git://github.com/Master-cai/Research-Paper-Writing-Skills.git",
+    "homepage": null,
+    "size": 44,
+    "stargazers_count": 816,
+    "watchers_count": 816,
+    "language": null,
+    "forks_count": 28,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1188755797,
+    "name": "Mnemonic-Seed-Recovery-2026",
+    "owner": {
+      "id": 269586707,
+      "url": "https://api.github.com/users/rockduke932",
+      "html_url": "https://github.com/rockduke932",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269586707?v=4"
+    },
+    "html_url": "https://github.com/rockduke932/Mnemonic-Seed-Recovery-2026",
+    "description": "Professional BIP-39 seed phrase and password recovery tool for Bitcoin, Ethereum, and MetaMask. High-speed GPU-accelerated engine for lost crypto asset retrieval. 100% offline and secure.",
+    "created_at": "2026-03-22T14:43:02Z",
+    "updated_at": "2026-03-23T16:33:00Z",
+    "pushed_at": "2026-03-22T14:45:23Z",
+    "git_url": "git://github.com/rockduke932/Mnemonic-Seed-Recovery-2026.git",
+    "homepage": "",
+    "size": 8,
+    "stargazers_count": 68,
+    "watchers_count": 68,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
