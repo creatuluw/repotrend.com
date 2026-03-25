@@ -2,6 +2,12 @@ import fs from "fs";
 import path from "path";
 import { dirname } from "path";
 import { fileURLToPath } from "url";
+import {
+  readTemplate,
+  generateOgImage,
+  generateRepoPage,
+  OUTPUT_DIR,
+} from "./generate-repo-pages.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -105,24 +111,16 @@ async function main() {
     while (attempts < 100 && !found) {
       const randomRepo = pickRandomRepo(filePath);
 
-      // Only require pages for repos if we already have existing repos (not first run)
-      const requirePage = existingRepos.length > 0;
-
+      // Check if repo is already in our lists (existing or newly picked)
       if (
         !repoExistsInList(randomRepo, existingRepos) &&
-        !repoExistsInList(randomRepo, newRepos) &&
-        (!requirePage || repoPageExists(randomRepo))
+        !repoExistsInList(randomRepo, newRepos)
       ) {
         newRepos.push(randomRepo);
         console.log(
           `  + Picked repo: ${randomRepo.name} (${randomRepo.stargazers_count} stars)`,
         );
         found = true;
-      } else if (!repoPageExists(randomRepo)) {
-        console.log(
-          `  - Skipping ${randomRepo.name}: no HTML page exists in site/repo/`,
-        );
-        attempts++;
       } else {
         attempts++;
       }
@@ -130,18 +128,51 @@ async function main() {
 
     if (!found) {
       console.log(
-        `  - Could not find a new repo for ${prefix} (all 100 were already in repos.json or missing pages)`,
+        `  - Could not find a new repo for ${prefix} (all 100 were already in repos.json)`,
       );
       skippedRepos.push(prefix);
     }
   }
 
-  // Append new repos to repos.json
+  // Append new repos to repos.json and generate HTML pages
   if (newRepos.length > 0) {
     const updatedRepos = [...existingRepos, ...newRepos];
     fs.writeFileSync(reposFilePath, JSON.stringify(updatedRepos, null, 2));
     console.log(`\nAdded ${newRepos.length} new repos to site/repos.json`);
     console.log(`Total repos now: ${updatedRepos.length}`);
+
+    // Generate HTML pages for new repos
+    console.log("\n=== Generating HTML pages for new repos ===");
+
+    // Ensure output directory exists
+    if (!fs.existsSync(OUTPUT_DIR)) {
+      fs.mkdirSync(OUTPUT_DIR, { recursive: true });
+    }
+
+    // Read the HTML template
+    const template = readTemplate();
+    if (!template) {
+      console.error("Error: Could not read HTML template");
+    } else {
+      for (const repo of newRepos) {
+        const repoName = repo.name;
+        const outputFile = path.join(OUTPUT_DIR, `${repoName}.html`);
+
+        console.log(`Generating page for ${repoName}...`);
+
+        // Generate OG image
+        const ogImageUrl = await generateOgImage(repo);
+        console.log(`  OG Image: ${ogImageUrl}`);
+
+        // Generate HTML page
+        const pageHtml = generateRepoPage(template, repo, ogImageUrl);
+
+        // Save HTML page
+        fs.writeFileSync(outputFile, pageHtml);
+        console.log(`  Saved: ${outputFile}`);
+      }
+      console.log(`\n=== Generated ${newRepos.length} HTML pages ===`);
+    }
   } else {
     console.log("\nNo new repos to add");
   }

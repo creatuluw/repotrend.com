@@ -20,6 +20,15 @@ const MARKUPGO_API_KEY = process.env.MARKUPGO_API_KEY;
 // Base URL for the deployed repo pages
 const BASE_URL = "https://te9.dev/repotrend/repo";
 
+// Directory where repo HTML pages are stored
+const REPO_DIR = path.join(process.cwd(), "site", "repo");
+
+// Check if repo has a corresponding HTML page
+function repoPageExists(repo) {
+  const pagePath = path.join(REPO_DIR, `${repo.name}.html`);
+  return fs.existsSync(pagePath);
+}
+
 // Ensure bsky directory exists
 if (!fs.existsSync(BSKY_DIR)) {
   fs.mkdirSync(BSKY_DIR, { recursive: true });
@@ -56,12 +65,27 @@ function savePostedRepos(postedRepos) {
   console.log("Updated posted repos tracking file.");
 }
 
-// Pick a random repo that hasn't been posted yet
+// Pick a random repo that hasn't been posted yet AND has an HTML page
 function pickUnpostedRepo(repos, postedRepos) {
   const postedIds = new Set(postedRepos.map((r) => r.id));
-  const unpostedRepos = repos.filter((repo) => !postedIds.has(repo.id));
+
+  // Filter for repos that:
+  // 1. Haven't been posted yet
+  // 2. Have an HTML page in site/repo/
+  const unpostedRepos = repos.filter(
+    (repo) => !postedIds.has(repo.id) && repoPageExists(repo),
+  );
 
   if (unpostedRepos.length === 0) {
+    // Check why we have no repos to post
+    const reposWithoutPages = repos.filter(
+      (repo) => !postedIds.has(repo.id) && !repoPageExists(repo),
+    );
+    if (reposWithoutPages.length > 0) {
+      console.log(
+        `Note: ${reposWithoutPages.length} unposted repos are missing HTML pages.`,
+      );
+    }
     console.log("All repos have been posted already!");
     return null;
   }

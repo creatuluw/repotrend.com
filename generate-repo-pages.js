@@ -357,6 +357,22 @@ function generateRepoPage(template, repo, ogImageUrl) {
   return html;
 }
 
+// Export functions and constants for use by other modules
+export {
+  SITE_DIR,
+  REPOS_FILE,
+  TEMPLATE_FILE,
+  OUTPUT_DIR,
+  BASE_URL,
+  readTemplate,
+  formatNumber,
+  getLanguageCss,
+  getOwnerName,
+  generateOgImage,
+  generateRepoPage,
+  escapeHtml,
+};
+
 async function main() {
   console.log("=== RepoTrend HTML Page Generator ===\n");
 
