@@ -412,5 +412,74 @@
     "language": null,
     "forks_count": 12,
     "open_issues_count": 0
+  },
+  {
+    "id": 1133883850,
+    "name": "copilot-sdk",
+    "owner": {
+      "id": 9919,
+      "url": "https://api.github.com/users/github",
+      "html_url": "https://github.com/github",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=4"
+    },
+    "html_url": "https://github.com/github/copilot-sdk",
+    "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+    "created_at": "2026-01-14T00:23:22Z",
+    "updated_at": "2026-03-24T18:21:51Z",
+    "pushed_at": "2026-03-24T18:21:49Z",
+    "git_url": "git://github.com/github/copilot-sdk.git",
+    "homepage": null,
+    "size": 6841,
+    "stargazers_count": 7993,
+    "watchers_count": 7993,
+    "language": "TypeScript",
+    "forks_count": 1014,
+    "open_issues_count": 158
+  },
+  {
+    "id": 1172628896,
+    "name": "novalclaw",
+    "owner": {
+      "id": 196589323,
+      "url": "https://api.github.com/users/Superagentsys",
+      "html_url": "https://github.com/Superagentsys",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196589323?v=4"
+    },
+    "html_url": "https://github.com/Superagentsys/novalclaw",
+    "description": "novalclaw is next generation AI format",
+    "created_at": "2026-03-04T14:23:13Z",
+    "updated_at": "2026-03-24T18:16:09Z",
+    "pushed_at": "2026-03-24T14:24:45Z",
+    "git_url": "git://github.com/Superagentsys/novalclaw.git",
+    "homepage": null,
+    "size": 34148,
+    "stargazers_count": 816,
+    "watchers_count": 816,
+    "language": "Rust",
+    "forks_count": 45,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1188093383,
+    "name": "mouse-fs",
+    "owner": {
+      "id": 115550741,
+      "url": "https://api.github.com/users/timwehrle",
+      "html_url": "https://github.com/timwehrle",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115550741?v=4"
+    },
+    "html_url": "https://github.com/timwehrle/mouse-fs",
+    "description": "Store 2 bytes of arbitrary data in a Logitech mouse's DPI register",
+    "created_at": "2026-03-21T15:58:27Z",
+    "updated_at": "2026-03-24T06:45:50Z",
+    "pushed_at": "2026-03-23T19:06:25Z",
+    "git_url": "git://github.com/timwehrle/mouse-fs.git",
+    "homepage": "",
+    "size": 9,
+    "stargazers_count": 70,
+    "watchers_count": 70,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
