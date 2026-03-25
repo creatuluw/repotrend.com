@@ -550,5 +550,74 @@
     "language": "C#",
     "forks_count": 5,
     "open_issues_count": 3
+  },
+  {
+    "id": 1157656960,
+    "name": "vscode-dark-islands",
+    "owner": {
+      "id": 6300377,
+      "url": "https://api.github.com/users/bwya77",
+      "html_url": "https://github.com/bwya77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6300377?v=4"
+    },
+    "html_url": "https://github.com/bwya77/vscode-dark-islands",
+    "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
+    "created_at": "2026-02-14T05:06:12Z",
+    "updated_at": "2026-03-24T16:40:27Z",
+    "pushed_at": "2026-02-25T19:48:45Z",
+    "git_url": "git://github.com/bwya77/vscode-dark-islands.git",
+    "homepage": "",
+    "size": 14940,
+    "stargazers_count": 5235,
+    "watchers_count": 5235,
+    "language": "PowerShell",
+    "forks_count": 161,
+    "open_issues_count": 49
+  },
+  {
+    "id": 1176200341,
+    "name": "ClawVault",
+    "owner": {
+      "id": 31276772,
+      "url": "https://api.github.com/users/tophant-ai",
+      "html_url": "https://github.com/tophant-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31276772?v=4"
+    },
+    "html_url": "https://github.com/tophant-ai/ClawVault",
+    "description": "OpenClaw Security Vault — Atomic \"claw\" control: every AI reach, within your sight.",
+    "created_at": "2026-03-08T18:49:37Z",
+    "updated_at": "2026-03-23T17:22:47Z",
+    "pushed_at": "2026-03-19T15:05:25Z",
+    "git_url": "git://github.com/tophant-ai/ClawVault.git",
+    "homepage": "",
+    "size": 2175,
+    "stargazers_count": 872,
+    "watchers_count": 872,
+    "language": "Python",
+    "forks_count": 10,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1186907729,
+    "name": "BioReason-Pro",
+    "owner": {
+      "id": 50999261,
+      "url": "https://api.github.com/users/bowang-lab",
+      "html_url": "https://github.com/bowang-lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50999261?v=4"
+    },
+    "html_url": "https://github.com/bowang-lab/BioReason-Pro",
+    "description": "BioReason-Pro: Advancing Protein Function Prediction with Multimodal Biological Reasoning",
+    "created_at": "2026-03-20T05:47:17Z",
+    "updated_at": "2026-03-23T13:36:55Z",
+    "pushed_at": "2026-03-20T15:00:53Z",
+    "git_url": "git://github.com/bowang-lab/BioReason-Pro.git",
+    "homepage": "https://bioreason.net",
+    "size": 4670,
+    "stargazers_count": 76,
+    "watchers_count": 76,
+    "language": "Jupyter Notebook",
+    "forks_count": 8,
+    "open_issues_count": 0
   }
 ]
