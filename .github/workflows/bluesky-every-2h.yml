@@ -1,8 +1,8 @@
-name: Bluesky Every 2 Hours
+name: Bluesky Every Hour
 
 on:
   schedule:
-    - cron: "0 */2 * * *" # Every 2 hours at minute 0
+    - cron: "0 * * * *" # Every hour at minute 0
   workflow_dispatch:
 
 concurrency:
