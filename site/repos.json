@@ -1378,5 +1378,74 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1178737655,
+    "name": "OpenMAIC",
+    "owner": {
+      "id": 163809488,
+      "url": "https://api.github.com/users/THU-MAIC",
+      "html_url": "https://github.com/THU-MAIC",
+      "avatar_url": "https://avatars.githubusercontent.com/u/163809488?v=4"
+    },
+    "html_url": "https://github.com/THU-MAIC/OpenMAIC",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+    "created_at": "2026-03-11T10:13:16Z",
+    "updated_at": "2026-03-26T18:03:47Z",
+    "pushed_at": "2026-03-26T15:57:32Z",
+    "git_url": "git://github.com/THU-MAIC/OpenMAIC.git",
+    "homepage": null,
+    "size": 71038,
+    "stargazers_count": 12479,
+    "watchers_count": 12479,
+    "language": "TypeScript",
+    "forks_count": 1933,
+    "open_issues_count": 134
+  },
+  {
+    "id": 1187817252,
+    "name": "My-Brain-Is-Full-Crew",
+    "owner": {
+      "id": 39567665,
+      "url": "https://api.github.com/users/gnekt",
+      "html_url": "https://github.com/gnekt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39567665?v=4"
+    },
+    "html_url": "https://github.com/gnekt/My-Brain-Is-Full-Crew",
+    "description": "Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had its own agenda. Most second brain tools ignore the fact that your brain doesn't work in isolation: your body and your mental health are part of the system too. This crew handles all three: knowledge, nutrition, and mental wellness.",
+    "created_at": "2026-03-21T07:52:53Z",
+    "updated_at": "2026-03-25T11:39:49Z",
+    "pushed_at": "2026-03-25T11:00:01Z",
+    "git_url": "git://github.com/gnekt/My-Brain-Is-Full-Crew.git",
+    "homepage": "",
+    "size": 208,
+    "stargazers_count": 662,
+    "watchers_count": 662,
+    "language": "Shell",
+    "forks_count": 75,
+    "open_issues_count": 12
+  },
+  {
+    "id": 1187812883,
+    "name": "windows-extreme-injector",
+    "owner": {
+      "id": 257170134,
+      "url": "https://api.github.com/users/CrackBenefactorPipe",
+      "html_url": "https://github.com/CrackBenefactorPipe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/257170134?v=4"
+    },
+    "html_url": "https://github.com/CrackBenefactorPipe/windows-extreme-injector",
+    "description": "Optimize DLL deployment with the Windows Extreme Injector on GitHub. Advanced features for professional library mapping and process automation.",
+    "created_at": "2026-03-21T07:43:59Z",
+    "updated_at": "2026-03-23T06:03:33Z",
+    "pushed_at": "2026-03-21T07:45:54Z",
+    "git_url": "git://github.com/CrackBenefactorPipe/windows-extreme-injector.git",
+    "homepage": "",
+    "size": 2,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 1
   }
 ]
