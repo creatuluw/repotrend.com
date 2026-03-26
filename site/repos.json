@@ -964,5 +964,74 @@
     "language": "Python",
     "forks_count": 27,
     "open_issues_count": 0
+  },
+  {
+    "id": 1167965563,
+    "name": "symphony",
+    "owner": {
+      "id": 14957082,
+      "url": "https://api.github.com/users/openai",
+      "html_url": "https://github.com/openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "html_url": "https://github.com/openai/symphony",
+    "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
+    "created_at": "2026-02-26T21:54:00Z",
+    "updated_at": "2026-03-24T18:16:16Z",
+    "pushed_at": "2026-03-19T19:34:30Z",
+    "git_url": "git://github.com/openai/symphony.git",
+    "homepage": null,
+    "size": 30082,
+    "stargazers_count": 13955,
+    "watchers_count": 13955,
+    "language": "Elixir",
+    "forks_count": 1127,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1171942248,
+    "name": "clawport-ui",
+    "owner": {
+      "id": 88048872,
+      "url": "https://api.github.com/users/JohnRiceML",
+      "html_url": "https://github.com/JohnRiceML",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88048872?v=4"
+    },
+    "html_url": "https://github.com/JohnRiceML/clawport-ui",
+    "description": "Open-source AI agent command center for Claude Code agent teams. Built on OpenClaw.",
+    "created_at": "2026-03-03T19:27:07Z",
+    "updated_at": "2026-03-26T12:12:11Z",
+    "pushed_at": "2026-03-24T15:57:14Z",
+    "git_url": "git://github.com/JohnRiceML/clawport-ui.git",
+    "homepage": "https://clawport.dev",
+    "size": 2394,
+    "stargazers_count": 747,
+    "watchers_count": 747,
+    "language": "TypeScript",
+    "forks_count": 113,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1190565731,
+    "name": "My-TW-Coverage",
+    "owner": {
+      "id": 9566775,
+      "url": "https://api.github.com/users/Timeverse",
+      "html_url": "https://github.com/Timeverse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9566775?v=4"
+    },
+    "html_url": "https://github.com/Timeverse/My-TW-Coverage",
+    "description": "Equity research coverage of 1,735 Taiwan-listed companies (TWSE + OTC). Business overviews, supply chain mapping, and financial data with wikilink cross-referencing.",
+    "created_at": "2026-03-24T12:08:06Z",
+    "updated_at": "2026-03-24T18:16:53Z",
+    "pushed_at": "2026-03-24T12:08:13Z",
+    "git_url": "git://github.com/Timeverse/My-TW-Coverage.git",
+    "homepage": null,
+    "size": 7107,
+    "stargazers_count": 59,
+    "watchers_count": 59,
+    "language": "Python",
+    "forks_count": 9,
+    "open_issues_count": 0
   }
 ]
