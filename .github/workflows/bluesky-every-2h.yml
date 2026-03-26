@@ -49,7 +49,7 @@ jobs:
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
 
           # Stage the files we want to commit
-          git add site/repos.json site/repo/
+          git add site/repos.json site/repo/ site/og-images/
 
           # Check if there's anything to commit
           if git diff --staged --quiet; then
@@ -69,7 +69,7 @@ jobs:
           git stash pop
 
           # Re-stage and commit
-          git add site/repos.json site/repo/
+          git add site/repos.json site/repo/ site/og-images/
           git commit -m "Add random repos and generate pages $(date -u +%Y-%m-%dT%H:%M:%SZ)"
 
           # Push
