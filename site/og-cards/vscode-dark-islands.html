@@ -1,103 +1,4 @@
-import fs from "fs";
-import path from "path";
-
-const SITE_DIR = path.join(process.cwd(), "site");
-const REPOS_FILE = path.join(SITE_DIR, "repos.json");
-const TEMPLATE_FILE = path.join(SITE_DIR, "repo", "repo.html");
-const OUTPUT_DIR = path.join(SITE_DIR, "repo");
-const OG_CARDS_DIR = path.join(SITE_DIR, "og-cards");
-
-// Base URL for the deployed pages
-const BASE_URL = "https://te9.dev/repotrend";
-const OG_CARDS_URL = `${BASE_URL}/og-cards`;
-
-function readRepos() {
-  try {
-    const data = fs.readFileSync(REPOS_FILE, "utf8");
-    return JSON.parse(data);
-  } catch (error) {
-    console.error("Error reading repos file:", error.message);
-    return [];
-  }
-}
-
-function readTemplate() {
-  try {
-    return fs.readFileSync(TEMPLATE_FILE, "utf8");
-  } catch (error) {
-    console.error("Error reading template:", error.message);
-    return null;
-  }
-}
-
-function formatNumber(num) {
-  if (num >= 1000000) {
-    return (num / 1000000).toFixed(1) + "M";
-  }
-  if (num >= 1000) {
-    return (num / 1000).toFixed(1) + "k";
-  }
-  return num.toString();
-}
-
-function getLanguageCss(language) {
-  const langMap = {
-    JavaScript: "javascript",
-    TypeScript: "typescript",
-    Python: "python",
-    Rust: "rust",
-    Go: "go",
-    "C++": "cpp",
-    Java: "java",
-    Ruby: "ruby",
-    PHP: "php",
-    Swift: "swift",
-    Kotlin: "kotlin",
-  };
-  return langMap[language] || "default";
-}
-
-function getOwnerName(repo) {
-  // Try owner.login first, then extract from html_url
-  if (repo.owner?.login) {
-    return repo.owner.login;
-  }
-  if (repo.owner?.html_url) {
-    // Extract owner name from URL like "https://github.com/username"
-    const match = repo.owner.html_url.match(/github\.com\/(.+)/);
-    if (match && match[1]) {
-      return match[1].split("/").pop() || "unknown";
-    }
-  }
-  return "unknown";
-}
-
-function saveOgCardHtml(repo, repoName) {
-  const cardHtml = generateOgCardHtml(repo);
-  const ogCardFile = path.join(OG_CARDS_DIR, `${repoName}.html`);
-  fs.writeFileSync(ogCardFile, cardHtml);
-  return `${OG_CARDS_URL}/${repoName}.html`;
-}
-
-function generateOgCardHtml(repo) {
-  let description = repo.description || "No description";
-  if (description.length > 150) {
-    description = description.substring(0, 147) + "...";
-  }
-
-  const repoName = repo.name || "Unknown Repo";
-  const ownerName = getOwnerName(repo);
-  const stars = formatNumber(repo.stargazers_count || 0);
-  const forks = formatNumber(repo.forks_count || 0);
-  const language = repo.language || "Code";
-  const languageCss = getLanguageCss(language);
-  const topics = (repo.topics || []).slice(0, 4);
-
-  const topicsHtml = topics
-    .map((topic) => `<span class="topic">${topic}</span>`)
-    .join("");
-
-  return `<!doctype html>
+<!doctype html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -175,33 +76,33 @@ function generateOgCardHtml(repo) {
         <span class="trending-badge">found on te9.dev</span>
       </header>
       <div class="main">
-        <h1 class="repo-name">${escapeHtml(repoName)}</h1>
+        <h1 class="repo-name">vscode-dark-islands</h1>
         <div class="owner">
           <span class="owner-label">by</span>
-          <span class="owner-name">${escapeHtml(ownerName)}</span>
+          <span class="owner-name">bwya77</span>
         </div>
-        <p class="description">${escapeHtml(description)}</p>
-        ${topics.length > 0 ? `<div class="topics">${topicsHtml}</div>` : ""}
+        <p class="description">VSCode theme based off the easemate IDE and Jetbrains islands theme</p>
+        
       </div>
       <footer class="footer">
              <div class="stat stat-stars">
           <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#ffb347" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
-          <span>${stars}</span>
+          <span>5.2k</span>
         </div>
         <div class="stat stat-forks">
           <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#888888" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="18" r="3"/><circle cx="6" cy="6" r="3"/><circle cx="18" cy="6" r="3"/><path d="M18 9v2c0 .6-.4 1-1 1H7c-.6 0-1-.4-1-1V9"/><path d="M12 12v3"/></svg>
-          <span>${forks}</span>
+          <span>161</span>
         </div>
         <div class="language">
-          <div class="lang-dot lang-${languageCss}"></div>
-          <span>${escapeHtml(language)}</span>
+          <div class="lang-dot lang-default"></div>
+          <span>PowerShell</span>
         </div>
         <div class="footer-right">
           <div class="github-link">
             <svg class="github-icon" viewBox="0 0 24 24">
               <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/>
             </svg>
-            <span>${escapeHtml(ownerName)}</span>
+            <span>bwya77</span>
           </div>
           <div class="te9-link"><span>te9.dev</span></div>
         </div>
@@ -209,144 +110,4 @@ function generateOgCardHtml(repo) {
     </div>
   </div>
 </body>
-</html>`;
-}
-
-function escapeHtml(text) {
-  const div = { innerHTML: "" };
-  return String(text)
-    .replace(/&/g, "&amp;")
-    .replace(/</g, "&lt;")
-    .replace(/>/g, "&gt;")
-    .replace(/"/g, "&quot;")
-    .replace(/'/g, "&#039;");
-}
-
-function generateRepoPage(template, repo, ogImageUrl) {
-  let description = repo.description || "No description";
-  if (description.length > 200) {
-    description = description.substring(0, 197) + "...";
-  }
-
-  const repoName = repo.name || "Unknown Repo";
-  const ownerName = getOwnerName(repo);
-  const avatarUrl = repo.owner?.avatar_url || "";
-  const stars = formatNumber(repo.stargazers_count || 0);
-  const forks = formatNumber(repo.forks_count || 0);
-  const language = repo.language || "Code";
-  const languageCss = getLanguageCss(language);
-  const topics = (repo.topics || []).slice(0, 4);
-
-  const pageUrl = `${BASE_URL}/${repoName}.html`;
-  const githubUrl = repo.html_url || repo.homepage || "#";
-
-  let html = template;
-
-  // Replace simple placeholders
-  html = html.replace(/\{\{REPO_NAME\}\}/g, repoName);
-  html = html.replace(/\{\{OWNER_NAME\}\}/g, ownerName);
-  html = html.replace(/\{\{OWNER_URL\}\}/g, repo.owner?.html_url || "#");
-  html = html.replace(/\{\{GITHUB_AVATAR_URL\}\}/g, avatarUrl);
-  html = html.replace(/\{\{DESCRIPTION\}\}/g, description);
-  html = html.replace(/\{\{STARS\}\}/g, stars);
-  html = html.replace(/\{\{FORKS\}\}/g, forks);
-  html = html.replace(/\{\{LANGUAGE\}\}/g, language);
-  html = html.replace(/\{\{LANGUAGE_CSS\}\}/g, languageCss);
-  html = html.replace(/\{\{GITHUB_URL\}\}/g, githubUrl);
-  html = html.replace(/\{\{PAGE_URL\}\}/g, pageUrl);
-  html = html.replace(/\{\{OG_IMAGE_URL\}\}/g, ogImageUrl);
-
-  // Handle topics section - replace entire {{#if TOPICS}}...{{/if}} block
-  const topicsBlockRegex = /\{\{#if TOPICS\}\}[\s\S]*?\{\{\/if\}\}/;
-  if (topics.length > 0) {
-    const topicsHtml = topics
-      .map((topic) => `<span class="topic">${escapeHtml(topic)}</span>`)
-      .join("");
-    const topicsSection = `<div class="topics">${topicsHtml}</div>`;
-    html = html.replace(topicsBlockRegex, topicsSection);
-  } else {
-    html = html.replace(topicsBlockRegex, "");
-  }
-
-  return html;
-}
-
-// Export functions and constants for use by other modules
-export {
-  SITE_DIR,
-  REPOS_FILE,
-  TEMPLATE_FILE,
-  OUTPUT_DIR,
-  OG_CARDS_DIR,
-  BASE_URL,
-  OG_CARDS_URL,
-  readTemplate,
-  formatNumber,
-  getLanguageCss,
-  getOwnerName,
-  saveOgCardHtml,
-  generateOgCardHtml,
-  generateRepoPage,
-  escapeHtml,
-};
-
-async function main() {
-  console.log("=== RepoTrend HTML Page Generator ===\n");
-
-  // Ensure output directories exist
-  if (!fs.existsSync(OUTPUT_DIR)) {
-    fs.mkdirSync(OUTPUT_DIR, { recursive: true });
-  }
-  if (!fs.existsSync(OG_CARDS_DIR)) {
-    fs.mkdirSync(OG_CARDS_DIR, { recursive: true });
-  }
-
-  // Read repos
-  console.log("Reading repos from site/repos.json...");
-  const repos = readRepos();
-
-  if (repos.length === 0) {
-    console.error("Error: No repos found");
-    process.exit(1);
-  }
-  console.log(`Found ${repos.length} repos.\n`);
-
-  // Read template
-  console.log("Reading HTML template...");
-  const template = readTemplate();
-
-  if (!template) {
-    console.error("Error: Could not read template");
-    process.exit(1);
-  }
-  console.log("Template loaded.\n");
-
-  // Process each repo
-  for (const repo of repos) {
-    const repoName = repo.name;
-    const outputFile = path.join(OUTPUT_DIR, `${repoName}.html`);
-
-    console.log(`Processing ${repoName}...`);
-
-    // Save OG card HTML file
-    const ogCardUrl = saveOgCardHtml(repo, repoName);
-    console.log(`  OG Card: ${ogCardUrl}`);
-
-    // Generate HTML page
-    const pageHtml = generateRepoPage(template, repo, ogCardUrl);
-
-    // Save HTML page
-    fs.writeFileSync(outputFile, pageHtml);
-    console.log(`  Saved: ${outputFile}\n`);
-  }
-
-  console.log(`=== Generated ${repos.length} HTML pages ===`);
-  console.log(
-    `=== Generated ${repos.length} OG card HTML files in ${OG_CARDS_DIR} ===`,
-  );
-}
-
-main().catch((error) => {
-  console.error("Fatal error:", error);
-  process.exit(1);
-});
+</html>
