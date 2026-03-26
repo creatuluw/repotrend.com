@@ -4,11 +4,10 @@ import path from "path";
 const REPOS_FILE = path.join(process.cwd(), "site", "repos.json");
 const POSTED_FILE = path.join(process.cwd(), "bsky", "posted-repos.json");
 const BSKY_DIR = path.join(process.cwd(), "bsky");
-const CARD_TEMPLATE_FILE = path.join(process.cwd(), "bsky", "og-card-template.html");
+const OG_IMAGES_DIR = path.join(process.cwd(), "site", "og-images");
 
 const BSKY_HANDLE = process.env.BSKY_HANDLE;
 const BSKY_APP_PASSWORD = process.env.BSKY_APP_PASSWORD;
-const MARKUPGO_API_KEY = process.env.MARKUPGO_API_KEY;
 
 const DRY_RUN = process.argv.includes("--dry-run");
 
@@ -74,22 +73,38 @@ function generateCardHtml(repo) {
   const topics = (repo.topics || []).slice(0, 4);
 
   const langMap = {
-    JavaScript: "javascript", TypeScript: "typescript", Python: "python",
-    Rust: "rust", Go: "go", "C++": "cpp", Java: "java", Ruby: "ruby",
-    PHP: "php", Swift: "swift", Kotlin: "kotlin",
+    JavaScript: "javascript",
+    TypeScript: "typescript",
+    Python: "python",
+    Rust: "rust",
+    Go: "go",
+    "C++": "cpp",
+    Java: "java",
+    Ruby: "ruby",
+    PHP: "php",
+    Swift: "swift",
+    Kotlin: "kotlin",
   };
   const languageCss = langMap[repo.language] || "default";
 
   html = html.replace(/\{\{REPO_NAME\}\}/g, repoName);
   html = html.replace(/\{\{OWNER_NAME\}\}/g, ownerName);
   html = html.replace(/\{\{DESCRIPTION\}\}/g, description);
-  html = html.replace(/\{\{STARS\}\}/g, (repo.stargazers_count || 0).toString());
+  html = html.replace(
+    /\{\{STARS\}\}/g,
+    (repo.stargazers_count || 0).toString(),
+  );
   html = html.replace(/\{\{FORKS\}\}/g, (repo.forks_count || 0).toString());
   html = html.replace(/\{\{LANGUAGE\}\}/g, repo.language || "Code");
   html = html.replace(/\{\{LANGUAGE_CSS\}\}/g, languageCss);
 
-  const topicsHtml = topics.map((t) => `<span class="topic">${t}</span>`).join("");
-  html = html.replace(/\{\{#each TOPICS\}\}[\s\S]*?\{\{\/each\}\}/, topicsHtml || "");
+  const topicsHtml = topics
+    .map((t) => `<span class="topic">${t}</span>`)
+    .join("");
+  html = html.replace(
+    /\{\{#each TOPICS\}\}[\s\S]*?\{\{\/each\}\}/,
+    topicsHtml || "",
+  );
 
   return html;
 }
@@ -124,12 +139,13 @@ async function simulateWorkflow(repo) {
     console.log("  Saved to:", debugFile);
   }
 
-  console.log("\nStep 3: Would Generate OG Image");
-  if (MARKUPGO_API_KEY) {
-    console.log("  API Key: Set (would call markupgo API)");
+  console.log("\nStep 3: Would Get OG Image");
+  const localImagePath = path.join(OG_IMAGES_DIR, `${repo.name}.png`);
+  if (fs.existsSync(localImagePath)) {
+    console.log("  Local Image: Found at", localImagePath);
     console.log("  Image Size: 1200x630");
   } else {
-    console.log("  API Key: Not set (would skip image)");
+    console.log("  Local Image: Not found (would post without thumbnail)");
   }
 
   console.log("\nStep 4: Post Content");
@@ -148,13 +164,20 @@ async function simulateWorkflow(repo) {
 
   if (!DRY_RUN) {
     console.log("\nStep 6: Would Update posted-repos.json");
-    console.log("  Would add:", { id: repo.id, name: repo.name, html_url: repo.html_url });
+    console.log("  Would add:", {
+      id: repo.id,
+      name: repo.name,
+      html_url: repo.html_url,
+    });
   }
 
   console.log("\n=== Simulation Complete ===\n");
   console.log("This was a DRY RUN. No actual post was made to Bluesky.");
-  console.log("To actually post, set BSKY_HANDLE, BSKY_APP_PASSWORD, and MARKUPGO_API_KEY.");
-  console.log("Or remove --dry-run flag (not recommended without real credentials).\n");
+  console.log("To actually post, set BSKY_HANDLE and BSKY_APP_PASSWORD.");
+  console.log("Make sure site/og-images/ contains the PNG images.");
+  console.log(
+    "Or remove --dry-run flag (not recommended without real credentials).\n",
+  );
 }
 
 async function main() {

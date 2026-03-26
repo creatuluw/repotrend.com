@@ -31,14 +31,10 @@ jobs:
         run: npm install
 
       - name: Pick random repos
-        env:
-          MARKUPGO_API_KEY: ${{ secrets.MARKUPGO_API_KEY }}
         run: node pick-random-repos.js
 
       - name: Generate repo HTML pages
         run: node generate-repo-pages.js
-        env:
-          MARKUPGO_API_KEY: ${{ secrets.MARKUPGO_API_KEY }}
 
       - name: Commit and push changes
         env:
@@ -130,7 +126,6 @@ jobs:
         env:
           BSKY_HANDLE: ${{ secrets.BSKY_HANDLE }}
           BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
-          MARKUPGO_API_KEY: ${{ secrets.MARKUPGO_API_KEY }}
         run: npm run post-to-bsky
 
       - name: Commit and push changes
