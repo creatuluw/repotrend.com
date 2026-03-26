@@ -6,19 +6,15 @@ import { BskyAgent } from "@atproto/api";
 const REPOS_FILE = path.join(process.cwd(), "site", "repos.json");
 const POSTED_FILE = path.join(process.cwd(), "bsky", "posted-repos.json");
 const BSKY_DIR = path.join(process.cwd(), "bsky");
-const CARD_TEMPLATE_FILE = path.join(
-  process.cwd(),
-  "bsky",
-  "og-card-template.html",
-);
+const OG_IMAGES_DIR = path.join(process.cwd(), "site", "og-images");
 
 // Bluesky credentials from environment
 const BSKY_HANDLE = process.env.BSKY_HANDLE;
 const BSKY_APP_PASSWORD = process.env.BSKY_APP_PASSWORD;
-const MARKUPGO_API_KEY = process.env.MARKUPGO_API_KEY;
 
 // Base URL for the deployed repo pages
-const BASE_URL = "https://te9.dev/repotrend/repo";
+const BASE_URL = "https://te9.dev/repotrend";
+const OG_IMAGES_URL = `${BASE_URL}/og-images`;
 
 // Directory where repo HTML pages are stored
 const REPO_DIR = path.join(process.cwd(), "site", "repo");
@@ -196,118 +192,24 @@ function generateCardHtml(repo) {
   return html;
 }
 
-// Generate image using markupgo API
-async function generateOgImage(html) {
-  console.log("Generating OG image using markupgo API...");
-
-  try {
-    const response = await fetch("https://api.markupgo.com/api/v1/image", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-        "x-api-key": MARKUPGO_API_KEY,
-      },
-      body: JSON.stringify({
-        source: {
-          type: "html",
-          data: html,
-        },
-        options: {
-          properties: {
-            format: "png",
-            quality: 90,
-            width: 1200,
-            height: 630,
-            omitBackground: false,
-          },
-        },
-      }),
-    });
-
-    if (!response.ok) {
-      const errorText = await response.text();
-      throw new Error(`Markupgo API error: ${response.status} - ${errorText}`);
-    }
-
-    const result = await response.json();
-    console.log("Markupgo response:", result);
-
-    // The API returns a task with a URL to the generated image
-    if (result.url) {
-      console.log("Generated image URL:", result.url);
-      return result.url;
-    } else if (result.id) {
-      // Poll for the result if it's async
-      console.log("Image generation started, ID:", result.id);
-      return await pollForImageResult(result.id);
-    } else {
-      throw new Error("No image URL in response");
-    }
-  } catch (error) {
-    console.error("Error generating OG image:", error.message);
-    return null;
-  }
+// Get local OG image path for a repo
+function getLocalOgImagePath(repoName) {
+  const imagePath = path.join(OG_IMAGES_DIR, `${repoName}.png`);
+  return fs.existsSync(imagePath) ? imagePath : null;
 }
 
-// Poll for image result (if the API is async)
-async function pollForImageResult(taskId) {
-  const maxAttempts = 20;
-  const pollInterval = 2000; // 2 seconds
-
-  for (let i = 0; i < maxAttempts; i++) {
-    try {
-      console.log(`Polling for result... (attempt ${i + 1}/${maxAttempts})`);
-
-      const response = await fetch(
-        `https://api.markupgo.com/api/v1/image/${taskId}`,
-        {
-          headers: {
-            "x-api-key": MARKUPGO_API_KEY,
-          },
-        },
-      );
-
-      if (!response.ok) {
-        console.log(`Poll response not OK: ${response.status}`);
-        await new Promise((resolve) => setTimeout(resolve, pollInterval));
-        continue;
-      }
-
-      const result = await response.json();
-      console.log("Poll result:", result);
-
-      // Check if the image is ready
-      if (result.url) {
-        return result.url;
-      }
-
-      // Check status
-      if (result.status === "failed") {
-        throw new Error("Image generation failed");
-      }
-
-      // Wait before next poll
-      await new Promise((resolve) => setTimeout(resolve, pollInterval));
-    } catch (error) {
-      console.error("Error polling:", error.message);
-      await new Promise((resolve) => setTimeout(resolve, pollInterval));
-    }
-  }
-
-  throw new Error("Timeout waiting for image generation");
+// Get OG image URL for a repo
+function getOgImageUrl(repoName) {
+  return `${OG_IMAGES_URL}/${repoName}.png`;
 }
 
-// Download image and return as buffer
-async function downloadImage(imageUrl) {
-  if (!imageUrl) return null;
+// Read local image file and return as buffer
+function readLocalImage(imagePath) {
+  if (!imagePath) return null;
 
   try {
-    console.log(`Downloading image: ${imageUrl}`);
-    const response = await fetch(imageUrl);
-    if (!response.ok) {
-      throw new Error(`Failed to download: ${response.status}`);
-    }
-    const buffer = await response.arrayBuffer();
+    console.log(`Reading local image: ${imagePath}`);
+    const buffer = fs.readFileSync(imagePath);
 
     // Check size (limit to 1MB)
     if (buffer.byteLength > 1000000) {
@@ -315,9 +217,9 @@ async function downloadImage(imageUrl) {
       return null;
     }
 
-    return Buffer.from(buffer);
+    return buffer;
   } catch (error) {
-    console.error("Error downloading image:", error.message);
+    console.error("Error reading local image:", error.message);
     return null;
   }
 }
@@ -410,11 +312,6 @@ async function main() {
     process.exit(1);
   }
 
-  if (!MARKUPGO_API_KEY) {
-    console.error("Error: MARKUPGO_API_KEY environment variable must be set.");
-    process.exit(1);
-  }
-
   // Read repos
   console.log("Reading repos from site/repos.json...");
   const repos = readRepos();
@@ -440,27 +337,14 @@ async function main() {
   }
   console.log(`Selected: ${repo.name} (${repo.html_url})\n`);
 
-  // Generate HTML card for OG image
-  console.log("Generating HTML card...");
-  const cardHtml = generateCardHtml(repo);
-  if (!cardHtml) {
-    console.error("Failed to generate HTML card");
-    process.exit(1);
-  }
-
-  // Save HTML for debugging
-  const debugHtmlFile = path.join(BSKY_DIR, "debug-card.html");
-  fs.writeFileSync(debugHtmlFile, cardHtml);
-  console.log(`Debug HTML saved to ${debugHtmlFile}`);
-
-  // Generate image using markupgo
-  console.log("Generating OG image...");
-  const imageUrl = await generateOgImage(cardHtml);
+  // Get local OG image
+  console.log("Getting OG image...");
+  const localImagePath = getLocalOgImagePath(repo.name);
 
   let imageBlob = null;
-  if (imageUrl) {
-    // Download the generated image
-    const imageBuffer = await downloadImage(imageUrl);
+  if (localImagePath) {
+    console.log(`Found local image: ${localImagePath}`);
+    const imageBuffer = readLocalImage(localImagePath);
     if (imageBuffer) {
       // Login and upload blob
       console.log("Uploading thumbnail to Bluesky...");
@@ -471,6 +355,10 @@ async function main() {
       });
       imageBlob = await uploadBlob(agent, imageBuffer);
     }
+  } else {
+    console.log(
+      `No local image found for ${repo.name}, posting without thumbnail`,
+    );
   }
 
   // Post to Bluesky with external embed
