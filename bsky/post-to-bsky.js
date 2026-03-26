@@ -14,6 +14,7 @@ const BSKY_APP_PASSWORD = process.env.BSKY_APP_PASSWORD;
 
 // Base URL for the deployed repo pages
 const BASE_URL = "https://te9.dev/repotrend";
+const REPO_PAGES_URL = `${BASE_URL}/repo`;
 const OG_IMAGES_URL = `${BASE_URL}/og-images`;
 
 // Directory where repo HTML pages are stored
@@ -259,7 +260,7 @@ async function postToBluesky(repo, imageBlob) {
     const description = repo.description || "Trending on te9.dev";
     const stars = formatNumber(repo.stargazers_count || 0);
     const forks = formatNumber(repo.forks_count || 0);
-    const pageUrl = `${BASE_URL}/${repoName}.html`;
+    const pageUrl = `${REPO_PAGES_URL}/${repoName}.html`;
 
     // Build the external embed
     const external = {

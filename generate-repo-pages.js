@@ -11,6 +11,7 @@ const OG_IMAGES_DIR = path.join(SITE_DIR, "og-images");
 
 // Base URL for the deployed pages
 const BASE_URL = "https://te9.dev/repotrend";
+const REPO_PAGES_URL = `${BASE_URL}/repo`;
 const OG_CARDS_URL = `${BASE_URL}/og-cards`;
 const OG_IMAGES_URL = `${BASE_URL}/og-images`;
 
@@ -253,7 +254,7 @@ function generateRepoPage(template, repo, ogImageUrl) {
   const languageCss = getLanguageCss(language);
   const topics = (repo.topics || []).slice(0, 4);
 
-  const pageUrl = `${BASE_URL}/${repoName}.html`;
+  const pageUrl = `${REPO_PAGES_URL}/${repoName}.html`;
   const githubUrl = repo.html_url || repo.homepage || "#";
 
   let html = template;
