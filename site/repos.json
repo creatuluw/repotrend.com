@@ -1171,5 +1171,74 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1145749657,
+    "name": "PaperBanana",
+    "owner": {
+      "id": 52273452,
+      "url": "https://api.github.com/users/dwzhu-pku",
+      "html_url": "https://github.com/dwzhu-pku",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52273452?v=4"
+    },
+    "html_url": "https://github.com/dwzhu-pku/PaperBanana",
+    "description": "PaperBanana: Automating Academic Illustration For AI Scientists",
+    "created_at": "2026-01-30T06:55:48Z",
+    "updated_at": "2026-03-24T17:45:15Z",
+    "pushed_at": "2026-03-24T14:11:31Z",
+    "git_url": "git://github.com/dwzhu-pku/PaperBanana.git",
+    "homepage": "https://dwzhu-pku.github.io/PaperBanana/",
+    "size": 14742,
+    "stargazers_count": 5406,
+    "watchers_count": 5406,
+    "language": "Python",
+    "forks_count": 366,
+    "open_issues_count": 9
+  },
+  {
+    "id": 1177456367,
+    "name": "cashclaw",
+    "owner": {
+      "id": 268007349,
+      "url": "https://api.github.com/users/moltlaunch",
+      "html_url": "https://github.com/moltlaunch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268007349?v=4"
+    },
+    "html_url": "https://github.com/moltlaunch/cashclaw",
+    "description": "An autonomous agent that takes work, does work, gets paid, and gets better at it.",
+    "created_at": "2026-03-10T03:25:46Z",
+    "updated_at": "2026-03-26T15:56:07Z",
+    "pushed_at": "2026-03-14T01:41:27Z",
+    "git_url": "git://github.com/moltlaunch/cashclaw.git",
+    "homepage": "https://moltlaunch.com",
+    "size": 6596,
+    "stargazers_count": 773,
+    "watchers_count": 773,
+    "language": "TypeScript",
+    "forks_count": 167,
+    "open_issues_count": 36
+  },
+  {
+    "id": 1188590057,
+    "name": "Codex-Sentinel",
+    "owner": {
+      "id": 167613664,
+      "url": "https://api.github.com/users/alicankiraz1",
+      "html_url": "https://github.com/alicankiraz1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/167613664?v=4"
+    },
+    "html_url": "https://github.com/alicankiraz1/Codex-Sentinel",
+    "description": "Stage-aware security skills for Codex that surface planning gaps, offer opt-in reviews, and help teams ship safer code without pretending to certify security.",
+    "created_at": "2026-03-22T09:55:00Z",
+    "updated_at": "2026-03-24T17:44:43Z",
+    "pushed_at": "2026-03-23T06:04:15Z",
+    "git_url": "git://github.com/alicankiraz1/Codex-Sentinel.git",
+    "homepage": "https://x.com/AlicanKiraz0",
+    "size": 98,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
