@@ -1309,5 +1309,74 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 1
+  },
+  {
+    "id": 1141704318,
+    "name": "awesome-openclaw-skills",
+    "owner": {
+      "id": 201282378,
+      "url": "https://api.github.com/users/VoltAgent",
+      "html_url": "https://github.com/VoltAgent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
+    },
+    "html_url": "https://github.com/VoltAgent/awesome-openclaw-skills",
+    "description": "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞",
+    "created_at": "2026-01-25T09:22:32Z",
+    "updated_at": "2026-03-24T18:21:57Z",
+    "pushed_at": "2026-03-24T18:21:52Z",
+    "git_url": "git://github.com/VoltAgent/awesome-openclaw-skills.git",
+    "homepage": "https://clawskills.sh/",
+    "size": 1755,
+    "stargazers_count": 41603,
+    "watchers_count": 41603,
+    "language": null,
+    "forks_count": 3970,
+    "open_issues_count": 24
+  },
+  {
+    "id": 1163850095,
+    "name": "x-reader",
+    "owner": {
+      "id": 245669230,
+      "url": "https://api.github.com/users/runesleo",
+      "html_url": "https://github.com/runesleo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/245669230?v=4"
+    },
+    "html_url": "https://github.com/runesleo/x-reader",
+    "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)",
+    "created_at": "2026-02-22T08:47:26Z",
+    "updated_at": "2026-03-24T08:38:37Z",
+    "pushed_at": "2026-03-04T06:38:43Z",
+    "git_url": "git://github.com/runesleo/x-reader.git",
+    "homepage": null,
+    "size": 92,
+    "stargazers_count": 845,
+    "watchers_count": 845,
+    "language": "Python",
+    "forks_count": 76,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1187784867,
+    "name": "UnlockerPhone-Tool-2026",
+    "owner": {
+      "id": 268756437,
+      "url": "https://api.github.com/users/leshiy5162",
+      "html_url": "https://github.com/leshiy5162",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268756437?v=4"
+    },
+    "html_url": "https://github.com/leshiy5162/UnlockerPhone-Tool-2026",
+    "description": "Unlock Tool Digital Forensic Suite — Advanced Smartphone Repair & Maintenance Utility. Unlocked FRP Bypass, EDL Mode Flashing, and Bootloader Repair for Android & iOS. Features Server Auth Emulation and Universal Device Support for 2026.",
+    "created_at": "2026-03-21T06:45:10Z",
+    "updated_at": "2026-03-24T00:49:24Z",
+    "pushed_at": "2026-03-21T06:47:58Z",
+    "git_url": "git://github.com/leshiy5162/UnlockerPhone-Tool-2026.git",
+    "homepage": "",
+    "size": 7,
+    "stargazers_count": 80,
+    "watchers_count": 80,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
