@@ -1240,5 +1240,74 @@
     "language": "JavaScript",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1145786318,
+    "name": "awesome-ai-research-writing",
+    "owner": {
+      "id": 112166430,
+      "url": "https://api.github.com/users/Leey21",
+      "html_url": "https://github.com/Leey21",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112166430?v=4"
+    },
+    "html_url": "https://github.com/Leey21/awesome-ai-research-writing",
+    "description": "Elevate your AI research writing, no more tedious polishing ✨ ",
+    "created_at": "2026-01-30T07:59:30Z",
+    "updated_at": "2026-03-24T17:19:09Z",
+    "pushed_at": "2026-03-24T10:10:53Z",
+    "git_url": "git://github.com/Leey21/awesome-ai-research-writing.git",
+    "homepage": "",
+    "size": 15324,
+    "stargazers_count": 13809,
+    "watchers_count": 13809,
+    "language": null,
+    "forks_count": 1069,
+    "open_issues_count": 14
+  },
+  {
+    "id": 1182454913,
+    "name": "nightingale",
+    "owner": {
+      "id": 91018799,
+      "url": "https://api.github.com/users/rzru",
+      "html_url": "https://github.com/rzru",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91018799?v=4"
+    },
+    "html_url": "https://github.com/rzru/nightingale",
+    "description": "Machine learning powered Karaoke app (with scores!) ",
+    "created_at": "2026-03-15T14:48:09Z",
+    "updated_at": "2026-03-24T18:13:24Z",
+    "pushed_at": "2026-03-24T18:10:14Z",
+    "git_url": "git://github.com/rzru/nightingale.git",
+    "homepage": "https://nightingale.cafe",
+    "size": 160558,
+    "stargazers_count": 877,
+    "watchers_count": 877,
+    "language": "Rust",
+    "forks_count": 53,
+    "open_issues_count": 15
+  },
+  {
+    "id": 1189559177,
+    "name": "Omni-WorldBench",
+    "owner": {
+      "id": 202896035,
+      "url": "https://api.github.com/users/AMAP-ML",
+      "html_url": "https://github.com/AMAP-ML",
+      "avatar_url": "https://avatars.githubusercontent.com/u/202896035?v=4"
+    },
+    "html_url": "https://github.com/AMAP-ML/Omni-WorldBench",
+    "description": "A comprehensive benchmark specifically designed to evaluate the interactive response capabilities of world models in 4D settings.",
+    "created_at": "2026-03-23T12:51:42Z",
+    "updated_at": "2026-03-26T13:19:37Z",
+    "pushed_at": "2026-03-24T13:09:02Z",
+    "git_url": "git://github.com/AMAP-ML/Omni-WorldBench.git",
+    "homepage": null,
+    "size": 12772,
+    "stargazers_count": 96,
+    "watchers_count": 96,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 1
   }
 ]
