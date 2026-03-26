@@ -1033,5 +1033,74 @@
     "language": "Python",
     "forks_count": 9,
     "open_issues_count": 0
+  },
+  {
+    "id": 1145022970,
+    "name": "Toonflow-app",
+    "owner": {
+      "id": 257465404,
+      "url": "https://api.github.com/users/HBAI-Ltd",
+      "html_url": "https://github.com/HBAI-Ltd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/257465404?v=4"
+    },
+    "html_url": "https://github.com/HBAI-Ltd/Toonflow-app",
+    "description": "Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动转化为剧本，并结合 AI 生成的图片和视频，实现高效的短剧创作。借助 Toonflow，可以轻松完成从文字到影像的全流程，让短剧制作变得更加智能与便捷。",
+    "created_at": "2026-01-29T10:25:45Z",
+    "updated_at": "2026-03-24T17:54:13Z",
+    "pushed_at": "2026-03-24T15:00:46Z",
+    "git_url": "git://github.com/HBAI-Ltd/Toonflow-app.git",
+    "homepage": null,
+    "size": 61460,
+    "stargazers_count": 5342,
+    "watchers_count": 5342,
+    "language": "HTML",
+    "forks_count": 778,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1176844745,
+    "name": "KawaiiGPT",
+    "owner": {
+      "id": 246022329,
+      "url": "https://api.github.com/users/MarCmcbri1982",
+      "html_url": "https://github.com/MarCmcbri1982",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246022329?v=4"
+    },
+    "html_url": "https://github.com/MarCmcbri1982/KawaiiGPT",
+    "description": "KawaiiGPT — Open-source LLM gateway accessing DeepSeek, Gemini, and Kimi-K2 through reverse-engineered Pollinations API with no API keys required, built-in prompt injection capabilities for security research, Termux/Linux native support, and Rich console interface",
+    "created_at": "2026-03-09T12:43:22Z",
+    "updated_at": "2026-03-24T06:44:38Z",
+    "pushed_at": "2026-03-13T12:44:25Z",
+    "git_url": "git://github.com/MarCmcbri1982/KawaiiGPT.git",
+    "homepage": "",
+    "size": 50,
+    "stargazers_count": 820,
+    "watchers_count": 820,
+    "language": "Python",
+    "forks_count": 469,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1188476469,
+    "name": "Roblox-Brainrot-Asset-2026",
+    "owner": {
+      "id": 269575768,
+      "url": "https://api.github.com/users/excutflyingjoe7412",
+      "html_url": "https://github.com/excutflyingjoe7412",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269575768?v=4"
+    },
+    "html_url": "https://github.com/excutflyingjoe7412/Roblox-Brainrot-Asset-2026",
+    "description": "Blox-Rot (2026) — Advanced Roblox Asset Stealer & UGC Limiteds Autobuyer. Extract Skibidi Toilet models, Dragon meshes, and rare animations from any game. High-speed sniper for Dragon and Brainrot themed limited items. Professional Roblox developer utility.",
+    "created_at": "2026-03-22T05:59:21Z",
+    "updated_at": "2026-03-23T15:57:09Z",
+    "pushed_at": "2026-03-22T06:01:44Z",
+    "git_url": "git://github.com/excutflyingjoe7412/Roblox-Brainrot-Asset-2026.git",
+    "homepage": "",
+    "size": 5,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
