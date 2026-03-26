@@ -324,7 +324,18 @@ async function main() {
 
   // Launch Puppeteer browser
   console.log("Launching browser...");
-  const browser = await puppeteer.launch({ headless: "new" });
+  const browser = await puppeteer.launch({
+    headless: "new",
+    args: [
+      "--no-sandbox",
+      "--disable-setuid-sandbox",
+      "--disable-dev-shm-usage",
+      "--disable-accelerated-2d-canvas",
+      "--no-first-run",
+      "--no-zygote",
+      "--disable-gpu",
+    ],
+  });
 
   // Read repos
   console.log("Reading repos from site/repos.json...");
