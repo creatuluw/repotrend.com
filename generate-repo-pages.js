@@ -1,15 +1,18 @@
 import fs from "fs";
 import path from "path";
+import puppeteer from "puppeteer";
 
 const SITE_DIR = path.join(process.cwd(), "site");
 const REPOS_FILE = path.join(SITE_DIR, "repos.json");
 const TEMPLATE_FILE = path.join(SITE_DIR, "repo", "repo.html");
 const OUTPUT_DIR = path.join(SITE_DIR, "repo");
 const OG_CARDS_DIR = path.join(SITE_DIR, "og-cards");
+const OG_IMAGES_DIR = path.join(SITE_DIR, "og-images");
 
 // Base URL for the deployed pages
 const BASE_URL = "https://te9.dev/repotrend";
 const OG_CARDS_URL = `${BASE_URL}/og-cards`;
+const OG_IMAGES_URL = `${BASE_URL}/og-images`;
 
 function readRepos() {
   try {
@@ -72,11 +75,24 @@ function getOwnerName(repo) {
   return "unknown";
 }
 
-function saveOgCardHtml(repo, repoName) {
+async function generateOgImage(repo, repoName, browser) {
   const cardHtml = generateOgCardHtml(repo);
+
+  // Save HTML card for reference
   const ogCardFile = path.join(OG_CARDS_DIR, `${repoName}.html`);
   fs.writeFileSync(ogCardFile, cardHtml);
-  return `${OG_CARDS_URL}/${repoName}.html`;
+
+  // Generate PNG image using Puppeteer
+  const page = await browser.newPage();
+  await page.setContent(cardHtml, { waitUntil: "networkidle0" });
+  await page.setViewport({ width: 1200, height: 630 });
+
+  const ogImageFile = path.join(OG_IMAGES_DIR, `${repoName}.png`);
+  await page.screenshot({ path: ogImageFile, type: "png" });
+
+  await page.close();
+
+  return `${OG_IMAGES_URL}/${repoName}.png`;
 }
 
 function generateOgCardHtml(repo) {
@@ -278,13 +294,15 @@ export {
   TEMPLATE_FILE,
   OUTPUT_DIR,
   OG_CARDS_DIR,
+  OG_IMAGES_DIR,
   BASE_URL,
   OG_CARDS_URL,
+  OG_IMAGES_URL,
   readTemplate,
   formatNumber,
   getLanguageCss,
   getOwnerName,
-  saveOgCardHtml,
+  generateOgImage,
   generateOgCardHtml,
   generateRepoPage,
   escapeHtml,
@@ -300,6 +318,13 @@ async function main() {
   if (!fs.existsSync(OG_CARDS_DIR)) {
     fs.mkdirSync(OG_CARDS_DIR, { recursive: true });
   }
+  if (!fs.existsSync(OG_IMAGES_DIR)) {
+    fs.mkdirSync(OG_IMAGES_DIR, { recursive: true });
+  }
+
+  // Launch Puppeteer browser
+  console.log("Launching browser...");
+  const browser = await puppeteer.launch({ headless: "new" });
 
   // Read repos
   console.log("Reading repos from site/repos.json...");
@@ -328,12 +353,12 @@ async function main() {
 
     console.log(`Processing ${repoName}...`);
 
-    // Save OG card HTML file
-    const ogCardUrl = saveOgCardHtml(repo, repoName);
-    console.log(`  OG Card: ${ogCardUrl}`);
+    // Generate OG image PNG
+    const ogImageUrl = await generateOgImage(repo, repoName, browser);
+    console.log(`  OG Image: ${ogImageUrl}`);
 
     // Generate HTML page
-    const pageHtml = generateRepoPage(template, repo, ogCardUrl);
+    const pageHtml = generateRepoPage(template, repo, ogImageUrl);
 
     // Save HTML page
     fs.writeFileSync(outputFile, pageHtml);
@@ -342,8 +367,11 @@ async function main() {
 
   console.log(`=== Generated ${repos.length} HTML pages ===`);
   console.log(
-    `=== Generated ${repos.length} OG card HTML files in ${OG_CARDS_DIR} ===`,
+    `=== Generated ${repos.length} OG images in ${OG_IMAGES_DIR} ===`,
   );
+
+  // Close browser
+  await browser.close();
 }
 
 main().catch((error) => {

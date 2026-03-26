@@ -8,6 +8,7 @@
     "post-to-bsky": "node bsky/post-to-bsky.js"
   },
   "dependencies": {
-    "@atproto/api": "^0.13.0"
+    "@atproto/api": "^0.13.0",
+    "puppeteer": "^24.40.0"
   }
 }
