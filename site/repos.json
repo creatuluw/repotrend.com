@@ -2620,5 +2620,74 @@
     "language": "Python",
     "forks_count": 7,
     "open_issues_count": 0
+  },
+  {
+    "id": 1184030270,
+    "name": "skills",
+    "owner": {
+      "id": 194880281,
+      "url": "https://api.github.com/users/MiniMax-AI",
+      "html_url": "https://github.com/MiniMax-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/194880281?v=4"
+    },
+    "html_url": "https://github.com/MiniMax-AI/skills",
+    "description": null,
+    "created_at": "2026-03-17T07:19:25Z",
+    "updated_at": "2026-03-27T12:19:28Z",
+    "pushed_at": "2026-03-26T12:57:46Z",
+    "git_url": "git://github.com/MiniMax-AI/skills.git",
+    "homepage": null,
+    "size": 7074,
+    "stargazers_count": 6623,
+    "watchers_count": 6623,
+    "language": "C#",
+    "forks_count": 467,
+    "open_issues_count": 22
+  },
+  {
+    "id": 1168900408,
+    "name": "gentle-ai",
+    "owner": {
+      "id": 97131605,
+      "url": "https://api.github.com/users/Gentleman-Programming",
+      "html_url": "https://github.com/Gentleman-Programming",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97131605?v=4"
+    },
+    "html_url": "https://github.com/Gentleman-Programming/gentle-ai",
+    "description": null,
+    "created_at": "2026-02-27T23:28:01Z",
+    "updated_at": "2026-03-24T18:17:14Z",
+    "pushed_at": "2026-03-22T20:59:40Z",
+    "git_url": "git://github.com/Gentleman-Programming/gentle-ai.git",
+    "homepage": null,
+    "size": 669,
+    "stargazers_count": 847,
+    "watchers_count": 847,
+    "language": "Go",
+    "forks_count": 102,
+    "open_issues_count": 43
+  },
+  {
+    "id": 1191757161,
+    "name": "LongCat-Next",
+    "owner": {
+      "id": 229435942,
+      "url": "https://api.github.com/users/meituan-longcat",
+      "html_url": "https://github.com/meituan-longcat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/229435942?v=4"
+    },
+    "html_url": "https://github.com/meituan-longcat/LongCat-Next",
+    "description": null,
+    "created_at": "2026-03-25T14:59:18Z",
+    "updated_at": "2026-03-26T17:35:23Z",
+    "pushed_at": "2026-03-26T08:54:24Z",
+    "git_url": "git://github.com/meituan-longcat/LongCat-Next.git",
+    "homepage": null,
+    "size": 21719,
+    "stargazers_count": 76,
+    "watchers_count": 76,
+    "language": null,
+    "forks_count": 3,
+    "open_issues_count": 2
   }
 ]
