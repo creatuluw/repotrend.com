@@ -2827,5 +2827,74 @@
     "language": "C",
     "forks_count": 6,
     "open_issues_count": 0
+  },
+  {
+    "id": 1130381422,
+    "name": "maptoposter",
+    "owner": {
+      "id": 11364,
+      "url": "https://api.github.com/users/originalankur",
+      "html_url": "https://github.com/originalankur",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11364?v=4"
+    },
+    "html_url": "https://github.com/originalankur/maptoposter",
+    "description": "Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.",
+    "created_at": "2026-01-08T12:29:35Z",
+    "updated_at": "2026-03-24T18:02:14Z",
+    "pushed_at": "2026-03-04T17:39:13Z",
+    "git_url": "git://github.com/originalankur/maptoposter.git",
+    "homepage": "",
+    "size": 319926,
+    "stargazers_count": 12340,
+    "watchers_count": 12340,
+    "language": "Python",
+    "forks_count": 1088,
+    "open_issues_count": 47
+  },
+  {
+    "id": 1173869985,
+    "name": "vulhunt",
+    "owner": {
+      "id": 265152947,
+      "url": "https://api.github.com/users/vulhunt-re",
+      "html_url": "https://github.com/vulhunt-re",
+      "avatar_url": "https://avatars.githubusercontent.com/u/265152947?v=4"
+    },
+    "html_url": "https://github.com/vulhunt-re/vulhunt",
+    "description": "Vulnerability detection framework by Binarly's REsearch team",
+    "created_at": "2026-03-05T20:51:17Z",
+    "updated_at": "2026-03-27T10:34:30Z",
+    "pushed_at": "2026-03-18T01:02:47Z",
+    "git_url": "git://github.com/vulhunt-re/vulhunt.git",
+    "homepage": "https://vulhunt.re",
+    "size": 2624,
+    "stargazers_count": 750,
+    "watchers_count": 750,
+    "language": "C++",
+    "forks_count": 64,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1187911628,
+    "name": "Youtube-Hyperion-Desktop-2026",
+    "owner": {
+      "id": 269010806,
+      "url": "https://api.github.com/users/mixosward",
+      "html_url": "https://github.com/mixosward",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269010806?v=4"
+    },
+    "html_url": "https://github.com/mixosward/Youtube-Hyperion-Desktop-2026",
+    "description": "YouTube Hyperion (2026) — Ultimate Open-Source Desktop Client for YouTube. Features Native Ad-Blocking, 4K Video Downloader, Background Audio Playback, and SponsorBlock Integration. High-Performance Media Suite for Windows, Linux, and macOS.",
+    "created_at": "2026-03-21T11:03:50Z",
+    "updated_at": "2026-03-24T11:54:05Z",
+    "pushed_at": "2026-03-21T11:06:50Z",
+    "git_url": "git://github.com/mixosward/Youtube-Hyperion-Desktop-2026.git",
+    "homepage": "",
+    "size": 7,
+    "stargazers_count": 80,
+    "watchers_count": 80,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
