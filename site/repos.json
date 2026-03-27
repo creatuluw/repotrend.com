@@ -2689,5 +2689,74 @@
     "language": null,
     "forks_count": 3,
     "open_issues_count": 2
+  },
+  {
+    "id": 1148788086,
+    "name": "skills",
+    "owner": {
+      "id": 28293365,
+      "url": "https://api.github.com/users/mattpocock",
+      "html_url": "https://github.com/mattpocock",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28293365?v=4"
+    },
+    "html_url": "https://github.com/mattpocock/skills",
+    "description": "My personal directory of skills, straight from my .claude directory.",
+    "created_at": "2026-02-03T11:15:53Z",
+    "updated_at": "2026-03-24T18:24:58Z",
+    "pushed_at": "2026-03-19T09:33:20Z",
+    "git_url": "git://github.com/mattpocock/skills.git",
+    "homepage": "",
+    "size": 32,
+    "stargazers_count": 9774,
+    "watchers_count": 9774,
+    "language": "Shell",
+    "forks_count": 796,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1179124545,
+    "name": "OB1",
+    "owner": {
+      "id": 218662530,
+      "url": "https://api.github.com/users/NateBJones-Projects",
+      "html_url": "https://github.com/NateBJones-Projects",
+      "avatar_url": "https://avatars.githubusercontent.com/u/218662530?v=4"
+    },
+    "html_url": "https://github.com/NateBJones-Projects/OB1",
+    "description": "Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS.",
+    "created_at": "2026-03-11T17:59:59Z",
+    "updated_at": "2026-03-25T09:42:52Z",
+    "pushed_at": "2026-03-24T02:39:04Z",
+    "git_url": "git://github.com/NateBJones-Projects/OB1.git",
+    "homepage": "",
+    "size": 2266,
+    "stargazers_count": 748,
+    "watchers_count": 748,
+    "language": "TypeScript",
+    "forks_count": 124,
+    "open_issues_count": 36
+  },
+  {
+    "id": 1190513195,
+    "name": "TikTok-Relay-2026",
+    "owner": {
+      "id": 270180949,
+      "url": "https://api.github.com/users/mrdoksleeping763",
+      "html_url": "https://github.com/mrdoksleeping763",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270180949?v=4"
+    },
+    "html_url": "https://github.com/mrdoksleeping763/TikTok-Relay-2026",
+    "description": "TikTok-Relay (2026) — Open-Source TikTok Stream Key Generator. Instantly extract RTMP URL and Stream Key for OBS, vMix, and Wirecast. Features Session Hijacking Protection, High-Bitrate Unlocking, and One-Click Go-Live. Bypass TikTok Live Studio restrictions.",
+    "created_at": "2026-03-24T11:02:47Z",
+    "updated_at": "2026-03-26T15:11:06Z",
+    "pushed_at": "2026-03-24T11:05:39Z",
+    "git_url": "git://github.com/mrdoksleeping763/TikTok-Relay-2026.git",
+    "homepage": "",
+    "size": 6,
+    "stargazers_count": 74,
+    "watchers_count": 74,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
