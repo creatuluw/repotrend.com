@@ -2758,5 +2758,74 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1182108611,
+    "name": "AutoResearchClaw",
+    "owner": {
+      "id": 186755503,
+      "url": "https://api.github.com/users/aiming-lab",
+      "html_url": "https://github.com/aiming-lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/186755503?v=4"
+    },
+    "html_url": "https://github.com/aiming-lab/AutoResearchClaw",
+    "description": "Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
+    "created_at": "2026-03-15T03:38:49Z",
+    "updated_at": "2026-03-25T12:04:38Z",
+    "pushed_at": "2026-03-24T20:22:13Z",
+    "git_url": "git://github.com/aiming-lab/AutoResearchClaw.git",
+    "homepage": "",
+    "size": 41827,
+    "stargazers_count": 8619,
+    "watchers_count": 8619,
+    "language": "Python",
+    "forks_count": 912,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1166243835,
+    "name": "nexu",
+    "owner": {
+      "id": 263625318,
+      "url": "https://api.github.com/users/nexu-io",
+      "html_url": "https://github.com/nexu-io",
+      "avatar_url": "https://avatars.githubusercontent.com/u/263625318?v=4"
+    },
+    "html_url": "https://github.com/nexu-io/nexu",
+    "description": "The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, local-first, chat from your phone 24/7.",
+    "created_at": "2026-02-25T02:47:19Z",
+    "updated_at": "2026-03-25T12:06:26Z",
+    "pushed_at": "2026-03-25T12:18:53Z",
+    "git_url": "git://github.com/nexu-io/nexu.git",
+    "homepage": "https://nexu.io",
+    "size": 100457,
+    "stargazers_count": 910,
+    "watchers_count": 910,
+    "language": "TypeScript",
+    "forks_count": 66,
+    "open_issues_count": 53
+  },
+  {
+    "id": 1190823028,
+    "name": "mkdbg",
+    "owner": {
+      "id": 58233461,
+      "url": "https://api.github.com/users/JialongWang1201",
+      "html_url": "https://github.com/JialongWang1201",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58233461?v=4"
+    },
+    "html_url": "https://github.com/JialongWang1201/mkdbg",
+    "description": "Hardware-first crash forensics for Cortex-M: staged bring-up, zero-probe UART diagnostics, and causal fault replay for STM32 + FreeRTOS MPU.",
+    "created_at": "2026-03-24T16:48:31Z",
+    "updated_at": "2026-03-27T18:01:43Z",
+    "pushed_at": "2026-03-27T16:24:45Z",
+    "git_url": "git://github.com/JialongWang1201/mkdbg.git",
+    "homepage": null,
+    "size": 5465,
+    "stargazers_count": 60,
+    "watchers_count": 60,
+    "language": "C",
+    "forks_count": 6,
+    "open_issues_count": 0
   }
 ]
