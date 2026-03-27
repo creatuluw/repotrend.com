@@ -2551,5 +2551,74 @@
     "language": "Python",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1158537997,
+    "name": "portless",
+    "owner": {
+      "id": 108547162,
+      "url": "https://api.github.com/users/vercel-labs",
+      "html_url": "https://github.com/vercel-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+    },
+    "html_url": "https://github.com/vercel-labs/portless",
+    "description": "Replace port numbers with stable, named local URLs. For humans and agents.",
+    "created_at": "2026-02-15T14:43:03Z",
+    "updated_at": "2026-03-27T12:02:37Z",
+    "pushed_at": "2026-03-22T19:03:12Z",
+    "git_url": "git://github.com/vercel-labs/portless.git",
+    "homepage": "https://port1355.dev",
+    "size": 842,
+    "stargazers_count": 6378,
+    "watchers_count": 6378,
+    "language": "TypeScript",
+    "forks_count": 201,
+    "open_issues_count": 36
+  },
+  {
+    "id": 1179025718,
+    "name": "rt-claw",
+    "owner": {
+      "id": 62325246,
+      "url": "https://api.github.com/users/zevorn",
+      "html_url": "https://github.com/zevorn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62325246?v=4"
+    },
+    "html_url": "https://github.com/zevorn/rt-claw",
+    "description": "Making AI Assistants Cheap Again!",
+    "created_at": "2026-03-11T15:59:36Z",
+    "updated_at": "2026-03-25T12:00:41Z",
+    "pushed_at": "2026-03-24T00:19:05Z",
+    "git_url": "git://github.com/zevorn/rt-claw.git",
+    "homepage": "https://www.rt-claw.com",
+    "size": 9448,
+    "stargazers_count": 809,
+    "watchers_count": 809,
+    "language": "C",
+    "forks_count": 49,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1189226011,
+    "name": "dream-to-video-skill",
+    "owner": {
+      "id": 65640686,
+      "url": "https://api.github.com/users/mediastormDev",
+      "html_url": "https://github.com/mediastormDev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65640686?v=4"
+    },
+    "html_url": "https://github.com/mediastormDev/dream-to-video-skill",
+    "description": "AI agent skill that transforms dream descriptions into cinematic videos — auto-generates prompts, submits to Jimeng via browser automation, and downloads finished videos with post-processing effects.",
+    "created_at": "2026-03-23T05:20:29Z",
+    "updated_at": "2026-03-24T18:25:58Z",
+    "pushed_at": "2026-03-23T05:42:27Z",
+    "git_url": "git://github.com/mediastormDev/dream-to-video-skill.git",
+    "homepage": "",
+    "size": 789,
+    "stargazers_count": 72,
+    "watchers_count": 72,
+    "language": "Python",
+    "forks_count": 7,
+    "open_issues_count": 0
   }
 ]
