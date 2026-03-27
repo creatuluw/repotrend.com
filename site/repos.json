@@ -2137,5 +2137,74 @@
     "language": null,
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1162099055,
+    "name": "taste-skill",
+    "owner": {
+      "id": 219127460,
+      "url": "https://api.github.com/users/Leonxlnx",
+      "html_url": "https://github.com/Leonxlnx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219127460?v=4"
+    },
+    "html_url": "https://github.com/Leonxlnx/taste-skill",
+    "description": "Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\" ",
+    "created_at": "2026-02-19T21:44:05Z",
+    "updated_at": "2026-03-24T18:17:15Z",
+    "pushed_at": "2026-03-23T00:52:11Z",
+    "git_url": "git://github.com/Leonxlnx/taste-skill.git",
+    "homepage": "",
+    "size": 1108,
+    "stargazers_count": 5677,
+    "watchers_count": 5677,
+    "language": null,
+    "forks_count": 534,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1189540594,
+    "name": "darksword-kexploit",
+    "owner": {
+      "id": 18235760,
+      "url": "https://api.github.com/users/opa334",
+      "html_url": "https://github.com/opa334",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18235760?v=4"
+    },
+    "html_url": "https://github.com/opa334/darksword-kexploit",
+    "description": "iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C",
+    "created_at": "2026-03-23T12:29:29Z",
+    "updated_at": "2026-03-25T12:20:22Z",
+    "pushed_at": "2026-03-23T20:57:23Z",
+    "git_url": "git://github.com/opa334/darksword-kexploit.git",
+    "homepage": "",
+    "size": 9,
+    "stargazers_count": 665,
+    "watchers_count": 665,
+    "language": "Objective-C",
+    "forks_count": 212,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1187750040,
+    "name": "iPSX2",
+    "owner": {
+      "id": 38341810,
+      "url": "https://api.github.com/users/otti83",
+      "html_url": "https://github.com/otti83",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38341810?v=4"
+    },
+    "html_url": "https://github.com/otti83/iPSX2",
+    "description": "PS2 Game emulator with ported PCSX2 ,ARMSX2",
+    "created_at": "2026-03-21T05:28:00Z",
+    "updated_at": "2026-03-24T16:24:17Z",
+    "pushed_at": "2026-03-23T15:34:09Z",
+    "git_url": "git://github.com/otti83/iPSX2.git",
+    "homepage": null,
+    "size": 0,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": null,
+    "forks_count": 5,
+    "open_issues_count": 35
   }
 ]
