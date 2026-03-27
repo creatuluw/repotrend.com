@@ -2344,5 +2344,74 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1132431999,
+    "name": "hive",
+    "owner": {
+      "id": 262650699,
+      "url": "https://api.github.com/users/aden-hive",
+      "html_url": "https://github.com/aden-hive",
+      "avatar_url": "https://avatars.githubusercontent.com/u/262650699?v=4"
+    },
+    "html_url": "https://github.com/aden-hive/hive",
+    "description": "Outcome driven agent development framework that evolves",
+    "created_at": "2026-01-12T00:04:22Z",
+    "updated_at": "2026-03-24T16:56:19Z",
+    "pushed_at": "2026-03-24T16:53:40Z",
+    "git_url": "git://github.com/aden-hive/hive.git",
+    "homepage": "",
+    "size": 12934,
+    "stargazers_count": 9805,
+    "watchers_count": 9805,
+    "language": "Python",
+    "forks_count": 5568,
+    "open_issues_count": 1290
+  },
+  {
+    "id": 1163746666,
+    "name": "vibe-local",
+    "owner": {
+      "id": 530126,
+      "url": "https://api.github.com/users/ochyai",
+      "html_url": "https://github.com/ochyai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/530126?v=4"
+    },
+    "html_url": "https://github.com/ochyai/vibe-local",
+    "description": "Free AI coding environment: Ollama + Python",
+    "created_at": "2026-02-22T04:33:03Z",
+    "updated_at": "2026-03-24T11:04:55Z",
+    "pushed_at": "2026-03-01T22:24:34Z",
+    "git_url": "git://github.com/ochyai/vibe-local.git",
+    "homepage": "",
+    "size": 1571,
+    "stargazers_count": 746,
+    "watchers_count": 746,
+    "language": "Python",
+    "forks_count": 93,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1187898147,
+    "name": "Steam-Quantum-Trader-2026",
+    "owner": {
+      "id": 269010797,
+      "url": "https://api.github.com/users/daddysmokeloke",
+      "html_url": "https://github.com/daddysmokeloke",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269010797?v=4"
+    },
+    "html_url": "https://github.com/daddysmokeloke/Steam-Quantum-Trader-2026",
+    "description": "Steam Quantum Trader (2026) — High-Performance Inventory Monitor & Automated Trading Engine. Features Real-Time Price Tracking, Multi-Platform Skin Arbitrage, and Automated Trade-Offer Processing for CS2, Dota 2, and Rust. Professional Portfolio Management Suite.",
+    "created_at": "2026-03-21T10:37:31Z",
+    "updated_at": "2026-03-22T21:09:04Z",
+    "pushed_at": "2026-03-21T10:43:08Z",
+    "git_url": "git://github.com/daddysmokeloke/Steam-Quantum-Trader-2026.git",
+    "homepage": "",
+    "size": 9,
+    "stargazers_count": 78,
+    "watchers_count": 78,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
