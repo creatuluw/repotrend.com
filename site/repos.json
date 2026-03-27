@@ -2206,5 +2206,74 @@
     "language": null,
     "forks_count": 5,
     "open_issues_count": 35
+  },
+  {
+    "id": 1170266927,
+    "name": "pm-skills",
+    "owner": {
+      "id": 7837354,
+      "url": "https://api.github.com/users/phuryn",
+      "html_url": "https://github.com/phuryn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7837354?v=4"
+    },
+    "html_url": "https://github.com/phuryn/pm-skills",
+    "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+    "created_at": "2026-03-01T23:33:44Z",
+    "updated_at": "2026-03-24T17:37:04Z",
+    "pushed_at": "2026-03-09T07:50:41Z",
+    "git_url": "git://github.com/phuryn/pm-skills.git",
+    "homepage": "https://www.productcompass.pm/p/pm-skills-marketplace-claude",
+    "size": 17520,
+    "stargazers_count": 8083,
+    "watchers_count": 8083,
+    "language": null,
+    "forks_count": 826,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1188762109,
+    "name": "weclaw",
+    "owner": {
+      "id": 260873402,
+      "url": "https://api.github.com/users/fastclaw-ai",
+      "html_url": "https://github.com/fastclaw-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260873402?v=4"
+    },
+    "html_url": "https://github.com/fastclaw-ai/weclaw",
+    "description": "Connect to any agents with WeChat ClawBot.",
+    "created_at": "2026-03-22T14:52:35Z",
+    "updated_at": "2026-03-25T12:20:31Z",
+    "pushed_at": "2026-03-25T08:56:57Z",
+    "git_url": "git://github.com/fastclaw-ai/weclaw.git",
+    "homepage": "",
+    "size": 1565,
+    "stargazers_count": 683,
+    "watchers_count": 683,
+    "language": "Go",
+    "forks_count": 69,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1190427618,
+    "name": "AI-workflow",
+    "owner": {
+      "id": 139507659,
+      "url": "https://api.github.com/users/Dao-AILab",
+      "html_url": "https://github.com/Dao-AILab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139507659?v=4"
+    },
+    "html_url": "https://github.com/Dao-AILab/AI-workflow",
+    "description": null,
+    "created_at": "2026-03-24T09:18:58Z",
+    "updated_at": "2026-03-26T11:10:29Z",
+    "pushed_at": "2026-03-24T09:20:06Z",
+    "git_url": "git://github.com/Dao-AILab/AI-workflow.git",
+    "homepage": null,
+    "size": 2,
+    "stargazers_count": 70,
+    "watchers_count": 70,
+    "language": null,
+    "forks_count": 2,
+    "open_issues_count": 1
   }
 ]
