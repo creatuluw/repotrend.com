@@ -1999,5 +1999,74 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1169170504,
+    "name": "ANE",
+    "owner": {
+      "id": 7760246,
+      "url": "https://api.github.com/users/maderix",
+      "html_url": "https://github.com/maderix",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7760246?v=4"
+    },
+    "html_url": "https://github.com/maderix/ANE",
+    "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
+    "created_at": "2026-02-28T09:27:28Z",
+    "updated_at": "2026-03-24T16:40:09Z",
+    "pushed_at": "2026-03-10T10:21:05Z",
+    "git_url": "git://github.com/maderix/ANE.git",
+    "homepage": null,
+    "size": 500,
+    "stargazers_count": 6460,
+    "watchers_count": 6460,
+    "language": "Objective-C",
+    "forks_count": 916,
+    "open_issues_count": 27
+  },
+  {
+    "id": 1178985852,
+    "name": "Swift-Agent-Skills",
+    "owner": {
+      "id": 190200,
+      "url": "https://api.github.com/users/twostraws",
+      "html_url": "https://github.com/twostraws",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190200?v=4"
+    },
+    "html_url": "https://github.com/twostraws/Swift-Agent-Skills",
+    "description": "A curated directory of open-source AI agent skills for Swift and Apple platform development.",
+    "created_at": "2026-03-11T15:13:01Z",
+    "updated_at": "2026-03-27T06:11:18Z",
+    "pushed_at": "2026-03-20T13:23:29Z",
+    "git_url": "git://github.com/twostraws/Swift-Agent-Skills.git",
+    "homepage": null,
+    "size": 37,
+    "stargazers_count": 872,
+    "watchers_count": 872,
+    "language": null,
+    "forks_count": 24,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1190625855,
+    "name": "familytree-managements",
+    "owner": {
+      "id": 98071117,
+      "url": "https://api.github.com/users/fiandev",
+      "html_url": "https://github.com/fiandev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98071117?v=4"
+    },
+    "html_url": "https://github.com/fiandev/familytree-managements",
+    "description": "super family tree managements, support multi suppose, life status and others!!",
+    "created_at": "2026-03-24T13:17:52Z",
+    "updated_at": "2026-03-27T05:40:00Z",
+    "pushed_at": "2026-03-24T13:36:39Z",
+    "git_url": "git://github.com/fiandev/familytree-managements.git",
+    "homepage": "",
+    "size": 363,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": "TypeScript",
+    "forks_count": 8,
+    "open_issues_count": 0
   }
 ]
