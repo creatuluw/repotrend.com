@@ -2896,5 +2896,74 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1147094660,
+    "name": "nanobot",
+    "owner": {
+      "id": 118165258,
+      "url": "https://api.github.com/users/HKUDS",
+      "html_url": "https://github.com/HKUDS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+    },
+    "html_url": "https://github.com/HKUDS/nanobot",
+    "description": "\"🐈 nanobot: The Ultra-Lightweight OpenClaw\"",
+    "created_at": "2026-02-01T07:16:15Z",
+    "updated_at": "2026-03-27T18:22:45Z",
+    "pushed_at": "2026-03-27T16:07:29Z",
+    "git_url": "git://github.com/HKUDS/nanobot.git",
+    "homepage": "",
+    "size": 35787,
+    "stargazers_count": 36619,
+    "watchers_count": 36619,
+    "language": "Python",
+    "forks_count": 6285,
+    "open_issues_count": 853
+  },
+  {
+    "id": 1168561191,
+    "name": "webreel",
+    "owner": {
+      "id": 108547162,
+      "url": "https://api.github.com/users/vercel-labs",
+      "html_url": "https://github.com/vercel-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+    },
+    "html_url": "https://github.com/vercel-labs/webreel",
+    "description": "Record scripted browser demos as video",
+    "created_at": "2026-02-27T14:33:54Z",
+    "updated_at": "2026-03-24T16:23:41Z",
+    "pushed_at": "2026-03-06T20:21:28Z",
+    "git_url": "git://github.com/vercel-labs/webreel.git",
+    "homepage": "https://webreel.dev",
+    "size": 17031,
+    "stargazers_count": 731,
+    "watchers_count": 731,
+    "language": "TypeScript",
+    "forks_count": 32,
+    "open_issues_count": 13
+  },
+  {
+    "id": 1190556981,
+    "name": "htmx-devtools",
+    "owner": {
+      "id": 269725415,
+      "url": "https://api.github.com/users/atoolz",
+      "html_url": "https://github.com/atoolz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269725415?v=4"
+    },
+    "html_url": "https://github.com/atoolz/htmx-devtools",
+    "description": "Browser DevTools extension for debugging HTMX applications",
+    "created_at": "2026-03-24T11:57:34Z",
+    "updated_at": "2026-03-26T17:08:01Z",
+    "pushed_at": "2026-03-25T20:25:04Z",
+    "git_url": "git://github.com/atoolz/htmx-devtools.git",
+    "homepage": "https://atoolz.github.io/htmx-devtools/",
+    "size": 2903,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
