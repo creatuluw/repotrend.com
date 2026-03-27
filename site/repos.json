@@ -2275,5 +2275,74 @@
     "language": null,
     "forks_count": 2,
     "open_issues_count": 1
+  },
+  {
+    "id": 1134220362,
+    "name": "accomplish",
+    "owner": {
+      "id": 244819219,
+      "url": "https://api.github.com/users/accomplish-ai",
+      "html_url": "https://github.com/accomplish-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/244819219?v=4"
+    },
+    "html_url": "https://github.com/accomplish-ai/accomplish",
+    "description": "Accomplish™ is the open source Al coworker that lives on your desktop",
+    "created_at": "2026-01-14T12:22:38Z",
+    "updated_at": "2026-03-26T17:39:00Z",
+    "pushed_at": "2026-03-26T14:33:42Z",
+    "git_url": "git://github.com/accomplish-ai/accomplish.git",
+    "homepage": "https://www.accomplish.ai",
+    "size": 16202,
+    "stargazers_count": 9920,
+    "watchers_count": 9920,
+    "language": "TypeScript",
+    "forks_count": 1109,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1173235250,
+    "name": "best-skills",
+    "owner": {
+      "id": 169322763,
+      "url": "https://api.github.com/users/xstongxue",
+      "html_url": "https://github.com/xstongxue",
+      "avatar_url": "https://avatars.githubusercontent.com/u/169322763?v=4"
+    },
+    "html_url": "https://github.com/xstongxue/best-skills",
+    "description": "通用高质量 Skills 合集🔥",
+    "created_at": "2026-03-05T06:29:28Z",
+    "updated_at": "2026-03-26T14:52:39Z",
+    "pushed_at": "2026-03-17T02:13:53Z",
+    "git_url": "git://github.com/xstongxue/best-skills.git",
+    "homepage": "",
+    "size": 1275,
+    "stargazers_count": 693,
+    "watchers_count": 693,
+    "language": "Python",
+    "forks_count": 54,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1188576779,
+    "name": "FL-Studio-25",
+    "owner": {
+      "id": 269585859,
+      "url": "https://api.github.com/users/taviaezer",
+      "html_url": "https://github.com/taviaezer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269585859?v=4"
+    },
+    "html_url": "https://github.com/taviaezer/FL-Studio-25",
+    "description": "FL-Unlocker (2026) — Ultimate Music Production Suite. Pre-Activated FL Studio 26.3.3 All Plugins Edition. Features AI Stem Separation, Advanced Piano Roll Scripts, and 100+ Premium VSTs. High-Performance DAW for Windows & macOS.",
+    "created_at": "2026-03-22T09:29:16Z",
+    "updated_at": "2026-03-23T15:57:25Z",
+    "pushed_at": "2026-03-22T09:32:41Z",
+    "git_url": "git://github.com/taviaezer/FL-Studio-25.git",
+    "homepage": "",
+    "size": 6,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
