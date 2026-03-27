@@ -2413,5 +2413,74 @@
     "language": "JavaScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1167209519,
+    "name": "Star-Office-UI",
+    "owner": {
+      "id": 63448697,
+      "url": "https://api.github.com/users/ringhyacinth",
+      "html_url": "https://github.com/ringhyacinth",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63448697?v=4"
+    },
+    "html_url": "https://github.com/ringhyacinth/Star-Office-UI",
+    "description": "A pixel office for your OpenClaw: turn invisible work states into a cozy little space with characters, daily notes, and guest agents. Code under MIT; art assets for non-commercial learning only.",
+    "created_at": "2026-02-26T03:45:35Z",
+    "updated_at": "2026-03-24T17:57:46Z",
+    "pushed_at": "2026-03-11T03:53:42Z",
+    "git_url": "git://github.com/ringhyacinth/Star-Office-UI.git",
+    "homepage": "",
+    "size": 97977,
+    "stargazers_count": 5971,
+    "watchers_count": 5971,
+    "language": "HTML",
+    "forks_count": 640,
+    "open_issues_count": 10
+  },
+  {
+    "id": 1176782002,
+    "name": "Aurogen",
+    "owner": {
+      "id": 264955271,
+      "url": "https://api.github.com/users/UniRound-Tec",
+      "html_url": "https://github.com/UniRound-Tec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/264955271?v=4"
+    },
+    "html_url": "https://github.com/UniRound-Tec/Aurogen",
+    "description": "\"Aurogen🍊: The Multi-Agent Evolution of OpenClaw.\"",
+    "created_at": "2026-03-09T11:20:55Z",
+    "updated_at": "2026-03-24T18:18:04Z",
+    "pushed_at": "2026-03-21T01:59:20Z",
+    "git_url": "git://github.com/UniRound-Tec/Aurogen.git",
+    "homepage": "https://docs.aurogen.site/",
+    "size": 18981,
+    "stargazers_count": 983,
+    "watchers_count": 983,
+    "language": "TypeScript",
+    "forks_count": 262,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1190153149,
+    "name": "Starter-Kit-Racing",
+    "owner": {
+      "id": 97088,
+      "url": "https://api.github.com/users/mrdoob",
+      "html_url": "https://github.com/mrdoob",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97088?v=4"
+    },
+    "html_url": "https://github.com/mrdoob/Starter-Kit-Racing",
+    "description": "Basic template for a racing game.",
+    "created_at": "2026-03-24T02:33:34Z",
+    "updated_at": "2026-03-26T11:41:50Z",
+    "pushed_at": "2026-03-25T19:49:41Z",
+    "git_url": "git://github.com/mrdoob/Starter-Kit-Racing.git",
+    "homepage": "https://mrdoob.github.io/Starter-Kit-Racing/",
+    "size": 375,
+    "stargazers_count": 81,
+    "watchers_count": 81,
+    "language": "JavaScript",
+    "forks_count": 18,
+    "open_issues_count": 0
   }
 ]
