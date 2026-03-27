@@ -1792,5 +1792,74 @@
     "language": null,
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1130809465,
+    "name": "oh-my-claudecode",
+    "owner": {
+      "id": 54757707,
+      "url": "https://api.github.com/users/Yeachan-Heo",
+      "html_url": "https://github.com/Yeachan-Heo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54757707?v=4"
+    },
+    "html_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+    "description": "Teams-first Multi-agent orchestration for Claude Code",
+    "created_at": "2026-01-09T03:36:29Z",
+    "updated_at": "2026-03-24T18:21:46Z",
+    "pushed_at": "2026-03-24T15:11:06Z",
+    "git_url": "git://github.com/Yeachan-Heo/oh-my-claudecode.git",
+    "homepage": "https://yeachan-heo.github.io/oh-my-claudecode-website",
+    "size": 24791,
+    "stargazers_count": 11228,
+    "watchers_count": 11228,
+    "language": "TypeScript",
+    "forks_count": 769,
+    "open_issues_count": 19
+  },
+  {
+    "id": 1170065707,
+    "name": "opensquad",
+    "owner": {
+      "id": 47402948,
+      "url": "https://api.github.com/users/renatoasse",
+      "html_url": "https://github.com/renatoasse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47402948?v=4"
+    },
+    "html_url": "https://github.com/renatoasse/opensquad",
+    "description": null,
+    "created_at": "2026-03-01T16:45:21Z",
+    "updated_at": "2026-03-26T23:55:51Z",
+    "pushed_at": "2026-03-23T18:58:26Z",
+    "git_url": "git://github.com/renatoasse/opensquad.git",
+    "homepage": null,
+    "size": 660,
+    "stargazers_count": 844,
+    "watchers_count": 844,
+    "language": "TypeScript",
+    "forks_count": 227,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1190117234,
+    "name": "agentic-chatops",
+    "owner": {
+      "id": 37277364,
+      "url": "https://api.github.com/users/papadopouloskyriakos",
+      "html_url": "https://github.com/papadopouloskyriakos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37277364?v=4"
+    },
+    "html_url": "https://github.com/papadopouloskyriakos/agentic-chatops",
+    "description": "3-tier agentic ChatOps (n8n + GPT-4o + Claude Code) implementing all 21 patterns from \"Agentic Design Patterns\" — solo operator managing 137 devices",
+    "created_at": "2026-03-24T01:32:04Z",
+    "updated_at": "2026-03-26T17:32:18Z",
+    "pushed_at": "2026-03-26T17:32:14Z",
+    "git_url": "git://github.com/papadopouloskyriakos/agentic-chatops.git",
+    "homepage": "https://kyriakos.papadopoulos.tech/",
+    "size": 3305,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "Shell",
+    "forks_count": 13,
+    "open_issues_count": 0
   }
 ]
