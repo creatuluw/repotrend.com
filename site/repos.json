@@ -2965,5 +2965,74 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1149071982,
+    "name": "ClawRouter",
+    "owner": {
+      "id": 250889376,
+      "url": "https://api.github.com/users/BlockRunAI",
+      "html_url": "https://github.com/BlockRunAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/250889376?v=4"
+    },
+    "html_url": "https://github.com/BlockRunAI/ClawRouter",
+    "description": "The agent-native LLM router for OpenClaw. 41+ models, <1ms routing, USDC payments on Base & Solana via x402.",
+    "created_at": "2026-02-03T17:32:00Z",
+    "updated_at": "2026-03-27T17:35:07Z",
+    "pushed_at": "2026-03-27T00:29:44Z",
+    "git_url": "git://github.com/BlockRunAI/ClawRouter.git",
+    "homepage": "",
+    "size": 48462,
+    "stargazers_count": 6496,
+    "watchers_count": 6496,
+    "language": "TypeScript",
+    "forks_count": 546,
+    "open_issues_count": 27
+  },
+  {
+    "id": 1173754094,
+    "name": "chartli",
+    "owner": {
+      "id": 960133,
+      "url": "https://api.github.com/users/ahmadawais",
+      "html_url": "https://github.com/ahmadawais",
+      "avatar_url": "https://avatars.githubusercontent.com/u/960133?v=4"
+    },
+    "html_url": "https://github.com/ahmadawais/chartli",
+    "description": "CLI that turns plain numbers into terminal charts. ascii, spark, bars, columns, heatmap, unicode, braille, svg. ",
+    "created_at": "2026-03-05T18:01:06Z",
+    "updated_at": "2026-03-24T10:34:54Z",
+    "pushed_at": "2026-03-11T23:03:54Z",
+    "git_url": "git://github.com/ahmadawais/chartli.git",
+    "homepage": "https://x.com/MrAhmadAwais",
+    "size": 63331,
+    "stargazers_count": 627,
+    "watchers_count": 627,
+    "language": "TypeScript",
+    "forks_count": 38,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1191496349,
+    "name": "ccleaner-pro-2026",
+    "owner": {
+      "id": 270183078,
+      "url": "https://api.github.com/users/bumperbutt894",
+      "html_url": "https://github.com/bumperbutt894",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270183078?v=4"
+    },
+    "html_url": "https://github.com/bumperbutt894/ccleaner-pro-2026",
+    "description": "The ultimate 2026 system optimization suite. A free, lightning-fast C++ open-source CCleaner Pro alternative to deeply clean junk, fix registry hives, wipe privacy traces, and unlock peak PC performance without ads or telemetry.",
+    "created_at": "2026-03-25T09:55:18Z",
+    "updated_at": "2026-03-26T15:32:15Z",
+    "pushed_at": "2026-03-25T09:57:17Z",
+    "git_url": "git://github.com/bumperbutt894/ccleaner-pro-2026.git",
+    "homepage": "",
+    "size": 6,
+    "stargazers_count": 70,
+    "watchers_count": 70,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
