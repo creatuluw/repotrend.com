@@ -3103,5 +3103,74 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 1
+  },
+  {
+    "id": 1176011916,
+    "name": "CLI-Anything",
+    "owner": {
+      "id": 118165258,
+      "url": "https://api.github.com/users/HKUDS",
+      "html_url": "https://github.com/HKUDS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+    },
+    "html_url": "https://github.com/HKUDS/CLI-Anything",
+    "description": "CLI-Anything: Making ALL Software Agent-Native",
+    "created_at": "2026-03-08T13:52:57Z",
+    "updated_at": "2026-03-26T18:15:29Z",
+    "pushed_at": "2026-03-26T16:04:34Z",
+    "git_url": "git://github.com/HKUDS/CLI-Anything.git",
+    "homepage": "",
+    "size": 17153,
+    "stargazers_count": 23532,
+    "watchers_count": 23532,
+    "language": "Python",
+    "forks_count": 2082,
+    "open_issues_count": 59
+  },
+  {
+    "id": 1170617094,
+    "name": "openclaw-backup",
+    "owner": {
+      "id": 121472001,
+      "url": "https://api.github.com/users/LeoYeAI",
+      "html_url": "https://github.com/LeoYeAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121472001?v=4"
+    },
+    "html_url": "https://github.com/LeoYeAI/openclaw-backup",
+    "description": "One-click backup & restore for OpenClaw instances — workspace, credentials, skills, agent history. Powered by MyClaw.ai",
+    "created_at": "2026-03-02T10:21:54Z",
+    "updated_at": "2026-03-27T18:28:33Z",
+    "pushed_at": "2026-03-03T06:02:58Z",
+    "git_url": "git://github.com/LeoYeAI/openclaw-backup.git",
+    "homepage": "https://myclaw.ai",
+    "size": 87,
+    "stargazers_count": 794,
+    "watchers_count": 794,
+    "language": "Shell",
+    "forks_count": 181,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1191444393,
+    "name": "Quitty",
+    "owner": {
+      "id": 147871321,
+      "url": "https://api.github.com/users/iad1tya",
+      "html_url": "https://github.com/iad1tya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147871321?v=4"
+    },
+    "html_url": "https://github.com/iad1tya/Quitty",
+    "description": "Quitty is an all-in-one macOS utility for system maintenance, performance optimization, and storage management. It provides real-time monitoring, automated cleaning, and advanced tools through a single, unified interface.",
+    "created_at": "2026-03-25T08:50:26Z",
+    "updated_at": "2026-03-27T17:52:45Z",
+    "pushed_at": "2026-03-26T05:41:22Z",
+    "git_url": "git://github.com/iad1tya/Quitty.git",
+    "homepage": "https://quitty.iad1tya.cyou",
+    "size": 5633,
+    "stargazers_count": 87,
+    "watchers_count": 87,
+    "language": "Swift",
+    "forks_count": 4,
+    "open_issues_count": 2
   }
 ]
