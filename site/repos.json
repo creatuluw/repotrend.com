@@ -4207,5 +4207,74 @@
     "language": "TypeScript",
     "forks_count": 7,
     "open_issues_count": 0
+  },
+  {
+    "id": 1127234517,
+    "name": "LTX-2",
+    "owner": {
+      "id": 3170348,
+      "url": "https://api.github.com/users/Lightricks",
+      "html_url": "https://github.com/Lightricks",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3170348?v=4"
+    },
+    "html_url": "https://github.com/Lightricks/LTX-2",
+    "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+    "created_at": "2026-01-03T13:16:29Z",
+    "updated_at": "2026-03-28T11:45:14Z",
+    "pushed_at": "2026-03-11T14:49:22Z",
+    "git_url": "git://github.com/Lightricks/LTX-2.git",
+    "homepage": "https://ltx.io/model/ltx-2",
+    "size": 534,
+    "stargazers_count": 5330,
+    "watchers_count": 5330,
+    "language": "Python",
+    "forks_count": 806,
+    "open_issues_count": 69
+  },
+  {
+    "id": 1172914445,
+    "name": "apiark",
+    "owner": {
+      "id": 259765224,
+      "url": "https://api.github.com/users/berbicanes",
+      "html_url": "https://github.com/berbicanes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/259765224?v=4"
+    },
+    "html_url": "https://github.com/berbicanes/apiark",
+    "description": "Privacy-first API platform built with Tauri v2. No login, no cloud, ~60 MB RAM. A lightweight Postman alternative.",
+    "created_at": "2026-03-04T20:27:53Z",
+    "updated_at": "2026-03-25T11:37:58Z",
+    "pushed_at": "2026-03-25T07:28:52Z",
+    "git_url": "git://github.com/berbicanes/apiark.git",
+    "homepage": null,
+    "size": 4999,
+    "stargazers_count": 831,
+    "watchers_count": 831,
+    "language": "TypeScript",
+    "forks_count": 44,
+    "open_issues_count": 10
+  },
+  {
+    "id": 1193691949,
+    "name": "IDM-Free-Full-Windows",
+    "owner": {
+      "id": 179360385,
+      "url": "https://api.github.com/users/cutteralgya",
+      "html_url": "https://github.com/cutteralgya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/179360385?v=4"
+    },
+    "html_url": "https://github.com/cutteralgya/IDM-Free-Full-Windows",
+    "description": "nternet Download Manager Free Full Version 2026 | IDM Full Version Windows Pc Full Offline  | Safe Verified Portable 64 Bit  Update Stable Beta Tablet Laptop Zip Rar Secure Official Fast 32 Bit App ⭐️",
+    "created_at": "2026-03-27T13:37:35Z",
+    "updated_at": "2026-03-28T12:15:30Z",
+    "pushed_at": "2026-03-27T13:45:25Z",
+    "git_url": "git://github.com/cutteralgya/IDM-Free-Full-Windows.git",
+    "homepage": "",
+    "size": 90,
+    "stargazers_count": 59,
+    "watchers_count": 59,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
