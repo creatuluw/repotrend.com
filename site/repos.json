@@ -3655,5 +3655,74 @@
     "language": "TypeScript",
     "forks_count": 9,
     "open_issues_count": 0
+  },
+  {
+    "id": 1138817132,
+    "name": "Qwen3-TTS",
+    "owner": {
+      "id": 141221163,
+      "url": "https://api.github.com/users/QwenLM",
+      "html_url": "https://github.com/QwenLM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141221163?v=4"
+    },
+    "html_url": "https://github.com/QwenLM/Qwen3-TTS",
+    "description": "Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning.",
+    "created_at": "2026-01-21T06:41:32Z",
+    "updated_at": "2026-03-27T18:08:30Z",
+    "pushed_at": "2026-03-17T06:38:41Z",
+    "git_url": "git://github.com/QwenLM/Qwen3-TTS.git",
+    "homepage": null,
+    "size": 7042,
+    "stargazers_count": 10027,
+    "watchers_count": 10027,
+    "language": "Python",
+    "forks_count": 1273,
+    "open_issues_count": 85
+  },
+  {
+    "id": 1172805219,
+    "name": "cq",
+    "owner": {
+      "id": 129804596,
+      "url": "https://api.github.com/users/mozilla-ai",
+      "html_url": "https://github.com/mozilla-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129804596?v=4"
+    },
+    "html_url": "https://github.com/mozilla-ai/cq",
+    "description": "An open standard for shared agent learning. Agents persist, share, and query collective knowledge so they stop rediscovering the same failures independently.",
+    "created_at": "2026-03-04T17:51:25Z",
+    "updated_at": "2026-03-26T18:09:36Z",
+    "pushed_at": "2026-03-25T16:24:49Z",
+    "git_url": "git://github.com/mozilla-ai/cq.git",
+    "homepage": "",
+    "size": 489,
+    "stargazers_count": 720,
+    "watchers_count": 720,
+    "language": "Python",
+    "forks_count": 22,
+    "open_issues_count": 63
+  },
+  {
+    "id": 1189249057,
+    "name": "openai-cpa",
+    "owner": {
+      "id": 28726830,
+      "url": "https://api.github.com/users/wenfxl",
+      "html_url": "https://github.com/wenfxl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28726830?v=4"
+    },
+    "html_url": "https://github.com/wenfxl/openai-cpa",
+    "description": "Python utility for temporary email integration, credential export, local backup, and inventory-style health checks.",
+    "created_at": "2026-03-23T05:59:01Z",
+    "updated_at": "2026-03-26T17:33:01Z",
+    "pushed_at": "2026-03-26T12:30:26Z",
+    "git_url": "git://github.com/wenfxl/openai-cpa.git",
+    "homepage": null,
+    "size": 176,
+    "stargazers_count": 93,
+    "watchers_count": 93,
+    "language": null,
+    "forks_count": 50,
+    "open_issues_count": 0
   }
 ]
