@@ -4621,5 +4621,74 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1153013870,
+    "name": "pixel-agents",
+    "owner": {
+      "id": 104434465,
+      "url": "https://api.github.com/users/pablodelucca",
+      "html_url": "https://github.com/pablodelucca",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104434465?v=4"
+    },
+    "html_url": "https://github.com/pablodelucca/pixel-agents",
+    "description": "Pixel office.",
+    "created_at": "2026-02-08T19:14:11Z",
+    "updated_at": "2026-03-27T16:40:46Z",
+    "pushed_at": "2026-03-25T20:59:48Z",
+    "git_url": "git://github.com/pablodelucca/pixel-agents.git",
+    "homepage": null,
+    "size": 1206,
+    "stargazers_count": 5472,
+    "watchers_count": 5472,
+    "language": "TypeScript",
+    "forks_count": 782,
+    "open_issues_count": 64
+  },
+  {
+    "id": 1175466161,
+    "name": "tada",
+    "owner": {
+      "id": 80925478,
+      "url": "https://api.github.com/users/HumeAI",
+      "html_url": "https://github.com/HumeAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80925478?v=4"
+    },
+    "html_url": "https://github.com/HumeAI/tada",
+    "description": "Open Source Speech Language Model",
+    "created_at": "2026-03-07T18:47:16Z",
+    "updated_at": "2026-03-24T18:22:35Z",
+    "pushed_at": "2026-03-24T18:22:30Z",
+    "git_url": "git://github.com/HumeAI/tada.git",
+    "homepage": "https://www.hume.ai/blog/opensource-tada",
+    "size": 33960,
+    "stargazers_count": 904,
+    "watchers_count": 904,
+    "language": "Jupyter Notebook",
+    "forks_count": 91,
+    "open_issues_count": 17
+  },
+  {
+    "id": 1190632402,
+    "name": "AQBot",
+    "owner": {
+      "id": 269608472,
+      "url": "https://api.github.com/users/AQBot-Desktop",
+      "html_url": "https://github.com/AQBot-Desktop",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269608472?v=4"
+    },
+    "html_url": "https://github.com/AQBot-Desktop/AQBot",
+    "description": "轻量级高性能跨平台 AI 聊天+AI网关桌面客户端",
+    "created_at": "2026-03-24T13:24:58Z",
+    "updated_at": "2026-03-27T16:46:07Z",
+    "pushed_at": "2026-03-27T14:35:08Z",
+    "git_url": "git://github.com/AQBot-Desktop/AQBot.git",
+    "homepage": "",
+    "size": 3957,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "Rust",
+    "forks_count": 6,
+    "open_issues_count": 0
   }
 ]
