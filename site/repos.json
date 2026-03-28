@@ -4138,5 +4138,74 @@
     "language": "Go",
     "forks_count": 36,
     "open_issues_count": 0
+  },
+  {
+    "id": 1180468714,
+    "name": "RustTraining",
+    "owner": {
+      "id": 6154722,
+      "url": "https://api.github.com/users/microsoft",
+      "html_url": "https://github.com/microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+    },
+    "html_url": "https://github.com/microsoft/RustTraining",
+    "description": "Beginner, advanced, expert level Rust training material",
+    "created_at": "2026-03-13T04:25:17Z",
+    "updated_at": "2026-03-26T18:28:24Z",
+    "pushed_at": "2026-03-25T23:24:42Z",
+    "git_url": "git://github.com/microsoft/RustTraining.git",
+    "homepage": "",
+    "size": 1449,
+    "stargazers_count": 8055,
+    "watchers_count": 8055,
+    "language": "Rust",
+    "forks_count": 561,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1166102148,
+    "name": "codebase-memory-mcp",
+    "owner": {
+      "id": 81762164,
+      "url": "https://api.github.com/users/DeusData",
+      "html_url": "https://github.com/DeusData",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81762164?v=4"
+    },
+    "html_url": "https://github.com/DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 64 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "created_at": "2026-02-24T22:01:00Z",
+    "updated_at": "2026-03-25T11:42:12Z",
+    "pushed_at": "2026-03-25T11:42:08Z",
+    "git_url": "git://github.com/DeusData/codebase-memory-mcp.git",
+    "homepage": "https://deusdata.github.io/codebase-memory-mcp/",
+    "size": 43655,
+    "stargazers_count": 902,
+    "watchers_count": 902,
+    "language": "C",
+    "forks_count": 108,
+    "open_issues_count": 18
+  },
+  {
+    "id": 1190863890,
+    "name": "html-to-md-AI",
+    "owner": {
+      "id": 70546655,
+      "url": "https://api.github.com/users/zqq-nuli",
+      "html_url": "https://github.com/zqq-nuli",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70546655?v=4"
+    },
+    "html_url": "https://github.com/zqq-nuli/html-to-md-AI",
+    "description": "一键将页面转为MD文档！专为 AI理解设计~ 支持 ALT+M，快速保存当页 支持 右键保存当页 支持 滑选后保存选中内容！",
+    "created_at": "2026-03-24T17:35:00Z",
+    "updated_at": "2026-03-26T13:58:03Z",
+    "pushed_at": "2026-03-25T16:31:34Z",
+    "git_url": "git://github.com/zqq-nuli/html-to-md-AI.git",
+    "homepage": "",
+    "size": 1263,
+    "stargazers_count": 92,
+    "watchers_count": 92,
+    "language": "TypeScript",
+    "forks_count": 7,
+    "open_issues_count": 0
   }
 ]
