@@ -3862,5 +3862,74 @@
     "language": "Python",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1137489544,
+    "name": "zerobrew",
+    "owner": {
+      "id": 8399069,
+      "url": "https://api.github.com/users/lucasgelfond",
+      "html_url": "https://github.com/lucasgelfond",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8399069?v=4"
+    },
+    "html_url": "https://github.com/lucasgelfond/zerobrew",
+    "description": "A 5-20x faster experimental Homebrew alternative",
+    "created_at": "2026-01-19T12:42:04Z",
+    "updated_at": "2026-03-28T05:44:23Z",
+    "pushed_at": "2026-03-25T14:59:59Z",
+    "git_url": "git://github.com/lucasgelfond/zerobrew.git",
+    "homepage": "",
+    "size": 3263,
+    "stargazers_count": 7011,
+    "watchers_count": 7011,
+    "language": "Rust",
+    "forks_count": 159,
+    "open_issues_count": 25
+  },
+  {
+    "id": 1167049909,
+    "name": "skills",
+    "owner": {
+      "id": 14101776,
+      "url": "https://api.github.com/users/flutter",
+      "html_url": "https://github.com/flutter",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14101776?v=4"
+    },
+    "html_url": "https://github.com/flutter/skills",
+    "description": null,
+    "created_at": "2026-02-25T22:22:07Z",
+    "updated_at": "2026-03-24T14:52:03Z",
+    "pushed_at": "2026-03-18T15:32:23Z",
+    "git_url": "git://github.com/flutter/skills.git",
+    "homepage": null,
+    "size": 466,
+    "stargazers_count": 797,
+    "watchers_count": 797,
+    "language": "Dart",
+    "forks_count": 37,
+    "open_issues_count": 16
+  },
+  {
+    "id": 1190224292,
+    "name": "geo-llms-toolkit",
+    "owner": {
+      "id": 256740316,
+      "url": "https://api.github.com/users/aronhy",
+      "html_url": "https://github.com/aronhy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/256740316?v=4"
+    },
+    "html_url": "https://github.com/aronhy/geo-llms-toolkit",
+    "description": "自动化geo",
+    "created_at": "2026-03-24T04:37:13Z",
+    "updated_at": "2026-03-27T09:01:06Z",
+    "pushed_at": "2026-03-25T12:26:48Z",
+    "git_url": "git://github.com/aronhy/geo-llms-toolkit.git",
+    "homepage": null,
+    "size": 582,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": "PHP",
+    "forks_count": 7,
+    "open_issues_count": 0
   }
 ]
