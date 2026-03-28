@@ -3172,5 +3172,74 @@
     "language": "Swift",
     "forks_count": 4,
     "open_issues_count": 2
+  },
+  {
+    "id": 1126407668,
+    "name": "fluxer",
+    "owner": {
+      "id": 241304524,
+      "url": "https://api.github.com/users/fluxerapp",
+      "html_url": "https://github.com/fluxerapp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241304524?v=4"
+    },
+    "html_url": "https://github.com/fluxerapp/fluxer",
+    "description": "A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.",
+    "created_at": "2026-01-01T21:09:14Z",
+    "updated_at": "2026-03-24T18:17:40Z",
+    "pushed_at": "2026-03-19T17:10:08Z",
+    "git_url": "git://github.com/fluxerapp/fluxer.git",
+    "homepage": "https://fluxer.app",
+    "size": 61048,
+    "stargazers_count": 7155,
+    "watchers_count": 7155,
+    "language": "TypeScript",
+    "forks_count": 387,
+    "open_issues_count": 280
+  },
+  {
+    "id": 1176128802,
+    "name": "claude-statusline",
+    "owner": {
+      "id": 4921183,
+      "url": "https://api.github.com/users/kamranahmedse",
+      "html_url": "https://github.com/kamranahmedse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4921183?v=4"
+    },
+    "html_url": "https://github.com/kamranahmedse/claude-statusline",
+    "description": "Minimal Claude Code statusline setup I personally use",
+    "created_at": "2026-03-08T16:53:33Z",
+    "updated_at": "2026-03-27T18:00:17Z",
+    "pushed_at": "2026-03-22T21:52:26Z",
+    "git_url": "git://github.com/kamranahmedse/claude-statusline.git",
+    "homepage": "",
+    "size": 43,
+    "stargazers_count": 931,
+    "watchers_count": 931,
+    "language": "Shell",
+    "forks_count": 56,
+    "open_issues_count": 11
+  },
+  {
+    "id": 1188751123,
+    "name": "BloxShade-Improve-Roblox-With-Shaders-Windows",
+    "owner": {
+      "id": 189444000,
+      "url": "https://api.github.com/users/djdmboss",
+      "html_url": "https://github.com/djdmboss",
+      "avatar_url": "https://avatars.githubusercontent.com/u/189444000?v=4"
+    },
+    "html_url": "https://github.com/djdmboss/BloxShade-Improve-Roblox-With-Shaders-Windows",
+    "description": "Ultimate Bloxshade 2026: Improve Roblox with Shaders! Realistic lighting, shadows & ReShade. Boost graphics & FPS in any game. Best Roblox shaders pack! ",
+    "created_at": "2026-03-22T14:35:54Z",
+    "updated_at": "2026-03-24T18:26:42Z",
+    "pushed_at": "2026-03-22T14:56:54Z",
+    "git_url": "git://github.com/djdmboss/BloxShade-Improve-Roblox-With-Shaders-Windows.git",
+    "homepage": "",
+    "size": 36,
+    "stargazers_count": 91,
+    "watchers_count": 91,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
