@@ -3310,5 +3310,74 @@
     "language": "TypeScript",
     "forks_count": 16,
     "open_issues_count": 0
+  },
+  {
+    "id": 1182547092,
+    "name": "NemoClaw",
+    "owner": {
+      "id": 1728152,
+      "url": "https://api.github.com/users/NVIDIA",
+      "html_url": "https://github.com/NVIDIA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1728152?v=4"
+    },
+    "html_url": "https://github.com/NVIDIA/NemoClaw",
+    "description": "Run OpenClaw more securely inside NVIDIA OpenShell with managed inference",
+    "created_at": "2026-03-15T17:04:09Z",
+    "updated_at": "2026-03-24T18:21:01Z",
+    "pushed_at": "2026-03-24T17:58:06Z",
+    "git_url": "git://github.com/NVIDIA/NemoClaw.git",
+    "homepage": "https://docs.nvidia.com/nemoclaw/latest/",
+    "size": 4794,
+    "stargazers_count": 16251,
+    "watchers_count": 16251,
+    "language": "JavaScript",
+    "forks_count": 1733,
+    "open_issues_count": 398
+  },
+  {
+    "id": 1185560597,
+    "name": "autoresearch-genealogy",
+    "owner": {
+      "id": 10947100,
+      "url": "https://api.github.com/users/mattprusak",
+      "html_url": "https://github.com/mattprusak",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10947100?v=4"
+    },
+    "html_url": "https://github.com/mattprusak/autoresearch-genealogy",
+    "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
+    "created_at": "2026-03-18T17:57:50Z",
+    "updated_at": "2026-03-27T22:34:05Z",
+    "pushed_at": "2026-03-18T17:57:52Z",
+    "git_url": "git://github.com/mattprusak/autoresearch-genealogy.git",
+    "homepage": null,
+    "size": 154,
+    "stargazers_count": 940,
+    "watchers_count": 940,
+    "language": null,
+    "forks_count": 82,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1188707148,
+    "name": "llmserve",
+    "owner": {
+      "id": 1235925,
+      "url": "https://api.github.com/users/AlexsJones",
+      "html_url": "https://github.com/AlexsJones",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1235925?v=4"
+    },
+    "html_url": "https://github.com/AlexsJones/llmserve",
+    "description": "A simple TUI for serving local LLM models. Pick a model, pick a backend, serve it",
+    "created_at": "2026-03-22T13:27:32Z",
+    "updated_at": "2026-03-24T17:50:11Z",
+    "pushed_at": "2026-03-22T16:29:48Z",
+    "git_url": "git://github.com/AlexsJones/llmserve.git",
+    "homepage": null,
+    "size": 597,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": "Rust",
+    "forks_count": 4,
+    "open_issues_count": 1
   }
 ]
