@@ -3931,5 +3931,74 @@
     "language": "PHP",
     "forks_count": 7,
     "open_issues_count": 0
+  },
+  {
+    "id": 1157171418,
+    "name": "omlx",
+    "owner": {
+      "id": 64250138,
+      "url": "https://api.github.com/users/jundot",
+      "html_url": "https://github.com/jundot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64250138?v=4"
+    },
+    "html_url": "https://github.com/jundot/omlx",
+    "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+    "created_at": "2026-02-13T14:13:27Z",
+    "updated_at": "2026-03-24T18:00:01Z",
+    "pushed_at": "2026-03-23T21:08:49Z",
+    "git_url": "git://github.com/jundot/omlx.git",
+    "homepage": "https://omlx.ai",
+    "size": 38466,
+    "stargazers_count": 6717,
+    "watchers_count": 6717,
+    "language": "Python",
+    "forks_count": 542,
+    "open_issues_count": 36
+  },
+  {
+    "id": 1182098521,
+    "name": "trump-code",
+    "owner": {
+      "id": 90471971,
+      "url": "https://api.github.com/users/sstklen",
+      "html_url": "https://github.com/sstklen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90471971?v=4"
+    },
+    "html_url": "https://github.com/sstklen/trump-code",
+    "description": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
+    "created_at": "2026-03-15T03:13:51Z",
+    "updated_at": "2026-03-26T16:27:12Z",
+    "pushed_at": "2026-03-26T15:04:45Z",
+    "git_url": "git://github.com/sstklen/trump-code.git",
+    "homepage": null,
+    "size": 25421,
+    "stargazers_count": 663,
+    "watchers_count": 663,
+    "language": "Python",
+    "forks_count": 84,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1191729416,
+    "name": "CPA-Codex-Manager",
+    "owner": {
+      "id": 74099899,
+      "url": "https://api.github.com/users/Maoleio",
+      "html_url": "https://github.com/Maoleio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74099899?v=4"
+    },
+    "html_url": "https://github.com/Maoleio/CPA-Codex-Manager",
+    "description": "CPA-Codex-Manager 是一款专为 OpenAI 账号池设计的高性能管理面板，集成全自动批量注册、CLIProxyAPI 平台账号池实时监控与智能维护功能",
+    "created_at": "2026-03-25T14:29:56Z",
+    "updated_at": "2026-03-26T18:05:14Z",
+    "pushed_at": "2026-03-26T09:40:20Z",
+    "git_url": "git://github.com/Maoleio/CPA-Codex-Manager.git",
+    "homepage": "",
+    "size": 1263,
+    "stargazers_count": 70,
+    "watchers_count": 70,
+    "language": "Python",
+    "forks_count": 13,
+    "open_issues_count": 4
   }
 ]
