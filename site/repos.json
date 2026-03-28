@@ -4000,5 +4000,74 @@
     "language": "Python",
     "forks_count": 13,
     "open_issues_count": 4
+  },
+  {
+    "id": 1130564872,
+    "name": "worldmonitor",
+    "owner": {
+      "id": 996596,
+      "url": "https://api.github.com/users/koala73",
+      "html_url": "https://github.com/koala73",
+      "avatar_url": "https://avatars.githubusercontent.com/u/996596?v=4"
+    },
+    "html_url": "https://github.com/koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "created_at": "2026-01-08T17:26:06Z",
+    "updated_at": "2026-03-27T18:23:10Z",
+    "pushed_at": "2026-03-27T18:16:24Z",
+    "git_url": "git://github.com/koala73/worldmonitor.git",
+    "homepage": "https://worldmonitor.app",
+    "size": 70017,
+    "stargazers_count": 44592,
+    "watchers_count": 44592,
+    "language": "TypeScript",
+    "forks_count": 7207,
+    "open_issues_count": 78
+  },
+  {
+    "id": 1169010341,
+    "name": "Day1Global-Skills",
+    "owner": {
+      "id": 3275529,
+      "url": "https://api.github.com/users/star23",
+      "html_url": "https://github.com/star23",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3275529?v=4"
+    },
+    "html_url": "https://github.com/star23/Day1Global-Skills",
+    "description": "Day1Global Skills Share: US Stock, Macro Market, Crypto",
+    "created_at": "2026-02-28T03:54:38Z",
+    "updated_at": "2026-03-25T02:15:23Z",
+    "pushed_at": "2026-03-23T05:40:13Z",
+    "git_url": "git://github.com/star23/Day1Global-Skills.git",
+    "homepage": "",
+    "size": 2141,
+    "stargazers_count": 634,
+    "watchers_count": 634,
+    "language": null,
+    "forks_count": 113,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1191478395,
+    "name": "kms-pico-port-version-26",
+    "owner": {
+      "id": 270182685,
+      "url": "https://api.github.com/users/zipperiron5",
+      "html_url": "https://github.com/zipperiron5",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270182685?v=4"
+    },
+    "html_url": "https://github.com/zipperiron5/kms-pico-port-version-26",
+    "description": "A powerful Windows-native (.exe) management utility for Microsoft KMS (Key Management Service) orchestration. Designed for enterprise volume license validation, GVLK deployment, and automated asset maintenance.",
+    "created_at": "2026-03-25T09:33:21Z",
+    "updated_at": "2026-03-26T15:08:38Z",
+    "pushed_at": "2026-03-25T09:35:53Z",
+    "git_url": "git://github.com/zipperiron5/kms-pico-port-version-26.git",
+    "homepage": "",
+    "size": 7,
+    "stargazers_count": 68,
+    "watchers_count": 68,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
