@@ -3586,5 +3586,74 @@
     "language": "Shell",
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1176129893,
+    "name": "pua",
+    "owner": {
+      "id": 256783335,
+      "url": "https://api.github.com/users/tanweai",
+      "html_url": "https://github.com/tanweai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/256783335?v=4"
+    },
+    "html_url": "https://github.com/tanweai/pua",
+    "description": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.",
+    "created_at": "2026-03-08T16:55:16Z",
+    "updated_at": "2026-03-24T18:25:17Z",
+    "pushed_at": "2026-03-24T12:14:09Z",
+    "git_url": "git://github.com/tanweai/pua.git",
+    "homepage": "https://openpua.ai/",
+    "size": 5026,
+    "stargazers_count": 11107,
+    "watchers_count": 11107,
+    "language": "TypeScript",
+    "forks_count": 576,
+    "open_issues_count": 10
+  },
+  {
+    "id": 1169101061,
+    "name": "AgentsMesh",
+    "owner": {
+      "id": 253730750,
+      "url": "https://api.github.com/users/AgentsMesh",
+      "html_url": "https://github.com/AgentsMesh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/253730750?v=4"
+    },
+    "html_url": "https://github.com/AgentsMesh/AgentsMesh",
+    "description": "AgentsMesh — AI Agent Fleet Command Center. Orchestrate Claude Code, Codex CLI, Gemini CLI, Aider and more from a single platform.",
+    "created_at": "2026-02-28T07:10:42Z",
+    "updated_at": "2026-03-24T17:58:01Z",
+    "pushed_at": "2026-03-24T10:54:30Z",
+    "git_url": "git://github.com/AgentsMesh/AgentsMesh.git",
+    "homepage": "https://agentsmesh.ai",
+    "size": 52370,
+    "stargazers_count": 859,
+    "watchers_count": 859,
+    "language": "Go",
+    "forks_count": 78,
+    "open_issues_count": 16
+  },
+  {
+    "id": 1188905362,
+    "name": "Ladder",
+    "owner": {
+      "id": 50654,
+      "url": "https://api.github.com/users/danielmiessler",
+      "html_url": "https://github.com/danielmiessler",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50654?v=4"
+    },
+    "html_url": "https://github.com/danielmiessler/Ladder",
+    "description": "A system for autonomous creation and optimization.",
+    "created_at": "2026-03-22T18:34:13Z",
+    "updated_at": "2026-03-24T17:52:34Z",
+    "pushed_at": "2026-03-22T19:54:18Z",
+    "git_url": "git://github.com/danielmiessler/Ladder.git",
+    "homepage": "",
+    "size": 267,
+    "stargazers_count": 89,
+    "watchers_count": 89,
+    "language": "TypeScript",
+    "forks_count": 9,
+    "open_issues_count": 0
   }
 ]
