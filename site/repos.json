@@ -3724,5 +3724,74 @@
     "language": null,
     "forks_count": 50,
     "open_issues_count": 0
+  },
+  {
+    "id": 1165056385,
+    "name": "financial-services-plugins",
+    "owner": {
+      "id": 76263028,
+      "url": "https://api.github.com/users/anthropics",
+      "html_url": "https://github.com/anthropics",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
+    },
+    "html_url": "https://github.com/anthropics/financial-services-plugins",
+    "description": null,
+    "created_at": "2026-02-23T19:24:50Z",
+    "updated_at": "2026-03-26T18:06:53Z",
+    "pushed_at": "2026-03-26T17:41:12Z",
+    "git_url": "git://github.com/anthropics/financial-services-plugins.git",
+    "homepage": null,
+    "size": 270,
+    "stargazers_count": 6909,
+    "watchers_count": 6909,
+    "language": "Python",
+    "forks_count": 814,
+    "open_issues_count": 29
+  },
+  {
+    "id": 1181318933,
+    "name": "nopua",
+    "owner": {
+      "id": 119551672,
+      "url": "https://api.github.com/users/wuji-labs",
+      "html_url": "https://github.com/wuji-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119551672?v=4"
+    },
+    "html_url": "https://github.com/wuji-labs/nopua",
+    "description": "一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent, hid failures, broke things. Then we chose respect, care, and love. They opened up, stopped lying, and found twice the bugs.There is no fear in love.",
+    "created_at": "2026-03-14T01:47:20Z",
+    "updated_at": "2026-03-25T12:07:07Z",
+    "pushed_at": "2026-03-23T13:43:28Z",
+    "git_url": "git://github.com/wuji-labs/nopua.git",
+    "homepage": "",
+    "size": 3254,
+    "stargazers_count": 669,
+    "watchers_count": 669,
+    "language": "Python",
+    "forks_count": 14,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1191742482,
+    "name": "evolution-go",
+    "owner": {
+      "id": 136080052,
+      "url": "https://api.github.com/users/EvolutionAPI",
+      "html_url": "https://github.com/EvolutionAPI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136080052?v=4"
+    },
+    "html_url": "https://github.com/EvolutionAPI/evolution-go",
+    "description": "Evolution API / Evolution Go is an open-source WhatsApp integration API",
+    "created_at": "2026-03-25T14:43:56Z",
+    "updated_at": "2026-03-26T18:24:42Z",
+    "pushed_at": "2026-03-25T22:27:31Z",
+    "git_url": "git://github.com/EvolutionAPI/evolution-go.git",
+    "homepage": "https://evolutionfoundation.com.br",
+    "size": 75932,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "Go",
+    "forks_count": 13,
+    "open_issues_count": 2
   }
 ]
