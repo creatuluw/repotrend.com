@@ -4345,5 +4345,74 @@
     "language": "HTML",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1164477708,
+    "name": "context-mode",
+    "owner": {
+      "id": 6067714,
+      "url": "https://api.github.com/users/mksglu",
+      "html_url": "https://github.com/mksglu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6067714?v=4"
+    },
+    "html_url": "https://github.com/mksglu/context-mode",
+    "description": "Privacy-first. MCP is the protocol for tool access. We're the virtualization layer for context.",
+    "created_at": "2026-02-23T05:56:28Z",
+    "updated_at": "2026-03-27T18:00:24Z",
+    "pushed_at": "2026-03-27T12:12:21Z",
+    "git_url": "git://github.com/mksglu/context-mode.git",
+    "homepage": "https://context-mode.mksg.lu",
+    "size": 3239,
+    "stargazers_count": 6039,
+    "watchers_count": 6039,
+    "language": "TypeScript",
+    "forks_count": 391,
+    "open_issues_count": 15
+  },
+  {
+    "id": 1168266699,
+    "name": "flutter_billing_app",
+    "owner": {
+      "id": 29474697,
+      "url": "https://api.github.com/users/Dinesh-Sowndar",
+      "html_url": "https://github.com/Dinesh-Sowndar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29474697?v=4"
+    },
+    "html_url": "https://github.com/Dinesh-Sowndar/flutter_billing_app",
+    "description": null,
+    "created_at": "2026-02-27T07:31:26Z",
+    "updated_at": "2026-03-26T17:36:12Z",
+    "pushed_at": "2026-03-11T16:27:28Z",
+    "git_url": "git://github.com/Dinesh-Sowndar/flutter_billing_app.git",
+    "homepage": null,
+    "size": 94,
+    "stargazers_count": 800,
+    "watchers_count": 800,
+    "language": "Dart",
+    "forks_count": 380,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1190495506,
+    "name": "SkyNet-Vantage",
+    "owner": {
+      "id": 270180500,
+      "url": "https://api.github.com/users/blackprince0747",
+      "html_url": "https://github.com/blackprince0747",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270180500?v=4"
+    },
+    "html_url": "https://github.com/blackprince0747/SkyNet-Vantage",
+    "description": "SkyNet-Vantage (2026) — Advanced Hypixel Skyblock Mod for Forge/Fabric. Features Real-Time Auction Sniping, Automated Farming Modules, Dungeon Solvers, and Profit Trackers. Optimized for Maximum Efficiency and Anti-Watchdog Stealth.",
+    "created_at": "2026-03-24T10:39:54Z",
+    "updated_at": "2026-03-25T18:24:38Z",
+    "pushed_at": "2026-03-24T10:45:25Z",
+    "git_url": "git://github.com/blackprince0747/SkyNet-Vantage.git",
+    "homepage": "",
+    "size": 7,
+    "stargazers_count": 73,
+    "watchers_count": 73,
+    "language": "Java",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
