@@ -4276,5 +4276,74 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1165324947,
+    "name": "CoPaw",
+    "owner": {
+      "id": 211762292,
+      "url": "https://api.github.com/users/agentscope-ai",
+      "html_url": "https://github.com/agentscope-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/211762292?v=4"
+    },
+    "html_url": "https://github.com/agentscope-ai/CoPaw",
+    "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
+    "created_at": "2026-02-24T03:42:56Z",
+    "updated_at": "2026-03-28T11:54:32Z",
+    "pushed_at": "2026-03-28T07:18:10Z",
+    "git_url": "git://github.com/agentscope-ai/CoPaw.git",
+    "homepage": "http://copaw.agentscope.io/",
+    "size": 32393,
+    "stargazers_count": 13519,
+    "watchers_count": 13519,
+    "language": "Python",
+    "forks_count": 1758,
+    "open_issues_count": 520
+  },
+  {
+    "id": 1185088831,
+    "name": "gea",
+    "owner": {
+      "id": 698308,
+      "url": "https://api.github.com/users/dashersw",
+      "html_url": "https://github.com/dashersw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/698308?v=4"
+    },
+    "html_url": "https://github.com/dashersw/gea",
+    "description": "A batteries-included, reactive JavaScript UI framework. No virtual DOM. Compile-time JSX transforms. Proxy-based stores. Surgical DOM patching.",
+    "created_at": "2026-03-18T08:21:45Z",
+    "updated_at": "2026-03-28T12:05:17Z",
+    "pushed_at": "2026-03-27T21:10:39Z",
+    "git_url": "git://github.com/dashersw/gea.git",
+    "homepage": "https://geajs.com",
+    "size": 10708,
+    "stargazers_count": 708,
+    "watchers_count": 708,
+    "language": "JavaScript",
+    "forks_count": 24,
+    "open_issues_count": 12
+  },
+  {
+    "id": 1191786899,
+    "name": "ResearchClaw",
+    "owner": {
+      "id": 83259989,
+      "url": "https://api.github.com/users/syr-cn",
+      "html_url": "https://github.com/syr-cn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83259989?v=4"
+    },
+    "html_url": "https://github.com/syr-cn/ResearchClaw",
+    "description": "上朝式科研：AI-powered research workflow showcase",
+    "created_at": "2026-03-25T15:30:14Z",
+    "updated_at": "2026-03-28T11:55:48Z",
+    "pushed_at": "2026-03-27T06:24:02Z",
+    "git_url": "git://github.com/syr-cn/ResearchClaw.git",
+    "homepage": "https://syr-cn.github.io/ResearchClaw/",
+    "size": 364,
+    "stargazers_count": 83,
+    "watchers_count": 83,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
