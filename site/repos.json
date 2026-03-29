@@ -4759,5 +4759,74 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1155965274,
+    "name": "Claude-Code-Game-Studios",
+    "owner": {
+      "id": 150119193,
+      "url": "https://api.github.com/users/Donchitos",
+      "html_url": "https://github.com/Donchitos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/150119193?v=4"
+    },
+    "html_url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+    "description": "Turn Claude Code into a full game dev studio — 48 AI agents, 36 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+    "created_at": "2026-02-12T05:21:38Z",
+    "updated_at": "2026-03-29T00:31:16Z",
+    "pushed_at": "2026-03-09T01:52:27Z",
+    "git_url": "git://github.com/Donchitos/Claude-Code-Game-Studios.git",
+    "homepage": "",
+    "size": 526,
+    "stargazers_count": 7026,
+    "watchers_count": 7026,
+    "language": "Shell",
+    "forks_count": 998,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1168811055,
+    "name": "kula",
+    "owner": {
+      "id": 6292788,
+      "url": "https://api.github.com/users/c0m4r",
+      "html_url": "https://github.com/c0m4r",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6292788?v=4"
+    },
+    "html_url": "https://github.com/c0m4r/kula",
+    "description": "Lightweight, self-contained Linux® server monitoring tool",
+    "created_at": "2026-02-27T20:31:57Z",
+    "updated_at": "2026-03-28T15:36:58Z",
+    "pushed_at": "2026-03-28T15:36:27Z",
+    "git_url": "git://github.com/c0m4r/kula.git",
+    "homepage": "https://kula.ovh",
+    "size": 2496,
+    "stargazers_count": 892,
+    "watchers_count": 892,
+    "language": "Go",
+    "forks_count": 39,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1194010302,
+    "name": "Kalshi-trade-bot",
+    "owner": {
+      "id": 206211005,
+      "url": "https://api.github.com/users/AsArchitects",
+      "html_url": "https://github.com/AsArchitects",
+      "avatar_url": "https://avatars.githubusercontent.com/u/206211005?v=4"
+    },
+    "html_url": "https://github.com/AsArchitects/Kalshi-trade-bot",
+    "description": "This is an arbitrage trading bot that exploits price differences between Polymarket and Kalshi prediction markets for 15-minute BTC markets.",
+    "created_at": "2026-03-27T20:24:13Z",
+    "updated_at": "2026-03-28T11:37:03Z",
+    "pushed_at": "2026-03-27T20:25:08Z",
+    "git_url": "git://github.com/AsArchitects/Kalshi-trade-bot.git",
+    "homepage": "",
+    "size": 8,
+    "stargazers_count": 80,
+    "watchers_count": 80,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
