@@ -5104,5 +5104,74 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1146738089,
+    "name": "nanoclaw",
+    "owner": {
+      "id": 255066954,
+      "url": "https://api.github.com/users/qwibitai",
+      "html_url": "https://github.com/qwibitai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/255066954?v=4"
+    },
+    "html_url": "https://github.com/qwibitai/nanoclaw",
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
+    "created_at": "2026-01-31T15:47:22Z",
+    "updated_at": "2026-03-24T18:17:12Z",
+    "pushed_at": "2026-03-24T16:05:30Z",
+    "git_url": "git://github.com/qwibitai/nanoclaw.git",
+    "homepage": "https://nanoclaw.dev",
+    "size": 11198,
+    "stargazers_count": 25274,
+    "watchers_count": 25274,
+    "language": "TypeScript",
+    "forks_count": 8410,
+    "open_issues_count": 566
+  },
+  {
+    "id": 1167250414,
+    "name": "dr-claw",
+    "owner": {
+      "id": 263098388,
+      "url": "https://api.github.com/users/OpenLAIR",
+      "html_url": "https://github.com/OpenLAIR",
+      "avatar_url": "https://avatars.githubusercontent.com/u/263098388?v=4"
+    },
+    "html_url": "https://github.com/OpenLAIR/dr-claw",
+    "description": "A Super AI Lab with massive AI Doctors as Assistants. Best IDE for Research via AI Power",
+    "created_at": "2026-02-26T05:03:51Z",
+    "updated_at": "2026-03-24T17:58:32Z",
+    "pushed_at": "2026-03-24T17:32:24Z",
+    "git_url": "git://github.com/OpenLAIR/dr-claw.git",
+    "homepage": "",
+    "size": 103511,
+    "stargazers_count": 656,
+    "watchers_count": 656,
+    "language": "JavaScript",
+    "forks_count": 55,
+    "open_issues_count": 20
+  },
+  {
+    "id": 1193415521,
+    "name": "android-cli",
+    "owner": {
+      "id": 72444,
+      "url": "https://api.github.com/users/ErikHellman",
+      "html_url": "https://github.com/ErikHellman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72444?v=4"
+    },
+    "html_url": "https://github.com/ErikHellman/android-cli",
+    "description": "A unified CLI for everything related to Android Development",
+    "created_at": "2026-03-27T07:41:54Z",
+    "updated_at": "2026-03-28T22:39:41Z",
+    "pushed_at": "2026-03-28T07:48:29Z",
+    "git_url": "git://github.com/ErikHellman/android-cli.git",
+    "homepage": null,
+    "size": 98,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
