@@ -5380,5 +5380,74 @@
     "language": "Python",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1174820787,
+    "name": "autoresearch",
+    "owner": {
+      "id": 241138,
+      "url": "https://api.github.com/users/karpathy",
+      "html_url": "https://github.com/karpathy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
+    },
+    "html_url": "https://github.com/karpathy/autoresearch",
+    "description": "AI agents running research on single-GPU nanochat training automatically",
+    "created_at": "2026-03-06T22:00:43Z",
+    "updated_at": "2026-03-29T06:30:31Z",
+    "pushed_at": "2026-03-26T00:07:37Z",
+    "git_url": "git://github.com/karpathy/autoresearch.git",
+    "homepage": null,
+    "size": 530,
+    "stargazers_count": 59831,
+    "watchers_count": 59831,
+    "language": "Python",
+    "forks_count": 8308,
+    "open_issues_count": 161
+  },
+  {
+    "id": 1185055333,
+    "name": "autoresearch-skill",
+    "owner": {
+      "id": 225875801,
+      "url": "https://api.github.com/users/olelehmann100kMRR",
+      "html_url": "https://github.com/olelehmann100kMRR",
+      "avatar_url": "https://avatars.githubusercontent.com/u/225875801?v=4"
+    },
+    "html_url": "https://github.com/olelehmann100kMRR/autoresearch-skill",
+    "description": null,
+    "created_at": "2026-03-18T07:36:09Z",
+    "updated_at": "2026-03-28T17:50:53Z",
+    "pushed_at": "2026-03-18T07:36:13Z",
+    "git_url": "git://github.com/olelehmann100kMRR/autoresearch-skill.git",
+    "homepage": null,
+    "size": 8,
+    "stargazers_count": 747,
+    "watchers_count": 747,
+    "language": null,
+    "forks_count": 89,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1194839877,
+    "name": "Bite-By-Night-roblox",
+    "owner": {
+      "id": 192759391,
+      "url": "https://api.github.com/users/Neman1234",
+      "html_url": "https://github.com/Neman1234",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192759391?v=4"
+    },
+    "html_url": "https://github.com/Neman1234/Bite-By-Night-roblox",
+    "description": "Intense Roblox horror with jump scares and survival pressure.Aavailable to play right now!",
+    "created_at": "2026-03-28T22:01:59Z",
+    "updated_at": "2026-03-29T01:10:34Z",
+    "pushed_at": "2026-03-28T22:09:06Z",
+    "git_url": "git://github.com/Neman1234/Bite-By-Night-roblox.git",
+    "homepage": "",
+    "size": 6,
+    "stargazers_count": 77,
+    "watchers_count": 77,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
