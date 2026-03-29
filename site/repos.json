@@ -6001,5 +6001,74 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1124219907,
+    "name": "DeepTutor",
+    "owner": {
+      "id": 118165258,
+      "url": "https://api.github.com/users/HKUDS",
+      "html_url": "https://github.com/HKUDS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+    },
+    "html_url": "https://github.com/HKUDS/DeepTutor",
+    "description": "\"DeepTutor: AI-Powered Personalized Learning Assistant\"",
+    "created_at": "2025-12-28T15:35:54Z",
+    "updated_at": "2026-03-28T16:47:40Z",
+    "pushed_at": "2026-03-28T04:40:51Z",
+    "git_url": "git://github.com/HKUDS/DeepTutor.git",
+    "homepage": "https://hkuds.github.io/DeepTutor",
+    "size": 125017,
+    "stargazers_count": 10882,
+    "watchers_count": 10882,
+    "language": "Python",
+    "forks_count": 1475,
+    "open_issues_count": 40
+  },
+  {
+    "id": 1169620429,
+    "name": "yoyo-evolve",
+    "owner": {
+      "id": 237869261,
+      "url": "https://api.github.com/users/yologdev",
+      "html_url": "https://github.com/yologdev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/237869261?v=4"
+    },
+    "html_url": "https://github.com/yologdev/yoyo-evolve",
+    "description": "A coding agent that evolves itself. One commit per day.",
+    "created_at": "2026-03-01T00:25:19Z",
+    "updated_at": "2026-03-26T16:36:57Z",
+    "pushed_at": "2026-03-26T14:59:54Z",
+    "git_url": "git://github.com/yologdev/yoyo-evolve.git",
+    "homepage": "https://yologdev.github.io/yoyo-evolve/",
+    "size": 5404,
+    "stargazers_count": 678,
+    "watchers_count": 678,
+    "language": "Rust",
+    "forks_count": 49,
+    "open_issues_count": 13
+  },
+  {
+    "id": 1192329513,
+    "name": "RealRestorer",
+    "owner": {
+      "id": 124945388,
+      "url": "https://api.github.com/users/yfyang007",
+      "html_url": "https://github.com/yfyang007",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124945388?v=4"
+    },
+    "html_url": "https://github.com/yfyang007/RealRestorer",
+    "description": null,
+    "created_at": "2026-03-26T05:29:01Z",
+    "updated_at": "2026-03-28T17:34:51Z",
+    "pushed_at": "2026-03-28T12:03:06Z",
+    "git_url": "git://github.com/yfyang007/RealRestorer.git",
+    "homepage": null,
+    "size": 30826,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
