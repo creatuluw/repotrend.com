@@ -6208,5 +6208,74 @@
     "language": "JavaScript",
     "forks_count": 10,
     "open_issues_count": 1
+  },
+  {
+    "id": 1189893949,
+    "name": "skills",
+    "owner": {
+      "id": 74396,
+      "url": "https://api.github.com/users/slavingia",
+      "html_url": "https://github.com/slavingia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74396?v=4"
+    },
+    "html_url": "https://github.com/slavingia/skills",
+    "description": "Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia",
+    "created_at": "2026-03-23T19:16:00Z",
+    "updated_at": "2026-03-29T18:05:30Z",
+    "pushed_at": "2026-03-25T20:51:36Z",
+    "git_url": "git://github.com/slavingia/skills.git",
+    "homepage": "https://minimalistentrepreneur.com",
+    "size": 27,
+    "stargazers_count": 5302,
+    "watchers_count": 5302,
+    "language": null,
+    "forks_count": 379,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1169953346,
+    "name": "4jcraft",
+    "owner": {
+      "id": 265054390,
+      "url": "https://api.github.com/users/4jcraft",
+      "html_url": "https://github.com/4jcraft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/265054390?v=4"
+    },
+    "html_url": "https://github.com/4jcraft/4jcraft",
+    "description": "Leaked version of Minecraft Legacy Console Edition. Not for commercial purposes",
+    "created_at": "2026-03-01T13:37:30Z",
+    "updated_at": "2026-03-27T18:20:40Z",
+    "pushed_at": "2026-03-27T18:20:36Z",
+    "git_url": "git://github.com/4jcraft/4jcraft.git",
+    "homepage": "https://4jcraft.github.io/4jcraft/",
+    "size": 1532550,
+    "stargazers_count": 909,
+    "watchers_count": 909,
+    "language": "C++",
+    "forks_count": 152,
+    "open_issues_count": 31
+  },
+  {
+    "id": 1193469996,
+    "name": "magi",
+    "owner": {
+      "id": 2025746,
+      "url": "https://api.github.com/users/fshiori",
+      "html_url": "https://github.com/fshiori",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2025746?v=4"
+    },
+    "html_url": "https://github.com/fshiori/magi",
+    "description": "Three LLMs debate to make better decisions than any single model. Inspired by EVA's MAGI supercomputer. Critique mode: 88% vs single Claude Sonnet's 76%.",
+    "created_at": "2026-03-27T09:01:29Z",
+    "updated_at": "2026-03-29T17:43:26Z",
+    "pushed_at": "2026-03-28T06:36:33Z",
+    "git_url": "git://github.com/fshiori/magi.git",
+    "homepage": "",
+    "size": 176,
+    "stargazers_count": 68,
+    "watchers_count": 68,
+    "language": "Python",
+    "forks_count": 8,
+    "open_issues_count": 0
   }
 ]
