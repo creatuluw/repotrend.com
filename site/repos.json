@@ -5035,5 +5035,74 @@
     "language": "C",
     "forks_count": 5,
     "open_issues_count": 3
+  },
+  {
+    "id": 1141782198,
+    "name": "voicebox",
+    "owner": {
+      "id": 32987599,
+      "url": "https://api.github.com/users/jamiepine",
+      "html_url": "https://github.com/jamiepine",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32987599?v=4"
+    },
+    "html_url": "https://github.com/jamiepine/voicebox",
+    "description": "The open-source voice synthesis studio",
+    "created_at": "2026-01-25T12:27:03Z",
+    "updated_at": "2026-03-27T16:50:02Z",
+    "pushed_at": "2026-03-27T06:06:47Z",
+    "git_url": "git://github.com/jamiepine/voicebox.git",
+    "homepage": "https://voicebox.sh",
+    "size": 97481,
+    "stargazers_count": 14203,
+    "watchers_count": 14203,
+    "language": "TypeScript",
+    "forks_count": 1677,
+    "open_issues_count": 174
+  },
+  {
+    "id": 1175233515,
+    "name": "TripStar",
+    "owner": {
+      "id": 89129330,
+      "url": "https://api.github.com/users/1sdv",
+      "html_url": "https://github.com/1sdv",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89129330?v=4"
+    },
+    "html_url": "https://github.com/1sdv/TripStar",
+    "description": "旅途星辰 (TripStar)是一个创新的 AI 文旅智能体应用，旨在解决用户在规划旅行时面临的“信息过载”和“决策疲劳”问题。",
+    "created_at": "2026-03-07T12:27:59Z",
+    "updated_at": "2026-03-28T18:14:42Z",
+    "pushed_at": "2026-03-27T11:00:54Z",
+    "git_url": "git://github.com/1sdv/TripStar.git",
+    "homepage": "https://modelscope.cn/studios/lcclxy/Journey-to-the-China",
+    "size": 188,
+    "stargazers_count": 866,
+    "watchers_count": 866,
+    "language": "Vue",
+    "forks_count": 94,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1193956734,
+    "name": "Xstocksfi-Trade-Bot",
+    "owner": {
+      "id": 212400182,
+      "url": "https://api.github.com/users/Dark12321312414",
+      "html_url": "https://github.com/Dark12321312414",
+      "avatar_url": "https://avatars.githubusercontent.com/u/212400182?v=4"
+    },
+    "html_url": "https://github.com/Dark12321312414/Xstocksfi-Trade-Bot",
+    "description": "Automated trading bot for xStocks with three independent strategies",
+    "created_at": "2026-03-27T19:02:38Z",
+    "updated_at": "2026-03-28T11:37:16Z",
+    "pushed_at": "2026-03-27T19:09:16Z",
+    "git_url": "git://github.com/Dark12321312414/Xstocksfi-Trade-Bot.git",
+    "homepage": "",
+    "size": 12,
+    "stargazers_count": 79,
+    "watchers_count": 79,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
