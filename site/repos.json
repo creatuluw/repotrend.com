@@ -5587,5 +5587,74 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1129718813,
+    "name": "WeFlow",
+    "owner": {
+      "id": 98377878,
+      "url": "https://api.github.com/users/hicccc77",
+      "html_url": "https://github.com/hicccc77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98377878?v=4"
+    },
+    "html_url": "https://github.com/hicccc77/WeFlow",
+    "description": "WeFlow - 一个本地的微信聊天记录导出和年度报告应用",
+    "created_at": "2026-01-07T13:40:57Z",
+    "updated_at": "2026-03-29T12:07:49Z",
+    "pushed_at": "2026-03-29T12:06:36Z",
+    "git_url": "git://github.com/hicccc77/WeFlow.git",
+    "homepage": "https://doc.weflow.top",
+    "size": 64288,
+    "stargazers_count": 5852,
+    "watchers_count": 5852,
+    "language": "TypeScript",
+    "forks_count": 1545,
+    "open_issues_count": 39
+  },
+  {
+    "id": 1190171426,
+    "name": "opencli-rs",
+    "owner": {
+      "id": 2127280,
+      "url": "https://api.github.com/users/nashsu",
+      "html_url": "https://github.com/nashsu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2127280?v=4"
+    },
+    "html_url": "https://github.com/nashsu/opencli-rs",
+    "description": "Opencli-rs is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command. Covers Twitter/X, Reddit, YouTube, HackerNews, Bilibili, Zhihu, Xiaohongshu, and 55+ sites, with support for controlling Electron desktop apps, integrating local CLI tools (gh, docker, kubectl)",
+    "created_at": "2026-03-24T03:04:29Z",
+    "updated_at": "2026-03-28T18:03:10Z",
+    "pushed_at": "2026-03-27T13:37:45Z",
+    "git_url": "git://github.com/nashsu/opencli-rs.git",
+    "homepage": "",
+    "size": 1410,
+    "stargazers_count": 925,
+    "watchers_count": 925,
+    "language": "Rust",
+    "forks_count": 67,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1193579263,
+    "name": "homeassistant-claude-kit",
+    "owner": {
+      "id": 777697,
+      "url": "https://api.github.com/users/dcb",
+      "html_url": "https://github.com/dcb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/777697?v=4"
+    },
+    "html_url": "https://github.com/dcb/homeassistant-claude-kit",
+    "description": "AI-guided Home Assistant setup — automation templates, mobile-first React dashboard, and Claude Code skills for configuration management",
+    "created_at": "2026-03-27T11:25:30Z",
+    "updated_at": "2026-03-29T11:17:15Z",
+    "pushed_at": "2026-03-28T18:40:00Z",
+    "git_url": "git://github.com/dcb/homeassistant-claude-kit.git",
+    "homepage": null,
+    "size": 3459,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": "TypeScript",
+    "forks_count": 5,
+    "open_issues_count": 0
   }
 ]
