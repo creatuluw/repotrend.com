@@ -6139,5 +6139,74 @@
     "language": "Shell",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1135449996,
+    "name": "quip-protocol",
+    "owner": {
+      "id": 203704131,
+      "url": "https://api.github.com/users/QuipNetwork",
+      "html_url": "https://github.com/QuipNetwork",
+      "avatar_url": "https://avatars.githubusercontent.com/u/203704131?v=4"
+    },
+    "html_url": "https://github.com/QuipNetwork/quip-protocol",
+    "description": "experimental quip protocol network node",
+    "created_at": "2026-01-16T05:39:29Z",
+    "updated_at": "2026-03-24T17:35:56Z",
+    "pushed_at": "2026-03-17T19:09:38Z",
+    "git_url": "git://github.com/QuipNetwork/quip-protocol.git",
+    "homepage": null,
+    "size": 21190,
+    "stargazers_count": 6317,
+    "watchers_count": 6317,
+    "language": "Python",
+    "forks_count": 112,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1179164349,
+    "name": "atlas-gic",
+    "owner": {
+      "id": 184298966,
+      "url": "https://api.github.com/users/chrisworsey55",
+      "html_url": "https://github.com/chrisworsey55",
+      "avatar_url": "https://avatars.githubusercontent.com/u/184298966?v=4"
+    },
+    "html_url": "https://github.com/chrisworsey55/atlas-gic",
+    "description": "ATLAS by General Intelligence Capital — Self-improving AI trading agents using Karpathy-style autoresearch",
+    "created_at": "2026-03-11T18:51:14Z",
+    "updated_at": "2026-03-24T16:38:29Z",
+    "pushed_at": "2026-03-20T14:29:04Z",
+    "git_url": "git://github.com/chrisworsey55/atlas-gic.git",
+    "homepage": null,
+    "size": 180,
+    "stargazers_count": 999,
+    "watchers_count": 999,
+    "language": "Python",
+    "forks_count": 211,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1193632410,
+    "name": "File-Transfer",
+    "owner": {
+      "id": 162035225,
+      "url": "https://api.github.com/users/SMNETSTUDIO",
+      "html_url": "https://github.com/SMNETSTUDIO",
+      "avatar_url": "https://avatars.githubusercontent.com/u/162035225?v=4"
+    },
+    "html_url": "https://github.com/SMNETSTUDIO/File-Transfer",
+    "description": null,
+    "created_at": "2026-03-27T12:33:54Z",
+    "updated_at": "2026-03-28T13:56:27Z",
+    "pushed_at": "2026-03-28T03:07:04Z",
+    "git_url": "git://github.com/SMNETSTUDIO/File-Transfer.git",
+    "homepage": null,
+    "size": 59,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "JavaScript",
+    "forks_count": 10,
+    "open_issues_count": 1
   }
 ]
