@@ -5932,5 +5932,74 @@
     "language": "TypeScript",
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1137846174,
+    "name": "x-algorithm",
+    "owner": {
+      "id": 130314967,
+      "url": "https://api.github.com/users/xai-org",
+      "html_url": "https://github.com/xai-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130314967?v=4"
+    },
+    "html_url": "https://github.com/xai-org/x-algorithm",
+    "description": "Algorithm powering the For You feed on X",
+    "created_at": "2026-01-19T23:12:35Z",
+    "updated_at": "2026-03-24T16:12:43Z",
+    "pushed_at": "2026-01-20T02:31:49Z",
+    "git_url": "git://github.com/xai-org/x-algorithm.git",
+    "homepage": null,
+    "size": 100,
+    "stargazers_count": 16132,
+    "watchers_count": 16132,
+    "language": "Rust",
+    "forks_count": 2789,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1185590488,
+    "name": "ai-engineering-from-scratch",
+    "owner": {
+      "id": 48523873,
+      "url": "https://api.github.com/users/rohitg00",
+      "html_url": "https://github.com/rohitg00",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48523873?v=4"
+    },
+    "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "created_at": "2026-03-18T18:38:02Z",
+    "updated_at": "2026-03-29T18:13:30Z",
+    "pushed_at": "2026-03-29T10:24:36Z",
+    "git_url": "git://github.com/rohitg00/ai-engineering-from-scratch.git",
+    "homepage": "https://rohitg00.github.io/ai-engineering-from-scratch/",
+    "size": 919,
+    "stargazers_count": 954,
+    "watchers_count": 954,
+    "language": "Python",
+    "forks_count": 164,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1187738530,
+    "name": "nukebot-v2",
+    "owner": {
+      "id": 257169411,
+      "url": "https://api.github.com/users/beatassurancemound",
+      "html_url": "https://github.com/beatassurancemound",
+      "avatar_url": "https://avatars.githubusercontent.com/u/257169411?v=4"
+    },
+    "html_url": "https://github.com/beatassurancemound/nukebot-v2",
+    "description": "A high-performance V2 automation engine optimized for rapid channel manipulation, permission overwriting, and mass-action execution via the Discord API.",
+    "created_at": "2026-03-21T05:01:10Z",
+    "updated_at": "2026-03-23T06:03:27Z",
+    "pushed_at": "2026-03-21T05:01:41Z",
+    "git_url": "git://github.com/beatassurancemound/nukebot-v2.git",
+    "homepage": "",
+    "size": 2,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
