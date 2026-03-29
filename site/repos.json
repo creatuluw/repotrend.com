@@ -5725,5 +5725,74 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1165371200,
+    "name": "vinext",
+    "owner": {
+      "id": 314135,
+      "url": "https://api.github.com/users/cloudflare",
+      "html_url": "https://github.com/cloudflare",
+      "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
+    },
+    "html_url": "https://github.com/cloudflare/vinext",
+    "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
+    "created_at": "2026-02-24T05:07:41Z",
+    "updated_at": "2026-03-24T18:03:58Z",
+    "pushed_at": "2026-03-24T15:09:59Z",
+    "git_url": "git://github.com/cloudflare/vinext.git",
+    "homepage": null,
+    "size": 20941,
+    "stargazers_count": 7114,
+    "watchers_count": 7114,
+    "language": "TypeScript",
+    "forks_count": 263,
+    "open_issues_count": 91
+  },
+  {
+    "id": 1192168837,
+    "name": "mcp-brasil",
+    "owner": {
+      "id": 16927419,
+      "url": "https://api.github.com/users/jxnxts",
+      "html_url": "https://github.com/jxnxts",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16927419?v=4"
+    },
+    "html_url": "https://github.com/jxnxts/mcp-brasil",
+    "description": "MCP Server para 41 APIs públicas brasileiras",
+    "created_at": "2026-03-26T00:38:54Z",
+    "updated_at": "2026-03-29T11:26:51Z",
+    "pushed_at": "2026-03-29T01:29:02Z",
+    "git_url": "git://github.com/jxnxts/mcp-brasil.git",
+    "homepage": null,
+    "size": 3686,
+    "stargazers_count": 842,
+    "watchers_count": 842,
+    "language": "Python",
+    "forks_count": 101,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1187975106,
+    "name": "Worm-GPT-LLM-2026",
+    "owner": {
+      "id": 269011895,
+      "url": "https://api.github.com/users/dubermandeer",
+      "html_url": "https://github.com/dubermandeer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269011895?v=4"
+    },
+    "html_url": "https://github.com/dubermandeer/Worm-GPT-LLM-2026",
+    "description": "High-performance C++ execution engine for LLM red-teaming and prompt engineering. Deploy dynamic jailbreak payloads, bypass alignment guardrails, and utilize free autonomous uncensored conversational logic locally.",
+    "created_at": "2026-03-21T12:57:34Z",
+    "updated_at": "2026-03-23T08:00:39Z",
+    "pushed_at": "2026-03-21T13:00:04Z",
+    "git_url": "git://github.com/dubermandeer/Worm-GPT-LLM-2026.git",
+    "homepage": "",
+    "size": 7,
+    "stargazers_count": 75,
+    "watchers_count": 75,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
