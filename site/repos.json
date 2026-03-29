@@ -6070,5 +6070,74 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1159542259,
+    "name": "nullclaw",
+    "owner": {
+      "id": 262007611,
+      "url": "https://api.github.com/users/nullclaw",
+      "html_url": "https://github.com/nullclaw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/262007611?v=4"
+    },
+    "html_url": "https://github.com/nullclaw/nullclaw",
+    "description": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig",
+    "created_at": "2026-02-16T21:17:27Z",
+    "updated_at": "2026-03-29T17:16:59Z",
+    "pushed_at": "2026-03-27T09:52:47Z",
+    "git_url": "git://github.com/nullclaw/nullclaw.git",
+    "homepage": "https://nullclaw.io",
+    "size": 11917,
+    "stargazers_count": 6916,
+    "watchers_count": 6916,
+    "language": "Zig",
+    "forks_count": 819,
+    "open_issues_count": 96
+  },
+  {
+    "id": 1185162422,
+    "name": "ClawTeam-OpenClaw",
+    "owner": {
+      "id": 42172631,
+      "url": "https://api.github.com/users/win4r",
+      "html_url": "https://github.com/win4r",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42172631?v=4"
+    },
+    "html_url": "https://github.com/win4r/ClawTeam-OpenClaw",
+    "description": "ClawTeam fork fully adapted for OpenClaw — multi-agent swarm coordination with OpenClaw as the default agent",
+    "created_at": "2026-03-18T09:52:54Z",
+    "updated_at": "2026-03-27T18:17:56Z",
+    "pushed_at": "2026-03-27T18:17:50Z",
+    "git_url": "git://github.com/win4r/ClawTeam-OpenClaw.git",
+    "homepage": "https://youtu.be/aZT9d8qrirY",
+    "size": 9108,
+    "stargazers_count": 825,
+    "watchers_count": 825,
+    "language": "Python",
+    "forks_count": 176,
+    "open_issues_count": 16
+  },
+  {
+    "id": 1192162141,
+    "name": "niri-animation-collection",
+    "owner": {
+      "id": 8079550,
+      "url": "https://api.github.com/users/jgarza9788",
+      "html_url": "https://github.com/jgarza9788",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8079550?v=4"
+    },
+    "html_url": "https://github.com/jgarza9788/niri-animation-collection",
+    "description": "a collection of niri shaders ",
+    "created_at": "2026-03-26T00:26:03Z",
+    "updated_at": "2026-03-29T17:12:37Z",
+    "pushed_at": "2026-03-29T13:34:17Z",
+    "git_url": "git://github.com/jgarza9788/niri-animation-collection.git",
+    "homepage": null,
+    "size": 326040,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": "Shell",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
