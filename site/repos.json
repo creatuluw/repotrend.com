@@ -5518,5 +5518,74 @@
     "language": "Java",
     "forks_count": 28,
     "open_issues_count": 1
+  },
+  {
+    "id": 1128123594,
+    "name": "OpenViking",
+    "owner": {
+      "id": 67365215,
+      "url": "https://api.github.com/users/volcengine",
+      "html_url": "https://github.com/volcengine",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67365215?v=4"
+    },
+    "html_url": "https://github.com/volcengine/OpenViking",
+    "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+    "created_at": "2026-01-05T07:11:17Z",
+    "updated_at": "2026-03-28T18:09:22Z",
+    "pushed_at": "2026-03-28T12:07:21Z",
+    "git_url": "git://github.com/volcengine/OpenViking.git",
+    "homepage": "https://openviking.ai",
+    "size": 59893,
+    "stargazers_count": 19654,
+    "watchers_count": 19654,
+    "language": "Python",
+    "forks_count": 1367,
+    "open_issues_count": 117
+  },
+  {
+    "id": 1172149095,
+    "name": "inav-configurator",
+    "owner": {
+      "id": 265407387,
+      "url": "https://api.github.com/users/INAVFlights",
+      "html_url": "https://github.com/INAVFlights",
+      "avatar_url": "https://avatars.githubusercontent.com/u/265407387?v=4"
+    },
+    "html_url": "https://github.com/INAVFlights/inav-configurator",
+    "description": null,
+    "created_at": "2026-03-04T01:49:26Z",
+    "updated_at": "2026-03-20T01:47:30Z",
+    "pushed_at": "2026-03-17T02:03:31Z",
+    "git_url": "git://github.com/INAVFlights/inav-configurator.git",
+    "homepage": "",
+    "size": 100728,
+    "stargazers_count": 755,
+    "watchers_count": 755,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1193719993,
+    "name": "Ableton-Free-Live-12-Desktop",
+    "owner": {
+      "id": 188809100,
+      "url": "https://api.github.com/users/Dream76338",
+      "html_url": "https://github.com/Dream76338",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188809100?v=4"
+    },
+    "html_url": "https://github.com/Dream76338/Ableton-Free-Live-12-Desktop",
+    "description": "Ableton Live 12 Full Version 2026 – Professional Music Software for Windows. DAW with MIDI, Audio, Max for Live, Auto-Warp & AI Tools. Offline Installer + Portable",
+    "created_at": "2026-03-27T14:09:05Z",
+    "updated_at": "2026-03-28T17:07:59Z",
+    "pushed_at": "2026-03-27T14:19:14Z",
+    "git_url": "git://github.com/Dream76338/Ableton-Free-Live-12-Desktop.git",
+    "homepage": "",
+    "size": 85,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
