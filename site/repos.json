@@ -4828,5 +4828,74 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1181982220,
+    "name": "opencli",
+    "owner": {
+      "id": 30525741,
+      "url": "https://api.github.com/users/jackwener",
+      "html_url": "https://github.com/jackwener",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30525741?v=4"
+    },
+    "html_url": "https://github.com/jackwener/opencli",
+    "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
+    "created_at": "2026-03-14T22:10:23Z",
+    "updated_at": "2026-03-27T18:19:12Z",
+    "pushed_at": "2026-03-27T18:19:13Z",
+    "git_url": "git://github.com/jackwener/opencli.git",
+    "homepage": "https://opencli.info/",
+    "size": 3529,
+    "stargazers_count": 8034,
+    "watchers_count": 8034,
+    "language": "TypeScript",
+    "forks_count": 646,
+    "open_issues_count": 58
+  },
+  {
+    "id": 1178594584,
+    "name": "AIComicBuilder",
+    "owner": {
+      "id": 44161003,
+      "url": "https://api.github.com/users/twwch",
+      "html_url": "https://github.com/twwch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44161003?v=4"
+    },
+    "html_url": "https://github.com/twwch/AIComicBuilder",
+    "description": "  AI-powered animated comic generator — transform scripts into fully animated videos with AI-driven character design,    storyboarding, and video synthesis.  ",
+    "created_at": "2026-03-11T07:08:04Z",
+    "updated_at": "2026-03-28T13:53:44Z",
+    "pushed_at": "2026-03-25T13:10:04Z",
+    "git_url": "git://github.com/twwch/AIComicBuilder.git",
+    "homepage": "https://comic.cturing.cn/en",
+    "size": 16008,
+    "stargazers_count": 678,
+    "watchers_count": 678,
+    "language": "TypeScript",
+    "forks_count": 96,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1193147839,
+    "name": "dotclaude",
+    "owner": {
+      "id": 24388130,
+      "url": "https://api.github.com/users/poshan0126",
+      "html_url": "https://github.com/poshan0126",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24388130?v=4"
+    },
+    "html_url": "https://github.com/poshan0126/dotclaude",
+    "description": "The standard .claude/  folder structure for everyday development.",
+    "created_at": "2026-03-26T23:27:36Z",
+    "updated_at": "2026-03-28T17:39:09Z",
+    "pushed_at": "2026-03-27T00:17:24Z",
+    "git_url": "git://github.com/poshan0126/dotclaude.git",
+    "homepage": null,
+    "size": 54,
+    "stargazers_count": 83,
+    "watchers_count": 83,
+    "language": "Shell",
+    "forks_count": 24,
+    "open_issues_count": 1
   }
 ]
