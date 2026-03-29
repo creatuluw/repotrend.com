@@ -5449,5 +5449,74 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1140828898,
+    "name": "knowledge-work-plugins",
+    "owner": {
+      "id": 76263028,
+      "url": "https://api.github.com/users/anthropics",
+      "html_url": "https://github.com/anthropics",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
+    },
+    "html_url": "https://github.com/anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "created_at": "2026-01-23T20:11:54Z",
+    "updated_at": "2026-03-27T18:07:15Z",
+    "pushed_at": "2026-03-25T17:17:20Z",
+    "git_url": "git://github.com/anthropics/knowledge-work-plugins.git",
+    "homepage": null,
+    "size": 840,
+    "stargazers_count": 10518,
+    "watchers_count": 10518,
+    "language": "Python",
+    "forks_count": 1169,
+    "open_issues_count": 65
+  },
+  {
+    "id": 1187892497,
+    "name": "MicroWARP",
+    "owner": {
+      "id": 248276954,
+      "url": "https://api.github.com/users/ccbkkb",
+      "html_url": "https://github.com/ccbkkb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/248276954?v=4"
+    },
+    "html_url": "https://github.com/ccbkkb/MicroWARP",
+    "description": "🚀 An 800KB RAM ultra-lightweight Cloudflare WARP SOCKS5 proxy in Docker. ��需 800KB 内存的纯内核态 Cloudflare WARP 代理 - Docker",
+    "created_at": "2026-03-21T10:26:03Z",
+    "updated_at": "2026-03-27T17:51:32Z",
+    "pushed_at": "2026-03-26T14:24:21Z",
+    "git_url": "git://github.com/ccbkkb/MicroWARP.git",
+    "homepage": "",
+    "size": 54,
+    "stargazers_count": 757,
+    "watchers_count": 757,
+    "language": "Shell",
+    "forks_count": 105,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1191304268,
+    "name": "show",
+    "owner": {
+      "id": 38200747,
+      "url": "https://api.github.com/users/jsbzg",
+      "html_url": "https://github.com/jsbzg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38200747?v=4"
+    },
+    "html_url": "https://github.com/jsbzg/show",
+    "description": "面向中小理发店、社区店、夫妻店的一体化轻量客户管理工具。",
+    "created_at": "2026-03-25T05:32:56Z",
+    "updated_at": "2026-03-28T15:11:32Z",
+    "pushed_at": "2026-03-26T02:39:57Z",
+    "git_url": "git://github.com/jsbzg/show.git",
+    "homepage": "",
+    "size": 491,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": "Java",
+    "forks_count": 28,
+    "open_issues_count": 1
   }
 ]
