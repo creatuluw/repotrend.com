@@ -5794,5 +5794,74 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1127248221,
+    "name": "clawhub",
+    "owner": {
+      "id": 252820863,
+      "url": "https://api.github.com/users/openclaw",
+      "html_url": "https://github.com/openclaw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/252820863?v=4"
+    },
+    "html_url": "https://github.com/openclaw/clawhub",
+    "description": "Skill Directory for OpenClaw",
+    "created_at": "2026-01-03T13:49:41Z",
+    "updated_at": "2026-03-27T18:21:03Z",
+    "pushed_at": "2026-03-27T02:10:12Z",
+    "git_url": "git://github.com/openclaw/clawhub.git",
+    "homepage": "https://clawhub.ai",
+    "size": 4529,
+    "stargazers_count": 7014,
+    "watchers_count": 7014,
+    "language": "TypeScript",
+    "forks_count": 1100,
+    "open_issues_count": 670
+  },
+  {
+    "id": 1170253459,
+    "name": "LCEMP",
+    "owner": {
+      "id": 264878678,
+      "url": "https://api.github.com/users/LCEMP",
+      "html_url": "https://github.com/LCEMP",
+      "avatar_url": "https://avatars.githubusercontent.com/u/264878678?v=4"
+    },
+    "html_url": "https://github.com/LCEMP/LCEMP",
+    "description": "A fork of minecraft LCE with LAN multiplayer support and other fixes.",
+    "created_at": "2026-03-01T22:59:54Z",
+    "updated_at": "2026-03-28T07:40:52Z",
+    "pushed_at": "2026-03-16T21:29:07Z",
+    "git_url": "git://github.com/LCEMP/LCEMP.git",
+    "homepage": null,
+    "size": 44700,
+    "stargazers_count": 873,
+    "watchers_count": 873,
+    "language": "C++",
+    "forks_count": 119,
+    "open_issues_count": 62
+  },
+  {
+    "id": 1192119355,
+    "name": "MetalDuck",
+    "owner": {
+      "id": 20178351,
+      "url": "https://api.github.com/users/Lospi",
+      "html_url": "https://github.com/Lospi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20178351?v=4"
+    },
+    "html_url": "https://github.com/Lospi/MetalDuck",
+    "description": null,
+    "created_at": "2026-03-25T23:00:56Z",
+    "updated_at": "2026-03-28T12:06:22Z",
+    "pushed_at": "2026-03-25T23:20:33Z",
+    "git_url": "git://github.com/Lospi/MetalDuck.git",
+    "homepage": null,
+    "size": 86,
+    "stargazers_count": 67,
+    "watchers_count": 67,
+    "language": "Swift",
+    "forks_count": 0,
+    "open_issues_count": 15
   }
 ]
