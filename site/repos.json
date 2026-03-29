@@ -5242,5 +5242,74 @@
     "language": "Python",
     "forks_count": 7,
     "open_issues_count": 0
+  },
+  {
+    "id": 1137212306,
+    "name": "Humanizer-zh",
+    "owner": {
+      "id": 13505770,
+      "url": "https://api.github.com/users/op7418",
+      "html_url": "https://github.com/op7418",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
+    },
+    "html_url": "https://github.com/op7418/Humanizer-zh",
+    "description": "Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。",
+    "created_at": "2026-01-19T04:23:44Z",
+    "updated_at": "2026-03-29T06:08:26Z",
+    "pushed_at": "2026-01-19T07:46:35Z",
+    "git_url": "git://github.com/op7418/Humanizer-zh.git",
+    "homepage": null,
+    "size": 32,
+    "stargazers_count": 5269,
+    "watchers_count": 5269,
+    "language": null,
+    "forks_count": 443,
+    "open_issues_count": 12
+  },
+  {
+    "id": 1172144778,
+    "name": "inav",
+    "owner": {
+      "id": 265407387,
+      "url": "https://api.github.com/users/INAVFlights",
+      "html_url": "https://github.com/INAVFlights",
+      "avatar_url": "https://avatars.githubusercontent.com/u/265407387?v=4"
+    },
+    "html_url": "https://github.com/INAVFlights/inav",
+    "description": "INAV: Navigation-enabled flight control software",
+    "created_at": "2026-03-04T01:40:54Z",
+    "updated_at": "2026-03-27T06:40:05Z",
+    "pushed_at": "2026-03-04T01:48:18Z",
+    "git_url": "git://github.com/INAVFlights/inav.git",
+    "homepage": "https://inavflight.github.io/",
+    "size": 621829,
+    "stargazers_count": 673,
+    "watchers_count": 673,
+    "language": "C",
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1192857843,
+    "name": "Serum-2-FREE-Desktop",
+    "owner": {
+      "id": 188239367,
+      "url": "https://api.github.com/users/Ay0ub-s",
+      "html_url": "https://github.com/Ay0ub-s",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188239367?v=4"
+    },
+    "html_url": "https://github.com/Ay0ub-s/Serum-2-FREE-Desktop",
+    "description": "Serum 2 FREE Full Version 2026 Desktop – Professional Wavetable Synthesizer for Windows. Create basses, leads, pads & cinematic sounds. Full unlocked plugin, offline installer. Best free Serum 2!",
+    "created_at": "2026-03-26T16:21:30Z",
+    "updated_at": "2026-03-27T18:18:57Z",
+    "pushed_at": "2026-03-26T16:31:34Z",
+    "git_url": "git://github.com/Ay0ub-s/Serum-2-FREE-Desktop.git",
+    "homepage": "",
+    "size": 89,
+    "stargazers_count": 64,
+    "watchers_count": 64,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
