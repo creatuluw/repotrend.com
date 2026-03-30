@@ -7243,5 +7243,51 @@
     "language": "Python",
     "forks_count": 8,
     "open_issues_count": 2
+  },
+  {
+    "id": 1192745137,
+    "name": "wewrite",
+    "owner": {
+      "id": 16276127,
+      "url": "https://api.github.com/users/oaker-io",
+      "html_url": "https://github.com/oaker-io",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16276127?v=4"
+    },
+    "html_url": "https://github.com/oaker-io/wewrite",
+    "description": "公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
+    "created_at": "2026-03-26T14:18:54Z",
+    "updated_at": "2026-03-29T18:07:28Z",
+    "pushed_at": "2026-03-28T17:47:24Z",
+    "git_url": "git://github.com/oaker-io/wewrite.git",
+    "homepage": null,
+    "size": 223,
+    "stargazers_count": 831,
+    "watchers_count": 831,
+    "language": "Python",
+    "forks_count": 138,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1193002578,
+    "name": "claude-meter",
+    "owner": {
+      "id": 1710047,
+      "url": "https://api.github.com/users/abhishekray07",
+      "html_url": "https://github.com/abhishekray07",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1710047?v=4"
+    },
+    "html_url": "https://github.com/abhishekray07/claude-meter",
+    "description": "Tracking Claude Code Usage Limits",
+    "created_at": "2026-03-26T19:20:57Z",
+    "updated_at": "2026-03-29T16:40:42Z",
+    "pushed_at": "2026-03-29T11:15:57Z",
+    "git_url": "git://github.com/abhishekray07/claude-meter.git",
+    "homepage": "https://abhishekray07.github.io/claude-meter/",
+    "size": 229,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": "Python",
+    "forks_count": 10,
+    "open_issues_count": 0
   }
 ]
