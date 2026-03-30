@@ -7289,5 +7289,74 @@
     "language": "Python",
     "forks_count": 10,
     "open_issues_count": 0
+  },
+  {
+    "id": 1180745961,
+    "name": "ai-website-cloner-template",
+    "owner": {
+      "id": 182581310,
+      "url": "https://api.github.com/users/JCodesMore",
+      "html_url": "https://github.com/JCodesMore",
+      "avatar_url": "https://avatars.githubusercontent.com/u/182581310?v=4"
+    },
+    "html_url": "https://github.com/JCodesMore/ai-website-cloner-template",
+    "description": "Clone any website with one command using AI coding agents",
+    "created_at": "2026-03-13T11:14:39Z",
+    "updated_at": "2026-03-30T12:26:27Z",
+    "pushed_at": "2026-03-30T06:28:55Z",
+    "git_url": "git://github.com/JCodesMore/ai-website-cloner-template.git",
+    "homepage": "https://dsc.gg/jcodesmore",
+    "size": 860,
+    "stargazers_count": 6136,
+    "watchers_count": 6136,
+    "language": "TypeScript",
+    "forks_count": 726,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1178833585,
+    "name": "skillhub",
+    "owner": {
+      "id": 26786495,
+      "url": "https://api.github.com/users/iflytek",
+      "html_url": "https://github.com/iflytek",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26786495?v=4"
+    },
+    "html_url": "https://github.com/iflytek/skillhub",
+    "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy   on-premise with Docker or Kubernetes.",
+    "created_at": "2026-03-11T12:17:05Z",
+    "updated_at": "2026-03-28T17:39:04Z",
+    "pushed_at": "2026-03-28T04:25:37Z",
+    "git_url": "git://github.com/iflytek/skillhub.git",
+    "homepage": "",
+    "size": 3629,
+    "stargazers_count": 898,
+    "watchers_count": 898,
+    "language": "Java",
+    "forks_count": 129,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1192515942,
+    "name": "megaflow",
+    "owner": {
+      "id": 840224,
+      "url": "https://api.github.com/users/cvg",
+      "html_url": "https://github.com/cvg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/840224?v=4"
+    },
+    "html_url": "https://github.com/cvg/megaflow",
+    "description": null,
+    "created_at": "2026-03-26T09:45:12Z",
+    "updated_at": "2026-03-29T16:54:43Z",
+    "pushed_at": "2026-03-28T17:18:37Z",
+    "git_url": "git://github.com/cvg/megaflow.git",
+    "homepage": null,
+    "size": 5738,
+    "stargazers_count": 70,
+    "watchers_count": 70,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 0
   }
 ]
