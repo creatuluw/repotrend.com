@@ -7105,5 +7105,74 @@
     "language": "Python",
     "forks_count": 60,
     "open_issues_count": 0
+  },
+  {
+    "id": 1175538883,
+    "name": "pretext",
+    "owner": {
+      "id": 1909539,
+      "url": "https://api.github.com/users/chenglou",
+      "html_url": "https://github.com/chenglou",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1909539?v=4"
+    },
+    "html_url": "https://github.com/chenglou/pretext",
+    "description": null,
+    "created_at": "2026-03-07T21:06:28Z",
+    "updated_at": "2026-03-30T12:27:04Z",
+    "pushed_at": "2026-03-30T11:44:45Z",
+    "git_url": "git://github.com/chenglou/pretext.git",
+    "homepage": null,
+    "size": 1200,
+    "stargazers_count": 16332,
+    "watchers_count": 16332,
+    "language": "TypeScript",
+    "forks_count": 607,
+    "open_issues_count": 31
+  },
+  {
+    "id": 1170037043,
+    "name": "ISC-Bench",
+    "owner": {
+      "id": 72287536,
+      "url": "https://api.github.com/users/wuyoscar",
+      "html_url": "https://github.com/wuyoscar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72287536?v=4"
+    },
+    "html_url": "https://github.com/wuyoscar/ISC-Bench",
+    "description": "Internal Safety Collapse: Turning LLMs into a \"Jailbroken State\" Without \"a Jailbreak Attack\".",
+    "created_at": "2026-03-01T15:56:58Z",
+    "updated_at": "2026-03-28T18:04:27Z",
+    "pushed_at": "2026-03-28T05:41:04Z",
+    "git_url": "git://github.com/wuyoscar/ISC-Bench.git",
+    "homepage": "https://wuyoscar.github.io/ISC-Bench/",
+    "size": 60451,
+    "stargazers_count": 694,
+    "watchers_count": 694,
+    "language": "Python",
+    "forks_count": 127,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1193770412,
+    "name": "caregiver",
+    "owner": {
+      "id": 271456537,
+      "url": "https://api.github.com/users/mumuyanjian-ui",
+      "html_url": "https://github.com/mumuyanjian-ui",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271456537?v=4"
+    },
+    "html_url": "https://github.com/mumuyanjian-ui/caregiver",
+    "description": "AI智能陪护",
+    "created_at": "2026-03-27T15:06:25Z",
+    "updated_at": "2026-03-29T18:10:43Z",
+    "pushed_at": "2026-03-28T08:24:58Z",
+    "git_url": "git://github.com/mumuyanjian-ui/caregiver.git",
+    "homepage": null,
+    "size": 48,
+    "stargazers_count": 73,
+    "watchers_count": 73,
+    "language": "JavaScript",
+    "forks_count": 10,
+    "open_issues_count": 0
   }
 ]
