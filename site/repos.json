@@ -7358,5 +7358,51 @@
     "language": "Python",
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1180740814,
+    "name": "my-translator",
+    "owner": {
+      "id": 17255682,
+      "url": "https://api.github.com/users/phuc-nt",
+      "html_url": "https://github.com/phuc-nt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17255682?v=4"
+    },
+    "html_url": "https://github.com/phuc-nt/my-translator",
+    "description": "Real-time speech translation — macOS & Windows, free TTS, no server, your API keys only",
+    "created_at": "2026-03-13T11:07:44Z",
+    "updated_at": "2026-03-27T17:39:17Z",
+    "pushed_at": "2026-03-26T12:21:00Z",
+    "git_url": "git://github.com/phuc-nt/my-translator.git",
+    "homepage": null,
+    "size": 8237,
+    "stargazers_count": 659,
+    "watchers_count": 659,
+    "language": "JavaScript",
+    "forks_count": 247,
+    "open_issues_count": 9
+  },
+  {
+    "id": 1194475528,
+    "name": "knook",
+    "owner": {
+      "id": 75468116,
+      "url": "https://api.github.com/users/preetsuthar17",
+      "html_url": "https://github.com/preetsuthar17",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75468116?v=4"
+    },
+    "html_url": "https://github.com/preetsuthar17/knook",
+    "description": "Find your pause.",
+    "created_at": "2026-03-28T12:09:19Z",
+    "updated_at": "2026-03-30T09:49:08Z",
+    "pushed_at": "2026-03-30T09:49:05Z",
+    "git_url": "git://github.com/preetsuthar17/knook.git",
+    "homepage": "",
+    "size": 215,
+    "stargazers_count": 55,
+    "watchers_count": 55,
+    "language": "Swift",
+    "forks_count": 6,
+    "open_issues_count": 7
   }
 ]
