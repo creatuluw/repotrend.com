@@ -6346,5 +6346,74 @@
     "language": null,
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1139782619,
+    "name": "waoowaoo",
+    "owner": {
+      "id": 153601736,
+      "url": "https://api.github.com/users/saturndec",
+      "html_url": "https://github.com/saturndec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153601736?v=4"
+    },
+    "html_url": "https://github.com/saturndec/waoowaoo",
+    "description": "首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.",
+    "created_at": "2026-01-22T12:09:36Z",
+    "updated_at": "2026-03-30T00:38:55Z",
+    "pushed_at": "2026-03-23T17:28:05Z",
+    "git_url": "git://github.com/saturndec/waoowaoo.git",
+    "homepage": "https://www.waoowaoo.com/",
+    "size": 9737,
+    "stargazers_count": 10593,
+    "watchers_count": 10593,
+    "language": "TypeScript",
+    "forks_count": 2352,
+    "open_issues_count": 110
+  },
+  {
+    "id": 1169105159,
+    "name": "Resin",
+    "owner": {
+      "id": 264578909,
+      "url": "https://api.github.com/users/Resinat",
+      "html_url": "https://github.com/Resinat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/264578909?v=4"
+    },
+    "html_url": "https://github.com/Resinat/Resin",
+    "description": "A high-performance proxy pool gateway. Turn massive proxy subscriptions into a stable, smart, and observable network with sticky sessions.",
+    "created_at": "2026-02-28T07:18:53Z",
+    "updated_at": "2026-03-29T15:12:57Z",
+    "pushed_at": "2026-03-18T01:23:35Z",
+    "git_url": "git://github.com/Resinat/Resin.git",
+    "homepage": "",
+    "size": 8717,
+    "stargazers_count": 702,
+    "watchers_count": 702,
+    "language": "Go",
+    "forks_count": 118,
+    "open_issues_count": 16
+  },
+  {
+    "id": 1194558767,
+    "name": "ProcIR",
+    "owner": {
+      "id": 14845215,
+      "url": "https://api.github.com/users/dogadmin",
+      "html_url": "https://github.com/dogadmin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14845215?v=4"
+    },
+    "html_url": "https://github.com/dogadmin/ProcIR",
+    "description": null,
+    "created_at": "2026-03-28T14:19:39Z",
+    "updated_at": "2026-03-29T17:17:53Z",
+    "pushed_at": "2026-03-29T10:25:48Z",
+    "git_url": "git://github.com/dogadmin/ProcIR.git",
+    "homepage": null,
+    "size": 14120,
+    "stargazers_count": 70,
+    "watchers_count": 70,
+    "language": "Go",
+    "forks_count": 7,
+    "open_issues_count": 0
   }
 ]
