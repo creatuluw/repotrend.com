@@ -7588,5 +7588,51 @@
     "language": "HTML",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1179835404,
+    "name": "AI-Search-Hub",
+    "owner": {
+      "id": 267650310,
+      "url": "https://api.github.com/users/minsight-ai-info",
+      "html_url": "https://github.com/minsight-ai-info",
+      "avatar_url": "https://avatars.githubusercontent.com/u/267650310?v=4"
+    },
+    "html_url": "https://github.com/minsight-ai-info/AI-Search-Hub",
+    "description": "One Query. All Search Skill. 聚合 Gemini、Grok、豆包、元宝等平台原生 AI 搜索能力，免费获取科技趋势、行业舆情、热点追踪、旅行规划、日常问题统一接进自己的 Agent 与工作流，指定链接免费爬取",
+    "created_at": "2026-03-12T12:36:02Z",
+    "updated_at": "2026-03-30T16:02:51Z",
+    "pushed_at": "2026-03-30T03:10:41Z",
+    "git_url": "git://github.com/minsight-ai-info/AI-Search-Hub.git",
+    "homepage": "",
+    "size": 2166,
+    "stargazers_count": 799,
+    "watchers_count": 799,
+    "language": "Python",
+    "forks_count": 69,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1194864257,
+    "name": "Hyprchan-Waitlist-Repo",
+    "owner": {
+      "id": 59875489,
+      "url": "https://api.github.com/users/WaromiV",
+      "html_url": "https://github.com/WaromiV",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59875489?v=4"
+    },
+    "html_url": "https://github.com/WaromiV/Hyprchan-Waitlist-Repo",
+    "description": "This repo will soon become the source code of Hyprchan. Follow or star so you see when this becomes the code repo of Hyprchan.",
+    "created_at": "2026-03-28T23:00:50Z",
+    "updated_at": "2026-03-30T17:49:42Z",
+    "pushed_at": "2026-03-29T00:10:16Z",
+    "git_url": "git://github.com/WaromiV/Hyprchan-Waitlist-Repo.git",
+    "homepage": null,
+    "size": 72,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
