@@ -7496,5 +7496,51 @@
     "language": null,
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1185528404,
+    "name": "chops",
+    "owner": {
+      "id": 35243,
+      "url": "https://api.github.com/users/Shpigford",
+      "html_url": "https://github.com/Shpigford",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35243?v=4"
+    },
+    "html_url": "https://github.com/Shpigford/chops",
+    "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
+    "created_at": "2026-03-18T17:17:12Z",
+    "updated_at": "2026-03-28T18:06:55Z",
+    "pushed_at": "2026-03-27T23:59:11Z",
+    "git_url": "git://github.com/Shpigford/chops.git",
+    "homepage": "https://chops.md",
+    "size": 3792,
+    "stargazers_count": 955,
+    "watchers_count": 955,
+    "language": "Swift",
+    "forks_count": 52,
+    "open_issues_count": 11
+  },
+  {
+    "id": 1193308412,
+    "name": "RegentCardsAnimeRework",
+    "owner": {
+      "id": 126166356,
+      "url": "https://api.github.com/users/DoublePigeon",
+      "html_url": "https://github.com/DoublePigeon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126166356?v=4"
+    },
+    "html_url": "https://github.com/DoublePigeon/RegentCardsAnimeRework",
+    "description": "Reworking card portraits of Regent from the game Slay the Spire 2 in a cute, colorful anime style!",
+    "created_at": "2026-03-27T04:48:52Z",
+    "updated_at": "2026-03-29T17:40:35Z",
+    "pushed_at": "2026-03-27T08:48:47Z",
+    "git_url": "git://github.com/DoublePigeon/RegentCardsAnimeRework.git",
+    "homepage": null,
+    "size": 0,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
