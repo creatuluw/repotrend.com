@@ -6898,5 +6898,74 @@
     "language": "TypeScript",
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1134543109,
+    "name": "skills",
+    "owner": {
+      "id": 108547162,
+      "url": "https://api.github.com/users/vercel-labs",
+      "html_url": "https://github.com/vercel-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+    },
+    "html_url": "https://github.com/vercel-labs/skills",
+    "description": "The open agent skills tool - npx skills",
+    "created_at": "2026-01-14T21:31:18Z",
+    "updated_at": "2026-03-29T17:47:24Z",
+    "pushed_at": "2026-03-26T22:00:51Z",
+    "git_url": "git://github.com/vercel-labs/skills.git",
+    "homepage": "https://skills.sh",
+    "size": 673,
+    "stargazers_count": 12219,
+    "watchers_count": 12219,
+    "language": "TypeScript",
+    "forks_count": 983,
+    "open_issues_count": 408
+  },
+  {
+    "id": 1188322477,
+    "name": "cc-skills-golang",
+    "owner": {
+      "id": 2951285,
+      "url": "https://api.github.com/users/samber",
+      "html_url": "https://github.com/samber",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2951285?v=4"
+    },
+    "html_url": "https://github.com/samber/cc-skills-golang",
+    "description": "🧑‍🎨 A collection of Golang agentic skills that works",
+    "created_at": "2026-03-21T23:10:11Z",
+    "updated_at": "2026-03-30T06:39:13Z",
+    "pushed_at": "2026-03-27T10:10:07Z",
+    "git_url": "git://github.com/samber/cc-skills-golang.git",
+    "homepage": "https://skills.sh/samber/cc-skills-golang",
+    "size": 1035,
+    "stargazers_count": 708,
+    "watchers_count": 708,
+    "language": "Go",
+    "forks_count": 29,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1187830762,
+    "name": "geometry-dash-hack",
+    "owner": {
+      "id": 257170932,
+      "url": "https://api.github.com/users/VectorHazeSleeve",
+      "html_url": "https://github.com/VectorHazeSleeve",
+      "avatar_url": "https://avatars.githubusercontent.com/u/257170932?v=4"
+    },
+    "html_url": "https://github.com/VectorHazeSleeve/geometry-dash-hack",
+    "description": "Optimize level completion with the Geometry Dash Hack toolkit on GitHub. Advanced features for professional speed control and automation.",
+    "created_at": "2026-03-21T08:21:34Z",
+    "updated_at": "2026-03-23T08:01:47Z",
+    "pushed_at": "2026-03-21T09:00:49Z",
+    "git_url": "git://github.com/VectorHazeSleeve/geometry-dash-hack.git",
+    "homepage": "",
+    "size": 2,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
