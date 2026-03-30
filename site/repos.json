@@ -6622,5 +6622,74 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1129786550,
+    "name": "notebooklm-py",
+    "owner": {
+      "id": 737447,
+      "url": "https://api.github.com/users/teng-lin",
+      "html_url": "https://github.com/teng-lin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/737447?v=4"
+    },
+    "html_url": "https://github.com/teng-lin/notebooklm-py",
+    "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
+    "created_at": "2026-01-07T15:27:19Z",
+    "updated_at": "2026-03-28T18:09:44Z",
+    "pushed_at": "2026-03-28T02:03:15Z",
+    "git_url": "git://github.com/teng-lin/notebooklm-py.git",
+    "homepage": "https://github.com/teng-lin/notebooklm-py",
+    "size": 25021,
+    "stargazers_count": 7972,
+    "watchers_count": 7972,
+    "language": "Python",
+    "forks_count": 994,
+    "open_issues_count": 46
+  },
+  {
+    "id": 1169886546,
+    "name": "vmprint",
+    "owner": {
+      "id": 4078554,
+      "url": "https://api.github.com/users/cosmiciron",
+      "html_url": "https://github.com/cosmiciron",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4078554?v=4"
+    },
+    "html_url": "https://github.com/cosmiciron/vmprint",
+    "description": "An alternative to React-PDF — render multi-page documents anywhere. Preview on canvas and export to PDF/SVG from the same layout — no PDF.js, no React, no server. Pure JS, no dependencies. ~1.7MB. https://cosmiciron.github.io/vmprint/examples/preview/",
+    "created_at": "2026-03-01T11:29:14Z",
+    "updated_at": "2026-03-29T13:03:04Z",
+    "pushed_at": "2026-03-29T10:29:47Z",
+    "git_url": "git://github.com/cosmiciron/vmprint.git",
+    "homepage": "https://cosmiciron.github.io/vmprint/",
+    "size": 88095,
+    "stargazers_count": 659,
+    "watchers_count": 659,
+    "language": "JavaScript",
+    "forks_count": 25,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1192395941,
+    "name": "Graph-CAD",
+    "owner": {
+      "id": 118050627,
+      "url": "https://api.github.com/users/EESJGong",
+      "html_url": "https://github.com/EESJGong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118050627?v=4"
+    },
+    "html_url": "https://github.com/EESJGong/Graph-CAD",
+    "description": "Learning Hierarchical and Geometry-Aware Graph Representations for Text-to-CAD",
+    "created_at": "2026-03-26T07:08:17Z",
+    "updated_at": "2026-03-29T17:51:53Z",
+    "pushed_at": "2026-03-27T05:28:38Z",
+    "git_url": "git://github.com/EESJGong/Graph-CAD.git",
+    "homepage": "",
+    "size": 4564,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "Python",
+    "forks_count": 7,
+    "open_issues_count": 0
   }
 ]
