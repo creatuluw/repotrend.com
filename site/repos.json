@@ -6691,5 +6691,74 @@
     "language": "Python",
     "forks_count": 7,
     "open_issues_count": 0
+  },
+  {
+    "id": 1158588224,
+    "name": "llmfit",
+    "owner": {
+      "id": 1235925,
+      "url": "https://api.github.com/users/AlexsJones",
+      "html_url": "https://github.com/AlexsJones",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1235925?v=4"
+    },
+    "html_url": "https://github.com/AlexsJones/llmfit",
+    "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+    "created_at": "2026-02-15T16:11:31Z",
+    "updated_at": "2026-03-29T18:12:32Z",
+    "pushed_at": "2026-03-29T09:42:44Z",
+    "git_url": "git://github.com/AlexsJones/llmfit.git",
+    "homepage": "",
+    "size": 18628,
+    "stargazers_count": 19936,
+    "watchers_count": 19936,
+    "language": "Rust",
+    "forks_count": 1164,
+    "open_issues_count": 52
+  },
+  {
+    "id": 1182924996,
+    "name": "opencli-skill",
+    "owner": {
+      "id": 3236682,
+      "url": "https://api.github.com/users/joeseesun",
+      "html_url": "https://github.com/joeseesun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3236682?v=4"
+    },
+    "html_url": "https://github.com/joeseesun/opencli-skill",
+    "description": "Use opencli CLI to interact with social/content websites (Bilibili, Zhihu, Twitter/X, YouTube, Weibo, 小红书, V2EX, Reddit, HackerNews, 雪球, BOSS直聘 etc.) ",
+    "created_at": "2026-03-16T05:04:31Z",
+    "updated_at": "2026-03-29T17:32:54Z",
+    "pushed_at": "2026-03-16T06:35:44Z",
+    "git_url": "git://github.com/joeseesun/opencli-skill.git",
+    "homepage": null,
+    "size": 35,
+    "stargazers_count": 706,
+    "watchers_count": 706,
+    "language": null,
+    "forks_count": 55,
+    "open_issues_count": 9
+  },
+  {
+    "id": 1194618355,
+    "name": "RetinoGuardAI",
+    "owner": {
+      "id": 170846297,
+      "url": "https://api.github.com/users/Parkkaviezhilarasan",
+      "html_url": "https://github.com/Parkkaviezhilarasan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/170846297?v=4"
+    },
+    "html_url": "https://github.com/Parkkaviezhilarasan/RetinoGuardAI",
+    "description": null,
+    "created_at": "2026-03-28T15:46:15Z",
+    "updated_at": "2026-03-30T03:45:47Z",
+    "pushed_at": "2026-03-28T15:49:11Z",
+    "git_url": "git://github.com/Parkkaviezhilarasan/RetinoGuardAI.git",
+    "homepage": null,
+    "size": 3,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
