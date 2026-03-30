@@ -6967,5 +6967,74 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1153130349,
+    "name": "t3code",
+    "owner": {
+      "id": 89191727,
+      "url": "https://api.github.com/users/pingdotgg",
+      "html_url": "https://github.com/pingdotgg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89191727?v=4"
+    },
+    "html_url": "https://github.com/pingdotgg/t3code",
+    "description": null,
+    "created_at": "2026-02-08T23:46:22Z",
+    "updated_at": "2026-03-29T17:59:04Z",
+    "pushed_at": "2026-03-29T18:08:42Z",
+    "git_url": "git://github.com/pingdotgg/t3code.git",
+    "homepage": "https://t3.codes",
+    "size": 35385,
+    "stargazers_count": 7702,
+    "watchers_count": 7702,
+    "language": "TypeScript",
+    "forks_count": 1166,
+    "open_issues_count": 581
+  },
+  {
+    "id": 1172544020,
+    "name": "qualcomm_gbl_exploit_poc",
+    "owner": {
+      "id": 105335451,
+      "url": "https://api.github.com/users/kasnria001",
+      "html_url": "https://github.com/kasnria001",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105335451?v=4"
+    },
+    "html_url": "https://github.com/kasnria001/qualcomm_gbl_exploit_poc",
+    "description": "Unlocking qualcomm bootloader via gbl exploit.",
+    "created_at": "2026-03-04T12:35:32Z",
+    "updated_at": "2026-03-29T19:58:04Z",
+    "pushed_at": "2026-03-09T02:52:30Z",
+    "git_url": "git://github.com/kasnria001/qualcomm_gbl_exploit_poc.git",
+    "homepage": null,
+    "size": 29,
+    "stargazers_count": 875,
+    "watchers_count": 875,
+    "language": "C",
+    "forks_count": 284,
+    "open_issues_count": 11
+  },
+  {
+    "id": 1194251330,
+    "name": "AetherSwap",
+    "owner": {
+      "id": 72178188,
+      "url": "https://api.github.com/users/VexedWilosn",
+      "html_url": "https://github.com/VexedWilosn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72178188?v=4"
+    },
+    "html_url": "https://github.com/VexedWilosn/AetherSwap",
+    "description": "⚗️ AetherSwap：全自动、零代码配置的 Steam 低价余额助手。提供现代化可视化 Web 控制台，基于数学模型智能选品，实现从买入到全自动上架的无人值守交易。",
+    "created_at": "2026-03-28T05:14:29Z",
+    "updated_at": "2026-03-28T17:58:47Z",
+    "pushed_at": "2026-03-28T14:40:02Z",
+    "git_url": "git://github.com/VexedWilosn/AetherSwap.git",
+    "homepage": null,
+    "size": 3740,
+    "stargazers_count": 76,
+    "watchers_count": 76,
+    "language": "Python",
+    "forks_count": 9,
+    "open_issues_count": 1
   }
 ]
