@@ -6553,5 +6553,74 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1179264259,
+    "name": "gstack",
+    "owner": {
+      "id": 19957,
+      "url": "https://api.github.com/users/garrytan",
+      "html_url": "https://github.com/garrytan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19957?v=4"
+    },
+    "html_url": "https://github.com/garrytan/gstack",
+    "description": "Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+    "created_at": "2026-03-11T21:22:45Z",
+    "updated_at": "2026-03-29T18:15:07Z",
+    "pushed_at": "2026-03-29T15:58:43Z",
+    "git_url": "git://github.com/garrytan/gstack.git",
+    "homepage": "",
+    "size": 74910,
+    "stargazers_count": 55296,
+    "watchers_count": 55296,
+    "language": "TypeScript",
+    "forks_count": 7198,
+    "open_issues_count": 266
+  },
+  {
+    "id": 1172158155,
+    "name": "baseflight",
+    "owner": {
+      "id": 265417655,
+      "url": "https://api.github.com/users/MultiWiii",
+      "html_url": "https://github.com/MultiWiii",
+      "avatar_url": "https://avatars.githubusercontent.com/u/265417655?v=4"
+    },
+    "html_url": "https://github.com/MultiWiii/baseflight",
+    "description": "32 bit fork of the MultiWii RC flight controller firmware",
+    "created_at": "2026-03-04T02:07:52Z",
+    "updated_at": "2026-03-27T06:40:05Z",
+    "pushed_at": "2026-03-04T02:09:35Z",
+    "git_url": "git://github.com/MultiWiii/baseflight.git",
+    "homepage": null,
+    "size": 10397,
+    "stargazers_count": 696,
+    "watchers_count": 696,
+    "language": "C",
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1192579601,
+    "name": "CapCut-Pro-Studio-2026",
+    "owner": {
+      "id": 270477477,
+      "url": "https://api.github.com/users/weeqeeshield",
+      "html_url": "https://github.com/weeqeeshield",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270477477?v=4"
+    },
+    "html_url": "https://github.com/weeqeeshield/CapCut-Pro-Studio-2026",
+    "description": "CapCut Pro Studio (2026) — The ultimate high-performance video editing suite with all premium features unlocked. Experience 4K HDR exporting, AI-powered transitions, and a full professional asset library without limitations.",
+    "created_at": "2026-03-26T11:03:34Z",
+    "updated_at": "2026-03-29T11:34:45Z",
+    "pushed_at": "2026-03-26T11:09:40Z",
+    "git_url": "git://github.com/weeqeeshield/CapCut-Pro-Studio-2026.git",
+    "homepage": "",
+    "size": 7,
+    "stargazers_count": 68,
+    "watchers_count": 68,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
