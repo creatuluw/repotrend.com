@@ -7174,5 +7174,74 @@
     "language": "JavaScript",
     "forks_count": 10,
     "open_issues_count": 0
+  },
+  {
+    "id": 1181479848,
+    "name": "Crucix",
+    "owner": {
+      "id": 213189893,
+      "url": "https://api.github.com/users/calesthio",
+      "html_url": "https://github.com/calesthio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/213189893?v=4"
+    },
+    "html_url": "https://github.com/calesthio/Crucix",
+    "description": "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
+    "created_at": "2026-03-14T07:33:06Z",
+    "updated_at": "2026-03-28T17:57:19Z",
+    "pushed_at": "2026-03-25T17:21:02Z",
+    "git_url": "git://github.com/calesthio/Crucix.git",
+    "homepage": "https://crucix.live",
+    "size": 2489,
+    "stargazers_count": 7197,
+    "watchers_count": 7197,
+    "language": "JavaScript",
+    "forks_count": 1110,
+    "open_issues_count": 33
+  },
+  {
+    "id": 1168483105,
+    "name": "nodeskclaw",
+    "owner": {
+      "id": 232749052,
+      "url": "https://api.github.com/users/NoDeskAI",
+      "html_url": "https://github.com/NoDeskAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/232749052?v=4"
+    },
+    "html_url": "https://github.com/NoDeskAI/nodeskclaw",
+    "description": "Humans and AI work together ❤️",
+    "created_at": "2026-02-27T12:50:45Z",
+    "updated_at": "2026-03-29T15:47:32Z",
+    "pushed_at": "2026-03-29T08:25:24Z",
+    "git_url": "git://github.com/NoDeskAI/nodeskclaw.git",
+    "homepage": "",
+    "size": 8141,
+    "stargazers_count": 654,
+    "watchers_count": 654,
+    "language": "Python",
+    "forks_count": 110,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1194083124,
+    "name": "sevenlayer",
+    "owner": {
+      "id": 3279952,
+      "url": "https://api.github.com/users/CharlesHoskinson",
+      "html_url": "https://github.com/CharlesHoskinson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3279952?v=4"
+    },
+    "html_url": "https://github.com/CharlesHoskinson/sevenlayer",
+    "description": "A Complete Guide to Zero-Knowledge Proof Systems",
+    "created_at": "2026-03-27T22:43:06Z",
+    "updated_at": "2026-03-30T12:26:03Z",
+    "pushed_at": "2026-03-30T01:20:27Z",
+    "git_url": "git://github.com/CharlesHoskinson/sevenlayer.git",
+    "homepage": null,
+    "size": 9288,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "Python",
+    "forks_count": 8,
+    "open_issues_count": 2
   }
 ]
