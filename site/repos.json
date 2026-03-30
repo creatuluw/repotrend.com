@@ -6277,5 +6277,74 @@
     "language": "Python",
     "forks_count": 8,
     "open_issues_count": 0
+  },
+  {
+    "id": 1159484260,
+    "name": "visual-explainer",
+    "owner": {
+      "id": 2958133,
+      "url": "https://api.github.com/users/nicobailon",
+      "html_url": "https://github.com/nicobailon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2958133?v=4"
+    },
+    "html_url": "https://github.com/nicobailon/visual-explainer",
+    "description": "Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps",
+    "created_at": "2026-02-16T19:33:52Z",
+    "updated_at": "2026-03-28T17:39:51Z",
+    "pushed_at": "2026-03-09T18:07:18Z",
+    "git_url": "git://github.com/nicobailon/visual-explainer.git",
+    "homepage": null,
+    "size": 2552,
+    "stargazers_count": 7010,
+    "watchers_count": 7010,
+    "language": "HTML",
+    "forks_count": 480,
+    "open_issues_count": 16
+  },
+  {
+    "id": 1166946564,
+    "name": "python-apple-fm-sdk",
+    "owner": {
+      "id": 10639145,
+      "url": "https://api.github.com/users/apple",
+      "html_url": "https://github.com/apple",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10639145?v=4"
+    },
+    "html_url": "https://github.com/apple/python-apple-fm-sdk",
+    "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework",
+    "created_at": "2026-02-25T19:30:46Z",
+    "updated_at": "2026-03-27T12:02:45Z",
+    "pushed_at": "2026-03-08T21:14:55Z",
+    "git_url": "git://github.com/apple/python-apple-fm-sdk.git",
+    "homepage": "https://apple.github.io/python-apple-fm-sdk/",
+    "size": 2240,
+    "stargazers_count": 955,
+    "watchers_count": 955,
+    "language": "Python",
+    "forks_count": 53,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1192774723,
+    "name": "daVinci-LLM",
+    "owner": {
+      "id": 121574224,
+      "url": "https://api.github.com/users/GAIR-NLP",
+      "html_url": "https://github.com/GAIR-NLP",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121574224?v=4"
+    },
+    "html_url": "https://github.com/GAIR-NLP/daVinci-LLM",
+    "description": null,
+    "created_at": "2026-03-26T14:49:53Z",
+    "updated_at": "2026-03-29T15:38:15Z",
+    "pushed_at": "2026-03-27T02:43:04Z",
+    "git_url": "git://github.com/GAIR-NLP/daVinci-LLM.git",
+    "homepage": null,
+    "size": 6191,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": null,
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
