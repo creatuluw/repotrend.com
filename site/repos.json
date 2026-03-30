@@ -7634,5 +7634,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1180297699,
+    "name": "pi-generative-ui",
+    "owner": {
+      "id": 13676242,
+      "url": "https://api.github.com/users/Michaelliv",
+      "html_url": "https://github.com/Michaelliv",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13676242?v=4"
+    },
+    "html_url": "https://github.com/Michaelliv/pi-generative-ui",
+    "description": "Claude.ai's generative UI — reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows.",
+    "created_at": "2026-03-12T22:43:50Z",
+    "updated_at": "2026-03-28T14:02:09Z",
+    "pushed_at": "2026-03-15T19:00:45Z",
+    "git_url": "git://github.com/Michaelliv/pi-generative-ui.git",
+    "homepage": null,
+    "size": 8168,
+    "stargazers_count": 844,
+    "watchers_count": 844,
+    "language": "TypeScript",
+    "forks_count": 50,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1192326101,
+    "name": "Claude-skills-for-Computational-Designers",
+    "owner": {
+      "id": 144616372,
+      "url": "https://api.github.com/users/Amanbh997",
+      "html_url": "https://github.com/Amanbh997",
+      "avatar_url": "https://avatars.githubusercontent.com/u/144616372?v=4"
+    },
+    "html_url": "https://github.com/Amanbh997/Claude-skills-for-Computational-Designers",
+    "description": "Claude skills for Computational Designers",
+    "created_at": "2026-03-26T05:23:07Z",
+    "updated_at": "2026-03-29T18:06:15Z",
+    "pushed_at": "2026-03-26T05:27:16Z",
+    "git_url": "git://github.com/Amanbh997/Claude-skills-for-Computational-Designers.git",
+    "homepage": null,
+    "size": 905,
+    "stargazers_count": 68,
+    "watchers_count": 68,
+    "language": "Python",
+    "forks_count": 7,
+    "open_issues_count": 1
   }
 ]
