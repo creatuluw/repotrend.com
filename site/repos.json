@@ -6760,5 +6760,74 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1134426800,
+    "name": "antigravity-awesome-skills",
+    "owner": {
+      "id": 184072420,
+      "url": "https://api.github.com/users/sickn33",
+      "html_url": "https://github.com/sickn33",
+      "avatar_url": "https://avatars.githubusercontent.com/u/184072420?v=4"
+    },
+    "html_url": "https://github.com/sickn33/antigravity-awesome-skills",
+    "description": "Installable GitHub library of 1,326+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill collections.",
+    "created_at": "2026-01-14T17:48:09Z",
+    "updated_at": "2026-03-29T18:15:03Z",
+    "pushed_at": "2026-03-29T16:41:21Z",
+    "git_url": "git://github.com/sickn33/antigravity-awesome-skills.git",
+    "homepage": "https://sickn33.github.io/antigravity-awesome-skills/",
+    "size": 45189,
+    "stargazers_count": 28394,
+    "watchers_count": 28394,
+    "language": "Python",
+    "forks_count": 4762,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1175857225,
+    "name": "skales",
+    "owner": {
+      "id": 266460664,
+      "url": "https://api.github.com/users/skalesapp",
+      "html_url": "https://github.com/skalesapp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/266460664?v=4"
+    },
+    "html_url": "https://github.com/skalesapp/skales",
+    "description": "Your local AI Desktop Agent for Windows, macOS & Linux. Features a proactive Desktop Buddy, an AI social feed (Discover), and 15+ LLM providers (Ollama, LM Studio). No Docker, no terminal required. 🦎",
+    "created_at": "2026-03-08T09:17:47Z",
+    "updated_at": "2026-03-29T16:05:41Z",
+    "pushed_at": "2026-03-29T03:13:50Z",
+    "git_url": "git://github.com/skalesapp/skales.git",
+    "homepage": "https://skales.app",
+    "size": 26954,
+    "stargazers_count": 661,
+    "watchers_count": 661,
+    "language": "TypeScript",
+    "forks_count": 114,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1193005441,
+    "name": "picsou-finance",
+    "owner": {
+      "id": 7293238,
+      "url": "https://api.github.com/users/Zoeille",
+      "html_url": "https://github.com/Zoeille",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7293238?v=4"
+    },
+    "html_url": "https://github.com/Zoeille/picsou-finance",
+    "description": null,
+    "created_at": "2026-03-26T19:24:59Z",
+    "updated_at": "2026-03-29T16:49:25Z",
+    "pushed_at": "2026-03-26T23:21:46Z",
+    "git_url": "git://github.com/Zoeille/picsou-finance.git",
+    "homepage": null,
+    "size": 152,
+    "stargazers_count": 90,
+    "watchers_count": 90,
+    "language": "Java",
+    "forks_count": 6,
+    "open_issues_count": 2
   }
 ]
