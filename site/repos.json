@@ -7542,5 +7542,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1169105919,
+    "name": "ui-design-brain",
+    "owner": {
+      "id": 210307980,
+      "url": "https://api.github.com/users/carmahhawwari",
+      "html_url": "https://github.com/carmahhawwari",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210307980?v=4"
+    },
+    "html_url": "https://github.com/carmahhawwari/ui-design-brain",
+    "description": "A Cursor skill that gives AI agents real UI component knowledge — best practices, layout patterns, and design-system conventions for 60+ interface components — so it generates production-grade UI instead of generic output.",
+    "created_at": "2026-02-28T07:20:12Z",
+    "updated_at": "2026-03-27T16:38:13Z",
+    "pushed_at": "2026-02-28T07:25:16Z",
+    "git_url": "git://github.com/carmahhawwari/ui-design-brain.git",
+    "homepage": null,
+    "size": 28,
+    "stargazers_count": 705,
+    "watchers_count": 705,
+    "language": null,
+    "forks_count": 61,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1194234394,
+    "name": "dinesh-gilfoyle",
+    "owner": {
+      "id": 2246128,
+      "url": "https://api.github.com/users/v1r3n",
+      "html_url": "https://github.com/v1r3n",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2246128?v=4"
+    },
+    "html_url": "https://github.com/v1r3n/dinesh-gilfoyle",
+    "description": "What if Dinesh and Gilfoyle reviewed your code?",
+    "created_at": "2026-03-28T04:38:45Z",
+    "updated_at": "2026-03-28T18:12:35Z",
+    "pushed_at": "2026-03-28T17:52:44Z",
+    "git_url": "git://github.com/v1r3n/dinesh-gilfoyle.git",
+    "homepage": "",
+    "size": 64,
+    "stargazers_count": 72,
+    "watchers_count": 72,
+    "language": "HTML",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
