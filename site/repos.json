@@ -7036,5 +7036,74 @@
     "language": "Python",
     "forks_count": 9,
     "open_issues_count": 1
+  },
+  {
+    "id": 1169696969,
+    "name": "MinecraftConsoles",
+    "owner": {
+      "id": 60499296,
+      "url": "https://api.github.com/users/smartcmd",
+      "html_url": "https://github.com/smartcmd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60499296?v=4"
+    },
+    "html_url": "https://github.com/smartcmd/MinecraftConsoles",
+    "description": "A certain block game",
+    "created_at": "2026-03-01T04:13:25Z",
+    "updated_at": "2026-03-28T16:54:11Z",
+    "pushed_at": "2026-03-27T20:19:26Z",
+    "git_url": "git://github.com/smartcmd/MinecraftConsoles.git",
+    "homepage": "",
+    "size": 1999328,
+    "stargazers_count": 5983,
+    "watchers_count": 5983,
+    "language": "C++",
+    "forks_count": 1154,
+    "open_issues_count": 560
+  },
+  {
+    "id": 1185958882,
+    "name": "app-store-preflight-skills",
+    "owner": {
+      "id": 15882983,
+      "url": "https://api.github.com/users/truongduy2611",
+      "html_url": "https://github.com/truongduy2611",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15882983?v=4"
+    },
+    "html_url": "https://github.com/truongduy2611/app-store-preflight-skills",
+    "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
+    "created_at": "2026-03-19T05:39:43Z",
+    "updated_at": "2026-03-28T17:46:12Z",
+    "pushed_at": "2026-03-20T02:30:40Z",
+    "git_url": "git://github.com/truongduy2611/app-store-preflight-skills.git",
+    "homepage": null,
+    "size": 40,
+    "stargazers_count": 969,
+    "watchers_count": 969,
+    "language": null,
+    "forks_count": 54,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1194448526,
+    "name": "auto-crawl-tiktok-post-fb",
+    "owner": {
+      "id": 16359945,
+      "url": "https://api.github.com/users/duytk9",
+      "html_url": "https://github.com/duytk9",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16359945?v=4"
+    },
+    "html_url": "https://github.com/duytk9/auto-crawl-tiktok-post-fb",
+    "description": null,
+    "created_at": "2026-03-28T11:22:20Z",
+    "updated_at": "2026-03-29T16:39:54Z",
+    "pushed_at": "2026-03-29T10:40:09Z",
+    "git_url": "git://github.com/duytk9/auto-crawl-tiktok-post-fb.git",
+    "homepage": null,
+    "size": 1605,
+    "stargazers_count": 56,
+    "watchers_count": 56,
+    "language": "Python",
+    "forks_count": 60,
+    "open_issues_count": 0
   }
 ]
