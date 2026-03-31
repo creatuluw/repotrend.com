@@ -7772,5 +7772,51 @@
     "language": null,
     "forks_count": 90,
     "open_issues_count": 0
+  },
+  {
+    "id": 1184927517,
+    "name": "miasma",
+    "owner": {
+      "id": 168379071,
+      "url": "https://api.github.com/users/austin-weeks",
+      "html_url": "https://github.com/austin-weeks",
+      "avatar_url": "https://avatars.githubusercontent.com/u/168379071?v=4"
+    },
+    "html_url": "https://github.com/austin-weeks/miasma",
+    "description": "Trap AI web scrapers in an endless poison pit.",
+    "created_at": "2026-03-18T04:12:41Z",
+    "updated_at": "2026-03-30T18:24:56Z",
+    "pushed_at": "2026-03-29T09:22:52Z",
+    "git_url": "git://github.com/austin-weeks/miasma.git",
+    "homepage": "",
+    "size": 14429,
+    "stargazers_count": 657,
+    "watchers_count": 657,
+    "language": "Rust",
+    "forks_count": 12,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1194582383,
+    "name": "Flussonic-Exporter",
+    "owner": {
+      "id": 87819498,
+      "url": "https://api.github.com/users/ntthuan060102github",
+      "html_url": "https://github.com/ntthuan060102github",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87819498?v=4"
+    },
+    "html_url": "https://github.com/ntthuan060102github/Flussonic-Exporter",
+    "description": "Exporter for Flussonic Media Server",
+    "created_at": "2026-03-28T14:55:12Z",
+    "updated_at": "2026-03-30T10:21:42Z",
+    "pushed_at": "2026-03-30T10:15:26Z",
+    "git_url": "git://github.com/ntthuan060102github/Flussonic-Exporter.git",
+    "homepage": null,
+    "size": 37,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
