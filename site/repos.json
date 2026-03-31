@@ -8002,5 +8002,51 @@
     "language": "TypeScript",
     "forks_count": 69,
     "open_issues_count": 0
+  },
+  {
+    "id": 1179686848,
+    "name": "SoulX-LiveAct",
+    "owner": {
+      "id": 232559637,
+      "url": "https://api.github.com/users/Soul-AILab",
+      "html_url": "https://github.com/Soul-AILab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/232559637?v=4"
+    },
+    "html_url": "https://github.com/Soul-AILab/SoulX-LiveAct",
+    "description": "Official inference code for SoulX-LiveAct: Towards Hour-Scale Real-Time Human Animation with Neighbor Forcing and ConvKV Memory",
+    "created_at": "2026-03-12T09:24:27Z",
+    "updated_at": "2026-03-29T18:14:55Z",
+    "pushed_at": "2026-03-25T07:39:13Z",
+    "git_url": "git://github.com/Soul-AILab/SoulX-LiveAct.git",
+    "homepage": "",
+    "size": 294970,
+    "stargazers_count": 997,
+    "watchers_count": 997,
+    "language": "Python",
+    "forks_count": 101,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1194582899,
+    "name": "Serum-2-Free-Windows",
+    "owner": {
+      "id": 78245083,
+      "url": "https://api.github.com/users/fearasasdsad",
+      "html_url": "https://github.com/fearasasdsad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78245083?v=4"
+    },
+    "html_url": "https://github.com/fearasasdsad/Serum-2-Free-Windows",
+    "description": "Serum 2 Windows Full Version 2026 is the most advanced wavetable synthesizer for Windows PC. Create professional basses, leads, pads, plucks, and cinematic sounds with powerful wavetable synthesis, modulation matrix, and effects rack. Full unlocked version with all features and presets. Perfect for music producers, beatmakers, and sound designers.",
+    "created_at": "2026-03-28T14:55:58Z",
+    "updated_at": "2026-03-29T17:54:10Z",
+    "pushed_at": "2026-03-28T15:11:23Z",
+    "git_url": "git://github.com/fearasasdsad/Serum-2-Free-Windows.git",
+    "homepage": "",
+    "size": 86,
+    "stargazers_count": 97,
+    "watchers_count": 97,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
