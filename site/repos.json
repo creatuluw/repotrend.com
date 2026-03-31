@@ -7726,5 +7726,51 @@
     "language": "Go",
     "forks_count": 28,
     "open_issues_count": 0
+  },
+  {
+    "id": 1193927913,
+    "name": "legalize-es",
+    "owner": {
+      "id": 271837576,
+      "url": "https://api.github.com/users/legalize-dev",
+      "html_url": "https://github.com/legalize-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271837576?v=4"
+    },
+    "html_url": "https://github.com/legalize-dev/legalize-es",
+    "description": "Spanish legislation as a Git repo — every law is a Markdown file, every reform a commit. 8,600+ laws.",
+    "created_at": "2026-03-27T18:20:01Z",
+    "updated_at": "2026-03-31T00:27:47Z",
+    "pushed_at": "2026-03-30T11:44:30Z",
+    "git_url": "git://github.com/legalize-dev/legalize-es.git",
+    "homepage": null,
+    "size": 239212,
+    "stargazers_count": 840,
+    "watchers_count": 840,
+    "language": null,
+    "forks_count": 38,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1194316327,
+    "name": "anon-fake",
+    "owner": {
+      "id": 188799653,
+      "url": "https://api.github.com/users/anon-fake",
+      "html_url": "https://github.com/anon-fake",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188799653?v=4"
+    },
+    "html_url": "https://github.com/anon-fake/anon-fake",
+    "description": null,
+    "created_at": "2026-03-28T07:23:12Z",
+    "updated_at": "2026-03-30T00:59:19Z",
+    "pushed_at": "2026-03-28T07:23:12Z",
+    "git_url": "git://github.com/anon-fake/anon-fake.git",
+    "homepage": null,
+    "size": 1,
+    "stargazers_count": 90,
+    "watchers_count": 90,
+    "language": null,
+    "forks_count": 90,
+    "open_issues_count": 0
   }
 ]
