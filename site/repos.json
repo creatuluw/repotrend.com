@@ -8393,5 +8393,51 @@
     "language": null,
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1190815318,
+    "name": "k-skill",
+    "owner": {
+      "id": 140389712,
+      "url": "https://api.github.com/users/NomaDamas",
+      "html_url": "https://github.com/NomaDamas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/140389712?v=4"
+    },
+    "html_url": "https://github.com/NomaDamas/k-skill",
+    "description": "한국인을 위한 스킬 모음집 - SRT, KTX, KBO, 카카오톡, 한글과 컴퓨터, 미세먼지, 우편번호, 블루리본 등등...",
+    "created_at": "2026-03-24T16:39:30Z",
+    "updated_at": "2026-03-31T12:20:54Z",
+    "pushed_at": "2026-03-31T12:15:12Z",
+    "git_url": "git://github.com/NomaDamas/k-skill.git",
+    "homepage": "",
+    "size": 2437,
+    "stargazers_count": 859,
+    "watchers_count": 859,
+    "language": "JavaScript",
+    "forks_count": 44,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1195371094,
+    "name": "IDM-Free-Full-PC",
+    "owner": {
+      "id": 72775000,
+      "url": "https://api.github.com/users/TECKNOZ",
+      "html_url": "https://github.com/TECKNOZ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72775000?v=4"
+    },
+    "html_url": "https://github.com/TECKNOZ/IDM-Free-Full-PC",
+    "description": "IDM Free Full Version 2026 for PC – Internet Download Manager Full Activated. The ultimate download accelerator that increases your download speed up to 5-10 times. Supports resume, scheduler, video grabber from YouTube, TikTok and any site. Full lifetime version with all premium features unlocked. Easy offline installer for Windows 10/11.",
+    "created_at": "2026-03-29T15:38:44Z",
+    "updated_at": "2026-03-30T18:07:25Z",
+    "pushed_at": "2026-03-29T15:45:14Z",
+    "git_url": "git://github.com/TECKNOZ/IDM-Free-Full-PC.git",
+    "homepage": "",
+    "size": 80,
+    "stargazers_count": 79,
+    "watchers_count": 79,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
