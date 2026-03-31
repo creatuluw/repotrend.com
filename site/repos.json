@@ -8347,5 +8347,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1195789437,
+    "name": "Polymarket-copy-trading-bot",
+    "owner": {
+      "id": 179929727,
+      "url": "https://api.github.com/users/Neron888",
+      "html_url": "https://github.com/Neron888",
+      "avatar_url": "https://avatars.githubusercontent.com/u/179929727?v=4"
+    },
+    "html_url": "https://github.com/Neron888/Polymarket-copy-trading-bot",
+    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot",
+    "created_at": "2026-03-30T04:10:20Z",
+    "updated_at": "2026-03-31T11:54:28Z",
+    "pushed_at": "2026-03-31T05:29:10Z",
+    "git_url": "git://github.com/Neron888/Polymarket-copy-trading-bot.git",
+    "homepage": "https://polymarket.com/",
+    "size": 29,
+    "stargazers_count": 857,
+    "watchers_count": 857,
+    "language": "TypeScript",
+    "forks_count": 652,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1193238580,
+    "name": "TensorCEO",
+    "owner": {
+      "id": 92135369,
+      "url": "https://api.github.com/users/TensorCEO",
+      "html_url": "https://github.com/TensorCEO",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92135369?v=4"
+    },
+    "html_url": "https://github.com/TensorCEO/TensorCEO",
+    "description": "计算机毕业设计、机器学习毕业设计、深度学习毕业设计、原创AI项目【源码+论文】",
+    "created_at": "2026-03-27T02:33:26Z",
+    "updated_at": "2026-03-30T17:42:09Z",
+    "pushed_at": "2026-03-29T03:57:29Z",
+    "git_url": "git://github.com/TensorCEO/TensorCEO.git",
+    "homepage": "",
+    "size": 12468,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": null,
+    "forks_count": 5,
+    "open_issues_count": 0
   }
 ]
