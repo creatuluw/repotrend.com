@@ -8094,5 +8094,51 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1187150337,
+    "name": "awesome-autoresearch",
+    "owner": {
+      "id": 204474669,
+      "url": "https://api.github.com/users/alvinunreal",
+      "html_url": "https://github.com/alvinunreal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/204474669?v=4"
+    },
+    "html_url": "https://github.com/alvinunreal/awesome-autoresearch",
+    "description": "A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch.",
+    "created_at": "2026-03-20T11:55:51Z",
+    "updated_at": "2026-03-29T18:09:31Z",
+    "pushed_at": "2026-03-29T17:27:19Z",
+    "git_url": "git://github.com/alvinunreal/awesome-autoresearch.git",
+    "homepage": "",
+    "size": 73,
+    "stargazers_count": 958,
+    "watchers_count": 958,
+    "language": null,
+    "forks_count": 71,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1193423872,
+    "name": "drughub-link",
+    "owner": {
+      "id": 192430114,
+      "url": "https://api.github.com/users/tbeittel",
+      "html_url": "https://github.com/tbeittel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192430114?v=4"
+    },
+    "html_url": "https://github.com/tbeittel/drughub-link",
+    "description": "drughub link",
+    "created_at": "2026-03-27T07:54:31Z",
+    "updated_at": "2026-03-29T03:49:16Z",
+    "pushed_at": "2026-03-27T07:54:43Z",
+    "git_url": "git://github.com/tbeittel/drughub-link.git",
+    "homepage": "",
+    "size": 78,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": null,
+    "forks_count": 20,
+    "open_issues_count": 0
   }
 ]
