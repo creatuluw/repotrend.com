@@ -7864,5 +7864,51 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1181765719,
+    "name": "claude-certified-architect",
+    "owner": {
+      "id": 2877572,
+      "url": "https://api.github.com/users/paullarionov",
+      "html_url": "https://github.com/paullarionov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2877572?v=4"
+    },
+    "html_url": "https://github.com/paullarionov/claude-certified-architect",
+    "description": "This repository contains study materials for the **Claude Certified Architect — Foundations** certification.",
+    "created_at": "2026-03-14T15:42:24Z",
+    "updated_at": "2026-03-31T00:34:43Z",
+    "pushed_at": "2026-03-29T14:35:30Z",
+    "git_url": "git://github.com/paullarionov/claude-certified-architect.git",
+    "homepage": null,
+    "size": 11452,
+    "stargazers_count": 693,
+    "watchers_count": 693,
+    "language": null,
+    "forks_count": 147,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1195084156,
+    "name": "Lossless-Scaling-Pro-2026",
+    "owner": {
+      "id": 268556609,
+      "url": "https://api.github.com/users/nutterplayer7093",
+      "html_url": "https://github.com/nutterplayer7093",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268556609?v=4"
+    },
+    "html_url": "https://github.com/nutterplayer7093/Lossless-Scaling-Pro-2026",
+    "description": "Lossless Scaling is a PC utility that enhances image quality and frame rates in games using upscaling and frame generation algorithms",
+    "created_at": "2026-03-29T07:37:19Z",
+    "updated_at": "2026-03-29T12:03:52Z",
+    "pushed_at": "2026-03-29T07:39:14Z",
+    "git_url": "git://github.com/nutterplayer7093/Lossless-Scaling-Pro-2026.git",
+    "homepage": "",
+    "size": 4,
+    "stargazers_count": 60,
+    "watchers_count": 60,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
