@@ -7956,5 +7956,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 1
+  },
+  {
+    "id": 1168753718,
+    "name": "open-seo",
+    "owner": {
+      "id": 240383020,
+      "url": "https://api.github.com/users/every-app",
+      "html_url": "https://github.com/every-app",
+      "avatar_url": "https://avatars.githubusercontent.com/u/240383020?v=4"
+    },
+    "html_url": "https://github.com/every-app/open-seo",
+    "description": "Own your SEO. Research keywords and competitors on your terms. 100% open source.",
+    "created_at": "2026-02-27T18:57:41Z",
+    "updated_at": "2026-03-29T13:19:03Z",
+    "pushed_at": "2026-03-18T18:23:43Z",
+    "git_url": "git://github.com/every-app/open-seo.git",
+    "homepage": "https://openseo.so",
+    "size": 11780,
+    "stargazers_count": 772,
+    "watchers_count": 772,
+    "language": "TypeScript",
+    "forks_count": 81,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1194334957,
+    "name": "Viet-ERP",
+    "owner": {
+      "id": 209268950,
+      "url": "https://api.github.com/users/nclamvn",
+      "html_url": "https://github.com/nclamvn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/209268950?v=4"
+    },
+    "html_url": "https://github.com/nclamvn/Viet-ERP",
+    "description": "VietERP Platform — Open-source ERP for Vietnamese enterprises",
+    "created_at": "2026-03-28T07:58:09Z",
+    "updated_at": "2026-03-29T17:53:09Z",
+    "pushed_at": "2026-03-29T12:41:58Z",
+    "git_url": "git://github.com/nclamvn/Viet-ERP.git",
+    "homepage": null,
+    "size": 23530,
+    "stargazers_count": 70,
+    "watchers_count": 70,
+    "language": "TypeScript",
+    "forks_count": 69,
+    "open_issues_count": 0
   }
 ]
