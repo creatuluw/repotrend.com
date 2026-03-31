@@ -8485,5 +8485,51 @@
     "language": null,
     "forks_count": 8,
     "open_issues_count": 0
+  },
+  {
+    "id": 1172073959,
+    "name": "velxio",
+    "owner": {
+      "id": 47928504,
+      "url": "https://api.github.com/users/davidmonterocrespo24",
+      "html_url": "https://github.com/davidmonterocrespo24",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47928504?v=4"
+    },
+    "html_url": "https://github.com/davidmonterocrespo24/velxio",
+    "description": "Emulate Arduino, ESP32 & Raspberry Pi. in your browser. Write code, compile, and run on 19 real boards — Arduino Uno, ESP32, ESP32-C3, Raspberry Pi Pico, Raspberry Pi 3, and more. No hardware, no cloud, no limits.. Discord: https://discord.gg/3mARjJrh4E",
+    "created_at": "2026-03-03T23:12:53Z",
+    "updated_at": "2026-03-31T10:28:09Z",
+    "pushed_at": "2026-03-30T04:18:28Z",
+    "git_url": "git://github.com/davidmonterocrespo24/velxio.git",
+    "homepage": "https://velxio.dev",
+    "size": 19119,
+    "stargazers_count": 729,
+    "watchers_count": 729,
+    "language": "TypeScript",
+    "forks_count": 37,
+    "open_issues_count": 14
+  },
+  {
+    "id": 1193632792,
+    "name": "factory-cursor-bridge",
+    "owner": {
+      "id": 69639595,
+      "url": "https://api.github.com/users/0xSero",
+      "html_url": "https://github.com/0xSero",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69639595?v=4"
+    },
+    "html_url": "https://github.com/0xSero/factory-cursor-bridge",
+    "description": "Unified BYOK proxy that wires ~/.factory/config.json models into Cursor IDE",
+    "created_at": "2026-03-27T12:34:24Z",
+    "updated_at": "2026-03-29T17:05:06Z",
+    "pushed_at": "2026-03-27T13:13:25Z",
+    "git_url": "git://github.com/0xSero/factory-cursor-bridge.git",
+    "homepage": null,
+    "size": 13,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": "JavaScript",
+    "forks_count": 3,
+    "open_issues_count": 1
   }
 ]
