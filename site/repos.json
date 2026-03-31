@@ -7910,5 +7910,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1169455604,
+    "name": "smux",
+    "owner": {
+      "id": 129362299,
+      "url": "https://api.github.com/users/ShawnPana",
+      "html_url": "https://github.com/ShawnPana",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129362299?v=4"
+    },
+    "html_url": "https://github.com/ShawnPana/smux",
+    "description": "tmux config with built-in terminal automation and agent-to-agent communication.",
+    "created_at": "2026-02-28T18:01:53Z",
+    "updated_at": "2026-03-30T18:23:34Z",
+    "pushed_at": "2026-03-28T17:21:54Z",
+    "git_url": "git://github.com/ShawnPana/smux.git",
+    "homepage": "",
+    "size": 43,
+    "stargazers_count": 892,
+    "watchers_count": 892,
+    "language": "Shell",
+    "forks_count": 47,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1194343233,
+    "name": "legalize",
+    "owner": {
+      "id": 271837576,
+      "url": "https://api.github.com/users/legalize-dev",
+      "html_url": "https://github.com/legalize-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271837576?v=4"
+    },
+    "html_url": "https://github.com/legalize-dev/legalize",
+    "description": "Legislation as code. Every law as a Markdown file. Every reform as a Git commit.",
+    "created_at": "2026-03-28T08:13:52Z",
+    "updated_at": "2026-03-29T17:43:12Z",
+    "pushed_at": "2026-03-28T21:10:19Z",
+    "git_url": "git://github.com/legalize-dev/legalize.git",
+    "homepage": null,
+    "size": 4,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 1
   }
 ]
