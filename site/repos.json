@@ -8623,5 +8623,51 @@
     "language": "TypeScript",
     "forks_count": 8,
     "open_issues_count": 0
+  },
+  {
+    "id": 1197183235,
+    "name": "claude-code-system-prompts",
+    "owner": {
+      "id": 219127460,
+      "url": "https://api.github.com/users/Leonxlnx",
+      "html_url": "https://github.com/Leonxlnx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219127460?v=4"
+    },
+    "html_url": "https://github.com/Leonxlnx/claude-code-system-prompts",
+    "description": "Independent research documenting the internal prompt architecture, agent directives, and security classifiers of Claude Code",
+    "created_at": "2026-03-31T11:47:04Z",
+    "updated_at": "2026-03-31T18:25:53Z",
+    "pushed_at": "2026-03-31T15:01:01Z",
+    "git_url": "git://github.com/Leonxlnx/claude-code-system-prompts.git",
+    "homepage": null,
+    "size": 70,
+    "stargazers_count": 704,
+    "watchers_count": 704,
+    "language": null,
+    "forks_count": 371,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1194013699,
+    "name": "GVRT-Trading-Bot",
+    "owner": {
+      "id": 204605725,
+      "url": "https://api.github.com/users/Zahidimouad",
+      "html_url": "https://github.com/Zahidimouad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/204605725?v=4"
+    },
+    "html_url": "https://github.com/Zahidimouad/GVRT-Trading-Bot",
+    "description": "Automated multi-account perpetual trading bot for GRVT — three independent strategies, unlimited accounts, per-account proxy support",
+    "created_at": "2026-03-27T20:29:47Z",
+    "updated_at": "2026-03-28T11:37:06Z",
+    "pushed_at": "2026-03-27T20:31:05Z",
+    "git_url": "git://github.com/Zahidimouad/GVRT-Trading-Bot.git",
+    "homepage": "",
+    "size": 11,
+    "stargazers_count": 79,
+    "watchers_count": 79,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
