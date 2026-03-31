@@ -8186,5 +8186,51 @@
     "language": "TypeScript",
     "forks_count": 5,
     "open_issues_count": 2
+  },
+  {
+    "id": 1171481382,
+    "name": "evil-read-arxiv",
+    "owner": {
+      "id": 142733408,
+      "url": "https://api.github.com/users/juliye2025",
+      "html_url": "https://github.com/juliye2025",
+      "avatar_url": "https://avatars.githubusercontent.com/u/142733408?v=4"
+    },
+    "html_url": "https://github.com/juliye2025/evil-read-arxiv",
+    "description": "Claude Code+Obsidian，邪修读论文就是快",
+    "created_at": "2026-03-03T09:25:21Z",
+    "updated_at": "2026-03-30T14:20:47Z",
+    "pushed_at": "2026-03-29T12:13:56Z",
+    "git_url": "git://github.com/juliye2025/evil-read-arxiv.git",
+    "homepage": "",
+    "size": 100,
+    "stargazers_count": 696,
+    "watchers_count": 696,
+    "language": "Python",
+    "forks_count": 76,
+    "open_issues_count": 9
+  },
+  {
+    "id": 1193271083,
+    "name": "3d-portfolio",
+    "owner": {
+      "id": 133150225,
+      "url": "https://api.github.com/users/akashrmalhotra",
+      "html_url": "https://github.com/akashrmalhotra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/133150225?v=4"
+    },
+    "html_url": "https://github.com/akashrmalhotra/3d-portfolio",
+    "description": "3d portfolio website which devs can use",
+    "created_at": "2026-03-27T03:36:07Z",
+    "updated_at": "2026-03-30T18:19:16Z",
+    "pushed_at": "2026-03-27T13:01:04Z",
+    "git_url": "git://github.com/akashrmalhotra/3d-portfolio.git",
+    "homepage": null,
+    "size": 41051,
+    "stargazers_count": 89,
+    "watchers_count": 89,
+    "language": "TypeScript",
+    "forks_count": 52,
+    "open_issues_count": 0
   }
 ]
