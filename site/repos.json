@@ -8278,5 +8278,74 @@
     "language": "Python",
     "forks_count": 9,
     "open_issues_count": 1
+  },
+  {
+    "id": 1197021090,
+    "name": "claude-code",
+    "owner": {
+      "id": 164172344,
+      "url": "https://api.github.com/users/instructkr",
+      "html_url": "https://github.com/instructkr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/164172344?v=4"
+    },
+    "html_url": "https://github.com/instructkr/claude-code",
+    "description": "An independent Python feature port of Claude Code, entirely rewritten from scratch using oh-my-codex. Educational Purpose only.",
+    "created_at": "2026-03-31T08:58:08Z",
+    "updated_at": "2026-03-31T12:27:28Z",
+    "pushed_at": "2026-03-31T12:20:01Z",
+    "git_url": "git://github.com/instructkr/claude-code.git",
+    "homepage": "https://github.com/Yeachan-Heo/oh-my-codex",
+    "size": 9337,
+    "stargazers_count": 17014,
+    "watchers_count": 17014,
+    "language": "TypeScript",
+    "forks_count": 24869,
+    "open_issues_count": 857
+  },
+  {
+    "id": 1167202321,
+    "name": "neta-skills",
+    "owner": {
+      "id": 120728204,
+      "url": "https://api.github.com/users/talesofai",
+      "html_url": "https://github.com/talesofai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/120728204?v=4"
+    },
+    "html_url": "https://github.com/talesofai/neta-skills",
+    "description": "Neta - Agent-first Creative Kit",
+    "created_at": "2026-02-26T03:31:23Z",
+    "updated_at": "2026-03-28T17:55:28Z",
+    "pushed_at": "2026-03-26T08:52:17Z",
+    "git_url": "git://github.com/talesofai/neta-skills.git",
+    "homepage": "https://www.neta.art",
+    "size": 980,
+    "stargazers_count": 842,
+    "watchers_count": 842,
+    "language": "TypeScript",
+    "forks_count": 19,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1195432764,
+    "name": "slay-the-spire-2-mods",
+    "owner": {
+      "id": 100047448,
+      "url": "https://api.github.com/users/Crafterferry",
+      "html_url": "https://github.com/Crafterferry",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100047448?v=4"
+    },
+    "html_url": "https://github.com/Crafterferry/slay-the-spire-2-mods",
+    "description": "Slay the Spire 2 Mods is a clean archive and mod tracker that helps players find installation guides, community mods, compatibility notes, bug fixes, quality-of-life add-ons, and update history in one place.",
+    "created_at": "2026-03-29T17:07:42Z",
+    "updated_at": "2026-03-31T12:16:24Z",
+    "pushed_at": "2026-03-29T17:09:30Z",
+    "git_url": "git://github.com/Crafterferry/slay-the-spire-2-mods.git",
+    "homepage": "",
+    "size": 3,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
