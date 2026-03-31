@@ -8669,5 +8669,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1172963839,
+    "name": "plugins",
+    "owner": {
+      "id": 14957082,
+      "url": "https://api.github.com/users/openai",
+      "html_url": "https://github.com/openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "html_url": "https://github.com/openai/plugins",
+    "description": "OpenAI Plugins",
+    "created_at": "2026-03-04T21:52:32Z",
+    "updated_at": "2026-03-31T15:49:38Z",
+    "pushed_at": "2026-03-31T00:16:53Z",
+    "git_url": "git://github.com/openai/plugins.git",
+    "homepage": "",
+    "size": 21863,
+    "stargazers_count": 683,
+    "watchers_count": 683,
+    "language": "Python",
+    "forks_count": 58,
+    "open_issues_count": 9
+  },
+  {
+    "id": 1194294879,
+    "name": "twitter-bridge-mcp",
+    "owner": {
+      "id": 84365177,
+      "url": "https://api.github.com/users/replica882",
+      "html_url": "https://github.com/replica882",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84365177?v=4"
+    },
+    "html_url": "https://github.com/replica882/twitter-bridge-mcp",
+    "description": "Connect Claude.ai to Twitter/X via browser automation — no API key needed",
+    "created_at": "2026-03-28T06:41:57Z",
+    "updated_at": "2026-03-30T11:02:03Z",
+    "pushed_at": "2026-03-29T16:13:47Z",
+    "git_url": "git://github.com/replica882/twitter-bridge-mcp.git",
+    "homepage": null,
+    "size": 14,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": "JavaScript",
+    "forks_count": 10,
+    "open_issues_count": 0
   }
 ]
