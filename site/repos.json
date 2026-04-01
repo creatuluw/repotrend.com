@@ -9451,5 +9451,74 @@
     "language": null,
     "forks_count": 7,
     "open_issues_count": 0
+  },
+  {
+    "id": 1196984640,
+    "name": "claude-code-sourcemap",
+    "owner": {
+      "id": 12388645,
+      "url": "https://api.github.com/users/ChinaSiro",
+      "html_url": "https://github.com/ChinaSiro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12388645?v=4"
+    },
+    "html_url": "https://github.com/ChinaSiro/claude-code-sourcemap",
+    "description": null,
+    "created_at": "2026-03-31T08:15:54Z",
+    "updated_at": "2026-04-01T12:27:53Z",
+    "pushed_at": "2026-03-31T08:30:55Z",
+    "git_url": "git://github.com/ChinaSiro/claude-code-sourcemap.git",
+    "homepage": "https://linux.do/u/huo0",
+    "size": 73856,
+    "stargazers_count": 6886,
+    "watchers_count": 6886,
+    "language": "TypeScript",
+    "forks_count": 12001,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1186598756,
+    "name": "optio",
+    "owner": {
+      "id": 35540058,
+      "url": "https://api.github.com/users/jonwiggins",
+      "html_url": "https://github.com/jonwiggins",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35540058?v=4"
+    },
+    "html_url": "https://github.com/jonwiggins/optio",
+    "description": "Workflow orchestration for AI coding agents, from task to merged PR.",
+    "created_at": "2026-03-19T19:50:11Z",
+    "updated_at": "2026-03-30T18:00:24Z",
+    "pushed_at": "2026-03-30T18:00:16Z",
+    "git_url": "git://github.com/jonwiggins/optio.git",
+    "homepage": "https://jonwiggins.github.io/optio/",
+    "size": 3068,
+    "stargazers_count": 689,
+    "watchers_count": 689,
+    "language": "TypeScript",
+    "forks_count": 57,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1193818575,
+    "name": "anti-ai-slop-writing",
+    "owner": {
+      "id": 111318954,
+      "url": "https://api.github.com/users/jalaalrd",
+      "html_url": "https://github.com/jalaalrd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111318954?v=4"
+    },
+    "html_url": "https://github.com/jalaalrd/anti-ai-slop-writing",
+    "description": "AI writing skill that eliminates detectable AI patterns. Works with Claude Code, Codex, Cursor, Gemini CLI, and 8+ other agents.",
+    "created_at": "2026-03-27T15:59:07Z",
+    "updated_at": "2026-03-29T17:40:27Z",
+    "pushed_at": "2026-03-27T20:10:58Z",
+    "git_url": "git://github.com/jalaalrd/anti-ai-slop-writing.git",
+    "homepage": "",
+    "size": 8,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": null,
+    "forks_count": 16,
+    "open_issues_count": 0
   }
 ]
