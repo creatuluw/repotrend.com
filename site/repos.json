@@ -9589,5 +9589,51 @@
     "language": "JavaScript",
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1197160875,
+    "name": "claude-code-deep-dive",
+    "owner": {
+      "id": 7189225,
+      "url": "https://api.github.com/users/tvytlx",
+      "html_url": "https://github.com/tvytlx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7189225?v=4"
+    },
+    "html_url": "https://github.com/tvytlx/claude-code-deep-dive",
+    "description": "Claude Code 源码深度研究报告",
+    "created_at": "2026-03-31T11:27:01Z",
+    "updated_at": "2026-03-31T18:25:41Z",
+    "pushed_at": "2026-03-31T15:01:58Z",
+    "git_url": "git://github.com/tvytlx/claude-code-deep-dive.git",
+    "homepage": "",
+    "size": 13723,
+    "stargazers_count": 823,
+    "watchers_count": 823,
+    "language": "TypeScript",
+    "forks_count": 295,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1195826828,
+    "name": "always-fit-resume",
+    "owner": {
+      "id": 11331341,
+      "url": "https://api.github.com/users/vladartym",
+      "html_url": "https://github.com/vladartym",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11331341?v=4"
+    },
+    "html_url": "https://github.com/vladartym/always-fit-resume",
+    "description": "A resume builder that auto-scales font size and line spacing to always fit on one page. Powered by pretext for instant, DOM-free text measurement.",
+    "created_at": "2026-03-30T05:19:43Z",
+    "updated_at": "2026-03-30T18:02:10Z",
+    "pushed_at": "2026-03-30T05:19:57Z",
+    "git_url": "git://github.com/vladartym/always-fit-resume.git",
+    "homepage": null,
+    "size": 37,
+    "stargazers_count": 79,
+    "watchers_count": 79,
+    "language": "JavaScript",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
