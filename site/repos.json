@@ -9520,5 +9520,74 @@
     "language": null,
     "forks_count": 16,
     "open_issues_count": 0
+  },
+  {
+    "id": 1197305828,
+    "name": "claude-code",
+    "owner": {
+      "id": 272536312,
+      "url": "https://api.github.com/users/claude-code-best",
+      "html_url": "https://github.com/claude-code-best",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272536312?v=4"
+    },
+    "html_url": "https://github.com/claude-code-best/claude-code",
+    "description": "原汁原昧 Claude Code 可运行版; Bun 可编译执行版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动",
+    "created_at": "2026-03-31T13:33:21Z",
+    "updated_at": "2026-04-01T12:27:55Z",
+    "pushed_at": "2026-04-01T12:21:08Z",
+    "git_url": "git://github.com/claude-code-best/claude-code.git",
+    "homepage": "https://ccb.agent-aura.top/",
+    "size": 54802,
+    "stargazers_count": 6096,
+    "watchers_count": 6096,
+    "language": "TypeScript",
+    "forks_count": 7695,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1177941774,
+    "name": "Work_Review",
+    "owner": {
+      "id": 257753161,
+      "url": "https://api.github.com/users/wm94i",
+      "html_url": "https://github.com/wm94i",
+      "avatar_url": "https://avatars.githubusercontent.com/u/257753161?v=4"
+    },
+    "html_url": "https://github.com/wm94i/Work_Review",
+    "description": "帮你自动记录一天中使用了哪些应用、浏览了哪些网页、在每个应用上花了多少时间",
+    "created_at": "2026-03-10T14:27:49Z",
+    "updated_at": "2026-03-30T17:10:51Z",
+    "pushed_at": "2026-03-30T13:59:41Z",
+    "git_url": "git://github.com/wm94i/Work_Review.git",
+    "homepage": null,
+    "size": 59822,
+    "stargazers_count": 659,
+    "watchers_count": 659,
+    "language": "Rust",
+    "forks_count": 31,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1193803355,
+    "name": "hermes-mod",
+    "owner": {
+      "id": 121128867,
+      "url": "https://api.github.com/users/cocktailpeanut",
+      "html_url": "https://github.com/cocktailpeanut",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121128867?v=4"
+    },
+    "html_url": "https://github.com/cocktailpeanut/hermes-mod",
+    "description": null,
+    "created_at": "2026-03-27T15:43:06Z",
+    "updated_at": "2026-03-29T16:59:13Z",
+    "pushed_at": "2026-03-27T16:13:53Z",
+    "git_url": "git://github.com/cocktailpeanut/hermes-mod.git",
+    "homepage": "",
+    "size": 7642,
+    "stargazers_count": 78,
+    "watchers_count": 78,
+    "language": "JavaScript",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
