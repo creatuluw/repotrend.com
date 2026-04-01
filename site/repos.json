@@ -9290,5 +9290,51 @@
     "language": "TypeScript",
     "forks_count": 43,
     "open_issues_count": 0
+  },
+  {
+    "id": 1188845498,
+    "name": "awesome-autoresearch",
+    "owner": {
+      "id": 132215366,
+      "url": "https://api.github.com/users/WecoAI",
+      "html_url": "https://github.com/WecoAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/132215366?v=4"
+    },
+    "html_url": "https://github.com/WecoAI/awesome-autoresearch",
+    "description": "Curated list of AutoResearch use cases with optimization traces and open source implementations",
+    "created_at": "2026-03-22T16:59:33Z",
+    "updated_at": "2026-03-30T18:10:36Z",
+    "pushed_at": "2026-03-30T11:00:46Z",
+    "git_url": "git://github.com/WecoAI/awesome-autoresearch.git",
+    "homepage": "",
+    "size": 195,
+    "stargazers_count": 690,
+    "watchers_count": 690,
+    "language": null,
+    "forks_count": 51,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1194789943,
+    "name": "NForge",
+    "owner": {
+      "id": 162640204,
+      "url": "https://api.github.com/users/kairowandev",
+      "html_url": "https://github.com/kairowandev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/162640204?v=4"
+    },
+    "html_url": "https://github.com/kairowandev/NForge",
+    "description": "Predict how the human brain responds to multimodal stimuli - Built on Meta's TRIBEv2 with 30% increased accuracy",
+    "created_at": "2026-03-28T20:19:08Z",
+    "updated_at": "2026-03-30T08:21:03Z",
+    "pushed_at": "2026-03-29T16:19:58Z",
+    "git_url": "git://github.com/kairowandev/NForge.git",
+    "homepage": "https://kairowandev.github.io/nforge-website/",
+    "size": 1374,
+    "stargazers_count": 80,
+    "watchers_count": 80,
+    "language": "Jupyter Notebook",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
