@@ -9819,5 +9819,51 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1189234446,
+    "name": "awesome-hermes-agent",
+    "owner": {
+      "id": 93952610,
+      "url": "https://api.github.com/users/0xNyk",
+      "html_url": "https://github.com/0xNyk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93952610?v=4"
+    },
+    "html_url": "https://github.com/0xNyk/awesome-hermes-agent",
+    "description": "A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research",
+    "created_at": "2026-03-23T05:34:37Z",
+    "updated_at": "2026-04-01T18:00:56Z",
+    "pushed_at": "2026-03-26T16:33:56Z",
+    "git_url": "git://github.com/0xNyk/awesome-hermes-agent.git",
+    "homepage": null,
+    "size": 58,
+    "stargazers_count": 673,
+    "watchers_count": 673,
+    "language": null,
+    "forks_count": 40,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1194872870,
+    "name": "Free-ai-video-generator",
+    "owner": {
+      "id": 144409604,
+      "url": "https://api.github.com/users/zoofai",
+      "html_url": "https://github.com/zoofai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/144409604?v=4"
+    },
+    "html_url": "https://github.com/zoofai/Free-ai-video-generator",
+    "description": "here are the best free local ai video generators for 2026. making a high-quality 3-minute video fully offline is still very hardware-heavy, usually needs 8gb+ vram, and takes a some time. most tools make short clips first, then you stitch them together.",
+    "created_at": "2026-03-28T23:23:25Z",
+    "updated_at": "2026-03-30T07:29:05Z",
+    "pushed_at": "2026-03-28T23:32:40Z",
+    "git_url": "git://github.com/zoofai/Free-ai-video-generator.git",
+    "homepage": "",
+    "size": 8,
+    "stargazers_count": 56,
+    "watchers_count": 56,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
