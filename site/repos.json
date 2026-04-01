@@ -9405,5 +9405,51 @@
     "language": "TypeScript",
     "forks_count": 123,
     "open_issues_count": 0
+  },
+  {
+    "id": 1192303694,
+    "name": "phantom",
+    "owner": {
+      "id": 262488619,
+      "url": "https://api.github.com/users/ghostwright",
+      "html_url": "https://github.com/ghostwright",
+      "avatar_url": "https://avatars.githubusercontent.com/u/262488619?v=4"
+    },
+    "html_url": "https://github.com/ghostwright/phantom",
+    "description": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK.",
+    "created_at": "2026-03-26T04:45:11Z",
+    "updated_at": "2026-04-01T12:16:47Z",
+    "pushed_at": "2026-03-31T14:42:09Z",
+    "git_url": "git://github.com/ghostwright/phantom.git",
+    "homepage": "https://ghostwright.dev/phantom",
+    "size": 19811,
+    "stargazers_count": 752,
+    "watchers_count": 752,
+    "language": "TypeScript",
+    "forks_count": 66,
+    "open_issues_count": 20
+  },
+  {
+    "id": 1193231082,
+    "name": "EORMC",
+    "owner": {
+      "id": 271406490,
+      "url": "https://api.github.com/users/KusumaHadiman",
+      "html_url": "https://github.com/KusumaHadiman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271406490?v=4"
+    },
+    "html_url": "https://github.com/KusumaHadiman/EORMC",
+    "description": null,
+    "created_at": "2026-03-27T02:18:34Z",
+    "updated_at": "2026-03-30T08:24:08Z",
+    "pushed_at": "2026-03-27T08:20:44Z",
+    "git_url": "git://github.com/KusumaHadiman/EORMC.git",
+    "homepage": null,
+    "size": 3227,
+    "stargazers_count": 73,
+    "watchers_count": 73,
+    "language": null,
+    "forks_count": 7,
+    "open_issues_count": 0
   }
 ]
