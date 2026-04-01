@@ -9106,5 +9106,74 @@
     "language": "TypeScript",
     "forks_count": 19,
     "open_issues_count": 2
+  },
+  {
+    "id": 1197029054,
+    "name": "claude-code-source-code",
+    "owner": {
+      "id": 96160062,
+      "url": "https://api.github.com/users/sanbuphy",
+      "html_url": "https://github.com/sanbuphy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96160062?v=4"
+    },
+    "html_url": "https://github.com/sanbuphy/claude-code-source-code",
+    "description": "It will be revised soon.",
+    "created_at": "2026-03-31T09:07:08Z",
+    "updated_at": "2026-04-01T06:42:51Z",
+    "pushed_at": "2026-04-01T01:47:37Z",
+    "git_url": "git://github.com/sanbuphy/claude-code-source-code.git",
+    "homepage": "https://x.com/Fried_rice/status/2038894956459290963?s=20",
+    "size": 8476,
+    "stargazers_count": 8850,
+    "watchers_count": 8850,
+    "language": "TypeScript",
+    "forks_count": 16793,
+    "open_issues_count": 50
+  },
+  {
+    "id": 1174815292,
+    "name": "homelable",
+    "owner": {
+      "id": 961315,
+      "url": "https://api.github.com/users/Pouzor",
+      "html_url": "https://github.com/Pouzor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/961315?v=4"
+    },
+    "html_url": "https://github.com/Pouzor/homelable",
+    "description": "Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring",
+    "created_at": "2026-03-06T21:49:54Z",
+    "updated_at": "2026-03-31T18:14:34Z",
+    "pushed_at": "2026-03-31T12:17:16Z",
+    "git_url": "git://github.com/Pouzor/homelable.git",
+    "homepage": "",
+    "size": 2875,
+    "stargazers_count": 895,
+    "watchers_count": 895,
+    "language": "TypeScript",
+    "forks_count": 30,
+    "open_issues_count": 10
+  },
+  {
+    "id": 1195906725,
+    "name": "EvoOpt_oppangu_optimization_model",
+    "owner": {
+      "id": 188861588,
+      "url": "https://api.github.com/users/WillowHe",
+      "html_url": "https://github.com/WillowHe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188861588?v=4"
+    },
+    "html_url": "https://github.com/WillowHe/EvoOpt_oppangu_optimization_model",
+    "description": "A set of solutions is provided, leveraging Openpangu - 7B as the base model for fine - tuning and application of large language models (LLMs) in operations research optimization tasks. ",
+    "created_at": "2026-03-30T07:19:23Z",
+    "updated_at": "2026-03-30T17:17:30Z",
+    "pushed_at": "2026-03-30T07:25:39Z",
+    "git_url": "git://github.com/WillowHe/EvoOpt_oppangu_optimization_model.git",
+    "homepage": null,
+    "size": 219,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
