@@ -9336,5 +9336,28 @@
     "language": "Jupyter Notebook",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1197432537,
+    "name": "claude-code-rebuilt",
+    "owner": {
+      "id": 214850015,
+      "url": "https://api.github.com/users/weikma",
+      "html_url": "https://github.com/weikma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/214850015?v=4"
+    },
+    "html_url": "https://github.com/weikma/claude-code-rebuilt",
+    "description": "A rebuilt, fully functional version of Anthropic's Claude Code CLI",
+    "created_at": "2026-03-31T15:19:38Z",
+    "updated_at": "2026-04-01T06:36:57Z",
+    "pushed_at": "2026-04-01T02:37:51Z",
+    "git_url": "git://github.com/weikma/claude-code-rebuilt.git",
+    "homepage": "",
+    "size": 9411,
+    "stargazers_count": 64,
+    "watchers_count": 64,
+    "language": "TypeScript",
+    "forks_count": 92,
+    "open_issues_count": 1
   }
 ]
