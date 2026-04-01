@@ -9359,5 +9359,51 @@
     "language": "TypeScript",
     "forks_count": 92,
     "open_issues_count": 1
+  },
+  {
+    "id": 1187709537,
+    "name": "dingtalk-workspace-cli",
+    "owner": {
+      "id": 257675475,
+      "url": "https://api.github.com/users/DingTalk-Real-AI",
+      "html_url": "https://github.com/DingTalk-Real-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/257675475?v=4"
+    },
+    "html_url": "https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli",
+    "description": "DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
+    "created_at": "2026-03-21T03:51:00Z",
+    "updated_at": "2026-03-28T18:03:06Z",
+    "pushed_at": "2026-03-28T16:47:54Z",
+    "git_url": "git://github.com/DingTalk-Real-AI/dingtalk-workspace-cli.git",
+    "homepage": "",
+    "size": 3894,
+    "stargazers_count": 841,
+    "watchers_count": 841,
+    "language": "Go",
+    "forks_count": 29,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1197131526,
+    "name": "claude-code-reverse",
+    "owner": {
+      "id": 32011484,
+      "url": "https://api.github.com/users/ghboke",
+      "html_url": "https://github.com/ghboke",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32011484?v=4"
+    },
+    "html_url": "https://github.com/ghboke/claude-code-reverse",
+    "description": "claude code源码分析报告",
+    "created_at": "2026-03-31T10:57:27Z",
+    "updated_at": "2026-03-31T18:10:12Z",
+    "pushed_at": "2026-03-31T10:58:34Z",
+    "git_url": "git://github.com/ghboke/claude-code-reverse.git",
+    "homepage": null,
+    "size": 24990,
+    "stargazers_count": 95,
+    "watchers_count": 95,
+    "language": "TypeScript",
+    "forks_count": 123,
+    "open_issues_count": 0
   }
 ]
