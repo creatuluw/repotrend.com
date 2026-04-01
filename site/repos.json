@@ -9175,5 +9175,74 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1148052330,
+    "name": "oh-my-codex",
+    "owner": {
+      "id": 54757707,
+      "url": "https://api.github.com/users/Yeachan-Heo",
+      "html_url": "https://github.com/Yeachan-Heo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54757707?v=4"
+    },
+    "html_url": "https://github.com/Yeachan-Heo/oh-my-codex",
+    "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+    "created_at": "2026-02-02T14:21:18Z",
+    "updated_at": "2026-04-01T06:42:50Z",
+    "pushed_at": "2026-04-01T05:14:57Z",
+    "git_url": "git://github.com/Yeachan-Heo/oh-my-codex.git",
+    "homepage": null,
+    "size": 8453,
+    "stargazers_count": 6395,
+    "watchers_count": 6395,
+    "language": "TypeScript",
+    "forks_count": 533,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1191408729,
+    "name": "turboquant-pytorch",
+    "owner": {
+      "id": 193647965,
+      "url": "https://api.github.com/users/tonbistudio",
+      "html_url": "https://github.com/tonbistudio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/193647965?v=4"
+    },
+    "html_url": "https://github.com/tonbistudio/turboquant-pytorch",
+    "description": "From-scratch PyTorch implementation of Google's TurboQuant (ICLR 2026) for LLM KV cache compression. 5x compression at 3-bit with 99.5% attention fidelity.",
+    "created_at": "2026-03-25T08:03:23Z",
+    "updated_at": "2026-04-01T05:26:58Z",
+    "pushed_at": "2026-03-31T05:02:50Z",
+    "git_url": "git://github.com/tonbistudio/turboquant-pytorch.git",
+    "homepage": null,
+    "size": 28,
+    "stargazers_count": 705,
+    "watchers_count": 705,
+    "language": "Python",
+    "forks_count": 90,
+    "open_issues_count": 15
+  },
+  {
+    "id": 1194990993,
+    "name": "flocks",
+    "owner": {
+      "id": 268548710,
+      "url": "https://api.github.com/users/AgentFlocks",
+      "html_url": "https://github.com/AgentFlocks",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268548710?v=4"
+    },
+    "html_url": "https://github.com/AgentFlocks/flocks",
+    "description": "Flocks is an agentic SecOps platform.",
+    "created_at": "2026-03-29T04:19:41Z",
+    "updated_at": "2026-03-30T14:52:18Z",
+    "pushed_at": "2026-03-30T08:24:24Z",
+    "git_url": "git://github.com/AgentFlocks/flocks.git",
+    "homepage": null,
+    "size": 5177,
+    "stargazers_count": 88,
+    "watchers_count": 88,
+    "language": "Python",
+    "forks_count": 9,
+    "open_issues_count": 0
   }
 ]
