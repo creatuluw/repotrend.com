@@ -9635,5 +9635,51 @@
     "language": "JavaScript",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1195011586,
+    "name": "wecom-cli",
+    "owner": {
+      "id": 89206810,
+      "url": "https://api.github.com/users/WecomTeam",
+      "html_url": "https://github.com/WecomTeam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89206810?v=4"
+    },
+    "html_url": "https://github.com/WecomTeam/wecom-cli",
+    "description": "企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信",
+    "created_at": "2026-03-29T05:06:59Z",
+    "updated_at": "2026-03-30T18:09:13Z",
+    "pushed_at": "2026-03-30T13:09:32Z",
+    "git_url": "git://github.com/WecomTeam/wecom-cli.git",
+    "homepage": null,
+    "size": 134,
+    "stargazers_count": 897,
+    "watchers_count": 897,
+    "language": "Rust",
+    "forks_count": 45,
+    "open_issues_count": 17
+  },
+  {
+    "id": 1195271290,
+    "name": "InfraGuard",
+    "owner": {
+      "id": 143597543,
+      "url": "https://api.github.com/users/Whispergate",
+      "html_url": "https://github.com/Whispergate",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143597543?v=4"
+    },
+    "html_url": "https://github.com/Whispergate/InfraGuard",
+    "description": "InfraGuard is a Command & Control Redirection Proxy and Manager which protects your Red Team Infrastructure against threat attribution",
+    "created_at": "2026-03-29T13:13:28Z",
+    "updated_at": "2026-04-01T08:54:46Z",
+    "pushed_at": "2026-04-01T07:00:27Z",
+    "git_url": "git://github.com/Whispergate/InfraGuard.git",
+    "homepage": "",
+    "size": 5951,
+    "stargazers_count": 99,
+    "watchers_count": 99,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
