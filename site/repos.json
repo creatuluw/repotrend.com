@@ -8968,5 +8968,51 @@
     "language": null,
     "forks_count": 14,
     "open_issues_count": 1
+  },
+  {
+    "id": 1179213731,
+    "name": "sentrux",
+    "owner": {
+      "id": 267439205,
+      "url": "https://api.github.com/users/sentrux",
+      "html_url": "https://github.com/sentrux",
+      "avatar_url": "https://avatars.githubusercontent.com/u/267439205?v=4"
+    },
+    "html_url": "https://github.com/sentrux/sentrux",
+    "description": "Real-time architectural sensor that helps AI agents close the feedback loop, enabling recursive self-improvement of code quality. Pure Rust.",
+    "created_at": "2026-03-11T20:01:43Z",
+    "updated_at": "2026-03-31T22:39:19Z",
+    "pushed_at": "2026-03-19T02:23:12Z",
+    "git_url": "git://github.com/sentrux/sentrux.git",
+    "homepage": "https://sentrux.dev",
+    "size": 48220,
+    "stargazers_count": 767,
+    "watchers_count": 767,
+    "language": "Rust",
+    "forks_count": 72,
+    "open_issues_count": 10
+  },
+  {
+    "id": 1194811304,
+    "name": "ios-anki",
+    "owner": {
+      "id": 53124465,
+      "url": "https://api.github.com/users/antigluten",
+      "html_url": "https://github.com/antigluten",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53124465?v=4"
+    },
+    "html_url": "https://github.com/antigluten/ios-anki",
+    "description": "A native, open-source iOS client for Anki flashcards. Offline-first with full AnkiWeb sync, powered by the official Anki Rust backend via C FFI.",
+    "created_at": "2026-03-28T21:01:46Z",
+    "updated_at": "2026-03-30T18:23:24Z",
+    "pushed_at": "2026-03-28T21:02:56Z",
+    "git_url": "git://github.com/antigluten/ios-anki.git",
+    "homepage": "",
+    "size": 1141,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "Swift",
+    "forks_count": 5,
+    "open_issues_count": 2
   }
 ]
