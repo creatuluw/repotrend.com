@@ -8876,5 +8876,51 @@
     "language": "Rust",
     "forks_count": 0,
     "open_issues_count": 4
+  },
+  {
+    "id": 1181272477,
+    "name": "finance-skills",
+    "owner": {
+      "id": 14026360,
+      "url": "https://api.github.com/users/himself65",
+      "html_url": "https://github.com/himself65",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14026360?v=4"
+    },
+    "html_url": "https://github.com/himself65/finance-skills",
+    "description": "A collection of agent skills for financial analysis and trading.",
+    "created_at": "2026-03-13T23:56:06Z",
+    "updated_at": "2026-03-31T17:34:08Z",
+    "pushed_at": "2026-03-26T22:31:29Z",
+    "git_url": "git://github.com/himself65/finance-skills.git",
+    "homepage": "",
+    "size": 934,
+    "stargazers_count": 655,
+    "watchers_count": 655,
+    "language": null,
+    "forks_count": 60,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1195098807,
+    "name": "tesla-fsd-can-mod",
+    "owner": {
+      "id": 4602781,
+      "url": "https://api.github.com/users/jvanakker",
+      "html_url": "https://github.com/jvanakker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4602781?v=4"
+    },
+    "html_url": "https://github.com/jvanakker/tesla-fsd-can-mod",
+    "description": null,
+    "created_at": "2026-03-29T08:05:36Z",
+    "updated_at": "2026-03-30T17:43:18Z",
+    "pushed_at": "2026-03-30T13:25:45Z",
+    "git_url": "git://github.com/jvanakker/tesla-fsd-can-mod.git",
+    "homepage": null,
+    "size": 8,
+    "stargazers_count": 56,
+    "watchers_count": 56,
+    "language": "C++",
+    "forks_count": 35,
+    "open_issues_count": 2
   }
 ]
