@@ -8922,5 +8922,51 @@
     "language": "C++",
     "forks_count": 35,
     "open_issues_count": 2
+  },
+  {
+    "id": 1197172145,
+    "name": "claude-code-rev",
+    "owner": {
+      "id": 23210180,
+      "url": "https://api.github.com/users/oboard",
+      "html_url": "https://github.com/oboard",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23210180?v=4"
+    },
+    "html_url": "https://github.com/oboard/claude-code-rev",
+    "description": "Runnable ClaudeCode source code",
+    "created_at": "2026-03-31T11:37:19Z",
+    "updated_at": "2026-03-31T18:21:13Z",
+    "pushed_at": "2026-03-31T12:40:51Z",
+    "git_url": "git://github.com/oboard/claude-code-rev.git",
+    "homepage": "",
+    "size": 9686,
+    "stargazers_count": 780,
+    "watchers_count": 780,
+    "language": "TypeScript",
+    "forks_count": 1193,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1197608595,
+    "name": "Flash-BTC-Sender-App",
+    "owner": {
+      "id": 272604393,
+      "url": "https://api.github.com/users/crucianwill-bit",
+      "html_url": "https://github.com/crucianwill-bit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272604393?v=4"
+    },
+    "html_url": "https://github.com/crucianwill-bit/Flash-BTC-Sender-App",
+    "description": "Send Flash BTC into blockchain that will never get confirmed by the network",
+    "created_at": "2026-03-31T18:11:47Z",
+    "updated_at": "2026-03-31T18:27:49Z",
+    "pushed_at": "2026-03-31T18:18:58Z",
+    "git_url": "git://github.com/crucianwill-bit/Flash-BTC-Sender-App.git",
+    "homepage": "https://www.skipl.ink/flasher",
+    "size": 548,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": null,
+    "forks_count": 14,
+    "open_issues_count": 1
   }
 ]
