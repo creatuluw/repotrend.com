@@ -10348,5 +10348,51 @@
     "language": "TypeScript",
     "forks_count": 100,
     "open_issues_count": 0
+  },
+  {
+    "id": 1193082155,
+    "name": "harness",
+    "owner": {
+      "id": 2889542,
+      "url": "https://api.github.com/users/revfactory",
+      "html_url": "https://github.com/revfactory",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2889542?v=4"
+    },
+    "html_url": "https://github.com/revfactory/harness",
+    "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+    "created_at": "2026-03-26T21:22:07Z",
+    "updated_at": "2026-03-30T17:53:40Z",
+    "pushed_at": "2026-03-29T12:35:12Z",
+    "git_url": "git://github.com/revfactory/harness.git",
+    "homepage": "https://revfactory.github.io/harness/",
+    "size": 9286,
+    "stargazers_count": 734,
+    "watchers_count": 734,
+    "language": "HTML",
+    "forks_count": 95,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1196758047,
+    "name": "Falcon-Perception",
+    "owner": {
+      "id": 59836348,
+      "url": "https://api.github.com/users/tiiuae",
+      "html_url": "https://github.com/tiiuae",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59836348?v=4"
+    },
+    "html_url": "https://github.com/tiiuae/Falcon-Perception",
+    "description": " Inference repo for Falcon-Perception and Falcon-OCR model, early-fusion, natively multimodal, dense Autoregressive Transformer models.",
+    "created_at": "2026-03-31T02:30:41Z",
+    "updated_at": "2026-04-02T06:14:40Z",
+    "pushed_at": "2026-04-01T12:24:57Z",
+    "git_url": "git://github.com/tiiuae/Falcon-Perception.git",
+    "homepage": null,
+    "size": 1837,
+    "stargazers_count": 72,
+    "watchers_count": 72,
+    "language": "Python",
+    "forks_count": 7,
+    "open_issues_count": 0
   }
 ]
