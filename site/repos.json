@@ -10210,5 +10210,51 @@
     "language": "HTML",
     "forks_count": 5,
     "open_issues_count": 5
+  },
+  {
+    "id": 1197265285,
+    "name": "claude-reviews-claude",
+    "owner": {
+      "id": 272527377,
+      "url": "https://api.github.com/users/openedclaude",
+      "html_url": "https://github.com/openedclaude",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272527377?v=4"
+    },
+    "html_url": "https://github.com/openedclaude/claude-reviews-claude",
+    "description": "🪞 An AI reading its own source code. Claude's architectural analysis of Claude Code",
+    "created_at": "2026-03-31T12:58:46Z",
+    "updated_at": "2026-04-01T18:19:16Z",
+    "pushed_at": "2026-04-01T18:19:11Z",
+    "git_url": "git://github.com/openedclaude/claude-reviews-claude.git",
+    "homepage": null,
+    "size": 425,
+    "stargazers_count": 971,
+    "watchers_count": 971,
+    "language": null,
+    "forks_count": 530,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1195771930,
+    "name": "migraine-risk-card",
+    "owner": {
+      "id": 194061180,
+      "url": "https://api.github.com/users/GreenNovaEmma",
+      "html_url": "https://github.com/GreenNovaEmma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/194061180?v=4"
+    },
+    "html_url": "https://github.com/GreenNovaEmma/migraine-risk-card",
+    "description": "A science-backed environmental migraine risk monitoring card for Home Assistant. Tracks 9 weather and air quality factors known to trigger migraines and displays a composite risk score with a visual gauge.",
+    "created_at": "2026-03-30T03:37:54Z",
+    "updated_at": "2026-04-01T18:20:53Z",
+    "pushed_at": "2026-03-31T02:27:50Z",
+    "git_url": "git://github.com/GreenNovaEmma/migraine-risk-card.git",
+    "homepage": "",
+    "size": 97,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 9
   }
 ]
