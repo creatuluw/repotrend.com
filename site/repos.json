@@ -10141,5 +10141,74 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1191372811,
+    "name": "cli",
+    "owner": {
+      "id": 54944174,
+      "url": "https://api.github.com/users/larksuite",
+      "html_url": "https://github.com/larksuite",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54944174?v=4"
+    },
+    "html_url": "https://github.com/larksuite/cli",
+    "description": "The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
+    "created_at": "2026-03-25T07:13:30Z",
+    "updated_at": "2026-04-02T06:34:21Z",
+    "pushed_at": "2026-04-02T06:30:28Z",
+    "git_url": "git://github.com/larksuite/cli.git",
+    "homepage": "",
+    "size": 1142,
+    "stargazers_count": 6042,
+    "watchers_count": 6042,
+    "language": "Go",
+    "forks_count": 317,
+    "open_issues_count": 127
+  },
+  {
+    "id": 1181476077,
+    "name": "clawcompany",
+    "owner": {
+      "id": 268119605,
+      "url": "https://api.github.com/users/Claw-Company",
+      "html_url": "https://github.com/Claw-Company",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268119605?v=4"
+    },
+    "html_url": "https://github.com/Claw-Company/clawcompany",
+    "description": "Open source AI company OS. 38 roles, 6 templates,  4-layer memory. Your AI company remembers everything — locally.  npx clawcompany",
+    "created_at": "2026-03-14T07:25:41Z",
+    "updated_at": "2026-04-01T17:50:52Z",
+    "pushed_at": "2026-04-01T04:08:16Z",
+    "git_url": "git://github.com/Claw-Company/clawcompany.git",
+    "homepage": "",
+    "size": 2645,
+    "stargazers_count": 732,
+    "watchers_count": 732,
+    "language": "TypeScript",
+    "forks_count": 70,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1196670340,
+    "name": "NETBREAKER",
+    "owner": {
+      "id": 43833196,
+      "url": "https://api.github.com/users/GlivchGriefer",
+      "html_url": "https://github.com/GlivchGriefer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43833196?v=4"
+    },
+    "html_url": "https://github.com/GlivchGriefer/NETBREAKER",
+    "description": "A single-file vibe-coded hacking trainer. The terminal works to orient users toward realistic use-cases and even exposes them to web application vulnerabilities.",
+    "created_at": "2026-03-30T23:34:45Z",
+    "updated_at": "2026-04-02T05:48:14Z",
+    "pushed_at": "2026-04-01T01:25:53Z",
+    "git_url": "git://github.com/GlivchGriefer/NETBREAKER.git",
+    "homepage": null,
+    "size": 1828,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": "HTML",
+    "forks_count": 5,
+    "open_issues_count": 5
   }
 ]
