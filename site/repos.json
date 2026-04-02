@@ -10486,5 +10486,28 @@
     "language": "TypeScript",
     "forks_count": 105,
     "open_issues_count": 0
+  },
+  {
+    "id": 1195352840,
+    "name": "seen2scene",
+    "owner": {
+      "id": 30200717,
+      "url": "https://api.github.com/users/quan-meng",
+      "html_url": "https://github.com/quan-meng",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30200717?v=4"
+    },
+    "html_url": "https://github.com/quan-meng/seen2scene",
+    "description": "Seen2Scene takes an incomplete real-world 3D scan and generates a complete, coherent 3D scene using visibility-guided flow matching — trained directly on real-world data.",
+    "created_at": "2026-03-29T15:12:27Z",
+    "updated_at": "2026-04-01T16:18:11Z",
+    "pushed_at": "2026-03-31T07:55:51Z",
+    "git_url": "git://github.com/quan-meng/seen2scene.git",
+    "homepage": "https://quan-meng.github.io/projects/seen2scene/",
+    "size": 2555,
+    "stargazers_count": 70,
+    "watchers_count": 70,
+    "language": null,
+    "forks_count": 3,
+    "open_issues_count": 1
   }
 ]
