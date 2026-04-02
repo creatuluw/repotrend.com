@@ -10417,5 +10417,51 @@
     "language": "Python",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1197226849,
+    "name": "how-claude-code-works",
+    "owner": {
+      "id": 101924422,
+      "url": "https://api.github.com/users/Windy3f3f3f3f",
+      "html_url": "https://github.com/Windy3f3f3f3f",
+      "avatar_url": "https://avatars.githubusercontent.com/u/101924422?v=4"
+    },
+    "html_url": "https://github.com/Windy3f3f3f3f/how-claude-code-works",
+    "description": "Deep dive into Claude Code internals — architecture, agent loop, context engineering, and more. / 深入解析 Claude Code 源码：架构、Agent 循环、上下文工程、工具系统等",
+    "created_at": "2026-03-31T12:25:40Z",
+    "updated_at": "2026-04-01T18:21:05Z",
+    "pushed_at": "2026-04-01T16:02:38Z",
+    "git_url": "git://github.com/Windy3f3f3f3f/how-claude-code-works.git",
+    "homepage": "https://windy3f3f3f3f.github.io/how-claude-code-works/#/",
+    "size": 1527,
+    "stargazers_count": 839,
+    "watchers_count": 839,
+    "language": null,
+    "forks_count": 305,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1197274717,
+    "name": "textstring",
+    "owner": {
+      "id": 190692,
+      "url": "https://api.github.com/users/pushmatrix",
+      "html_url": "https://github.com/pushmatrix",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190692?v=4"
+    },
+    "html_url": "https://github.com/pushmatrix/textstring",
+    "description": "physics based text strings",
+    "created_at": "2026-03-31T13:06:50Z",
+    "updated_at": "2026-04-01T18:25:01Z",
+    "pushed_at": "2026-03-31T13:33:19Z",
+    "git_url": "git://github.com/pushmatrix/textstring.git",
+    "homepage": null,
+    "size": 25,
+    "stargazers_count": 77,
+    "watchers_count": 77,
+    "language": "JavaScript",
+    "forks_count": 19,
+    "open_issues_count": 0
   }
 ]
