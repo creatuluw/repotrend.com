@@ -10279,5 +10279,51 @@
     "language": "Python",
     "forks_count": 30,
     "open_issues_count": 1
+  },
+  {
+    "id": 1197515131,
+    "name": "awesome-design-md",
+    "owner": {
+      "id": 201282378,
+      "url": "https://api.github.com/users/VoltAgent",
+      "html_url": "https://github.com/VoltAgent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
+    },
+    "html_url": "https://github.com/VoltAgent/awesome-design-md",
+    "description": "Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.",
+    "created_at": "2026-03-31T16:37:01Z",
+    "updated_at": "2026-04-01T18:25:02Z",
+    "pushed_at": "2026-04-01T14:57:42Z",
+    "git_url": "git://github.com/VoltAgent/awesome-design-md.git",
+    "homepage": "",
+    "size": 722,
+    "stargazers_count": 808,
+    "watchers_count": 808,
+    "language": "HTML",
+    "forks_count": 89,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1196792691,
+    "name": "packet-tracer-network-project",
+    "owner": {
+      "id": 234648489,
+      "url": "https://api.github.com/users/div6079-code",
+      "html_url": "https://github.com/div6079-code",
+      "avatar_url": "https://avatars.githubusercontent.com/u/234648489?v=4"
+    },
+    "html_url": "https://github.com/div6079-code/packet-tracer-network-project",
+    "description": "Basic network configuration using Cisco Packet Tracer including router and switch setup, IP addressing, and connectivity testing between devices.",
+    "created_at": "2026-03-31T03:34:26Z",
+    "updated_at": "2026-04-01T03:29:44Z",
+    "pushed_at": "2026-03-31T03:53:12Z",
+    "git_url": "git://github.com/div6079-code/packet-tracer-network-project.git",
+    "homepage": null,
+    "size": 785,
+    "stargazers_count": 67,
+    "watchers_count": 67,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
