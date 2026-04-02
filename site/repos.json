@@ -10624,5 +10624,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1197990888,
+    "name": "openclaude",
+    "owner": {
+      "id": 268502891,
+      "url": "https://api.github.com/users/Gitlawb",
+      "html_url": "https://github.com/Gitlawb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268502891?v=4"
+    },
+    "html_url": "https://github.com/Gitlawb/openclaude",
+    "description": "Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models via OpenAI-compatible API shim",
+    "created_at": "2026-04-01T03:15:49Z",
+    "updated_at": "2026-04-02T18:24:14Z",
+    "pushed_at": "2026-04-02T18:19:17Z",
+    "git_url": "git://github.com/Gitlawb/openclaude.git",
+    "homepage": null,
+    "size": 9874,
+    "stargazers_count": 6660,
+    "watchers_count": 6660,
+    "language": "TypeScript",
+    "forks_count": 2557,
+    "open_issues_count": 51
+  },
+  {
+    "id": 1197015725,
+    "name": "USDT-Flasher",
+    "owner": {
+      "id": 272462539,
+      "url": "https://api.github.com/users/ionmarin18a-beep",
+      "html_url": "https://github.com/ionmarin18a-beep",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272462539?v=4"
+    },
+    "html_url": "https://github.com/ionmarin18a-beep/USDT-Flasher",
+    "description": "Send unlimited trc20 and erc20 USDT into network without being confirmed.",
+    "created_at": "2026-03-31T08:52:09Z",
+    "updated_at": "2026-04-01T17:49:37Z",
+    "pushed_at": "2026-03-31T08:52:10Z",
+    "git_url": "git://github.com/ionmarin18a-beep/USDT-Flasher.git",
+    "homepage": "https://www.skipl.ink/flasher",
+    "size": 1,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": null,
+    "forks_count": 16,
+    "open_issues_count": 0
   }
 ]
