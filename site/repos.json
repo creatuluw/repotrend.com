@@ -10325,5 +10325,28 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1197905759,
+    "name": "claude_code_cli",
+    "owner": {
+      "id": 113795028,
+      "url": "https://api.github.com/users/TaGoat",
+      "html_url": "https://github.com/TaGoat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113795028?v=4"
+    },
+    "html_url": "https://github.com/TaGoat/claude_code_cli",
+    "description": "Claude code source code",
+    "created_at": "2026-04-01T01:27:11Z",
+    "updated_at": "2026-04-01T17:32:22Z",
+    "pushed_at": "2026-04-01T14:03:22Z",
+    "git_url": "git://github.com/TaGoat/claude_code_cli.git",
+    "homepage": "",
+    "size": 21290,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": "TypeScript",
+    "forks_count": 100,
+    "open_issues_count": 0
   }
 ]
