@@ -10049,5 +10049,51 @@
     "language": "Shell",
     "forks_count": 17,
     "open_issues_count": 0
+  },
+  {
+    "id": 1197195599,
+    "name": "Claude-Code",
+    "owner": {
+      "id": 177021513,
+      "url": "https://api.github.com/users/pengchengneo",
+      "html_url": "https://github.com/pengchengneo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/177021513?v=4"
+    },
+    "html_url": "https://github.com/pengchengneo/Claude-Code",
+    "description": "可运行的Claude Code源码",
+    "created_at": "2026-03-31T11:58:00Z",
+    "updated_at": "2026-04-02T00:29:05Z",
+    "pushed_at": "2026-04-01T04:32:24Z",
+    "git_url": "git://github.com/pengchengneo/Claude-Code.git",
+    "homepage": "",
+    "size": 9687,
+    "stargazers_count": 746,
+    "watchers_count": 746,
+    "language": "TypeScript",
+    "forks_count": 1584,
+    "open_issues_count": 13
+  },
+  {
+    "id": 1197246514,
+    "name": "dreamina-cli-skill",
+    "owner": {
+      "id": 34769581,
+      "url": "https://api.github.com/users/yuyou-dev",
+      "html_url": "https://github.com/yuyou-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34769581?v=4"
+    },
+    "html_url": "https://github.com/yuyou-dev/dreamina-cli-skill",
+    "description": "即梦CLI的AgentSkill",
+    "created_at": "2026-03-31T12:42:37Z",
+    "updated_at": "2026-04-02T00:02:48Z",
+    "pushed_at": "2026-03-31T12:46:13Z",
+    "git_url": "git://github.com/yuyou-dev/dreamina-cli-skill.git",
+    "homepage": null,
+    "size": 15,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": "Python",
+    "forks_count": 8,
+    "open_issues_count": 1
   }
 ]
