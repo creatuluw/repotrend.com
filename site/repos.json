@@ -10578,5 +10578,51 @@
     "language": "TypeScript",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1197079556,
+    "name": "claude-code",
+    "owner": {
+      "id": 57638199,
+      "url": "https://api.github.com/users/tanbiralam",
+      "html_url": "https://github.com/tanbiralam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57638199?v=4"
+    },
+    "html_url": "https://github.com/tanbiralam/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. All original source code is the property of Anthropic.",
+    "created_at": "2026-03-31T10:02:18Z",
+    "updated_at": "2026-04-02T18:23:37Z",
+    "pushed_at": "2026-03-31T10:03:46Z",
+    "git_url": "git://github.com/tanbiralam/claude-code.git",
+    "homepage": "https://x.com/Fried_rice/status/2038894956459290963",
+    "size": 9308,
+    "stargazers_count": 904,
+    "watchers_count": 904,
+    "language": "TypeScript",
+    "forks_count": 1620,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1196843099,
+    "name": "quantum-noise-signal-classifier",
+    "owner": {
+      "id": 228870007,
+      "url": "https://api.github.com/users/Srivardhini-S",
+      "html_url": "https://github.com/Srivardhini-S",
+      "avatar_url": "https://avatars.githubusercontent.com/u/228870007?v=4"
+    },
+    "html_url": "https://github.com/Srivardhini-S/quantum-noise-signal-classifier",
+    "description": "Quantum Machine Learning project with noise filtering and signal classification",
+    "created_at": "2026-03-31T05:07:39Z",
+    "updated_at": "2026-04-01T16:48:35Z",
+    "pushed_at": "2026-03-31T05:29:58Z",
+    "git_url": "git://github.com/Srivardhini-S/quantum-noise-signal-classifier.git",
+    "homepage": null,
+    "size": 6,
+    "stargazers_count": 67,
+    "watchers_count": 67,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
