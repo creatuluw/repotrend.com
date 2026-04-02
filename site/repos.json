@@ -10394,5 +10394,28 @@
     "language": "Python",
     "forks_count": 7,
     "open_issues_count": 0
+  },
+  {
+    "id": 1195257374,
+    "name": "Qwen3.5-TurboQuant-MLX-LM",
+    "owner": {
+      "id": 167613664,
+      "url": "https://api.github.com/users/alicankiraz1",
+      "html_url": "https://github.com/alicankiraz1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/167613664?v=4"
+    },
+    "html_url": "https://github.com/alicankiraz1/Qwen3.5-TurboQuant-MLX-LM",
+    "description": "TurboMLX v0.1 Research Preview public source tree for Qwen3.5-focused MLX TurboQuant experiments.",
+    "created_at": "2026-03-29T12:51:48Z",
+    "updated_at": "2026-03-31T12:22:49Z",
+    "pushed_at": "2026-03-29T13:17:27Z",
+    "git_url": "git://github.com/alicankiraz1/Qwen3.5-TurboQuant-MLX-LM.git",
+    "homepage": null,
+    "size": 71,
+    "stargazers_count": 68,
+    "watchers_count": 68,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
