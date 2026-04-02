@@ -10256,5 +10256,28 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 9
+  },
+  {
+    "id": 1197126855,
+    "name": "cc-mini",
+    "owner": {
+      "id": 120147382,
+      "url": "https://api.github.com/users/e10nMa2k",
+      "html_url": "https://github.com/e10nMa2k",
+      "avatar_url": "https://avatars.githubusercontent.com/u/120147382?v=4"
+    },
+    "html_url": "https://github.com/e10nMa2k/cc-mini",
+    "description": "mini cc",
+    "created_at": "2026-03-31T10:52:39Z",
+    "updated_at": "2026-03-31T18:01:43Z",
+    "pushed_at": "2026-03-31T17:35:12Z",
+    "git_url": "git://github.com/e10nMa2k/cc-mini.git",
+    "homepage": null,
+    "size": 171,
+    "stargazers_count": 79,
+    "watchers_count": 79,
+    "language": "Python",
+    "forks_count": 30,
+    "open_issues_count": 1
   }
 ]
