@@ -10509,5 +10509,51 @@
     "language": null,
     "forks_count": 3,
     "open_issues_count": 1
+  },
+  {
+    "id": 1197690174,
+    "name": "claw-dev",
+    "owner": {
+      "id": 219127460,
+      "url": "https://api.github.com/users/Leonxlnx",
+      "html_url": "https://github.com/Leonxlnx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219127460?v=4"
+    },
+    "html_url": "https://github.com/Leonxlnx/claw-dev",
+    "description": null,
+    "created_at": "2026-03-31T19:50:03Z",
+    "updated_at": "2026-04-01T18:23:54Z",
+    "pushed_at": "2026-04-01T13:35:54Z",
+    "git_url": "git://github.com/Leonxlnx/claw-dev.git",
+    "homepage": null,
+    "size": 42789,
+    "stargazers_count": 835,
+    "watchers_count": 835,
+    "language": "TypeScript",
+    "forks_count": 452,
+    "open_issues_count": 12
+  },
+  {
+    "id": 1197574764,
+    "name": "cloud-code-study",
+    "owner": {
+      "id": 36876080,
+      "url": "https://api.github.com/users/Janlaywss",
+      "html_url": "https://github.com/Janlaywss",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36876080?v=4"
+    },
+    "html_url": "https://github.com/Janlaywss/cloud-code-study",
+    "description": "对 Janlaywss/cloud-code 源码的分析实现",
+    "created_at": "2026-03-31T17:35:31Z",
+    "updated_at": "2026-04-01T17:29:11Z",
+    "pushed_at": "2026-04-01T16:27:52Z",
+    "git_url": "git://github.com/Janlaywss/cloud-code-study.git",
+    "homepage": "https://cloud-code-study.vercel.app",
+    "size": 371,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "TypeScript",
+    "forks_count": 26,
+    "open_issues_count": 0
   }
 ]
