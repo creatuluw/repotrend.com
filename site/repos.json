@@ -10716,5 +10716,28 @@
     "language": "JavaScript",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1196283437,
+    "name": "Sketch-Architect-Studio",
+    "owner": {
+      "id": 271372132,
+      "url": "https://api.github.com/users/anisondragonx90",
+      "html_url": "https://github.com/anisondragonx90",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271372132?v=4"
+    },
+    "html_url": "https://github.com/anisondragonx90/Sketch-Architect-Studio",
+    "description": "Sketch-Architect Studio (2026) — The premier 3D modeling environment for architects and designers. Fully unlocked Pro features including V-Ray 7, Enscape integration, and high-speed layout exporting.",
+    "created_at": "2026-03-30T14:48:11Z",
+    "updated_at": "2026-04-01T15:12:10Z",
+    "pushed_at": "2026-03-30T14:50:12Z",
+    "git_url": "git://github.com/anisondragonx90/Sketch-Architect-Studio.git",
+    "homepage": "",
+    "size": 4,
+    "stargazers_count": 75,
+    "watchers_count": 75,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
