@@ -11383,5 +11383,51 @@
     "language": "JavaScript",
     "forks_count": 21,
     "open_issues_count": 0
+  },
+  {
+    "id": 1194293040,
+    "name": "openclaw-auto-dream",
+    "owner": {
+      "id": 121472001,
+      "url": "https://api.github.com/users/LeoYeAI",
+      "html_url": "https://github.com/LeoYeAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121472001?v=4"
+    },
+    "html_url": "https://github.com/LeoYeAI/openclaw-auto-dream",
+    "description": "Automatic memory consolidation for OpenClaw agents — like sleep for your AI. Powered by MyClaw.ai",
+    "created_at": "2026-03-28T06:38:18Z",
+    "updated_at": "2026-04-03T11:59:49Z",
+    "pushed_at": "2026-03-31T04:13:31Z",
+    "git_url": "git://github.com/LeoYeAI/openclaw-auto-dream.git",
+    "homepage": "https://myclaw.ai",
+    "size": 367,
+    "stargazers_count": 711,
+    "watchers_count": 711,
+    "language": "HTML",
+    "forks_count": 21,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1197670208,
+    "name": "claude-code",
+    "owner": {
+      "id": 53451179,
+      "url": "https://api.github.com/users/grupoan",
+      "html_url": "https://github.com/grupoan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53451179?v=4"
+    },
+    "html_url": "https://github.com/grupoan/claude-code",
+    "description": null,
+    "created_at": "2026-03-31T19:25:06Z",
+    "updated_at": "2026-04-02T17:18:46Z",
+    "pushed_at": "2026-03-31T19:25:27Z",
+    "git_url": "git://github.com/grupoan/claude-code.git",
+    "homepage": null,
+    "size": 45706,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": "TypeScript",
+    "forks_count": 72,
+    "open_issues_count": 0
   }
 ]
