@@ -11061,5 +11061,51 @@
     "language": "TypeScript",
     "forks_count": 243,
     "open_issues_count": 1
+  },
+  {
+    "id": 1198616956,
+    "name": "OpenHarness",
+    "owner": {
+      "id": 118165258,
+      "url": "https://api.github.com/users/HKUDS",
+      "html_url": "https://github.com/HKUDS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+    },
+    "html_url": "https://github.com/HKUDS/OpenHarness",
+    "description": "\"OpenHarness: Open Agent Harness\"",
+    "created_at": "2026-04-01T15:37:13Z",
+    "updated_at": "2026-04-02T18:24:01Z",
+    "pushed_at": "2026-04-02T16:50:14Z",
+    "git_url": "git://github.com/HKUDS/OpenHarness.git",
+    "homepage": "",
+    "size": 9121,
+    "stargazers_count": 661,
+    "watchers_count": 661,
+    "language": "Python",
+    "forks_count": 102,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1198380451,
+    "name": "jot",
+    "owner": {
+      "id": 514052,
+      "url": "https://api.github.com/users/badlogic",
+      "html_url": "https://github.com/badlogic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/514052?v=4"
+    },
+    "html_url": "https://github.com/badlogic/jot",
+    "description": "Minimal self-hosted markdown editor with inline comment threads",
+    "created_at": "2026-04-01T11:21:35Z",
+    "updated_at": "2026-04-01T18:24:22Z",
+    "pushed_at": "2026-04-01T11:37:30Z",
+    "git_url": "git://github.com/badlogic/jot.git",
+    "homepage": null,
+    "size": 41,
+    "stargazers_count": 70,
+    "watchers_count": 70,
+    "language": "JavaScript",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
