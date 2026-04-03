@@ -11590,5 +11590,51 @@
     "language": "Go",
     "forks_count": 2,
     "open_issues_count": 4
+  },
+  {
+    "id": 1186423963,
+    "name": "whitelist-bypass",
+    "owner": {
+      "id": 19497634,
+      "url": "https://api.github.com/users/kulikov0",
+      "html_url": "https://github.com/kulikov0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19497634?v=4"
+    },
+    "html_url": "https://github.com/kulikov0/whitelist-bypass",
+    "description": null,
+    "created_at": "2026-03-19T15:58:14Z",
+    "updated_at": "2026-04-02T16:55:05Z",
+    "pushed_at": "2026-04-02T15:31:13Z",
+    "git_url": "git://github.com/kulikov0/whitelist-bypass.git",
+    "homepage": "https://t.me/markovdrankthechains",
+    "size": 358353,
+    "stargazers_count": 681,
+    "watchers_count": 681,
+    "language": "JavaScript",
+    "forks_count": 32,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1195161572,
+    "name": "Legend-Warzone-Undetected-2026",
+    "owner": {
+      "id": 270767318,
+      "url": "https://api.github.com/users/berfairy440",
+      "html_url": "https://github.com/berfairy440",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270767318?v=4"
+    },
+    "html_url": "https://github.com/berfairy440/Legend-Warzone-Undetected-2026",
+    "description": "Ultra-low latency Direct Memory Access (DMA) framework for Call of Duty: Warzone. Features hardware-isolated ESP, predictive aim-vectorization, and kernel-level memory synchronization for stealth researc. warzone hacks, warzone cheats, warzone aimbot, warzone esp, warzone wallhack, warzone no recoil, warzone triggerbot, warzone loot esp",
+    "created_at": "2026-03-29T10:05:38Z",
+    "updated_at": "2026-03-31T20:28:19Z",
+    "pushed_at": "2026-03-29T10:08:04Z",
+    "git_url": "git://github.com/berfairy440/Legend-Warzone-Undetected-2026.git",
+    "homepage": "",
+    "size": 6,
+    "stargazers_count": 74,
+    "watchers_count": 74,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
