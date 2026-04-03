@@ -11498,5 +11498,51 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1180015183,
+    "name": "gemini-skill",
+    "owner": {
+      "id": 110795301,
+      "url": "https://api.github.com/users/WJZ-P",
+      "html_url": "https://github.com/WJZ-P",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110795301?v=4"
+    },
+    "html_url": "https://github.com/WJZ-P/gemini-skill",
+    "description": "gemini drawing MCP & skill through browser, can be used in openclaw or any agent that supports MCP. Gemini画图 MCP和sill，支持龙虾或任何agent使用٩(๑>◡<๑)۶",
+    "created_at": "2026-03-12T16:01:19Z",
+    "updated_at": "2026-04-03T12:12:18Z",
+    "pushed_at": "2026-03-30T13:04:46Z",
+    "git_url": "git://github.com/WJZ-P/gemini-skill.git",
+    "homepage": "",
+    "size": 3131,
+    "stargazers_count": 658,
+    "watchers_count": 658,
+    "language": "JavaScript",
+    "forks_count": 103,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1198982020,
+    "name": "AutoHarness",
+    "owner": {
+      "id": 186755503,
+      "url": "https://api.github.com/users/aiming-lab",
+      "html_url": "https://github.com/aiming-lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/186755503?v=4"
+    },
+    "html_url": "https://github.com/aiming-lab/AutoHarness",
+    "description": "AutoHarness: Automated Harness Engineering for AI Agents",
+    "created_at": "2026-04-02T00:25:20Z",
+    "updated_at": "2026-04-02T17:53:40Z",
+    "pushed_at": "2026-04-02T03:49:53Z",
+    "git_url": "git://github.com/aiming-lab/AutoHarness.git",
+    "homepage": "",
+    "size": 14784,
+    "stargazers_count": 60,
+    "watchers_count": 60,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
