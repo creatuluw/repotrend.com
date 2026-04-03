@@ -10923,5 +10923,51 @@
     "language": "Go",
     "forks_count": 14,
     "open_issues_count": 1
+  },
+  {
+    "id": 1195238115,
+    "name": "claude-skill-aso-appstore-screenshots",
+    "owner": {
+      "id": 40189502,
+      "url": "https://api.github.com/users/adamlyttleapps",
+      "html_url": "https://github.com/adamlyttleapps",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40189502?v=4"
+    },
+    "html_url": "https://github.com/adamlyttleapps/claude-skill-aso-appstore-screenshots",
+    "description": null,
+    "created_at": "2026-03-29T12:20:23Z",
+    "updated_at": "2026-04-01T18:21:22Z",
+    "pushed_at": "2026-03-30T12:15:10Z",
+    "git_url": "git://github.com/adamlyttleapps/claude-skill-aso-appstore-screenshots.git",
+    "homepage": null,
+    "size": 43,
+    "stargazers_count": 661,
+    "watchers_count": 661,
+    "language": "Python",
+    "forks_count": 89,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1197434892,
+    "name": "claude-copy-code",
+    "owner": {
+      "id": 34409539,
+      "url": "https://api.github.com/users/jay6697117",
+      "html_url": "https://github.com/jay6697117",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34409539?v=4"
+    },
+    "html_url": "https://github.com/jay6697117/claude-copy-code",
+    "description": null,
+    "created_at": "2026-03-31T15:21:40Z",
+    "updated_at": "2026-04-02T09:05:16Z",
+    "pushed_at": "2026-04-01T02:36:31Z",
+    "git_url": "git://github.com/jay6697117/claude-copy-code.git",
+    "homepage": null,
+    "size": 10734,
+    "stargazers_count": 71,
+    "watchers_count": 71,
+    "language": "TypeScript",
+    "forks_count": 56,
+    "open_issues_count": 0
   }
 ]
