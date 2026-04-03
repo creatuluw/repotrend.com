@@ -11107,5 +11107,51 @@
     "language": "JavaScript",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1197598190,
+    "name": "claude-code-book",
+    "owner": {
+      "id": 129816813,
+      "url": "https://api.github.com/users/lintsinghua",
+      "html_url": "https://github.com/lintsinghua",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129816813?v=4"
+    },
+    "html_url": "https://github.com/lintsinghua/claude-code-book",
+    "description": "42万字拆解 AI Agent 的Harness骨架与神经 —— Claude Code 架构深度剖析，15 章从对话循环到构建你自己的 Agent Harness。在线阅读网站：",
+    "created_at": "2026-03-31T18:00:16Z",
+    "updated_at": "2026-04-01T18:03:45Z",
+    "pushed_at": "2026-04-01T11:10:32Z",
+    "git_url": "git://github.com/lintsinghua/claude-code-book.git",
+    "homepage": "https://lintsinghua.github.io",
+    "size": 541,
+    "stargazers_count": 932,
+    "watchers_count": 932,
+    "language": null,
+    "forks_count": 298,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1198158653,
+    "name": "claude-code-clean",
+    "owner": {
+      "id": 73766507,
+      "url": "https://api.github.com/users/IIIIQIIII",
+      "html_url": "https://github.com/IIIIQIIII",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73766507?v=4"
+    },
+    "html_url": "https://github.com/IIIIQIIII/claude-code-clean",
+    "description": "Privacy-focused fork of Claude Code with all telemetry and analytics removed",
+    "created_at": "2026-04-01T07:02:59Z",
+    "updated_at": "2026-04-03T06:05:26Z",
+    "pushed_at": "2026-04-02T07:17:19Z",
+    "git_url": "git://github.com/IIIIQIIII/claude-code-clean.git",
+    "homepage": null,
+    "size": 9505,
+    "stargazers_count": 71,
+    "watchers_count": 71,
+    "language": "TypeScript",
+    "forks_count": 13,
+    "open_issues_count": 0
   }
 ]
