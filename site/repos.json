@@ -10785,5 +10785,51 @@
     "language": "TypeScript",
     "forks_count": 117,
     "open_issues_count": 0
+  },
+  {
+    "id": 1187384370,
+    "name": "emulate",
+    "owner": {
+      "id": 108547162,
+      "url": "https://api.github.com/users/vercel-labs",
+      "html_url": "https://github.com/vercel-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+    },
+    "html_url": "https://github.com/vercel-labs/emulate",
+    "description": "Local API emulation for CI and no-network sandboxes",
+    "created_at": "2026-03-20T17:01:49Z",
+    "updated_at": "2026-04-01T17:45:56Z",
+    "pushed_at": "2026-04-01T00:35:36Z",
+    "git_url": "git://github.com/vercel-labs/emulate.git",
+    "homepage": "https://emulate.dev",
+    "size": 783,
+    "stargazers_count": 650,
+    "watchers_count": 650,
+    "language": "TypeScript",
+    "forks_count": 35,
+    "open_issues_count": 10
+  },
+  {
+    "id": 1197365276,
+    "name": "open-claude-code",
+    "owner": {
+      "id": 33031194,
+      "url": "https://api.github.com/users/xtherk",
+      "html_url": "https://github.com/xtherk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33031194?v=4"
+    },
+    "html_url": "https://github.com/xtherk/open-claude-code",
+    "description": "Recovered and build-fixed Claude Code 2.1.88 source from sourcemaps, maintained as a research and learning reference   by Codex.",
+    "created_at": "2026-03-31T14:23:07Z",
+    "updated_at": "2026-03-31T18:00:52Z",
+    "pushed_at": "2026-03-31T16:54:23Z",
+    "git_url": "git://github.com/xtherk/open-claude-code.git",
+    "homepage": null,
+    "size": 21483,
+    "stargazers_count": 77,
+    "watchers_count": 77,
+    "language": "TypeScript",
+    "forks_count": 68,
+    "open_issues_count": 2
   }
 ]
