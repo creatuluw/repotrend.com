@@ -11015,5 +11015,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1196897920,
+    "name": "see-through",
+    "owner": {
+      "id": 191569659,
+      "url": "https://api.github.com/users/shitagaki-lab",
+      "html_url": "https://github.com/shitagaki-lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/191569659?v=4"
+    },
+    "html_url": "https://github.com/shitagaki-lab/see-through",
+    "description": "\"Single-image Layer Decomposition for Anime Characters\" (SIGGRAPH 2026, Conditionally Accepted)",
+    "created_at": "2026-03-31T06:29:06Z",
+    "updated_at": "2026-04-01T18:24:55Z",
+    "pushed_at": "2026-03-31T15:00:20Z",
+    "git_url": "git://github.com/shitagaki-lab/see-through.git",
+    "homepage": "",
+    "size": 7135,
+    "stargazers_count": 938,
+    "watchers_count": 938,
+    "language": "Jupyter Notebook",
+    "forks_count": 88,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1197204146,
+    "name": "claude-code-recover-and-python-reset",
+    "owner": {
+      "id": 44664634,
+      "url": "https://api.github.com/users/go-hare",
+      "html_url": "https://github.com/go-hare",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44664634?v=4"
+    },
+    "html_url": "https://github.com/go-hare/claude-code-recover-and-python-reset",
+    "description": "claude-code-recover-and-python-reset",
+    "created_at": "2026-03-31T12:05:38Z",
+    "updated_at": "2026-04-01T14:38:20Z",
+    "pushed_at": "2026-04-01T08:27:07Z",
+    "git_url": "git://github.com/go-hare/claude-code-recover-and-python-reset.git",
+    "homepage": null,
+    "size": 22222,
+    "stargazers_count": 88,
+    "watchers_count": 88,
+    "language": "TypeScript",
+    "forks_count": 243,
+    "open_issues_count": 1
   }
 ]
