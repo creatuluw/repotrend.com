@@ -11659,5 +11659,51 @@
     "language": "Python",
     "forks_count": 33,
     "open_issues_count": 0
+  },
+  {
+    "id": 1195118351,
+    "name": "HitCC",
+    "owner": {
+      "id": 242794179,
+      "url": "https://api.github.com/users/hitmux",
+      "html_url": "https://github.com/hitmux",
+      "avatar_url": "https://avatars.githubusercontent.com/u/242794179?v=4"
+    },
+    "html_url": "https://github.com/hitmux/HitCC",
+    "description": "Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.84",
+    "created_at": "2026-03-29T08:44:09Z",
+    "updated_at": "2026-04-01T17:59:07Z",
+    "pushed_at": "2026-03-30T01:37:06Z",
+    "git_url": "git://github.com/hitmux/HitCC.git",
+    "homepage": "",
+    "size": 451,
+    "stargazers_count": 643,
+    "watchers_count": 643,
+    "language": "Python",
+    "forks_count": 230,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1195270700,
+    "name": "MCP-Trust-Kit",
+    "owner": {
+      "id": 61950261,
+      "url": "https://api.github.com/users/aak204",
+      "html_url": "https://github.com/aak204",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61950261?v=4"
+    },
+    "html_url": "https://github.com/aak204/MCP-Trust-Kit",
+    "description": "Deterministic CI scanner and surface-risk scoring for MCP (Model Context Protocol) servers.",
+    "created_at": "2026-03-29T13:12:33Z",
+    "updated_at": "2026-04-01T17:15:50Z",
+    "pushed_at": "2026-03-31T08:24:20Z",
+    "git_url": "git://github.com/aak204/MCP-Trust-Kit.git",
+    "homepage": "",
+    "size": 126,
+    "stargazers_count": 62,
+    "watchers_count": 62,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 1
   }
 ]
