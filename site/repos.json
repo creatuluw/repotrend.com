@@ -11153,5 +11153,51 @@
     "language": "TypeScript",
     "forks_count": 13,
     "open_issues_count": 0
+  },
+  {
+    "id": 1190903403,
+    "name": "hucre",
+    "owner": {
+      "id": 38668796,
+      "url": "https://api.github.com/users/productdevbook",
+      "html_url": "https://github.com/productdevbook",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38668796?v=4"
+    },
+    "html_url": "https://github.com/productdevbook/hucre",
+    "description": "Zero-dependency spreadsheet engine. Read & write XLSX, CSV, ODS. Pure TypeScript, works everywhere.",
+    "created_at": "2026-03-24T18:22:34Z",
+    "updated_at": "2026-04-03T05:55:01Z",
+    "pushed_at": "2026-03-27T16:00:47Z",
+    "git_url": "git://github.com/productdevbook/hucre.git",
+    "homepage": "https://hucre.productdevbook.com",
+    "size": 1237,
+    "stargazers_count": 721,
+    "watchers_count": 721,
+    "language": "TypeScript",
+    "forks_count": 9,
+    "open_issues_count": 10
+  },
+  {
+    "id": 1197530484,
+    "name": "open-claude",
+    "owner": {
+      "id": 7608485,
+      "url": "https://api.github.com/users/THtianhao",
+      "html_url": "https://github.com/THtianhao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7608485?v=4"
+    },
+    "html_url": "https://github.com/THtianhao/open-claude",
+    "description": null,
+    "created_at": "2026-03-31T16:51:44Z",
+    "updated_at": "2026-04-02T14:40:33Z",
+    "pushed_at": "2026-03-31T16:52:40Z",
+    "git_url": "git://github.com/THtianhao/open-claude.git",
+    "homepage": null,
+    "size": 9339,
+    "stargazers_count": 60,
+    "watchers_count": 60,
+    "language": "TypeScript",
+    "forks_count": 51,
+    "open_issues_count": 1
   }
 ]
