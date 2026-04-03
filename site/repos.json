@@ -11636,5 +11636,28 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1198192219,
+    "name": "vnstock-agent",
+    "owner": {
+      "id": 6857382,
+      "url": "https://api.github.com/users/mrgoonie",
+      "html_url": "https://github.com/mrgoonie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6857382?v=4"
+    },
+    "html_url": "https://github.com/mrgoonie/vnstock-agent",
+    "description": "MCP server and CLI for Vietnamese stock market data (vnstock)",
+    "created_at": "2026-04-01T07:40:51Z",
+    "updated_at": "2026-04-03T17:20:38Z",
+    "pushed_at": "2026-04-01T10:59:13Z",
+    "git_url": "git://github.com/mrgoonie/vnstock-agent.git",
+    "homepage": null,
+    "size": 58,
+    "stargazers_count": 78,
+    "watchers_count": 78,
+    "language": "Python",
+    "forks_count": 33,
+    "open_issues_count": 0
   }
 ]
