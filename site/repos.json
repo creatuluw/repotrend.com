@@ -10739,5 +10739,51 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1197055882,
+    "name": "ex-skill",
+    "owner": {
+      "id": 203367079,
+      "url": "https://api.github.com/users/therealXiaomanChu",
+      "html_url": "https://github.com/therealXiaomanChu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/203367079?v=4"
+    },
+    "html_url": "https://github.com/therealXiaomanChu/ex-skill",
+    "description": "把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. ",
+    "created_at": "2026-03-31T09:36:56Z",
+    "updated_at": "2026-04-01T18:24:33Z",
+    "pushed_at": "2026-03-31T10:15:06Z",
+    "git_url": "git://github.com/therealXiaomanChu/ex-skill.git",
+    "homepage": null,
+    "size": 62,
+    "stargazers_count": 788,
+    "watchers_count": 788,
+    "language": "Python",
+    "forks_count": 84,
+    "open_issues_count": 18
+  },
+  {
+    "id": 1197051118,
+    "name": "claude-code",
+    "owner": {
+      "id": 42193415,
+      "url": "https://api.github.com/users/isboyjc",
+      "html_url": "https://github.com/isboyjc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42193415?v=4"
+    },
+    "html_url": "https://github.com/isboyjc/claude-code",
+    "description": "从 @anthropic-ai/claude-code npm 包的 cli.js.map 中还原出的完整 TypeScript 源码，可一键本地编译运行。",
+    "created_at": "2026-03-31T09:31:36Z",
+    "updated_at": "2026-04-01T17:25:34Z",
+    "pushed_at": "2026-03-31T16:43:35Z",
+    "git_url": "git://github.com/isboyjc/claude-code.git",
+    "homepage": "",
+    "size": 9362,
+    "stargazers_count": 82,
+    "watchers_count": 82,
+    "language": "TypeScript",
+    "forks_count": 117,
+    "open_issues_count": 0
   }
 ]
