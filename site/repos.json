@@ -11291,5 +11291,51 @@
     "language": null,
     "forks_count": 18,
     "open_issues_count": 0
+  },
+  {
+    "id": 1175778477,
+    "name": "F1ReplayTiming",
+    "owner": {
+      "id": 221707364,
+      "url": "https://api.github.com/users/adn8naiagent",
+      "html_url": "https://github.com/adn8naiagent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221707364?v=4"
+    },
+    "html_url": "https://github.com/adn8naiagent/F1ReplayTiming",
+    "description": "Visualisation of real-time track data and telemetry synced to F1 replays.",
+    "created_at": "2026-03-08T06:38:47Z",
+    "updated_at": "2026-04-03T11:31:40Z",
+    "pushed_at": "2026-03-31T07:23:43Z",
+    "git_url": "git://github.com/adn8naiagent/F1ReplayTiming.git",
+    "homepage": "",
+    "size": 1051,
+    "stargazers_count": 642,
+    "watchers_count": 642,
+    "language": "TypeScript",
+    "forks_count": 37,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1197727671,
+    "name": "hermes-hud",
+    "owner": {
+      "id": 17919866,
+      "url": "https://api.github.com/users/joeynyc",
+      "html_url": "https://github.com/joeynyc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17919866?v=4"
+    },
+    "html_url": "https://github.com/joeynyc/hermes-hud",
+    "description": "TUI consciousness monitor for Hermes",
+    "created_at": "2026-03-31T20:40:56Z",
+    "updated_at": "2026-04-02T14:35:23Z",
+    "pushed_at": "2026-04-01T19:50:30Z",
+    "git_url": "git://github.com/joeynyc/hermes-hud.git",
+    "homepage": null,
+    "size": 272,
+    "stargazers_count": 55,
+    "watchers_count": 55,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 2
   }
 ]
