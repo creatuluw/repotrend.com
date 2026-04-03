@@ -11199,5 +11199,51 @@
     "language": "TypeScript",
     "forks_count": 51,
     "open_issues_count": 1
+  },
+  {
+    "id": 1197656055,
+    "name": "claude-code",
+    "owner": {
+      "id": 170727401,
+      "url": "https://api.github.com/users/yasasbanukaofficial",
+      "html_url": "https://github.com/yasasbanukaofficial",
+      "avatar_url": "https://avatars.githubusercontent.com/u/170727401?v=4"
+    },
+    "html_url": "https://github.com/yasasbanukaofficial/claude-code",
+    "description": "🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. ",
+    "created_at": "2026-03-31T19:07:10Z",
+    "updated_at": "2026-04-02T18:16:54Z",
+    "pushed_at": "2026-04-02T02:45:20Z",
+    "git_url": "git://github.com/yasasbanukaofficial/claude-code.git",
+    "homepage": "https://github.com/yasasbanukaofficial/claude-code",
+    "size": 9839,
+    "stargazers_count": 790,
+    "watchers_count": 790,
+    "language": "TypeScript",
+    "forks_count": 1581,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1197229522,
+    "name": "claude-code-main",
+    "owner": {
+      "id": 46962225,
+      "url": "https://api.github.com/users/somethingforheheda",
+      "html_url": "https://github.com/somethingforheheda",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46962225?v=4"
+    },
+    "html_url": "https://github.com/somethingforheheda/claude-code-main",
+    "description": null,
+    "created_at": "2026-03-31T12:28:03Z",
+    "updated_at": "2026-04-02T00:51:31Z",
+    "pushed_at": "2026-03-31T13:45:49Z",
+    "git_url": "git://github.com/somethingforheheda/claude-code-main.git",
+    "homepage": null,
+    "size": 9392,
+    "stargazers_count": 81,
+    "watchers_count": 81,
+    "language": "TypeScript",
+    "forks_count": 178,
+    "open_issues_count": 1
   }
 ]
