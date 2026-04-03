@@ -11544,5 +11544,51 @@
     "language": "Python",
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1197667318,
+    "name": "claude-code-analysis",
+    "owner": {
+      "id": 46253793,
+      "url": "https://api.github.com/users/liuup",
+      "html_url": "https://github.com/liuup",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46253793?v=4"
+    },
+    "html_url": "https://github.com/liuup/claude-code-analysis",
+    "description": "🤖 The analysis of Claude Code",
+    "created_at": "2026-03-31T19:21:23Z",
+    "updated_at": "2026-04-03T11:55:56Z",
+    "pushed_at": "2026-04-02T00:39:09Z",
+    "git_url": "git://github.com/liuup/claude-code-analysis.git",
+    "homepage": "",
+    "size": 18984,
+    "stargazers_count": 757,
+    "watchers_count": 757,
+    "language": "TypeScript",
+    "forks_count": 790,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1198225369,
+    "name": "sheets",
+    "owner": {
+      "id": 42545625,
+      "url": "https://api.github.com/users/maaslalani",
+      "html_url": "https://github.com/maaslalani",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42545625?v=4"
+    },
+    "html_url": "https://github.com/maaslalani/sheets",
+    "description": "Terminal based spreadsheet tool",
+    "created_at": "2026-04-01T08:20:07Z",
+    "updated_at": "2026-04-02T18:23:56Z",
+    "pushed_at": "2026-04-02T13:44:24Z",
+    "git_url": "git://github.com/maaslalani/sheets.git",
+    "homepage": null,
+    "size": 591,
+    "stargazers_count": 98,
+    "watchers_count": 98,
+    "language": "Go",
+    "forks_count": 2,
+    "open_issues_count": 4
   }
 ]
