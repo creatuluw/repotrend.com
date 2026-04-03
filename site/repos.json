@@ -10831,5 +10831,51 @@
     "language": "TypeScript",
     "forks_count": 68,
     "open_issues_count": 2
+  },
+  {
+    "id": 1174888135,
+    "name": "doom-over-dns",
+    "owner": {
+      "id": 59885515,
+      "url": "https://api.github.com/users/resumex",
+      "html_url": "https://github.com/resumex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59885515?v=4"
+    },
+    "html_url": "https://github.com/resumex/doom-over-dns",
+    "description": "Play Doom entirely from DNS records. (PowerShell 7+)",
+    "created_at": "2026-03-07T00:31:19Z",
+    "updated_at": "2026-04-02T21:10:42Z",
+    "pushed_at": "2026-04-01T03:54:59Z",
+    "git_url": "git://github.com/resumex/doom-over-dns.git",
+    "homepage": "",
+    "size": 618,
+    "stargazers_count": 640,
+    "watchers_count": 640,
+    "language": "C#",
+    "forks_count": 30,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1195850243,
+    "name": "jalnetra-sih",
+    "owner": {
+      "id": 191864379,
+      "url": "https://api.github.com/users/Prijitha7",
+      "html_url": "https://github.com/Prijitha7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/191864379?v=4"
+    },
+    "html_url": "https://github.com/Prijitha7/jalnetra-sih",
+    "description": null,
+    "created_at": "2026-03-30T05:58:04Z",
+    "updated_at": "2026-03-31T08:51:27Z",
+    "pushed_at": "2026-03-30T06:04:22Z",
+    "git_url": "git://github.com/Prijitha7/jalnetra-sih.git",
+    "homepage": null,
+    "size": 881,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "Dart",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
