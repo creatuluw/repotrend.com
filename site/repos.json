@@ -12004,5 +12004,28 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1196713935,
+    "name": "trx",
+    "owner": {
+      "id": 120886289,
+      "url": "https://api.github.com/users/crafter-station",
+      "html_url": "https://github.com/crafter-station",
+      "avatar_url": "https://avatars.githubusercontent.com/u/120886289?v=4"
+    },
+    "html_url": "https://github.com/crafter-station/trx",
+    "description": "Agent-first CLI for audio/video transcription via Whisper",
+    "created_at": "2026-03-31T01:07:12Z",
+    "updated_at": "2026-04-03T10:41:25Z",
+    "pushed_at": "2026-04-01T02:53:04Z",
+    "git_url": "git://github.com/crafter-station/trx.git",
+    "homepage": "https://trx.crafter.run",
+    "size": 367,
+    "stargazers_count": 72,
+    "watchers_count": 72,
+    "language": "TypeScript",
+    "forks_count": 13,
+    "open_issues_count": 2
   }
 ]
