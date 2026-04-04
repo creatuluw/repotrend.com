@@ -12625,5 +12625,28 @@
     "language": "TypeScript",
     "forks_count": 16,
     "open_issues_count": 0
+  },
+  {
+    "id": 1197215683,
+    "name": "fincrew",
+    "owner": {
+      "id": 257472586,
+      "url": "https://api.github.com/users/tanmingtao1994-gif",
+      "html_url": "https://github.com/tanmingtao1994-gif",
+      "avatar_url": "https://avatars.githubusercontent.com/u/257472586?v=4"
+    },
+    "html_url": "https://github.com/tanmingtao1994-gif/fincrew",
+    "description": "A self-evolving multi-agent financial assistant powered by OpenClaw",
+    "created_at": "2026-03-31T12:15:54Z",
+    "updated_at": "2026-04-03T17:31:50Z",
+    "pushed_at": "2026-04-01T16:12:27Z",
+    "git_url": "git://github.com/tanmingtao1994-gif/fincrew.git",
+    "homepage": null,
+    "size": 1653,
+    "stargazers_count": 72,
+    "watchers_count": 72,
+    "language": "TypeScript",
+    "forks_count": 13,
+    "open_issues_count": 0
   }
 ]
