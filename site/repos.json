@@ -11866,5 +11866,51 @@
     "language": "Shell",
     "forks_count": 6,
     "open_issues_count": 0
+  },
+  {
+    "id": 1197262207,
+    "name": "claude-code",
+    "owner": {
+      "id": 130897584,
+      "url": "https://api.github.com/users/codeaashu",
+      "html_url": "https://github.com/codeaashu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130897584?v=4"
+    },
+    "html_url": "https://github.com/codeaashu/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "created_at": "2026-03-31T12:56:05Z",
+    "updated_at": "2026-04-02T18:17:52Z",
+    "pushed_at": "2026-04-02T10:14:21Z",
+    "git_url": "git://github.com/codeaashu/claude-code.git",
+    "homepage": "",
+    "size": 10540,
+    "stargazers_count": 953,
+    "watchers_count": 953,
+    "language": "TypeScript",
+    "forks_count": 1648,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1197252744,
+    "name": "claude-code-instructkr",
+    "owner": {
+      "id": 220659476,
+      "url": "https://api.github.com/users/chensunlai",
+      "html_url": "https://github.com/chensunlai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/220659476?v=4"
+    },
+    "html_url": "https://github.com/chensunlai/claude-code-instructkr",
+    "description": "An independent Python feature port of Claude Code, entirely rewritting from scratch using oh-my-codex. Educational Purpose only.",
+    "created_at": "2026-03-31T12:47:59Z",
+    "updated_at": "2026-04-03T17:54:16Z",
+    "pushed_at": "2026-03-31T12:38:53Z",
+    "git_url": "git://github.com/chensunlai/claude-code-instructkr.git",
+    "homepage": "https://x.com/Fried_rice/status/2038894956459290963?s=20",
+    "size": 9337,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": null,
+    "forks_count": 99,
+    "open_issues_count": 0
   }
 ]
