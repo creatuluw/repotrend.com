@@ -12441,5 +12441,51 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1197198701,
+    "name": "OmniVoice",
+    "owner": {
+      "id": 71431748,
+      "url": "https://api.github.com/users/k2-fsa",
+      "html_url": "https://github.com/k2-fsa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71431748?v=4"
+    },
+    "html_url": "https://github.com/k2-fsa/OmniVoice",
+    "description": "High-Quality Voice Cloning TTS for 600+ Languages",
+    "created_at": "2026-03-31T12:00:45Z",
+    "updated_at": "2026-04-03T18:16:48Z",
+    "pushed_at": "2026-04-03T12:02:19Z",
+    "git_url": "git://github.com/k2-fsa/OmniVoice.git",
+    "homepage": "",
+    "size": 1200,
+    "stargazers_count": 853,
+    "watchers_count": 853,
+    "language": "Python",
+    "forks_count": 148,
+    "open_issues_count": 14
+  },
+  {
+    "id": 1198401948,
+    "name": "BNB-Bundler-Bot",
+    "owner": {
+      "id": 272802185,
+      "url": "https://api.github.com/users/QuantyraLab",
+      "html_url": "https://github.com/QuantyraLab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272802185?v=4"
+    },
+    "html_url": "https://github.com/QuantyraLab/BNB-Bundler-Bot",
+    "description": "bnb bundler bot bnb bundler bot bnb bundler bot bnb bundler bot bnb bundler bot bnb bundler bot bnb bundler bot bnb bundler bot bnb bundler bot bnb bundler bot bnb bundler bot bnb bundler bot bnb bundler bot bnb bundler bot bnb bundler bot bnb bundler bot bnb bundler bot bnb bundler bot bnb bundler bot bnb bundler bot bnb bundler bot bnb bundler bo",
+    "created_at": "2026-04-01T11:47:53Z",
+    "updated_at": "2026-04-04T11:53:36Z",
+    "pushed_at": "2026-04-01T11:47:54Z",
+    "git_url": "git://github.com/QuantyraLab/BNB-Bundler-Bot.git",
+    "homepage": "",
+    "size": 14,
+    "stargazers_count": 74,
+    "watchers_count": 74,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
