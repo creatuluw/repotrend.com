@@ -12073,5 +12073,51 @@
     "language": "Python",
     "forks_count": 21,
     "open_issues_count": 1
+  },
+  {
+    "id": 1187945122,
+    "name": "ppt-agent",
+    "owner": {
+      "id": 126878617,
+      "url": "https://api.github.com/users/zengwenliang416",
+      "html_url": "https://github.com/zengwenliang416",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126878617?v=4"
+    },
+    "html_url": "https://github.com/zengwenliang416/ppt-agent",
+    "description": null,
+    "created_at": "2026-03-21T12:06:00Z",
+    "updated_at": "2026-04-04T05:59:54Z",
+    "pushed_at": "2026-03-26T03:46:36Z",
+    "git_url": "git://github.com/zengwenliang416/ppt-agent.git",
+    "homepage": null,
+    "size": 28723,
+    "stargazers_count": 656,
+    "watchers_count": 656,
+    "language": "HTML",
+    "forks_count": 84,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1198821070,
+    "name": "agentic-harness-patterns-skill",
+    "owner": {
+      "id": 103916249,
+      "url": "https://api.github.com/users/keli-wen",
+      "html_url": "https://github.com/keli-wen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103916249?v=4"
+    },
+    "html_url": "https://github.com/keli-wen/agentic-harness-patterns-skill",
+    "description": "Agent skill for harness engineering — memory, permissions, context engineering, multi-agent coordination. Distilled from Claude Code, with Codex CLI and Gemini CLI on the roadmap. EN/ZH. Install via npx skills add.",
+    "created_at": "2026-04-01T19:42:58Z",
+    "updated_at": "2026-04-02T17:51:08Z",
+    "pushed_at": "2026-04-02T16:04:42Z",
+    "git_url": "git://github.com/keli-wen/agentic-harness-patterns-skill.git",
+    "homepage": "",
+    "size": 3865,
+    "stargazers_count": 55,
+    "watchers_count": 55,
+    "language": null,
+    "forks_count": 17,
+    "open_issues_count": 0
   }
 ]
