@@ -12027,5 +12027,51 @@
     "language": "TypeScript",
     "forks_count": 13,
     "open_issues_count": 2
+  },
+  {
+    "id": 1195329660,
+    "name": "tradingview-mcp",
+    "owner": {
+      "id": 196674484,
+      "url": "https://api.github.com/users/tradesdontlie",
+      "html_url": "https://github.com/tradesdontlie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196674484?v=4"
+    },
+    "html_url": "https://github.com/tradesdontlie/tradingview-mcp",
+    "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+    "created_at": "2026-03-29T14:39:25Z",
+    "updated_at": "2026-04-04T00:37:46Z",
+    "pushed_at": "2026-04-04T00:27:04Z",
+    "git_url": "git://github.com/tradesdontlie/tradingview-mcp.git",
+    "homepage": null,
+    "size": 192,
+    "stargazers_count": 793,
+    "watchers_count": 793,
+    "language": "JavaScript",
+    "forks_count": 284,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1199751631,
+    "name": "Ombre-Brain",
+    "owner": {
+      "id": 238407182,
+      "url": "https://api.github.com/users/P0lar1zzZ",
+      "html_url": "https://github.com/P0lar1zzZ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/238407182?v=4"
+    },
+    "html_url": "https://github.com/P0lar1zzZ/Ombre-Brain",
+    "description": "For Claude.",
+    "created_at": "2026-04-02T17:09:28Z",
+    "updated_at": "2026-04-03T20:26:36Z",
+    "pushed_at": "2026-04-03T07:55:49Z",
+    "git_url": "git://github.com/P0lar1zzZ/Ombre-Brain.git",
+    "homepage": "",
+    "size": 55,
+    "stargazers_count": 60,
+    "watchers_count": 60,
+    "language": "Python",
+    "forks_count": 21,
+    "open_issues_count": 1
   }
 ]
