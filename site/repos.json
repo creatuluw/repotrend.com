@@ -12119,5 +12119,74 @@
     "language": null,
     "forks_count": 17,
     "open_issues_count": 0
+  },
+  {
+    "id": 1198246700,
+    "name": "emdash",
+    "owner": {
+      "id": 272658707,
+      "url": "https://api.github.com/users/emdash-cms",
+      "html_url": "https://github.com/emdash-cms",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272658707?v=4"
+    },
+    "html_url": "https://github.com/emdash-cms/emdash",
+    "description": "EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress",
+    "created_at": "2026-04-01T08:45:02Z",
+    "updated_at": "2026-04-04T06:25:59Z",
+    "pushed_at": "2026-04-04T05:28:18Z",
+    "git_url": "git://github.com/emdash-cms/emdash.git",
+    "homepage": "https://emdashcms.com",
+    "size": 9715,
+    "stargazers_count": 6372,
+    "watchers_count": 6372,
+    "language": "TypeScript",
+    "forks_count": 445,
+    "open_issues_count": 129
+  },
+  {
+    "id": 1188421161,
+    "name": "openilink-hub",
+    "owner": {
+      "id": 270050004,
+      "url": "https://api.github.com/users/openilink",
+      "html_url": "https://github.com/openilink",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270050004?v=4"
+    },
+    "html_url": "https://github.com/openilink/openilink-hub",
+    "description": "开源微信 Bot 管理平台 + App 应用市场 | Self-hosted WeChat Bot Platform with App Marketplace | Lark · Slack · Discord · DingTalk · GitHub · Notion · 20+ Apps | AI Tools | 7 Language SDKs",
+    "created_at": "2026-03-22T03:39:57Z",
+    "updated_at": "2026-04-03T18:17:13Z",
+    "pushed_at": "2026-04-03T17:30:31Z",
+    "git_url": "git://github.com/openilink/openilink-hub.git",
+    "homepage": "https://openilink.com",
+    "size": 2299,
+    "stargazers_count": 758,
+    "watchers_count": 758,
+    "language": "Go",
+    "forks_count": 50,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1197643531,
+    "name": "Lossless-Scaling-Input-FPS",
+    "owner": {
+      "id": 268557001,
+      "url": "https://api.github.com/users/mrsmiley2008",
+      "html_url": "https://github.com/mrsmiley2008",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268557001?v=4"
+    },
+    "html_url": "https://github.com/mrsmiley2008/Lossless-Scaling-Input-FPS",
+    "description": "Lossless Scaling is a PC utility that enhances image quality and frame rates in games using upscaling and frame generation algorithms",
+    "created_at": "2026-03-31T18:52:04Z",
+    "updated_at": "2026-04-01T18:09:49Z",
+    "pushed_at": "2026-03-31T18:53:03Z",
+    "git_url": "git://github.com/mrsmiley2008/Lossless-Scaling-Input-FPS.git",
+    "homepage": "",
+    "size": 3,
+    "stargazers_count": 75,
+    "watchers_count": 75,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
