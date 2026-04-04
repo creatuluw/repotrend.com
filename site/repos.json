@@ -11820,5 +11820,51 @@
     "language": "Python",
     "forks_count": 9,
     "open_issues_count": 6
+  },
+  {
+    "id": 1181176553,
+    "name": "radiant",
+    "owner": {
+      "id": 43004,
+      "url": "https://api.github.com/users/pbakaus",
+      "html_url": "https://github.com/pbakaus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43004?v=4"
+    },
+    "html_url": "https://github.com/pbakaus/radiant",
+    "description": "A curated collection of generative shader art",
+    "created_at": "2026-03-13T20:43:53Z",
+    "updated_at": "2026-04-03T17:16:58Z",
+    "pushed_at": "2026-03-22T02:25:46Z",
+    "git_url": "git://github.com/pbakaus/radiant.git",
+    "homepage": "https://radiant-shaders.com",
+    "size": 25023,
+    "stargazers_count": 635,
+    "watchers_count": 635,
+    "language": "HTML",
+    "forks_count": 54,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1199915455,
+    "name": "openclaw-ops",
+    "owner": {
+      "id": 50469282,
+      "url": "https://api.github.com/users/cathrynlavery",
+      "html_url": "https://github.com/cathrynlavery",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50469282?v=4"
+    },
+    "html_url": "https://github.com/cathrynlavery/openclaw-ops",
+    "description": "OpenClaw operations skill with health checks, repair scripts, watchdogs, update triage, and security scans.",
+    "created_at": "2026-04-02T20:59:59Z",
+    "updated_at": "2026-04-03T23:22:21Z",
+    "pushed_at": "2026-04-02T21:28:25Z",
+    "git_url": "git://github.com/cathrynlavery/openclaw-ops.git",
+    "homepage": null,
+    "size": 60,
+    "stargazers_count": 96,
+    "watchers_count": 96,
+    "language": "Shell",
+    "forks_count": 6,
+    "open_issues_count": 0
   }
 ]
