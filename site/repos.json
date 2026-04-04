@@ -11958,5 +11958,51 @@
     "language": "TypeScript",
     "forks_count": 14,
     "open_issues_count": 0
+  },
+  {
+    "id": 1198074335,
+    "name": "nothing-design-skill",
+    "owner": {
+      "id": 4389660,
+      "url": "https://api.github.com/users/dominikmartn",
+      "html_url": "https://github.com/dominikmartn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4389660?v=4"
+    },
+    "html_url": "https://github.com/dominikmartn/nothing-design-skill",
+    "description": "A Claude Code skill for generating UI in the Nothing design language. Monochrome, typographic, industrial.",
+    "created_at": "2026-04-01T05:18:24Z",
+    "updated_at": "2026-04-02T18:22:42Z",
+    "pushed_at": "2026-04-01T05:40:04Z",
+    "git_url": "git://github.com/dominikmartn/nothing-design-skill.git",
+    "homepage": null,
+    "size": 1682,
+    "stargazers_count": 853,
+    "watchers_count": 853,
+    "language": null,
+    "forks_count": 64,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1199870341,
+    "name": "github-optimization-skill",
+    "owner": {
+      "id": 174746481,
+      "url": "https://api.github.com/users/199-biotechnologies",
+      "html_url": "https://github.com/199-biotechnologies",
+      "avatar_url": "https://avatars.githubusercontent.com/u/174746481?v=4"
+    },
+    "html_url": "https://github.com/199-biotechnologies/github-optimization-skill",
+    "description": "Turn any GitHub repo into a star-magnet landing page. Claude Code skill for README optimization, SEO, and repo marketing.",
+    "created_at": "2026-04-02T19:49:23Z",
+    "updated_at": "2026-04-03T07:59:14Z",
+    "pushed_at": "2026-04-02T23:55:33Z",
+    "git_url": "git://github.com/199-biotechnologies/github-optimization-skill.git",
+    "homepage": null,
+    "size": 19,
+    "stargazers_count": 73,
+    "watchers_count": 73,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
