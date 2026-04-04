@@ -12234,5 +12234,28 @@
     "language": "TypeScript",
     "forks_count": 103,
     "open_issues_count": 1
+  },
+  {
+    "id": 1198625298,
+    "name": "the-dev-squad",
+    "owner": {
+      "id": 256040349,
+      "url": "https://api.github.com/users/johnkf5-ops",
+      "html_url": "https://github.com/johnkf5-ops",
+      "avatar_url": "https://avatars.githubusercontent.com/u/256040349?v=4"
+    },
+    "html_url": "https://github.com/johnkf5-ops/the-dev-squad",
+    "description": "Give Claude its own dev team: one supervisor, four specialists, and bulletproof plans/builds without losing context.",
+    "created_at": "2026-04-01T15:46:31Z",
+    "updated_at": "2026-04-04T06:04:41Z",
+    "pushed_at": "2026-04-02T20:07:37Z",
+    "git_url": "git://github.com/johnkf5-ops/the-dev-squad.git",
+    "homepage": "https://github.com/johnkf5-ops/the-dev-squad",
+    "size": 15216,
+    "stargazers_count": 91,
+    "watchers_count": 91,
+    "language": "TypeScript",
+    "forks_count": 29,
+    "open_issues_count": 1
   }
 ]
