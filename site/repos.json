@@ -12487,5 +12487,28 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1199185047,
+    "name": "virtuoso-bridge-lite",
+    "owner": {
+      "id": 29194544,
+      "url": "https://api.github.com/users/Arcadia-1",
+      "html_url": "https://github.com/Arcadia-1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29194544?v=4"
+    },
+    "html_url": "https://github.com/Arcadia-1/virtuoso-bridge-lite",
+    "description": "Lightweight Python bridge for Cadence Virtuoso — SKILL execution, layout/schematic editing, Spectre simulation",
+    "created_at": "2026-04-02T05:48:59Z",
+    "updated_at": "2026-04-04T12:08:12Z",
+    "pushed_at": "2026-04-04T12:08:09Z",
+    "git_url": "git://github.com/Arcadia-1/virtuoso-bridge-lite.git",
+    "homepage": "https://virtuoso-bridge.tokenzhang.com/",
+    "size": 7066,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": "TeX",
+    "forks_count": 22,
+    "open_issues_count": 0
   }
 ]
