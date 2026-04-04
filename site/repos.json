@@ -12395,5 +12395,28 @@
     "language": "Python",
     "forks_count": 15,
     "open_issues_count": 2
+  },
+  {
+    "id": 1199316080,
+    "name": "the-go-engineer",
+    "owner": {
+      "id": 116421413,
+      "url": "https://api.github.com/users/rasel9t6",
+      "html_url": "https://github.com/rasel9t6",
+      "avatar_url": "https://avatars.githubusercontent.com/u/116421413?v=4"
+    },
+    "html_url": "https://github.com/rasel9t6/the-go-engineer",
+    "description": "Learn Go by Building Real Projects",
+    "created_at": "2026-04-02T08:28:49Z",
+    "updated_at": "2026-04-04T11:12:13Z",
+    "pushed_at": "2026-04-04T11:12:42Z",
+    "git_url": "git://github.com/rasel9t6/the-go-engineer.git",
+    "homepage": "https://www.linkedin.com/in/rasel-9t6/",
+    "size": 485,
+    "stargazers_count": 67,
+    "watchers_count": 67,
+    "language": "Go",
+    "forks_count": 15,
+    "open_issues_count": 2
   }
 ]
