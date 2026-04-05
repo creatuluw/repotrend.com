@@ -13292,5 +13292,28 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1196997718,
+    "name": "Skeet.cc-CS2-Internal-2026",
+    "owner": {
+      "id": 271846431,
+      "url": "https://api.github.com/users/cjiohukpsychonker",
+      "html_url": "https://github.com/cjiohukpsychonker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271846431?v=4"
+    },
+    "html_url": "https://github.com/cjiohukpsychonker/Skeet.cc-CS2-Internal-2026",
+    "description": "Skeet-CS2 (2026) — The most sophisticated internal framework for CS2. Featuring low-latency ESP rendering, advanced hitscan telemetry, and a legendary UI. Experience the gold standard of game analytics and visual modification.",
+    "created_at": "2026-03-31T08:31:23Z",
+    "updated_at": "2026-04-02T19:19:47Z",
+    "pushed_at": "2026-03-31T08:34:05Z",
+    "git_url": "git://github.com/cjiohukpsychonker/Skeet.cc-CS2-Internal-2026.git",
+    "homepage": "",
+    "size": 6,
+    "stargazers_count": 71,
+    "watchers_count": 71,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 1
   }
 ]
