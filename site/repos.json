@@ -13039,5 +13039,28 @@
     "language": "Python",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1197978818,
+    "name": "background-remover-studio",
+    "owner": {
+      "id": 123201851,
+      "url": "https://api.github.com/users/sabnck",
+      "html_url": "https://github.com/sabnck",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123201851?v=4"
+    },
+    "html_url": "https://github.com/sabnck/background-remover-studio",
+    "description": "Free, local and privacy-first background remover for Windows. Desktop app built with Python + rembg. No uploads, no account, no limits.",
+    "created_at": "2026-04-01T02:59:10Z",
+    "updated_at": "2026-04-04T14:38:22Z",
+    "pushed_at": "2026-04-04T14:46:27Z",
+    "git_url": "git://github.com/sabnck/background-remover-studio.git",
+    "homepage": null,
+    "size": 9884,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": "Python",
+    "forks_count": 8,
+    "open_issues_count": 1
   }
 ]
