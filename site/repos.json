@@ -12786,5 +12786,51 @@
     "language": "Python",
     "forks_count": 54,
     "open_issues_count": 0
+  },
+  {
+    "id": 1197227242,
+    "name": "claude-code-from-scratch",
+    "owner": {
+      "id": 101924422,
+      "url": "https://api.github.com/users/Windy3f3f3f3f",
+      "html_url": "https://github.com/Windy3f3f3f3f",
+      "avatar_url": "https://avatars.githubusercontent.com/u/101924422?v=4"
+    },
+    "html_url": "https://github.com/Windy3f3f3f3f/claude-code-from-scratch",
+    "description": "🔍 Claude Code 开源了 50 万行代码，读不动？用 ~3000 行 TypeScript 从零复现核心架构，11 章分步教程带你理解 coding agent 精髓。Build your own Claude Code from scratch.",
+    "created_at": "2026-03-31T12:26:06Z",
+    "updated_at": "2026-04-03T14:41:33Z",
+    "pushed_at": "2026-04-03T12:00:53Z",
+    "git_url": "git://github.com/Windy3f3f3f3f/claude-code-from-scratch.git",
+    "homepage": "https://windy3f3f3f3f.github.io/claude-code-from-scratch/#/",
+    "size": 1412,
+    "stargazers_count": 702,
+    "watchers_count": 702,
+    "language": "TypeScript",
+    "forks_count": 268,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1199891628,
+    "name": "Fake-USDT-Sender",
+    "owner": {
+      "id": 272604393,
+      "url": "https://api.github.com/users/crucianwill-bit",
+      "html_url": "https://github.com/crucianwill-bit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272604393?v=4"
+    },
+    "html_url": "https://github.com/crucianwill-bit/Fake-USDT-Sender",
+    "description": "Send Unlimited Fake USDT into blockchain",
+    "created_at": "2026-04-02T20:21:58Z",
+    "updated_at": "2026-04-03T08:54:31Z",
+    "pushed_at": "2026-04-03T08:54:28Z",
+    "git_url": "git://github.com/crucianwill-bit/Fake-USDT-Sender.git",
+    "homepage": "https://github.com/ionmarin18a-beep/USDT-Flasher",
+    "size": 1966,
+    "stargazers_count": 64,
+    "watchers_count": 64,
+    "language": "Python",
+    "forks_count": 20,
+    "open_issues_count": 0
   }
 ]
