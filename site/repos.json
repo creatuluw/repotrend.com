@@ -13016,5 +13016,28 @@
     "language": "Python",
     "forks_count": 18,
     "open_issues_count": 3
+  },
+  {
+    "id": 1197513409,
+    "name": "forgetting-aware-vlm",
+    "owner": {
+      "id": 20144308,
+      "url": "https://api.github.com/users/ZhihaoZhu",
+      "html_url": "https://github.com/ZhihaoZhu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20144308?v=4"
+    },
+    "html_url": "https://github.com/ZhihaoZhu/forgetting-aware-vlm",
+    "description": "Forgetting-Aware Curriculum for VLM Self-Evolution — adversarial difficulty scheduling with forgetting detection across 6 VQA skill clusters",
+    "created_at": "2026-03-31T16:35:18Z",
+    "updated_at": "2026-04-03T18:18:37Z",
+    "pushed_at": "2026-04-01T07:17:56Z",
+    "git_url": "git://github.com/ZhihaoZhu/forgetting-aware-vlm.git",
+    "homepage": null,
+    "size": 24,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
