@@ -12740,5 +12740,51 @@
     "language": "Python",
     "forks_count": 11,
     "open_issues_count": 0
+  },
+  {
+    "id": 1180551906,
+    "name": "OpenBrand",
+    "owner": {
+      "id": 3280308,
+      "url": "https://api.github.com/users/ethanjyx",
+      "html_url": "https://github.com/ethanjyx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3280308?v=4"
+    },
+    "html_url": "https://github.com/ethanjyx/OpenBrand",
+    "description": "Extract brand assets (logos, colors, backdrops) from any website; open source alternative to Brand.dev",
+    "created_at": "2026-03-13T06:43:44Z",
+    "updated_at": "2026-04-04T16:39:42Z",
+    "pushed_at": "2026-03-27T17:02:27Z",
+    "git_url": "git://github.com/ethanjyx/OpenBrand.git",
+    "homepage": "https://openbrand.sh",
+    "size": 21417,
+    "stargazers_count": 644,
+    "watchers_count": 644,
+    "language": "TypeScript",
+    "forks_count": 56,
+    "open_issues_count": 10
+  },
+  {
+    "id": 1197176893,
+    "name": "TraeOfflineRAG",
+    "owner": {
+      "id": 271413023,
+      "url": "https://api.github.com/users/xuanhuaz1022",
+      "html_url": "https://github.com/xuanhuaz1022",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271413023?v=4"
+    },
+    "html_url": "https://github.com/xuanhuaz1022/TraeOfflineRAG",
+    "description": null,
+    "created_at": "2026-03-31T11:41:22Z",
+    "updated_at": "2026-04-02T18:09:00Z",
+    "pushed_at": "2026-03-31T12:21:01Z",
+    "git_url": "git://github.com/xuanhuaz1022/TraeOfflineRAG.git",
+    "homepage": null,
+    "size": 33,
+    "stargazers_count": 80,
+    "watchers_count": 80,
+    "language": "Python",
+    "forks_count": 54,
+    "open_issues_count": 0
   }
 ]
