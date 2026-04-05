@@ -12694,5 +12694,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 2
+  },
+  {
+    "id": 1197308263,
+    "name": "ex-skill",
+    "owner": {
+      "id": 85022018,
+      "url": "https://api.github.com/users/titanwings",
+      "html_url": "https://github.com/titanwings",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85022018?v=4"
+    },
+    "html_url": "https://github.com/titanwings/ex-skill",
+    "description": "致你忘不掉的那个TA，你们干大模型都是码圣 It's giving rebirth era. Welcome to Digital Life 1.0. 🫶",
+    "created_at": "2026-03-31T13:35:25Z",
+    "updated_at": "2026-04-05T00:33:21Z",
+    "pushed_at": "2026-04-02T10:00:50Z",
+    "git_url": "git://github.com/titanwings/ex-skill.git",
+    "homepage": "",
+    "size": 132,
+    "stargazers_count": 686,
+    "watchers_count": 686,
+    "language": "Python",
+    "forks_count": 67,
+    "open_issues_count": 11
+  },
+  {
+    "id": 1198364986,
+    "name": "texel-studio",
+    "owner": {
+      "id": 91563550,
+      "url": "https://api.github.com/users/EYamanS",
+      "html_url": "https://github.com/EYamanS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91563550?v=4"
+    },
+    "html_url": "https://github.com/EYamanS/texel-studio",
+    "description": "AI pixel art agent that paints like a real artist. Not diffusion — actual tool-based painting with shapes, noise, and per-pixel control.",
+    "created_at": "2026-04-01T11:02:41Z",
+    "updated_at": "2026-04-04T15:45:08Z",
+    "pushed_at": "2026-04-04T11:06:55Z",
+    "git_url": "git://github.com/EYamanS/texel-studio.git",
+    "homepage": null,
+    "size": 11756,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "Python",
+    "forks_count": 11,
+    "open_issues_count": 0
   }
 ]
