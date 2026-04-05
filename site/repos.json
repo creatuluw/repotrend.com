@@ -13338,5 +13338,51 @@
     "language": "Python",
     "forks_count": 6,
     "open_issues_count": 0
+  },
+  {
+    "id": 1185122623,
+    "name": "clawd-on-desk",
+    "owner": {
+      "id": 228746293,
+      "url": "https://api.github.com/users/rullerzhou-afk",
+      "html_url": "https://github.com/rullerzhou-afk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/228746293?v=4"
+    },
+    "html_url": "https://github.com/rullerzhou-afk/clawd-on-desk",
+    "description": "A desktop pet that reacts to your Claude Code sessions in real-time — thinking, typing,  juggling, sleeping, and more.",
+    "created_at": "2026-03-18T09:04:20Z",
+    "updated_at": "2026-04-05T16:59:53Z",
+    "pushed_at": "2026-04-05T13:07:52Z",
+    "git_url": "git://github.com/rullerzhou-afk/clawd-on-desk.git",
+    "homepage": "",
+    "size": 5708,
+    "stargazers_count": 759,
+    "watchers_count": 759,
+    "language": "JavaScript",
+    "forks_count": 81,
+    "open_issues_count": 16
+  },
+  {
+    "id": 1200906219,
+    "name": "oauth-cli-coder",
+    "owner": {
+      "id": 14914,
+      "url": "https://api.github.com/users/codeninja",
+      "html_url": "https://github.com/codeninja",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14914?v=4"
+    },
+    "html_url": "https://github.com/codeninja/oauth-cli-coder",
+    "description": "Seamlessly interact with CLI coders (Claude, Gemini, Codex) via tmux TUI sessions.",
+    "created_at": "2026-04-04T01:04:06Z",
+    "updated_at": "2026-04-04T17:35:55Z",
+    "pushed_at": "2026-04-04T15:35:17Z",
+    "git_url": "git://github.com/codeninja/oauth-cli-coder.git",
+    "homepage": null,
+    "size": 129,
+    "stargazers_count": 79,
+    "watchers_count": 79,
+    "language": "Python",
+    "forks_count": 7,
+    "open_issues_count": 0
   }
 ]
