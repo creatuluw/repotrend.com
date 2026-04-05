@@ -12970,5 +12970,51 @@
     "language": "Python",
     "forks_count": 19,
     "open_issues_count": 0
+  },
+  {
+    "id": 1199252598,
+    "name": "Claude-Code-Source-Study",
+    "owner": {
+      "id": 17723416,
+      "url": "https://api.github.com/users/luyao618",
+      "html_url": "https://github.com/luyao618",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17723416?v=4"
+    },
+    "html_url": "https://github.com/luyao618/Claude-Code-Source-Study",
+    "description": "深入Claude Code源码，学习目前最好的agent实现",
+    "created_at": "2026-04-02T07:12:06Z",
+    "updated_at": "2026-04-03T18:05:09Z",
+    "pushed_at": "2026-04-02T11:36:32Z",
+    "git_url": "git://github.com/luyao618/Claude-Code-Source-Study.git",
+    "homepage": "",
+    "size": 807,
+    "stargazers_count": 776,
+    "watchers_count": 776,
+    "language": null,
+    "forks_count": 354,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1199809660,
+    "name": "ComfyUI-OmniVoice-TTS",
+    "owner": {
+      "id": 84208527,
+      "url": "https://api.github.com/users/Saganaki22",
+      "html_url": "https://github.com/Saganaki22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84208527?v=4"
+    },
+    "html_url": "https://github.com/Saganaki22/ComfyUI-OmniVoice-TTS",
+    "description": "OmniVoice TTS nodes for ComfyUI - Zero-shot multilingual text-to-speech with voice cloning, voice design, and multi-speaker dialogue",
+    "created_at": "2026-04-02T18:23:39Z",
+    "updated_at": "2026-04-04T18:08:36Z",
+    "pushed_at": "2026-04-04T14:32:48Z",
+    "git_url": "git://github.com/Saganaki22/ComfyUI-OmniVoice-TTS.git",
+    "homepage": "https://zhu-han.github.io/omnivoice/",
+    "size": 2313,
+    "stargazers_count": 85,
+    "watchers_count": 85,
+    "language": "Python",
+    "forks_count": 18,
+    "open_issues_count": 3
   }
 ]
