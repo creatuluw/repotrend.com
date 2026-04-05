@@ -13108,5 +13108,51 @@
     "language": "Python",
     "forks_count": 19,
     "open_issues_count": 0
+  },
+  {
+    "id": 1187461911,
+    "name": "openyak",
+    "owner": {
+      "id": 269497421,
+      "url": "https://api.github.com/users/openyak",
+      "html_url": "https://github.com/openyak",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269497421?v=4"
+    },
+    "html_url": "https://github.com/openyak/openyak",
+    "description": "An open-source desktop AI agent that handles your documents, files, and daily workflows — locally, with any model.",
+    "created_at": "2026-03-20T18:51:13Z",
+    "updated_at": "2026-04-04T18:10:20Z",
+    "pushed_at": "2026-04-04T05:18:13Z",
+    "git_url": "git://github.com/openyak/openyak.git",
+    "homepage": "https://open-yak.com/",
+    "size": 35240,
+    "stargazers_count": 644,
+    "watchers_count": 644,
+    "language": "Python",
+    "forks_count": 71,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1199136814,
+    "name": "AlphaTeam",
+    "owner": {
+      "id": 72718622,
+      "url": "https://api.github.com/users/jackyideal",
+      "html_url": "https://github.com/jackyideal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72718622?v=4"
+    },
+    "html_url": "https://github.com/jackyideal/AlphaTeam",
+    "description": "” AlphaTeam : Trustworthy, Controllable, and Traceable Quantitative Trading PlatForm“",
+    "created_at": "2026-04-02T04:38:33Z",
+    "updated_at": "2026-04-05T05:31:00Z",
+    "pushed_at": "2026-04-04T12:44:52Z",
+    "git_url": "git://github.com/jackyideal/AlphaTeam.git",
+    "homepage": "",
+    "size": 3872,
+    "stargazers_count": 68,
+    "watchers_count": 68,
+    "language": "Python",
+    "forks_count": 10,
+    "open_issues_count": 0
   }
 ]
