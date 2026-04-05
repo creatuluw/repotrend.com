@@ -13407,5 +13407,51 @@
     "language": null,
     "forks_count": 15,
     "open_issues_count": 112
+  },
+  {
+    "id": 1177919337,
+    "name": "youclaw",
+    "owner": {
+      "id": 131834193,
+      "url": "https://api.github.com/users/CodePhiliaX",
+      "html_url": "https://github.com/CodePhiliaX",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131834193?v=4"
+    },
+    "html_url": "https://github.com/CodePhiliaX/youclaw",
+    "description": "🦞 Your AI Personal Assistant.  An intelligent assistant with memory, skills, and scheduled tasks that truly understands you . Helping you tackle everything in work and life.",
+    "created_at": "2026-03-10T14:02:42Z",
+    "updated_at": "2026-04-04T13:01:18Z",
+    "pushed_at": "2026-04-02T13:11:07Z",
+    "git_url": "git://github.com/CodePhiliaX/youclaw.git",
+    "homepage": "https://youclaw.dev",
+    "size": 3708,
+    "stargazers_count": 643,
+    "watchers_count": 643,
+    "language": "TypeScript",
+    "forks_count": 151,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1196054836,
+    "name": "sample-kolya-br-proxy",
+    "owner": {
+      "id": 8931462,
+      "url": "https://api.github.com/users/aws-samples",
+      "html_url": "https://github.com/aws-samples",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8931462?v=4"
+    },
+    "html_url": "https://github.com/aws-samples/sample-kolya-br-proxy",
+    "description": null,
+    "created_at": "2026-03-30T10:24:24Z",
+    "updated_at": "2026-04-01T22:45:14Z",
+    "pushed_at": "2026-04-01T22:36:09Z",
+    "git_url": "git://github.com/aws-samples/sample-kolya-br-proxy.git",
+    "homepage": null,
+    "size": 10734,
+    "stargazers_count": 81,
+    "watchers_count": 81,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 1
   }
 ]
