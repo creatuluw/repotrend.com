@@ -13384,5 +13384,28 @@
     "language": "Python",
     "forks_count": 7,
     "open_issues_count": 0
+  },
+  {
+    "id": 1199780033,
+    "name": "SoftwarePoliticsTracker",
+    "owner": {
+      "id": 1839166,
+      "url": "https://api.github.com/users/BryanLunduke",
+      "html_url": "https://github.com/BryanLunduke",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1839166?v=4"
+    },
+    "html_url": "https://github.com/BryanLunduke/SoftwarePoliticsTracker",
+    "description": "Tracking the political stances of software projects, foundations, & corporations.",
+    "created_at": "2026-04-02T17:45:05Z",
+    "updated_at": "2026-04-03T18:13:10Z",
+    "pushed_at": "2026-04-02T18:17:15Z",
+    "git_url": "git://github.com/BryanLunduke/SoftwarePoliticsTracker.git",
+    "homepage": null,
+    "size": 3,
+    "stargazers_count": 89,
+    "watchers_count": 89,
+    "language": null,
+    "forks_count": 15,
+    "open_issues_count": 112
   }
 ]
