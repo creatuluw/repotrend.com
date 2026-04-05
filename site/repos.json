@@ -12832,5 +12832,51 @@
     "language": "Python",
     "forks_count": 20,
     "open_issues_count": 0
+  },
+  {
+    "id": 1182887460,
+    "name": "hermes-workspace",
+    "owner": {
+      "id": 201563152,
+      "url": "https://api.github.com/users/outsourc-e",
+      "html_url": "https://github.com/outsourc-e",
+      "avatar_url": "https://avatars.githubusercontent.com/u/201563152?v=4"
+    },
+    "html_url": "https://github.com/outsourc-e/hermes-workspace",
+    "description": "Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector.",
+    "created_at": "2026-03-16T03:53:28Z",
+    "updated_at": "2026-04-05T00:44:32Z",
+    "pushed_at": "2026-04-04T04:46:17Z",
+    "git_url": "git://github.com/outsourc-e/hermes-workspace.git",
+    "homepage": "https://hermes-workspace.com",
+    "size": 20103,
+    "stargazers_count": 638,
+    "watchers_count": 638,
+    "language": "TypeScript",
+    "forks_count": 69,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1200398242,
+    "name": "lunwen-skill",
+    "owner": {
+      "id": 112797174,
+      "url": "https://api.github.com/users/Doryoku1223",
+      "html_url": "https://github.com/Doryoku1223",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112797174?v=4"
+    },
+    "html_url": "https://github.com/Doryoku1223/lunwen-skill",
+    "description": "面向本科计科学生的一键论文初稿 Skill，支持样文/开题报告/模板驱动生成，并补全流程图、ER 图和项目截图",
+    "created_at": "2026-04-03T11:14:19Z",
+    "updated_at": "2026-04-05T00:43:37Z",
+    "pushed_at": "2026-04-04T17:52:10Z",
+    "git_url": "git://github.com/Doryoku1223/lunwen-skill.git",
+    "homepage": "",
+    "size": 84,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
