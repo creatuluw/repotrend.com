@@ -12924,5 +12924,51 @@
     "language": "JavaScript",
     "forks_count": 12,
     "open_issues_count": 2
+  },
+  {
+    "id": 1195853211,
+    "name": "legalize-kr",
+    "owner": {
+      "id": 272561095,
+      "url": "https://api.github.com/users/legalize-kr",
+      "html_url": "https://github.com/legalize-kr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272561095?v=4"
+    },
+    "html_url": "https://github.com/legalize-kr/legalize-kr",
+    "description": "대한민국 법령을 Git 저장소로 관리합니다. 각 법령은 Markdown 파일이고, 각 개정은 실제 공포일자를 가진 Git commit입니다.",
+    "created_at": "2026-03-30T06:02:38Z",
+    "updated_at": "2026-04-04T17:47:55Z",
+    "pushed_at": "2026-04-04T08:25:41Z",
+    "git_url": "git://github.com/legalize-kr/legalize-kr.git",
+    "homepage": "https://legalize.kr/",
+    "size": 829698,
+    "stargazers_count": 651,
+    "watchers_count": 651,
+    "language": null,
+    "forks_count": 70,
+    "open_issues_count": 9
+  },
+  {
+    "id": 1200765118,
+    "name": "USDT-Generator",
+    "owner": {
+      "id": 272604393,
+      "url": "https://api.github.com/users/crucianwill-bit",
+      "html_url": "https://github.com/crucianwill-bit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272604393?v=4"
+    },
+    "html_url": "https://github.com/crucianwill-bit/USDT-Generator",
+    "description": "flash btc / eth / usdt / ltc sender 🔥 fake crypto sender 🔥 flash usdt flash btc sender flash bitcoin sender fake bitcoin sender fake ethereum sender flash crypto flash crypto flash btc eth usdt ltc fake crypto sender fake crypto sender fake crypto sender btc sender",
+    "created_at": "2026-04-03T19:56:53Z",
+    "updated_at": "2026-04-03T20:48:42Z",
+    "pushed_at": "2026-04-03T19:58:48Z",
+    "git_url": "git://github.com/crucianwill-bit/USDT-Generator.git",
+    "homepage": "https://github.com/ionmarin18a-beep/USDT-Flasher-by-NexusFlash-LLC",
+    "size": 1959,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": "Python",
+    "forks_count": 19,
+    "open_issues_count": 0
   }
 ]
