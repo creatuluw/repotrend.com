@@ -13476,5 +13476,51 @@
     "language": null,
     "forks_count": 11,
     "open_issues_count": 0
+  },
+  {
+    "id": 1200631301,
+    "name": "fieldtheory-cli",
+    "owner": {
+      "id": 134799741,
+      "url": "https://api.github.com/users/afar1",
+      "html_url": "https://github.com/afar1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/134799741?v=4"
+    },
+    "html_url": "https://github.com/afar1/fieldtheory-cli",
+    "description": "Sync and locally store all of your X/Twitter bookmarks. Free and open source CLI for Mac.",
+    "created_at": "2026-04-03T16:36:36Z",
+    "updated_at": "2026-04-05T18:15:59Z",
+    "pushed_at": "2026-04-05T02:47:51Z",
+    "git_url": "git://github.com/afar1/fieldtheory-cli.git",
+    "homepage": "https://fieldtheory.dev/cli",
+    "size": 305,
+    "stargazers_count": 665,
+    "watchers_count": 665,
+    "language": "TypeScript",
+    "forks_count": 70,
+    "open_issues_count": 19
+  },
+  {
+    "id": 1198100908,
+    "name": "awesome-cc-oss",
+    "owner": {
+      "id": 107982023,
+      "url": "https://api.github.com/users/rosaboyle",
+      "html_url": "https://github.com/rosaboyle",
+      "avatar_url": "https://avatars.githubusercontent.com/u/107982023?v=4"
+    },
+    "html_url": "https://github.com/rosaboyle/awesome-cc-oss",
+    "description": null,
+    "created_at": "2026-04-01T05:54:35Z",
+    "updated_at": "2026-04-04T14:28:42Z",
+    "pushed_at": "2026-04-03T10:06:14Z",
+    "git_url": "git://github.com/rosaboyle/awesome-cc-oss.git",
+    "homepage": null,
+    "size": 18,
+    "stargazers_count": 70,
+    "watchers_count": 70,
+    "language": null,
+    "forks_count": 19,
+    "open_issues_count": 0
   }
 ]
