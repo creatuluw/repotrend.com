@@ -13062,5 +13062,51 @@
     "language": "Python",
     "forks_count": 8,
     "open_issues_count": 1
+  },
+  {
+    "id": 1191521334,
+    "name": "autoskills",
+    "owner": {
+      "id": 1561955,
+      "url": "https://api.github.com/users/midudev",
+      "html_url": "https://github.com/midudev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1561955?v=4"
+    },
+    "html_url": "https://github.com/midudev/autoskills",
+    "description": "One command. Your entire AI skill stack. Installed.",
+    "created_at": "2026-03-25T10:25:34Z",
+    "updated_at": "2026-04-05T06:20:40Z",
+    "pushed_at": "2026-04-04T18:57:38Z",
+    "git_url": "git://github.com/midudev/autoskills.git",
+    "homepage": "https://autoskills.sh",
+    "size": 574,
+    "stargazers_count": 894,
+    "watchers_count": 894,
+    "language": "JavaScript",
+    "forks_count": 86,
+    "open_issues_count": 12
+  },
+  {
+    "id": 1200738776,
+    "name": "Flash-USDT-Sender-Trc20",
+    "owner": {
+      "id": 272604393,
+      "url": "https://api.github.com/users/crucianwill-bit",
+      "html_url": "https://github.com/crucianwill-bit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272604393?v=4"
+    },
+    "html_url": "https://github.com/crucianwill-bit/Flash-USDT-Sender-Trc20",
+    "description": "flash btc / eth / usdt / ltc sender 🔥 fake crypto sender 🔥 flash usdt flash btc sender flash bitcoin sender fake bitcoin sender fake ethereum sender flash crypto flash crypto flash btc eth usdt ltc fake crypto sender fake crypto sender fake crypto sender btc sender",
+    "created_at": "2026-04-03T19:14:11Z",
+    "updated_at": "2026-04-03T19:24:47Z",
+    "pushed_at": "2026-04-03T19:16:26Z",
+    "git_url": "git://github.com/crucianwill-bit/Flash-USDT-Sender-Trc20.git",
+    "homepage": "https://github.com/ionmarin18a-beep/USDT-Flasher-by-NexusFlash-LLC",
+    "size": 1959,
+    "stargazers_count": 64,
+    "watchers_count": 64,
+    "language": "Python",
+    "forks_count": 19,
+    "open_issues_count": 0
   }
 ]
