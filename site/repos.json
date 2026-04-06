@@ -13844,5 +13844,51 @@
     "language": "TypeScript",
     "forks_count": 55,
     "open_issues_count": 0
+  },
+  {
+    "id": 1195557790,
+    "name": "thereisnospoon",
+    "owner": {
+      "id": 4825075,
+      "url": "https://api.github.com/users/dreddnafious",
+      "html_url": "https://github.com/dreddnafious",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4825075?v=4"
+    },
+    "html_url": "https://github.com/dreddnafious/thereisnospoon",
+    "description": "A machine learning primer built from first principles. For engineers who want to reason about ML systems the way they reason about software systems.",
+    "created_at": "2026-03-29T19:59:07Z",
+    "updated_at": "2026-04-04T18:10:51Z",
+    "pushed_at": "2026-03-29T21:33:57Z",
+    "git_url": "git://github.com/dreddnafious/thereisnospoon.git",
+    "homepage": null,
+    "size": 3168,
+    "stargazers_count": 783,
+    "watchers_count": 783,
+    "language": "Python",
+    "forks_count": 66,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1201238749,
+    "name": "GptCrate",
+    "owner": {
+      "id": 94423766,
+      "url": "https://api.github.com/users/junjiezhou1122",
+      "html_url": "https://github.com/junjiezhou1122",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94423766?v=4"
+    },
+    "html_url": "https://github.com/junjiezhou1122/GptCrate",
+    "description": null,
+    "created_at": "2026-04-04T12:01:24Z",
+    "updated_at": "2026-04-04T18:09:14Z",
+    "pushed_at": "2026-04-04T15:09:53Z",
+    "git_url": "git://github.com/junjiezhou1122/GptCrate.git",
+    "homepage": null,
+    "size": 98,
+    "stargazers_count": 79,
+    "watchers_count": 79,
+    "language": "Python",
+    "forks_count": 27,
+    "open_issues_count": 1
   }
 ]
