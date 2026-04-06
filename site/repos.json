@@ -13936,5 +13936,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1199198401,
+    "name": "METATRON",
+    "owner": {
+      "id": 196668312,
+      "url": "https://api.github.com/users/sooryathejas",
+      "html_url": "https://github.com/sooryathejas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196668312?v=4"
+    },
+    "html_url": "https://github.com/sooryathejas/METATRON",
+    "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)",
+    "created_at": "2026-04-02T06:06:43Z",
+    "updated_at": "2026-04-05T17:54:54Z",
+    "pushed_at": "2026-04-05T11:57:08Z",
+    "git_url": "git://github.com/sooryathejas/METATRON.git",
+    "homepage": null,
+    "size": 2150,
+    "stargazers_count": 755,
+    "watchers_count": 755,
+    "language": "Python",
+    "forks_count": 150,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1199921051,
+    "name": "four-meme-trading-bot",
+    "owner": {
+      "id": 273197219,
+      "url": "https://api.github.com/users/BNB-Alpha-Community",
+      "html_url": "https://github.com/BNB-Alpha-Community",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273197219?v=4"
+    },
+    "html_url": "https://github.com/BNB-Alpha-Community/four-meme-trading-bot",
+    "description": "Four Meme Trading Bot || Fourmeme Bundler , Sniper, Copy Trader, Volume Bot || bundler sniper copytrading copy trading copy trader volume bot || bundler sniper copytrading copy trading copy trader volume bot || bundler sniper copytrading copy trading copy trader volume bot || bundler sniper copytrading copy trading copy trader volume bot",
+    "created_at": "2026-04-02T21:09:14Z",
+    "updated_at": "2026-04-04T18:13:03Z",
+    "pushed_at": "2026-04-02T21:10:09Z",
+    "git_url": "git://github.com/BNB-Alpha-Community/four-meme-trading-bot.git",
+    "homepage": "https://four.meme",
+    "size": 39,
+    "stargazers_count": 80,
+    "watchers_count": 80,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
