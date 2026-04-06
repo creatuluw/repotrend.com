@@ -13522,5 +13522,28 @@
     "language": null,
     "forks_count": 19,
     "open_issues_count": 0
+  },
+  {
+    "id": 1199334958,
+    "name": "SkillZero",
+    "owner": {
+      "id": 203928864,
+      "url": "https://api.github.com/users/ZJU-REAL",
+      "html_url": "https://github.com/ZJU-REAL",
+      "avatar_url": "https://avatars.githubusercontent.com/u/203928864?v=4"
+    },
+    "html_url": "https://github.com/ZJU-REAL/SkillZero",
+    "description": "Official code for \"SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization\"",
+    "created_at": "2026-04-02T08:50:54Z",
+    "updated_at": "2026-04-04T17:38:55Z",
+    "pushed_at": "2026-04-03T03:52:40Z",
+    "git_url": "git://github.com/ZJU-REAL/SkillZero.git",
+    "homepage": "",
+    "size": 36188,
+    "stargazers_count": 92,
+    "watchers_count": 92,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 1
   }
 ]
