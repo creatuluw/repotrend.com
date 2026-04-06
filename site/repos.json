@@ -14396,5 +14396,28 @@
     "language": "TypeScript",
     "forks_count": 11,
     "open_issues_count": 0
+  },
+  {
+    "id": 1197902769,
+    "name": "free-code",
+    "owner": {
+      "id": 42172631,
+      "url": "https://api.github.com/users/win4r",
+      "html_url": "https://github.com/win4r",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42172631?v=4"
+    },
+    "html_url": "https://github.com/win4r/free-code",
+    "description": "Published from https://github.com/paoloanzn/free-code; independent public mirror due GitHub fork-network limits.",
+    "created_at": "2026-04-01T01:23:30Z",
+    "updated_at": "2026-04-04T17:44:24Z",
+    "pushed_at": "2026-04-01T01:26:06Z",
+    "git_url": "git://github.com/win4r/free-code.git",
+    "homepage": null,
+    "size": 10619,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "TypeScript",
+    "forks_count": 89,
+    "open_issues_count": 1
   }
 ]
