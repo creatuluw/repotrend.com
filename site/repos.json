@@ -14212,5 +14212,28 @@
     "language": null,
     "forks_count": 19,
     "open_issues_count": 0
+  },
+  {
+    "id": 1200791416,
+    "name": "sumak",
+    "owner": {
+      "id": 38668796,
+      "url": "https://api.github.com/users/productdevbook",
+      "html_url": "https://github.com/productdevbook",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38668796?v=4"
+    },
+    "html_url": "https://github.com/productdevbook/sumak",
+    "description": "Type-safe SQL query builder. Zero dependencies, AST-first, hookable, tree-shakeable. Pure TypeScript.",
+    "created_at": "2026-04-03T20:42:16Z",
+    "updated_at": "2026-04-04T18:11:22Z",
+    "pushed_at": "2026-04-04T17:59:48Z",
+    "git_url": "git://github.com/productdevbook/sumak.git",
+    "homepage": "",
+    "size": 1167,
+    "stargazers_count": 62,
+    "watchers_count": 62,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 3
   }
 ]
