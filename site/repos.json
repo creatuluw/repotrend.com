@@ -14097,5 +14097,51 @@
     "language": "Shell",
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1176753219,
+    "name": "hermes-agent-self-evolution",
+    "owner": {
+      "id": 134168893,
+      "url": "https://api.github.com/users/NousResearch",
+      "html_url": "https://github.com/NousResearch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/134168893?v=4"
+    },
+    "html_url": "https://github.com/NousResearch/hermes-agent-self-evolution",
+    "description": "⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA",
+    "created_at": "2026-03-09T10:42:48Z",
+    "updated_at": "2026-04-06T11:55:53Z",
+    "pushed_at": "2026-03-29T15:47:23Z",
+    "git_url": "git://github.com/NousResearch/hermes-agent-self-evolution.git",
+    "homepage": null,
+    "size": 117,
+    "stargazers_count": 652,
+    "watchers_count": 652,
+    "language": "Python",
+    "forks_count": 58,
+    "open_issues_count": 10
+  },
+  {
+    "id": 1201134732,
+    "name": "clawdbot-polymarket-scalper",
+    "owner": {
+      "id": 267946321,
+      "url": "https://api.github.com/users/ravenfrog88",
+      "html_url": "https://github.com/ravenfrog88",
+      "avatar_url": "https://avatars.githubusercontent.com/u/267946321?v=4"
+    },
+    "html_url": "https://github.com/ravenfrog88/clawdbot-polymarket-scalper",
+    "description": "Clawdbot scalping module for Polymarket. Detects micro price dislocations on high-liquidity markets and enters short-duration positions sized to capture mean reversion, typically holding for seconds to minutes.",
+    "created_at": "2026-04-04T08:59:21Z",
+    "updated_at": "2026-04-05T17:27:46Z",
+    "pushed_at": "2026-04-04T09:03:29Z",
+    "git_url": "git://github.com/ravenfrog88/clawdbot-polymarket-scalper.git",
+    "homepage": "",
+    "size": 9034,
+    "stargazers_count": 62,
+    "watchers_count": 62,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
