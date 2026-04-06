@@ -14028,5 +14028,74 @@
     "language": "TypeScript",
     "forks_count": 245,
     "open_issues_count": 0
+  },
+  {
+    "id": 1201476594,
+    "name": "career-ops",
+    "owner": {
+      "id": 256850418,
+      "url": "https://api.github.com/users/santifer",
+      "html_url": "https://github.com/santifer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/256850418?v=4"
+    },
+    "html_url": "https://github.com/santifer/career-ops",
+    "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+    "created_at": "2026-04-04T18:21:18Z",
+    "updated_at": "2026-04-06T12:24:56Z",
+    "pushed_at": "2026-04-06T07:43:22Z",
+    "git_url": "git://github.com/santifer/career-ops.git",
+    "homepage": null,
+    "size": 8492,
+    "stargazers_count": 7033,
+    "watchers_count": 7033,
+    "language": "Go",
+    "forks_count": 1152,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1197124375,
+    "name": "claude-code-design-guide",
+    "owner": {
+      "id": 176155065,
+      "url": "https://api.github.com/users/6551Team",
+      "html_url": "https://github.com/6551Team",
+      "avatar_url": "https://avatars.githubusercontent.com/u/176155065?v=4"
+    },
+    "html_url": "https://github.com/6551Team/claude-code-design-guide",
+    "description": "From Early Internet Design Patterns to AI Agent Implementation — A Deep Dive into Claude Code for Developers",
+    "created_at": "2026-03-31T10:50:07Z",
+    "updated_at": "2026-04-06T11:08:27Z",
+    "pushed_at": "2026-04-02T12:10:38Z",
+    "git_url": "git://github.com/6551Team/claude-code-design-guide.git",
+    "homepage": "",
+    "size": 1016,
+    "stargazers_count": 655,
+    "watchers_count": 655,
+    "language": "JavaScript",
+    "forks_count": 245,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1197949913,
+    "name": "pdf-to-markdown",
+    "owner": {
+      "id": 1527679,
+      "url": "https://api.github.com/users/PSPDFKit",
+      "html_url": "https://github.com/PSPDFKit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1527679?v=4"
+    },
+    "html_url": "https://github.com/PSPDFKit/pdf-to-markdown",
+    "description": "Standalone CLI wrapper and docs for Nutrient's PDF-to-Markdown extractor",
+    "created_at": "2026-04-01T02:22:00Z",
+    "updated_at": "2026-04-04T17:56:11Z",
+    "pushed_at": "2026-04-03T06:14:04Z",
+    "git_url": "git://github.com/PSPDFKit/pdf-to-markdown.git",
+    "homepage": "https://www.nutrient.io/ai/skills/pdf-to-markdown/",
+    "size": 740,
+    "stargazers_count": 70,
+    "watchers_count": 70,
+    "language": "Shell",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
