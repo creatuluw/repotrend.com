@@ -13798,5 +13798,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1177141693,
+    "name": "wechat-openclaw-channel",
+    "owner": {
+      "id": 83214045,
+      "url": "https://api.github.com/users/HenryXiaoYang",
+      "html_url": "https://github.com/HenryXiaoYang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83214045?v=4"
+    },
+    "html_url": "https://github.com/HenryXiaoYang/wechat-openclaw-channel",
+    "description": "现已同时支持QClaw和WorkBuddy方式登录！微信包装了开源项目OpenClaw，所以我们把他的Channel抽出来给OpenClaw用了😄 ",
+    "created_at": "2026-03-09T18:29:18Z",
+    "updated_at": "2026-04-04T05:11:53Z",
+    "pushed_at": "2026-03-21T15:18:04Z",
+    "git_url": "git://github.com/HenryXiaoYang/wechat-openclaw-channel.git",
+    "homepage": "",
+    "size": 242,
+    "stargazers_count": 637,
+    "watchers_count": 637,
+    "language": "TypeScript",
+    "forks_count": 144,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1199871633,
+    "name": "bnb-trading-bot",
+    "owner": {
+      "id": 273197219,
+      "url": "https://api.github.com/users/BNB-Alpha-Community",
+      "html_url": "https://github.com/BNB-Alpha-Community",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273197219?v=4"
+    },
+    "html_url": "https://github.com/BNB-Alpha-Community/bnb-trading-bot",
+    "description": "Bnb Trading Bot || Bundler , Sniper, Copy Trader, Volume Bot || bundler sniper copytrading copy trading copy trader volume bot || bundler sniper copytrading copy trading copy trader volume bot || bundler sniper copytrading copy trading copy trader volume bot || bundler sniper copytrading copy trading copy trader volume bot ",
+    "created_at": "2026-04-02T19:51:25Z",
+    "updated_at": "2026-04-04T18:13:49Z",
+    "pushed_at": "2026-04-02T21:00:04Z",
+    "git_url": "git://github.com/BNB-Alpha-Community/bnb-trading-bot.git",
+    "homepage": "https://four.meme",
+    "size": 39,
+    "stargazers_count": 79,
+    "watchers_count": 79,
+    "language": "TypeScript",
+    "forks_count": 55,
+    "open_issues_count": 0
   }
 ]
