@@ -14350,5 +14350,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1197387463,
+    "name": "Open-ClaudeCode",
+    "owner": {
+      "id": 231181387,
+      "url": "https://api.github.com/users/LING71671",
+      "html_url": "https://github.com/LING71671",
+      "avatar_url": "https://avatars.githubusercontent.com/u/231181387?v=4"
+    },
+    "html_url": "https://github.com/LING71671/Open-ClaudeCode",
+    "description": "ClaudeCode related repository",
+    "created_at": "2026-03-31T14:41:23Z",
+    "updated_at": "2026-04-06T17:43:37Z",
+    "pushed_at": "2026-04-02T14:55:18Z",
+    "git_url": "git://github.com/LING71671/Open-ClaudeCode.git",
+    "homepage": "",
+    "size": 39988,
+    "stargazers_count": 660,
+    "watchers_count": 660,
+    "language": "TypeScript",
+    "forks_count": 983,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1201469843,
+    "name": "codesight",
+    "owner": {
+      "id": 223674346,
+      "url": "https://api.github.com/users/Houseofmvps",
+      "html_url": "https://github.com/Houseofmvps",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223674346?v=4"
+    },
+    "html_url": "https://github.com/Houseofmvps/codesight",
+    "description": "Universal AI context generator. Saves thousands of tokens per conversation in Claude Code, Cursor, Copilot, Codex, and more.",
+    "created_at": "2026-04-04T18:10:16Z",
+    "updated_at": "2026-04-06T18:08:18Z",
+    "pushed_at": "2026-04-05T19:35:39Z",
+    "git_url": "git://github.com/Houseofmvps/codesight.git",
+    "homepage": null,
+    "size": 436,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": "TypeScript",
+    "forks_count": 11,
+    "open_issues_count": 0
   }
 ]
