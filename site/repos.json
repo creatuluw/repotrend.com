@@ -13660,5 +13660,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1186664179,
+    "name": "opencode-claude-auth",
+    "owner": {
+      "id": 1090329,
+      "url": "https://api.github.com/users/griffinmartin",
+      "html_url": "https://github.com/griffinmartin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1090329?v=4"
+    },
+    "html_url": "https://github.com/griffinmartin/opencode-claude-auth",
+    "description": "OpenCode plugin that uses your existing Claude Code credentials — no separate login needed.",
+    "created_at": "2026-03-19T21:35:23Z",
+    "updated_at": "2026-04-05T18:03:24Z",
+    "pushed_at": "2026-04-05T03:40:23Z",
+    "git_url": "git://github.com/griffinmartin/opencode-claude-auth.git",
+    "homepage": "",
+    "size": 268,
+    "stargazers_count": 663,
+    "watchers_count": 663,
+    "language": "TypeScript",
+    "forks_count": 70,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1201232812,
+    "name": "houston-pub",
+    "owner": {
+      "id": 78730004,
+      "url": "https://api.github.com/users/halal-beef",
+      "html_url": "https://github.com/halal-beef",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78730004?v=4"
+    },
+    "html_url": "https://github.com/halal-beef/houston-pub",
+    "description": "We had a problem - and now, publicly, a solution :)",
+    "created_at": "2026-04-04T11:50:36Z",
+    "updated_at": "2026-04-04T18:06:34Z",
+    "pushed_at": "2026-04-04T12:41:43Z",
+    "git_url": "git://github.com/halal-beef/houston-pub.git",
+    "homepage": "",
+    "size": 225,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
