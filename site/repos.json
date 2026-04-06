@@ -14258,5 +14258,28 @@
     "language": "Python",
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1202659228,
+    "name": "vida-open-archive",
+    "owner": {
+      "id": 181133457,
+      "url": "https://api.github.com/users/superpilot69",
+      "html_url": "https://github.com/superpilot69",
+      "avatar_url": "https://avatars.githubusercontent.com/u/181133457?v=4"
+    },
+    "html_url": "https://github.com/superpilot69/vida-open-archive",
+    "description": "Vida Zhihu archive, distilled skill, and exhibition website source",
+    "created_at": "2026-04-06T09:05:11Z",
+    "updated_at": "2026-04-06T18:21:15Z",
+    "pushed_at": "2026-04-06T10:17:00Z",
+    "git_url": "git://github.com/superpilot69/vida-open-archive.git",
+    "homepage": null,
+    "size": 9972,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "HTML",
+    "forks_count": 12,
+    "open_issues_count": 0
   }
 ]
