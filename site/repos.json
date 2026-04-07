@@ -14902,5 +14902,28 @@
     "language": "TypeScript",
     "forks_count": 4,
     "open_issues_count": 3
+  },
+  {
+    "id": 1201628267,
+    "name": "llm-wiki",
+    "owner": {
+      "id": 797193,
+      "url": "https://api.github.com/users/nvk",
+      "html_url": "https://github.com/nvk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/797193?v=4"
+    },
+    "html_url": "https://github.com/nvk/llm-wiki",
+    "description": "A Claude Code plugin for building LLM-compiled knowledge bases. Ingest sources, compile interconnected markdown articles, query, lint, research, and generate outputs — all from Claude Code. Optionally view in Obsidian.",
+    "created_at": "2026-04-04T23:52:25Z",
+    "updated_at": "2026-04-06T17:23:37Z",
+    "pushed_at": "2026-04-06T17:05:14Z",
+    "git_url": "git://github.com/nvk/llm-wiki.git",
+    "homepage": "https://llm-wiki.net/",
+    "size": 162,
+    "stargazers_count": 80,
+    "watchers_count": 80,
+    "language": null,
+    "forks_count": 6,
+    "open_issues_count": 2
   }
 ]
