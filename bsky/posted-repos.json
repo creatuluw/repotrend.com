@@ -1666,5 +1666,11 @@
     "name": "claude-md",
     "html_url": "https://github.com/iamfakeguru/claude-md",
     "posted_at": "2026-04-07T17:52:03.586Z"
+  },
+  {
+    "id": 1187384370,
+    "name": "emulate",
+    "html_url": "https://github.com/vercel-labs/emulate",
+    "posted_at": "2026-04-07T19:52:35.875Z"
   }
 ]
