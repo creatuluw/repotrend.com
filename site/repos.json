@@ -14419,5 +14419,51 @@
     "language": "TypeScript",
     "forks_count": 89,
     "open_issues_count": 1
+  },
+  {
+    "id": 1198519767,
+    "name": "yourself-skill",
+    "owner": {
+      "id": 64525161,
+      "url": "https://api.github.com/users/notdog1998",
+      "html_url": "https://github.com/notdog1998",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64525161?v=4"
+    },
+    "html_url": "https://github.com/notdog1998/yourself-skill",
+    "description": "与其蒸馏别人，不如蒸馏自己。欢迎加入数字永生！Inspired by colleague-skill（同事skill）。",
+    "created_at": "2026-04-01T13:56:21Z",
+    "updated_at": "2026-04-05T18:00:35Z",
+    "pushed_at": "2026-04-01T16:38:03Z",
+    "git_url": "git://github.com/notdog1998/yourself-skill.git",
+    "homepage": "",
+    "size": 66,
+    "stargazers_count": 648,
+    "watchers_count": 648,
+    "language": "Python",
+    "forks_count": 58,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1201812457,
+    "name": "ai-scientific-image-generation",
+    "owner": {
+      "id": 273295640,
+      "url": "https://api.github.com/users/996294323",
+      "html_url": "https://github.com/996294323",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273295640?v=4"
+    },
+    "html_url": "https://github.com/996294323/ai-scientific-image-generation",
+    "description": "ai-scientific-image-generation",
+    "created_at": "2026-04-05T07:36:13Z",
+    "updated_at": "2026-04-05T14:49:48Z",
+    "pushed_at": "2026-04-05T07:37:40Z",
+    "git_url": "git://github.com/996294323/ai-scientific-image-generation.git",
+    "homepage": "https://www.hanyuai.com/zh/image-generator/ai-scientific-image-generation",
+    "size": 5,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
