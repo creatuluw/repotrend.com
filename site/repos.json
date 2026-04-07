@@ -14603,5 +14603,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1185620041,
+    "name": "flare-learning-hub",
+    "owner": {
+      "id": 331209,
+      "url": "https://api.github.com/users/mandiant",
+      "html_url": "https://github.com/mandiant",
+      "avatar_url": "https://avatars.githubusercontent.com/u/331209?v=4"
+    },
+    "html_url": "https://github.com/mandiant/flare-learning-hub",
+    "description": "Free educational content on reverse engineering and malware analysis from the FLARE team",
+    "created_at": "2026-03-18T19:19:40Z",
+    "updated_at": "2026-04-06T17:23:33Z",
+    "pushed_at": "2026-03-31T14:36:02Z",
+    "git_url": "git://github.com/mandiant/flare-learning-hub.git",
+    "homepage": "",
+    "size": 46844,
+    "stargazers_count": 648,
+    "watchers_count": 648,
+    "language": "JavaScript",
+    "forks_count": 44,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1199853683,
+    "name": "OffensiveSET",
+    "owner": {
+      "id": 232369197,
+      "url": "https://api.github.com/users/PentesterFlow",
+      "html_url": "https://github.com/PentesterFlow",
+      "avatar_url": "https://avatars.githubusercontent.com/u/232369197?v=4"
+    },
+    "html_url": "https://github.com/PentesterFlow/OffensiveSET",
+    "description": "Offensive Security Dataset Generator — MCP server for generating high-quality pentesting conversation datasets for LLM fine-tuning",
+    "created_at": "2026-04-02T19:24:51Z",
+    "updated_at": "2026-04-04T10:57:20Z",
+    "pushed_at": "2026-04-02T19:28:40Z",
+    "git_url": "git://github.com/PentesterFlow/OffensiveSET.git",
+    "homepage": null,
+    "size": 4449,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "TypeScript",
+    "forks_count": 16,
+    "open_issues_count": 0
   }
 ]
