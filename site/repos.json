@@ -15017,5 +15017,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1188016963,
+    "name": "lisette",
+    "owner": {
+      "id": 44588767,
+      "url": "https://api.github.com/users/ivov",
+      "html_url": "https://github.com/ivov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44588767?v=4"
+    },
+    "html_url": "https://github.com/ivov/lisette",
+    "description": "A little language inspired by Rust that compiles to Go",
+    "created_at": "2026-03-21T14:02:38Z",
+    "updated_at": "2026-04-07T12:25:20Z",
+    "pushed_at": "2026-04-06T19:34:48Z",
+    "git_url": "git://github.com/ivov/lisette.git",
+    "homepage": "https://lisette.run",
+    "size": 2430,
+    "stargazers_count": 697,
+    "watchers_count": 697,
+    "language": "Rust",
+    "forks_count": 13,
+    "open_issues_count": 9
+  },
+  {
+    "id": 1199420308,
+    "name": "toon-json-render",
+    "owner": {
+      "id": 115806700,
+      "url": "https://api.github.com/users/abhishekgahlot2",
+      "html_url": "https://github.com/abhishekgahlot2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115806700?v=4"
+    },
+    "html_url": "https://github.com/abhishekgahlot2/toon-json-render",
+    "description": "Drop-in TOON adapter for json-render - fewer LLM tokens, no new language",
+    "created_at": "2026-04-02T10:31:35Z",
+    "updated_at": "2026-04-02T21:05:16Z",
+    "pushed_at": "2026-04-02T21:04:51Z",
+    "git_url": "git://github.com/abhishekgahlot2/toon-json-render.git",
+    "homepage": "https://abhishekgahlot2.github.io/toon-json-render/",
+    "size": 2687,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
