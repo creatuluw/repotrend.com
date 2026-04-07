@@ -15178,5 +15178,51 @@
     "language": null,
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1179771822,
+    "name": "tuya-openclaw-skills",
+    "owner": {
+      "id": 73523937,
+      "url": "https://api.github.com/users/tuya",
+      "html_url": "https://github.com/tuya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73523937?v=4"
+    },
+    "html_url": "https://github.com/tuya/tuya-openclaw-skills",
+    "description": "Tuya AI Skill Library for OpenClaw/TuyaClaw - An AI-driven skill set built for the development of Tuya's smart ecosystem (e.g., device control).",
+    "created_at": "2026-03-12T11:13:18Z",
+    "updated_at": "2026-04-06T18:21:47Z",
+    "pushed_at": "2026-04-02T09:03:27Z",
+    "git_url": "git://github.com/tuya/tuya-openclaw-skills.git",
+    "homepage": null,
+    "size": 173,
+    "stargazers_count": 648,
+    "watchers_count": 648,
+    "language": "Python",
+    "forks_count": 89,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1199051658,
+    "name": "image-project2",
+    "owner": {
+      "id": 272980275,
+      "url": "https://api.github.com/users/209087445",
+      "html_url": "https://github.com/209087445",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272980275?v=4"
+    },
+    "html_url": "https://github.com/209087445/image-project2",
+    "description": "image-project2",
+    "created_at": "2026-04-02T02:26:26Z",
+    "updated_at": "2026-04-04T02:05:26Z",
+    "pushed_at": "2026-04-03T08:49:47Z",
+    "git_url": "git://github.com/209087445/image-project2.git",
+    "homepage": null,
+    "size": 140,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
