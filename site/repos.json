@@ -14856,5 +14856,28 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1201814375,
+    "name": "poster-design",
+    "owner": {
+      "id": 273284699,
+      "url": "https://api.github.com/users/1955358104",
+      "html_url": "https://github.com/1955358104",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273284699?v=4"
+    },
+    "html_url": "https://github.com/1955358104/poster-design",
+    "description": "poster-design",
+    "created_at": "2026-04-05T07:40:04Z",
+    "updated_at": "2026-04-05T14:49:49Z",
+    "pushed_at": "2026-04-05T07:40:26Z",
+    "git_url": "git://github.com/1955358104/poster-design.git",
+    "homepage": "https://www.hanyuai.com/zh/image-generator/poster-design",
+    "size": 5,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
