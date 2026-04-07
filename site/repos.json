@@ -15270,5 +15270,28 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1203007736,
+    "name": "clarify-skill",
+    "owner": {
+      "id": 53424439,
+      "url": "https://api.github.com/users/riiiku",
+      "html_url": "https://github.com/riiiku",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53424439?v=4"
+    },
+    "html_url": "https://github.com/riiiku/clarify-skill",
+    "description": "Wittgenstein + Socrates + Polanyi: A Claude Code Skill for turning fuzzy thoughts into precise instructions",
+    "created_at": "2026-04-06T16:19:40Z",
+    "updated_at": "2026-04-07T14:59:32Z",
+    "pushed_at": "2026-04-06T16:19:43Z",
+    "git_url": "git://github.com/riiiku/clarify-skill.git",
+    "homepage": null,
+    "size": 9,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": null,
+    "forks_count": 7,
+    "open_issues_count": 0
   }
 ]
