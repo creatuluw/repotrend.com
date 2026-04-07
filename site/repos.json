@@ -14741,5 +14741,51 @@
     "language": "TypeScript",
     "forks_count": 21,
     "open_issues_count": 1
+  },
+  {
+    "id": 1178437140,
+    "name": "build-your-own-openclaw",
+    "owner": {
+      "id": 99708452,
+      "url": "https://api.github.com/users/czl9707",
+      "html_url": "https://github.com/czl9707",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99708452?v=4"
+    },
+    "html_url": "https://github.com/czl9707/build-your-own-openclaw",
+    "description": "A step-by-step guide to build your own AI agent.",
+    "created_at": "2026-03-11T02:47:02Z",
+    "updated_at": "2026-04-07T06:18:11Z",
+    "pushed_at": "2026-03-29T13:21:09Z",
+    "git_url": "git://github.com/czl9707/build-your-own-openclaw.git",
+    "homepage": "https://build-your-own-openclaw.kiyo-n-zane.com/",
+    "size": 956,
+    "stargazers_count": 665,
+    "watchers_count": 665,
+    "language": "Python",
+    "forks_count": 100,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1200085875,
+    "name": "DeepVein",
+    "owner": {
+      "id": 202829123,
+      "url": "https://api.github.com/users/peiyv86",
+      "html_url": "https://github.com/peiyv86",
+      "avatar_url": "https://avatars.githubusercontent.com/u/202829123?v=4"
+    },
+    "html_url": "https://github.com/peiyv86/DeepVein",
+    "description": "一款基于 Qt6 与 C++ 构建的高性能本地私有��知识库引擎，支持多端大模型与双路 RAG 检索。 ",
+    "created_at": "2026-04-03T02:50:40Z",
+    "updated_at": "2026-04-06T16:55:00Z",
+    "pushed_at": "2026-04-06T08:21:09Z",
+    "git_url": "git://github.com/peiyv86/DeepVein.git",
+    "homepage": null,
+    "size": 6806,
+    "stargazers_count": 56,
+    "watchers_count": 56,
+    "language": "C++",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
