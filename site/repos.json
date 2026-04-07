@@ -14948,5 +14948,51 @@
     "language": "JavaScript",
     "forks_count": 15,
     "open_issues_count": 0
+  },
+  {
+    "id": 1198882870,
+    "name": "claudecode",
+    "owner": {
+      "id": 164897710,
+      "url": "https://api.github.com/users/soongenwong",
+      "html_url": "https://github.com/soongenwong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/164897710?v=4"
+    },
+    "html_url": "https://github.com/soongenwong/claudecode",
+    "description": "Open Source ClaudeCode Leaked. Same functionalities as Claude Code by Anthropic. Written in Rust, Ready to use immediately for free. ",
+    "created_at": "2026-04-01T21:13:39Z",
+    "updated_at": "2026-04-06T17:58:25Z",
+    "pushed_at": "2026-04-03T09:16:13Z",
+    "git_url": "git://github.com/soongenwong/claudecode.git",
+    "homepage": "https://github.com/soongenwong/claudecode",
+    "size": 5133,
+    "stargazers_count": 749,
+    "watchers_count": 749,
+    "language": "Rust",
+    "forks_count": 292,
+    "open_issues_count": 9
+  },
+  {
+    "id": 1200986427,
+    "name": "dan-binary-releases",
+    "owner": {
+      "id": 16640361,
+      "url": "https://api.github.com/users/uton88",
+      "html_url": "https://github.com/uton88",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16640361?v=4"
+    },
+    "html_url": "https://github.com/uton88/dan-binary-releases",
+    "description": "Public binary-only releases and install scripts for dan",
+    "created_at": "2026-04-04T04:11:42Z",
+    "updated_at": "2026-04-04T16:35:43Z",
+    "pushed_at": "2026-04-04T09:09:52Z",
+    "git_url": "git://github.com/uton88/dan-binary-releases.git",
+    "homepage": null,
+    "size": 10,
+    "stargazers_count": 59,
+    "watchers_count": 59,
+    "language": "Shell",
+    "forks_count": 17,
+    "open_issues_count": 0
   }
 ]
