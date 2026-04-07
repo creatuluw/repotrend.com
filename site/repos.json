@@ -15109,5 +15109,74 @@
     "language": "JavaScript",
     "forks_count": 8,
     "open_issues_count": 1
+  },
+  {
+    "id": 1201656210,
+    "name": "mempalace",
+    "owner": {
+      "id": 232237854,
+      "url": "https://api.github.com/users/milla-jovovich",
+      "html_url": "https://github.com/milla-jovovich",
+      "avatar_url": "https://avatars.githubusercontent.com/u/232237854?v=4"
+    },
+    "html_url": "https://github.com/milla-jovovich/mempalace",
+    "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
+    "created_at": "2026-04-05T01:12:07Z",
+    "updated_at": "2026-04-07T18:25:46Z",
+    "pushed_at": "2026-04-07T18:08:54Z",
+    "git_url": "git://github.com/milla-jovovich/mempalace.git",
+    "homepage": null,
+    "size": 779,
+    "stargazers_count": 13598,
+    "watchers_count": 13598,
+    "language": "Python",
+    "forks_count": 1518,
+    "open_issues_count": 105
+  },
+  {
+    "id": 1184170771,
+    "name": "NanoResearch",
+    "owner": {
+      "id": 239348636,
+      "url": "https://api.github.com/users/OpenRaiser",
+      "html_url": "https://github.com/OpenRaiser",
+      "avatar_url": "https://avatars.githubusercontent.com/u/239348636?v=4"
+    },
+    "html_url": "https://github.com/OpenRaiser/NanoResearch",
+    "description": "🦞+🔬: NanoResearch: The Autonomous AI Research Assistant",
+    "created_at": "2026-03-17T10:20:31Z",
+    "updated_at": "2026-04-07T18:22:17Z",
+    "pushed_at": "2026-04-07T09:18:11Z",
+    "git_url": "git://github.com/OpenRaiser/NanoResearch.git",
+    "homepage": "",
+    "size": 19328,
+    "stargazers_count": 678,
+    "watchers_count": 678,
+    "language": "Python",
+    "forks_count": 165,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1201639948,
+    "name": "viz-pack",
+    "owner": {
+      "id": 174384902,
+      "url": "https://api.github.com/users/joshua-heygen",
+      "html_url": "https://github.com/joshua-heygen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/174384902?v=4"
+    },
+    "html_url": "https://github.com/joshua-heygen/viz-pack",
+    "description": "Four Claude skills that turn any content into visuals — diagrams, infographics, interactive explainers, and shareable dashboards. Just type the command.",
+    "created_at": "2026-04-05T00:26:20Z",
+    "updated_at": "2026-04-07T09:01:38Z",
+    "pushed_at": "2026-04-05T00:27:53Z",
+    "git_url": "git://github.com/joshua-heygen/viz-pack.git",
+    "homepage": null,
+    "size": 13,
+    "stargazers_count": 60,
+    "watchers_count": 60,
+    "language": null,
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
