@@ -102,6 +102,12 @@ function formatNumber(num) {
   return num.toString();
 }
 
+// Truncate text to a maximum number of graphemes (characters)
+function truncateText(text, maxLength) {
+  if (!text || text.length <= maxLength) return text;
+  return text.substring(0, maxLength - 3) + "...";
+}
+
 // Get CSS class for language color
 function getLanguageCss(language) {
   const langMap = {
@@ -256,8 +262,11 @@ async function postToBluesky(repo, imageBlob) {
     });
     console.log("Logged in successfully!");
 
-    const repoName = repo.name || "Unknown Repo";
-    const description = repo.description || "Trending on te9.dev";
+    const repoName = truncateText(repo.name || "Unknown Repo", 40);
+    const description = truncateText(
+      repo.description || "Trending on te9.dev",
+      220,
+    );
     const stars = formatNumber(repo.stargazers_count || 0);
     const forks = formatNumber(repo.forks_count || 0);
     const pageUrl = `${REPO_PAGES_URL}/${repoName}.html`;
