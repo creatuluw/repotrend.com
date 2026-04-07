@@ -15063,5 +15063,51 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1192953522,
+    "name": "meta-harness-tbench2-artifact",
+    "owner": {
+      "id": 63766302,
+      "url": "https://api.github.com/users/stanford-iris-lab",
+      "html_url": "https://github.com/stanford-iris-lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63766302?v=4"
+    },
+    "html_url": "https://github.com/stanford-iris-lab/meta-harness-tbench2-artifact",
+    "description": "Meta-Harness: 76.4% on Terminal-Bench 2.0 (Claude Opus 4.6)",
+    "created_at": "2026-03-26T18:15:54Z",
+    "updated_at": "2026-04-06T17:51:24Z",
+    "pushed_at": "2026-03-26T18:26:47Z",
+    "git_url": "git://github.com/stanford-iris-lab/meta-harness-tbench2-artifact.git",
+    "homepage": null,
+    "size": 13,
+    "stargazers_count": 651,
+    "watchers_count": 651,
+    "language": "Python",
+    "forks_count": 99,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1198737340,
+    "name": "claude-code-buddy-reroll",
+    "owner": {
+      "id": 63032496,
+      "url": "https://api.github.com/users/ithiria894",
+      "html_url": "https://github.com/ithiria894",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63032496?v=4"
+    },
+    "html_url": "https://github.com/ithiria894/claude-code-buddy-reroll",
+    "description": "Reroll your Claude Code /buddy companion — brute-force for any species + rarity, with accountUuid trap fix for Team/Pro users",
+    "created_at": "2026-04-01T17:56:29Z",
+    "updated_at": "2026-04-04T07:43:43Z",
+    "pushed_at": "2026-04-01T19:34:24Z",
+    "git_url": "git://github.com/ithiria894/claude-code-buddy-reroll.git",
+    "homepage": null,
+    "size": 170,
+    "stargazers_count": 59,
+    "watchers_count": 59,
+    "language": "JavaScript",
+    "forks_count": 8,
+    "open_issues_count": 1
   }
 ]
