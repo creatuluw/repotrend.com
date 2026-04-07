@@ -14511,5 +14511,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1201173969,
+    "name": "caveman",
+    "owner": {
+      "id": 104168679,
+      "url": "https://api.github.com/users/JuliusBrussee",
+      "html_url": "https://github.com/JuliusBrussee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104168679?v=4"
+    },
+    "html_url": "https://github.com/JuliusBrussee/caveman",
+    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 75% of tokens by talking like caveman",
+    "created_at": "2026-04-04T10:03:00Z",
+    "updated_at": "2026-04-05T18:15:21Z",
+    "pushed_at": "2026-04-05T17:40:52Z",
+    "git_url": "git://github.com/JuliusBrussee/caveman.git",
+    "homepage": null,
+    "size": 23,
+    "stargazers_count": 982,
+    "watchers_count": 982,
+    "language": "Python",
+    "forks_count": 23,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1201870331,
+    "name": "star-be0266",
+    "owner": {
+      "id": 271656480,
+      "url": "https://api.github.com/users/HiddenHornet",
+      "html_url": "https://github.com/HiddenHornet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271656480?v=4"
+    },
+    "html_url": "https://github.com/HiddenHornet/star-be0266",
+    "description": null,
+    "created_at": "2026-04-05T09:23:14Z",
+    "updated_at": "2026-04-05T09:23:50Z",
+    "pushed_at": "2026-04-05T09:23:16Z",
+    "git_url": "git://github.com/HiddenHornet/star-be0266.git",
+    "homepage": null,
+    "size": 1,
+    "stargazers_count": 81,
+    "watchers_count": 81,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
