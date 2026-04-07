@@ -14649,5 +14649,51 @@
     "language": "TypeScript",
     "forks_count": 16,
     "open_issues_count": 0
+  },
+  {
+    "id": 1186550399,
+    "name": "Claw-AI-Lab",
+    "owner": {
+      "id": 270974880,
+      "url": "https://api.github.com/users/Claw-AI-Lab",
+      "html_url": "https://github.com/Claw-AI-Lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270974880?v=4"
+    },
+    "html_url": "https://github.com/Claw-AI-Lab/Claw-AI-Lab",
+    "description": "One dashboard. An entire research team.",
+    "created_at": "2026-03-19T18:40:10Z",
+    "updated_at": "2026-04-06T17:08:52Z",
+    "pushed_at": "2026-04-06T09:58:10Z",
+    "git_url": "git://github.com/Claw-AI-Lab/Claw-AI-Lab.git",
+    "homepage": "https://clawailab.ai/",
+    "size": 60041,
+    "stargazers_count": 706,
+    "watchers_count": 706,
+    "language": "Python",
+    "forks_count": 45,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1201592574,
+    "name": "Legend-RainbowSixSiege-Undetected-2026",
+    "owner": {
+      "id": 86897138,
+      "url": "https://api.github.com/users/AndresNavarroVelazquez",
+      "html_url": "https://github.com/AndresNavarroVelazquez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86897138?v=4"
+    },
+    "html_url": "https://github.com/AndresNavarroVelazquez/Legend-RainbowSixSiege-Undetected-2026",
+    "description": "r6sUltra-low latency DMA framework for Rainbow Six Siege. Features hardware-isolated real-time visualization, predictive vector calculations & kernel-level memory synchronization for advanced situational awareness and tactical decision making. rainbow six siege dma r6 external tool r6 memory reader r6 radar r6 tactical overlay r6 situational awaren",
+    "created_at": "2026-04-04T22:15:02Z",
+    "updated_at": "2026-04-06T18:20:43Z",
+    "pushed_at": "2026-04-04T22:19:31Z",
+    "git_url": "git://github.com/AndresNavarroVelazquez/Legend-RainbowSixSiege-Undetected-2026.git",
+    "homepage": "",
+    "size": 5,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
