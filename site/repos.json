@@ -15569,5 +15569,51 @@
     "language": "JavaScript",
     "forks_count": 3,
     "open_issues_count": 1
+  },
+  {
+    "id": 1202209457,
+    "name": "tailslayer",
+    "owner": {
+      "id": 123765654,
+      "url": "https://api.github.com/users/LaurieWired",
+      "html_url": "https://github.com/LaurieWired",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123765654?v=4"
+    },
+    "html_url": "https://github.com/LaurieWired/tailslayer",
+    "description": "Library for reducing tail latency in RAM reads",
+    "created_at": "2026-04-05T18:37:07Z",
+    "updated_at": "2026-04-08T06:40:09Z",
+    "pushed_at": "2026-04-07T16:54:28Z",
+    "git_url": "git://github.com/LaurieWired/tailslayer.git",
+    "homepage": "",
+    "size": 41,
+    "stargazers_count": 729,
+    "watchers_count": 729,
+    "language": "C++",
+    "forks_count": 34,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1202435955,
+    "name": "LLM-wiki",
+    "owner": {
+      "id": 148111005,
+      "url": "https://api.github.com/users/Ss1024sS",
+      "html_url": "https://github.com/Ss1024sS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148111005?v=4"
+    },
+    "html_url": "https://github.com/Ss1024sS/LLM-wiki",
+    "description": "based on karpathy https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+    "created_at": "2026-04-06T02:49:36Z",
+    "updated_at": "2026-04-07T18:08:32Z",
+    "pushed_at": "2026-04-07T08:49:57Z",
+    "git_url": "git://github.com/Ss1024sS/LLM-wiki.git",
+    "homepage": null,
+    "size": 222,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": "Python",
+    "forks_count": 10,
+    "open_issues_count": 0
   }
 ]
