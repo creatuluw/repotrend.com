@@ -15615,5 +15615,51 @@
     "language": "Python",
     "forks_count": 10,
     "open_issues_count": 0
+  },
+  {
+    "id": 1178355842,
+    "name": "hermes-paperclip-adapter",
+    "owner": {
+      "id": 134168893,
+      "url": "https://api.github.com/users/NousResearch",
+      "html_url": "https://github.com/NousResearch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/134168893?v=4"
+    },
+    "html_url": "https://github.com/NousResearch/hermes-paperclip-adapter",
+    "description": "Paperclip adapter for Hermes Agent — run Hermes as a managed employee in a Paperclip company",
+    "created_at": "2026-03-11T00:16:55Z",
+    "updated_at": "2026-04-08T00:20:55Z",
+    "pushed_at": "2026-04-04T05:44:23Z",
+    "git_url": "git://github.com/NousResearch/hermes-paperclip-adapter.git",
+    "homepage": null,
+    "size": 50,
+    "stargazers_count": 646,
+    "watchers_count": 646,
+    "language": "TypeScript",
+    "forks_count": 93,
+    "open_issues_count": 23
+  },
+  {
+    "id": 1202307373,
+    "name": "Base-Volume-Bot",
+    "owner": {
+      "id": 246025268,
+      "url": "https://api.github.com/users/ultraalexanderg87d7870",
+      "html_url": "https://github.com/ultraalexanderg87d7870",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246025268?v=4"
+    },
+    "html_url": "https://github.com/ultraalexanderg87d7870/Base-Volume-Bot",
+    "description": "Trade volume generation bot for tokens on Base chain (Coinbase L2) with organic-looking trading activity and volume analytics.",
+    "created_at": "2026-04-05T21:47:36Z",
+    "updated_at": "2026-04-06T06:18:58Z",
+    "pushed_at": "2026-04-05T21:50:50Z",
+    "git_url": "git://github.com/ultraalexanderg87d7870/Base-Volume-Bot.git",
+    "homepage": "",
+    "size": 11015,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": "Python",
+    "forks_count": 17,
+    "open_issues_count": 0
   }
 ]
