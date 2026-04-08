@@ -15868,5 +15868,51 @@
     "language": "Python",
     "forks_count": 13,
     "open_issues_count": 1
+  },
+  {
+    "id": 1196927006,
+    "name": "ex-skill",
+    "owner": {
+      "id": 1035487,
+      "url": "https://api.github.com/users/perkfly",
+      "html_url": "https://github.com/perkfly",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1035487?v=4"
+    },
+    "html_url": "https://github.com/perkfly/ex-skill",
+    "description": "前任 skill",
+    "created_at": "2026-03-31T07:05:23Z",
+    "updated_at": "2026-04-08T12:26:39Z",
+    "pushed_at": "2026-04-02T08:36:53Z",
+    "git_url": "git://github.com/perkfly/ex-skill.git",
+    "homepage": "",
+    "size": 51,
+    "stargazers_count": 663,
+    "watchers_count": 663,
+    "language": "Python",
+    "forks_count": 92,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1200161269,
+    "name": "ccxray",
+    "owner": {
+      "id": 635405,
+      "url": "https://api.github.com/users/lis186",
+      "html_url": "https://github.com/lis186",
+      "avatar_url": "https://avatars.githubusercontent.com/u/635405?v=4"
+    },
+    "html_url": "https://github.com/lis186/ccxray",
+    "description": "X-ray vision for AI agent sessions — a transparent HTTP proxy and dashboard for Claude Code",
+    "created_at": "2026-04-03T05:19:06Z",
+    "updated_at": "2026-04-06T03:35:23Z",
+    "pushed_at": "2026-04-06T01:32:08Z",
+    "git_url": "git://github.com/lis186/ccxray.git",
+    "homepage": null,
+    "size": 2166,
+    "stargazers_count": 79,
+    "watchers_count": 79,
+    "language": "JavaScript",
+    "forks_count": 11,
+    "open_issues_count": 0
   }
 ]
