@@ -15799,5 +15799,51 @@
     "language": "C",
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1200597263,
+    "name": "graphify",
+    "owner": {
+      "id": 216348667,
+      "url": "https://api.github.com/users/safishamsi",
+      "html_url": "https://github.com/safishamsi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/216348667?v=4"
+    },
+    "html_url": "https://github.com/safishamsi/graphify",
+    "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
+    "created_at": "2026-04-03T15:49:07Z",
+    "updated_at": "2026-04-08T12:27:50Z",
+    "pushed_at": "2026-04-08T08:41:20Z",
+    "git_url": "git://github.com/safishamsi/graphify.git",
+    "homepage": "https://pypi.org/project/graphifyy/",
+    "size": 398,
+    "stargazers_count": 9842,
+    "watchers_count": 9842,
+    "language": "Python",
+    "forks_count": 1034,
+    "open_issues_count": 28
+  },
+  {
+    "id": 1202236660,
+    "name": "boxsh",
+    "owner": {
+      "id": 26833060,
+      "url": "https://api.github.com/users/xicilion",
+      "html_url": "https://github.com/xicilion",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26833060?v=4"
+    },
+    "html_url": "https://github.com/xicilion/boxsh",
+    "description": "A sandboxed POSIX shell with a concurrent JSON-line RPC mode",
+    "created_at": "2026-04-05T19:25:31Z",
+    "updated_at": "2026-04-06T18:23:01Z",
+    "pushed_at": "2026-04-06T18:22:29Z",
+    "git_url": "git://github.com/xicilion/boxsh.git",
+    "homepage": null,
+    "size": 1412,
+    "stargazers_count": 86,
+    "watchers_count": 86,
+    "language": "JavaScript",
+    "forks_count": 4,
+    "open_issues_count": 4
   }
 ]
