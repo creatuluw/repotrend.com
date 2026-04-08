@@ -15661,5 +15661,51 @@
     "language": "Python",
     "forks_count": 17,
     "open_issues_count": 0
+  },
+  {
+    "id": 1200426344,
+    "name": "paper2code",
+    "owner": {
+      "id": 85804968,
+      "url": "https://api.github.com/users/PrathamLearnsToCode",
+      "html_url": "https://github.com/PrathamLearnsToCode",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85804968?v=4"
+    },
+    "html_url": "https://github.com/PrathamLearnsToCode/paper2code",
+    "description": "Agent skill to turn any arxiv paper into a working implementation",
+    "created_at": "2026-04-03T11:56:42Z",
+    "updated_at": "2026-04-07T18:16:38Z",
+    "pushed_at": "2026-04-03T13:03:52Z",
+    "git_url": "git://github.com/PrathamLearnsToCode/paper2code.git",
+    "homepage": "",
+    "size": 126,
+    "stargazers_count": 665,
+    "watchers_count": 665,
+    "language": "Python",
+    "forks_count": 84,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1203191254,
+    "name": "GTA-V-V2ModMenu-2026",
+    "owner": {
+      "id": 273204997,
+      "url": "https://api.github.com/users/venskoske496",
+      "html_url": "https://github.com/venskoske496",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273204997?v=4"
+    },
+    "html_url": "https://github.com/venskoske496/GTA-V-V2ModMenu-2026",
+    "description": "FiveM | Kiddions is a high-performance external utility for Grand Theft Auto V, utilizing a non-invasive memory management engine. This framework provides an optimized overlay, telemetry monitoring, and script execution environment based on the industry-standard Modest Menu architecture",
+    "created_at": "2026-04-06T20:10:44Z",
+    "updated_at": "2026-04-07T20:26:03Z",
+    "pushed_at": "2026-04-06T20:13:35Z",
+    "git_url": "git://github.com/venskoske496/GTA-V-V2ModMenu-2026.git",
+    "homepage": "",
+    "size": 6,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
