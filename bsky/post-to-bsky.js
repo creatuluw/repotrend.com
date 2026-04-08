@@ -102,10 +102,18 @@ function formatNumber(num) {
   return num.toString();
 }
 
-// Truncate text to a maximum number of graphemes (characters)
-function truncateText(text, maxLength) {
-  if (!text || text.length <= maxLength) return text;
-  return text.substring(0, maxLength - 3) + "...";
+// Truncate text to a maximum number of graphemes
+function truncateText(text, maxGraphemes) {
+  if (!text) return text;
+  const segmenter = new Intl.Segmenter("en", { granularity: "grapheme" });
+  const segments = [...segmenter.segment(text)];
+  if (segments.length <= maxGraphemes) return text;
+  return (
+    segments
+      .slice(0, maxGraphemes - 3)
+      .map((s) => s.segment)
+      .join("") + "..."
+  );
 }
 
 // Get CSS class for language color
