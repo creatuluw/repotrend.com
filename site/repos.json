@@ -15316,5 +15316,51 @@
     "language": "TypeScript",
     "forks_count": 12,
     "open_issues_count": 0
+  },
+  {
+    "id": 1187868068,
+    "name": "spec_driven_develop",
+    "owner": {
+      "id": 46916148,
+      "url": "https://api.github.com/users/zhu1090093659",
+      "html_url": "https://github.com/zhu1090093659",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46916148?v=4"
+    },
+    "html_url": "https://github.com/zhu1090093659/spec_driven_develop",
+    "description": "Spec-Driven Develop is a platform-agnostic AI agent skill that automates the pre-development workflow for large-scale complex tasks. It is not a framework, not a runtime, not a package manager — it is a single SKILL.md file that teaches any AI coding agent a structured methodology.",
+    "created_at": "2026-03-21T09:37:20Z",
+    "updated_at": "2026-04-07T14:40:32Z",
+    "pushed_at": "2026-04-07T09:50:28Z",
+    "git_url": "git://github.com/zhu1090093659/spec_driven_develop.git",
+    "homepage": "https://github.com/zhu1090093659/spec_driven_develop",
+    "size": 115,
+    "stargazers_count": 646,
+    "watchers_count": 646,
+    "language": "Shell",
+    "forks_count": 84,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1202946377,
+    "name": "UnrealRoboticsLab",
+    "owner": {
+      "id": 272231138,
+      "url": "https://api.github.com/users/URLab-Sim",
+      "html_url": "https://github.com/URLab-Sim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272231138?v=4"
+    },
+    "html_url": "https://github.com/URLab-Sim/UnrealRoboticsLab",
+    "description": "A high-fidelity, open-source robotics simulator integrating Unreal Engine's photorealistic rendering with MuJoCo's precision physics.",
+    "created_at": "2026-04-06T15:07:16Z",
+    "updated_at": "2026-04-08T00:40:13Z",
+    "pushed_at": "2026-04-06T15:14:38Z",
+    "git_url": "git://github.com/URLab-Sim/UnrealRoboticsLab.git",
+    "homepage": "https://urlab-sim.github.io/UnrealRoboticsLab/",
+    "size": 3731,
+    "stargazers_count": 77,
+    "watchers_count": 77,
+    "language": "C++",
+    "forks_count": 4,
+    "open_issues_count": 2
   }
 ]
