@@ -16006,5 +16006,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1202599845,
+    "name": "khazix-skills",
+    "owner": {
+      "id": 239590580,
+      "url": "https://api.github.com/users/KKKKhazix",
+      "html_url": "https://github.com/KKKKhazix",
+      "avatar_url": "https://avatars.githubusercontent.com/u/239590580?v=4"
+    },
+    "html_url": "https://github.com/KKKKhazix/khazix-skills",
+    "description": "数字生命卡兹克开源的 AI Skills 合集",
+    "created_at": "2026-04-06T07:37:02Z",
+    "updated_at": "2026-04-07T18:14:03Z",
+    "pushed_at": "2026-04-06T16:17:00Z",
+    "git_url": "git://github.com/KKKKhazix/khazix-skills.git",
+    "homepage": null,
+    "size": 47,
+    "stargazers_count": 895,
+    "watchers_count": 895,
+    "language": null,
+    "forks_count": 204,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1202547449,
+    "name": "claude-video-kit",
+    "owner": {
+      "id": 245669230,
+      "url": "https://api.github.com/users/runesleo",
+      "html_url": "https://github.com/runesleo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/245669230?v=4"
+    },
+    "html_url": "https://github.com/runesleo/claude-video-kit",
+    "description": "AI-powered short-form video pipeline: TTS + Whisper + Remotion. Write a JSON script, get a vertical video.",
+    "created_at": "2026-04-06T06:16:07Z",
+    "updated_at": "2026-04-07T18:17:00Z",
+    "pushed_at": "2026-04-06T10:42:01Z",
+    "git_url": "git://github.com/runesleo/claude-video-kit.git",
+    "homepage": null,
+    "size": 73,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": "TypeScript",
+    "forks_count": 18,
+    "open_issues_count": 0
   }
 ]
