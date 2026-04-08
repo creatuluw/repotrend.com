@@ -16098,5 +16098,28 @@
     "language": "Python",
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1201818760,
+    "name": "fal-3d-anything",
+    "owner": {
+      "id": 173838289,
+      "url": "https://api.github.com/users/blendi-remade",
+      "html_url": "https://github.com/blendi-remade",
+      "avatar_url": "https://avatars.githubusercontent.com/u/173838289?v=4"
+    },
+    "html_url": "https://github.com/blendi-remade/fal-3d-anything",
+    "description": null,
+    "created_at": "2026-04-05T07:49:03Z",
+    "updated_at": "2026-04-07T09:50:00Z",
+    "pushed_at": "2026-04-05T10:38:10Z",
+    "git_url": "git://github.com/blendi-remade/fal-3d-anything.git",
+    "homepage": null,
+    "size": 73,
+    "stargazers_count": 60,
+    "watchers_count": 60,
+    "language": "JavaScript",
+    "forks_count": 11,
+    "open_issues_count": 0
   }
 ]
