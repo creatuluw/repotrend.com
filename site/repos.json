@@ -16121,5 +16121,51 @@
     "language": "JavaScript",
     "forks_count": 11,
     "open_issues_count": 0
+  },
+  {
+    "id": 1177353643,
+    "name": "scion",
+    "owner": {
+      "id": 2810941,
+      "url": "https://api.github.com/users/GoogleCloudPlatform",
+      "html_url": "https://github.com/GoogleCloudPlatform",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2810941?v=4"
+    },
+    "html_url": "https://github.com/GoogleCloudPlatform/scion",
+    "description": null,
+    "created_at": "2026-03-10T00:19:58Z",
+    "updated_at": "2026-04-08T18:26:49Z",
+    "pushed_at": "2026-04-08T02:52:24Z",
+    "git_url": "git://github.com/GoogleCloudPlatform/scion.git",
+    "homepage": null,
+    "size": 10194,
+    "stargazers_count": 806,
+    "watchers_count": 806,
+    "language": "Go",
+    "forks_count": 103,
+    "open_issues_count": 37
+  },
+  {
+    "id": 1202783418,
+    "name": "cti-expert",
+    "owner": {
+      "id": 72960444,
+      "url": "https://api.github.com/users/7onez",
+      "html_url": "https://github.com/7onez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72960444?v=4"
+    },
+    "html_url": "https://github.com/7onez/cti-expert",
+    "description": "CTI Expert — Cyber Threat Intelligence & OSINT analysis skill for Claude Code. 67+ commands, 35 techniques, no API keys required.",
+    "created_at": "2026-04-06T11:52:32Z",
+    "updated_at": "2026-04-08T18:32:40Z",
+    "pushed_at": "2026-04-08T18:32:36Z",
+    "git_url": "git://github.com/7onez/cti-expert.git",
+    "homepage": "",
+    "size": 262,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 0
   }
 ]
