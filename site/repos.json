@@ -15960,5 +15960,28 @@
     "language": "QML",
     "forks_count": 0,
     "open_issues_count": 5
+  },
+  {
+    "id": 1200046559,
+    "name": "HYDRV",
+    "owner": {
+      "id": 273244413,
+      "url": "https://api.github.com/users/Team-HYDRV",
+      "html_url": "https://github.com/Team-HYDRV",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273244413?v=4"
+    },
+    "html_url": "https://github.com/Team-HYDRV/HYDRV",
+    "description": "Android release browsing, kept clean.",
+    "created_at": "2026-04-03T01:29:39Z",
+    "updated_at": "2026-04-06T18:18:28Z",
+    "pushed_at": "2026-04-06T13:47:31Z",
+    "git_url": "git://github.com/Team-HYDRV/HYDRV.git",
+    "homepage": "https://hydrv.app",
+    "size": 16659,
+    "stargazers_count": 67,
+    "watchers_count": 67,
+    "language": "Kotlin",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
