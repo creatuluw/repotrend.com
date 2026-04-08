@@ -15454,5 +15454,51 @@
     "language": "JavaScript",
     "forks_count": 37,
     "open_issues_count": 0
+  },
+  {
+    "id": 1189762474,
+    "name": "harness-engineering",
+    "owner": {
+      "id": 42929363,
+      "url": "https://api.github.com/users/deusyu",
+      "html_url": "https://github.com/deusyu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42929363?v=4"
+    },
+    "html_url": "https://github.com/deusyu/harness-engineering",
+    "description": "Harness Engineering 学习指南 — 从概念理解到独立实践的深度学习档案",
+    "created_at": "2026-03-23T16:35:38Z",
+    "updated_at": "2026-04-08T00:37:16Z",
+    "pushed_at": "2026-04-04T14:40:47Z",
+    "git_url": "git://github.com/deusyu/harness-engineering.git",
+    "homepage": null,
+    "size": 73,
+    "stargazers_count": 708,
+    "watchers_count": 708,
+    "language": null,
+    "forks_count": 73,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1203445878,
+    "name": "Learn-Open-Harness",
+    "owner": {
+      "id": 144026857,
+      "url": "https://api.github.com/users/joyehuang",
+      "html_url": "https://github.com/joyehuang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/144026857?v=4"
+    },
+    "html_url": "https://github.com/joyehuang/Learn-Open-Harness",
+    "description": "🤖 Official Interactive Tutorial for OpenHarness – Zero to Hero in 12 Chapters | Learn OpenHarness like Claude Code: Agent Loop, Tools, Memory, Multi-Agent | 面向零基础的 AI Agent 交互式教程",
+    "created_at": "2026-04-07T03:37:02Z",
+    "updated_at": "2026-04-07T22:39:15Z",
+    "pushed_at": "2026-04-07T16:20:35Z",
+    "git_url": "git://github.com/joyehuang/Learn-Open-Harness.git",
+    "homepage": "https://learn-open-harness.vercel.app/",
+    "size": 47171,
+    "stargazers_count": 72,
+    "watchers_count": 72,
+    "language": "TypeScript",
+    "forks_count": 15,
+    "open_issues_count": 0
   }
 ]
