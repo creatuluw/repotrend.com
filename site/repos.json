@@ -15500,5 +15500,74 @@
     "language": "TypeScript",
     "forks_count": 15,
     "open_issues_count": 0
+  },
+  {
+    "id": 1197145423,
+    "name": "free-code",
+    "owner": {
+      "id": 201222836,
+      "url": "https://api.github.com/users/paoloanzn",
+      "html_url": "https://github.com/paoloanzn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/201222836?v=4"
+    },
+    "html_url": "https://github.com/paoloanzn/free-code",
+    "description": "[NOTE] Parent repo is migrating ownership, until the operation is done this repo is blocked. The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental features enabled.",
+    "created_at": "2026-03-31T11:11:49Z",
+    "updated_at": "2026-04-08T00:31:34Z",
+    "pushed_at": "2026-04-01T16:24:23Z",
+    "git_url": "git://github.com/paoloanzn/free-code.git",
+    "homepage": "https://x.com/paoloanzn/status/2039022418698907949?s=20",
+    "size": 13435,
+    "stargazers_count": 7262,
+    "watchers_count": 7262,
+    "language": "TypeScript",
+    "forks_count": 1396,
+    "open_issues_count": 11
+  },
+  {
+    "id": 1202158137,
+    "name": "tong-jincheng-skill",
+    "owner": {
+      "id": 153452553,
+      "url": "https://api.github.com/users/hotcoffeeshake",
+      "html_url": "https://github.com/hotcoffeeshake",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153452553?v=4"
+    },
+    "html_url": "https://github.com/hotcoffeeshake/tong-jincheng-skill",
+    "description": "童锦程视角 Skill — 用深情祖师爷的思维框架分析人际关系",
+    "created_at": "2026-04-05T17:13:59Z",
+    "updated_at": "2026-04-07T18:19:08Z",
+    "pushed_at": "2026-04-06T08:51:59Z",
+    "git_url": "git://github.com/hotcoffeeshake/tong-jincheng-skill.git",
+    "homepage": null,
+    "size": 20,
+    "stargazers_count": 843,
+    "watchers_count": 843,
+    "language": null,
+    "forks_count": 135,
+    "open_issues_count": 11
+  },
+  {
+    "id": 1202347328,
+    "name": "ripgrep-node",
+    "owner": {
+      "id": 263128954,
+      "url": "https://api.github.com/users/pithings",
+      "html_url": "https://github.com/pithings",
+      "avatar_url": "https://avatars.githubusercontent.com/u/263128954?v=4"
+    },
+    "html_url": "https://github.com/pithings/ripgrep-node",
+    "description": "ripgrep in a compact and cross-platform npm package. Works with Node.js, Bun, and Deno without native binaries. Bundler-friendly, with the WASM embedded as z85+brotli.",
+    "created_at": "2026-04-05T23:24:43Z",
+    "updated_at": "2026-04-07T17:18:13Z",
+    "pushed_at": "2026-04-06T10:36:21Z",
+    "git_url": "git://github.com/pithings/ripgrep-node.git",
+    "homepage": "",
+    "size": 1862,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": "JavaScript",
+    "forks_count": 3,
+    "open_issues_count": 1
   }
 ]
