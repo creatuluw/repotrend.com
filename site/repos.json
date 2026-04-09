@@ -16190,5 +16190,28 @@
     "language": "C",
     "forks_count": 5,
     "open_issues_count": 1
+  },
+  {
+    "id": 1201337744,
+    "name": "the-bridge",
+    "owner": {
+      "id": 120954554,
+      "url": "https://api.github.com/users/mariovallereyes",
+      "html_url": "https://github.com/mariovallereyes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/120954554?v=4"
+    },
+    "html_url": "https://github.com/mariovallereyes/the-bridge",
+    "description": "Open-source protocol for humans to organize task delegation to their own AI subscriptions, through the filesystem, not through APIs.",
+    "created_at": "2026-04-04T14:43:32Z",
+    "updated_at": "2026-04-07T08:39:44Z",
+    "pushed_at": "2026-04-06T18:35:00Z",
+    "git_url": "git://github.com/mariovallereyes/the-bridge.git",
+    "homepage": null,
+    "size": 103,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "Shell",
+    "forks_count": 5,
+    "open_issues_count": 0
   }
 ]
