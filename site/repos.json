@@ -16305,5 +16305,51 @@
     "language": null,
     "forks_count": 5,
     "open_issues_count": 4
+  },
+  {
+    "id": 1199996304,
+    "name": "BlueHammer",
+    "owner": {
+      "id": 271389851,
+      "url": "https://api.github.com/users/Nightmare-Eclipse",
+      "html_url": "https://github.com/Nightmare-Eclipse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271389851?v=4"
+    },
+    "html_url": "https://github.com/Nightmare-Eclipse/BlueHammer",
+    "description": "Repository hosting the bluehammer vulnerability",
+    "created_at": "2026-04-02T23:38:24Z",
+    "updated_at": "2026-04-08T18:32:02Z",
+    "pushed_at": "2026-04-03T13:01:25Z",
+    "git_url": "git://github.com/Nightmare-Eclipse/BlueHammer.git",
+    "homepage": null,
+    "size": 606,
+    "stargazers_count": 686,
+    "watchers_count": 686,
+    "language": "C",
+    "forks_count": 255,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1202135641,
+    "name": "agent-session-bridge",
+    "owner": {
+      "id": 31819391,
+      "url": "https://api.github.com/users/bohdanpodvirnyi",
+      "html_url": "https://github.com/bohdanpodvirnyi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31819391?v=4"
+    },
+    "html_url": "https://github.com/bohdanpodvirnyi/agent-session-bridge",
+    "description": "Bridge local AI coding sessions between Pi, Claude Code, and Codex.",
+    "created_at": "2026-04-05T16:39:03Z",
+    "updated_at": "2026-04-06T18:23:49Z",
+    "pushed_at": "2026-04-06T13:00:46Z",
+    "git_url": "git://github.com/bohdanpodvirnyi/agent-session-bridge.git",
+    "homepage": "",
+    "size": 4597,
+    "stargazers_count": 56,
+    "watchers_count": 56,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
