@@ -16949,5 +16949,28 @@
     "language": "C",
     "forks_count": 24,
     "open_issues_count": 1
+  },
+  {
+    "id": 1204972849,
+    "name": "zot",
+    "owner": {
+      "id": 219390126,
+      "url": "https://api.github.com/users/Hurricane0698",
+      "html_url": "https://github.com/Hurricane0698",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219390126?v=4"
+    },
+    "html_url": "https://github.com/Hurricane0698/zot",
+    "description": "A modern terminal environment where humans and AI agents work side by side ",
+    "created_at": "2026-04-08T14:08:31Z",
+    "updated_at": "2026-04-09T18:15:18Z",
+    "pushed_at": "2026-04-09T15:12:46Z",
+    "git_url": "git://github.com/Hurricane0698/zot.git",
+    "homepage": null,
+    "size": 20931,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": "Shell",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
