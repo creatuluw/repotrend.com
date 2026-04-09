@@ -16926,5 +16926,28 @@
     "language": null,
     "forks_count": 12,
     "open_issues_count": 0
+  },
+  {
+    "id": 1203673227,
+    "name": "SNEK_Blue-War-Hammer",
+    "owner": {
+      "id": 228988296,
+      "url": "https://api.github.com/users/atroubledsnake",
+      "html_url": "https://github.com/atroubledsnake",
+      "avatar_url": "https://avatars.githubusercontent.com/u/228988296?v=4"
+    },
+    "html_url": "https://github.com/atroubledsnake/SNEK_Blue-War-Hammer",
+    "description": "Blue Hammer by Nightmare-Eclipse Vulnerability Documentation & Reimplementation.",
+    "created_at": "2026-04-07T09:02:18Z",
+    "updated_at": "2026-04-09T17:26:51Z",
+    "pushed_at": "2026-04-08T16:53:57Z",
+    "git_url": "git://github.com/atroubledsnake/SNEK_Blue-War-Hammer.git",
+    "homepage": "",
+    "size": 224,
+    "stargazers_count": 71,
+    "watchers_count": 71,
+    "language": "C",
+    "forks_count": 24,
+    "open_issues_count": 1
   }
 ]
