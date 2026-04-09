@@ -16213,5 +16213,51 @@
     "language": "Shell",
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1189384516,
+    "name": "repowise",
+    "owner": {
+      "id": 271941743,
+      "url": "https://api.github.com/users/repowise-dev",
+      "html_url": "https://github.com/repowise-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271941743?v=4"
+    },
+    "html_url": "https://github.com/repowise-dev/repowise",
+    "description": "Codebase intelligence for AI-assisted engineering teams — auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.",
+    "created_at": "2026-03-23T09:12:28Z",
+    "updated_at": "2026-04-08T18:20:00Z",
+    "pushed_at": "2026-04-08T03:31:57Z",
+    "git_url": "git://github.com/repowise-dev/repowise.git",
+    "homepage": "https://repowise.dev",
+    "size": 6905,
+    "stargazers_count": 755,
+    "watchers_count": 755,
+    "language": "Python",
+    "forks_count": 116,
+    "open_issues_count": 15
+  },
+  {
+    "id": 1203766752,
+    "name": "MemChinesePalace",
+    "owner": {
+      "id": 917280,
+      "url": "https://api.github.com/users/Chandler-Sun",
+      "html_url": "https://github.com/Chandler-Sun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/917280?v=4"
+    },
+    "html_url": "https://github.com/Chandler-Sun/MemChinesePalace",
+    "description": "用文言文压缩大模型记忆。两千年优化的语言，遇见现代 AI。  Classical Chinese as the ultimate LLM memory compression core. (not a serious project...)",
+    "created_at": "2026-04-07T11:04:46Z",
+    "updated_at": "2026-04-08T15:16:34Z",
+    "pushed_at": "2026-04-07T12:08:18Z",
+    "git_url": "git://github.com/Chandler-Sun/MemChinesePalace.git",
+    "homepage": "",
+    "size": 60,
+    "stargazers_count": 70,
+    "watchers_count": 70,
+    "language": "Python",
+    "forks_count": 9,
+    "open_issues_count": 0
   }
 ]
