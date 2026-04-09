@@ -16742,5 +16742,28 @@
     "language": "Python",
     "forks_count": 4,
     "open_issues_count": 2
+  },
+  {
+    "id": 1204764974,
+    "name": "Prediction-Market-Contracts",
+    "owner": {
+      "id": 13524283,
+      "url": "https://api.github.com/users/haredoggy",
+      "html_url": "https://github.com/haredoggy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13524283?v=4"
+    },
+    "html_url": "https://github.com/haredoggy/Prediction-Market-Contracts",
+    "description": "This is a fork of the Polymarket contract, Now it is available on EVM especially Abstract and Arbitrum.",
+    "created_at": "2026-04-08T10:04:17Z",
+    "updated_at": "2026-04-08T12:39:55Z",
+    "pushed_at": "2026-04-08T10:58:01Z",
+    "git_url": "git://github.com/haredoggy/Prediction-Market-Contracts.git",
+    "homepage": null,
+    "size": 6729,
+    "stargazers_count": 77,
+    "watchers_count": 77,
+    "language": "Solidity",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
