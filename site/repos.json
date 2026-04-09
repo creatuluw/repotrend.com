@@ -16466,5 +16466,51 @@
     "language": "Python",
     "forks_count": 35,
     "open_issues_count": 3
+  },
+  {
+    "id": 1202455524,
+    "name": "KarpathyTalk",
+    "owner": {
+      "id": 241138,
+      "url": "https://api.github.com/users/karpathy",
+      "html_url": "https://github.com/karpathy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241138?v=4"
+    },
+    "html_url": "https://github.com/karpathy/KarpathyTalk",
+    "description": "A positive developer community for builders and agents.",
+    "created_at": "2026-04-06T03:29:19Z",
+    "updated_at": "2026-04-08T18:31:32Z",
+    "pushed_at": "2026-04-08T16:38:55Z",
+    "git_url": "git://github.com/karpathy/KarpathyTalk.git",
+    "homepage": "",
+    "size": 78,
+    "stargazers_count": 728,
+    "watchers_count": 728,
+    "language": "Go",
+    "forks_count": 68,
+    "open_issues_count": 17
+  },
+  {
+    "id": 1201696151,
+    "name": "ai-infra-skills",
+    "owner": {
+      "id": 187677844,
+      "url": "https://api.github.com/users/aoshen524",
+      "html_url": "https://github.com/aoshen524",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187677844?v=4"
+    },
+    "html_url": "https://github.com/aoshen524/ai-infra-skills",
+    "description": null,
+    "created_at": "2026-04-05T03:04:10Z",
+    "updated_at": "2026-04-08T17:12:38Z",
+    "pushed_at": "2026-04-07T03:48:29Z",
+    "git_url": "git://github.com/aoshen524/ai-infra-skills.git",
+    "homepage": null,
+    "size": 228,
+    "stargazers_count": 93,
+    "watchers_count": 93,
+    "language": null,
+    "forks_count": 9,
+    "open_issues_count": 0
   }
 ]
