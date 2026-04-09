@@ -16765,5 +16765,51 @@
     "language": "Solidity",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1204165003,
+    "name": "claude-usage",
+    "owner": {
+      "id": 7837354,
+      "url": "https://api.github.com/users/phuryn",
+      "html_url": "https://github.com/phuryn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7837354?v=4"
+    },
+    "html_url": "https://github.com/phuryn/claude-usage",
+    "description": "A local dashboard for tracking your Claude Code token usage, costs, and session history. Pro and Max subscribers get a progress bar. This gives you the full picture.",
+    "created_at": "2026-04-07T18:49:32Z",
+    "updated_at": "2026-04-09T12:30:55Z",
+    "pushed_at": "2026-04-09T05:52:08Z",
+    "git_url": "git://github.com/phuryn/claude-usage.git",
+    "homepage": "https://www.productcompass.pm/",
+    "size": 1484,
+    "stargazers_count": 678,
+    "watchers_count": 678,
+    "language": "Python",
+    "forks_count": 100,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1202452025,
+    "name": "voicemail",
+    "owner": {
+      "id": 76782529,
+      "url": "https://api.github.com/users/tomblomfield",
+      "html_url": "https://github.com/tomblomfield",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76782529?v=4"
+    },
+    "html_url": "https://github.com/tomblomfield/voicemail",
+    "description": null,
+    "created_at": "2026-04-06T03:22:13Z",
+    "updated_at": "2026-04-08T00:56:51Z",
+    "pushed_at": "2026-04-08T00:56:42Z",
+    "git_url": "git://github.com/tomblomfield/voicemail.git",
+    "homepage": null,
+    "size": 2592,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": "TypeScript",
+    "forks_count": 11,
+    "open_issues_count": 1
   }
 ]
