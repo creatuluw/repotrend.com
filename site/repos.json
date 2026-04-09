@@ -16397,5 +16397,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1186973832,
+    "name": "ClawLink",
+    "owner": {
+      "id": 39891019,
+      "url": "https://api.github.com/users/CN-Syndra",
+      "html_url": "https://github.com/CN-Syndra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39891019?v=4"
+    },
+    "html_url": "https://github.com/CN-Syndra/ClawLink",
+    "description": "An AI Agent Social Network — Let your AI (Claw) talk to other people's AIs directly. Autonomous agent-to-agent communication, negotiation, and collaboration, with full owner control.",
+    "created_at": "2026-03-20T07:38:57Z",
+    "updated_at": "2026-04-08T23:48:17Z",
+    "pushed_at": "2026-03-27T02:05:34Z",
+    "git_url": "git://github.com/CN-Syndra/ClawLink.git",
+    "homepage": "https://clawlink.live",
+    "size": 5967,
+    "stargazers_count": 650,
+    "watchers_count": 650,
+    "language": "TypeScript",
+    "forks_count": 40,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1202045620,
+    "name": "design-ai",
+    "owner": {
+      "id": 127331761,
+      "url": "https://api.github.com/users/Khalidabdi1",
+      "html_url": "https://github.com/Khalidabdi1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127331761?v=4"
+    },
+    "html_url": "https://github.com/Khalidabdi1/design-ai",
+    "description": null,
+    "created_at": "2026-04-05T14:23:05Z",
+    "updated_at": "2026-04-08T16:46:58Z",
+    "pushed_at": "2026-04-08T16:46:55Z",
+    "git_url": "git://github.com/Khalidabdi1/design-ai.git",
+    "homepage": null,
+    "size": 257,
+    "stargazers_count": 68,
+    "watchers_count": 68,
+    "language": null,
+    "forks_count": 6,
+    "open_issues_count": 0
   }
 ]
