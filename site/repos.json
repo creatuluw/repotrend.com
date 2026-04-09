@@ -16903,5 +16903,28 @@
     "language": "JavaScript",
     "forks_count": 9,
     "open_issues_count": 0
+  },
+  {
+    "id": 1205610984,
+    "name": "sun-skill",
+    "owner": {
+      "id": 274077359,
+      "url": "https://api.github.com/users/0xquqi",
+      "html_url": "https://github.com/0xquqi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/274077359?v=4"
+    },
+    "html_url": "https://github.com/0xquqi/sun-skill",
+    "description": "Justin Sun Cognitive Framework - 孙宇晨认知操作系统 | 21,829 tweets + 288-page autobiography + 155-episode audio course + 269+ sources → 14 mental models + 19 decision heuristics",
+    "created_at": "2026-04-09T05:51:38Z",
+    "updated_at": "2026-04-09T17:21:28Z",
+    "pushed_at": "2026-04-09T06:01:21Z",
+    "git_url": "git://github.com/0xquqi/sun-skill.git",
+    "homepage": null,
+    "size": 115,
+    "stargazers_count": 67,
+    "watchers_count": 67,
+    "language": null,
+    "forks_count": 12,
+    "open_issues_count": 0
   }
 ]
