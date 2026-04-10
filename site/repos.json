@@ -17524,5 +17524,28 @@
     "language": "JavaScript",
     "forks_count": 6,
     "open_issues_count": 1
+  },
+  {
+    "id": 1205298114,
+    "name": "evo-nexus",
+    "owner": {
+      "id": 136080052,
+      "url": "https://api.github.com/users/EvolutionAPI",
+      "html_url": "https://github.com/EvolutionAPI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136080052?v=4"
+    },
+    "html_url": "https://github.com/EvolutionAPI/evo-nexus",
+    "description": "The open source operating system for AI-powered businesses — built on Claude Code",
+    "created_at": "2026-04-08T20:40:58Z",
+    "updated_at": "2026-04-09T18:10:04Z",
+    "pushed_at": "2026-04-09T17:57:00Z",
+    "git_url": "git://github.com/EvolutionAPI/evo-nexus.git",
+    "homepage": "https://openclaude.evolutionfoundation.com.br",
+    "size": 13269,
+    "stargazers_count": 56,
+    "watchers_count": 56,
+    "language": "TypeScript",
+    "forks_count": 19,
+    "open_issues_count": 0
   }
 ]
