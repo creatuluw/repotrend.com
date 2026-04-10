@@ -16972,5 +16972,28 @@
     "language": "Shell",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1201745355,
+    "name": "cc-proxy",
+    "owner": {
+      "id": 177014058,
+      "url": "https://api.github.com/users/fengshao1227",
+      "html_url": "https://github.com/fengshao1227",
+      "avatar_url": "https://avatars.githubusercontent.com/u/177014058?v=4"
+    },
+    "html_url": "https://github.com/fengshao1227/cc-proxy",
+    "description": "openai转claude格式",
+    "created_at": "2026-04-05T05:10:54Z",
+    "updated_at": "2026-04-08T11:48:10Z",
+    "pushed_at": "2026-04-07T11:20:35Z",
+    "git_url": "git://github.com/fengshao1227/cc-proxy.git",
+    "homepage": null,
+    "size": 141,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": "Rust",
+    "forks_count": 3,
+    "open_issues_count": 1
   }
 ]
