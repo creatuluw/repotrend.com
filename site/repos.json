@@ -16995,5 +16995,51 @@
     "language": "Rust",
     "forks_count": 3,
     "open_issues_count": 1
+  },
+  {
+    "id": 1186621765,
+    "name": "opensessions",
+    "owner": {
+      "id": 235773868,
+      "url": "https://api.github.com/users/Ataraxy-Labs",
+      "html_url": "https://github.com/Ataraxy-Labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/235773868?v=4"
+    },
+    "html_url": "https://github.com/Ataraxy-Labs/opensessions",
+    "description": "persistent tmux sidebar showing AI agent status across all sessions",
+    "created_at": "2026-03-19T20:24:35Z",
+    "updated_at": "2026-04-10T00:31:19Z",
+    "pushed_at": "2026-04-08T12:10:51Z",
+    "git_url": "git://github.com/Ataraxy-Labs/opensessions.git",
+    "homepage": "",
+    "size": 436,
+    "stargazers_count": 682,
+    "watchers_count": 682,
+    "language": "TypeScript",
+    "forks_count": 35,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1203527577,
+    "name": "In-Place-TTT",
+    "owner": {
+      "id": 202897071,
+      "url": "https://api.github.com/users/ByteDance-Seed",
+      "html_url": "https://github.com/ByteDance-Seed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/202897071?v=4"
+    },
+    "html_url": "https://github.com/ByteDance-Seed/In-Place-TTT",
+    "description": null,
+    "created_at": "2026-04-07T05:50:45Z",
+    "updated_at": "2026-04-09T15:42:22Z",
+    "pushed_at": "2026-04-08T02:49:33Z",
+    "git_url": "git://github.com/ByteDance-Seed/In-Place-TTT.git",
+    "homepage": null,
+    "size": 6464,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 1
   }
 ]
