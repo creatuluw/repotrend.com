@@ -17501,5 +17501,28 @@
     "language": null,
     "forks_count": 4,
     "open_issues_count": 1
+  },
+  {
+    "id": 1203856133,
+    "name": "CursorBuddy",
+    "owner": {
+      "id": 502002,
+      "url": "https://api.github.com/users/jasonkneen",
+      "html_url": "https://github.com/jasonkneen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/502002?v=4"
+    },
+    "html_url": "https://github.com/jasonkneen/CursorBuddy",
+    "description": "Pucks is a little helper for your cursor",
+    "created_at": "2026-04-07T12:58:21Z",
+    "updated_at": "2026-04-09T18:00:25Z",
+    "pushed_at": "2026-04-09T16:40:15Z",
+    "git_url": "git://github.com/jasonkneen/CursorBuddy.git",
+    "homepage": null,
+    "size": 3196,
+    "stargazers_count": 56,
+    "watchers_count": 56,
+    "language": "JavaScript",
+    "forks_count": 6,
+    "open_issues_count": 1
   }
 ]
