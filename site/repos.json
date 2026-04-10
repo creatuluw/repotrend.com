@@ -17179,5 +17179,51 @@
     "language": "Shell",
     "forks_count": 1,
     "open_issues_count": 1
+  },
+  {
+    "id": 1197739644,
+    "name": "sidex",
+    "owner": {
+      "id": 208135370,
+      "url": "https://api.github.com/users/Sidenai",
+      "html_url": "https://github.com/Sidenai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208135370?v=4"
+    },
+    "html_url": "https://github.com/Sidenai/sidex",
+    "description": "VS Code rebuilt on Tauri. Same architecture, 96% smaller. Early release.",
+    "created_at": "2026-03-31T20:58:31Z",
+    "updated_at": "2026-04-09T18:25:58Z",
+    "pushed_at": "2026-04-09T08:39:52Z",
+    "git_url": "git://github.com/Sidenai/sidex.git",
+    "homepage": "https://discord.gg/8CUCnEAC4J",
+    "size": 22565,
+    "stargazers_count": 839,
+    "watchers_count": 839,
+    "language": "TypeScript",
+    "forks_count": 67,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1204430152,
+    "name": "human-distillation-skills",
+    "owner": {
+      "id": 274377095,
+      "url": "https://api.github.com/users/misshiding",
+      "html_url": "https://github.com/misshiding",
+      "avatar_url": "https://avatars.githubusercontent.com/u/274377095?v=4"
+    },
+    "html_url": "https://github.com/misshiding/human-distillation-skills",
+    "description": "老板.skill、童锦程.skill、特朗普.skill、同事.skill.....一场关于人类的蒸馏实验",
+    "created_at": "2026-04-08T02:13:08Z",
+    "updated_at": "2026-04-09T17:13:18Z",
+    "pushed_at": "2026-04-08T03:52:38Z",
+    "git_url": "git://github.com/misshiding/human-distillation-skills.git",
+    "homepage": null,
+    "size": 9,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": null,
+    "forks_count": 9,
+    "open_issues_count": 0
   }
 ]
