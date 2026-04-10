@@ -17731,5 +17731,28 @@
     "language": "JavaScript",
     "forks_count": 27,
     "open_issues_count": 0
+  },
+  {
+    "id": 1203432577,
+    "name": "evm-arbitrage-bot",
+    "owner": {
+      "id": 273197219,
+      "url": "https://api.github.com/users/BNB-Alpha-Community",
+      "html_url": "https://github.com/BNB-Alpha-Community",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273197219?v=4"
+    },
+    "html_url": "https://github.com/BNB-Alpha-Community/evm-arbitrage-bot",
+    "description": "Multi-Chain MEV Bot | Automated MEV Trading Bot for Ethereum & BNB Chain",
+    "created_at": "2026-04-07T03:13:29Z",
+    "updated_at": "2026-04-10T17:06:52Z",
+    "pushed_at": "2026-04-07T03:16:46Z",
+    "git_url": "git://github.com/BNB-Alpha-Community/evm-arbitrage-bot.git",
+    "homepage": null,
+    "size": 80,
+    "stargazers_count": 69,
+    "watchers_count": 69,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
