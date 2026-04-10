@@ -17087,5 +17087,51 @@
     "language": "Python",
     "forks_count": 9,
     "open_issues_count": 0
+  },
+  {
+    "id": 1183071163,
+    "name": "inspatio-world",
+    "owner": {
+      "id": 260828406,
+      "url": "https://api.github.com/users/inspatio",
+      "html_url": "https://github.com/inspatio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260828406?v=4"
+    },
+    "html_url": "https://github.com/inspatio/inspatio-world",
+    "description": null,
+    "created_at": "2026-03-16T08:43:10Z",
+    "updated_at": "2026-04-10T00:32:48Z",
+    "pushed_at": "2026-04-08T15:34:34Z",
+    "git_url": "git://github.com/inspatio/inspatio-world.git",
+    "homepage": null,
+    "size": 29683,
+    "stargazers_count": 708,
+    "watchers_count": 708,
+    "language": "Python",
+    "forks_count": 49,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1204522074,
+    "name": "pdf-trad-to-simp-preserve-layout-kit",
+    "owner": {
+      "id": 181133457,
+      "url": "https://api.github.com/users/superpilot69",
+      "html_url": "https://github.com/superpilot69",
+      "avatar_url": "https://avatars.githubusercontent.com/u/181133457?v=4"
+    },
+    "html_url": "https://github.com/superpilot69/pdf-trad-to-simp-preserve-layout-kit",
+    "description": "PDF traditional-to-simplified Chinese conversion kit with layout-preserving scripts, Codex skill, and example source/output PDFs.",
+    "created_at": "2026-04-08T04:51:22Z",
+    "updated_at": "2026-04-08T18:01:27Z",
+    "pushed_at": "2026-04-08T05:08:38Z",
+    "git_url": "git://github.com/superpilot69/pdf-trad-to-simp-preserve-layout-kit.git",
+    "homepage": null,
+    "size": 36010,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": "Python",
+    "forks_count": 10,
+    "open_issues_count": 0
   }
 ]
