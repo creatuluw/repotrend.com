@@ -17133,5 +17133,51 @@
     "language": "Python",
     "forks_count": 10,
     "open_issues_count": 0
+  },
+  {
+    "id": 1201480438,
+    "name": "bazi-skill",
+    "owner": {
+      "id": 25997737,
+      "url": "https://api.github.com/users/jinchenma94",
+      "html_url": "https://github.com/jinchenma94",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25997737?v=4"
+    },
+    "html_url": "https://github.com/jinchenma94/bazi-skill",
+    "description": "四柱八字命理分析",
+    "created_at": "2026-04-04T18:27:34Z",
+    "updated_at": "2026-04-09T23:54:12Z",
+    "pushed_at": "2026-04-04T18:46:04Z",
+    "git_url": "git://github.com/jinchenma94/bazi-skill.git",
+    "homepage": null,
+    "size": 16,
+    "stargazers_count": 690,
+    "watchers_count": 690,
+    "language": null,
+    "forks_count": 145,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1203544735,
+    "name": "CIK-Bench",
+    "owner": {
+      "id": 92564714,
+      "url": "https://api.github.com/users/UCSC-VLAA",
+      "html_url": "https://github.com/UCSC-VLAA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92564714?v=4"
+    },
+    "html_url": "https://github.com/UCSC-VLAA/CIK-Bench",
+    "description": null,
+    "created_at": "2026-04-07T06:15:43Z",
+    "updated_at": "2026-04-09T07:37:19Z",
+    "pushed_at": "2026-04-07T07:09:09Z",
+    "git_url": "git://github.com/UCSC-VLAA/CIK-Bench.git",
+    "homepage": null,
+    "size": 7835,
+    "stargazers_count": 85,
+    "watchers_count": 85,
+    "language": "Shell",
+    "forks_count": 1,
+    "open_issues_count": 1
   }
 ]
