@@ -17639,5 +17639,28 @@
     "language": "Lua",
     "forks_count": 4,
     "open_issues_count": 6
+  },
+  {
+    "id": 1204158886,
+    "name": "hermes-optimization-guide",
+    "owner": {
+      "id": 121772140,
+      "url": "https://api.github.com/users/OnlyTerp",
+      "html_url": "https://github.com/OnlyTerp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121772140?v=4"
+    },
+    "html_url": "https://github.com/OnlyTerp/hermes-optimization-guide",
+    "description": "Hermes Agent setup, migration, LightRAG, Telegram, and skill creation guide",
+    "created_at": "2026-04-07T18:42:02Z",
+    "updated_at": "2026-04-10T13:21:43Z",
+    "pushed_at": "2026-04-07T19:39:32Z",
+    "git_url": "git://github.com/OnlyTerp/hermes-optimization-guide.git",
+    "homepage": null,
+    "size": 888,
+    "stargazers_count": 93,
+    "watchers_count": 93,
+    "language": null,
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
