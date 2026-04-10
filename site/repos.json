@@ -17271,5 +17271,28 @@
     "language": "Shell",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1202879140,
+    "name": "sbox-docs",
+    "owner": {
+      "id": 3371040,
+      "url": "https://api.github.com/users/Facepunch",
+      "html_url": "https://github.com/Facepunch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3371040?v=4"
+    },
+    "html_url": "https://github.com/Facepunch/sbox-docs",
+    "description": "Official documentation for s&box",
+    "created_at": "2026-04-06T13:51:42Z",
+    "updated_at": "2026-04-09T17:31:06Z",
+    "pushed_at": "2026-04-09T17:31:00Z",
+    "git_url": "git://github.com/Facepunch/sbox-docs.git",
+    "homepage": "https://sbox.game/dev/doc/",
+    "size": 882461,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": null,
+    "forks_count": 11,
+    "open_issues_count": 1
   }
 ]
