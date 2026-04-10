@@ -17455,5 +17455,51 @@
     "language": null,
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1180889863,
+    "name": "hypura",
+    "owner": {
+      "id": 20846869,
+      "url": "https://api.github.com/users/t8",
+      "html_url": "https://github.com/t8",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20846869?v=4"
+    },
+    "html_url": "https://github.com/t8/hypura",
+    "description": "Run models too big for your Mac's memory",
+    "created_at": "2026-03-13T14:19:31Z",
+    "updated_at": "2026-04-08T23:56:33Z",
+    "pushed_at": "2026-04-08T00:02:57Z",
+    "git_url": "git://github.com/t8/hypura.git",
+    "homepage": "",
+    "size": 4600,
+    "stargazers_count": 627,
+    "watchers_count": 627,
+    "language": "Rust",
+    "forks_count": 18,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1202927625,
+    "name": "caveman-distillate",
+    "owner": {
+      "id": 6764649,
+      "url": "https://api.github.com/users/dlepold",
+      "html_url": "https://github.com/dlepold",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6764649?v=4"
+    },
+    "html_url": "https://github.com/dlepold/caveman-distillate",
+    "description": "Caveman Distillate — ultra-compressed AI output mode. Distill text to its core. ~90 tokens, ~65% output savings. Claude Code skill.",
+    "created_at": "2026-04-06T14:45:37Z",
+    "updated_at": "2026-04-08T17:23:16Z",
+    "pushed_at": "2026-04-06T14:48:01Z",
+    "git_url": "git://github.com/dlepold/caveman-distillate.git",
+    "homepage": null,
+    "size": 4,
+    "stargazers_count": 62,
+    "watchers_count": 62,
+    "language": null,
+    "forks_count": 4,
+    "open_issues_count": 1
   }
 ]
