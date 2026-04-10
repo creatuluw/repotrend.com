@@ -17041,5 +17041,51 @@
     "language": "Python",
     "forks_count": 4,
     "open_issues_count": 1
+  },
+  {
+    "id": 1198370352,
+    "name": "clawgod",
+    "owner": {
+      "id": 19362246,
+      "url": "https://api.github.com/users/0Chencc",
+      "html_url": "https://github.com/0Chencc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19362246?v=4"
+    },
+    "html_url": "https://github.com/0Chencc/clawgod",
+    "description": "This is NOT a third-party Claude Code client. ClawGod is a runtime patch applied on top of the official Claude Code. It works with any version — as Claude Code updates, the patch continues to take effect",
+    "created_at": "2026-04-01T11:09:07Z",
+    "updated_at": "2026-04-09T19:43:41Z",
+    "pushed_at": "2026-04-08T13:55:49Z",
+    "git_url": "git://github.com/0Chencc/clawgod.git",
+    "homepage": "http://clawgod.0chen.cc/",
+    "size": 118,
+    "stargazers_count": 662,
+    "watchers_count": 662,
+    "language": "Shell",
+    "forks_count": 141,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1204345541,
+    "name": "DISCO",
+    "owner": {
+      "id": 272650941,
+      "url": "https://api.github.com/users/DISCO-design",
+      "html_url": "https://github.com/DISCO-design",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272650941?v=4"
+    },
+    "html_url": "https://github.com/DISCO-design/DISCO",
+    "description": "Code for the DISCO model: General Multimodal Protein Design Enables DNA-Encoding of Chemistry",
+    "created_at": "2026-04-07T23:33:43Z",
+    "updated_at": "2026-04-09T23:44:07Z",
+    "pushed_at": "2026-04-09T19:27:30Z",
+    "git_url": "git://github.com/DISCO-design/DISCO.git",
+    "homepage": "https://disco-design.github.io/",
+    "size": 16405,
+    "stargazers_count": 86,
+    "watchers_count": 86,
+    "language": "Python",
+    "forks_count": 9,
+    "open_issues_count": 0
   }
 ]
