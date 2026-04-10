@@ -17685,5 +17685,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1200994191,
+    "name": "Keychron-Keyboards-Hardware-Design",
+    "owner": {
+      "id": 81507483,
+      "url": "https://api.github.com/users/Keychron",
+      "html_url": "https://github.com/Keychron",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81507483?v=4"
+    },
+    "html_url": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design",
+    "description": "All the industrial design files for Keychron keyboards and mice. Includes CAD models (case, plate, stabilizer, encoder, keycap) for Q, Q Pro, Q HE, K Pro, K Max, K HE, V Max, P HE series and M1–M7 mice. 100+ models. STEP/DXF/PDF formats. This project is source-available. Commercial use is strictly prohibited.",
+    "created_at": "2026-04-04T04:28:32Z",
+    "updated_at": "2026-04-09T18:27:20Z",
+    "pushed_at": "2026-04-09T15:29:50Z",
+    "git_url": "git://github.com/Keychron/Keychron-Keyboards-Hardware-Design.git",
+    "homepage": "https://www.keychron.com/",
+    "size": 952271,
+    "stargazers_count": 922,
+    "watchers_count": 922,
+    "language": "Python",
+    "forks_count": 75,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1204373756,
+    "name": "multiPagePlugins",
+    "owner": {
+      "id": 38481975,
+      "url": "https://api.github.com/users/wxwxOk",
+      "html_url": "https://github.com/wxwxOk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38481975?v=4"
+    },
+    "html_url": "https://github.com/wxwxOk/multiPagePlugins",
+    "description": null,
+    "created_at": "2026-04-08T00:30:38Z",
+    "updated_at": "2026-04-09T15:06:09Z",
+    "pushed_at": "2026-04-09T00:35:23Z",
+    "git_url": "git://github.com/wxwxOk/multiPagePlugins.git",
+    "homepage": null,
+    "size": 116,
+    "stargazers_count": 79,
+    "watchers_count": 79,
+    "language": "JavaScript",
+    "forks_count": 27,
+    "open_issues_count": 0
   }
 ]
