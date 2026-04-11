@@ -17777,5 +17777,51 @@
     "language": "PowerShell",
     "forks_count": 13,
     "open_issues_count": 0
+  },
+  {
+    "id": 1202745354,
+    "name": "claude-skill-app-onboarding-questionnaire",
+    "owner": {
+      "id": 40189502,
+      "url": "https://api.github.com/users/adamlyttleapps",
+      "html_url": "https://github.com/adamlyttleapps",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40189502?v=4"
+    },
+    "html_url": "https://github.com/adamlyttleapps/claude-skill-app-onboarding-questionnaire",
+    "description": " A Claude Code skill that designs and builds high-converting questionnaire-style app onboarding flows — modelled    on proven conversion patterns from top subscription apps like Mob, Headspace and Noom",
+    "created_at": "2026-04-06T11:00:14Z",
+    "updated_at": "2026-04-11T00:40:47Z",
+    "pushed_at": "2026-04-06T11:04:41Z",
+    "git_url": "git://github.com/adamlyttleapps/claude-skill-app-onboarding-questionnaire.git",
+    "homepage": null,
+    "size": 19655,
+    "stargazers_count": 701,
+    "watchers_count": 701,
+    "language": null,
+    "forks_count": 87,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1206725675,
+    "name": "Lossless-Scaling-For-GitHub",
+    "owner": {
+      "id": 273207787,
+      "url": "https://api.github.com/users/outcasterelk2",
+      "html_url": "https://github.com/outcasterelk2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273207787?v=4"
+    },
+    "html_url": "https://github.com/outcasterelk2/Lossless-Scaling-For-GitHub",
+    "description": "**Lossless Scaling** is a powerful and user-friendly tool that enhances your gaming and application experience by intelligently scaling windowed content to fullscreen without sacrificing image quality. ",
+    "created_at": "2026-04-10T07:37:35Z",
+    "updated_at": "2026-04-10T17:02:58Z",
+    "pushed_at": "2026-04-10T07:48:20Z",
+    "git_url": "git://github.com/outcasterelk2/Lossless-Scaling-For-GitHub.git",
+    "homepage": "",
+    "size": 4,
+    "stargazers_count": 64,
+    "watchers_count": 64,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
