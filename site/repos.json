@@ -18559,5 +18559,51 @@
     "language": "Python",
     "forks_count": 14,
     "open_issues_count": 0
+  },
+  {
+    "id": 1207091162,
+    "name": "fireworks-tech-graph",
+    "owner": {
+      "id": 251871046,
+      "url": "https://api.github.com/users/yizhiyanhua-ai",
+      "html_url": "https://github.com/yizhiyanhua-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251871046?v=4"
+    },
+    "html_url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
+    "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
+    "created_at": "2026-04-10T15:07:10Z",
+    "updated_at": "2026-04-11T18:15:47Z",
+    "pushed_at": "2026-04-11T14:55:14Z",
+    "git_url": "git://github.com/yizhiyanhua-ai/fireworks-tech-graph.git",
+    "homepage": null,
+    "size": 2366,
+    "stargazers_count": 841,
+    "watchers_count": 841,
+    "language": "Shell",
+    "forks_count": 67,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1206317538,
+    "name": "waveshare-watch-rs",
+    "owner": {
+      "id": 37984399,
+      "url": "https://api.github.com/users/infinition",
+      "html_url": "https://github.com/infinition",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37984399?v=4"
+    },
+    "html_url": "https://github.com/infinition/waveshare-watch-rs",
+    "description": "100% Rust `no_std` smartwatch firmware for the Waveshare ESP32-S3-Touch-AMOLED-2.06",
+    "created_at": "2026-04-09T19:48:40Z",
+    "updated_at": "2026-04-11T18:15:30Z",
+    "pushed_at": "2026-04-10T11:23:11Z",
+    "git_url": "git://github.com/infinition/waveshare-watch-rs.git",
+    "homepage": null,
+    "size": 104,
+    "stargazers_count": 97,
+    "watchers_count": 97,
+    "language": "Rust",
+    "forks_count": 6,
+    "open_issues_count": 0
   }
 ]
