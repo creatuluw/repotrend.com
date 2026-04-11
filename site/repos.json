@@ -18375,5 +18375,28 @@
     "language": "Swift",
     "forks_count": 3,
     "open_issues_count": 3
+  },
+  {
+    "id": 1205606868,
+    "name": "MiniCC",
+    "owner": {
+      "id": 188828090,
+      "url": "https://api.github.com/users/Louisym",
+      "html_url": "https://github.com/Louisym",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188828090?v=4"
+    },
+    "html_url": "https://github.com/Louisym/MiniCC",
+    "description": "从源码学习 Claude Code，19个教学demo + 手写13模块mini版，忠实还原CC的生产级工程模式",
+    "created_at": "2026-04-09T05:45:37Z",
+    "updated_at": "2026-04-10T13:15:57Z",
+    "pushed_at": "2026-04-10T08:12:30Z",
+    "git_url": "git://github.com/Louisym/MiniCC.git",
+    "homepage": "",
+    "size": 6337,
+    "stargazers_count": 55,
+    "watchers_count": 55,
+    "language": "Rust",
+    "forks_count": 15,
+    "open_issues_count": 0
   }
 ]
