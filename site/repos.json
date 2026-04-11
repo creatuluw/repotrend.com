@@ -18444,5 +18444,51 @@
     "language": "Rust",
     "forks_count": 17,
     "open_issues_count": 0
+  },
+  {
+    "id": 1198752611,
+    "name": "JSON-Alexander",
+    "owner": {
+      "id": 176013,
+      "url": "https://api.github.com/users/wesbos",
+      "html_url": "https://github.com/wesbos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/176013?v=4"
+    },
+    "html_url": "https://github.com/wesbos/JSON-Alexander",
+    "description": "A really good JSON viewer browser Extension",
+    "created_at": "2026-04-01T18:14:58Z",
+    "updated_at": "2026-04-11T09:54:41Z",
+    "pushed_at": "2026-04-10T18:28:00Z",
+    "git_url": "git://github.com/wesbos/JSON-Alexander.git",
+    "homepage": null,
+    "size": 3155,
+    "stargazers_count": 661,
+    "watchers_count": 661,
+    "language": "TypeScript",
+    "forks_count": 32,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1205043823,
+    "name": "ZhangXueFeng-skill",
+    "owner": {
+      "id": 265970055,
+      "url": "https://api.github.com/users/a18515373115-droid",
+      "html_url": "https://github.com/a18515373115-droid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/265970055?v=4"
+    },
+    "html_url": "https://github.com/a18515373115-droid/ZhangXueFeng-skill",
+    "description": "看到有人用女娲skill捏了zhangxuefeng-skill，体验了下，只有张雪峰的情绪价值，缺少了对数据准确性的保障。于是萌生了迭代到一个数据更准确的版本，能够真正为参与高考的学子和望子成龙/凤的焦灼父母们提供准确决策依据的高考Agent。",
+    "created_at": "2026-04-08T15:23:09Z",
+    "updated_at": "2026-04-11T10:17:25Z",
+    "pushed_at": "2026-04-09T02:45:19Z",
+    "git_url": "git://github.com/a18515373115-droid/ZhangXueFeng-skill.git",
+    "homepage": null,
+    "size": 106,
+    "stargazers_count": 88,
+    "watchers_count": 88,
+    "language": null,
+    "forks_count": 58,
+    "open_issues_count": 1
   }
 ]
