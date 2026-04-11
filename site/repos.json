@@ -18122,5 +18122,51 @@
     "language": "Python",
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1191791121,
+    "name": "cli",
+    "owner": {
+      "id": 194880281,
+      "url": "https://api.github.com/users/MiniMax-AI",
+      "html_url": "https://github.com/MiniMax-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/194880281?v=4"
+    },
+    "html_url": "https://github.com/MiniMax-AI/cli",
+    "description": "Generate text, images, video, speech, and music by MiniMax.",
+    "created_at": "2026-03-25T15:34:45Z",
+    "updated_at": "2026-04-11T06:29:29Z",
+    "pushed_at": "2026-04-10T16:53:59Z",
+    "git_url": "git://github.com/MiniMax-AI/cli.git",
+    "homepage": "https://platform.minimax.io/subscribe/token-plan",
+    "size": 337,
+    "stargazers_count": 783,
+    "watchers_count": 783,
+    "language": "TypeScript",
+    "forks_count": 51,
+    "open_issues_count": 24
+  },
+  {
+    "id": 1206890483,
+    "name": "claude-code-lsp-enforcement-kit",
+    "owner": {
+      "id": 86781810,
+      "url": "https://api.github.com/users/nesaminua",
+      "html_url": "https://github.com/nesaminua",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86781810?v=4"
+    },
+    "html_url": "https://github.com/nesaminua/claude-code-lsp-enforcement-kit",
+    "description": "Hooks that force Claude Code to use LSP instead of Grep for code navigation. Saves   ~80% tokens",
+    "created_at": "2026-04-10T11:02:12Z",
+    "updated_at": "2026-04-11T06:13:56Z",
+    "pushed_at": "2026-04-10T23:25:13Z",
+    "git_url": "git://github.com/nesaminua/claude-code-lsp-enforcement-kit.git",
+    "homepage": null,
+    "size": 59,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 1
   }
 ]
