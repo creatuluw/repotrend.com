@@ -17961,5 +17961,74 @@
     "language": "Python",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1201730379,
+    "name": "nuwa-skill",
+    "owner": {
+      "id": 127714341,
+      "url": "https://api.github.com/users/alchaincyf",
+      "html_url": "https://github.com/alchaincyf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
+    },
+    "html_url": "https://github.com/alchaincyf/nuwa-skill",
+    "description": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
+    "created_at": "2026-04-05T04:33:04Z",
+    "updated_at": "2026-04-10T18:20:27Z",
+    "pushed_at": "2026-04-10T11:59:19Z",
+    "git_url": "git://github.com/alchaincyf/nuwa-skill.git",
+    "homepage": null,
+    "size": 18053,
+    "stargazers_count": 6528,
+    "watchers_count": 6528,
+    "language": "Python",
+    "forks_count": 969,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1187846546,
+    "name": "agent-flow",
+    "owner": {
+      "id": 4022964,
+      "url": "https://api.github.com/users/patoles",
+      "html_url": "https://github.com/patoles",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4022964?v=4"
+    },
+    "html_url": "https://github.com/patoles/agent-flow",
+    "description": "Real-time visualization of Claude Code agent orchestration — see your agents think, branch, and coordinate as they work.",
+    "created_at": "2026-03-21T08:53:27Z",
+    "updated_at": "2026-04-10T19:42:29Z",
+    "pushed_at": "2026-03-28T07:27:12Z",
+    "git_url": "git://github.com/patoles/agent-flow.git",
+    "homepage": "https://marketplace.visualstudio.com/items?itemName=simon-p.agent-flow",
+    "size": 899,
+    "stargazers_count": 640,
+    "watchers_count": 640,
+    "language": "TypeScript",
+    "forks_count": 75,
+    "open_issues_count": 17
+  },
+  {
+    "id": 1204426275,
+    "name": "mssqlbof",
+    "owner": {
+      "id": 54814433,
+      "url": "https://api.github.com/users/MazX0p",
+      "html_url": "https://github.com/MazX0p",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54814433?v=4"
+    },
+    "html_url": "https://github.com/MazX0p/mssqlbof",
+    "description": "A Beacon Object File suite for Microsoft SQL Server that speaks TDS 7.4 on the wire itself",
+    "created_at": "2026-04-08T02:06:36Z",
+    "updated_at": "2026-04-10T11:49:48Z",
+    "pushed_at": "2026-04-09T11:23:05Z",
+    "git_url": "git://github.com/MazX0p/mssqlbof.git",
+    "homepage": null,
+    "size": 236,
+    "stargazers_count": 55,
+    "watchers_count": 55,
+    "language": "C",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
