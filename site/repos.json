@@ -18030,5 +18030,51 @@
     "language": "C",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1195243030,
+    "name": "learn-harness-engineering",
+    "owner": {
+      "id": 271878417,
+      "url": "https://api.github.com/users/walkinglabs",
+      "html_url": "https://github.com/walkinglabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271878417?v=4"
+    },
+    "html_url": "https://github.com/walkinglabs/learn-harness-engineering",
+    "description": "Harness engineering official style beginner tutorial, from 0 to 1",
+    "created_at": "2026-03-29T12:28:19Z",
+    "updated_at": "2026-04-10T14:50:20Z",
+    "pushed_at": "2026-04-03T17:49:37Z",
+    "git_url": "git://github.com/walkinglabs/learn-harness-engineering.git",
+    "homepage": "https://walkinglabs.github.io/learn-harness-engineering/",
+    "size": 2106,
+    "stargazers_count": 649,
+    "watchers_count": 649,
+    "language": "TypeScript",
+    "forks_count": 73,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1203495713,
+    "name": "SwiftMTP",
+    "owner": {
+      "id": 243284857,
+      "url": "https://api.github.com/users/Neighbor-Z",
+      "html_url": "https://github.com/Neighbor-Z",
+      "avatar_url": "https://avatars.githubusercontent.com/u/243284857?v=4"
+    },
+    "html_url": "https://github.com/Neighbor-Z/SwiftMTP",
+    "description": "A modern MTP device management tool for macOS.",
+    "created_at": "2026-04-07T05:00:29Z",
+    "updated_at": "2026-04-10T18:04:21Z",
+    "pushed_at": "2026-04-10T13:46:42Z",
+    "git_url": "git://github.com/Neighbor-Z/SwiftMTP.git",
+    "homepage": "https://neighbor-z.github.io/swiftmtp-website",
+    "size": 2449,
+    "stargazers_count": 69,
+    "watchers_count": 69,
+    "language": "Swift",
+    "forks_count": 1,
+    "open_issues_count": 1
   }
 ]
