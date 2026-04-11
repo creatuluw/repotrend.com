@@ -18536,5 +18536,28 @@
     "language": "JavaScript",
     "forks_count": 18,
     "open_issues_count": 0
+  },
+  {
+    "id": 1202826520,
+    "name": "camai",
+    "owner": {
+      "id": 48096401,
+      "url": "https://api.github.com/users/hrrcne",
+      "html_url": "https://github.com/hrrcne",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48096401?v=4"
+    },
+    "html_url": "https://github.com/hrrcne/camai",
+    "description": "AI-Powered Surveillance Camera System for macOS — RTSP & Dahua DVR support with YOLOv8 detection, zone alerts, Telegram notifications",
+    "created_at": "2026-04-06T12:49:29Z",
+    "updated_at": "2026-04-09T10:47:14Z",
+    "pushed_at": "2026-04-06T18:56:24Z",
+    "git_url": "git://github.com/hrrcne/camai.git",
+    "homepage": null,
+    "size": 281,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": "Python",
+    "forks_count": 14,
+    "open_issues_count": 0
   }
 ]
