@@ -18214,5 +18214,51 @@
     "language": "TypeScript",
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1133707766,
+    "name": "multica",
+    "owner": {
+      "id": 254743058,
+      "url": "https://api.github.com/users/multica-ai",
+      "html_url": "https://github.com/multica-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/254743058?v=4"
+    },
+    "html_url": "https://github.com/multica-ai/multica",
+    "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+    "created_at": "2026-01-13T17:59:46Z",
+    "updated_at": "2026-04-11T06:29:16Z",
+    "pushed_at": "2026-04-11T06:29:01Z",
+    "git_url": "git://github.com/multica-ai/multica.git",
+    "homepage": "https://multica.ai",
+    "size": 34739,
+    "stargazers_count": 6589,
+    "watchers_count": 6589,
+    "language": "TypeScript",
+    "forks_count": 825,
+    "open_issues_count": 109
+  },
+  {
+    "id": 1206754843,
+    "name": "casino-coinflip-game",
+    "owner": {
+      "id": 270004832,
+      "url": "https://api.github.com/users/CasinoLabs",
+      "html_url": "https://github.com/CasinoLabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270004832?v=4"
+    },
+    "html_url": "https://github.com/CasinoLabs/casino-coinflip-game",
+    "description": "stand alone online casino betting game, ready to import in casino platform.",
+    "created_at": "2026-04-10T08:16:37Z",
+    "updated_at": "2026-04-10T23:12:42Z",
+    "pushed_at": "2026-04-10T08:17:32Z",
+    "git_url": "git://github.com/CasinoLabs/casino-coinflip-game.git",
+    "homepage": "https://coinflip.casinolabs.space",
+    "size": 1464,
+    "stargazers_count": 62,
+    "watchers_count": 62,
+    "language": "TypeScript",
+    "forks_count": 51,
+    "open_issues_count": 0
   }
 ]
