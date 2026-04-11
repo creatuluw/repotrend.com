@@ -18398,5 +18398,51 @@
     "language": "Rust",
     "forks_count": 15,
     "open_issues_count": 0
+  },
+  {
+    "id": 1188873672,
+    "name": "repo-task-proof-loop",
+    "owner": {
+      "id": 2140110,
+      "url": "https://api.github.com/users/DenisSergeevitch",
+      "html_url": "https://github.com/DenisSergeevitch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2140110?v=4"
+    },
+    "html_url": "https://github.com/DenisSergeevitch/repo-task-proof-loop",
+    "description": "Spec driven skill with subagents spawning",
+    "created_at": "2026-03-22T17:42:54Z",
+    "updated_at": "2026-04-10T19:12:10Z",
+    "pushed_at": "2026-04-01T20:30:40Z",
+    "git_url": "git://github.com/DenisSergeevitch/repo-task-proof-loop.git",
+    "homepage": "",
+    "size": 205,
+    "stargazers_count": 650,
+    "watchers_count": 650,
+    "language": "Python",
+    "forks_count": 39,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1202463831,
+    "name": "seCall",
+    "owner": {
+      "id": 96920164,
+      "url": "https://api.github.com/users/hang-in",
+      "html_url": "https://github.com/hang-in",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96920164?v=4"
+    },
+    "html_url": "https://github.com/hang-in/seCall",
+    "description": "recall your second brain",
+    "created_at": "2026-04-06T03:45:55Z",
+    "updated_at": "2026-04-09T14:10:40Z",
+    "pushed_at": "2026-04-09T06:19:52Z",
+    "git_url": "git://github.com/hang-in/seCall.git",
+    "homepage": "",
+    "size": 2147,
+    "stargazers_count": 93,
+    "watchers_count": 93,
+    "language": "Rust",
+    "forks_count": 17,
+    "open_issues_count": 0
   }
 ]
