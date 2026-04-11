@@ -17754,5 +17754,28 @@
     "language": "TypeScript",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1203562851,
+    "name": "hermes-CCC",
+    "owner": {
+      "id": 206784352,
+      "url": "https://api.github.com/users/AlexAI-MCP",
+      "html_url": "https://github.com/AlexAI-MCP",
+      "avatar_url": "https://avatars.githubusercontent.com/u/206784352?v=4"
+    },
+    "html_url": "https://github.com/AlexAI-MCP/hermes-CCC",
+    "description": "Hermes Agent ported to Claude Code Channel — 46 native skills, no OAuth, no external process",
+    "created_at": "2026-04-07T06:40:55Z",
+    "updated_at": "2026-04-10T16:16:43Z",
+    "pushed_at": "2026-04-08T00:16:53Z",
+    "git_url": "git://github.com/AlexAI-MCP/hermes-CCC.git",
+    "homepage": null,
+    "size": 135,
+    "stargazers_count": 60,
+    "watchers_count": 60,
+    "language": "PowerShell",
+    "forks_count": 13,
+    "open_issues_count": 0
   }
 ]
