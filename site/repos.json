@@ -17869,5 +17869,51 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 1
+  },
+  {
+    "id": 1201942857,
+    "name": "steve-jobs-skill",
+    "owner": {
+      "id": 127714341,
+      "url": "https://api.github.com/users/alchaincyf",
+      "html_url": "https://github.com/alchaincyf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
+    },
+    "html_url": "https://github.com/alchaincyf/steve-jobs-skill",
+    "description": "乔布斯.skill — Steve Jobs的认知操作系统。6个心智模型 + 8条决策启发式 + 完整表达DNA。由女娲.skill生成。",
+    "created_at": "2026-04-05T11:28:48Z",
+    "updated_at": "2026-04-11T00:40:28Z",
+    "pushed_at": "2026-04-10T02:29:03Z",
+    "git_url": "git://github.com/alchaincyf/steve-jobs-skill.git",
+    "homepage": null,
+    "size": 147,
+    "stargazers_count": 637,
+    "watchers_count": 637,
+    "language": null,
+    "forks_count": 102,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1204498668,
+    "name": "Douyin_Curation_Assistant",
+    "owner": {
+      "id": 20484068,
+      "url": "https://api.github.com/users/paopaojun",
+      "html_url": "https://github.com/paopaojun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20484068?v=4"
+    },
+    "html_url": "https://github.com/paopaojun/Douyin_Curation_Assistant",
+    "description": "抖音自动评论、点赞、收藏、关注，自动刷视频、自动获取作者、作品、评论区信息、自动关键字搜索视频获取信息。创作者画像和直接互动执行等能力，适合本地化的数据采集、内容筛选和运营动作工作流。",
+    "created_at": "2026-04-08T04:10:55Z",
+    "updated_at": "2026-04-10T18:16:32Z",
+    "pushed_at": "2026-04-09T00:47:42Z",
+    "git_url": "git://github.com/paopaojun/Douyin_Curation_Assistant.git",
+    "homepage": null,
+    "size": 2681,
+    "stargazers_count": 69,
+    "watchers_count": 69,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
