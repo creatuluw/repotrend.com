@@ -17915,5 +17915,51 @@
     "language": "JavaScript",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1198636839,
+    "name": "claude-code-from-source",
+    "owner": {
+      "id": 31583496,
+      "url": "https://api.github.com/users/alejandrobalderas",
+      "html_url": "https://github.com/alejandrobalderas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31583496?v=4"
+    },
+    "html_url": "https://github.com/alejandrobalderas/claude-code-from-source",
+    "description": "Architecture, patterns & internals of Anthropic's AI coding agent — reverse-engineered from source maps",
+    "created_at": "2026-04-01T15:59:12Z",
+    "updated_at": "2026-04-11T00:35:23Z",
+    "pushed_at": "2026-04-04T00:00:48Z",
+    "git_url": "git://github.com/alejandrobalderas/claude-code-from-source.git",
+    "homepage": null,
+    "size": 3449,
+    "stargazers_count": 733,
+    "watchers_count": 733,
+    "language": "TypeScript",
+    "forks_count": 267,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1206814729,
+    "name": "webmcp",
+    "owner": {
+      "id": 275033504,
+      "url": "https://api.github.com/users/AuthBits",
+      "html_url": "https://github.com/AuthBits",
+      "avatar_url": "https://avatars.githubusercontent.com/u/275033504?v=4"
+    },
+    "html_url": "https://github.com/AuthBits/webmcp",
+    "description": "A lightweight, prompt-driven MCP web research server for high-quality LLM powered information extraction.",
+    "created_at": "2026-04-10T09:26:36Z",
+    "updated_at": "2026-04-10T18:02:11Z",
+    "pushed_at": "2026-04-10T09:59:54Z",
+    "git_url": "git://github.com/AuthBits/webmcp.git",
+    "homepage": null,
+    "size": 14,
+    "stargazers_count": 59,
+    "watchers_count": 59,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
