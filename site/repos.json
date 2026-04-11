@@ -17823,5 +17823,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1195367387,
+    "name": "stirling-image",
+    "owner": {
+      "id": 271994623,
+      "url": "https://api.github.com/users/stirling-image",
+      "html_url": "https://github.com/stirling-image",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271994623?v=4"
+    },
+    "html_url": "https://github.com/stirling-image/stirling-image",
+    "description": " Stirling-PDF but for images. 30+ tools and local AI in a single Docker container - resize, compress, remove backgrounds, upscale, OCR, and more. No cloud, no telemetry. Your images never leave your machine. ",
+    "created_at": "2026-03-29T15:33:21Z",
+    "updated_at": "2026-04-11T00:31:13Z",
+    "pushed_at": "2026-04-10T15:32:29Z",
+    "git_url": "git://github.com/stirling-image/stirling-image.git",
+    "homepage": "https://stirling-image.github.io/stirling-image/",
+    "size": 4361,
+    "stargazers_count": 637,
+    "watchers_count": 637,
+    "language": "TypeScript",
+    "forks_count": 17,
+    "open_issues_count": 18
+  },
+  {
+    "id": 1205984578,
+    "name": "FL-Studio-25.2.5-PC-Edition",
+    "owner": {
+      "id": 103009296,
+      "url": "https://api.github.com/users/Tolakak",
+      "html_url": "https://github.com/Tolakak",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103009296?v=4"
+    },
+    "html_url": "https://github.com/Tolakak/FL-Studio-25.2.5-PC-Edition",
+    "description": "Free FL Studio 25.2.5 PC Edition is a powerful music production DAW for Windows. Create beats, melodies and full tracks with Piano Roll, Mixer, Playlist and professional effects. Optimized performance and modern interface for smooth music making.",
+    "created_at": "2026-04-09T13:15:39Z",
+    "updated_at": "2026-04-10T22:40:05Z",
+    "pushed_at": "2026-04-10T08:59:06Z",
+    "git_url": "git://github.com/Tolakak/FL-Studio-25.2.5-PC-Edition.git",
+    "homepage": "",
+    "size": 91,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 1
   }
 ]
