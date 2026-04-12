@@ -18904,5 +18904,28 @@
     "language": "TypeScript",
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1205725678,
+    "name": "Tomodachi-Life-Living-in-the-Dream-PC-Edition",
+    "owner": {
+      "id": 142124916,
+      "url": "https://api.github.com/users/ciroxcode",
+      "html_url": "https://github.com/ciroxcode",
+      "avatar_url": "https://avatars.githubusercontent.com/u/142124916?v=4"
+    },
+    "html_url": "https://github.com/ciroxcode/Tomodachi-Life-Living-in-the-Dream-PC-Edition",
+    "description": "Tomodachi Life Living in the Dream PC Edition brings the popular life simulation game to Windows. Create Miis, build friendships and relationships, and enjoy funny everyday moments on your own island. Optimized for modern PCs with widescreen support, smooth performance and relaxing gameplay.",
+    "created_at": "2026-04-09T08:17:56Z",
+    "updated_at": "2026-04-12T06:32:02Z",
+    "pushed_at": "2026-04-10T09:01:54Z",
+    "git_url": "git://github.com/ciroxcode/Tomodachi-Life-Living-in-the-Dream-PC-Edition.git",
+    "homepage": "",
+    "size": 54,
+    "stargazers_count": 90,
+    "watchers_count": 90,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 1
   }
 ]
