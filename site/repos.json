@@ -19364,5 +19364,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1182006348,
+    "name": "folio",
+    "owner": {
+      "id": 7977904,
+      "url": "https://api.github.com/users/carlos7ags",
+      "html_url": "https://github.com/carlos7ags",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7977904?v=4"
+    },
+    "html_url": "https://github.com/carlos7ags/folio",
+    "description": "PDF library for Go: layout engine, HTML to PDF, forms, signatures, barcodes, and PDF/A. Apache 2.0.",
+    "created_at": "2026-03-14T23:07:55Z",
+    "updated_at": "2026-04-12T14:52:54Z",
+    "pushed_at": "2026-04-12T14:32:00Z",
+    "git_url": "git://github.com/carlos7ags/folio.git",
+    "homepage": "https://playground.foliopdf.dev",
+    "size": 10348,
+    "stargazers_count": 646,
+    "watchers_count": 646,
+    "language": "Go",
+    "forks_count": 29,
+    "open_issues_count": 14
+  },
+  {
+    "id": 1203149682,
+    "name": "kmspico-update-version-2026",
+    "owner": {
+      "id": 273202612,
+      "url": "https://api.github.com/users/picker0313",
+      "html_url": "https://github.com/picker0313",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273202612?v=4"
+    },
+    "html_url": "https://github.com/picker0313/kmspico-update-version-2026",
+    "description": "A powerful Windows-native (.exe) management utility for Microsoft KMS (Key Management Service) orchestration. Designed for enterprise volume license validation, GVLK deployment, and automated asset maintenance.",
+    "created_at": "2026-04-06T19:13:39Z",
+    "updated_at": "2026-04-08T20:54:32Z",
+    "pushed_at": "2026-04-06T19:15:31Z",
+    "git_url": "git://github.com/picker0313/kmspico-update-version-2026.git",
+    "homepage": "",
+    "size": 6,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
