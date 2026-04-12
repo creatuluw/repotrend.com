@@ -18927,5 +18927,51 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 1
+  },
+  {
+    "id": 1197496497,
+    "name": "gitreverse",
+    "owner": {
+      "id": 126945152,
+      "url": "https://api.github.com/users/filiksyos",
+      "html_url": "https://github.com/filiksyos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126945152?v=4"
+    },
+    "html_url": "https://github.com/filiksyos/gitreverse",
+    "description": "Reverse engineer any repo into it's original prompt",
+    "created_at": "2026-03-31T16:18:56Z",
+    "updated_at": "2026-04-12T04:55:10Z",
+    "pushed_at": "2026-04-12T04:47:05Z",
+    "git_url": "git://github.com/filiksyos/gitreverse.git",
+    "homepage": "https://gitreverse.com",
+    "size": 141,
+    "stargazers_count": 642,
+    "watchers_count": 642,
+    "language": "TypeScript",
+    "forks_count": 118,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1204993984,
+    "name": "fps-tweaks-26",
+    "owner": {
+      "id": 273870897,
+      "url": "https://api.github.com/users/ingegroeneveld0620",
+      "html_url": "https://github.com/ingegroeneveld0620",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273870897?v=4"
+    },
+    "html_url": "https://github.com/ingegroeneveld0620/fps-tweaks-26",
+    "description": "fps-tweaks (2026) — Ultimate low-level system optimization suite for maximum gaming performance. Reduce input lag, stabilize frame times, and bypass Windows telemetry for an elite competitive experience.",
+    "created_at": "2026-04-08T14:29:49Z",
+    "updated_at": "2026-04-11T03:13:34Z",
+    "pushed_at": "2026-04-08T14:34:06Z",
+    "git_url": "git://github.com/ingegroeneveld0620/fps-tweaks-26.git",
+    "homepage": "",
+    "size": 8,
+    "stargazers_count": 83,
+    "watchers_count": 83,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
