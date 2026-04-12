@@ -18789,5 +18789,28 @@
     "language": null,
     "forks_count": 10,
     "open_issues_count": 0
+  },
+  {
+    "id": 1205210283,
+    "name": "webphysics",
+    "owner": {
+      "id": 238667,
+      "url": "https://api.github.com/users/jure",
+      "html_url": "https://github.com/jure",
+      "avatar_url": "https://avatars.githubusercontent.com/u/238667?v=4"
+    },
+    "html_url": "https://github.com/jure/webphysics",
+    "description": "WebGPU physics engine based on the AVBD solver",
+    "created_at": "2026-04-08T18:38:13Z",
+    "updated_at": "2026-04-09T18:27:32Z",
+    "pushed_at": "2026-04-09T11:49:51Z",
+    "git_url": "git://github.com/jure/webphysics.git",
+    "homepage": "https://jure.github.io/webphysics/",
+    "size": 304959,
+    "stargazers_count": 93,
+    "watchers_count": 93,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 1
   }
 ]
