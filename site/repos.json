@@ -19318,5 +19318,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1196596858,
+    "name": "ml-ssd",
+    "owner": {
+      "id": 10639145,
+      "url": "https://api.github.com/users/apple",
+      "html_url": "https://github.com/apple",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10639145?v=4"
+    },
+    "html_url": "https://github.com/apple/ml-ssd",
+    "description": null,
+    "created_at": "2026-03-30T21:14:58Z",
+    "updated_at": "2026-04-12T15:39:37Z",
+    "pushed_at": "2026-04-07T18:51:59Z",
+    "git_url": "git://github.com/apple/ml-ssd.git",
+    "homepage": null,
+    "size": 337,
+    "stargazers_count": 637,
+    "watchers_count": 637,
+    "language": "Python",
+    "forks_count": 48,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1205547273,
+    "name": "llm-production-toolkit",
+    "owner": {
+      "id": 97377185,
+      "url": "https://api.github.com/users/frckeepit",
+      "html_url": "https://github.com/frckeepit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97377185?v=4"
+    },
+    "html_url": "https://github.com/frckeepit/llm-production-toolkit",
+    "description": "Production-ready toolkit for evaluating, monitoring, and ensuring safety of LLM deployments. Hallucination detection, bias evaluation, feedback loops, and production readiness assessment.",
+    "created_at": "2026-04-09T04:05:09Z",
+    "updated_at": "2026-04-10T07:53:39Z",
+    "pushed_at": "2026-04-09T05:06:19Z",
+    "git_url": "git://github.com/frckeepit/llm-production-toolkit.git",
+    "homepage": null,
+    "size": 41,
+    "stargazers_count": 91,
+    "watchers_count": 91,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
