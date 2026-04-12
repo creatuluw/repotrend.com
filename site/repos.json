@@ -19295,5 +19295,28 @@
     "language": null,
     "forks_count": 6,
     "open_issues_count": 0
+  },
+  {
+    "id": 1207073386,
+    "name": "ecoalign-forge",
+    "owner": {
+      "id": 265749943,
+      "url": "https://api.github.com/users/dengxianghua888-ops",
+      "html_url": "https://github.com/dengxianghua888-ops",
+      "avatar_url": "https://avatars.githubusercontent.com/u/265749943?v=4"
+    },
+    "html_url": "https://github.com/dengxianghua888-ops/ecoalign-forge",
+    "description": "Multi-Agent DPO Data Synthesis Factory — 多智能体偏好训练数据自动合成框架 | 红队攻击 → 多persona审核 → 终审裁决 → DPO偏好对",
+    "created_at": "2026-04-10T14:46:27Z",
+    "updated_at": "2026-04-11T17:36:12Z",
+    "pushed_at": "2026-04-11T16:04:14Z",
+    "git_url": "git://github.com/dengxianghua888-ops/ecoalign-forge.git",
+    "homepage": null,
+    "size": 146,
+    "stargazers_count": 60,
+    "watchers_count": 60,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
