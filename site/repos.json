@@ -19203,5 +19203,51 @@
     "language": "Python",
     "forks_count": 6,
     "open_issues_count": 1
+  },
+  {
+    "id": 1203251892,
+    "name": "RKNHardering",
+    "owner": {
+      "id": 44809071,
+      "url": "https://api.github.com/users/xtclovver",
+      "html_url": "https://github.com/xtclovver",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44809071?v=4"
+    },
+    "html_url": "https://github.com/xtclovver/RKNHardering",
+    "description": null,
+    "created_at": "2026-04-06T21:46:23Z",
+    "updated_at": "2026-04-11T18:11:04Z",
+    "pushed_at": "2026-04-10T00:03:02Z",
+    "git_url": "git://github.com/xtclovver/RKNHardering.git",
+    "homepage": "",
+    "size": 1419,
+    "stargazers_count": 660,
+    "watchers_count": 660,
+    "language": "Kotlin",
+    "forks_count": 34,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1203428569,
+    "name": "LingtiStudio",
+    "owner": {
+      "id": 28285760,
+      "url": "https://api.github.com/users/ruilisi",
+      "html_url": "https://github.com/ruilisi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28285760?v=4"
+    },
+    "html_url": "https://github.com/ruilisi/LingtiStudio",
+    "description": "From a single topic to a multi-minutes video,  LingtiStudio can take you through:  script -> review -> keyframes -> voiceover -> clips -> assembly -> final video",
+    "created_at": "2026-04-07T03:07:27Z",
+    "updated_at": "2026-04-10T16:56:42Z",
+    "pushed_at": "2026-04-09T02:23:12Z",
+    "git_url": "git://github.com/ruilisi/LingtiStudio.git",
+    "homepage": "",
+    "size": 6213,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
