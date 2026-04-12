@@ -19456,5 +19456,51 @@
     "language": "HTML",
     "forks_count": 21,
     "open_issues_count": 1
+  },
+  {
+    "id": 1202407194,
+    "name": "awesome-persona-skills",
+    "owner": {
+      "id": 56751502,
+      "url": "https://api.github.com/users/tmstack",
+      "html_url": "https://github.com/tmstack",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56751502?v=4"
+    },
+    "html_url": "https://github.com/tmstack/awesome-persona-skills",
+    "description": "同事.skill、老板.skill、前任.skill、自己.skill、永生.skill、女娲.skill……  ",
+    "created_at": "2026-04-06T01:49:23Z",
+    "updated_at": "2026-04-12T16:39:28Z",
+    "pushed_at": "2026-04-12T01:18:11Z",
+    "git_url": "git://github.com/tmstack/awesome-persona-skills.git",
+    "homepage": "https://openskills.cc",
+    "size": 56,
+    "stargazers_count": 699,
+    "watchers_count": 699,
+    "language": null,
+    "forks_count": 94,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1207624249,
+    "name": "Character-Creator-Female-Crimson-Desert-Mod",
+    "owner": {
+      "id": 115763025,
+      "url": "https://api.github.com/users/ArielMartinezz",
+      "html_url": "https://github.com/ArielMartinezz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115763025?v=4"
+    },
+    "html_url": "https://github.com/ArielMartinezz/Character-Creator-Female-Crimson-Desert-Mod",
+    "description": "Download Character Creator Female mod for Crimson Desert. Expanded customization with new hairstyles, faces, body morphs, outfits, and accessories. Create more beautiful and diverse female characters with high-quality textures and presets.",
+    "created_at": "2026-04-11T07:09:05Z",
+    "updated_at": "2026-04-11T17:19:35Z",
+    "pushed_at": "2026-04-11T07:19:45Z",
+    "git_url": "git://github.com/ArielMartinezz/Character-Creator-Female-Crimson-Desert-Mod.git",
+    "homepage": "",
+    "size": 85,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
