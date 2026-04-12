@@ -18973,5 +18973,51 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1204828304,
+    "name": "llm_wiki",
+    "owner": {
+      "id": 2127280,
+      "url": "https://api.github.com/users/nashsu",
+      "html_url": "https://github.com/nashsu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2127280?v=4"
+    },
+    "html_url": "https://github.com/nashsu/llm_wiki",
+    "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+    "created_at": "2026-04-08T11:24:01Z",
+    "updated_at": "2026-04-11T18:11:38Z",
+    "pushed_at": "2026-04-11T10:22:00Z",
+    "git_url": "git://github.com/nashsu/llm_wiki.git",
+    "homepage": "",
+    "size": 5857,
+    "stargazers_count": 698,
+    "watchers_count": 698,
+    "language": "TypeScript",
+    "forks_count": 86,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1205555090,
+    "name": "data-analyst",
+    "owner": {
+      "id": 73766507,
+      "url": "https://api.github.com/users/IIIIQIIII",
+      "html_url": "https://github.com/IIIIQIIII",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73766507?v=4"
+    },
+    "html_url": "https://github.com/IIIIQIIII/data-analyst",
+    "description": "Interactive TUI data analysis tool powered by local/remote LLM models",
+    "created_at": "2026-04-09T04:19:55Z",
+    "updated_at": "2026-04-12T04:18:51Z",
+    "pushed_at": "2026-04-10T01:12:21Z",
+    "git_url": "git://github.com/IIIIQIIII/data-analyst.git",
+    "homepage": null,
+    "size": 10061,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
