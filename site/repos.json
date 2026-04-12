@@ -19042,5 +19042,28 @@
     "language": "TypeScript",
     "forks_count": 10,
     "open_issues_count": 2
+  },
+  {
+    "id": 1205766039,
+    "name": "AIDataset",
+    "owner": {
+      "id": 40882092,
+      "url": "https://api.github.com/users/lyirs",
+      "html_url": "https://github.com/lyirs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40882092?v=4"
+    },
+    "html_url": "https://github.com/lyirs/AIDataset",
+    "description": "An AI dataset index covering major research areas",
+    "created_at": "2026-04-09T08:59:41Z",
+    "updated_at": "2026-04-12T06:24:36Z",
+    "pushed_at": "2026-04-11T14:25:48Z",
+    "git_url": "git://github.com/lyirs/AIDataset.git",
+    "homepage": null,
+    "size": 214,
+    "stargazers_count": 67,
+    "watchers_count": 67,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
