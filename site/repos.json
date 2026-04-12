@@ -19111,5 +19111,51 @@
     "language": "Python",
     "forks_count": 17,
     "open_issues_count": 1
+  },
+  {
+    "id": 1197015451,
+    "name": "JoyAI-Image",
+    "owner": {
+      "id": 75349771,
+      "url": "https://api.github.com/users/jd-opensource",
+      "html_url": "https://github.com/jd-opensource",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75349771?v=4"
+    },
+    "html_url": "https://github.com/jd-opensource/JoyAI-Image",
+    "description": "JoyAI-Image is the unified multimodal foundation model for image understanding, text-to-image generation, and instruction-guided image editing.",
+    "created_at": "2026-03-31T08:51:51Z",
+    "updated_at": "2026-04-11T18:12:50Z",
+    "pushed_at": "2026-04-11T16:14:42Z",
+    "git_url": "git://github.com/jd-opensource/JoyAI-Image.git",
+    "homepage": "",
+    "size": 86379,
+    "stargazers_count": 688,
+    "watchers_count": 688,
+    "language": "Python",
+    "forks_count": 57,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1202624649,
+    "name": "fengge-wangmingtianya-perspective",
+    "owner": {
+      "id": 12029924,
+      "url": "https://api.github.com/users/rottenpen",
+      "html_url": "https://github.com/rottenpen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12029924?v=4"
+    },
+    "html_url": "https://github.com/rottenpen/fengge-wangmingtianya-perspective",
+    "description": null,
+    "created_at": "2026-04-06T08:15:41Z",
+    "updated_at": "2026-04-09T17:11:13Z",
+    "pushed_at": "2026-04-07T13:15:15Z",
+    "git_url": "git://github.com/rottenpen/fengge-wangmingtianya-perspective.git",
+    "homepage": null,
+    "size": 33,
+    "stargazers_count": 78,
+    "watchers_count": 78,
+    "language": null,
+    "forks_count": 6,
+    "open_issues_count": 2
   }
 ]
