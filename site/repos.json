@@ -19157,5 +19157,51 @@
     "language": null,
     "forks_count": 6,
     "open_issues_count": 2
+  },
+  {
+    "id": 1188221632,
+    "name": "axi",
+    "owner": {
+      "id": 3233006,
+      "url": "https://api.github.com/users/kunchenguid",
+      "html_url": "https://github.com/kunchenguid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3233006?v=4"
+    },
+    "html_url": "https://github.com/kunchenguid/axi",
+    "description": "Design principles for agent ergonomics. Higher accuracy with lower token cost than both MCP and regular CLI.",
+    "created_at": "2026-03-21T19:28:09Z",
+    "updated_at": "2026-04-12T09:23:43Z",
+    "pushed_at": "2026-04-08T03:41:43Z",
+    "git_url": "git://github.com/kunchenguid/axi.git",
+    "homepage": "https://axi.md/",
+    "size": 53589,
+    "stargazers_count": 689,
+    "watchers_count": 689,
+    "language": "TypeScript",
+    "forks_count": 24,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1207594105,
+    "name": "nanoPD",
+    "owner": {
+      "id": 68170705,
+      "url": "https://api.github.com/users/HJCheng0602",
+      "html_url": "https://github.com/HJCheng0602",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68170705?v=4"
+    },
+    "html_url": "https://github.com/HJCheng0602/nanoPD",
+    "description": "A from-scratch Prefill/Decode disaggregation inference engine for LLMs",
+    "created_at": "2026-04-11T06:11:08Z",
+    "updated_at": "2026-04-12T09:44:53Z",
+    "pushed_at": "2026-04-11T06:12:04Z",
+    "git_url": "git://github.com/HJCheng0602/nanoPD.git",
+    "homepage": null,
+    "size": 2486,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 1
   }
 ]
