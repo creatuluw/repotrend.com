@@ -18858,5 +18858,51 @@
     "language": "JavaScript",
     "forks_count": 10,
     "open_issues_count": 2
+  },
+  {
+    "id": 1192378543,
+    "name": "claude-code-local",
+    "owner": {
+      "id": 207429969,
+      "url": "https://api.github.com/users/nicedreamzapp",
+      "html_url": "https://github.com/nicedreamzapp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/207429969?v=4"
+    },
+    "html_url": "https://github.com/nicedreamzapp/claude-code-local",
+    "description": "Run Claude Code with local AI on Apple Silicon. 122B model at 41 tok/s with Google TurboQuant. No cloud, no API fees.",
+    "created_at": "2026-03-26T06:43:30Z",
+    "updated_at": "2026-04-12T00:31:42Z",
+    "pushed_at": "2026-04-11T21:20:06Z",
+    "git_url": "git://github.com/nicedreamzapp/claude-code-local.git",
+    "homepage": null,
+    "size": 144,
+    "stargazers_count": 650,
+    "watchers_count": 650,
+    "language": "Python",
+    "forks_count": 95,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1203250745,
+    "name": "expo-gooey-toast",
+    "owner": {
+      "id": 119659853,
+      "url": "https://api.github.com/users/rit3zh",
+      "html_url": "https://github.com/rit3zh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119659853?v=4"
+    },
+    "html_url": "https://github.com/rit3zh/expo-gooey-toast",
+    "description": "🍞 Smooth morphing toasts for React Native",
+    "created_at": "2026-04-06T21:44:28Z",
+    "updated_at": "2026-04-09T14:50:19Z",
+    "pushed_at": "2026-04-06T21:58:43Z",
+    "git_url": "git://github.com/rit3zh/expo-gooey-toast.git",
+    "homepage": "",
+    "size": 24907,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": "TypeScript",
+    "forks_count": 5,
+    "open_issues_count": 0
   }
 ]
