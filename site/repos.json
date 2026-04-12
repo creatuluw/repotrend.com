@@ -18812,5 +18812,51 @@
     "language": "TypeScript",
     "forks_count": 1,
     "open_issues_count": 1
+  },
+  {
+    "id": 1191580805,
+    "name": "nodepad",
+    "owner": {
+      "id": 272662,
+      "url": "https://api.github.com/users/mskayyali",
+      "html_url": "https://github.com/mskayyali",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272662?v=4"
+    },
+    "html_url": "https://github.com/mskayyali/nodepad",
+    "description": "A spatial research tool that explores using AI to augment thinking, not replace it.",
+    "created_at": "2026-03-25T11:40:17Z",
+    "updated_at": "2026-04-12T00:25:48Z",
+    "pushed_at": "2026-04-10T20:30:13Z",
+    "git_url": "git://github.com/mskayyali/nodepad.git",
+    "homepage": "http://nodepad.space",
+    "size": 368,
+    "stargazers_count": 648,
+    "watchers_count": 648,
+    "language": "TypeScript",
+    "forks_count": 89,
+    "open_issues_count": 13
+  },
+  {
+    "id": 1203693921,
+    "name": "mempalace-book",
+    "owner": {
+      "id": 27893,
+      "url": "https://api.github.com/users/ZhangHanDong",
+      "html_url": "https://github.com/ZhangHanDong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/27893?v=4"
+    },
+    "html_url": "https://github.com/ZhangHanDong/mempalace-book",
+    "description": "mempalace book",
+    "created_at": "2026-04-07T09:27:43Z",
+    "updated_at": "2026-04-10T16:22:56Z",
+    "pushed_at": "2026-04-10T12:17:02Z",
+    "git_url": "git://github.com/ZhangHanDong/mempalace-book.git",
+    "homepage": "https://zhanghandong.github.io/mempalace-book/",
+    "size": 1573,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "JavaScript",
+    "forks_count": 10,
+    "open_issues_count": 2
   }
 ]
