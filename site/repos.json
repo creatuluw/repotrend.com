@@ -19709,5 +19709,74 @@
     "language": null,
     "forks_count": 6,
     "open_issues_count": 0
+  },
+  {
+    "id": 1202057891,
+    "name": "gbrain",
+    "owner": {
+      "id": 19957,
+      "url": "https://api.github.com/users/garrytan",
+      "html_url": "https://github.com/garrytan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19957?v=4"
+    },
+    "html_url": "https://github.com/garrytan/gbrain",
+    "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+    "created_at": "2026-04-05T14:40:56Z",
+    "updated_at": "2026-04-13T06:53:21Z",
+    "pushed_at": "2026-04-13T00:38:48Z",
+    "git_url": "git://github.com/garrytan/gbrain.git",
+    "homepage": "",
+    "size": 4425,
+    "stargazers_count": 6752,
+    "watchers_count": 6752,
+    "language": "TypeScript",
+    "forks_count": 734,
+    "open_issues_count": 40
+  },
+  {
+    "id": 1203670949,
+    "name": "claude-obsidian",
+    "owner": {
+      "id": 223140489,
+      "url": "https://api.github.com/users/AgriciDaniel",
+      "html_url": "https://github.com/AgriciDaniel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223140489?v=4"
+    },
+    "html_url": "https://github.com/AgriciDaniel/claude-obsidian",
+    "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch",
+    "created_at": "2026-04-07T08:59:37Z",
+    "updated_at": "2026-04-13T06:51:15Z",
+    "pushed_at": "2026-04-10T16:33:05Z",
+    "git_url": "git://github.com/AgriciDaniel/claude-obsidian.git",
+    "homepage": "https://agricidaniel.com/blog/claude-obsidian-ai-second-brain",
+    "size": 33768,
+    "stargazers_count": 744,
+    "watchers_count": 744,
+    "language": "Shell",
+    "forks_count": 71,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1208122764,
+    "name": "portable-lce",
+    "owner": {
+      "id": 275360312,
+      "url": "https://api.github.com/users/portable-lce",
+      "html_url": "https://github.com/portable-lce",
+      "avatar_url": "https://avatars.githubusercontent.com/u/275360312?v=4"
+    },
+    "html_url": "https://github.com/portable-lce/portable-lce",
+    "description": "Portable version of your favorite block game.",
+    "created_at": "2026-04-11T21:10:11Z",
+    "updated_at": "2026-04-13T05:27:59Z",
+    "pushed_at": "2026-04-12T21:43:29Z",
+    "git_url": "git://github.com/portable-lce/portable-lce.git",
+    "homepage": "",
+    "size": 1549638,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": "C++",
+    "forks_count": 12,
+    "open_issues_count": 24
   }
 ]
