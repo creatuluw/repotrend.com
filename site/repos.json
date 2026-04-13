@@ -20238,5 +20238,28 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1206106156,
+    "name": "quant-ohlcv-feature",
+    "owner": {
+      "id": 20638994,
+      "url": "https://api.github.com/users/YuxinSUN89",
+      "html_url": "https://github.com/YuxinSUN89",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20638994?v=4"
+    },
+    "html_url": "https://github.com/YuxinSUN89/quant-ohlcv-feature",
+    "description": "a collection of 300+ features/factors drawn from academic publications and leading industry reports",
+    "created_at": "2026-04-09T15:26:02Z",
+    "updated_at": "2026-04-12T17:20:46Z",
+    "pushed_at": "2026-04-09T20:30:52Z",
+    "git_url": "git://github.com/YuxinSUN89/quant-ohlcv-feature.git",
+    "homepage": null,
+    "size": 5076,
+    "stargazers_count": 56,
+    "watchers_count": 56,
+    "language": "Python",
+    "forks_count": 14,
+    "open_issues_count": 0
   }
 ]
