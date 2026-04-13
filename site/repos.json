@@ -20192,5 +20192,28 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1205047801,
+    "name": "agora",
+    "owner": {
+      "id": 24422856,
+      "url": "https://api.github.com/users/geekjourneyx",
+      "html_url": "https://github.com/geekjourneyx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24422856?v=4"
+    },
+    "html_url": "https://github.com/geekjourneyx/agora",
+    "description": "31 位思想家组成的多 Agent 审议系统，覆盖工程、商业、人生抉择、关系、心理、创作六大领域。黑格尔正反合结构，一个命令开启深度辩证。 ",
+    "created_at": "2026-04-08T15:27:32Z",
+    "updated_at": "2026-04-11T15:03:08Z",
+    "pushed_at": "2026-04-09T16:09:50Z",
+    "git_url": "git://github.com/geekjourneyx/agora.git",
+    "homepage": "",
+    "size": 146,
+    "stargazers_count": 97,
+    "watchers_count": 97,
+    "language": null,
+    "forks_count": 15,
+    "open_issues_count": 0
   }
 ]
