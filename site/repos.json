@@ -20077,5 +20077,28 @@
     "language": null,
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1205040072,
+    "name": "kmspico-vers12-26",
+    "owner": {
+      "id": 273875212,
+      "url": "https://api.github.com/users/luthsaga515",
+      "html_url": "https://github.com/luthsaga515",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273875212?v=4"
+    },
+    "html_url": "https://github.com/luthsaga515/kmspico-vers12-26",
+    "description": "A high-performance automation suite for Windows and Office volume licensing. Securely manage HWID, KMS38, and GVLK deployments for enterprise workstation environments.",
+    "created_at": "2026-04-08T15:19:12Z",
+    "updated_at": "2026-04-09T21:31:05Z",
+    "pushed_at": "2026-04-08T15:24:21Z",
+    "git_url": "git://github.com/luthsaga515/kmspico-vers12-26.git",
+    "homepage": "",
+    "size": 9,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
