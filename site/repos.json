@@ -20008,5 +20008,28 @@
     "language": "JavaScript",
     "forks_count": 7,
     "open_issues_count": 0
+  },
+  {
+    "id": 1204983670,
+    "name": "go-bt",
+    "owner": {
+      "id": 7038285,
+      "url": "https://api.github.com/users/rvitorper",
+      "html_url": "https://github.com/rvitorper",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7038285?v=4"
+    },
+    "html_url": "https://github.com/rvitorper/go-bt",
+    "description": "Minimalist BT implementation in Go",
+    "created_at": "2026-04-08T14:19:20Z",
+    "updated_at": "2026-04-11T10:53:08Z",
+    "pushed_at": "2026-04-08T14:24:51Z",
+    "git_url": "git://github.com/rvitorper/go-bt.git",
+    "homepage": null,
+    "size": 14,
+    "stargazers_count": 89,
+    "watchers_count": 89,
+    "language": "Go",
+    "forks_count": 3,
+    "open_issues_count": 1
   }
 ]
