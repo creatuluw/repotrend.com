@@ -19663,5 +19663,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1191723123,
+    "name": "codex-session-patcher",
+    "owner": {
+      "id": 214518505,
+      "url": "https://api.github.com/users/ryfineZ",
+      "html_url": "https://github.com/ryfineZ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/214518505?v=4"
+    },
+    "html_url": "https://github.com/ryfineZ/codex-session-patcher",
+    "description": "A lightweight Python tool to clean AI refusal responses from Codex CLI session files",
+    "created_at": "2026-03-25T14:22:53Z",
+    "updated_at": "2026-04-12T17:32:39Z",
+    "pushed_at": "2026-04-05T05:52:16Z",
+    "git_url": "git://github.com/ryfineZ/codex-session-patcher.git",
+    "homepage": null,
+    "size": 746,
+    "stargazers_count": 656,
+    "watchers_count": 656,
+    "language": "Python",
+    "forks_count": 153,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1204966882,
+    "name": "happyhorse",
+    "owner": {
+      "id": 274538177,
+      "url": "https://api.github.com/users/happyhorseai",
+      "html_url": "https://github.com/happyhorseai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/274538177?v=4"
+    },
+    "html_url": "https://github.com/happyhorseai/happyhorse",
+    "description": "HappyHorse AI turns text or images into remarkable 1080p cinematic video. Every HappyHorse AI video uses advanced motion synthesis — multi-shot storytelling, seamless transitions, and realism. Free online, no sign up required.",
+    "created_at": "2026-04-08T14:02:13Z",
+    "updated_at": "2026-04-10T18:13:34Z",
+    "pushed_at": "2026-04-08T14:04:26Z",
+    "git_url": "git://github.com/happyhorseai/happyhorse.git",
+    "homepage": null,
+    "size": 2,
+    "stargazers_count": 55,
+    "watchers_count": 55,
+    "language": null,
+    "forks_count": 6,
+    "open_issues_count": 0
   }
 ]
