@@ -19985,5 +19985,28 @@
     "language": "Go",
     "forks_count": 4,
     "open_issues_count": 3
+  },
+  {
+    "id": 1208964213,
+    "name": "svg-hand-drawn-skill",
+    "owner": {
+      "id": 2596224,
+      "url": "https://api.github.com/users/shaom",
+      "html_url": "https://github.com/shaom",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2596224?v=4"
+    },
+    "html_url": "https://github.com/shaom/svg-hand-drawn-skill",
+    "description": null,
+    "created_at": "2026-04-13T00:51:13Z",
+    "updated_at": "2026-04-13T12:14:29Z",
+    "pushed_at": "2026-04-13T01:00:04Z",
+    "git_url": "git://github.com/shaom/svg-hand-drawn-skill.git",
+    "homepage": null,
+    "size": 4146,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": "JavaScript",
+    "forks_count": 7,
+    "open_issues_count": 0
   }
 ]
