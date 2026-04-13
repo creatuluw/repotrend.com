@@ -20100,5 +20100,28 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1205759917,
+    "name": "yupi-skill",
+    "owner": {
+      "id": 26037703,
+      "url": "https://api.github.com/users/liyupi",
+      "html_url": "https://github.com/liyupi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26037703?v=4"
+    },
+    "html_url": "https://github.com/liyupi/yupi-skill",
+    "description": "🐟 程序员鱼皮 Agent Skill｜把自己蒸馏成 AI 技能包，用我的思维方式和表达风格回答编程学习、求职面试、AI 编程、简历优化、技术选型、创业经验等问题。支持 Claude Code / Cursor / OpenClaw",
+    "created_at": "2026-04-09T08:54:00Z",
+    "updated_at": "2026-04-10T14:24:36Z",
+    "pushed_at": "2026-04-09T10:00:15Z",
+    "git_url": "git://github.com/liyupi/yupi-skill.git",
+    "homepage": "https://www.codefather.cn",
+    "size": 17,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": null,
+    "forks_count": 5,
+    "open_issues_count": 2
   }
 ]
