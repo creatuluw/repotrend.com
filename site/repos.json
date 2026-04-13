@@ -19525,5 +19525,51 @@
     "language": "Python",
     "forks_count": 5,
     "open_issues_count": 23
+  },
+  {
+    "id": 1181293735,
+    "name": "vit",
+    "owner": {
+      "id": 112668276,
+      "url": "https://api.github.com/users/LucasHJin",
+      "html_url": "https://github.com/LucasHJin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112668276?v=4"
+    },
+    "html_url": "https://github.com/LucasHJin/vit",
+    "description": "Git for video editing.",
+    "created_at": "2026-03-14T00:46:20Z",
+    "updated_at": "2026-04-12T16:32:25Z",
+    "pushed_at": "2026-04-10T01:05:16Z",
+    "git_url": "git://github.com/LucasHJin/vit.git",
+    "homepage": "https://vit-editor.vercel.app/",
+    "size": 445,
+    "stargazers_count": 630,
+    "watchers_count": 630,
+    "language": "Python",
+    "forks_count": 48,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1203444055,
+    "name": "awesome-tg-channel",
+    "owner": {
+      "id": 270291518,
+      "url": "https://api.github.com/users/Sac-Y",
+      "html_url": "https://github.com/Sac-Y",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270291518?v=4"
+    },
+    "html_url": "https://github.com/Sac-Y/awesome-tg-channel",
+    "description": "优质TG频道合集，不定期实时���新",
+    "created_at": "2026-04-07T03:33:56Z",
+    "updated_at": "2026-04-10T15:15:13Z",
+    "pushed_at": "2026-04-08T03:26:49Z",
+    "git_url": "git://github.com/Sac-Y/awesome-tg-channel.git",
+    "homepage": "",
+    "size": 7,
+    "stargazers_count": 89,
+    "watchers_count": 89,
+    "language": null,
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
