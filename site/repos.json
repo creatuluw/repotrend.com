@@ -20123,5 +20123,51 @@
     "language": null,
     "forks_count": 5,
     "open_issues_count": 2
+  },
+  {
+    "id": 1190023919,
+    "name": "lara",
+    "owner": {
+      "id": 103732419,
+      "url": "https://api.github.com/users/rooootdev",
+      "html_url": "https://github.com/rooootdev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103732419?v=4"
+    },
+    "html_url": "https://github.com/rooootdev/lara",
+    "description": "WIP darksword kexploit implement",
+    "created_at": "2026-03-23T22:33:02Z",
+    "updated_at": "2026-04-13T17:58:16Z",
+    "pushed_at": "2026-04-13T15:51:38Z",
+    "git_url": "git://github.com/rooootdev/lara.git",
+    "homepage": null,
+    "size": 116696,
+    "stargazers_count": 641,
+    "watchers_count": 641,
+    "language": "Swift",
+    "forks_count": 78,
+    "open_issues_count": 28
+  },
+  {
+    "id": 1206101159,
+    "name": "PaperOrchestra",
+    "owner": {
+      "id": 29639685,
+      "url": "https://api.github.com/users/Ar9av",
+      "html_url": "https://github.com/Ar9av",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29639685?v=4"
+    },
+    "html_url": "https://github.com/Ar9av/PaperOrchestra",
+    "description": "An automated AI research-paper writer based off PaperOrchestra paper's implementation through a skills -  benchmark + autoraters using any coding agent (Claude Code, Cursor, Antigravity, Cline, Aider). No API keys, no LLM SDKs.",
+    "created_at": "2026-04-09T15:20:37Z",
+    "updated_at": "2026-04-12T18:11:49Z",
+    "pushed_at": "2026-04-12T14:38:44Z",
+    "git_url": "git://github.com/Ar9av/PaperOrchestra.git",
+    "homepage": "https://arxiv.org/pdf/2604.05018",
+    "size": 568,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
