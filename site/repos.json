@@ -20215,5 +20215,28 @@
     "language": null,
     "forks_count": 15,
     "open_issues_count": 0
+  },
+  {
+    "id": 1205075255,
+    "name": "Crimson-Desert-Save-Editor-Mod-For-PC",
+    "owner": {
+      "id": 136354053,
+      "url": "https://api.github.com/users/12344466666666667777777777",
+      "html_url": "https://github.com/12344466666666667777777777",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136354053?v=4"
+    },
+    "html_url": "https://github.com/12344466666666667777777777/Crimson-Desert-Save-Editor-Mod-For-PC",
+    "description": "Crimson Desert Save Editor Mod is the most powerful save editor for Crimson Desert PC. Easily edit character level, stats, skills, inventory, money, weapons, quests, reputation and progression. Unlock all items, max level, infinite resources and customize your save file with a simple interface. Full offline tool with backup and restore function.",
+    "created_at": "2026-04-08T15:58:27Z",
+    "updated_at": "2026-04-11T16:07:12Z",
+    "pushed_at": "2026-04-08T16:14:49Z",
+    "git_url": "git://github.com/12344466666666667777777777/Crimson-Desert-Save-Editor-Mod-For-PC.git",
+    "homepage": "",
+    "size": 70,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
