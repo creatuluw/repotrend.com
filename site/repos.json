@@ -20169,5 +20169,28 @@
     "language": "Python",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1208073571,
+    "name": "litmus",
+    "owner": {
+      "id": 275354140,
+      "url": "https://api.github.com/users/litmus4ai",
+      "html_url": "https://github.com/litmus4ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/275354140?v=4"
+    },
+    "html_url": "https://github.com/litmus4ai/litmus",
+    "description": "⚡ Unit tests for AI. Test prompts, compare models, save money.",
+    "created_at": "2026-04-11T19:30:17Z",
+    "updated_at": "2026-04-12T14:41:24Z",
+    "pushed_at": "2026-04-12T07:20:28Z",
+    "git_url": "git://github.com/litmus4ai/litmus.git",
+    "homepage": null,
+    "size": 167,
+    "stargazers_count": 74,
+    "watchers_count": 74,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
