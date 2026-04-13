@@ -19778,5 +19778,28 @@
     "language": "C++",
     "forks_count": 12,
     "open_issues_count": 24
+  },
+  {
+    "id": 1206474630,
+    "name": "Snapframe",
+    "owner": {
+      "id": 58453222,
+      "url": "https://api.github.com/users/Pawandeep-prog",
+      "html_url": "https://github.com/Pawandeep-prog",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58453222?v=4"
+    },
+    "html_url": "https://github.com/Pawandeep-prog/Snapframe",
+    "description": "Local Screenshot generator for play store and app store",
+    "created_at": "2026-04-10T00:33:32Z",
+    "updated_at": "2026-04-11T16:39:35Z",
+    "pushed_at": "2026-04-10T03:22:12Z",
+    "git_url": "git://github.com/Pawandeep-prog/Snapframe.git",
+    "homepage": "https://buymeacoffee.com/pawandeep",
+    "size": 7349,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": "TypeScript",
+    "forks_count": 8,
+    "open_issues_count": 1
   }
 ]
