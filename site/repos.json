@@ -19617,5 +19617,51 @@
     "language": "Python",
     "forks_count": 8,
     "open_issues_count": 0
+  },
+  {
+    "id": 1205523418,
+    "name": "codex-oauth-automation-extension",
+    "owner": {
+      "id": 109800873,
+      "url": "https://api.github.com/users/QLHazyCoder",
+      "html_url": "https://github.com/QLHazyCoder",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109800873?v=4"
+    },
+    "html_url": "https://github.com/QLHazyCoder/codex-oauth-automation-extension",
+    "description": "Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复",
+    "created_at": "2026-04-09T03:23:02Z",
+    "updated_at": "2026-04-12T18:10:11Z",
+    "pushed_at": "2026-04-12T17:57:15Z",
+    "git_url": "git://github.com/QLHazyCoder/codex-oauth-automation-extension.git",
+    "homepage": "https://linux.do/t/topic/1928372",
+    "size": 765,
+    "stargazers_count": 850,
+    "watchers_count": 850,
+    "language": "JavaScript",
+    "forks_count": 181,
+    "open_issues_count": 16
+  },
+  {
+    "id": 1207630798,
+    "name": "Umbrella-Spoofer-HWID",
+    "owner": {
+      "id": 273207958,
+      "url": "https://api.github.com/users/lifelikeratomy506",
+      "html_url": "https://github.com/lifelikeratomy506",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273207958?v=4"
+    },
+    "html_url": "https://github.com/lifelikeratomy506/Umbrella-Spoofer-HWID",
+    "description": "A hardware ID (HWID) spoofer is a programme that alters or substitutes a computer’s unique hardware identifiers (HWIDs) in order to bypass bans (HWID bans) in online games. An HWID is a unique set of hardware identifiers for a computer that anti-cheat systems collect to track and block cheaters. ",
+    "created_at": "2026-04-11T07:21:03Z",
+    "updated_at": "2026-04-11T20:50:03Z",
+    "pushed_at": "2026-04-11T07:23:59Z",
+    "git_url": "git://github.com/lifelikeratomy506/Umbrella-Spoofer-HWID.git",
+    "homepage": "",
+    "size": 3,
+    "stargazers_count": 76,
+    "watchers_count": 76,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
