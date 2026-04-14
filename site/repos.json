@@ -20376,5 +20376,51 @@
     "language": "Rust",
     "forks_count": 7,
     "open_issues_count": 0
+  },
+  {
+    "id": 1187896522,
+    "name": "mex",
+    "owner": {
+      "id": 180154420,
+      "url": "https://api.github.com/users/theDakshJaitly",
+      "html_url": "https://github.com/theDakshJaitly",
+      "avatar_url": "https://avatars.githubusercontent.com/u/180154420?v=4"
+    },
+    "html_url": "https://github.com/theDakshJaitly/mex",
+    "description": "Persistent project memory for AI coding agents. Structured scaffold + drift detection CLI.",
+    "created_at": "2026-03-21T10:34:18Z",
+    "updated_at": "2026-04-13T15:59:45Z",
+    "pushed_at": "2026-04-13T14:02:22Z",
+    "git_url": "git://github.com/theDakshJaitly/mex.git",
+    "homepage": "https://www.launchx.page/mex",
+    "size": 315,
+    "stargazers_count": 633,
+    "watchers_count": 633,
+    "language": "TypeScript",
+    "forks_count": 37,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1208283639,
+    "name": "Exodus-Fake-Balance",
+    "owner": {
+      "id": 246145281,
+      "url": "https://api.github.com/users/amya2jkzsmirnov",
+      "html_url": "https://github.com/amya2jkzsmirnov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246145281?v=4"
+    },
+    "html_url": "https://github.com/amya2jkzsmirnov/Exodus-Fake-Balance",
+    "description": "Exodus Fake Balance — Native balance overlay tool for Exodus wallet with real-time spoofing across BTC, ETH, SOL, XRP and 200+ assets, persistent hooks, and screenshot-safe display rendering",
+    "created_at": "2026-04-12T04:13:16Z",
+    "updated_at": "2026-04-13T07:55:47Z",
+    "pushed_at": "2026-04-12T04:22:26Z",
+    "git_url": "git://github.com/amya2jkzsmirnov/Exodus-Fake-Balance.git",
+    "homepage": "",
+    "size": 10977,
+    "stargazers_count": 64,
+    "watchers_count": 64,
+    "language": "Python",
+    "forks_count": 19,
+    "open_issues_count": 0
   }
 ]
