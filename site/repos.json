@@ -20698,5 +20698,28 @@
     "language": "Python",
     "forks_count": 14,
     "open_issues_count": 0
+  },
+  {
+    "id": 1206486895,
+    "name": "pix-client",
+    "owner": {
+      "id": 36255123,
+      "url": "https://api.github.com/users/Wilgat",
+      "html_url": "https://github.com/Wilgat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36255123?v=4"
+    },
+    "html_url": "https://github.com/Wilgat/pix-client",
+    "description": "pix-client is a lightweight native GNOME desktop application that embeds a WebKit2 web view, designed as a clean, dedicated wrapper for Pixlr — the popular online photo editor.",
+    "created_at": "2026-04-10T00:57:47Z",
+    "updated_at": "2026-04-10T13:36:23Z",
+    "pushed_at": "2026-04-10T01:16:30Z",
+    "git_url": "git://github.com/Wilgat/pix-client.git",
+    "homepage": null,
+    "size": 30,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": "C",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
