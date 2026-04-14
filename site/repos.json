@@ -21066,5 +21066,28 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 2
+  },
+  {
+    "id": 1204631909,
+    "name": "AgentMemshell",
+    "owner": {
+      "id": 167884133,
+      "url": "https://api.github.com/users/FightingLzn9",
+      "html_url": "https://github.com/FightingLzn9",
+      "avatar_url": "https://avatars.githubusercontent.com/u/167884133?v=4"
+    },
+    "html_url": "https://github.com/FightingLzn9/AgentMemshell",
+    "description": "基于MemShellParty的Agent内存马二开，使其兼容主流操作系统，适用于在无回显命令执行场景下实现打入内存马。",
+    "created_at": "2026-04-08T07:22:46Z",
+    "updated_at": "2026-04-10T16:05:39Z",
+    "pushed_at": "2026-04-08T08:18:26Z",
+    "git_url": "git://github.com/FightingLzn9/AgentMemshell.git",
+    "homepage": null,
+    "size": 3,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": null,
+    "forks_count": 7,
+    "open_issues_count": 0
   }
 ]
