@@ -2482,5 +2482,11 @@
     "name": "fabro",
     "html_url": "https://github.com/fabro-sh/fabro",
     "posted_at": "2026-04-14T03:38:31.834Z"
+  },
+  {
+    "id": 1202347328,
+    "name": "ripgrep-node",
+    "html_url": "https://github.com/pithings/ripgrep-node",
+    "posted_at": "2026-04-14T05:32:27.232Z"
   }
 ]
