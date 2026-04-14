@@ -20261,5 +20261,51 @@
     "language": "Python",
     "forks_count": 14,
     "open_issues_count": 0
+  },
+  {
+    "id": 1186248226,
+    "name": "ascii-studio",
+    "owner": {
+      "id": 189650812,
+      "url": "https://api.github.com/users/vansh-nagar",
+      "html_url": "https://github.com/vansh-nagar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/189650812?v=4"
+    },
+    "html_url": "https://github.com/vansh-nagar/ascii-studio",
+    "description": "Turn Videos into ASCII Frames - real ascii frames (character-based frames that run smoothly in sequence)",
+    "created_at": "2026-03-19T12:30:21Z",
+    "updated_at": "2026-04-13T17:56:36Z",
+    "pushed_at": "2026-04-13T17:41:03Z",
+    "git_url": "git://github.com/vansh-nagar/ascii-studio.git",
+    "homepage": "https://asciistudio.space",
+    "size": 4115,
+    "stargazers_count": 771,
+    "watchers_count": 771,
+    "language": "TypeScript",
+    "forks_count": 25,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1206186809,
+    "name": "hw-smi",
+    "owner": {
+      "id": 90851087,
+      "url": "https://api.github.com/users/ProjectPhysX",
+      "html_url": "https://github.com/ProjectPhysX",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90851087?v=4"
+    },
+    "html_url": "https://github.com/ProjectPhysX/hw-smi",
+    "description": "A minimal, cross-compatible CPU/GPU telemetry monitor with accurate data directly from vendor APIs and beautiful ASCII visualization.",
+    "created_at": "2026-04-09T17:01:42Z",
+    "updated_at": "2026-04-10T17:46:20Z",
+    "pushed_at": "2026-04-09T17:39:13Z",
+    "git_url": "git://github.com/ProjectPhysX/hw-smi.git",
+    "homepage": "",
+    "size": 12050,
+    "stargazers_count": 85,
+    "watchers_count": 85,
+    "language": "C++",
+    "forks_count": 10,
+    "open_issues_count": 4
   }
 ]
