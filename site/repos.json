@@ -20468,5 +20468,51 @@
     "language": "JavaScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1201826173,
+    "name": "Jackrong-llm-finetuning-guide",
+    "owner": {
+      "id": 115608084,
+      "url": "https://api.github.com/users/R6410418",
+      "html_url": "https://github.com/R6410418",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115608084?v=4"
+    },
+    "html_url": "https://github.com/R6410418/Jackrong-llm-finetuning-guide",
+    "description": null,
+    "created_at": "2026-04-05T08:04:43Z",
+    "updated_at": "2026-04-13T18:00:49Z",
+    "pushed_at": "2026-04-11T08:29:56Z",
+    "git_url": "git://github.com/R6410418/Jackrong-llm-finetuning-guide.git",
+    "homepage": "https://huggingface.co/Jackrong",
+    "size": 618,
+    "stargazers_count": 636,
+    "watchers_count": 636,
+    "language": "Jupyter Notebook",
+    "forks_count": 121,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1206345758,
+    "name": "sbti-wiki",
+    "owner": {
+      "id": 94026305,
+      "url": "https://api.github.com/users/serenakeyitan",
+      "html_url": "https://github.com/serenakeyitan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94026305?v=4"
+    },
+    "html_url": "https://github.com/serenakeyitan/sbti-wiki",
+    "description": "SBTI 人格测试完整结果图鉴 · 27 种结局的中文 Wiki（25 标准人格 + HHHH 兜底 + DRUNK 隐藏）·  https://sbti-wiki.pages.dev",
+    "created_at": "2026-04-09T20:28:55Z",
+    "updated_at": "2026-04-10T16:32:12Z",
+    "pushed_at": "2026-04-10T16:32:08Z",
+    "git_url": "git://github.com/serenakeyitan/sbti-wiki.git",
+    "homepage": "https://sbti-wiki.pages.dev/",
+    "size": 4927,
+    "stargazers_count": 94,
+    "watchers_count": 94,
+    "language": "HTML",
+    "forks_count": 35,
+    "open_issues_count": 1
   }
 ]
