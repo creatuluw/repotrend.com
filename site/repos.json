@@ -20951,5 +20951,28 @@
     "language": "TypeScript",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1208677667,
+    "name": "friday-showcase",
+    "owner": {
+      "id": 17792815,
+      "url": "https://api.github.com/users/missingus3r",
+      "html_url": "https://github.com/missingus3r",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17792815?v=4"
+    },
+    "html_url": "https://github.com/missingus3r/friday-showcase",
+    "description": "Friday — A 24/7 AI Assistant Built Entirely on Claude Code",
+    "created_at": "2026-04-12T15:54:06Z",
+    "updated_at": "2026-04-13T18:11:55Z",
+    "pushed_at": "2026-04-13T18:11:51Z",
+    "git_url": "git://github.com/missingus3r/friday-showcase.git",
+    "homepage": null,
+    "size": 1499,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "HTML",
+    "forks_count": 6,
+    "open_issues_count": 0
   }
 ]
