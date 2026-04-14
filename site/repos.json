@@ -20422,5 +20422,51 @@
     "language": "Python",
     "forks_count": 19,
     "open_issues_count": 0
+  },
+  {
+    "id": 1204908370,
+    "name": "PureMac",
+    "owner": {
+      "id": 8724766,
+      "url": "https://api.github.com/users/momenbasel",
+      "html_url": "https://github.com/momenbasel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8724766?v=4"
+    },
+    "html_url": "https://github.com/momenbasel/PureMac",
+    "description": "Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.",
+    "created_at": "2026-04-08T12:59:29Z",
+    "updated_at": "2026-04-13T18:30:52Z",
+    "pushed_at": "2026-04-10T19:31:17Z",
+    "git_url": "git://github.com/momenbasel/PureMac.git",
+    "homepage": "https://github.com/momenbasel/PureMac#install",
+    "size": 2095,
+    "stargazers_count": 690,
+    "watchers_count": 690,
+    "language": "Swift",
+    "forks_count": 32,
+    "open_issues_count": 10
+  },
+  {
+    "id": 1208390243,
+    "name": "Claude-for-Word-Desktop",
+    "owner": {
+      "id": 72083066,
+      "url": "https://api.github.com/users/shadimarahli",
+      "html_url": "https://github.com/shadimarahli",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72083066?v=4"
+    },
+    "html_url": "https://github.com/shadimarahli/Claude-for-Word-Desktop",
+    "description": "Download FREE Claude for Word Desktop - AI writing assistant integrated directly into Microsoft Word. Use Claude 3.5 and 4.0 to generate, edit, summarize, and improve text inside Word. Perfect for writers, students, and professionals.",
+    "created_at": "2026-04-12T07:57:01Z",
+    "updated_at": "2026-04-13T19:53:28Z",
+    "pushed_at": "2026-04-12T08:12:02Z",
+    "git_url": "git://github.com/shadimarahli/Claude-for-Word-Desktop.git",
+    "homepage": "",
+    "size": 6,
+    "stargazers_count": 92,
+    "watchers_count": 92,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
