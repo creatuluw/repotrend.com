@@ -20836,5 +20836,51 @@
     "language": "Python",
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1184397362,
+    "name": "sandcastle",
+    "owner": {
+      "id": 28293365,
+      "url": "https://api.github.com/users/mattpocock",
+      "html_url": "https://github.com/mattpocock",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28293365?v=4"
+    },
+    "html_url": "https://github.com/mattpocock/sandcastle",
+    "description": "Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()",
+    "created_at": "2026-03-17T14:49:05Z",
+    "updated_at": "2026-04-14T12:29:35Z",
+    "pushed_at": "2026-04-14T08:41:55Z",
+    "git_url": "git://github.com/mattpocock/sandcastle.git",
+    "homepage": "",
+    "size": 1082,
+    "stargazers_count": 705,
+    "watchers_count": 705,
+    "language": "TypeScript",
+    "forks_count": 67,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1206311415,
+    "name": "Scal3R",
+    "owner": {
+      "id": 48914724,
+      "url": "https://api.github.com/users/zju3dv",
+      "html_url": "https://github.com/zju3dv",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48914724?v=4"
+    },
+    "html_url": "https://github.com/zju3dv/Scal3R",
+    "description": "[CVPR 2026 (Highlight)] Scal3R: Scalable Test-Time Training for Large-Scale 3D Reconstruction ",
+    "created_at": "2026-04-09T19:39:58Z",
+    "updated_at": "2026-04-10T18:22:43Z",
+    "pushed_at": "2026-04-10T10:39:24Z",
+    "git_url": "git://github.com/zju3dv/Scal3R.git",
+    "homepage": "https://zju3dv.github.io/scal3r",
+    "size": 8482,
+    "stargazers_count": 77,
+    "watchers_count": 77,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 1
   }
 ]
