@@ -20767,5 +20767,51 @@
     "language": "Python",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1199057215,
+    "name": "mini-coding-agent",
+    "owner": {
+      "id": 5618407,
+      "url": "https://api.github.com/users/rasbt",
+      "html_url": "https://github.com/rasbt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5618407?v=4"
+    },
+    "html_url": "https://github.com/rasbt/mini-coding-agent",
+    "description": "Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents.",
+    "created_at": "2026-04-02T02:35:06Z",
+    "updated_at": "2026-04-14T12:14:58Z",
+    "pushed_at": "2026-04-07T22:07:26Z",
+    "git_url": "git://github.com/rasbt/mini-coding-agent.git",
+    "homepage": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "size": 65,
+    "stargazers_count": 626,
+    "watchers_count": 626,
+    "language": "Python",
+    "forks_count": 112,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1210207633,
+    "name": "FuseFixer",
+    "owner": {
+      "id": 56485584,
+      "url": "https://api.github.com/users/5ec1cff",
+      "html_url": "https://github.com/5ec1cff",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56485584?v=4"
+    },
+    "html_url": "https://github.com/5ec1cff/FuseFixer",
+    "description": null,
+    "created_at": "2026-04-14T07:29:35Z",
+    "updated_at": "2026-04-14T12:19:03Z",
+    "pushed_at": "2026-04-14T07:34:32Z",
+    "git_url": "git://github.com/5ec1cff/FuseFixer.git",
+    "homepage": null,
+    "size": 154,
+    "stargazers_count": 82,
+    "watchers_count": 82,
+    "language": "C",
+    "forks_count": 6,
+    "open_issues_count": 0
   }
 ]
