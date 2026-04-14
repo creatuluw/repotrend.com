@@ -20882,5 +20882,51 @@
     "language": "Python",
     "forks_count": 1,
     "open_issues_count": 1
+  },
+  {
+    "id": 1182353280,
+    "name": "translate-book",
+    "owner": {
+      "id": 42929363,
+      "url": "https://api.github.com/users/deusyu",
+      "html_url": "https://github.com/deusyu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42929363?v=4"
+    },
+    "html_url": "https://github.com/deusyu/translate-book",
+    "description": "Claude Code skill that translates entire books (PDF/DOCX/EPUB) into any language using parallel subagents",
+    "created_at": "2026-03-15T12:04:50Z",
+    "updated_at": "2026-04-13T17:12:27Z",
+    "pushed_at": "2026-04-04T14:37:11Z",
+    "git_url": "git://github.com/deusyu/translate-book.git",
+    "homepage": null,
+    "size": 76,
+    "stargazers_count": 622,
+    "watchers_count": 622,
+    "language": "Python",
+    "forks_count": 62,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1206082851,
+    "name": "KnowU-Bench",
+    "owner": {
+      "id": 203928864,
+      "url": "https://api.github.com/users/ZJU-REAL",
+      "html_url": "https://github.com/ZJU-REAL",
+      "avatar_url": "https://avatars.githubusercontent.com/u/203928864?v=4"
+    },
+    "html_url": "https://github.com/ZJU-REAL/KnowU-Bench",
+    "description": "Official code for \"KnowU-Bench: Towards Interactive, Proactive, and Personalized Mobile Agent Evaluation\"",
+    "created_at": "2026-04-09T15:00:28Z",
+    "updated_at": "2026-04-11T07:21:13Z",
+    "pushed_at": "2026-04-10T03:45:49Z",
+    "git_url": "git://github.com/ZJU-REAL/KnowU-Bench.git",
+    "homepage": "https://zju-real.github.io/KnowU-Bench",
+    "size": 11695,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 2
   }
 ]
