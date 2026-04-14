@@ -20560,5 +20560,28 @@
     "language": null,
     "forks_count": 27,
     "open_issues_count": 0
+  },
+  {
+    "id": 1206577576,
+    "name": "Capso",
+    "owner": {
+      "id": 5875125,
+      "url": "https://api.github.com/users/lzhgus",
+      "html_url": "https://github.com/lzhgus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5875125?v=4"
+    },
+    "html_url": "https://github.com/lzhgus/Capso",
+    "description": "Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI.",
+    "created_at": "2026-04-10T03:45:37Z",
+    "updated_at": "2026-04-11T18:15:04Z",
+    "pushed_at": "2026-04-11T16:19:37Z",
+    "git_url": "git://github.com/lzhgus/Capso.git",
+    "homepage": "https://www.awesomemacapp.com/app/capso",
+    "size": 6186,
+    "stargazers_count": 73,
+    "watchers_count": 73,
+    "language": "Swift",
+    "forks_count": 7,
+    "open_issues_count": 0
   }
 ]
