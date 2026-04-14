@@ -20514,5 +20514,51 @@
     "language": "HTML",
     "forks_count": 35,
     "open_issues_count": 1
+  },
+  {
+    "id": 1204915983,
+    "name": "littlesnitch-linux",
+    "owner": {
+      "id": 2912473,
+      "url": "https://api.github.com/users/obdev",
+      "html_url": "https://github.com/obdev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2912473?v=4"
+    },
+    "html_url": "https://github.com/obdev/littlesnitch-linux",
+    "description": "Open Source components of Little Snitch for Linux",
+    "created_at": "2026-04-08T13:07:47Z",
+    "updated_at": "2026-04-13T18:31:54Z",
+    "pushed_at": "2026-04-12T20:01:23Z",
+    "git_url": "git://github.com/obdev/littlesnitch-linux.git",
+    "homepage": null,
+    "size": 255,
+    "stargazers_count": 638,
+    "watchers_count": 638,
+    "language": "Rust",
+    "forks_count": 19,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1204419040,
+    "name": "marp-slides",
+    "owner": {
+      "id": 184912701,
+      "url": "https://api.github.com/users/robonuggets",
+      "html_url": "https://github.com/robonuggets",
+      "avatar_url": "https://avatars.githubusercontent.com/u/184912701?v=4"
+    },
+    "html_url": "https://github.com/robonuggets/marp-slides",
+    "description": "MARP presentation skill for Claude Code — 22 curated example decks, SVG charts, dark/light themes, dashboard components",
+    "created_at": "2026-04-08T01:53:47Z",
+    "updated_at": "2026-04-11T18:12:45Z",
+    "pushed_at": "2026-04-08T01:59:55Z",
+    "git_url": "git://github.com/robonuggets/marp-slides.git",
+    "homepage": null,
+    "size": 76,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": null,
+    "forks_count": 27,
+    "open_issues_count": 0
   }
 ]
