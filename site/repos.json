@@ -21480,5 +21480,51 @@
     "language": "TypeScript",
     "forks_count": 14,
     "open_issues_count": 0
+  },
+  {
+    "id": 1160693255,
+    "name": "geo-seo-claude",
+    "owner": {
+      "id": 13802400,
+      "url": "https://api.github.com/users/zubair-trabzada",
+      "html_url": "https://github.com/zubair-trabzada",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13802400?v=4"
+    },
+    "html_url": "https://github.com/zubair-trabzada/geo-seo-claude",
+    "description": "GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and PDF reports.  If you want learn how to sell this to real businesses, check out the skool community",
+    "created_at": "2026-02-18T09:01:07Z",
+    "updated_at": "2026-04-15T06:28:08Z",
+    "pushed_at": "2026-03-27T02:47:59Z",
+    "git_url": "git://github.com/zubair-trabzada/geo-seo-claude.git",
+    "homepage": "https://www.skool.com/aiworkshop",
+    "size": 112,
+    "stargazers_count": 6065,
+    "watchers_count": 6065,
+    "language": "Python",
+    "forks_count": 975,
+    "open_issues_count": 12
+  },
+  {
+    "id": 1205383711,
+    "name": "qnap-zfs-rescue",
+    "owner": {
+      "id": 219641572,
+      "url": "https://api.github.com/users/st771207",
+      "html_url": "https://github.com/st771207",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219641572?v=4"
+    },
+    "html_url": "https://github.com/st771207/qnap-zfs-rescue",
+    "description": "Rescuing QNAP QuTS Hero ZFS Pool with Corrupted Metadata",
+    "created_at": "2026-04-08T23:11:44Z",
+    "updated_at": "2026-04-11T16:55:02Z",
+    "pushed_at": "2026-04-08T23:14:03Z",
+    "git_url": "git://github.com/st771207/qnap-zfs-rescue.git",
+    "homepage": "",
+    "size": 17,
+    "stargazers_count": 99,
+    "watchers_count": 99,
+    "language": null,
+    "forks_count": 16,
+    "open_issues_count": 0
   }
 ]
