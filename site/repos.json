@@ -21802,5 +21802,28 @@
     "language": "TypeScript",
     "forks_count": 261,
     "open_issues_count": 0
+  },
+  {
+    "id": 1208389810,
+    "name": "locwarp",
+    "owner": {
+      "id": 53375409,
+      "url": "https://api.github.com/users/keezxc1223",
+      "html_url": "https://github.com/keezxc1223",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53375409?v=4"
+    },
+    "html_url": "https://github.com/keezxc1223/locwarp",
+    "description": "iOS 虛擬定位模擬器 Windows 上透過 pymobiledevice3 控制 iPhone GPS,支援 USB / WiFi Tunnel 連線",
+    "created_at": "2026-04-12T07:56:08Z",
+    "updated_at": "2026-04-14T14:53:05Z",
+    "pushed_at": "2026-04-14T17:39:28Z",
+    "git_url": "git://github.com/keezxc1223/locwarp.git",
+    "homepage": "https://github.com/keezxc1223/locwarp/releases",
+    "size": 99038,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": "TypeScript",
+    "forks_count": 11,
+    "open_issues_count": 1
   }
 ]
