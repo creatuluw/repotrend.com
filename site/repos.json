@@ -21112,5 +21112,28 @@
     "language": "Python",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1207919336,
+    "name": "JSON-Mod-Manager-For-Crimson-Desert",
+    "owner": {
+      "id": 49390394,
+      "url": "https://api.github.com/users/hussennader",
+      "html_url": "https://github.com/hussennader",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49390394?v=4"
+    },
+    "html_url": "https://github.com/hussennader/JSON-Mod-Manager-For-Crimson-Desert",
+    "description": "Download JSON Mod Manager for Crimson Desert - the easiest way to install, organize, and manage mods. Create and switch mod profiles using JSON files, automatic conflict detection, backups, and one-click installation for .pak mods.",
+    "created_at": "2026-04-11T15:25:34Z",
+    "updated_at": "2026-04-12T18:10:38Z",
+    "pushed_at": "2026-04-11T15:34:34Z",
+    "git_url": "git://github.com/hussennader/JSON-Mod-Manager-For-Crimson-Desert.git",
+    "homepage": "",
+    "size": 65,
+    "stargazers_count": 81,
+    "watchers_count": 81,
+    "language": "C++",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
