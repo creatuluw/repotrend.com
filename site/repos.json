@@ -21595,5 +21595,28 @@
     "language": "C",
     "forks_count": 8,
     "open_issues_count": 1
+  },
+  {
+    "id": 1207788672,
+    "name": "3gpp-skill",
+    "owner": {
+      "id": 50489118,
+      "url": "https://api.github.com/users/lugasia",
+      "html_url": "https://github.com/lugasia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50489118?v=4"
+    },
+    "html_url": "https://github.com/lugasia/3gpp-skill",
+    "description": null,
+    "created_at": "2026-04-11T12:03:48Z",
+    "updated_at": "2026-04-12T18:06:30Z",
+    "pushed_at": "2026-04-11T12:48:39Z",
+    "git_url": "git://github.com/lugasia/3gpp-skill.git",
+    "homepage": null,
+    "size": 28,
+    "stargazers_count": 73,
+    "watchers_count": 73,
+    "language": null,
+    "forks_count": 11,
+    "open_issues_count": 0
   }
 ]
