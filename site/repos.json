@@ -21273,5 +21273,51 @@
     "language": "Python",
     "forks_count": 14,
     "open_issues_count": 2
+  },
+  {
+    "id": 1208430144,
+    "name": "anything-analyzer",
+    "owner": {
+      "id": 28473201,
+      "url": "https://api.github.com/users/Mouseww",
+      "html_url": "https://github.com/Mouseww",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28473201?v=4"
+    },
+    "html_url": "https://github.com/Mouseww/anything-analyzer",
+    "description": "利用 browser + CDP capture + AI analysis  傻瓜式生成 注册机 | 2API | 其他浏览器或应用行为 的协议分析文档",
+    "created_at": "2026-04-12T09:12:57Z",
+    "updated_at": "2026-04-15T00:40:10Z",
+    "pushed_at": "2026-04-14T17:47:24Z",
+    "git_url": "git://github.com/Mouseww/anything-analyzer.git",
+    "homepage": "",
+    "size": 542,
+    "stargazers_count": 636,
+    "watchers_count": 636,
+    "language": "TypeScript",
+    "forks_count": 180,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1207605833,
+    "name": "shopify-admin-skills",
+    "owner": {
+      "id": 248426272,
+      "url": "https://api.github.com/users/40RTY-ai",
+      "html_url": "https://github.com/40RTY-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/248426272?v=4"
+    },
+    "html_url": "https://github.com/40RTY-ai/shopify-admin-skills",
+    "description": "Community-maintained AI agent skills for operating Shopify stores — workflows, optimization, reports and more",
+    "created_at": "2026-04-11T06:34:20Z",
+    "updated_at": "2026-04-14T16:51:54Z",
+    "pushed_at": "2026-04-14T16:39:00Z",
+    "git_url": "git://github.com/40RTY-ai/shopify-admin-skills.git",
+    "homepage": "http://skills.40rty.ai",
+    "size": 386,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": "Astro",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
