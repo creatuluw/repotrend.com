@@ -21871,5 +21871,28 @@
     "language": null,
     "forks_count": 83,
     "open_issues_count": 0
+  },
+  {
+    "id": 1208496453,
+    "name": "hotmail_register",
+    "owner": {
+      "id": 240922227,
+      "url": "https://api.github.com/users/0xzkslr-ai",
+      "html_url": "https://github.com/0xzkslr-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/240922227?v=4"
+    },
+    "html_url": "https://github.com/0xzkslr-ai/hotmail_register",
+    "description": "hotmail register",
+    "created_at": "2026-04-12T11:14:19Z",
+    "updated_at": "2026-04-14T10:36:08Z",
+    "pushed_at": "2026-04-14T00:19:26Z",
+    "git_url": "git://github.com/0xzkslr-ai/hotmail_register.git",
+    "homepage": null,
+    "size": 19,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "Python",
+    "forks_count": 34,
+    "open_issues_count": 2
   }
 ]
