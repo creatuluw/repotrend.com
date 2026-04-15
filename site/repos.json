@@ -21227,5 +21227,51 @@
     "language": "Python",
     "forks_count": 2,
     "open_issues_count": 1
+  },
+  {
+    "id": 1191561598,
+    "name": "brightbean-studio",
+    "owner": {
+      "id": 268594138,
+      "url": "https://api.github.com/users/brightbeanxyz",
+      "html_url": "https://github.com/brightbeanxyz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268594138?v=4"
+    },
+    "html_url": "https://github.com/brightbeanxyz/brightbean-studio",
+    "description": "Open-source, self-hostable social media management platform. Schedule, publish, and manage content across 10+ platforms from a single dashboard. Free alternative to Buffer, Sendible, and SocialPilot.",
+    "created_at": "2026-03-25T11:16:28Z",
+    "updated_at": "2026-04-15T00:38:54Z",
+    "pushed_at": "2026-04-14T19:11:22Z",
+    "git_url": "git://github.com/brightbeanxyz/brightbean-studio.git",
+    "homepage": "https://brightbean.xyz/",
+    "size": 3297,
+    "stargazers_count": 715,
+    "watchers_count": 715,
+    "language": "HTML",
+    "forks_count": 87,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1205558425,
+    "name": "HackSmarter_Swarm",
+    "owner": {
+      "id": 86263907,
+      "url": "https://api.github.com/users/TeneBrae93",
+      "html_url": "https://github.com/TeneBrae93",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86263907?v=4"
+    },
+    "html_url": "https://github.com/TeneBrae93/HackSmarter_Swarm",
+    "description": null,
+    "created_at": "2026-04-09T04:25:53Z",
+    "updated_at": "2026-04-11T09:40:01Z",
+    "pushed_at": "2026-04-10T21:24:59Z",
+    "git_url": "git://github.com/TeneBrae93/HackSmarter_Swarm.git",
+    "homepage": null,
+    "size": 248,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": "Python",
+    "forks_count": 14,
+    "open_issues_count": 2
   }
 ]
