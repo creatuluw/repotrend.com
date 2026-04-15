@@ -21825,5 +21825,51 @@
     "language": "TypeScript",
     "forks_count": 11,
     "open_issues_count": 1
+  },
+  {
+    "id": 1194746675,
+    "name": "tegaki",
+    "owner": {
+      "id": 6034931,
+      "url": "https://api.github.com/users/KurtGokhan",
+      "html_url": "https://github.com/KurtGokhan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6034931?v=4"
+    },
+    "html_url": "https://github.com/KurtGokhan/tegaki",
+    "description": "Handwriting animation for the web. Supports any font or text.",
+    "created_at": "2026-03-28T18:58:26Z",
+    "updated_at": "2026-04-15T18:30:02Z",
+    "pushed_at": "2026-04-15T17:19:33Z",
+    "git_url": "git://github.com/KurtGokhan/tegaki.git",
+    "homepage": "http://gkurt.com/tegaki",
+    "size": 2678,
+    "stargazers_count": 915,
+    "watchers_count": 915,
+    "language": "TypeScript",
+    "forks_count": 25,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1210576792,
+    "name": "manual-SDD",
+    "owner": {
+      "id": 165896443,
+      "url": "https://api.github.com/users/LIDR-academy",
+      "html_url": "https://github.com/LIDR-academy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/165896443?v=4"
+    },
+    "html_url": "https://github.com/LIDR-academy/manual-SDD",
+    "description": null,
+    "created_at": "2026-04-14T14:50:17Z",
+    "updated_at": "2026-04-15T17:55:14Z",
+    "pushed_at": "2026-04-14T15:20:48Z",
+    "git_url": "git://github.com/LIDR-academy/manual-SDD.git",
+    "homepage": null,
+    "size": 106,
+    "stargazers_count": 80,
+    "watchers_count": 80,
+    "language": null,
+    "forks_count": 83,
+    "open_issues_count": 0
   }
 ]
