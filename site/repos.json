@@ -21687,5 +21687,28 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1205816692,
+    "name": "Arc-Raiders-Performance-Booster",
+    "owner": {
+      "id": 273207480,
+      "url": "https://api.github.com/users/rubak20evilytish",
+      "html_url": "https://github.com/rubak20evilytish",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273207480?v=4"
+    },
+    "html_url": "https://github.com/rubak20evilytish/Arc-Raiders-Performance-Booster",
+    "description": "ArcRaider FPS Booster — boosts FPS and reduces stutter for smoother gameplay. AR FPS Booster | Max FPS | Zero Stutter | Ultra Performance | Low-End PC Power | Competitive Gaming |",
+    "created_at": "2026-04-09T09:58:43Z",
+    "updated_at": "2026-04-10T17:03:08Z",
+    "pushed_at": "2026-04-09T09:59:34Z",
+    "git_url": "git://github.com/rubak20evilytish/Arc-Raiders-Performance-Booster.git",
+    "homepage": "",
+    "size": 3,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
