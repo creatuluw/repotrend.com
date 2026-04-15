@@ -21365,5 +21365,51 @@
     "language": "JavaScript",
     "forks_count": 55,
     "open_issues_count": 5
+  },
+  {
+    "id": 1174369519,
+    "name": "agency-agents-zh",
+    "owner": {
+      "id": 12096460,
+      "url": "https://api.github.com/users/jnMetaCode",
+      "html_url": "https://github.com/jnMetaCode",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12096460?v=4"
+    },
+    "html_url": "https://github.com/jnMetaCode/agency-agents-zh",
+    "description": "🎭 211 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 16 种工具，覆盖工程/设计/营销/金融等 18 个部门。含 46 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）",
+    "created_at": "2026-03-06T11:11:51Z",
+    "updated_at": "2026-04-15T06:34:47Z",
+    "pushed_at": "2026-04-15T03:34:56Z",
+    "git_url": "git://github.com/jnMetaCode/agency-agents-zh.git",
+    "homepage": "https://github.com/jnMetaCode/agency-orchestrator",
+    "size": 940,
+    "stargazers_count": 6391,
+    "watchers_count": 6391,
+    "language": "Shell",
+    "forks_count": 1209,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1208387346,
+    "name": "AI-Animation-Skill",
+    "owner": {
+      "id": 55303635,
+      "url": "https://api.github.com/users/Unclecheng-li",
+      "html_url": "https://github.com/Unclecheng-li",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55303635?v=4"
+    },
+    "html_url": "https://github.com/Unclecheng-li/AI-Animation-Skill",
+    "description": "使用 AI 生成 HTML 演示动画的工具集，让视频创作者能够快速将科普文本转换为炫酷的演示动画。",
+    "created_at": "2026-04-12T07:51:26Z",
+    "updated_at": "2026-04-14T18:09:15Z",
+    "pushed_at": "2026-04-13T04:02:35Z",
+    "git_url": "git://github.com/Unclecheng-li/AI-Animation-Skill.git",
+    "homepage": null,
+    "size": 135,
+    "stargazers_count": 91,
+    "watchers_count": 91,
+    "language": "HTML",
+    "forks_count": 3,
+    "open_issues_count": 1
   }
 ]
