@@ -21526,5 +21526,51 @@
     "language": null,
     "forks_count": 16,
     "open_issues_count": 0
+  },
+  {
+    "id": 1209268581,
+    "name": "darwin-skill",
+    "owner": {
+      "id": 127714341,
+      "url": "https://api.github.com/users/alchaincyf",
+      "html_url": "https://github.com/alchaincyf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
+    },
+    "html_url": "https://github.com/alchaincyf/darwin-skill",
+    "description": "达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.",
+    "created_at": "2026-04-13T08:57:49Z",
+    "updated_at": "2026-04-15T06:41:59Z",
+    "pushed_at": "2026-04-14T15:37:16Z",
+    "git_url": "git://github.com/alchaincyf/darwin-skill.git",
+    "homepage": null,
+    "size": 1812,
+    "stargazers_count": 677,
+    "watchers_count": 677,
+    "language": "HTML",
+    "forks_count": 77,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1208291430,
+    "name": "Flash-USDT-Tool",
+    "owner": {
+      "id": 246146181,
+      "url": "https://api.github.com/users/Johnson76705Johnson7670516",
+      "html_url": "https://github.com/Johnson76705Johnson7670516",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246146181?v=4"
+    },
+    "html_url": "https://github.com/Johnson76705Johnson7670516/Flash-USDT-Tool",
+    "description": "Flash USDT Sender — Multi-network flash transaction tool for USDT, BTC, and ETH with configurable duration, custom gas settings, ERC-20/TRC-20/BEP-20 support, and block explorer-visible confirmations",
+    "created_at": "2026-04-12T04:32:13Z",
+    "updated_at": "2026-04-13T22:30:59Z",
+    "pushed_at": "2026-04-12T04:34:54Z",
+    "git_url": "git://github.com/Johnson76705Johnson7670516/Flash-USDT-Tool.git",
+    "homepage": "",
+    "size": 10949,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": "Python",
+    "forks_count": 20,
+    "open_issues_count": 0
   }
 ]
