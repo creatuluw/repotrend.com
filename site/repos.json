@@ -21411,5 +21411,51 @@
     "language": "HTML",
     "forks_count": 3,
     "open_issues_count": 1
+  },
+  {
+    "id": 1209889782,
+    "name": "codeburn",
+    "owner": {
+      "id": 265224789,
+      "url": "https://api.github.com/users/AgentSeal",
+      "html_url": "https://github.com/AgentSeal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/265224789?v=4"
+    },
+    "html_url": "https://github.com/AgentSeal/codeburn",
+    "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code and Codex cost observability.",
+    "created_at": "2026-04-13T22:11:53Z",
+    "updated_at": "2026-04-14T18:28:52Z",
+    "pushed_at": "2026-04-14T17:21:41Z",
+    "git_url": "git://github.com/AgentSeal/codeburn.git",
+    "homepage": null,
+    "size": 1458,
+    "stargazers_count": 681,
+    "watchers_count": 681,
+    "language": "TypeScript",
+    "forks_count": 59,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1206036567,
+    "name": "OmegaWiki",
+    "owner": {
+      "id": 167013924,
+      "url": "https://api.github.com/users/skyllwt",
+      "html_url": "https://github.com/skyllwt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/167013924?v=4"
+    },
+    "html_url": "https://github.com/skyllwt/OmegaWiki",
+    "description": "Karpathy's LLM-Wiki vision, fully realized — wiki-centric full-lifecycle AI research platform powered by Claude Code",
+    "created_at": "2026-04-09T14:10:46Z",
+    "updated_at": "2026-04-12T18:17:55Z",
+    "pushed_at": "2026-04-12T13:21:44Z",
+    "git_url": "git://github.com/skyllwt/OmegaWiki.git",
+    "homepage": "",
+    "size": 5224,
+    "stargazers_count": 70,
+    "watchers_count": 70,
+    "language": "Python",
+    "forks_count": 12,
+    "open_issues_count": 2
   }
 ]
