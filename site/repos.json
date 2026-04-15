@@ -21618,5 +21618,28 @@
     "language": null,
     "forks_count": 11,
     "open_issues_count": 0
+  },
+  {
+    "id": 1208135933,
+    "name": "bindery",
+    "owner": {
+      "id": 75899046,
+      "url": "https://api.github.com/users/vavallee",
+      "html_url": "https://github.com/vavallee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75899046?v=4"
+    },
+    "html_url": "https://github.com/vavallee/bindery",
+    "description": "Automated book download manager for Usenet. Monitor authors, search indexers, download via SABnzbd, and organize your library. The modern replacement for Readarr.",
+    "created_at": "2026-04-11T21:40:44Z",
+    "updated_at": "2026-04-14T18:29:55Z",
+    "pushed_at": "2026-04-14T18:29:59Z",
+    "git_url": "git://github.com/vavallee/bindery.git",
+    "homepage": null,
+    "size": 1515,
+    "stargazers_count": 82,
+    "watchers_count": 82,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 8
   }
 ]
