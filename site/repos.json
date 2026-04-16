@@ -22262,5 +22262,51 @@
     "language": "TypeScript",
     "forks_count": 4,
     "open_issues_count": 1
+  },
+  {
+    "id": 1209054090,
+    "name": "anubis",
+    "owner": {
+      "id": 111385605,
+      "url": "https://api.github.com/users/sogonov",
+      "html_url": "https://github.com/sogonov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111385605?v=4"
+    },
+    "html_url": "https://github.com/sogonov/anubis",
+    "description": "Android app manager with VPN integration. Manages groups of apps by freezing/unfreezing them based on VPN connection state.",
+    "created_at": "2026-04-13T03:41:38Z",
+    "updated_at": "2026-04-16T12:24:04Z",
+    "pushed_at": "2026-04-15T18:17:18Z",
+    "git_url": "git://github.com/sogonov/anubis.git",
+    "homepage": null,
+    "size": 481,
+    "stargazers_count": 704,
+    "watchers_count": 704,
+    "language": "Kotlin",
+    "forks_count": 19,
+    "open_issues_count": 35
+  },
+  {
+    "id": 1209086026,
+    "name": "LLM-anonymization",
+    "owner": {
+      "id": 12475057,
+      "url": "https://api.github.com/users/zeroc00I",
+      "html_url": "https://github.com/zeroc00I",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12475057?v=4"
+    },
+    "html_url": "https://github.com/zeroc00I/LLM-anonymization",
+    "description": "Reverse proxy for Claude Code that anonymizes sensitive pentest data (IPs, hashes, credentials, hostnames,     PII) before it reaches Anthropic. Dual-layer detection: local Ollama LLM + regex safety net, with     per-engagement vault and self-improving feedback loop.",
+    "created_at": "2026-04-13T04:40:29Z",
+    "updated_at": "2026-04-16T12:17:38Z",
+    "pushed_at": "2026-04-13T12:20:14Z",
+    "git_url": "git://github.com/zeroc00I/LLM-anonymization.git",
+    "homepage": null,
+    "size": 16,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": null,
+    "forks_count": 13,
+    "open_issues_count": 0
   }
 ]
