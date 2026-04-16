@@ -22147,5 +22147,51 @@
     "language": "TypeScript",
     "forks_count": 7,
     "open_issues_count": 0
+  },
+  {
+    "id": 1209396858,
+    "name": "GEOFlow",
+    "owner": {
+      "id": 266242792,
+      "url": "https://api.github.com/users/yaojingang",
+      "html_url": "https://github.com/yaojingang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/266242792?v=4"
+    },
+    "html_url": "https://github.com/yaojingang/GEOFlow",
+    "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
+    "created_at": "2026-04-13T11:42:03Z",
+    "updated_at": "2026-04-16T06:43:58Z",
+    "pushed_at": "2026-04-15T13:15:30Z",
+    "git_url": "git://github.com/yaojingang/GEOFlow.git",
+    "homepage": null,
+    "size": 1625,
+    "stargazers_count": 711,
+    "watchers_count": 711,
+    "language": "PHP",
+    "forks_count": 146,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1211235520,
+    "name": "html-ppt-skill",
+    "owner": {
+      "id": 155287332,
+      "url": "https://api.github.com/users/lewislulu",
+      "html_url": "https://github.com/lewislulu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/155287332?v=4"
+    },
+    "html_url": "https://github.com/lewislulu/html-ppt-skill",
+    "description": "HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations",
+    "created_at": "2026-04-15T07:36:22Z",
+    "updated_at": "2026-04-15T18:02:05Z",
+    "pushed_at": "2026-04-15T14:36:36Z",
+    "git_url": "git://github.com/lewislulu/html-ppt-skill.git",
+    "homepage": null,
+    "size": 9240,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "HTML",
+    "forks_count": 7,
+    "open_issues_count": 0
   }
 ]
