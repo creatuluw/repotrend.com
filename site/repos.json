@@ -22308,5 +22308,51 @@
     "language": null,
     "forks_count": 13,
     "open_issues_count": 0
+  },
+  {
+    "id": 1197057157,
+    "name": "claude-code",
+    "owner": {
+      "id": 22895867,
+      "url": "https://api.github.com/users/nirholas",
+      "html_url": "https://github.com/nirholas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22895867?v=4"
+    },
+    "html_url": "https://github.com/nirholas/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "created_at": "2026-03-31T09:38:18Z",
+    "updated_at": "2026-04-16T08:45:33Z",
+    "pushed_at": "2026-03-31T22:32:50Z",
+    "git_url": "git://github.com/nirholas/claude-code.git",
+    "homepage": "https://github.com/nirholas/claude-code",
+    "size": 24071,
+    "stargazers_count": 6368,
+    "watchers_count": 6368,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1208121457,
+    "name": "agent-sdk",
+    "owner": {
+      "id": 274263129,
+      "url": "https://api.github.com/users/adventure-fun",
+      "html_url": "https://github.com/adventure-fun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/274263129?v=4"
+    },
+    "html_url": "https://github.com/adventure-fun/agent-sdk",
+    "description": "An open-source, configurable sdk for creating an agent that can play in the Adventure.Fun world.",
+    "created_at": "2026-04-11T21:07:21Z",
+    "updated_at": "2026-04-14T16:49:05Z",
+    "pushed_at": "2026-04-14T16:49:00Z",
+    "git_url": "git://github.com/adventure-fun/agent-sdk.git",
+    "homepage": null,
+    "size": 843,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
