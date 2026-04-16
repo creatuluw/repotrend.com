@@ -22239,5 +22239,28 @@
     "language": "JavaScript",
     "forks_count": 2,
     "open_issues_count": 1
+  },
+  {
+    "id": 1207745605,
+    "name": "free-ai-tools",
+    "owner": {
+      "id": 86195374,
+      "url": "https://api.github.com/users/ShaikhWarsi",
+      "html_url": "https://github.com/ShaikhWarsi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86195374?v=4"
+    },
+    "html_url": "https://github.com/ShaikhWarsi/free-ai-tools",
+    "description": "Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps",
+    "created_at": "2026-04-11T10:46:47Z",
+    "updated_at": "2026-04-14T09:02:26Z",
+    "pushed_at": "2026-04-12T07:45:00Z",
+    "git_url": "git://github.com/ShaikhWarsi/free-ai-tools.git",
+    "homepage": "https://FreeAiToolsList.vercel.app",
+    "size": 301,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": "TypeScript",
+    "forks_count": 4,
+    "open_issues_count": 1
   }
 ]
