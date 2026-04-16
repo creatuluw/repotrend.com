@@ -22446,5 +22446,28 @@
     "language": "C++",
     "forks_count": 10,
     "open_issues_count": 0
+  },
+  {
+    "id": 1211526517,
+    "name": "skill-always-ask-next",
+    "owner": {
+      "id": 31997019,
+      "url": "https://api.github.com/users/endman100",
+      "html_url": "https://github.com/endman100",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31997019?v=4"
+    },
+    "html_url": "https://github.com/endman100/skill-always-ask-next",
+    "description": null,
+    "created_at": "2026-04-15T13:33:36Z",
+    "updated_at": "2026-04-16T11:58:49Z",
+    "pushed_at": "2026-04-16T08:23:11Z",
+    "git_url": "git://github.com/endman100/skill-always-ask-next.git",
+    "homepage": null,
+    "size": 5,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": null,
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
