@@ -21986,5 +21986,51 @@
     "language": "Lua",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1193564274,
+    "name": "awesome-openclaw",
+    "owner": {
+      "id": 262747402,
+      "url": "https://api.github.com/users/alvinreal",
+      "html_url": "https://github.com/alvinreal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/262747402?v=4"
+    },
+    "html_url": "https://github.com/alvinreal/awesome-openclaw",
+    "description": "A curated list of the best OpenClaw resources: official projects, skills, plugins, dashboards, deployment tooling, memory systems, and guides.",
+    "created_at": "2026-03-27T11:07:09Z",
+    "updated_at": "2026-04-15T11:00:38Z",
+    "pushed_at": "2026-04-12T10:48:56Z",
+    "git_url": "git://github.com/alvinreal/awesome-openclaw.git",
+    "homepage": "https://moltfounders.com/awesome-openclaw",
+    "size": 148,
+    "stargazers_count": 616,
+    "watchers_count": 616,
+    "language": null,
+    "forks_count": 59,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1208143803,
+    "name": "semana-ai-data-engineer",
+    "owner": {
+      "id": 205435378,
+      "url": "https://api.github.com/users/owshq-mec",
+      "html_url": "https://github.com/owshq-mec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205435378?v=4"
+    },
+    "html_url": "https://github.com/owshq-mec/semana-ai-data-engineer",
+    "description": "Semana AI Data Engineer",
+    "created_at": "2026-04-11T21:59:29Z",
+    "updated_at": "2026-04-14T17:10:36Z",
+    "pushed_at": "2026-04-13T23:08:07Z",
+    "git_url": "git://github.com/owshq-mec/semana-ai-data-engineer.git",
+    "homepage": null,
+    "size": 1670,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": "HTML",
+    "forks_count": 54,
+    "open_issues_count": 0
   }
 ]
