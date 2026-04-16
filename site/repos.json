@@ -22354,5 +22354,51 @@
     "language": "TypeScript",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1210579186,
+    "name": "wterm",
+    "owner": {
+      "id": 108547162,
+      "url": "https://api.github.com/users/vercel-labs",
+      "html_url": "https://github.com/vercel-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+    },
+    "html_url": "https://github.com/vercel-labs/wterm",
+    "description": "A terminal emulator for the web",
+    "created_at": "2026-04-14T14:52:44Z",
+    "updated_at": "2026-04-16T12:28:21Z",
+    "pushed_at": "2026-04-16T05:03:12Z",
+    "git_url": "git://github.com/vercel-labs/wterm.git",
+    "homepage": "https://wterm.dev",
+    "size": 767,
+    "stargazers_count": 761,
+    "watchers_count": 761,
+    "language": "TypeScript",
+    "forks_count": 27,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1210829492,
+    "name": "CLAUDE-CODE-SYSTEM-PROMPT",
+    "owner": {
+      "id": 133052465,
+      "url": "https://api.github.com/users/elder-plinius",
+      "html_url": "https://github.com/elder-plinius",
+      "avatar_url": "https://avatars.githubusercontent.com/u/133052465?v=4"
+    },
+    "html_url": "https://github.com/elder-plinius/CLAUDE-CODE-SYSTEM-PROMPT",
+    "description": "living document for Claude Code system prompt",
+    "created_at": "2026-04-14T19:52:52Z",
+    "updated_at": "2026-04-16T12:21:16Z",
+    "pushed_at": "2026-04-14T23:28:53Z",
+    "git_url": "git://github.com/elder-plinius/CLAUDE-CODE-SYSTEM-PROMPT.git",
+    "homepage": null,
+    "size": 36,
+    "stargazers_count": 90,
+    "watchers_count": 90,
+    "language": null,
+    "forks_count": 12,
+    "open_issues_count": 0
   }
 ]
