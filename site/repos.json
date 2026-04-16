@@ -22423,5 +22423,28 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1208767729,
+    "name": "EtwTiViewer",
+    "owner": {
+      "id": 9393785,
+      "url": "https://api.github.com/users/adanto",
+      "html_url": "https://github.com/adanto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9393785?v=4"
+    },
+    "html_url": "https://github.com/adanto/EtwTiViewer",
+    "description": "Live ETW-TI event viewer for Windows kernel threat-intelligence telemetry. Research tool for exploring the same signals commercial EDRs rely on. ",
+    "created_at": "2026-04-12T18:07:30Z",
+    "updated_at": "2026-04-13T18:30:47Z",
+    "pushed_at": "2026-04-12T18:15:45Z",
+    "git_url": "git://github.com/adanto/EtwTiViewer.git",
+    "homepage": "",
+    "size": 161,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": "C++",
+    "forks_count": 10,
+    "open_issues_count": 0
   }
 ]
