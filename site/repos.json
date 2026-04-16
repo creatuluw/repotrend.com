@@ -22515,5 +22515,51 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1202351616,
+    "name": "tab-out",
+    "owner": {
+      "id": 153693696,
+      "url": "https://api.github.com/users/zarazhangrui",
+      "html_url": "https://github.com/zarazhangrui",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153693696?v=4"
+    },
+    "html_url": "https://github.com/zarazhangrui/tab-out",
+    "description": "Keep tabs on your tabs. Turn your \"New tabs\" page into a mission control, so you can close them easily. Built for people who open too many tabs and never close them. ",
+    "created_at": "2026-04-05T23:36:12Z",
+    "updated_at": "2026-04-16T18:19:25Z",
+    "pushed_at": "2026-04-14T22:27:23Z",
+    "git_url": "git://github.com/zarazhangrui/tab-out.git",
+    "homepage": "",
+    "size": 315,
+    "stargazers_count": 679,
+    "watchers_count": 679,
+    "language": "JavaScript",
+    "forks_count": 167,
+    "open_issues_count": 17
+  },
+  {
+    "id": 1208273953,
+    "name": "article-tools",
+    "owner": {
+      "id": 5795147,
+      "url": "https://api.github.com/users/eternityspring",
+      "html_url": "https://github.com/eternityspring",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5795147?v=4"
+    },
+    "html_url": "https://github.com/eternityspring/article-tools",
+    "description": null,
+    "created_at": "2026-04-12T03:50:12Z",
+    "updated_at": "2026-04-13T18:17:43Z",
+    "pushed_at": "2026-04-13T14:31:20Z",
+    "git_url": "git://github.com/eternityspring/article-tools.git",
+    "homepage": null,
+    "size": 65105,
+    "stargazers_count": 90,
+    "watchers_count": 90,
+    "language": "HTML",
+    "forks_count": 9,
+    "open_issues_count": 0
   }
 ]
