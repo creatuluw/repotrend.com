@@ -22469,5 +22469,51 @@
     "language": null,
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1210412315,
+    "name": "BuilderPulse",
+    "owner": {
+      "id": 275986651,
+      "url": "https://api.github.com/users/BuilderPulse",
+      "html_url": "https://github.com/BuilderPulse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/275986651?v=4"
+    },
+    "html_url": "https://github.com/BuilderPulse/BuilderPulse",
+    "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
+    "created_at": "2026-04-14T11:48:05Z",
+    "updated_at": "2026-04-16T18:31:10Z",
+    "pushed_at": "2026-04-16T03:13:23Z",
+    "git_url": "git://github.com/BuilderPulse/BuilderPulse.git",
+    "homepage": "https://builderpulse.ai",
+    "size": 268,
+    "stargazers_count": 713,
+    "watchers_count": 713,
+    "language": null,
+    "forks_count": 54,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1207102874,
+    "name": "Jenny-Mod-Minecraft-ALL-Versions",
+    "owner": {
+      "id": 193146826,
+      "url": "https://api.github.com/users/Joefix2010",
+      "html_url": "https://github.com/Joefix2010",
+      "avatar_url": "https://avatars.githubusercontent.com/u/193146826?v=4"
+    },
+    "html_url": "https://github.com/Joefix2010/Jenny-Mod-Minecraft-ALL-Versions",
+    "description": "Jenny Mod Minecraft ALL Versions — complete collection of Jenny Mod for every Minecraft version from 1.8 to 1.21.5. Add a fully customizable interactive companion character with animations, outfits, and multiplayer support.",
+    "created_at": "2026-04-10T15:21:09Z",
+    "updated_at": "2026-04-12T17:42:03Z",
+    "pushed_at": "2026-04-10T15:35:03Z",
+    "git_url": "git://github.com/Joefix2010/Jenny-Mod-Minecraft-ALL-Versions.git",
+    "homepage": "",
+    "size": 73,
+    "stargazers_count": 92,
+    "watchers_count": 92,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
