@@ -22055,5 +22055,28 @@
     "language": "TypeScript",
     "forks_count": 180,
     "open_issues_count": 0
+  },
+  {
+    "id": 1206847526,
+    "name": "okojo",
+    "owner": {
+      "id": 90429982,
+      "url": "https://api.github.com/users/akeit0",
+      "html_url": "https://github.com/akeit0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90429982?v=4"
+    },
+    "html_url": "https://github.com/akeit0/okojo",
+    "description": "Okojo is an experimental low allocation managed JavaScript engine for .NET",
+    "created_at": "2026-04-10T10:05:03Z",
+    "updated_at": "2026-04-12T18:08:32Z",
+    "pushed_at": "2026-04-12T15:36:05Z",
+    "git_url": "git://github.com/akeit0/okojo.git",
+    "homepage": "",
+    "size": 2051,
+    "stargazers_count": 90,
+    "watchers_count": 90,
+    "language": "C#",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
