@@ -21917,5 +21917,28 @@
     "language": "C++",
     "forks_count": 7,
     "open_issues_count": 1
+  },
+  {
+    "id": 1209545096,
+    "name": "ai-vibe-coding-notes-form-threads",
+    "owner": {
+      "id": 265829679,
+      "url": "https://api.github.com/users/nadinelipeiyu-jpg",
+      "html_url": "https://github.com/nadinelipeiyu-jpg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/265829679?v=4"
+    },
+    "html_url": "https://github.com/nadinelipeiyu-jpg/ai-vibe-coding-notes-form-threads",
+    "description": "Claude Code & Vibe Coding 實戰 Tips — 從 Threads 社群整理的 50 條 AI 工具使用技巧，持續更新",
+    "created_at": "2026-04-13T14:33:51Z",
+    "updated_at": "2026-04-14T17:39:38Z",
+    "pushed_at": "2026-04-13T14:39:39Z",
+    "git_url": "git://github.com/nadinelipeiyu-jpg/ai-vibe-coding-notes-form-threads.git",
+    "homepage": null,
+    "size": 12,
+    "stargazers_count": 69,
+    "watchers_count": 69,
+    "language": null,
+    "forks_count": 14,
+    "open_issues_count": 0
   }
 ]
