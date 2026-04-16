@@ -22032,5 +22032,28 @@
     "language": "HTML",
     "forks_count": 54,
     "open_issues_count": 0
+  },
+  {
+    "id": 1207427606,
+    "name": "polymarket-sports-copy-trading-bot",
+    "owner": {
+      "id": 240248882,
+      "url": "https://api.github.com/users/huachu-pets",
+      "html_url": "https://github.com/huachu-pets",
+      "avatar_url": "https://avatars.githubusercontent.com/u/240248882?v=4"
+    },
+    "html_url": "https://github.com/huachu-pets/polymarket-sports-copy-trading-bot",
+    "description": "TypeScript Polymarket sports copy-trading bot: CLOB execution, EOA/proxy/safe auth, and risk controls.",
+    "created_at": "2026-04-10T23:46:57Z",
+    "updated_at": "2026-04-13T18:20:50Z",
+    "pushed_at": "2026-04-10T23:47:14Z",
+    "git_url": "git://github.com/huachu-pets/polymarket-sports-copy-trading-bot.git",
+    "homepage": "https://polymarket.com",
+    "size": 38,
+    "stargazers_count": 87,
+    "watchers_count": 87,
+    "language": "TypeScript",
+    "forks_count": 180,
+    "open_issues_count": 0
   }
 ]
