@@ -23159,5 +23159,28 @@
     "language": "Swift",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1209660565,
+    "name": "fetch",
+    "owner": {
+      "id": 212789410,
+      "url": "https://api.github.com/users/areofyl",
+      "html_url": "https://github.com/areofyl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/212789410?v=4"
+    },
+    "html_url": "https://github.com/areofyl/fetch",
+    "description": "An animated 3D fetch tool for your terminal. Takes your distro's ASCII logo, turns it into a spinning 3D object, and displays system info alongside it.",
+    "created_at": "2026-04-13T16:47:39Z",
+    "updated_at": "2026-04-15T18:28:15Z",
+    "pushed_at": "2026-04-15T18:28:11Z",
+    "git_url": "git://github.com/areofyl/fetch.git",
+    "homepage": "",
+    "size": 5808,
+    "stargazers_count": 71,
+    "watchers_count": 71,
+    "language": "C",
+    "forks_count": 2,
+    "open_issues_count": 1
   }
 ]
