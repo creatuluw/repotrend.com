@@ -22814,5 +22814,28 @@
     "language": "C#",
     "forks_count": 2,
     "open_issues_count": 2
+  },
+  {
+    "id": 1207260151,
+    "name": "react-debug-updates",
+    "owner": {
+      "id": 7311462,
+      "url": "https://api.github.com/users/pie6k",
+      "html_url": "https://github.com/pie6k",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7311462?v=4"
+    },
+    "html_url": "https://github.com/pie6k/react-debug-updates",
+    "description": "See why React components re-render — visual overlays, console logging, and hook-level cause detection with zero code changes",
+    "created_at": "2026-04-10T18:45:12Z",
+    "updated_at": "2026-04-13T15:59:17Z",
+    "pushed_at": "2026-04-11T19:18:21Z",
+    "git_url": "git://github.com/pie6k/react-debug-updates.git",
+    "homepage": null,
+    "size": 19478,
+    "stargazers_count": 59,
+    "watchers_count": 59,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
