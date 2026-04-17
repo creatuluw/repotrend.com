@@ -23090,5 +23090,51 @@
     "language": "TypeScript",
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1211752857,
+    "name": "lingbot-map",
+    "owner": {
+      "id": 212647524,
+      "url": "https://api.github.com/users/Robbyant",
+      "html_url": "https://github.com/Robbyant",
+      "avatar_url": "https://avatars.githubusercontent.com/u/212647524?v=4"
+    },
+    "html_url": "https://github.com/Robbyant/lingbot-map",
+    "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+    "created_at": "2026-04-15T17:59:48Z",
+    "updated_at": "2026-04-17T12:26:24Z",
+    "pushed_at": "2026-04-17T12:16:32Z",
+    "git_url": "git://github.com/Robbyant/lingbot-map.git",
+    "homepage": "",
+    "size": 313547,
+    "stargazers_count": 670,
+    "watchers_count": 670,
+    "language": "Python",
+    "forks_count": 42,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1207942294,
+    "name": "ArcRaiders-FPS-Booster-2026-v2.8.4",
+    "owner": {
+      "id": 269593150,
+      "url": "https://api.github.com/users/oscarwright-eng2095a4",
+      "html_url": "https://github.com/oscarwright-eng2095a4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269593150?v=4"
+    },
+    "html_url": "https://github.com/oscarwright-eng2095a4/ArcRaiders-FPS-Booster-2026-v2.8.4",
+    "description": "ArcRaiders-FPS-Booster-2026-v2.8.4 is a tool designed to help you improve your frame rate in the ArcRaiders game. ",
+    "created_at": "2026-04-11T16:00:18Z",
+    "updated_at": "2026-04-14T17:14:59Z",
+    "pushed_at": "2026-04-14T17:14:54Z",
+    "git_url": "git://github.com/oscarwright-eng2095a4/ArcRaiders-FPS-Booster-2026-v2.8.4.git",
+    "homepage": "",
+    "size": 17,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
