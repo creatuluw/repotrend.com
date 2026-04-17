@@ -23366,5 +23366,28 @@
     "language": "Python",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1209842462,
+    "name": "FakeSNI",
+    "owner": {
+      "id": 274735446,
+      "url": "https://api.github.com/users/PechenyeRU",
+      "html_url": "https://github.com/PechenyeRU",
+      "avatar_url": "https://avatars.githubusercontent.com/u/274735446?v=4"
+    },
+    "html_url": "https://github.com/PechenyeRU/FakeSNI",
+    "description": "A fake SNI injector for linux, written in pure golang",
+    "created_at": "2026-04-13T20:48:39Z",
+    "updated_at": "2026-04-14T16:44:51Z",
+    "pushed_at": "2026-04-13T21:02:05Z",
+    "git_url": "git://github.com/PechenyeRU/FakeSNI.git",
+    "homepage": null,
+    "size": 14,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "Go",
+    "forks_count": 17,
+    "open_issues_count": 0
   }
 ]
