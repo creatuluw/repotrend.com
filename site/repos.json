@@ -22906,5 +22906,51 @@
     "language": "Assembly",
     "forks_count": 9,
     "open_issues_count": 0
+  },
+  {
+    "id": 1211361116,
+    "name": "design-extract",
+    "owner": {
+      "id": 144777973,
+      "url": "https://api.github.com/users/Manavarya09",
+      "html_url": "https://github.com/Manavarya09",
+      "avatar_url": "https://avatars.githubusercontent.com/u/144777973?v=4"
+    },
+    "html_url": "https://github.com/Manavarya09/design-extract",
+    "description": "Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.",
+    "created_at": "2026-04-15T10:11:22Z",
+    "updated_at": "2026-04-17T06:37:30Z",
+    "pushed_at": "2026-04-16T08:15:33Z",
+    "git_url": "git://github.com/Manavarya09/design-extract.git",
+    "homepage": "https://designlang.vercel.app/",
+    "size": 7945,
+    "stargazers_count": 717,
+    "watchers_count": 717,
+    "language": "JavaScript",
+    "forks_count": 61,
+    "open_issues_count": 11
+  },
+  {
+    "id": 1206403333,
+    "name": "polymarket-copy-trading-bot",
+    "owner": {
+      "id": 38499119,
+      "url": "https://api.github.com/users/ganggang1221",
+      "html_url": "https://github.com/ganggang1221",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38499119?v=4"
+    },
+    "html_url": "https://github.com/ganggang1221/polymarket-copy-trading-bot",
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket copytrading bot",
+    "created_at": "2026-04-09T22:04:48Z",
+    "updated_at": "2026-04-12T14:05:13Z",
+    "pushed_at": "2026-04-09T22:04:58Z",
+    "git_url": "git://github.com/ganggang1221/polymarket-copy-trading-bot.git",
+    "homepage": "https://www.quicknode.com/guides/defi/polymarket-copy-trading-bot",
+    "size": 154,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "TypeScript",
+    "forks_count": 136,
+    "open_issues_count": 0
   }
 ]
