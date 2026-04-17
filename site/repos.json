@@ -23343,5 +23343,28 @@
     "language": "Python",
     "forks_count": 18,
     "open_issues_count": 0
+  },
+  {
+    "id": 1208000153,
+    "name": "dflash-mlx",
+    "owner": {
+      "id": 6129548,
+      "url": "https://api.github.com/users/bstnxbt",
+      "html_url": "https://github.com/bstnxbt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6129548?v=4"
+    },
+    "html_url": "https://github.com/bstnxbt/dflash-mlx",
+    "description": "Lossless DFlash speculative decoding for MLX on Apple Silicon",
+    "created_at": "2026-04-11T17:25:41Z",
+    "updated_at": "2026-04-13T18:28:18Z",
+    "pushed_at": "2026-04-13T14:17:34Z",
+    "git_url": "git://github.com/bstnxbt/dflash-mlx.git",
+    "homepage": null,
+    "size": 42,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
