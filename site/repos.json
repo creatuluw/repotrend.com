@@ -22653,5 +22653,28 @@
     "language": "C++",
     "forks_count": 7,
     "open_issues_count": 0
+  },
+  {
+    "id": 1207963651,
+    "name": "SlowBooks-Pro-2026",
+    "owner": {
+      "id": 208672083,
+      "url": "https://api.github.com/users/VonHoltenCodes",
+      "html_url": "https://github.com/VonHoltenCodes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208672083?v=4"
+    },
+    "html_url": "https://github.com/VonHoltenCodes/SlowBooks-Pro-2026",
+    "description": "Personal bookkeeping app — a QuickBooks 2003 Pro replacement, decompiled from the ashes of QBW32.EXE. Free for personal and enterprise use.",
+    "created_at": "2026-04-11T16:30:04Z",
+    "updated_at": "2026-04-14T17:58:41Z",
+    "pushed_at": "2026-04-14T04:14:05Z",
+    "git_url": "git://github.com/VonHoltenCodes/SlowBooks-Pro-2026.git",
+    "homepage": null,
+    "size": 1472,
+    "stargazers_count": 93,
+    "watchers_count": 93,
+    "language": "Python",
+    "forks_count": 16,
+    "open_issues_count": 1
   }
 ]
