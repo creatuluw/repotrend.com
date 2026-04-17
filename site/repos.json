@@ -22676,5 +22676,51 @@
     "language": "Python",
     "forks_count": 16,
     "open_issues_count": 1
+  },
+  {
+    "id": 1208481838,
+    "name": "SNI-Spoofing",
+    "owner": {
+      "id": 71074308,
+      "url": "https://api.github.com/users/patterniha",
+      "html_url": "https://github.com/patterniha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71074308?v=4"
+    },
+    "html_url": "https://github.com/patterniha/SNI-Spoofing",
+    "description": "Bypass DPI with IP/TCP-Header manipulation",
+    "created_at": "2026-04-12T10:47:30Z",
+    "updated_at": "2026-04-17T00:28:37Z",
+    "pushed_at": "2026-04-14T01:02:25Z",
+    "git_url": "git://github.com/patterniha/SNI-Spoofing.git",
+    "homepage": null,
+    "size": 29,
+    "stargazers_count": 660,
+    "watchers_count": 660,
+    "language": "Python",
+    "forks_count": 71,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1209133135,
+    "name": "ClawMark",
+    "owner": {
+      "id": 252840856,
+      "url": "https://api.github.com/users/evolvent-ai",
+      "html_url": "https://github.com/evolvent-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/252840856?v=4"
+    },
+    "html_url": "https://github.com/evolvent-ai/ClawMark",
+    "description": "🦞 ClawMark: A Living-World Benchmark for Multi-Day, Multimodal Coworker Agents",
+    "created_at": "2026-04-13T06:01:03Z",
+    "updated_at": "2026-04-14T17:28:35Z",
+    "pushed_at": "2026-04-13T15:05:20Z",
+    "git_url": "git://github.com/evolvent-ai/ClawMark.git",
+    "homepage": "https://claw-mark.com/",
+    "size": 729213,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
