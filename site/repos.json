@@ -22860,5 +22860,51 @@
     "language": "Rust",
     "forks_count": 6,
     "open_issues_count": 1
+  },
+  {
+    "id": 1189918673,
+    "name": "lean-ctx",
+    "owner": {
+      "id": 7590809,
+      "url": "https://api.github.com/users/yvgude",
+      "html_url": "https://github.com/yvgude",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7590809?v=4"
+    },
+    "html_url": "https://github.com/yvgude/lean-ctx",
+    "description": "Reduce AI coding costs by 99% — MCP Server + Shell Hook for Cursor, Claude Code, Copilot, Windsurf, Gemini CLI & 24 tools. Single Rust binary, zero telemetry.",
+    "created_at": "2026-03-23T19:48:59Z",
+    "updated_at": "2026-04-17T06:46:07Z",
+    "pushed_at": "2026-04-17T06:17:06Z",
+    "git_url": "git://github.com/yvgude/lean-ctx.git",
+    "homepage": "https://leanctx.com",
+    "size": 425656,
+    "stargazers_count": 648,
+    "watchers_count": 648,
+    "language": "Rust",
+    "forks_count": 77,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1209063390,
+    "name": "Phantom-Evasion-Loader",
+    "owner": {
+      "id": 51642194,
+      "url": "https://api.github.com/users/JM00NJ",
+      "html_url": "https://github.com/JM00NJ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51642194?v=4"
+    },
+    "html_url": "https://github.com/JM00NJ/Phantom-Evasion-Loader",
+    "description": "Phantom-Evasion-Loader is a standalone, pure x64 Assembly injection engine engineered to minimize the detection surface of modern EDR/XDR solutions and Kernel-level monitors like Falco (eBPF). It leverages advanced techniques such as SROP and Zero-Copy Injection to deliver payloads as a ghost in the machine.",
+    "created_at": "2026-04-13T03:59:13Z",
+    "updated_at": "2026-04-16T18:22:11Z",
+    "pushed_at": "2026-04-15T04:16:17Z",
+    "git_url": "git://github.com/JM00NJ/Phantom-Evasion-Loader.git",
+    "homepage": "https://netacoding.com/",
+    "size": 42,
+    "stargazers_count": 62,
+    "watchers_count": 62,
+    "language": "Assembly",
+    "forks_count": 9,
+    "open_issues_count": 0
   }
 ]
