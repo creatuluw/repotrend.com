@@ -23205,5 +23205,51 @@
     "language": "Rust",
     "forks_count": 8,
     "open_issues_count": 13
+  },
+  {
+    "id": 1208221543,
+    "name": "video-use",
+    "owner": {
+      "id": 192012301,
+      "url": "https://api.github.com/users/browser-use",
+      "html_url": "https://github.com/browser-use",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192012301?v=4"
+    },
+    "html_url": "https://github.com/browser-use/video-use",
+    "description": null,
+    "created_at": "2026-04-12T01:34:42Z",
+    "updated_at": "2026-04-17T12:29:04Z",
+    "pushed_at": "2026-04-15T23:00:10Z",
+    "git_url": "git://github.com/browser-use/video-use.git",
+    "homepage": null,
+    "size": 582,
+    "stargazers_count": 718,
+    "watchers_count": 718,
+    "language": "Python",
+    "forks_count": 59,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1209514966,
+    "name": "Seedance-Product-Video",
+    "owner": {
+      "id": 13505770,
+      "url": "https://api.github.com/users/op7418",
+      "html_url": "https://github.com/op7418",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
+    },
+    "html_url": "https://github.com/op7418/Seedance-Product-Video",
+    "description": "Seedance Product Video Skills",
+    "created_at": "2026-04-13T14:00:48Z",
+    "updated_at": "2026-04-14T17:50:48Z",
+    "pushed_at": "2026-04-13T14:27:50Z",
+    "git_url": "git://github.com/op7418/Seedance-Product-Video.git",
+    "homepage": null,
+    "size": 11,
+    "stargazers_count": 95,
+    "watchers_count": 95,
+    "language": null,
+    "forks_count": 10,
+    "open_issues_count": 0
   }
 ]
