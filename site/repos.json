@@ -23067,5 +23067,28 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1208469002,
+    "name": "vibe-ring",
+    "owner": {
+      "id": 321947,
+      "url": "https://api.github.com/users/wong2",
+      "html_url": "https://github.com/wong2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/321947?v=4"
+    },
+    "html_url": "https://github.com/wong2/vibe-ring",
+    "description": "Map Nintendo Ring-Con squeeze/pull to macOS keyboard input (Fn/Enter)",
+    "created_at": "2026-04-12T10:24:19Z",
+    "updated_at": "2026-04-14T15:30:59Z",
+    "pushed_at": "2026-04-13T12:19:02Z",
+    "git_url": "git://github.com/wong2/vibe-ring.git",
+    "homepage": null,
+    "size": 17,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
