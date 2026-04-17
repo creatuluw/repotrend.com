@@ -23182,5 +23182,28 @@
     "language": "C",
     "forks_count": 2,
     "open_issues_count": 1
+  },
+  {
+    "id": 1208495780,
+    "name": "firnflow",
+    "owner": {
+      "id": 56556,
+      "url": "https://api.github.com/users/gordonmurray",
+      "html_url": "https://github.com/gordonmurray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56556?v=4"
+    },
+    "html_url": "https://github.com/gordonmurray/firnflow",
+    "description": "The cost efficiency of S3 with the speed of local RAM. A multi-tenant vector and full-text search engine featuring a tiered RAM → NVMe → S3 architecture for microsecond latency on   top of object storage",
+    "created_at": "2026-04-12T11:13:03Z",
+    "updated_at": "2026-04-13T18:21:42Z",
+    "pushed_at": "2026-04-13T14:41:19Z",
+    "git_url": "git://github.com/gordonmurray/firnflow.git",
+    "homepage": "https://firnflow.io/",
+    "size": 916,
+    "stargazers_count": 96,
+    "watchers_count": 96,
+    "language": "Rust",
+    "forks_count": 8,
+    "open_issues_count": 13
   }
 ]
