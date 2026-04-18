@@ -23458,5 +23458,28 @@
     "language": "TeX",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1212589290,
+    "name": "MOUSE-P.I.-For-Hire-Release-Game-Desktop-Version",
+    "owner": {
+      "id": 94567530,
+      "url": "https://api.github.com/users/SaikoNadiro13",
+      "html_url": "https://github.com/SaikoNadiro13",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94567530?v=4"
+    },
+    "html_url": "https://github.com/SaikoNadiro13/MOUSE-P.I.-For-Hire-Release-Game-Desktop-Version",
+    "description": "MOUSE PI For Hire is a fun hand-drawn point-and-click detective adventure game for PC. Play as a clever mouse private investigator solving funny and challenging cases in a colorful cartoon world. Optimized desktop release with widescreen support, smooth controls, and high-resolution graphics.",
+    "created_at": "2026-04-16T14:27:30Z",
+    "updated_at": "2026-04-18T00:18:57Z",
+    "pushed_at": "2026-04-16T14:42:49Z",
+    "git_url": "git://github.com/SaikoNadiro13/MOUSE-P.I.-For-Hire-Release-Game-Desktop-Version.git",
+    "homepage": "",
+    "size": 73,
+    "stargazers_count": 77,
+    "watchers_count": 77,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 1
   }
 ]
