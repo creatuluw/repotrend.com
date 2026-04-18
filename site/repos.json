@@ -23412,5 +23412,28 @@
     "language": "C++",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1208949488,
+    "name": "ResearchScope",
+    "owner": {
+      "id": 39528161,
+      "url": "https://api.github.com/users/kishormorol",
+      "html_url": "https://github.com/kishormorol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39528161?v=4"
+    },
+    "html_url": "https://github.com/kishormorol/ResearchScope",
+    "description": "Open-source research intelligence for CS papers — track what matters, who drives it, what to read first, and where the research gaps are.",
+    "created_at": "2026-04-13T00:17:33Z",
+    "updated_at": "2026-04-16T18:04:20Z",
+    "pushed_at": "2026-04-16T18:04:16Z",
+    "git_url": "git://github.com/kishormorol/ResearchScope.git",
+    "homepage": "https://kishormorol.github.io/ResearchScope/",
+    "size": 59576,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 0
   }
 ]
