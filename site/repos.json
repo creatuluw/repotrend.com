@@ -24010,5 +24010,28 @@
     "language": "Python",
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1207628074,
+    "name": "my-claude-devteam",
+    "owner": {
+      "id": 197928511,
+      "url": "https://api.github.com/users/NYCU-Chung",
+      "html_url": "https://github.com/NYCU-Chung",
+      "avatar_url": "https://avatars.githubusercontent.com/u/197928511?v=4"
+    },
+    "html_url": "https://github.com/NYCU-Chung/my-claude-devteam",
+    "description": "An engineering team in a box for Claude Code — 12 specialized agents, 15 automation hooks, and the P7/P9/P10 methodology.",
+    "created_at": "2026-04-11T07:16:14Z",
+    "updated_at": "2026-04-14T15:21:28Z",
+    "pushed_at": "2026-04-11T13:59:26Z",
+    "git_url": "git://github.com/NYCU-Chung/my-claude-devteam.git",
+    "homepage": null,
+    "size": 143,
+    "stargazers_count": 84,
+    "watchers_count": 84,
+    "language": "JavaScript",
+    "forks_count": 12,
+    "open_issues_count": 0
   }
 ]
