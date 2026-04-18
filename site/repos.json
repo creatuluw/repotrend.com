@@ -23964,5 +23964,51 @@
     "language": null,
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1194596194,
+    "name": "bitterbot-desktop",
+    "owner": {
+      "id": 252103123,
+      "url": "https://api.github.com/users/Bitterbot-AI",
+      "html_url": "https://github.com/Bitterbot-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/252103123?v=4"
+    },
+    "html_url": "https://github.com/Bitterbot-AI/bitterbot-desktop",
+    "description": "A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills economy.",
+    "created_at": "2026-03-28T15:15:01Z",
+    "updated_at": "2026-04-18T18:18:30Z",
+    "pushed_at": "2026-04-18T17:56:01Z",
+    "git_url": "git://github.com/Bitterbot-AI/bitterbot-desktop.git",
+    "homepage": "https://bitterbot.ai",
+    "size": 41113,
+    "stargazers_count": 717,
+    "watchers_count": 717,
+    "language": "TypeScript",
+    "forks_count": 108,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1211092393,
+    "name": "AirTrain",
+    "owner": {
+      "id": 20887843,
+      "url": "https://api.github.com/users/alexandercodes4",
+      "html_url": "https://github.com/alexandercodes4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20887843?v=4"
+    },
+    "html_url": "https://github.com/alexandercodes4/AirTrain",
+    "description": "Distributed ML training across Apple Silicon Macs",
+    "created_at": "2026-04-15T04:02:27Z",
+    "updated_at": "2026-04-16T07:46:37Z",
+    "pushed_at": "2026-04-15T21:06:07Z",
+    "git_url": "git://github.com/alexandercodes4/AirTrain.git",
+    "homepage": "",
+    "size": 51,
+    "stargazers_count": 77,
+    "watchers_count": 77,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
