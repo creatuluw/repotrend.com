@@ -23389,5 +23389,28 @@
     "language": "Go",
     "forks_count": 17,
     "open_issues_count": 0
+  },
+  {
+    "id": 1210395640,
+    "name": "habitat-gs",
+    "owner": {
+      "id": 48914724,
+      "url": "https://api.github.com/users/zju3dv",
+      "html_url": "https://github.com/zju3dv",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48914724?v=4"
+    },
+    "html_url": "https://github.com/zju3dv/habitat-gs",
+    "description": "Habitat-GS: A High-Fidelity Navigation Simulator with Dynamic Gaussian Splatting",
+    "created_at": "2026-04-14T11:26:38Z",
+    "updated_at": "2026-04-15T16:34:13Z",
+    "pushed_at": "2026-04-15T02:40:04Z",
+    "git_url": "git://github.com/zju3dv/habitat-gs.git",
+    "homepage": "https://zju3dv.github.io/habitat-gs/",
+    "size": 55816,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": "C++",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
