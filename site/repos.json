@@ -23872,5 +23872,51 @@
     "language": null,
     "forks_count": 9,
     "open_issues_count": 1
+  },
+  {
+    "id": 1206471102,
+    "name": "agentic-inbox",
+    "owner": {
+      "id": 314135,
+      "url": "https://api.github.com/users/cloudflare",
+      "html_url": "https://github.com/cloudflare",
+      "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
+    },
+    "html_url": "https://github.com/cloudflare/agentic-inbox",
+    "description": "A self-hosted email client with an AI agent, running entirely on Cloudflare Workers",
+    "created_at": "2026-04-10T00:26:27Z",
+    "updated_at": "2026-04-18T17:56:28Z",
+    "pushed_at": "2026-04-17T15:14:27Z",
+    "git_url": "git://github.com/cloudflare/agentic-inbox.git",
+    "homepage": "",
+    "size": 3611,
+    "stargazers_count": 617,
+    "watchers_count": 617,
+    "language": "TypeScript",
+    "forks_count": 52,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1214125715,
+    "name": "awesome-claude-design",
+    "owner": {
+      "id": 201282378,
+      "url": "https://api.github.com/users/VoltAgent",
+      "html_url": "https://github.com/VoltAgent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/201282378?v=4"
+    },
+    "html_url": "https://github.com/VoltAgent/awesome-claude-design",
+    "description": "Awesome Claude Design: 68 ready-to-use design system inspirations in DESIGN.md format. Drop one in, scaffold a full UI in one shot.",
+    "created_at": "2026-04-18T06:40:04Z",
+    "updated_at": "2026-04-18T18:14:46Z",
+    "pushed_at": "2026-04-18T12:41:05Z",
+    "git_url": "git://github.com/VoltAgent/awesome-claude-design.git",
+    "homepage": "",
+    "size": 23,
+    "stargazers_count": 89,
+    "watchers_count": 89,
+    "language": null,
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
