@@ -23435,5 +23435,28 @@
     "language": "Python",
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1208279709,
+    "name": "Nature-Paper-Skills",
+    "owner": {
+      "id": 83391363,
+      "url": "https://api.github.com/users/Boom5426",
+      "html_url": "https://github.com/Boom5426",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83391363?v=4"
+    },
+    "html_url": "https://github.com/Boom5426/Nature-Paper-Skills",
+    "description": "Agent skills for drafting, revising, auditing, and resubmitting Nature-style journal manuscripts.",
+    "created_at": "2026-04-12T04:03:48Z",
+    "updated_at": "2026-04-14T17:22:36Z",
+    "pushed_at": "2026-04-12T06:56:01Z",
+    "git_url": "git://github.com/Boom5426/Nature-Paper-Skills.git",
+    "homepage": null,
+    "size": 817,
+    "stargazers_count": 62,
+    "watchers_count": 62,
+    "language": "TeX",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
