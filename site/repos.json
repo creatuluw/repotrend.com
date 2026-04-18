@@ -23849,5 +23849,28 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1207028050,
+    "name": "awesome-cursor-skills",
+    "owner": {
+      "id": 28174559,
+      "url": "https://api.github.com/users/spencerpauly",
+      "html_url": "https://github.com/spencerpauly",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28174559?v=4"
+    },
+    "html_url": "https://github.com/spencerpauly/awesome-cursor-skills",
+    "description": "A curated list of awesome skills for Cursor",
+    "created_at": "2026-04-10T13:54:29Z",
+    "updated_at": "2026-04-13T18:29:27Z",
+    "pushed_at": "2026-04-11T17:10:14Z",
+    "git_url": "git://github.com/spencerpauly/awesome-cursor-skills.git",
+    "homepage": "https://cursor.com/",
+    "size": 194,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": null,
+    "forks_count": 9,
+    "open_issues_count": 1
   }
 ]
