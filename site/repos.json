@@ -23642,5 +23642,28 @@
     "language": "Python",
     "forks_count": 13,
     "open_issues_count": 2
+  },
+  {
+    "id": 1210996597,
+    "name": "open-carrusel",
+    "owner": {
+      "id": 121574818,
+      "url": "https://api.github.com/users/Hainrixz",
+      "html_url": "https://github.com/Hainrixz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121574818?v=4"
+    },
+    "html_url": "https://github.com/Hainrixz/open-carrusel",
+    "description": "AI-powered Instagram carousel builder. Chat with Claude to design slides; export as PNGs at exact Instagram dimensions. Type /start in Claude Code to bootstrap.",
+    "created_at": "2026-04-15T01:06:39Z",
+    "updated_at": "2026-04-18T05:02:09Z",
+    "pushed_at": "2026-04-15T17:54:07Z",
+    "git_url": "git://github.com/Hainrixz/open-carrusel.git",
+    "homepage": "",
+    "size": 379,
+    "stargazers_count": 98,
+    "watchers_count": 98,
+    "language": "TypeScript",
+    "forks_count": 7,
+    "open_issues_count": 2
   }
 ]
