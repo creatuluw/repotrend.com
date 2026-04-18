@@ -23780,5 +23780,28 @@
     "language": "Python",
     "forks_count": 21,
     "open_issues_count": 0
+  },
+  {
+    "id": 1207529776,
+    "name": "ruishu-mcp",
+    "owner": {
+      "id": 248805938,
+      "url": "https://api.github.com/users/xuange520",
+      "html_url": "https://github.com/xuange520",
+      "avatar_url": "https://avatars.githubusercontent.com/u/248805938?v=4"
+    },
+    "html_url": "https://github.com/xuange520/ruishu-mcp",
+    "description": "🚀 专为 AI Agent 打造的瑞数防爬流量净化 MCP 工具 / An MCP Tool for AI Agents to Stealthily Bypass and Purify Ruishu WAF Traffic",
+    "created_at": "2026-04-11T03:50:46Z",
+    "updated_at": "2026-04-14T18:23:55Z",
+    "pushed_at": "2026-04-13T14:38:25Z",
+    "git_url": "git://github.com/xuange520/ruishu-mcp.git",
+    "homepage": "",
+    "size": 817,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "TypeScript",
+    "forks_count": 23,
+    "open_issues_count": 0
   }
 ]
