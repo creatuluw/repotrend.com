@@ -23527,5 +23527,28 @@
     "language": "TypeScript",
     "forks_count": 73,
     "open_issues_count": 0
+  },
+  {
+    "id": 1209350807,
+    "name": "MacSift",
+    "owner": {
+      "id": 23408500,
+      "url": "https://api.github.com/users/Lcharvol",
+      "html_url": "https://github.com/Lcharvol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23408500?v=4"
+    },
+    "html_url": "https://github.com/Lcharvol/MacSift",
+    "description": "Transparent macOS disk cleaner — groups files by app, moves to Trash (never permanent). SwiftUI + Liquid Glass, built for macOS Tahoe.",
+    "created_at": "2026-04-13T10:41:30Z",
+    "updated_at": "2026-04-14T18:19:31Z",
+    "pushed_at": "2026-04-14T15:36:48Z",
+    "git_url": "git://github.com/Lcharvol/MacSift.git",
+    "homepage": "https://lcharvol.github.io/MacSift/",
+    "size": 7708,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": "Swift",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
