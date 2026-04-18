@@ -23481,5 +23481,28 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 1
+  },
+  {
+    "id": 1207457667,
+    "name": "three-html-to-canvas",
+    "owner": {
+      "id": 139840023,
+      "url": "https://api.github.com/users/cullenwebber",
+      "html_url": "https://github.com/cullenwebber",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139840023?v=4"
+    },
+    "html_url": "https://github.com/cullenwebber/three-html-to-canvas",
+    "description": "HTML -> SVG ForeignObject -> Canvas -> ThreeJS Projection Material",
+    "created_at": "2026-04-11T00:59:24Z",
+    "updated_at": "2026-04-13T14:06:02Z",
+    "pushed_at": "2026-04-11T09:40:52Z",
+    "git_url": "git://github.com/cullenwebber/three-html-to-canvas.git",
+    "homepage": "https://cullenwebber.github.io/three-html-to-canvas/",
+    "size": 1064,
+    "stargazers_count": 59,
+    "watchers_count": 59,
+    "language": "JavaScript",
+    "forks_count": 9,
+    "open_issues_count": 0
   }
 ]
