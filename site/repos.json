@@ -23596,5 +23596,28 @@
     "language": "Python",
     "forks_count": 8,
     "open_issues_count": 0
+  },
+  {
+    "id": 1211265221,
+    "name": "wechat-finder-dlna",
+    "owner": {
+      "id": 39382699,
+      "url": "https://api.github.com/users/gtoxlili",
+      "html_url": "https://github.com/gtoxlili",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39382699?v=4"
+    },
+    "html_url": "https://github.com/gtoxlili/wechat-finder-dlna",
+    "description": "把电脑伪装成电视，通过 DLNA / AirPlay 2 / Chromecast 投屏捕获视频号直播流地址，支持加密音频流捕获 — 纯 Python，无需抓包/证书/代理",
+    "created_at": "2026-04-15T08:13:57Z",
+    "updated_at": "2026-04-16T17:37:48Z",
+    "pushed_at": "2026-04-16T17:19:35Z",
+    "git_url": "git://github.com/gtoxlili/wechat-finder-dlna.git",
+    "homepage": "https://pypi.org/project/wechat-finder-dlna/",
+    "size": 68,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "Python",
+    "forks_count": 10,
+    "open_issues_count": 0
   }
 ]
