@@ -23803,5 +23803,51 @@
     "language": "TypeScript",
     "forks_count": 23,
     "open_issues_count": 0
+  },
+  {
+    "id": 1187464970,
+    "name": "ppt-agent-skills",
+    "owner": {
+      "id": 58769230,
+      "url": "https://api.github.com/users/sunbigfly",
+      "html_url": "https://github.com/sunbigfly",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58769230?v=4"
+    },
+    "html_url": "https://github.com/sunbigfly/ppt-agent-skills",
+    "description": "A code-driven presentation generation framework. 像构建软件工程一样生成演示文稿。",
+    "created_at": "2026-03-20T18:56:08Z",
+    "updated_at": "2026-04-18T06:51:11Z",
+    "pushed_at": "2026-04-09T04:29:56Z",
+    "git_url": "git://github.com/sunbigfly/ppt-agent-skills.git",
+    "homepage": "",
+    "size": 29206,
+    "stargazers_count": 616,
+    "watchers_count": 616,
+    "language": "Python",
+    "forks_count": 72,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1208403661,
+    "name": "FL-Production-25.2.5-Desktop",
+    "owner": {
+      "id": 183385088,
+      "url": "https://api.github.com/users/Zamotack",
+      "html_url": "https://github.com/Zamotack",
+      "avatar_url": "https://avatars.githubusercontent.com/u/183385088?v=4"
+    },
+    "html_url": "https://github.com/Zamotack/FL-Production-25.2.5-Desktop",
+    "description": "FL Production 25.2.5 Desktop - Complete professional DAW for music production and beatmaking. Latest version with AI tools, advanced piano roll, low latency engine, and large plugin collection. Perfect for Windows users.",
+    "created_at": "2026-04-12T08:22:44Z",
+    "updated_at": "2026-04-14T17:39:36Z",
+    "pushed_at": "2026-04-12T08:39:27Z",
+    "git_url": "git://github.com/Zamotack/FL-Production-25.2.5-Desktop.git",
+    "homepage": "",
+    "size": 75,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
