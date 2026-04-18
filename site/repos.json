@@ -23665,5 +23665,28 @@
     "language": "TypeScript",
     "forks_count": 7,
     "open_issues_count": 2
+  },
+  {
+    "id": 1212976027,
+    "name": "PsUi",
+    "owner": {
+      "id": 68278602,
+      "url": "https://api.github.com/users/jlabon2",
+      "html_url": "https://github.com/jlabon2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68278602?v=4"
+    },
+    "html_url": "https://github.com/jlabon2/PsUi",
+    "description": "For building UIs in PowerShell without the misery.",
+    "created_at": "2026-04-16T23:26:52Z",
+    "updated_at": "2026-04-18T04:22:02Z",
+    "pushed_at": "2026-04-18T03:54:18Z",
+    "git_url": "git://github.com/jlabon2/PsUi.git",
+    "homepage": null,
+    "size": 1730,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": "PowerShell",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
