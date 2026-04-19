@@ -24447,5 +24447,28 @@
     "language": "Swift",
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1208944956,
+    "name": "pgque",
+    "owner": {
+      "id": 1345402,
+      "url": "https://api.github.com/users/NikolayS",
+      "html_url": "https://github.com/NikolayS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1345402?v=4"
+    },
+    "html_url": "https://github.com/NikolayS/pgque",
+    "description": "PgQue – PgQ, universal edition. Zero-bloat Postgres queue. No extensions. No daemon. One SQL file.",
+    "created_at": "2026-04-13T00:06:44Z",
+    "updated_at": "2026-04-15T17:08:02Z",
+    "pushed_at": "2026-04-15T18:30:21Z",
+    "git_url": "git://github.com/NikolayS/pgque.git",
+    "homepage": "",
+    "size": 1210,
+    "stargazers_count": 62,
+    "watchers_count": 62,
+    "language": "PLpgSQL",
+    "forks_count": 0,
+    "open_issues_count": 4
   }
 ]
