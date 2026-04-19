@@ -24470,5 +24470,28 @@
     "language": "PLpgSQL",
     "forks_count": 0,
     "open_issues_count": 4
+  },
+  {
+    "id": 1207890856,
+    "name": "declaracion-renta-espana",
+    "owner": {
+      "id": 3383562,
+      "url": "https://api.github.com/users/joseconti",
+      "html_url": "https://github.com/joseconti",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3383562?v=4"
+    },
+    "html_url": "https://github.com/joseconti/declaracion-renta-espana",
+    "description": "SKILL para realizar la declaración de la Renta española 2025 (Junio 2026)",
+    "created_at": "2026-04-11T14:43:48Z",
+    "updated_at": "2026-04-14T16:22:07Z",
+    "pushed_at": "2026-04-13T20:44:01Z",
+    "git_url": "git://github.com/joseconti/declaracion-renta-espana.git",
+    "homepage": null,
+    "size": 540,
+    "stargazers_count": 98,
+    "watchers_count": 98,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
