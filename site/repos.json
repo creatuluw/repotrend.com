@@ -24677,5 +24677,51 @@
     "language": "C++",
     "forks_count": 6,
     "open_issues_count": 0
+  },
+  {
+    "id": 1206243078,
+    "name": "claude-desktop-buddy",
+    "owner": {
+      "id": 76263028,
+      "url": "https://api.github.com/users/anthropics",
+      "html_url": "https://github.com/anthropics",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
+    },
+    "html_url": "https://github.com/anthropics/claude-desktop-buddy",
+    "description": "Reference and an example for the Bluetooth API for makers in Claude Cowork & Claude Code Desktop",
+    "created_at": "2026-04-09T18:08:19Z",
+    "updated_at": "2026-04-19T18:02:53Z",
+    "pushed_at": "2026-04-16T23:25:07Z",
+    "git_url": "git://github.com/anthropics/claude-desktop-buddy.git",
+    "homepage": "",
+    "size": 1759,
+    "stargazers_count": 729,
+    "watchers_count": 729,
+    "language": "C++",
+    "forks_count": 64,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1210129830,
+    "name": "webdown",
+    "owner": {
+      "id": 275898245,
+      "url": "https://api.github.com/users/webdown-a",
+      "html_url": "https://github.com/webdown-a",
+      "avatar_url": "https://avatars.githubusercontent.com/u/275898245?v=4"
+    },
+    "html_url": "https://github.com/webdown-a/webdown",
+    "description": "WebDown is a browser extension for saving websites as offline packages. It supports:  Saving the current page Crawling a whole site Exporting ZIP files for local backup, sharing, and archivin",
+    "created_at": "2026-04-14T05:44:40Z",
+    "updated_at": "2026-04-16T17:40:44Z",
+    "pushed_at": "2026-04-16T13:28:43Z",
+    "git_url": "git://github.com/webdown-a/webdown.git",
+    "homepage": "",
+    "size": 90,
+    "stargazers_count": 83,
+    "watchers_count": 83,
+    "language": null,
+    "forks_count": 8,
+    "open_issues_count": 1
   }
 ]
