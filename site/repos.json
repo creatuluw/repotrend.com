@@ -24355,5 +24355,51 @@
     "language": "Swift",
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1197569406,
+    "name": "cc-haha",
+    "owner": {
+      "id": 47178017,
+      "url": "https://api.github.com/users/NanmiCoder",
+      "html_url": "https://github.com/NanmiCoder",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47178017?v=4"
+    },
+    "html_url": "https://github.com/NanmiCoder/cc-haha",
+    "description": "Claude Code 泄露源码 - 本地可运行版本，新增跨平台桌面端软件补齐Computer Use（附带核心模块解析）",
+    "created_at": "2026-03-31T17:30:14Z",
+    "updated_at": "2026-04-19T06:41:44Z",
+    "pushed_at": "2026-04-19T06:37:41Z",
+    "git_url": "git://github.com/NanmiCoder/cc-haha.git",
+    "homepage": "https://claudecode-haha.relakkesyang.org/",
+    "size": 96085,
+    "stargazers_count": 6439,
+    "watchers_count": 6439,
+    "language": "TypeScript",
+    "forks_count": 6532,
+    "open_issues_count": 37
+  },
+  {
+    "id": 1207792094,
+    "name": "Palico",
+    "owner": {
+      "id": 275286574,
+      "url": "https://api.github.com/users/thg76183-source",
+      "html_url": "https://github.com/thg76183-source",
+      "avatar_url": "https://avatars.githubusercontent.com/u/275286574?v=4"
+    },
+    "html_url": "https://github.com/thg76183-source/Palico",
+    "description": null,
+    "created_at": "2026-04-11T12:09:46Z",
+    "updated_at": "2026-04-14T09:46:32Z",
+    "pushed_at": "2026-04-11T12:52:44Z",
+    "git_url": "git://github.com/thg76183-source/Palico.git",
+    "homepage": null,
+    "size": 108509,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": "Python",
+    "forks_count": 10,
+    "open_issues_count": 0
   }
 ]
