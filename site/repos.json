@@ -24102,5 +24102,51 @@
     "language": "Python",
     "forks_count": 8,
     "open_issues_count": 0
+  },
+  {
+    "id": 1210834892,
+    "name": "clearwing",
+    "owner": {
+      "id": 66968374,
+      "url": "https://api.github.com/users/Lazarus-AI",
+      "html_url": "https://github.com/Lazarus-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66968374?v=4"
+    },
+    "html_url": "https://github.com/Lazarus-AI/clearwing",
+    "description": null,
+    "created_at": "2026-04-14T20:00:22Z",
+    "updated_at": "2026-04-19T00:47:42Z",
+    "pushed_at": "2026-04-18T23:55:09Z",
+    "git_url": "git://github.com/Lazarus-AI/clearwing.git",
+    "homepage": null,
+    "size": 2683,
+    "stargazers_count": 644,
+    "watchers_count": 644,
+    "language": "Python",
+    "forks_count": 92,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1209620295,
+    "name": "top-cvpr-2026-papers",
+    "owner": {
+      "id": 26109316,
+      "url": "https://api.github.com/users/SkalskiP",
+      "html_url": "https://github.com/SkalskiP",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26109316?v=4"
+    },
+    "html_url": "https://github.com/SkalskiP/top-cvpr-2026-papers",
+    "description": "About This repository is a curated collection of the most exciting and influential CVPR 2026 papers. 🔥 [Paper + Code + Demo]",
+    "created_at": "2026-04-13T15:58:26Z",
+    "updated_at": "2026-04-16T18:29:47Z",
+    "pushed_at": "2026-04-16T09:10:16Z",
+    "git_url": "git://github.com/SkalskiP/top-cvpr-2026-papers.git",
+    "homepage": null,
+    "size": 18,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
