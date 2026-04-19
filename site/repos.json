@@ -24723,5 +24723,28 @@
     "language": null,
     "forks_count": 8,
     "open_issues_count": 1
+  },
+  {
+    "id": 1213754797,
+    "name": "openclaw-android",
+    "owner": {
+      "id": 95216627,
+      "url": "https://api.github.com/users/Mohd-Mursaleen",
+      "html_url": "https://github.com/Mohd-Mursaleen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95216627?v=4"
+    },
+    "html_url": "https://github.com/Mohd-Mursaleen/openclaw-android",
+    "description": "Run OpenClaw Natively on Android — No Root, No Ubuntu, No proot",
+    "created_at": "2026-04-17T18:17:02Z",
+    "updated_at": "2026-04-19T15:23:25Z",
+    "pushed_at": "2026-04-17T19:18:47Z",
+    "git_url": "git://github.com/Mohd-Mursaleen/openclaw-android.git",
+    "homepage": "",
+    "size": 6447,
+    "stargazers_count": 73,
+    "watchers_count": 73,
+    "language": null,
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
