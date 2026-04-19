@@ -24401,5 +24401,51 @@
     "language": "Python",
     "forks_count": 10,
     "open_issues_count": 0
+  },
+  {
+    "id": 1201947430,
+    "name": "zhangxuefeng-skill",
+    "owner": {
+      "id": 127714341,
+      "url": "https://api.github.com/users/alchaincyf",
+      "html_url": "https://github.com/alchaincyf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
+    },
+    "html_url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+    "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+    "created_at": "2026-04-05T11:37:18Z",
+    "updated_at": "2026-04-19T06:30:00Z",
+    "pushed_at": "2026-04-10T02:29:23Z",
+    "git_url": "git://github.com/alchaincyf/zhangxuefeng-skill.git",
+    "homepage": null,
+    "size": 103,
+    "stargazers_count": 6168,
+    "watchers_count": 6168,
+    "language": null,
+    "forks_count": 2091,
+    "open_issues_count": 9
+  },
+  {
+    "id": 1212107869,
+    "name": "kittyfarm",
+    "owner": {
+      "id": 3777433,
+      "url": "https://api.github.com/users/dnakov",
+      "html_url": "https://github.com/dnakov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3777433?v=4"
+    },
+    "html_url": "https://github.com/dnakov/kittyfarm",
+    "description": null,
+    "created_at": "2026-04-16T04:17:59Z",
+    "updated_at": "2026-04-17T10:06:37Z",
+    "pushed_at": "2026-04-16T04:18:01Z",
+    "git_url": "git://github.com/dnakov/kittyfarm.git",
+    "homepage": null,
+    "size": 2194,
+    "stargazers_count": 55,
+    "watchers_count": 55,
+    "language": "Swift",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
