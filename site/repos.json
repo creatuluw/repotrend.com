@@ -24263,5 +24263,28 @@
     "language": null,
     "forks_count": 1,
     "open_issues_count": 1
+  },
+  {
+    "id": 1213359399,
+    "name": "polymarket-copy-trading-bot",
+    "owner": {
+      "id": 276938213,
+      "url": "https://api.github.com/users/cosmic-market",
+      "html_url": "https://github.com/cosmic-market",
+      "avatar_url": "https://avatars.githubusercontent.com/u/276938213?v=4"
+    },
+    "html_url": "https://github.com/cosmic-market/polymarket-copy-trading-bot",
+    "description": "polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrade",
+    "created_at": "2026-04-17T09:48:00Z",
+    "updated_at": "2026-04-17T18:08:32Z",
+    "pushed_at": "2026-04-17T10:11:46Z",
+    "git_url": "git://github.com/cosmic-market/polymarket-copy-trading-bot.git",
+    "homepage": "",
+    "size": 547,
+    "stargazers_count": 87,
+    "watchers_count": 87,
+    "language": "TypeScript",
+    "forks_count": 45,
+    "open_issues_count": 0
   }
 ]
