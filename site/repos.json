@@ -24148,5 +24148,28 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1208136097,
+    "name": "agentic-seo",
+    "owner": {
+      "id": 110953,
+      "url": "https://api.github.com/users/addyosmani",
+      "html_url": "https://github.com/addyosmani",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110953?v=4"
+    },
+    "html_url": "https://github.com/addyosmani/agentic-seo",
+    "description": "Agentic SEO / Agentic Engine Optimization (AEO) tools",
+    "created_at": "2026-04-11T21:41:09Z",
+    "updated_at": "2026-04-14T16:09:32Z",
+    "pushed_at": "2026-04-12T00:19:55Z",
+    "git_url": "git://github.com/addyosmani/agentic-seo.git",
+    "homepage": "",
+    "size": 118,
+    "stargazers_count": 56,
+    "watchers_count": 56,
+    "language": "JavaScript",
+    "forks_count": 3,
+    "open_issues_count": 5
   }
 ]
