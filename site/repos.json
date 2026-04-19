@@ -24562,5 +24562,51 @@
     "language": "Swift",
     "forks_count": 11,
     "open_issues_count": 0
+  },
+  {
+    "id": 1201495229,
+    "name": "PhoneClaw",
+    "owner": {
+      "id": 129767595,
+      "url": "https://api.github.com/users/kellyvv",
+      "html_url": "https://github.com/kellyvv",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129767595?v=4"
+    },
+    "html_url": "https://github.com/kellyvv/PhoneClaw",
+    "description": "PhoneClaw: On-device AI Agent for Phone powered by Gemma 4",
+    "created_at": "2026-04-04T18:53:07Z",
+    "updated_at": "2026-04-19T10:28:16Z",
+    "pushed_at": "2026-04-19T12:05:43Z",
+    "git_url": "git://github.com/kellyvv/PhoneClaw.git",
+    "homepage": "",
+    "size": 49594,
+    "stargazers_count": 610,
+    "watchers_count": 610,
+    "language": "Swift",
+    "forks_count": 95,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1212294284,
+    "name": "polymarket-copy-trading-bot",
+    "owner": {
+      "id": 276537546,
+      "url": "https://api.github.com/users/monero-protocol",
+      "html_url": "https://github.com/monero-protocol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/276537546?v=4"
+    },
+    "html_url": "https://github.com/monero-protocol/polymarket-copy-trading-bot",
+    "description": "polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copy trading Bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrading bot polymarket copytrade",
+    "created_at": "2026-04-16T08:32:11Z",
+    "updated_at": "2026-04-16T18:29:58Z",
+    "pushed_at": "2026-04-16T09:39:37Z",
+    "git_url": "git://github.com/monero-protocol/polymarket-copy-trading-bot.git",
+    "homepage": null,
+    "size": 25,
+    "stargazers_count": 68,
+    "watchers_count": 68,
+    "language": "TypeScript",
+    "forks_count": 77,
+    "open_issues_count": 0
   }
 ]
