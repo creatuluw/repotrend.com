@@ -24033,5 +24033,28 @@
     "language": "JavaScript",
     "forks_count": 12,
     "open_issues_count": 0
+  },
+  {
+    "id": 1208037599,
+    "name": "rita2api",
+    "owner": {
+      "id": 67866187,
+      "url": "https://api.github.com/users/cnlimiter",
+      "html_url": "https://github.com/cnlimiter",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67866187?v=4"
+    },
+    "html_url": "https://github.com/cnlimiter/rita2api",
+    "description": null,
+    "created_at": "2026-04-11T18:26:37Z",
+    "updated_at": "2026-04-14T18:02:08Z",
+    "pushed_at": "2026-04-12T05:00:19Z",
+    "git_url": "git://github.com/cnlimiter/rita2api.git",
+    "homepage": null,
+    "size": 90,
+    "stargazers_count": 64,
+    "watchers_count": 64,
+    "language": "Python",
+    "forks_count": 39,
+    "open_issues_count": 1
   }
 ]
