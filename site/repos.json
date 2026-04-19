@@ -24286,5 +24286,51 @@
     "language": "TypeScript",
     "forks_count": 45,
     "open_issues_count": 0
+  },
+  {
+    "id": 1202634727,
+    "name": "PokeClaw",
+    "owner": {
+      "id": 269032195,
+      "url": "https://api.github.com/users/agents-io",
+      "html_url": "https://github.com/agents-io",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269032195?v=4"
+    },
+    "html_url": "https://github.com/agents-io/PokeClaw",
+    "description": "PokeClaw (PocketClaw) — first on-device AI that controls your Android phone. Gemma 4, no cloud, no API key. Poke is short for Pocket.",
+    "created_at": "2026-04-06T08:31:02Z",
+    "updated_at": "2026-04-18T17:58:39Z",
+    "pushed_at": "2026-04-18T05:52:11Z",
+    "git_url": "git://github.com/agents-io/PokeClaw.git",
+    "homepage": null,
+    "size": 83187,
+    "stargazers_count": 632,
+    "watchers_count": 632,
+    "language": "Kotlin",
+    "forks_count": 91,
+    "open_issues_count": 13
+  },
+  {
+    "id": 1212274047,
+    "name": "gene-skill",
+    "owner": {
+      "id": 113190597,
+      "url": "https://api.github.com/users/Liuziyu77",
+      "html_url": "https://github.com/Liuziyu77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113190597?v=4"
+    },
+    "html_url": "https://github.com/Liuziyu77/gene-skill",
+    "description": "Gene-skill: Throw a few Skills into the “gene blender” and shake out a new Skill that gets more done.",
+    "created_at": "2026-04-16T08:12:11Z",
+    "updated_at": "2026-04-18T16:34:17Z",
+    "pushed_at": "2026-04-17T05:44:00Z",
+    "git_url": "git://github.com/Liuziyu77/gene-skill.git",
+    "homepage": null,
+    "size": 12005,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
