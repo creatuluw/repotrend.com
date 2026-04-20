@@ -24815,5 +24815,51 @@
     "language": "HTML",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1189465288,
+    "name": "swapper-toolkit",
+    "owner": {
+      "id": 175687158,
+      "url": "https://api.github.com/users/swapperfinance",
+      "html_url": "https://github.com/swapperfinance",
+      "avatar_url": "https://avatars.githubusercontent.com/u/175687158?v=4"
+    },
+    "html_url": "https://github.com/swapperfinance/swapper-toolkit",
+    "description": "DeFi toolkit for AI agents and coding assistants — deposit funds, execute trades, and manage crypto wallets. Works with Claude Code, Cursor,   Windsurf, OpenClaw, CrewAI, AutoGPT, and other AI agent frameworks.",
+    "created_at": "2026-03-23T10:53:26Z",
+    "updated_at": "2026-04-18T20:51:22Z",
+    "pushed_at": "2026-04-07T18:19:11Z",
+    "git_url": "git://github.com/swapperfinance/swapper-toolkit.git",
+    "homepage": "https://swapper.finance",
+    "size": 16,
+    "stargazers_count": 609,
+    "watchers_count": 609,
+    "language": null,
+    "forks_count": 24,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1214519814,
+    "name": "hyperframes-student-kit",
+    "owner": {
+      "id": 253835467,
+      "url": "https://api.github.com/users/nateherkai",
+      "html_url": "https://github.com/nateherkai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/253835467?v=4"
+    },
+    "html_url": "https://github.com/nateherkai/hyperframes-student-kit",
+    "description": "HTML-native motion-graphics video workspace — 12 finished projects built on Hyperframes + GSAP. A teaching kit for students learning to build motion-graphics video pipelines end-to-end.",
+    "created_at": "2026-04-18T17:30:25Z",
+    "updated_at": "2026-04-19T18:13:40Z",
+    "pushed_at": "2026-04-18T17:30:56Z",
+    "git_url": "git://github.com/nateherkai/hyperframes-student-kit.git",
+    "homepage": null,
+    "size": 277573,
+    "stargazers_count": 72,
+    "watchers_count": 72,
+    "language": "HTML",
+    "forks_count": 29,
+    "open_issues_count": 0
   }
 ]
