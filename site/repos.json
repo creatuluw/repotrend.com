@@ -25068,5 +25068,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1211295602,
+    "name": "xata",
+    "owner": {
+      "id": 74420131,
+      "url": "https://api.github.com/users/xataio",
+      "html_url": "https://github.com/xataio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74420131?v=4"
+    },
+    "html_url": "https://github.com/xataio/xata",
+    "description": "Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero",
+    "created_at": "2026-04-15T08:49:42Z",
+    "updated_at": "2026-04-20T06:45:12Z",
+    "pushed_at": "2026-04-17T10:22:48Z",
+    "git_url": "git://github.com/xataio/xata.git",
+    "homepage": "https://xata.io",
+    "size": 1194,
+    "stargazers_count": 647,
+    "watchers_count": 647,
+    "language": "Go",
+    "forks_count": 28,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1209701072,
+    "name": "agentchat",
+    "owner": {
+      "id": 268753176,
+      "url": "https://api.github.com/users/arlington-labs",
+      "html_url": "https://github.com/arlington-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268753176?v=4"
+    },
+    "html_url": "https://github.com/arlington-labs/agentchat",
+    "description": "Private group chats between friends' AI agents via S2 streams",
+    "created_at": "2026-04-13T17:37:23Z",
+    "updated_at": "2026-04-16T16:56:33Z",
+    "pushed_at": "2026-04-14T18:33:49Z",
+    "git_url": "git://github.com/arlington-labs/agentchat.git",
+    "homepage": null,
+    "size": 120,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
