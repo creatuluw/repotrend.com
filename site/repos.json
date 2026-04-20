@@ -25482,5 +25482,51 @@
     "language": "JavaScript",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1193168992,
+    "name": "larql",
+    "owner": {
+      "id": 690076,
+      "url": "https://api.github.com/users/chrishayuk",
+      "html_url": "https://github.com/chrishayuk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/690076?v=4"
+    },
+    "html_url": "https://github.com/chrishayuk/larql",
+    "description": null,
+    "created_at": "2026-03-27T00:12:31Z",
+    "updated_at": "2026-04-20T10:37:04Z",
+    "pushed_at": "2026-04-20T00:14:07Z",
+    "git_url": "git://github.com/chrishayuk/larql.git",
+    "homepage": null,
+    "size": 12281,
+    "stargazers_count": 625,
+    "watchers_count": 625,
+    "language": "Rust",
+    "forks_count": 96,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1214236541,
+    "name": "Claude-Design-By-Anthropic",
+    "owner": {
+      "id": 62203125,
+      "url": "https://api.github.com/users/chabba1234",
+      "html_url": "https://github.com/chabba1234",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62203125?v=4"
+    },
+    "html_url": "https://github.com/chabba1234/Claude-Design-By-Anthropic",
+    "description": "Download Free Claude Desktop - Designed by Anthropic is a beautiful and free desktop application for Claude AI. Enjoy fast chatting, advanced coding, writing assistance, and a modern elegant interface optimized for Windows users.",
+    "created_at": "2026-04-18T09:48:00Z",
+    "updated_at": "2026-04-20T12:26:47Z",
+    "pushed_at": "2026-04-18T10:00:16Z",
+    "git_url": "git://github.com/chabba1234/Claude-Design-By-Anthropic.git",
+    "homepage": "",
+    "size": 86,
+    "stargazers_count": 91,
+    "watchers_count": 91,
+    "language": "C++",
+    "forks_count": 1,
+    "open_issues_count": 1
   }
 ]
