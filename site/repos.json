@@ -25528,5 +25528,28 @@
     "language": "C++",
     "forks_count": 1,
     "open_issues_count": 1
+  },
+  {
+    "id": 1214330684,
+    "name": "korean-privacy-terms",
+    "owner": {
+      "id": 277181306,
+      "url": "https://api.github.com/users/kimlawtech",
+      "html_url": "https://github.com/kimlawtech",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277181306?v=4"
+    },
+    "html_url": "https://github.com/kimlawtech/korean-privacy-terms",
+    "description": "한국 법령 기반 개인정보처리방침·이용약관 자동 생성 Claude Code 스킬. 2025.4.21 작성지침 및 2026.3 개정 법령 반영.",
+    "created_at": "2026-04-18T12:31:18Z",
+    "updated_at": "2026-04-19T14:53:15Z",
+    "pushed_at": "2026-04-19T13:47:03Z",
+    "git_url": "git://github.com/kimlawtech/korean-privacy-terms.git",
+    "homepage": "https://discord.gg/qmCbMaER",
+    "size": 173,
+    "stargazers_count": 59,
+    "watchers_count": 59,
+    "language": "Go Template",
+    "forks_count": 12,
+    "open_issues_count": 1
   }
 ]
