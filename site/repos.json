@@ -24976,5 +24976,51 @@
     "language": "C++",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1197002442,
+    "name": "m_flow",
+    "owner": {
+      "id": 272122011,
+      "url": "https://api.github.com/users/FlowElement-ai",
+      "html_url": "https://github.com/FlowElement-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272122011?v=4"
+    },
+    "html_url": "https://github.com/FlowElement-ai/m_flow",
+    "description": "A bio-inspired cognitive memory engine — a new paradigm for Graph RAG.",
+    "created_at": "2026-03-31T08:36:50Z",
+    "updated_at": "2026-04-19T18:16:52Z",
+    "pushed_at": "2026-04-19T13:56:41Z",
+    "git_url": "git://github.com/FlowElement-ai/m_flow.git",
+    "homepage": "https://flowelement.ai",
+    "size": 5177,
+    "stargazers_count": 724,
+    "watchers_count": 724,
+    "language": "Python",
+    "forks_count": 122,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1212856575,
+    "name": "C64_music",
+    "owner": {
+      "id": 276715663,
+      "url": "https://api.github.com/users/MartinGalway",
+      "html_url": "https://github.com/MartinGalway",
+      "avatar_url": "https://avatars.githubusercontent.com/u/276715663?v=4"
+    },
+    "html_url": "https://github.com/MartinGalway/C64_music",
+    "description": "Music source files from 1980's Commodore 64 games",
+    "created_at": "2026-04-16T19:56:51Z",
+    "updated_at": "2026-04-18T18:07:14Z",
+    "pushed_at": "2026-04-16T22:54:39Z",
+    "git_url": "git://github.com/MartinGalway/C64_music.git",
+    "homepage": null,
+    "size": 41,
+    "stargazers_count": 93,
+    "watchers_count": 93,
+    "language": "Assembly",
+    "forks_count": 9,
+    "open_issues_count": 0
   }
 ]
