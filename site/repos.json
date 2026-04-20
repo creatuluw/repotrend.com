@@ -25436,5 +25436,51 @@
     "language": "Shell",
     "forks_count": 18,
     "open_issues_count": 0
+  },
+  {
+    "id": 1194045032,
+    "name": "web-agent",
+    "owner": {
+      "id": 135057108,
+      "url": "https://api.github.com/users/firecrawl",
+      "html_url": "https://github.com/firecrawl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135057108?v=4"
+    },
+    "html_url": "https://github.com/firecrawl/web-agent",
+    "description": "Open-source web data agent optimized for structured web research",
+    "created_at": "2026-03-27T21:25:42Z",
+    "updated_at": "2026-04-20T12:09:26Z",
+    "pushed_at": "2026-04-19T19:49:49Z",
+    "git_url": "git://github.com/firecrawl/web-agent.git",
+    "homepage": "https://firecrawl.dev",
+    "size": 14949,
+    "stargazers_count": 629,
+    "watchers_count": 629,
+    "language": "TypeScript",
+    "forks_count": 72,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1213933186,
+    "name": "Awesome-Dotfiles",
+    "owner": {
+      "id": 203539898,
+      "url": "https://api.github.com/users/zhaleff",
+      "html_url": "https://github.com/zhaleff",
+      "avatar_url": "https://avatars.githubusercontent.com/u/203539898?v=4"
+    },
+    "html_url": "https://github.com/zhaleff/Awesome-Dotfiles",
+    "description": null,
+    "created_at": "2026-04-17T23:23:06Z",
+    "updated_at": "2026-04-19T18:05:45Z",
+    "pushed_at": "2026-04-19T18:05:42Z",
+    "git_url": "git://github.com/zhaleff/Awesome-Dotfiles.git",
+    "homepage": null,
+    "size": 329,
+    "stargazers_count": 67,
+    "watchers_count": 67,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
