@@ -24930,5 +24930,51 @@
     "language": "Kotlin",
     "forks_count": 2,
     "open_issues_count": 3
+  },
+  {
+    "id": 1213797717,
+    "name": "BTC-Trading-Since-2020",
+    "owner": {
+      "id": 1284814,
+      "url": "https://api.github.com/users/bwjoke",
+      "html_url": "https://github.com/bwjoke",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1284814?v=4"
+    },
+    "html_url": "https://github.com/bwjoke/BTC-Trading-Since-2020",
+    "description": "Public BTC trading context since 2020.",
+    "created_at": "2026-04-17T19:18:03Z",
+    "updated_at": "2026-04-20T00:29:22Z",
+    "pushed_at": "2026-04-18T17:20:29Z",
+    "git_url": "git://github.com/bwjoke/BTC-Trading-Since-2020.git",
+    "homepage": "https://x.com/coolish",
+    "size": 17881,
+    "stargazers_count": 696,
+    "watchers_count": 696,
+    "language": null,
+    "forks_count": 238,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1214755468,
+    "name": "claude-desktop-buddy-esp32-s3-touch-amoled-1.8",
+    "owner": {
+      "id": 1506722,
+      "url": "https://api.github.com/users/vthinkxie",
+      "html_url": "https://github.com/vthinkxie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1506722?v=4"
+    },
+    "html_url": "https://github.com/vthinkxie/claude-desktop-buddy-esp32-s3-touch-amoled-1.8",
+    "description": "esp32-s3-touch-amoled-1.8",
+    "created_at": "2026-04-19T02:15:18Z",
+    "updated_at": "2026-04-19T18:13:24Z",
+    "pushed_at": "2026-04-19T12:55:31Z",
+    "git_url": "git://github.com/vthinkxie/claude-desktop-buddy-esp32-s3-touch-amoled-1.8.git",
+    "homepage": null,
+    "size": 2102,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "C++",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
