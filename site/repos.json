@@ -25620,5 +25620,28 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1212818660,
+    "name": "AI-Comic-Director",
+    "owner": {
+      "id": 87957338,
+      "url": "https://api.github.com/users/yy18570728781",
+      "html_url": "https://github.com/yy18570728781",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87957338?v=4"
+    },
+    "html_url": "https://github.com/yy18570728781/AI-Comic-Director",
+    "description": "AI Comic Director (AI 漫剧创���工作台)",
+    "created_at": "2026-04-16T19:05:18Z",
+    "updated_at": "2026-04-19T17:02:47Z",
+    "pushed_at": "2026-04-18T19:50:19Z",
+    "git_url": "git://github.com/yy18570728781/AI-Comic-Director.git",
+    "homepage": null,
+    "size": 5733,
+    "stargazers_count": 59,
+    "watchers_count": 59,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
