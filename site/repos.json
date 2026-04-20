@@ -25229,5 +25229,51 @@
     "language": "Python",
     "forks_count": 8,
     "open_issues_count": 0
+  },
+  {
+    "id": 1212769188,
+    "name": "diagram-design",
+    "owner": {
+      "id": 50469282,
+      "url": "https://api.github.com/users/cathrynlavery",
+      "html_url": "https://github.com/cathrynlavery",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50469282?v=4"
+    },
+    "html_url": "https://github.com/cathrynlavery/diagram-design",
+    "description": "Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+    "created_at": "2026-04-16T18:01:16Z",
+    "updated_at": "2026-04-20T06:50:37Z",
+    "pushed_at": "2026-04-19T13:19:47Z",
+    "git_url": "git://github.com/cathrynlavery/diagram-design.git",
+    "homepage": null,
+    "size": 788,
+    "stargazers_count": 752,
+    "watchers_count": 752,
+    "language": "HTML",
+    "forks_count": 52,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1209793723,
+    "name": "ARKTI",
+    "owner": {
+      "id": 231708897,
+      "url": "https://api.github.com/users/YBWLawa0",
+      "html_url": "https://github.com/YBWLawa0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/231708897?v=4"
+    },
+    "html_url": "https://github.com/YBWLawa0/ARKTI",
+    "description": "Arknights Type Indicator - MBTI inspired arknights persona quiz",
+    "created_at": "2026-04-13T19:37:34Z",
+    "updated_at": "2026-04-16T16:17:24Z",
+    "pushed_at": "2026-04-16T15:28:52Z",
+    "git_url": "git://github.com/YBWLawa0/ARKTI.git",
+    "homepage": "https://arkti.ybwlawa0.com",
+    "size": 419828,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": "Vue",
+    "forks_count": 2,
+    "open_issues_count": 1
   }
 ]
