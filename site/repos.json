@@ -24861,5 +24861,74 @@
     "language": "HTML",
     "forks_count": 29,
     "open_issues_count": 0
+  },
+  {
+    "id": 1178493295,
+    "name": "gsd-2",
+    "owner": {
+      "id": 260490621,
+      "url": "https://api.github.com/users/gsd-build",
+      "html_url": "https://github.com/gsd-build",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260490621?v=4"
+    },
+    "html_url": "https://github.com/gsd-build/gsd-2",
+    "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture",
+    "created_at": "2026-03-11T04:28:49Z",
+    "updated_at": "2026-04-20T00:42:10Z",
+    "pushed_at": "2026-04-20T00:11:18Z",
+    "git_url": "git://github.com/gsd-build/gsd-2.git",
+    "homepage": "",
+    "size": 94892,
+    "stargazers_count": 6165,
+    "watchers_count": 6165,
+    "language": "TypeScript",
+    "forks_count": 635,
+    "open_issues_count": 281
+  },
+  {
+    "id": 1202251960,
+    "name": "llm-wiki-compiler",
+    "owner": {
+      "id": 272133849,
+      "url": "https://api.github.com/users/atomicmemory",
+      "html_url": "https://github.com/atomicmemory",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272133849?v=4"
+    },
+    "html_url": "https://github.com/atomicmemory/llm-wiki-compiler",
+    "description": "The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern.",
+    "created_at": "2026-04-05T19:53:06Z",
+    "updated_at": "2026-04-20T00:04:14Z",
+    "pushed_at": "2026-04-16T19:53:16Z",
+    "git_url": "git://github.com/atomicmemory/llm-wiki-compiler.git",
+    "homepage": null,
+    "size": 1030,
+    "stargazers_count": 616,
+    "watchers_count": 616,
+    "language": "TypeScript",
+    "forks_count": 62,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1214663448,
+    "name": "EchoTube",
+    "owner": {
+      "id": 147871321,
+      "url": "https://api.github.com/users/iad1tya",
+      "html_url": "https://github.com/iad1tya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147871321?v=4"
+    },
+    "html_url": "https://github.com/iad1tya/EchoTube",
+    "description": "Open-source YouTube client - enjoy an ad-free experience in a lightweight app, no account required.",
+    "created_at": "2026-04-18T22:00:29Z",
+    "updated_at": "2026-04-19T17:13:11Z",
+    "pushed_at": "2026-04-18T23:14:55Z",
+    "git_url": "git://github.com/iad1tya/EchoTube.git",
+    "homepage": "https://echotube.fun",
+    "size": 10582,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": "Kotlin",
+    "forks_count": 2,
+    "open_issues_count": 3
   }
 ]
