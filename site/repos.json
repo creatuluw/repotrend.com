@@ -25298,5 +25298,51 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1203564361,
+    "name": "ClawGUI",
+    "owner": {
+      "id": 203928864,
+      "url": "https://api.github.com/users/ZJU-REAL",
+      "html_url": "https://github.com/ZJU-REAL",
+      "avatar_url": "https://avatars.githubusercontent.com/u/203928864?v=4"
+    },
+    "html_url": "https://github.com/ZJU-REAL/ClawGUI",
+    "description": "Build, Evaluate, and Deploy GUI Agents — online RL training, standardized benchmarks, and real-device deployment in one framework.",
+    "created_at": "2026-04-07T06:43:03Z",
+    "updated_at": "2026-04-20T12:32:01Z",
+    "pushed_at": "2026-04-16T12:03:42Z",
+    "git_url": "git://github.com/ZJU-REAL/ClawGUI.git",
+    "homepage": "",
+    "size": 72227,
+    "stargazers_count": 630,
+    "watchers_count": 630,
+    "language": "Python",
+    "forks_count": 22,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1213477480,
+    "name": "paper-plot-skills",
+    "owner": {
+      "id": 90178138,
+      "url": "https://api.github.com/users/Trae1ounG",
+      "html_url": "https://github.com/Trae1ounG",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90178138?v=4"
+    },
+    "html_url": "https://github.com/Trae1ounG/paper-plot-skills",
+    "description": "开源高质量论文图表绘制Skills",
+    "created_at": "2026-04-17T12:26:13Z",
+    "updated_at": "2026-04-20T12:10:43Z",
+    "pushed_at": "2026-04-20T03:09:28Z",
+    "git_url": "git://github.com/Trae1ounG/paper-plot-skills.git",
+    "homepage": null,
+    "size": 3811,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 0
   }
 ]
