@@ -25137,5 +25137,51 @@
     "language": "Python",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1214290850,
+    "name": "awesome-gpt-image-2-prompts",
+    "owner": {
+      "id": 253253881,
+      "url": "https://api.github.com/users/EvoLinkAI",
+      "html_url": "https://github.com/EvoLinkAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/253253881?v=4"
+    },
+    "html_url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts",
+    "description": "Curated GPT-Image-2 prompts and image examples across portraits, posters, UI mockups, character sheets, and community experiments.",
+    "created_at": "2026-04-18T11:22:14Z",
+    "updated_at": "2026-04-20T06:46:59Z",
+    "pushed_at": "2026-04-19T12:41:38Z",
+    "git_url": "git://github.com/EvoLinkAI/awesome-gpt-image-2-prompts.git",
+    "homepage": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts",
+    "size": 15341,
+    "stargazers_count": 656,
+    "watchers_count": 656,
+    "language": null,
+    "forks_count": 60,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1214488263,
+    "name": "design-image-studio",
+    "owner": {
+      "id": 52196004,
+      "url": "https://api.github.com/users/kangarooking",
+      "html_url": "https://github.com/kangarooking",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52196004?v=4"
+    },
+    "html_url": "https://github.com/kangarooking/design-image-studio",
+    "description": "把模糊视觉需求直接变成可落地生成的高质量设计图",
+    "created_at": "2026-04-18T16:40:07Z",
+    "updated_at": "2026-04-19T17:38:38Z",
+    "pushed_at": "2026-04-19T00:51:10Z",
+    "git_url": "git://github.com/kangarooking/design-image-studio.git",
+    "homepage": null,
+    "size": 9907,
+    "stargazers_count": 62,
+    "watchers_count": 62,
+    "language": "Python",
+    "forks_count": 17,
+    "open_issues_count": 0
   }
 ]
