@@ -25597,5 +25597,28 @@
     "language": "Python",
     "forks_count": 7,
     "open_issues_count": 0
+  },
+  {
+    "id": 1213699298,
+    "name": "Cheat-Engine-Modding-Games",
+    "owner": {
+      "id": 180124401,
+      "url": "https://api.github.com/users/pistachote",
+      "html_url": "https://github.com/pistachote",
+      "avatar_url": "https://avatars.githubusercontent.com/u/180124401?v=4"
+    },
+    "html_url": "https://github.com/pistachote/Cheat-Engine-Modding-Games",
+    "description": "Cheat Engine Modding Games is a powerful tool for modifying single-player games on PC. Find and change game values, create cheats and trainers easily. Optimized 2026 version with ready cheat tables and Lua scripting support.",
+    "created_at": "2026-04-17T17:02:21Z",
+    "updated_at": "2026-04-19T17:33:48Z",
+    "pushed_at": "2026-04-17T17:11:22Z",
+    "git_url": "git://github.com/pistachote/Cheat-Engine-Modding-Games.git",
+    "homepage": "",
+    "size": 88,
+    "stargazers_count": 90,
+    "watchers_count": 90,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
