@@ -25643,5 +25643,28 @@
     "language": null,
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1212034897,
+    "name": "RecommenderSystem",
+    "owner": {
+      "id": 168965008,
+      "url": "https://api.github.com/users/1-dr-eam",
+      "html_url": "https://github.com/1-dr-eam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/168965008?v=4"
+    },
+    "html_url": "https://github.com/1-dr-eam/RecommenderSystem",
+    "description": "本项目复现了工业界常用的且有效的推荐系统各模块，将其进行全链路整合，并提供外部调用API",
+    "created_at": "2026-04-16T02:05:18Z",
+    "updated_at": "2026-04-19T16:15:13Z",
+    "pushed_at": "2026-04-18T07:52:27Z",
+    "git_url": "git://github.com/1-dr-eam/RecommenderSystem.git",
+    "homepage": null,
+    "size": 19319,
+    "stargazers_count": 89,
+    "watchers_count": 89,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 0
   }
 ]
