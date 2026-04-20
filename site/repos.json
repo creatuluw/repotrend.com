@@ -25390,5 +25390,51 @@
     "language": "PHP",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1193956104,
+    "name": "rvllm",
+    "owner": {
+      "id": 47344131,
+      "url": "https://api.github.com/users/m0at",
+      "html_url": "https://github.com/m0at",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47344131?v=4"
+    },
+    "html_url": "https://github.com/m0at/rvllm",
+    "description": "rvLLM: High-performance LLM inference in Rust. Drop-in vLLM replacement.",
+    "created_at": "2026-03-27T19:01:39Z",
+    "updated_at": "2026-04-20T11:57:04Z",
+    "pushed_at": "2026-04-20T01:37:53Z",
+    "git_url": "git://github.com/m0at/rvllm.git",
+    "homepage": null,
+    "size": 81222,
+    "stargazers_count": 625,
+    "watchers_count": 625,
+    "language": "Cuda",
+    "forks_count": 61,
+    "open_issues_count": 13
+  },
+  {
+    "id": 1212803197,
+    "name": "llm-atomic-wiki",
+    "owner": {
+      "id": 85614048,
+      "url": "https://api.github.com/users/cablate",
+      "html_url": "https://github.com/cablate",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85614048?v=4"
+    },
+    "html_url": "https://github.com/cablate/llm-atomic-wiki",
+    "description": "An extension of Karpathy's LLM Wiki pattern: atom layer, topic-branches, two-layer Lint. Distilled from running the pattern end-to-end.",
+    "created_at": "2026-04-16T18:45:00Z",
+    "updated_at": "2026-04-19T17:02:13Z",
+    "pushed_at": "2026-04-16T18:54:52Z",
+    "git_url": "git://github.com/cablate/llm-atomic-wiki.git",
+    "homepage": null,
+    "size": 60,
+    "stargazers_count": 68,
+    "watchers_count": 68,
+    "language": "Shell",
+    "forks_count": 18,
+    "open_issues_count": 0
   }
 ]
