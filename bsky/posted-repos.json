@@ -3226,5 +3226,11 @@
     "name": "C64_music",
     "html_url": "https://github.com/MartinGalway/C64_music",
     "posted_at": "2026-04-20T18:10:35.371Z"
+  },
+  {
+    "id": 1204199409,
+    "name": "nvim-jump",
+    "html_url": "https://github.com/yorickpeterse/nvim-jump",
+    "posted_at": "2026-04-20T20:12:29.770Z"
   }
 ]
