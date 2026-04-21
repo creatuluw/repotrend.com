@@ -26034,5 +26034,51 @@
     "language": "Java",
     "forks_count": 28,
     "open_issues_count": 1
+  },
+  {
+    "id": 1198654685,
+    "name": "immortal-skill",
+    "owner": {
+      "id": 272135193,
+      "url": "https://api.github.com/users/agenmod",
+      "html_url": "https://github.com/agenmod",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272135193?v=4"
+    },
+    "html_url": "https://github.com/agenmod/immortal-skill",
+    "description": "♾️ 开源数字永生框架 — 从聊天记录蒸馏任何人的七维数字分身。支持微信/飞书/iMessage/Telegram等12+平台，7种角色模板，对齐 OpenClaw Soul Spec 标准。一行指令让你的AI学会蒸馏。",
+    "created_at": "2026-04-01T16:19:14Z",
+    "updated_at": "2026-04-21T08:58:08Z",
+    "pushed_at": "2026-04-15T03:21:58Z",
+    "git_url": "git://github.com/agenmod/immortal-skill.git",
+    "homepage": "https://agenworld.com",
+    "size": 307,
+    "stargazers_count": 613,
+    "watchers_count": 613,
+    "language": "Python",
+    "forks_count": 65,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1216121074,
+    "name": "Tomodachi-Share-Discover-and-share-Mii-residents",
+    "owner": {
+      "id": 51889919,
+      "url": "https://api.github.com/users/BradAdachi",
+      "html_url": "https://github.com/BradAdachi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51889919?v=4"
+    },
+    "html_url": "https://github.com/BradAdachi/Tomodachi-Share-Discover-and-share-Mii-residents",
+    "description": "Download Tomodachi Share — simple and fast tool to export, import and share Miis, islands, and special items in Tomodachi Life: Living the Dream. Generate QR codes and share with friends easily.",
+    "created_at": "2026-04-20T15:33:09Z",
+    "updated_at": "2026-04-21T11:58:09Z",
+    "pushed_at": "2026-04-20T15:36:44Z",
+    "git_url": "git://github.com/BradAdachi/Tomodachi-Share-Discover-and-share-Mii-residents.git",
+    "homepage": "",
+    "size": 3,
+    "stargazers_count": 81,
+    "watchers_count": 81,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
