@@ -25965,5 +25965,28 @@
     "language": null,
     "forks_count": 12,
     "open_issues_count": 1
+  },
+  {
+    "id": 1215435693,
+    "name": "mcp-cli",
+    "owner": {
+      "id": 627917,
+      "url": "https://api.github.com/users/madeye",
+      "html_url": "https://github.com/madeye",
+      "avatar_url": "https://avatars.githubusercontent.com/u/627917?v=4"
+    },
+    "html_url": "https://github.com/madeye/mcp-cli",
+    "description": "save fork/exec overhead of ai code agent",
+    "created_at": "2026-04-19T22:51:10Z",
+    "updated_at": "2026-04-21T06:26:15Z",
+    "pushed_at": "2026-04-21T06:26:00Z",
+    "git_url": "git://github.com/madeye/mcp-cli.git",
+    "homepage": null,
+    "size": 275,
+    "stargazers_count": 71,
+    "watchers_count": 71,
+    "language": "Rust",
+    "forks_count": 4,
+    "open_issues_count": 4
   }
 ]
