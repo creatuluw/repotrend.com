@@ -26241,5 +26241,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1202323084,
+    "name": "tailscale-rs",
+    "owner": {
+      "id": 48932923,
+      "url": "https://api.github.com/users/tailscale",
+      "html_url": "https://github.com/tailscale",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48932923?v=4"
+    },
+    "html_url": "https://github.com/tailscale/tailscale-rs",
+    "description": "Rust implementation of Tailscale (preview, experimental)",
+    "created_at": "2026-04-05T22:23:55Z",
+    "updated_at": "2026-04-21T16:00:21Z",
+    "pushed_at": "2026-04-21T18:26:08Z",
+    "git_url": "git://github.com/tailscale/tailscale-rs.git",
+    "homepage": null,
+    "size": 3320,
+    "stargazers_count": 631,
+    "watchers_count": 631,
+    "language": "Rust",
+    "forks_count": 21,
+    "open_issues_count": 52
+  },
+  {
+    "id": 1216336827,
+    "name": "polymarket-trading-bot",
+    "owner": {
+      "id": 174475078,
+      "url": "https://api.github.com/users/babar-mpire",
+      "html_url": "https://github.com/babar-mpire",
+      "avatar_url": "https://avatars.githubusercontent.com/u/174475078?v=4"
+    },
+    "html_url": "https://github.com/babar-mpire/polymarket-trading-bot",
+    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot",
+    "created_at": "2026-04-20T20:01:02Z",
+    "updated_at": "2026-04-21T16:16:54Z",
+    "pushed_at": "2026-04-21T09:18:42Z",
+    "git_url": "git://github.com/babar-mpire/polymarket-trading-bot.git",
+    "homepage": "",
+    "size": 76,
+    "stargazers_count": 81,
+    "watchers_count": 81,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
