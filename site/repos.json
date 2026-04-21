@@ -26333,5 +26333,28 @@
     "language": "TypeScript",
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1213956965,
+    "name": "cavemem",
+    "owner": {
+      "id": 104168679,
+      "url": "https://api.github.com/users/JuliusBrussee",
+      "html_url": "https://github.com/JuliusBrussee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104168679?v=4"
+    },
+    "html_url": "https://github.com/JuliusBrussee/cavemem",
+    "description": "Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default.",
+    "created_at": "2026-04-18T00:21:39Z",
+    "updated_at": "2026-04-21T17:41:10Z",
+    "pushed_at": "2026-04-20T12:38:09Z",
+    "git_url": "git://github.com/JuliusBrussee/cavemem.git",
+    "homepage": "https://getcaveman.dev/",
+    "size": 241,
+    "stargazers_count": 71,
+    "watchers_count": 71,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 4
   }
 ]
