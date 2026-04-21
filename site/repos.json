@@ -25988,5 +25988,51 @@
     "language": "Rust",
     "forks_count": 4,
     "open_issues_count": 4
+  },
+  {
+    "id": 1192900590,
+    "name": "research-companion",
+    "owner": {
+      "id": 25845602,
+      "url": "https://api.github.com/users/andrehuang",
+      "html_url": "https://github.com/andrehuang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25845602?v=4"
+    },
+    "html_url": "https://github.com/andrehuang/research-companion",
+    "description": "Strategic research thinking agents for Claude Code — idea evaluation, project triage, and structured brainstorming. Helps you decide which papers to write, not just how to write them.",
+    "created_at": "2026-03-26T17:11:13Z",
+    "updated_at": "2026-04-21T11:49:43Z",
+    "pushed_at": "2026-04-13T07:23:07Z",
+    "git_url": "git://github.com/andrehuang/research-companion.git",
+    "homepage": null,
+    "size": 76,
+    "stargazers_count": 610,
+    "watchers_count": 610,
+    "language": null,
+    "forks_count": 53,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1214626040,
+    "name": "Towns",
+    "owner": {
+      "id": 277335896,
+      "url": "https://api.github.com/users/supermalparit",
+      "html_url": "https://github.com/supermalparit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277335896?v=4"
+    },
+    "html_url": "https://github.com/supermalparit/Towns",
+    "description": "Repository for the Towns game",
+    "created_at": "2026-04-18T20:39:18Z",
+    "updated_at": "2026-04-20T16:20:42Z",
+    "pushed_at": "2026-04-20T01:47:06Z",
+    "git_url": "git://github.com/supermalparit/Towns.git",
+    "homepage": null,
+    "size": 2058,
+    "stargazers_count": 62,
+    "watchers_count": 62,
+    "language": "Java",
+    "forks_count": 28,
+    "open_issues_count": 1
   }
 ]
