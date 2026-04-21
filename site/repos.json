@@ -25804,5 +25804,28 @@
     "language": "JavaScript",
     "forks_count": 5,
     "open_issues_count": 4
+  },
+  {
+    "id": 1210780606,
+    "name": "waycal",
+    "owner": {
+      "id": 15620553,
+      "url": "https://api.github.com/users/ForrestKnight",
+      "html_url": "https://github.com/ForrestKnight",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15620553?v=4"
+    },
+    "html_url": "https://github.com/ForrestKnight/waycal",
+    "description": "A tiny Waybar calendar popup for wlr-layer-shell compositors",
+    "created_at": "2026-04-14T18:46:46Z",
+    "updated_at": "2026-04-17T17:04:40Z",
+    "pushed_at": "2026-04-16T18:42:08Z",
+    "git_url": "git://github.com/ForrestKnight/waycal.git",
+    "homepage": null,
+    "size": 796,
+    "stargazers_count": 55,
+    "watchers_count": 55,
+    "language": "Rust",
+    "forks_count": 6,
+    "open_issues_count": 3
   }
 ]
