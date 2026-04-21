@@ -26126,5 +26126,28 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1214783544,
+    "name": "Cairn",
+    "owner": {
+      "id": 277208930,
+      "url": "https://api.github.com/users/oritera",
+      "html_url": "https://github.com/oritera",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277208930?v=4"
+    },
+    "html_url": "https://github.com/oritera/Cairn",
+    "description": "AI 自动化通用问题解决 / AI 自动化渗透测试系统",
+    "created_at": "2026-04-19T03:28:41Z",
+    "updated_at": "2026-04-19T17:24:13Z",
+    "pushed_at": "2026-04-19T05:45:46Z",
+    "git_url": "git://github.com/oritera/Cairn.git",
+    "homepage": null,
+    "size": 1855,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": null,
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
