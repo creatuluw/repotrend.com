@@ -25781,5 +25781,28 @@
     "language": "Python",
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1211615179,
+    "name": "OpenGuider",
+    "owner": {
+      "id": 79705009,
+      "url": "https://api.github.com/users/mo-tunn",
+      "html_url": "https://github.com/mo-tunn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79705009?v=4"
+    },
+    "html_url": "https://github.com/mo-tunn/OpenGuider",
+    "description": "An AI companion that lives on your desktop - OpenGuider watches your screen, listens to your voice, and guides every step with clear actions.",
+    "created_at": "2026-04-15T15:12:12Z",
+    "updated_at": "2026-04-18T16:50:17Z",
+    "pushed_at": "2026-04-18T10:26:33Z",
+    "git_url": "git://github.com/mo-tunn/OpenGuider.git",
+    "homepage": "https://mo-tunn.github.io/OpenGuider/",
+    "size": 23082,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": "JavaScript",
+    "forks_count": 5,
+    "open_issues_count": 4
   }
 ]
