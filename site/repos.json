@@ -25735,5 +25735,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1206549574,
+    "name": "quien",
+    "owner": {
+      "id": 115911,
+      "url": "https://api.github.com/users/retlehs",
+      "html_url": "https://github.com/retlehs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115911?v=4"
+    },
+    "html_url": "https://github.com/retlehs/quien",
+    "description": "A better whois and domain intelligence toolkit",
+    "created_at": "2026-04-10T02:53:42Z",
+    "updated_at": "2026-04-20T20:41:03Z",
+    "pushed_at": "2026-04-19T19:14:59Z",
+    "git_url": "git://github.com/retlehs/quien.git",
+    "homepage": "https://benword.com/quien-a-better-whois-and-domain-intelligence-toolkit",
+    "size": 3943,
+    "stargazers_count": 618,
+    "watchers_count": 618,
+    "language": "Go",
+    "forks_count": 13,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1212756352,
+    "name": "anywhere-agents",
+    "owner": {
+      "id": 15079146,
+      "url": "https://api.github.com/users/yzhao062",
+      "html_url": "https://github.com/yzhao062",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15079146?v=4"
+    },
+    "html_url": "https://github.com/yzhao062/anywhere-agents",
+    "description": "One config to rule all your AI agents: portable (every project, every session), effective (curated writing, routing, skills), and safer (destructive-command guard).",
+    "created_at": "2026-04-16T17:44:59Z",
+    "updated_at": "2026-04-19T16:09:35Z",
+    "pushed_at": "2026-04-19T00:07:17Z",
+    "git_url": "git://github.com/yzhao062/anywhere-agents.git",
+    "homepage": "https://anywhere-agents.readthedocs.io",
+    "size": 1319,
+    "stargazers_count": 56,
+    "watchers_count": 56,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
