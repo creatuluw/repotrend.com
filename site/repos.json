@@ -26448,5 +26448,51 @@
     "language": null,
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1200818460,
+    "name": "Antra",
+    "owner": {
+      "id": 129586825,
+      "url": "https://api.github.com/users/anandprtp",
+      "html_url": "https://github.com/anandprtp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129586825?v=4"
+    },
+    "html_url": "https://github.com/anandprtp/Antra",
+    "description": "A desktop music library builder. Resolves Spotify / Apple Music / Amazon Music URLs → get lossless audio → auto-tags, transcodes, and organizes. No subscriptions. No compromises.",
+    "created_at": "2026-04-03T21:33:10Z",
+    "updated_at": "2026-04-22T00:27:59Z",
+    "pushed_at": "2026-04-19T00:47:37Z",
+    "git_url": "git://github.com/anandprtp/Antra.git",
+    "homepage": "",
+    "size": 2249,
+    "stargazers_count": 638,
+    "watchers_count": 638,
+    "language": "Python",
+    "forks_count": 34,
+    "open_issues_count": 11
+  },
+  {
+    "id": 1214309735,
+    "name": "ByeByeVPN",
+    "owner": {
+      "id": 276111476,
+      "url": "https://api.github.com/users/pwnnex",
+      "html_url": "https://github.com/pwnnex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/276111476?v=4"
+    },
+    "html_url": "https://github.com/pwnnex/ByeByeVPN",
+    "description": "Full TSPU/DPI/VPN detectability scanner. Scan any IP as a censor sees it.",
+    "created_at": "2026-04-18T11:55:19Z",
+    "updated_at": "2026-04-21T17:50:48Z",
+    "pushed_at": "2026-04-21T03:01:07Z",
+    "git_url": "git://github.com/pwnnex/ByeByeVPN.git",
+    "homepage": null,
+    "size": 3741,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": "C++",
+    "forks_count": 2,
+    "open_issues_count": 1
   }
 ]
