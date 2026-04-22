@@ -26402,5 +26402,51 @@
     "language": "C",
     "forks_count": 10,
     "open_issues_count": 0
+  },
+  {
+    "id": 1206553433,
+    "name": "CubeSandbox",
+    "owner": {
+      "id": 20101770,
+      "url": "https://api.github.com/users/TencentCloud",
+      "html_url": "https://github.com/TencentCloud",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20101770?v=4"
+    },
+    "html_url": "https://github.com/TencentCloud/CubeSandbox",
+    "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+    "created_at": "2026-04-10T03:00:31Z",
+    "updated_at": "2026-04-21T18:30:30Z",
+    "pushed_at": "2026-04-21T07:29:47Z",
+    "git_url": "git://github.com/TencentCloud/CubeSandbox.git",
+    "homepage": "https://docs.cubesandbox.ai/",
+    "size": 8546,
+    "stargazers_count": 633,
+    "watchers_count": 633,
+    "language": "Rust",
+    "forks_count": 48,
+    "open_issues_count": 10
+  },
+  {
+    "id": 1215335995,
+    "name": "claudecode-harness",
+    "owner": {
+      "id": 277540979,
+      "url": "https://api.github.com/users/anothervibecoder-s",
+      "html_url": "https://github.com/anothervibecoder-s",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277540979?v=4"
+    },
+    "html_url": "https://github.com/anothervibecoder-s/claudecode-harness",
+    "description": "Production-grade orchestration harness for Claude Code — Context discipline, subagents, and multi-model consensus.",
+    "created_at": "2026-04-19T19:30:56Z",
+    "updated_at": "2026-04-21T23:03:09Z",
+    "pushed_at": "2026-04-19T19:34:08Z",
+    "git_url": "git://github.com/anothervibecoder-s/claudecode-harness.git",
+    "homepage": null,
+    "size": 6,
+    "stargazers_count": 78,
+    "watchers_count": 78,
+    "language": null,
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
