@@ -26977,5 +26977,28 @@
     "language": "TypeScript",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1214423832,
+    "name": "CyberVerse",
+    "owner": {
+      "id": 60881537,
+      "url": "https://api.github.com/users/dsd2077",
+      "html_url": "https://github.com/dsd2077",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60881537?v=4"
+    },
+    "html_url": "https://github.com/dsd2077/CyberVerse",
+    "description": "CyberVerse is an open-source digital human agent platform with real-time video calling. Create an AI agent you can see and talk to, face to face, just like a video call.",
+    "created_at": "2026-04-18T15:00:11Z",
+    "updated_at": "2026-04-21T17:22:49Z",
+    "pushed_at": "2026-04-21T14:00:17Z",
+    "git_url": "git://github.com/dsd2077/CyberVerse.git",
+    "homepage": "",
+    "size": 2900,
+    "stargazers_count": 69,
+    "watchers_count": 69,
+    "language": "Python",
+    "forks_count": 9,
+    "open_issues_count": 0
   }
 ]
