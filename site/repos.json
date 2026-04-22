@@ -27069,5 +27069,28 @@
     "language": "Swift",
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1214158136,
+    "name": "CodeDefenderAnalysis",
+    "owner": {
+      "id": 277160219,
+      "url": "https://api.github.com/users/unrustled-jimmies",
+      "html_url": "https://github.com/unrustled-jimmies",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277160219?v=4"
+    },
+    "html_url": "https://github.com/unrustled-jimmies/CodeDefenderAnalysis",
+    "description": "An analysis and static deobfuscation of codedefender.io protected samples. ",
+    "created_at": "2026-04-18T07:35:20Z",
+    "updated_at": "2026-04-21T17:49:14Z",
+    "pushed_at": "2026-04-18T07:36:57Z",
+    "git_url": "git://github.com/unrustled-jimmies/CodeDefenderAnalysis.git",
+    "homepage": null,
+    "size": 9320,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": null,
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
