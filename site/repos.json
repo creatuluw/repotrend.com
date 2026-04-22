@@ -26954,5 +26954,28 @@
     "language": "TypeScript",
     "forks_count": 19,
     "open_issues_count": 0
+  },
+  {
+    "id": 1215169585,
+    "name": "Solace",
+    "owner": {
+      "id": 67504754,
+      "url": "https://api.github.com/users/domye",
+      "html_url": "https://github.com/domye",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67504754?v=4"
+    },
+    "html_url": "https://github.com/domye/Solace",
+    "description": "Solace - 基于 Go + React + TypeScript + PostgreSQL 的全栈博客系统。支持 Markdown 编辑、相册管理、深色模式、SEO 优化、Docker 部署。采用整洁架构，适合个人博客、技术博客、开发者作品集。MIT 开源，生产就绪",
+    "created_at": "2026-04-19T15:15:39Z",
+    "updated_at": "2026-04-21T16:37:15Z",
+    "pushed_at": "2026-04-21T10:04:06Z",
+    "git_url": "git://github.com/domye/Solace.git",
+    "homepage": "https://blog.domye.top",
+    "size": 28540,
+    "stargazers_count": 91,
+    "watchers_count": 91,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
