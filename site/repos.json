@@ -27092,5 +27092,51 @@
     "language": null,
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1215868605,
+    "name": "MasterHttpRelayVPN",
+    "owner": {
+      "id": 1076030,
+      "url": "https://api.github.com/users/masterking32",
+      "html_url": "https://github.com/masterking32",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1076030?v=4"
+    },
+    "html_url": "https://github.com/masterking32/MasterHttpRelayVPN",
+    "description": null,
+    "created_at": "2026-04-20T10:32:26Z",
+    "updated_at": "2026-04-22T18:26:07Z",
+    "pushed_at": "2026-04-22T15:44:05Z",
+    "git_url": "git://github.com/masterking32/MasterHttpRelayVPN.git",
+    "homepage": "https://t.me/masterdnsvpn",
+    "size": 242,
+    "stargazers_count": 628,
+    "watchers_count": 628,
+    "language": "Python",
+    "forks_count": 54,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1214242192,
+    "name": "Astral_Projection",
+    "owner": {
+      "id": 179195704,
+      "url": "https://api.github.com/users/KuwaitiSt",
+      "html_url": "https://github.com/KuwaitiSt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/179195704?v=4"
+    },
+    "html_url": "https://github.com/KuwaitiSt/Astral_Projection",
+    "description": null,
+    "created_at": "2026-04-18T09:57:33Z",
+    "updated_at": "2026-04-20T22:02:33Z",
+    "pushed_at": "2026-04-20T05:26:51Z",
+    "git_url": "git://github.com/KuwaitiSt/Astral_Projection.git",
+    "homepage": null,
+    "size": 34,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "C",
+    "forks_count": 8,
+    "open_issues_count": 0
   }
 ]
