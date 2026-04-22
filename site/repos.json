@@ -26379,5 +26379,28 @@
     "language": "Python",
     "forks_count": 36,
     "open_issues_count": 1
+  },
+  {
+    "id": 1214260561,
+    "name": "kpm-panda-hide",
+    "owner": {
+      "id": 9513384,
+      "url": "https://api.github.com/users/P4nda0s",
+      "html_url": "https://github.com/P4nda0s",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9513384?v=4"
+    },
+    "html_url": "https://github.com/P4nda0s/kpm-panda-hide",
+    "description": "(kpm) (for Android hackers)Hide your frida and debuggers",
+    "created_at": "2026-04-18T10:29:08Z",
+    "updated_at": "2026-04-21T16:10:56Z",
+    "pushed_at": "2026-04-18T10:37:56Z",
+    "git_url": "git://github.com/P4nda0s/kpm-panda-hide.git",
+    "homepage": null,
+    "size": 15,
+    "stargazers_count": 59,
+    "watchers_count": 59,
+    "language": "C",
+    "forks_count": 10,
+    "open_issues_count": 0
   }
 ]
