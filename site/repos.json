@@ -26517,5 +26517,51 @@
     "language": "Python",
     "forks_count": 7,
     "open_issues_count": 3
+  },
+  {
+    "id": 1195165448,
+    "name": "abtop",
+    "owner": {
+      "id": 10525011,
+      "url": "https://api.github.com/users/graykode",
+      "html_url": "https://github.com/graykode",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10525011?v=4"
+    },
+    "html_url": "https://github.com/graykode/abtop",
+    "description": "Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.",
+    "created_at": "2026-03-29T10:12:20Z",
+    "updated_at": "2026-04-21T22:49:33Z",
+    "pushed_at": "2026-04-21T12:19:53Z",
+    "git_url": "git://github.com/graykode/abtop.git",
+    "homepage": "",
+    "size": 16716,
+    "stargazers_count": 628,
+    "watchers_count": 628,
+    "language": "Rust",
+    "forks_count": 63,
+    "open_issues_count": 16
+  },
+  {
+    "id": 1216704492,
+    "name": "polymarket-copy-trading-bot",
+    "owner": {
+      "id": 277802097,
+      "url": "https://api.github.com/users/QuantBots-Collective",
+      "html_url": "https://github.com/QuantBots-Collective",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277802097?v=4"
+    },
+    "html_url": "https://github.com/QuantBots-Collective/polymarket-copy-trading-bot",
+    "description": "polymarket copy trading bot, polymarket trading bot,polymarket copy trading bot, polymarket trading bot,polymarket copy trading bot, polymarket trading bot,polymarket copy trading bot, polymarket trading bot,polymarket copy trading bot, polymarket trading bot,polymarket copy trading bot, polymarket trading bot ",
+    "created_at": "2026-04-21T06:48:11Z",
+    "updated_at": "2026-04-21T18:28:43Z",
+    "pushed_at": "2026-04-21T06:49:38Z",
+    "git_url": "git://github.com/QuantBots-Collective/polymarket-copy-trading-bot.git",
+    "homepage": "https://polymarket.com/profile/0xf38190909d9f72d4d3274dc5fa51ad8e42ca2b5d",
+    "size": 1033,
+    "stargazers_count": 90,
+    "watchers_count": 90,
+    "language": "TypeScript",
+    "forks_count": 70,
+    "open_issues_count": 0
   }
 ]
