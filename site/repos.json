@@ -26724,5 +26724,28 @@
     "language": "Swift",
     "forks_count": 12,
     "open_issues_count": 1
+  },
+  {
+    "id": 1215048812,
+    "name": "free-proxy-nodes",
+    "owner": {
+      "id": 181808767,
+      "url": "https://api.github.com/users/littlebais",
+      "html_url": "https://github.com/littlebais",
+      "avatar_url": "https://avatars.githubusercontent.com/u/181808767?v=4"
+    },
+    "html_url": "https://github.com/littlebais/free-proxy-nodes",
+    "description": "免费节点/节点池 订阅器聚合 每日更新 Free proxy nodes, V2Ray / Clash / SSR / Trojan subscriptions, daily updated node pool, fast and stable access.",
+    "created_at": "2026-04-19T12:12:38Z",
+    "updated_at": "2026-04-21T14:37:47Z",
+    "pushed_at": "2026-04-20T04:47:37Z",
+    "git_url": "git://github.com/littlebais/free-proxy-nodes.git",
+    "homepage": "https://love.zshabai.top/",
+    "size": 11,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": null,
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
