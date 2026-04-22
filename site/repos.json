@@ -26793,5 +26793,51 @@
     "language": "Python",
     "forks_count": 6,
     "open_issues_count": 1
+  },
+  {
+    "id": 1214105808,
+    "name": "gpt2api",
+    "owner": {
+      "id": 22024444,
+      "url": "https://api.github.com/users/432539",
+      "html_url": "https://github.com/432539",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22024444?v=4"
+    },
+    "html_url": "https://github.com/432539/gpt2api",
+    "description": "基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · GPT-IMAGE-2 稳定 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446",
+    "created_at": "2026-04-18T06:02:44Z",
+    "updated_at": "2026-04-22T06:45:39Z",
+    "pushed_at": "2026-04-18T08:34:58Z",
+    "git_url": "git://github.com/432539/gpt2api.git",
+    "homepage": "",
+    "size": 6415,
+    "stargazers_count": 655,
+    "watchers_count": 655,
+    "language": "Go",
+    "forks_count": 175,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1217082174,
+    "name": "Lossless-Scaling-3.2.2-Desktop",
+    "owner": {
+      "id": 38142238,
+      "url": "https://api.github.com/users/Olivier1K",
+      "html_url": "https://github.com/Olivier1K",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38142238?v=4"
+    },
+    "html_url": "https://github.com/Olivier1K/Lossless-Scaling-3.2.2-Desktop",
+    "description": "Download Lossless Scaling is a powerful Windows tool for perfect upscaling and frame generation. Enjoy crisp integer scaling, AI-powered LSFG that can double or triple your FPS, and support for all major graphics APIs. Ideal for retro games, emulators, and modern titles. ",
+    "created_at": "2026-04-21T14:24:58Z",
+    "updated_at": "2026-04-22T06:46:17Z",
+    "pushed_at": "2026-04-21T14:35:05Z",
+    "git_url": "git://github.com/Olivier1K/Lossless-Scaling-3.2.2-Desktop.git",
+    "homepage": "",
+    "size": 41,
+    "stargazers_count": 80,
+    "watchers_count": 80,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
