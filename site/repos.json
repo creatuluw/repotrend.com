@@ -27345,5 +27345,51 @@
     "language": "JavaScript",
     "forks_count": 6,
     "open_issues_count": 1
+  },
+  {
+    "id": 1196248606,
+    "name": "sast-skills",
+    "owner": {
+      "id": 3511458,
+      "url": "https://api.github.com/users/utkusen",
+      "html_url": "https://github.com/utkusen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3511458?v=4"
+    },
+    "html_url": "https://github.com/utkusen/sast-skills",
+    "description": "Collection of agent skills that turn your AI coder into a SAST scanner",
+    "created_at": "2026-03-30T14:11:49Z",
+    "updated_at": "2026-04-22T22:35:12Z",
+    "pushed_at": "2026-04-08T14:45:56Z",
+    "git_url": "git://github.com/utkusen/sast-skills.git",
+    "homepage": "",
+    "size": 5291,
+    "stargazers_count": 618,
+    "watchers_count": 618,
+    "language": null,
+    "forks_count": 29,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1216131824,
+    "name": "MultiWorld",
+    "owner": {
+      "id": 96377955,
+      "url": "https://api.github.com/users/CIntellifusion",
+      "html_url": "https://github.com/CIntellifusion",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96377955?v=4"
+    },
+    "html_url": "https://github.com/CIntellifusion/MultiWorld",
+    "description": "Official Implementation of MultiWorld: Scalable Multi-Agent Multi-View Video World Models",
+    "created_at": "2026-04-20T15:45:46Z",
+    "updated_at": "2026-04-21T18:24:44Z",
+    "pushed_at": "2026-04-21T13:23:06Z",
+    "git_url": "git://github.com/CIntellifusion/MultiWorld.git",
+    "homepage": "https://multi-world.github.io/",
+    "size": 1702,
+    "stargazers_count": 74,
+    "watchers_count": 74,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 1
   }
 ]
