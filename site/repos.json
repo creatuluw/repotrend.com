@@ -27828,5 +27828,28 @@
     "language": "TypeScript",
     "forks_count": 17,
     "open_issues_count": 8
+  },
+  {
+    "id": 1216929640,
+    "name": "demo-issue-tracker",
+    "owner": {
+      "id": 29451794,
+      "url": "https://api.github.com/users/lydiahallie",
+      "html_url": "https://github.com/lydiahallie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29451794?v=4"
+    },
+    "html_url": "https://github.com/lydiahallie/demo-issue-tracker",
+    "description": null,
+    "created_at": "2026-04-21T11:24:59Z",
+    "updated_at": "2026-04-23T00:12:03Z",
+    "pushed_at": "2026-04-21T19:06:01Z",
+    "git_url": "git://github.com/lydiahallie/demo-issue-tracker.git",
+    "homepage": null,
+    "size": 18,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "TypeScript",
+    "forks_count": 44,
+    "open_issues_count": 2
   }
 ]
