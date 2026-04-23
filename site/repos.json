@@ -27736,5 +27736,51 @@
     "language": "QML",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1214488641,
+    "name": "oransim",
+    "owner": {
+      "id": 237740540,
+      "url": "https://api.github.com/users/OranAi-Ltd",
+      "html_url": "https://github.com/OranAi-Ltd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/237740540?v=4"
+    },
+    "html_url": "https://github.com/OranAi-Ltd/oransim",
+    "description": "Causal Digital Twin for Marketing at Scale · Predict any marketing decision before you spend a dollar.",
+    "created_at": "2026-04-18T16:40:44Z",
+    "updated_at": "2026-04-23T12:22:49Z",
+    "pushed_at": "2026-04-22T08:22:01Z",
+    "git_url": "git://github.com/OranAi-Ltd/oransim.git",
+    "homepage": "https://oran.cn/oransim",
+    "size": 7482,
+    "stargazers_count": 639,
+    "watchers_count": 639,
+    "language": "Python",
+    "forks_count": 85,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1216767127,
+    "name": "intro-agentic-ai",
+    "owner": {
+      "id": 555062,
+      "url": "https://api.github.com/users/riverscn",
+      "html_url": "https://github.com/riverscn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/555062?v=4"
+    },
+    "html_url": "https://github.com/riverscn/intro-agentic-ai",
+    "description": "认识 Agentic AI：从神经网络到智能体",
+    "created_at": "2026-04-21T08:03:14Z",
+    "updated_at": "2026-04-22T16:36:27Z",
+    "pushed_at": "2026-04-22T06:46:59Z",
+    "git_url": "git://github.com/riverscn/intro-agentic-ai.git",
+    "homepage": "https://intro-agentic-ai.lishun.me",
+    "size": 8946,
+    "stargazers_count": 60,
+    "watchers_count": 60,
+    "language": "CSS",
+    "forks_count": 12,
+    "open_issues_count": 0
   }
 ]
