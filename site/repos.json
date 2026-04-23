@@ -27437,5 +27437,28 @@
     "language": "TypeScript",
     "forks_count": 206,
     "open_issues_count": 0
+  },
+  {
+    "id": 1214541835,
+    "name": "ui",
+    "owner": {
+      "id": 32670628,
+      "url": "https://api.github.com/users/pacifio",
+      "html_url": "https://github.com/pacifio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32670628?v=4"
+    },
+    "html_url": "https://github.com/pacifio/ui",
+    "description": "The shadcn for agent UI. A framework-agnostic design language for dense, AMOLED-black, multi-surface interfaces",
+    "created_at": "2026-04-18T18:06:04Z",
+    "updated_at": "2026-04-21T15:16:55Z",
+    "pushed_at": "2026-04-19T03:58:27Z",
+    "git_url": "git://github.com/pacifio/ui.git",
+    "homepage": "https://ui.pacifio.dev/",
+    "size": 1332,
+    "stargazers_count": 67,
+    "watchers_count": 67,
+    "language": "TypeScript",
+    "forks_count": 14,
+    "open_issues_count": 0
   }
 ]
