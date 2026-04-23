@@ -27851,5 +27851,28 @@
     "language": "TypeScript",
     "forks_count": 44,
     "open_issues_count": 2
+  },
+  {
+    "id": 1214464768,
+    "name": "LazyPi",
+    "owner": {
+      "id": 290616,
+      "url": "https://api.github.com/users/robzolkos",
+      "html_url": "https://github.com/robzolkos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/290616?v=4"
+    },
+    "html_url": "https://github.com/robzolkos/LazyPi",
+    "description": "Pi coding agent setup for the lazy",
+    "created_at": "2026-04-18T16:02:41Z",
+    "updated_at": "2026-04-21T18:21:49Z",
+    "pushed_at": "2026-04-21T18:21:56Z",
+    "git_url": "git://github.com/robzolkos/LazyPi.git",
+    "homepage": "https://lazypi.org",
+    "size": 241,
+    "stargazers_count": 78,
+    "watchers_count": 78,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 1
   }
 ]
