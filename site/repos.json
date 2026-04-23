@@ -27690,5 +27690,51 @@
     "language": "Python",
     "forks_count": 35,
     "open_issues_count": 0
+  },
+  {
+    "id": 1212562200,
+    "name": "awesome-gpt-image-2",
+    "owner": {
+      "id": 245655810,
+      "url": "https://api.github.com/users/YouMind-OpenLab",
+      "html_url": "https://github.com/YouMind-OpenLab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/245655810?v=4"
+    },
+    "html_url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2",
+    "description": "🚀 Curated GPT Image 2 prompt library — OpenAI's next-gen image model with pixel-perfect text rendering, cross-image consistency, and commercial-grade illustration. 16 languages. Free & open source.",
+    "created_at": "2026-04-16T13:57:42Z",
+    "updated_at": "2026-04-23T12:30:02Z",
+    "pushed_at": "2026-04-23T01:29:23Z",
+    "git_url": "git://github.com/YouMind-OpenLab/awesome-gpt-image-2.git",
+    "homepage": "https://youmind.com/gpt-image-2-prompts",
+    "size": 12013,
+    "stargazers_count": 718,
+    "watchers_count": 718,
+    "language": "TypeScript",
+    "forks_count": 73,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1215742463,
+    "name": "ActivSpot",
+    "owner": {
+      "id": 126353197,
+      "url": "https://api.github.com/users/Devvvmn",
+      "html_url": "https://github.com/Devvvmn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126353197?v=4"
+    },
+    "html_url": "https://github.com/Devvvmn/ActivSpot",
+    "description": "My vision for a dynamic island for Hyprland",
+    "created_at": "2026-04-20T08:00:03Z",
+    "updated_at": "2026-04-21T18:30:17Z",
+    "pushed_at": "2026-04-21T05:19:28Z",
+    "git_url": "git://github.com/Devvvmn/ActivSpot.git",
+    "homepage": null,
+    "size": 23363,
+    "stargazers_count": 64,
+    "watchers_count": 64,
+    "language": "QML",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
