@@ -27299,5 +27299,51 @@
     "language": "Rust",
     "forks_count": 7,
     "open_issues_count": 0
+  },
+  {
+    "id": 1200680436,
+    "name": "lucebox-hub",
+    "owner": {
+      "id": 252732698,
+      "url": "https://api.github.com/users/Luce-Org",
+      "html_url": "https://github.com/Luce-Org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/252732698?v=4"
+    },
+    "html_url": "https://github.com/Luce-Org/lucebox-hub",
+    "description": "Lucebox optimization hub: hand-tuned LLM inference, built for specific consumer hardware.",
+    "created_at": "2026-04-03T17:46:29Z",
+    "updated_at": "2026-04-23T00:49:21Z",
+    "pushed_at": "2026-04-22T15:45:38Z",
+    "git_url": "git://github.com/Luce-Org/lucebox-hub.git",
+    "homepage": "https://www.lucebox.com/blog",
+    "size": 3350,
+    "stargazers_count": 645,
+    "watchers_count": 645,
+    "language": "C++",
+    "forks_count": 51,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1215641367,
+    "name": "claude-code-design",
+    "owner": {
+      "id": 6900027,
+      "url": "https://api.github.com/users/bluzir",
+      "html_url": "https://github.com/bluzir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6900027?v=4"
+    },
+    "html_url": "https://github.com/bluzir/claude-code-design",
+    "description": "Claude Design reproduced for Claude Code — HTML decks, prototypes, design systems, animated videos via skills + starters + Chrome DevTools MCP",
+    "created_at": "2026-04-20T05:43:30Z",
+    "updated_at": "2026-04-21T16:39:12Z",
+    "pushed_at": "2026-04-20T07:49:07Z",
+    "git_url": "git://github.com/bluzir/claude-code-design.git",
+    "homepage": "",
+    "size": 96,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "JavaScript",
+    "forks_count": 6,
+    "open_issues_count": 1
   }
 ]
