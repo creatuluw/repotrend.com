@@ -27598,5 +27598,28 @@
     "language": "Python",
     "forks_count": 3,
     "open_issues_count": 3
+  },
+  {
+    "id": 1216500459,
+    "name": "cross-chain-arb-scanner",
+    "owner": {
+      "id": 211765427,
+      "url": "https://api.github.com/users/ciccoxnex",
+      "html_url": "https://github.com/ciccoxnex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/211765427?v=4"
+    },
+    "html_url": "https://github.com/ciccoxnex/cross-chain-arb-scanner",
+    "description": "bot using flash loan smart contract that scans multiple DEXs across different blockchains to find profitable price differences for WETH/LINK. It estimates real profit after fees, sends alerts, and can optionally execute trades",
+    "created_at": "2026-04-21T01:09:00Z",
+    "updated_at": "2026-04-21T16:02:24Z",
+    "pushed_at": "2026-04-21T01:15:55Z",
+    "git_url": "git://github.com/ciccoxnex/cross-chain-arb-scanner.git",
+    "homepage": "",
+    "size": 18,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
