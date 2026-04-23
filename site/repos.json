@@ -27621,5 +27621,51 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1209098380,
+    "name": "skills-manage",
+    "owner": {
+      "id": 188819461,
+      "url": "https://api.github.com/users/iamzhihuix",
+      "html_url": "https://github.com/iamzhihuix",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188819461?v=4"
+    },
+    "html_url": "https://github.com/iamzhihuix/skills-manage",
+    "description": "Desktop app to manage AI coding agent skills across Claude Code, Cursor, Gemini CLI, Codex, and 20+ platforms from one place.",
+    "created_at": "2026-04-13T05:03:06Z",
+    "updated_at": "2026-04-23T12:20:33Z",
+    "pushed_at": "2026-04-23T11:23:08Z",
+    "git_url": "git://github.com/iamzhihuix/skills-manage.git",
+    "homepage": "https://github.com/iamzhihuix/skills-manage/releases/latest",
+    "size": 14376,
+    "stargazers_count": 703,
+    "watchers_count": 703,
+    "language": "TypeScript",
+    "forks_count": 50,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1217040185,
+    "name": "freellmapi",
+    "owner": {
+      "id": 9307356,
+      "url": "https://api.github.com/users/tashfeenahmed",
+      "html_url": "https://github.com/tashfeenahmed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9307356?v=4"
+    },
+    "html_url": "https://github.com/tashfeenahmed/freellmapi",
+    "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.",
+    "created_at": "2026-04-21T13:38:59Z",
+    "updated_at": "2026-04-22T18:21:11Z",
+    "pushed_at": "2026-04-22T15:30:38Z",
+    "git_url": "git://github.com/tashfeenahmed/freellmapi.git",
+    "homepage": null,
+    "size": 1473,
+    "stargazers_count": 88,
+    "watchers_count": 88,
+    "language": "TypeScript",
+    "forks_count": 11,
+    "open_issues_count": 1
   }
 ]
