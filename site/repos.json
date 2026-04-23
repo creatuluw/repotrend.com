@@ -27805,5 +27805,28 @@
     "language": "JavaScript",
     "forks_count": 5,
     "open_issues_count": 2
+  },
+  {
+    "id": 1215473958,
+    "name": "ovo-local-llm",
+    "owner": {
+      "id": 266346610,
+      "url": "https://api.github.com/users/ovoment",
+      "html_url": "https://github.com/ovoment",
+      "avatar_url": "https://avatars.githubusercontent.com/u/266346610?v=4"
+    },
+    "html_url": "https://github.com/ovoment/ovo-local-llm",
+    "description": "A private Claude-Code-style coding agent for Apple Silicon — run chat, code, and local model workflows on-device. MLX-native, Ollama/OpenAI API compatible, zero API keys.",
+    "created_at": "2026-04-20T00:26:46Z",
+    "updated_at": "2026-04-21T18:03:27Z",
+    "pushed_at": "2026-04-21T18:03:24Z",
+    "git_url": "git://github.com/ovoment/ovo-local-llm.git",
+    "homepage": "https://ovoment.com",
+    "size": 5051,
+    "stargazers_count": 78,
+    "watchers_count": 78,
+    "language": "TypeScript",
+    "forks_count": 17,
+    "open_issues_count": 8
   }
 ]
