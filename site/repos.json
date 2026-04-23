@@ -27782,5 +27782,28 @@
     "language": "CSS",
     "forks_count": 12,
     "open_issues_count": 0
+  },
+  {
+    "id": 1215558376,
+    "name": "artblock",
+    "owner": {
+      "id": 26664687,
+      "url": "https://api.github.com/users/vuciv",
+      "html_url": "https://github.com/vuciv",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26664687?v=4"
+    },
+    "html_url": "https://github.com/vuciv/artblock",
+    "description": "Every ad on the internet, replaced with fine art from public museum and NASA collections.",
+    "created_at": "2026-04-20T03:15:35Z",
+    "updated_at": "2026-04-21T18:27:54Z",
+    "pushed_at": "2026-04-20T13:27:05Z",
+    "git_url": "git://github.com/vuciv/artblock.git",
+    "homepage": null,
+    "size": 39,
+    "stargazers_count": 87,
+    "watchers_count": 87,
+    "language": "JavaScript",
+    "forks_count": 5,
+    "open_issues_count": 2
   }
 ]
