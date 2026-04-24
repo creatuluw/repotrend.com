@@ -28058,5 +28058,28 @@
     "language": "TypeScript",
     "forks_count": 6,
     "open_issues_count": 2
+  },
+  {
+    "id": 1216729729,
+    "name": "vela",
+    "owner": {
+      "id": 276240428,
+      "url": "https://api.github.com/users/heider-x",
+      "html_url": "https://github.com/heider-x",
+      "avatar_url": "https://avatars.githubusercontent.com/u/276240428?v=4"
+    },
+    "html_url": "https://github.com/heider-x/vela",
+    "description": "AI-powered IDE for novel writing — local LLM + RAG, privacy-first, BYOK. For web fiction authors and creative writers.",
+    "created_at": "2026-04-21T07:15:36Z",
+    "updated_at": "2026-04-23T15:07:54Z",
+    "pushed_at": "2026-04-21T13:00:22Z",
+    "git_url": "git://github.com/heider-x/vela.git",
+    "homepage": "https://github.com/heider-x/vela",
+    "size": 92261,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": "TypeScript",
+    "forks_count": 18,
+    "open_issues_count": 2
   }
 ]
