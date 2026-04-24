@@ -27874,5 +27874,51 @@
     "language": "JavaScript",
     "forks_count": 2,
     "open_issues_count": 1
+  },
+  {
+    "id": 1213917906,
+    "name": "privacy-filter",
+    "owner": {
+      "id": 14957082,
+      "url": "https://api.github.com/users/openai",
+      "html_url": "https://github.com/openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "html_url": "https://github.com/openai/privacy-filter",
+    "description": "OpenAI Privacy Filter",
+    "created_at": "2026-04-17T22:49:09Z",
+    "updated_at": "2026-04-23T18:31:32Z",
+    "pushed_at": "2026-04-22T19:55:02Z",
+    "git_url": "git://github.com/openai/privacy-filter.git",
+    "homepage": null,
+    "size": 100,
+    "stargazers_count": 864,
+    "watchers_count": 864,
+    "language": "Python",
+    "forks_count": 66,
+    "open_issues_count": 12
+  },
+  {
+    "id": 1216417147,
+    "name": "code-overhaul-skill",
+    "owner": {
+      "id": 558128,
+      "url": "https://api.github.com/users/ehmo",
+      "html_url": "https://github.com/ehmo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/558128?v=4"
+    },
+    "html_url": "https://github.com/ehmo/code-overhaul-skill",
+    "description": "Opinionated, interactive health audit for a codebase.",
+    "created_at": "2026-04-20T22:10:58Z",
+    "updated_at": "2026-04-22T11:22:49Z",
+    "pushed_at": "2026-04-20T22:33:12Z",
+    "git_url": "git://github.com/ehmo/code-overhaul-skill.git",
+    "homepage": "",
+    "size": 35,
+    "stargazers_count": 64,
+    "watchers_count": 64,
+    "language": "Shell",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
