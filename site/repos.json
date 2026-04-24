@@ -28288,5 +28288,51 @@
     "language": null,
     "forks_count": 8,
     "open_issues_count": 0
+  },
+  {
+    "id": 1144520675,
+    "name": "free-claude-code",
+    "owner": {
+      "id": 20476625,
+      "url": "https://api.github.com/users/Alishahryar1",
+      "html_url": "https://github.com/Alishahryar1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20476625?v=4"
+    },
+    "html_url": "https://github.com/Alishahryar1/free-claude-code",
+    "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+    "created_at": "2026-01-28T19:02:30Z",
+    "updated_at": "2026-04-24T12:30:04Z",
+    "pushed_at": "2026-04-24T07:42:40Z",
+    "git_url": "git://github.com/Alishahryar1/free-claude-code.git",
+    "homepage": "",
+    "size": 1795,
+    "stargazers_count": 6723,
+    "watchers_count": 6723,
+    "language": "Python",
+    "forks_count": 1096,
+    "open_issues_count": 27
+  },
+  {
+    "id": 1217172099,
+    "name": "fancy-labs",
+    "owner": {
+      "id": 207987916,
+      "url": "https://api.github.com/users/Elshen7",
+      "html_url": "https://github.com/Elshen7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/207987916?v=4"
+    },
+    "html_url": "https://github.com/Elshen7/fancy-labs",
+    "description": "fancy-labs",
+    "created_at": "2026-04-21T16:05:58Z",
+    "updated_at": "2026-04-23T16:20:53Z",
+    "pushed_at": "2026-04-21T16:06:28Z",
+    "git_url": "git://github.com/Elshen7/fancy-labs.git",
+    "homepage": null,
+    "size": 1,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": null,
+    "forks_count": 40,
+    "open_issues_count": 0
   }
 ]
