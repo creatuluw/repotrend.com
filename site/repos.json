@@ -28472,5 +28472,28 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1217259573,
+    "name": "ChatGpt-Image-Studio",
+    "owner": {
+      "id": 278168632,
+      "url": "https://api.github.com/users/peiyizhi0724",
+      "html_url": "https://github.com/peiyizhi0724",
+      "avatar_url": "https://avatars.githubusercontent.com/u/278168632?v=4"
+    },
+    "html_url": "https://github.com/peiyizhi0724/ChatGpt-Image-Studio",
+    "description": null,
+    "created_at": "2026-04-21T17:52:08Z",
+    "updated_at": "2026-04-23T17:59:56Z",
+    "pushed_at": "2026-04-23T15:56:48Z",
+    "git_url": "git://github.com/peiyizhi0724/ChatGpt-Image-Studio.git",
+    "homepage": null,
+    "size": 3481,
+    "stargazers_count": 56,
+    "watchers_count": 56,
+    "language": "Go",
+    "forks_count": 17,
+    "open_issues_count": 0
   }
 ]
