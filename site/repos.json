@@ -28150,5 +28150,28 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1216896182,
+    "name": "USDT-Flasher",
+    "owner": {
+      "id": 278052648,
+      "url": "https://api.github.com/users/celentanelite",
+      "html_url": "https://github.com/celentanelite",
+      "avatar_url": "https://avatars.githubusercontent.com/u/278052648?v=4"
+    },
+    "html_url": "https://github.com/celentanelite/USDT-Flasher",
+    "description": "flash btc / eth / usdt / ltc sender 🔥 fake crypto sender 🔥 flash usdt flash btc sender flash bitcoin sender fake bitcoin sender fake ethereum sender flash crypto flash crypto flash btc eth usdt ltc fake crypto sender fake crypto sender fake crypto sender btc sender",
+    "created_at": "2026-04-21T10:41:50Z",
+    "updated_at": "2026-04-21T11:02:45Z",
+    "pushed_at": "2026-04-21T10:43:35Z",
+    "git_url": "git://github.com/celentanelite/USDT-Flasher.git",
+    "homepage": "https://nexusflash.cc.cd",
+    "size": 62,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": null,
+    "forks_count": 15,
+    "open_issues_count": 0
   }
 ]
