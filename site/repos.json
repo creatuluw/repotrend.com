@@ -27920,5 +27920,51 @@
     "language": "Shell",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1205375924,
+    "name": "hermes-desktop",
+    "owner": {
+      "id": 254021826,
+      "url": "https://api.github.com/users/dodo-reach",
+      "html_url": "https://github.com/dodo-reach",
+      "avatar_url": "https://avatars.githubusercontent.com/u/254021826?v=4"
+    },
+    "html_url": "https://github.com/dodo-reach/hermes-desktop",
+    "description": "A native Mac workspace for Hermes: real SSH, real terminal, real session data.",
+    "created_at": "2026-04-08T22:56:34Z",
+    "updated_at": "2026-04-23T23:40:34Z",
+    "pushed_at": "2026-04-21T13:22:54Z",
+    "git_url": "git://github.com/dodo-reach/hermes-desktop.git",
+    "homepage": "https://dodo-reach.github.io/hermes-desktop/",
+    "size": 24619,
+    "stargazers_count": 634,
+    "watchers_count": 634,
+    "language": "Swift",
+    "forks_count": 42,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1217224458,
+    "name": "Fake-Wallet-V5-2026",
+    "owner": {
+      "id": 277612702,
+      "url": "https://api.github.com/users/clairesukovich42551640493",
+      "html_url": "https://github.com/clairesukovich42551640493",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277612702?v=4"
+    },
+    "html_url": "https://github.com/clairesukovich42551640493/Fake-Wallet-V5-2026",
+    "description": "GUI Wallet Collection",
+    "created_at": "2026-04-21T17:08:29Z",
+    "updated_at": "2026-04-22T14:43:54Z",
+    "pushed_at": "2026-04-21T17:10:39Z",
+    "git_url": "git://github.com/clairesukovich42551640493/Fake-Wallet-V5-2026.git",
+    "homepage": "",
+    "size": 6,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
