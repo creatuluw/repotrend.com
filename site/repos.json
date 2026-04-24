@@ -28541,5 +28541,28 @@
     "language": "Rust",
     "forks_count": 4,
     "open_issues_count": 4
+  },
+  {
+    "id": 1219087723,
+    "name": "future-agi",
+    "owner": {
+      "id": 147392366,
+      "url": "https://api.github.com/users/future-agi",
+      "html_url": "https://github.com/future-agi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147392366?v=4"
+    },
+    "html_url": "https://github.com/future-agi/future-agi",
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
+    "created_at": "2026-04-23T14:11:31Z",
+    "updated_at": "2026-04-23T18:30:29Z",
+    "pushed_at": "2026-04-23T16:19:29Z",
+    "git_url": "git://github.com/future-agi/future-agi.git",
+    "homepage": "https://futureagi.com",
+    "size": 70529,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": "Python",
+    "forks_count": 16,
+    "open_issues_count": 1
   }
 ]
