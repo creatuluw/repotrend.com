@@ -28012,5 +28012,51 @@
     "language": "Python",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1205803474,
+    "name": "WindsurfAPI",
+    "owner": {
+      "id": 143298346,
+      "url": "https://api.github.com/users/dwgx",
+      "html_url": "https://github.com/dwgx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143298346?v=4"
+    },
+    "html_url": "https://github.com/dwgx/WindsurfAPI",
+    "description": "Windsurf-to-OpenAI compatible API proxy",
+    "created_at": "2026-04-09T09:42:05Z",
+    "updated_at": "2026-04-24T00:47:32Z",
+    "pushed_at": "2026-04-23T21:21:25Z",
+    "git_url": "git://github.com/dwgx/WindsurfAPI.git",
+    "homepage": "https://dwgx.github.io/WindsurfAPI/",
+    "size": 450,
+    "stargazers_count": 653,
+    "watchers_count": 653,
+    "language": "JavaScript",
+    "forks_count": 182,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1214660244,
+    "name": "rote-mappe",
+    "owner": {
+      "id": 17253334,
+      "url": "https://api.github.com/users/Alpha63",
+      "html_url": "https://github.com/Alpha63",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17253334?v=4"
+    },
+    "html_url": "https://github.com/Alpha63/rote-mappe",
+    "description": "rote-mappe",
+    "created_at": "2026-04-18T21:53:01Z",
+    "updated_at": "2026-04-21T12:38:57Z",
+    "pushed_at": "2026-04-21T12:38:53Z",
+    "git_url": "git://github.com/Alpha63/rote-mappe.git",
+    "homepage": null,
+    "size": 1556,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": "TypeScript",
+    "forks_count": 6,
+    "open_issues_count": 2
   }
 ]
