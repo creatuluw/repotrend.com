@@ -28173,5 +28173,28 @@
     "language": null,
     "forks_count": 15,
     "open_issues_count": 0
+  },
+  {
+    "id": 1218083477,
+    "name": "Tomodachi-Life-Living-The-Dream-PC",
+    "owner": {
+      "id": 121423487,
+      "url": "https://api.github.com/users/dadi1921",
+      "html_url": "https://github.com/dadi1921",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121423487?v=4"
+    },
+    "html_url": "https://github.com/dadi1921/Tomodachi-Life-Living-The-Dream-PC",
+    "description": "Tomodachi Life: Living the Dream PC Version is an optimized Windows port of the popular life simulation game. Create unique Miis, develop relationships, host concerts and events on your own island in high resolution. Features improved performance, widescreen support, smooth FPS",
+    "created_at": "2026-04-22T14:12:42Z",
+    "updated_at": "2026-04-23T17:43:55Z",
+    "pushed_at": "2026-04-22T14:20:26Z",
+    "git_url": "git://github.com/dadi1921/Tomodachi-Life-Living-The-Dream-PC.git",
+    "homepage": "",
+    "size": 57,
+    "stargazers_count": 86,
+    "watchers_count": 86,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 1
   }
 ]
