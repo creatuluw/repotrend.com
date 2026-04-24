@@ -28495,5 +28495,51 @@
     "language": "Go",
     "forks_count": 17,
     "open_issues_count": 0
+  },
+  {
+    "id": 1205137520,
+    "name": "agents-cli",
+    "owner": {
+      "id": 1342004,
+      "url": "https://api.github.com/users/google",
+      "html_url": "https://github.com/google",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1342004?v=4"
+    },
+    "html_url": "https://github.com/google/agents-cli",
+    "description": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
+    "created_at": "2026-04-08T17:09:55Z",
+    "updated_at": "2026-04-24T12:27:12Z",
+    "pushed_at": "2026-04-22T22:11:50Z",
+    "git_url": "git://github.com/google/agents-cli.git",
+    "homepage": "https://google.github.io/agents-cli/",
+    "size": 9644,
+    "stargazers_count": 873,
+    "watchers_count": 873,
+    "language": null,
+    "forks_count": 90,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1216470635,
+    "name": "resonators",
+    "owner": {
+      "id": 1100780,
+      "url": "https://api.github.com/users/jhartquist",
+      "html_url": "https://github.com/jhartquist",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1100780?v=4"
+    },
+    "html_url": "https://github.com/jhartquist/resonators",
+    "description": "Rust implementation of the Resonate algorithm for low-latency spectral analysis, with Python and WebAssembly bindings",
+    "created_at": "2026-04-21T00:06:26Z",
+    "updated_at": "2026-04-24T11:14:55Z",
+    "pushed_at": "2026-04-22T16:49:45Z",
+    "git_url": "git://github.com/jhartquist/resonators.git",
+    "homepage": "https://jhartquist.github.io/resonators/spectrogram",
+    "size": 1147,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": "Rust",
+    "forks_count": 4,
+    "open_issues_count": 4
   }
 ]
