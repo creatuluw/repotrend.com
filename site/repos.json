@@ -28081,5 +28081,28 @@
     "language": "TypeScript",
     "forks_count": 18,
     "open_issues_count": 2
+  },
+  {
+    "id": 1214821189,
+    "name": "omnyssh",
+    "owner": {
+      "id": 162906779,
+      "url": "https://api.github.com/users/timhartmann7",
+      "html_url": "https://github.com/timhartmann7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/162906779?v=4"
+    },
+    "html_url": "https://github.com/timhartmann7/omnyssh",
+    "description": null,
+    "created_at": "2026-04-19T05:02:19Z",
+    "updated_at": "2026-04-21T14:47:37Z",
+    "pushed_at": "2026-04-19T05:37:53Z",
+    "git_url": "git://github.com/timhartmann7/omnyssh.git",
+    "homepage": null,
+    "size": 1439,
+    "stargazers_count": 85,
+    "watchers_count": 85,
+    "language": "Rust",
+    "forks_count": 3,
+    "open_issues_count": 2
   }
 ]
