@@ -29139,5 +29139,28 @@
     "language": "TypeScript",
     "forks_count": 7,
     "open_issues_count": 1
+  },
+  {
+    "id": 1216785679,
+    "name": "reasonix",
+    "owner": {
+      "id": 18465053,
+      "url": "https://api.github.com/users/esengine",
+      "html_url": "https://github.com/esengine",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18465053?v=4"
+    },
+    "html_url": "https://github.com/esengine/reasonix",
+    "description": "DeepSeek-native agent framework: Cache-First Loop, R1 Thought Harvesting, Tool-Call Repair. TypeScript + Ink TUI.",
+    "created_at": "2026-04-21T08:27:02Z",
+    "updated_at": "2026-04-24T18:05:40Z",
+    "pushed_at": "2026-04-24T14:26:58Z",
+    "git_url": "git://github.com/esengine/reasonix.git",
+    "homepage": null,
+    "size": 4109,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
