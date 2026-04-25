@@ -29162,5 +29162,28 @@
     "language": "TypeScript",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1217345178,
+    "name": "ima2-gen",
+    "owner": {
+      "id": 243035832,
+      "url": "https://api.github.com/users/lidge-jun",
+      "html_url": "https://github.com/lidge-jun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/243035832?v=4"
+    },
+    "html_url": "https://github.com/lidge-jun/ima2-gen",
+    "description": "Minimal CLI + web UI for OpenAI GPT Image 2 generation. Dual auth: API Key (paid) or OAuth via ChatGPT (free). Text-to-image, image-to-image, parallel gen, custom sizes.",
+    "created_at": "2026-04-21T19:46:16Z",
+    "updated_at": "2026-04-24T17:07:27Z",
+    "pushed_at": "2026-04-24T17:07:22Z",
+    "git_url": "git://github.com/lidge-jun/ima2-gen.git",
+    "homepage": "https://www.npmjs.com/package/ima2-gen",
+    "size": 6573,
+    "stargazers_count": 62,
+    "watchers_count": 62,
+    "language": "JavaScript",
+    "forks_count": 12,
+    "open_issues_count": 0
   }
 ]
