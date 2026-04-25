@@ -29070,5 +29070,51 @@
     "language": "HTML",
     "forks_count": 1,
     "open_issues_count": 1
+  },
+  {
+    "id": 1215145625,
+    "name": "huashu-design",
+    "owner": {
+      "id": 127714341,
+      "url": "https://api.github.com/users/alchaincyf",
+      "html_url": "https://github.com/alchaincyf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
+    },
+    "html_url": "https://github.com/alchaincyf/huashu-design",
+    "description": "Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic",
+    "created_at": "2026-04-19T14:42:06Z",
+    "updated_at": "2026-04-25T12:16:14Z",
+    "pushed_at": "2026-04-21T16:13:41Z",
+    "git_url": "git://github.com/alchaincyf/huashu-design.git",
+    "homepage": null,
+    "size": 222494,
+    "stargazers_count": 6299,
+    "watchers_count": 6299,
+    "language": "HTML",
+    "forks_count": 970,
+    "open_issues_count": 9
+  },
+  {
+    "id": 1220123182,
+    "name": "Lossless-Scaling-FPS-Upcaler-Desktop",
+    "owner": {
+      "id": 110728542,
+      "url": "https://api.github.com/users/vivek772",
+      "html_url": "https://github.com/vivek772",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110728542?v=4"
+    },
+    "html_url": "https://github.com/vivek772/Lossless-Scaling-FPS-Upcaler-Desktop",
+    "description": "Lossless Scaling is a professional Windows utility for universal frame generation and spatial upscaling. Featuring LSFG 3.1 (X2/X3/X4) and LS1 algorithms, it ensures high-fidelity motion and sharp visuals on any GPU. Designed for stability and low latency in modern 2026 gaming environments.",
+    "created_at": "2026-04-24T15:11:38Z",
+    "updated_at": "2026-04-25T12:17:34Z",
+    "pushed_at": "2026-04-24T15:21:51Z",
+    "git_url": "git://github.com/vivek772/Lossless-Scaling-FPS-Upcaler-Desktop.git",
+    "homepage": "",
+    "size": 42,
+    "stargazers_count": 93,
+    "watchers_count": 93,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
