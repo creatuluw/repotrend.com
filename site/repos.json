@@ -29231,5 +29231,28 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1218111972,
+    "name": "Create-Aeronautics-Minecraft-Mod-ALL-Versions",
+    "owner": {
+      "id": 78299231,
+      "url": "https://api.github.com/users/furukola",
+      "html_url": "https://github.com/furukola",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78299231?v=4"
+    },
+    "html_url": "https://github.com/furukola/Create-Aeronautics-Minecraft-Mod-ALL-Versions",
+    "description": "Create Aeronautics is an advanced aviation expansion for the Create Mod. It introduces real-world physics and aerodynamics to Minecraft. Build functional airships and planes with realistic lift and mechanical integration. Experience the ultimate engineering challenge in the skies of 2026.",
+    "created_at": "2026-04-22T14:44:13Z",
+    "updated_at": "2026-04-23T17:48:44Z",
+    "pushed_at": "2026-04-22T14:50:14Z",
+    "git_url": "git://github.com/furukola/Create-Aeronautics-Minecraft-Mod-ALL-Versions.git",
+    "homepage": "",
+    "size": 59,
+    "stargazers_count": 89,
+    "watchers_count": 89,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
