@@ -29024,5 +29024,51 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1198445970,
+    "name": "ai-agent-interview-guide",
+    "owner": {
+      "id": 117700907,
+      "url": "https://api.github.com/users/bcefghj",
+      "html_url": "https://github.com/bcefghj",
+      "avatar_url": "https://avatars.githubusercontent.com/u/117700907?v=4"
+    },
+    "html_url": "https://github.com/bcefghj/ai-agent-interview-guide",
+    "description": "AI Agent 面试全攻略：从零到Offer，包含200+面试题、企业级项目(Python/Java/Go)、简历模板、STAR面试稿、哆啦A梦漫画图解",
+    "created_at": "2026-04-01T12:38:36Z",
+    "updated_at": "2026-04-25T11:55:57Z",
+    "pushed_at": "2026-04-01T12:38:52Z",
+    "git_url": "git://github.com/bcefghj/ai-agent-interview-guide.git",
+    "homepage": null,
+    "size": 10743,
+    "stargazers_count": 643,
+    "watchers_count": 643,
+    "language": "Python",
+    "forks_count": 79,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1215543161,
+    "name": "boj-archive",
+    "owner": {
+      "id": 91166097,
+      "url": "https://api.github.com/users/suinkimme",
+      "html_url": "https://github.com/suinkimme",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91166097?v=4"
+    },
+    "html_url": "https://github.com/suinkimme/boj-archive",
+    "description": "백준 온라인 저지(acmicpc.net) 서비스 종료에 따른 공익 목적 아카이브",
+    "created_at": "2026-04-20T02:47:01Z",
+    "updated_at": "2026-04-23T16:20:08Z",
+    "pushed_at": "2026-04-23T14:41:41Z",
+    "git_url": "git://github.com/suinkimme/boj-archive.git",
+    "homepage": null,
+    "size": 582788,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": "HTML",
+    "forks_count": 1,
+    "open_issues_count": 1
   }
 ]
