@@ -29116,5 +29116,28 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1218648699,
+    "name": "komari-theme-Lumina",
+    "owner": {
+      "id": 89149493,
+      "url": "https://api.github.com/users/stqfdyr",
+      "html_url": "https://github.com/stqfdyr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89149493?v=4"
+    },
+    "html_url": "https://github.com/stqfdyr/komari-theme-Lumina",
+    "description": "Komari theme",
+    "created_at": "2026-04-23T04:44:06Z",
+    "updated_at": "2026-04-25T12:04:57Z",
+    "pushed_at": "2026-04-24T13:52:10Z",
+    "git_url": "git://github.com/stqfdyr/komari-theme-Lumina.git",
+    "homepage": "https://tz.3301921.xyz/",
+    "size": 1797,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "TypeScript",
+    "forks_count": 7,
+    "open_issues_count": 1
   }
 ]
