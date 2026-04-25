@@ -28702,5 +28702,51 @@
     "language": "Python",
     "forks_count": 19,
     "open_issues_count": 0
+  },
+  {
+    "id": 1213049020,
+    "name": "browser-harness",
+    "owner": {
+      "id": 192012301,
+      "url": "https://api.github.com/users/browser-use",
+      "html_url": "https://github.com/browser-use",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192012301?v=4"
+    },
+    "html_url": "https://github.com/browser-use/browser-harness",
+    "description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
+    "created_at": "2026-04-17T01:56:15Z",
+    "updated_at": "2026-04-24T18:17:00Z",
+    "pushed_at": "2026-04-24T12:41:47Z",
+    "git_url": "git://github.com/browser-use/browser-harness.git",
+    "homepage": "https://browser-use.com",
+    "size": 917,
+    "stargazers_count": 6286,
+    "watchers_count": 6286,
+    "language": "Python",
+    "forks_count": 558,
+    "open_issues_count": 83
+  },
+  {
+    "id": 1216962366,
+    "name": "Delta-Executor-Version-Pro-2026",
+    "owner": {
+      "id": 277597381,
+      "url": "https://api.github.com/users/faysuentenfuss25467751359",
+      "html_url": "https://github.com/faysuentenfuss25467751359",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277597381?v=4"
+    },
+    "html_url": "https://github.com/faysuentenfuss25467751359/Delta-Executor-Version-Pro-2026",
+    "description": "The ultimate C++ collection of robust PC Luau executors, providing flawless script bridging and high-level UNC API performance. Engineered for seamless modern integration and unpatched runtime deployment. Awpgg executor, xeno executor, solara executor, velocity executor.",
+    "created_at": "2026-04-21T12:06:58Z",
+    "updated_at": "2026-04-22T14:44:04Z",
+    "pushed_at": "2026-04-21T17:01:50Z",
+    "git_url": "git://github.com/faysuentenfuss25467751359/Delta-Executor-Version-Pro-2026.git",
+    "homepage": "",
+    "size": 15,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
