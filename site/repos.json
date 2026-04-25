@@ -28748,5 +28748,74 @@
     "language": "HTML",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1207222725,
+    "name": "design.md",
+    "owner": {
+      "id": 161364575,
+      "url": "https://api.github.com/users/google-labs-code",
+      "html_url": "https://github.com/google-labs-code",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161364575?v=4"
+    },
+    "html_url": "https://github.com/google-labs-code/design.md",
+    "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+    "created_at": "2026-04-10T17:54:59Z",
+    "updated_at": "2026-04-24T18:18:58Z",
+    "pushed_at": "2026-04-22T18:22:35Z",
+    "git_url": "git://github.com/google-labs-code/design.md.git",
+    "homepage": "https://stitch.withgoogle.com/docs/design-md/specification",
+    "size": 173,
+    "stargazers_count": 7099,
+    "watchers_count": 7099,
+    "language": "TypeScript",
+    "forks_count": 575,
+    "open_issues_count": 26
+  },
+  {
+    "id": 1191383681,
+    "name": "spinel",
+    "owner": {
+      "id": 30733,
+      "url": "https://api.github.com/users/matz",
+      "html_url": "https://github.com/matz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30733?v=4"
+    },
+    "html_url": "https://github.com/matz/spinel",
+    "description": null,
+    "created_at": "2026-03-25T07:29:02Z",
+    "updated_at": "2026-04-24T18:17:47Z",
+    "pushed_at": "2026-04-24T17:35:22Z",
+    "git_url": "git://github.com/matz/spinel.git",
+    "homepage": null,
+    "size": 3441,
+    "stargazers_count": 822,
+    "watchers_count": 822,
+    "language": "Ruby",
+    "forks_count": 9,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1219536599,
+    "name": "sig-releases",
+    "owner": {
+      "id": 51287110,
+      "url": "https://api.github.com/users/adamjramirez",
+      "html_url": "https://github.com/adamjramirez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51287110?v=4"
+    },
+    "html_url": "https://github.com/adamjramirez/sig-releases",
+    "description": "Sig — Your AI finally knows what's going on at work",
+    "created_at": "2026-04-24T01:19:14Z",
+    "updated_at": "2026-04-24T18:19:38Z",
+    "pushed_at": "2026-04-24T01:19:20Z",
+    "git_url": "git://github.com/adamjramirez/sig-releases.git",
+    "homepage": null,
+    "size": 221,
+    "stargazers_count": 55,
+    "watchers_count": 55,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 2
   }
 ]
