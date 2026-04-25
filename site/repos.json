@@ -28610,5 +28610,51 @@
     "language": "JavaScript",
     "forks_count": 16,
     "open_issues_count": 4
+  },
+  {
+    "id": 1214741287,
+    "name": "cc-design",
+    "owner": {
+      "id": 12062960,
+      "url": "https://api.github.com/users/ZeroZ-lab",
+      "html_url": "https://github.com/ZeroZ-lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12062960?v=4"
+    },
+    "html_url": "https://github.com/ZeroZ-lab/cc-design",
+    "description": "High-fidelity HTML design and prototype guidance skill for AI agents",
+    "created_at": "2026-04-19T01:35:57Z",
+    "updated_at": "2026-04-24T23:14:29Z",
+    "pushed_at": "2026-04-22T23:14:24Z",
+    "git_url": "git://github.com/ZeroZ-lab/cc-design.git",
+    "homepage": null,
+    "size": 17010,
+    "stargazers_count": 628,
+    "watchers_count": 628,
+    "language": "JavaScript",
+    "forks_count": 66,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1218626538,
+    "name": "binance-alpha-monitor",
+    "owner": {
+      "id": 278578277,
+      "url": "https://api.github.com/users/connectfarm1",
+      "html_url": "https://github.com/connectfarm1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/278578277?v=4"
+    },
+    "html_url": "https://github.com/connectfarm1/binance-alpha-monitor",
+    "description": "币安 Alpha 首发上新自动监控 · AI分析叙事/VC/评级 · Telegram实时推送",
+    "created_at": "2026-04-23T04:02:03Z",
+    "updated_at": "2026-04-24T19:00:50Z",
+    "pushed_at": "2026-04-23T04:02:22Z",
+    "git_url": "git://github.com/connectfarm1/binance-alpha-monitor.git",
+    "homepage": null,
+    "size": 14,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "Python",
+    "forks_count": 29,
+    "open_issues_count": 1
   }
 ]
