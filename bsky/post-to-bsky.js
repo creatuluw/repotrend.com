@@ -13,7 +13,7 @@ const BSKY_HANDLE = process.env.BSKY_HANDLE;
 const BSKY_APP_PASSWORD = process.env.BSKY_APP_PASSWORD;
 
 // Base URL for the deployed repo pages
-const BASE_URL = "https://te9.dev/repotrend";
+const BASE_URL = "https://repotrend.com";
 const REPO_PAGES_URL = `${BASE_URL}/repo`;
 const OG_IMAGES_URL = `${BASE_URL}/og-images`;
 
