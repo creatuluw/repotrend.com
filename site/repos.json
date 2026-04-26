@@ -29599,5 +29599,51 @@
     "language": "Lua",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1196946534,
+    "name": "gnhf",
+    "owner": {
+      "id": 3233006,
+      "url": "https://api.github.com/users/kunchenguid",
+      "html_url": "https://github.com/kunchenguid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3233006?v=4"
+    },
+    "html_url": "https://github.com/kunchenguid/gnhf",
+    "description": "Before I go to bed, I tell my agents: good night, have fun",
+    "created_at": "2026-03-31T07:28:24Z",
+    "updated_at": "2026-04-26T06:17:57Z",
+    "pushed_at": "2026-04-26T06:09:38Z",
+    "git_url": "git://github.com/kunchenguid/gnhf.git",
+    "homepage": "",
+    "size": 3237,
+    "stargazers_count": 844,
+    "watchers_count": 844,
+    "language": "TypeScript",
+    "forks_count": 56,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1217588885,
+    "name": "Metis",
+    "owner": {
+      "id": 269360047,
+      "url": "https://api.github.com/users/l3gi0nXXXX",
+      "html_url": "https://github.com/l3gi0nXXXX",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269360047?v=4"
+    },
+    "html_url": "https://github.com/l3gi0nXXXX/Metis",
+    "description": null,
+    "created_at": "2026-04-22T03:11:34Z",
+    "updated_at": "2026-04-25T10:38:52Z",
+    "pushed_at": "2026-04-25T10:22:42Z",
+    "git_url": "git://github.com/l3gi0nXXXX/Metis.git",
+    "homepage": null,
+    "size": 12651,
+    "stargazers_count": 55,
+    "watchers_count": 55,
+    "language": "Cangjie",
+    "forks_count": 6,
+    "open_issues_count": 0
   }
 ]
