@@ -29898,5 +29898,28 @@
     "language": null,
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1219991616,
+    "name": "SX1262_CHIRP",
+    "owner": {
+      "id": 34072633,
+      "url": "https://api.github.com/users/ibelinp",
+      "html_url": "https://github.com/ibelinp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34072633?v=4"
+    },
+    "html_url": "https://github.com/ibelinp/SX1262_CHIRP",
+    "description": "LoRa chip into a coherent linear-FM chirp generator",
+    "created_at": "2026-04-24T12:37:32Z",
+    "updated_at": "2026-04-25T18:17:02Z",
+    "pushed_at": "2026-04-24T13:03:39Z",
+    "git_url": "git://github.com/ibelinp/SX1262_CHIRP.git",
+    "homepage": null,
+    "size": 1074,
+    "stargazers_count": 78,
+    "watchers_count": 78,
+    "language": "HTML",
+    "forks_count": 8,
+    "open_issues_count": 0
   }
 ]
