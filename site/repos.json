@@ -29392,5 +29392,28 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 2
+  },
+  {
+    "id": 1219504139,
+    "name": "free-llm-gateway",
+    "owner": {
+      "id": 73393700,
+      "url": "https://api.github.com/users/MrFadiAi",
+      "html_url": "https://github.com/MrFadiAi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73393700?v=4"
+    },
+    "html_url": "https://github.com/MrFadiAi/free-llm-gateway",
+    "description": "Unified OpenAI-compatible API gateway aggregating 14+ free LLM providers with automatic fallback routing, rate limit tracking, and web dashboard",
+    "created_at": "2026-04-24T00:14:38Z",
+    "updated_at": "2026-04-25T17:56:59Z",
+    "pushed_at": "2026-04-24T23:40:11Z",
+    "git_url": "git://github.com/MrFadiAi/free-llm-gateway.git",
+    "homepage": null,
+    "size": 169,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": "Python",
+    "forks_count": 10,
+    "open_issues_count": 0
   }
 ]
