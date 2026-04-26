@@ -29829,5 +29829,28 @@
     "language": "JavaScript",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1220720338,
+    "name": "windsurf-manager",
+    "owner": {
+      "id": 112743803,
+      "url": "https://api.github.com/users/YiKongk",
+      "html_url": "https://github.com/YiKongk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112743803?v=4"
+    },
+    "html_url": "https://github.com/YiKongk/windsurf-manager",
+    "description": null,
+    "created_at": "2026-04-25T08:37:07Z",
+    "updated_at": "2026-04-26T11:57:20Z",
+    "pushed_at": "2026-04-26T11:57:16Z",
+    "git_url": "git://github.com/YiKongk/windsurf-manager.git",
+    "homepage": null,
+    "size": 16,
+    "stargazers_count": 67,
+    "watchers_count": 67,
+    "language": "Python",
+    "forks_count": 18,
+    "open_issues_count": 0
   }
 ]
