@@ -29507,5 +29507,51 @@
     "language": "Swift",
     "forks_count": 22,
     "open_issues_count": 0
+  },
+  {
+    "id": 1195189059,
+    "name": "retain-pdf",
+    "owner": {
+      "id": 37659181,
+      "url": "https://api.github.com/users/wxyhgk",
+      "html_url": "https://github.com/wxyhgk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37659181?v=4"
+    },
+    "html_url": "https://github.com/wxyhgk/retain-pdf",
+    "description": "在保留版面、公式与结构的前提下进行 PDF 翻译，适用于科研与技术文档",
+    "created_at": "2026-03-29T10:55:41Z",
+    "updated_at": "2026-04-25T18:02:59Z",
+    "pushed_at": "2026-04-16T09:30:00Z",
+    "git_url": "git://github.com/wxyhgk/retain-pdf.git",
+    "homepage": "",
+    "size": 220183,
+    "stargazers_count": 633,
+    "watchers_count": 633,
+    "language": "Python",
+    "forks_count": 74,
+    "open_issues_count": 11
+  },
+  {
+    "id": 1217738320,
+    "name": "iFolder",
+    "owner": {
+      "id": 113743235,
+      "url": "https://api.github.com/users/wolfyxbt",
+      "html_url": "https://github.com/wolfyxbt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113743235?v=4"
+    },
+    "html_url": "https://github.com/wolfyxbt/iFolder",
+    "description": "在浏览器里自定义 macOS 文件夹图标的小工具，单文件 HTML，打开即用。",
+    "created_at": "2026-04-22T07:05:04Z",
+    "updated_at": "2026-04-25T17:38:13Z",
+    "pushed_at": "2026-04-23T09:01:24Z",
+    "git_url": "git://github.com/wolfyxbt/iFolder.git",
+    "homepage": "https://wolfyxbt.github.io/iFolder/",
+    "size": 330,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": "HTML",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
