@@ -29760,5 +29760,51 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1202549948,
+    "name": "obsidian-wiki",
+    "owner": {
+      "id": 29639685,
+      "url": "https://api.github.com/users/Ar9av",
+      "html_url": "https://github.com/Ar9av",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29639685?v=4"
+    },
+    "html_url": "https://github.com/Ar9av/obsidian-wiki",
+    "description": "Framework for AI agents to build and maintain an Obsidian wiki using Karpathy's LLM Wiki pattern",
+    "created_at": "2026-04-06T06:20:10Z",
+    "updated_at": "2026-04-25T18:07:37Z",
+    "pushed_at": "2026-04-24T17:01:29Z",
+    "git_url": "git://github.com/Ar9av/obsidian-wiki.git",
+    "homepage": "",
+    "size": 271,
+    "stargazers_count": 652,
+    "watchers_count": 652,
+    "language": "Python",
+    "forks_count": 87,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1216800612,
+    "name": "ascii-vision",
+    "owner": {
+      "id": 216317169,
+      "url": "https://api.github.com/users/ah4ddd",
+      "html_url": "https://github.com/ah4ddd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/216317169?v=4"
+    },
+    "html_url": "https://github.com/ah4ddd/ascii-vision",
+    "description": "Image-to-ASCII engine with real-time canvas rendering, neon effects, and custom tonal mapping",
+    "created_at": "2026-04-21T08:44:33Z",
+    "updated_at": "2026-04-23T14:17:03Z",
+    "pushed_at": "2026-04-23T07:22:09Z",
+    "git_url": "git://github.com/ah4ddd/ascii-vision.git",
+    "homepage": "https://ascii-vision-three.vercel.app",
+    "size": 34630,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "TypeScript",
+    "forks_count": 9,
+    "open_issues_count": 0
   }
 ]
