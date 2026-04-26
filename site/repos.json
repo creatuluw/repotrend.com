@@ -29714,5 +29714,51 @@
     "language": "HTML",
     "forks_count": 10,
     "open_issues_count": 0
+  },
+  {
+    "id": 1219712617,
+    "name": "deepseek_v4_rolepaly_instruct",
+    "owner": {
+      "id": 19264756,
+      "url": "https://api.github.com/users/victorchen96",
+      "html_url": "https://github.com/victorchen96",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19264756?v=4"
+    },
+    "html_url": "https://github.com/victorchen96/deepseek_v4_rolepaly_instruct",
+    "description": "对于DeepSeek-V4角色扮演的特殊控制指令的说明",
+    "created_at": "2026-04-24T06:34:54Z",
+    "updated_at": "2026-04-25T18:19:14Z",
+    "pushed_at": "2026-04-25T15:57:01Z",
+    "git_url": "git://github.com/victorchen96/deepseek_v4_rolepaly_instruct.git",
+    "homepage": null,
+    "size": 49,
+    "stargazers_count": 781,
+    "watchers_count": 781,
+    "language": null,
+    "forks_count": 46,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1220921761,
+    "name": "LEGO-Batman-Legacy-of-the-Dark-Knight",
+    "owner": {
+      "id": 57264833,
+      "url": "https://api.github.com/users/shriddha",
+      "html_url": "https://github.com/shriddha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57264833?v=4"
+    },
+    "html_url": "https://github.com/shriddha/LEGO-Batman-Legacy-of-the-Dark-Knight",
+    "description": "LEGO Batman Legacy of the Dark Knight PC Release Date May 22 2026 Deluxe Edition Early Access Download LEGO Batman 4 PC Gameplay System Requirements 16GB RAM Gotham City Open World Trailer Joker Boss Fight Batmobile Unlocks Batman Day 2026 PC Version Steam Epic Games Store High Performance Resource",
+    "created_at": "2026-04-25T14:13:55Z",
+    "updated_at": "2026-04-26T12:08:28Z",
+    "pushed_at": "2026-04-25T14:19:36Z",
+    "git_url": "git://github.com/shriddha/LEGO-Batman-Legacy-of-the-Dark-Knight.git",
+    "homepage": "",
+    "size": 43,
+    "stargazers_count": 97,
+    "watchers_count": 97,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
