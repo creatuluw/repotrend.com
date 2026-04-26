@@ -29645,5 +29645,51 @@
     "language": "Cangjie",
     "forks_count": 6,
     "open_issues_count": 0
+  },
+  {
+    "id": 1197144004,
+    "name": "OmniWeaving",
+    "owner": {
+      "id": 210980732,
+      "url": "https://api.github.com/users/Tencent-Hunyuan",
+      "html_url": "https://github.com/Tencent-Hunyuan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210980732?v=4"
+    },
+    "html_url": "https://github.com/Tencent-Hunyuan/OmniWeaving",
+    "description": "Official Implementation of OmniWeaving: Towards Unified Video Generation with Free-form Composition and Reasoning",
+    "created_at": "2026-03-31T11:10:21Z",
+    "updated_at": "2026-04-25T17:33:58Z",
+    "pushed_at": "2026-04-11T08:19:27Z",
+    "git_url": "git://github.com/Tencent-Hunyuan/OmniWeaving.git",
+    "homepage": "https://omniweaving.github.io/",
+    "size": 28763,
+    "stargazers_count": 633,
+    "watchers_count": 633,
+    "language": "Python",
+    "forks_count": 25,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1219612850,
+    "name": "hypervibe",
+    "owner": {
+      "id": 262568,
+      "url": "https://api.github.com/users/machinarii",
+      "html_url": "https://github.com/machinarii",
+      "avatar_url": "https://avatars.githubusercontent.com/u/262568?v=4"
+    },
+    "html_url": "https://github.com/machinarii/hypervibe",
+    "description": "One-handed vibe coding using Apple TV Remote, customizable buttons and gestures.",
+    "created_at": "2026-04-24T03:42:27Z",
+    "updated_at": "2026-04-26T06:16:30Z",
+    "pushed_at": "2026-04-25T04:04:01Z",
+    "git_url": "git://github.com/machinarii/hypervibe.git",
+    "homepage": "",
+    "size": 104434,
+    "stargazers_count": 68,
+    "watchers_count": 68,
+    "language": "Swift",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
