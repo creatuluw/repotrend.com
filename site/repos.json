@@ -30358,5 +30358,51 @@
     "language": "Python",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1201635106,
+    "name": "sciwrite",
+    "owner": {
+      "id": 4800109,
+      "url": "https://api.github.com/users/labarba",
+      "html_url": "https://github.com/labarba",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4800109?v=4"
+    },
+    "html_url": "https://github.com/labarba/sciwrite",
+    "description": "Agent Skill for AI-assisted manuscript writing review, based on Dr. Kristin Sainani's \"Writing in the Sciences\" methodology.",
+    "created_at": "2026-04-05T00:12:18Z",
+    "updated_at": "2026-04-26T23:21:48Z",
+    "pushed_at": "2026-04-05T00:42:44Z",
+    "git_url": "git://github.com/labarba/sciwrite.git",
+    "homepage": "",
+    "size": 15,
+    "stargazers_count": 621,
+    "watchers_count": 621,
+    "language": null,
+    "forks_count": 82,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1219861962,
+    "name": "deepseek-v4-deep-dive",
+    "owner": {
+      "id": 127714341,
+      "url": "https://api.github.com/users/alchaincyf",
+      "html_url": "https://github.com/alchaincyf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
+    },
+    "html_url": "https://github.com/alchaincyf/deepseek-v4-deep-dive",
+    "description": "DeepSeek V4 深度解读 · 73 页 PPT + 20 分钟讲稿 + 发布动画 · Designed with huashu-design",
+    "created_at": "2026-04-24T09:44:00Z",
+    "updated_at": "2026-04-26T16:26:04Z",
+    "pushed_at": "2026-04-24T10:17:48Z",
+    "git_url": "git://github.com/alchaincyf/deepseek-v4-deep-dive.git",
+    "homepage": "https://alchaincyf.github.io/deepseek-v4-deep-dive/",
+    "size": 48017,
+    "stargazers_count": 97,
+    "watchers_count": 97,
+    "language": "HTML",
+    "forks_count": 13,
+    "open_issues_count": 0
   }
 ]
