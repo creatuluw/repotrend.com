@@ -30726,5 +30726,28 @@
     "language": "TypeScript",
     "forks_count": 6,
     "open_issues_count": 0
+  },
+  {
+    "id": 1218919346,
+    "name": "n8n_worfklows_shared",
+    "owner": {
+      "id": 245890155,
+      "url": "https://api.github.com/users/automationforms80-cell",
+      "html_url": "https://github.com/automationforms80-cell",
+      "avatar_url": "https://avatars.githubusercontent.com/u/245890155?v=4"
+    },
+    "html_url": "https://github.com/automationforms80-cell/n8n_worfklows_shared",
+    "description": "Open-source AI ad workflow with Claude + Nano Banana. For the hosted version, see blumpo.com",
+    "created_at": "2026-04-23T10:50:23Z",
+    "updated_at": "2026-04-26T14:26:23Z",
+    "pushed_at": "2026-04-23T16:34:56Z",
+    "git_url": "git://github.com/automationforms80-cell/n8n_worfklows_shared.git",
+    "homepage": "https://blumpo.com/",
+    "size": 16,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": null,
+    "forks_count": 9,
+    "open_issues_count": 0
   }
 ]
