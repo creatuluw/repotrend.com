@@ -30565,5 +30565,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1203417753,
+    "name": "awesome-gpt-image",
+    "owner": {
+      "id": 7347148,
+      "url": "https://api.github.com/users/ZeroLu",
+      "html_url": "https://github.com/ZeroLu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7347148?v=4"
+    },
+    "html_url": "https://github.com/ZeroLu/awesome-gpt-image",
+    "description": "A curated collection of the best GPT Image 2 prompts and examples. The prompts come from top creators on X.",
+    "created_at": "2026-04-07T02:50:46Z",
+    "updated_at": "2026-04-26T17:49:29Z",
+    "pushed_at": "2026-04-26T13:18:12Z",
+    "git_url": "git://github.com/ZeroLu/awesome-gpt-image.git",
+    "homepage": "https://cyberbara.com/seedance2.0?utm_source=awesome-gpt-image",
+    "size": 4739,
+    "stargazers_count": 663,
+    "watchers_count": 663,
+    "language": "Python",
+    "forks_count": 47,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1222369300,
+    "name": "ai-auto-trading",
+    "owner": {
+      "id": 279671200,
+      "url": "https://api.github.com/users/6551-Team",
+      "html_url": "https://github.com/6551-Team",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279671200?v=4"
+    },
+    "html_url": "https://github.com/6551-Team/ai-auto-trading",
+    "description": "NexusQuant: AI-driven multi-strategy crypto trading on VoltAgent. Gate.io & Binance, adaptive risk, Node.js/TypeScript, AGPL-3.0.",
+    "created_at": "2026-04-27T09:48:43Z",
+    "updated_at": "2026-04-27T12:36:32Z",
+    "pushed_at": "2026-04-27T09:49:20Z",
+    "git_url": "git://github.com/6551-Team/ai-auto-trading.git",
+    "homepage": "https://voltagent.dev",
+    "size": 2919,
+    "stargazers_count": 56,
+    "watchers_count": 56,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
