@@ -30657,5 +30657,51 @@
     "language": "Python",
     "forks_count": 1,
     "open_issues_count": 1
+  },
+  {
+    "id": 1217623970,
+    "name": "PPT-Design-Prompt",
+    "owner": {
+      "id": 206703724,
+      "url": "https://api.github.com/users/Russell-cell",
+      "html_url": "https://github.com/Russell-cell",
+      "avatar_url": "https://avatars.githubusercontent.com/u/206703724?v=4"
+    },
+    "html_url": "https://github.com/Russell-cell/PPT-Design-Prompt",
+    "description": null,
+    "created_at": "2026-04-22T04:15:58Z",
+    "updated_at": "2026-04-26T18:19:01Z",
+    "pushed_at": "2026-04-22T07:36:28Z",
+    "git_url": "git://github.com/Russell-cell/PPT-Design-Prompt.git",
+    "homepage": null,
+    "size": 563,
+    "stargazers_count": 680,
+    "watchers_count": 680,
+    "language": "Python",
+    "forks_count": 50,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1221182034,
+    "name": "wacrawl",
+    "owner": {
+      "id": 58493,
+      "url": "https://api.github.com/users/steipete",
+      "html_url": "https://github.com/steipete",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58493?v=4"
+    },
+    "html_url": "https://github.com/steipete/wacrawl",
+    "description": "Readonly access to existing Whatsapp Desktop chats.",
+    "created_at": "2026-04-25T21:27:10Z",
+    "updated_at": "2026-04-26T18:01:12Z",
+    "pushed_at": "2026-04-25T23:24:59Z",
+    "git_url": "git://github.com/steipete/wacrawl.git",
+    "homepage": null,
+    "size": 50,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": "Go",
+    "forks_count": 8,
+    "open_issues_count": 1
   }
 ]
