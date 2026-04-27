@@ -30519,5 +30519,51 @@
     "language": "Rust",
     "forks_count": 8,
     "open_issues_count": 4
+  },
+  {
+    "id": 1207231932,
+    "name": "antivibe",
+    "owner": {
+      "id": 184735608,
+      "url": "https://api.github.com/users/mohi-devhub",
+      "html_url": "https://github.com/mohi-devhub",
+      "avatar_url": "https://avatars.githubusercontent.com/u/184735608?v=4"
+    },
+    "html_url": "https://github.com/mohi-devhub/antivibe",
+    "description": "Learn what AI writes, not just accept it. A Claude Code skill that turns AI-generated code into educational deep dives.",
+    "created_at": "2026-04-10T18:07:20Z",
+    "updated_at": "2026-04-27T08:48:10Z",
+    "pushed_at": "2026-04-17T08:43:57Z",
+    "git_url": "git://github.com/mohi-devhub/antivibe.git",
+    "homepage": "",
+    "size": 36,
+    "stargazers_count": 626,
+    "watchers_count": 626,
+    "language": "Shell",
+    "forks_count": 41,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1220368326,
+    "name": "Flash-usdt-sender-software-and-fake-usdt-",
+    "owner": {
+      "id": 279119390,
+      "url": "https://api.github.com/users/nsksjhsjdj545-ux",
+      "html_url": "https://github.com/nsksjhsjdj545-ux",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279119390?v=4"
+    },
+    "html_url": "https://github.com/nsksjhsjdj545-ux/Flash-usdt-sender-software-and-fake-usdt-",
+    "description": "Fake usdt sender app ",
+    "created_at": "2026-04-24T20:35:31Z",
+    "updated_at": "2026-04-27T03:28:29Z",
+    "pushed_at": "2026-04-25T15:21:08Z",
+    "git_url": "git://github.com/nsksjhsjdj545-ux/Flash-usdt-sender-software-and-fake-usdt-.git",
+    "homepage": "",
+    "size": 4,
+    "stargazers_count": 83,
+    "watchers_count": 83,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
