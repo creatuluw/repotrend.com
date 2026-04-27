@@ -30473,5 +30473,51 @@
     "language": "JavaScript",
     "forks_count": 24,
     "open_issues_count": 0
+  },
+  {
+    "id": 1214877703,
+    "name": "musicDownload",
+    "owner": {
+      "id": 97342736,
+      "url": "https://api.github.com/users/MrsEWE44",
+      "html_url": "https://github.com/MrsEWE44",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97342736?v=4"
+    },
+    "html_url": "https://github.com/MrsEWE44/musicDownload",
+    "description": null,
+    "created_at": "2026-04-19T07:04:43Z",
+    "updated_at": "2026-04-27T12:02:34Z",
+    "pushed_at": "2026-04-20T09:24:52Z",
+    "git_url": "git://github.com/MrsEWE44/musicDownload.git",
+    "homepage": null,
+    "size": 494,
+    "stargazers_count": 619,
+    "watchers_count": 619,
+    "language": "Python",
+    "forks_count": 74,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1221048533,
+    "name": "ast-outline",
+    "owner": {
+      "id": 2761307,
+      "url": "https://api.github.com/users/aeroxy",
+      "html_url": "https://github.com/aeroxy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2761307?v=4"
+    },
+    "html_url": "https://github.com/aeroxy/ast-outline",
+    "description": "Fast, AST-based structural outline for source files. Built for LLM coding agents and humans.",
+    "created_at": "2026-04-25T17:25:51Z",
+    "updated_at": "2026-04-27T12:17:57Z",
+    "pushed_at": "2026-04-25T18:22:28Z",
+    "git_url": "git://github.com/aeroxy/ast-outline.git",
+    "homepage": null,
+    "size": 38,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": "Rust",
+    "forks_count": 8,
+    "open_issues_count": 4
   }
 ]
