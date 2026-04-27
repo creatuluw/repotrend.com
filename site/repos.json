@@ -29944,5 +29944,28 @@
     "language": "C",
     "forks_count": 15,
     "open_issues_count": 0
+  },
+  {
+    "id": 1218509500,
+    "name": "battery-sentinel",
+    "owner": {
+      "id": 47442658,
+      "url": "https://api.github.com/users/smcneece",
+      "html_url": "https://github.com/smcneece",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47442658?v=4"
+    },
+    "html_url": "https://github.com/smcneece/battery-sentinel",
+    "description": "Home Assistant App for monitoring battery devices, with alert system, and much more. ",
+    "created_at": "2026-04-23T00:24:35Z",
+    "updated_at": "2026-04-25T18:16:43Z",
+    "pushed_at": "2026-04-25T02:31:11Z",
+    "git_url": "git://github.com/smcneece/battery-sentinel.git",
+    "homepage": "",
+    "size": 1753,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": "HTML",
+    "forks_count": 3,
+    "open_issues_count": 2
   }
 ]
