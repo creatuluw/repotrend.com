@@ -30611,5 +30611,51 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1219400421,
+    "name": "agent-sprite-forge",
+    "owner": {
+      "id": 148287731,
+      "url": "https://api.github.com/users/0x0funky",
+      "html_url": "https://github.com/0x0funky",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148287731?v=4"
+    },
+    "html_url": "https://github.com/0x0funky/agent-sprite-forge",
+    "description": "Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.",
+    "created_at": "2026-04-23T20:52:52Z",
+    "updated_at": "2026-04-27T12:36:15Z",
+    "pushed_at": "2026-04-25T15:56:29Z",
+    "git_url": "git://github.com/0x0funky/agent-sprite-forge.git",
+    "homepage": "",
+    "size": 17156,
+    "stargazers_count": 813,
+    "watchers_count": 813,
+    "language": "Python",
+    "forks_count": 77,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1219518753,
+    "name": "YHoAutoFish",
+    "owner": {
+      "id": 150111939,
+      "url": "https://api.github.com/users/FADEDTUMI",
+      "html_url": "https://github.com/FADEDTUMI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/150111939?v=4"
+    },
+    "html_url": "https://github.com/FADEDTUMI/YHoAutoFish",
+    "description": null,
+    "created_at": "2026-04-24T00:44:09Z",
+    "updated_at": "2026-04-27T12:36:54Z",
+    "pushed_at": "2026-04-27T09:11:13Z",
+    "git_url": "git://github.com/FADEDTUMI/YHoAutoFish.git",
+    "homepage": null,
+    "size": 20830,
+    "stargazers_count": 77,
+    "watchers_count": 77,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 1
   }
 ]
