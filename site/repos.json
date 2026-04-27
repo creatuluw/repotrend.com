@@ -30243,5 +30243,51 @@
     "language": null,
     "forks_count": 9,
     "open_issues_count": 1
+  },
+  {
+    "id": 1217102150,
+    "name": "MasterHttpRelayVPN-RUST",
+    "owner": {
+      "id": 67456590,
+      "url": "https://api.github.com/users/therealaleph",
+      "html_url": "https://github.com/therealaleph",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67456590?v=4"
+    },
+    "html_url": "https://github.com/therealaleph/MasterHttpRelayVPN-RUST",
+    "description": "Rust port of @masterking32's MasterHttpRelayVPN — all credit to @masterking32 for the original idea and Python implementation. Free DPI bypass via a Google Apps Script relay with TLS SNI concealment. CLI + cross-platform desktop UI, HTTP + SOCKS5 proxy, no runtime deps.",
+    "created_at": "2026-04-21T14:46:31Z",
+    "updated_at": "2026-04-26T18:13:25Z",
+    "pushed_at": "2026-04-26T18:13:20Z",
+    "git_url": "git://github.com/therealaleph/MasterHttpRelayVPN-RUST.git",
+    "homepage": "https://github.com/masterking32/MasterHttpRelayVPN",
+    "size": 564603,
+    "stargazers_count": 707,
+    "watchers_count": 707,
+    "language": "Rust",
+    "forks_count": 75,
+    "open_issues_count": 42
+  },
+  {
+    "id": 1220885689,
+    "name": "llm-systems-engineering-roadmap",
+    "owner": {
+      "id": 61054142,
+      "url": "https://api.github.com/users/h9-tec",
+      "html_url": "https://github.com/h9-tec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61054142?v=4"
+    },
+    "html_url": "https://github.com/h9-tec/llm-systems-engineering-roadmap",
+    "description": "A practical roadmap for mastering LLM internals, training, inference, RAG, agents, evaluation, and production architecture.",
+    "created_at": "2026-04-25T13:18:12Z",
+    "updated_at": "2026-04-26T18:08:16Z",
+    "pushed_at": "2026-04-25T13:28:14Z",
+    "git_url": "git://github.com/h9-tec/llm-systems-engineering-roadmap.git",
+    "homepage": null,
+    "size": 36,
+    "stargazers_count": 83,
+    "watchers_count": 83,
+    "language": null,
+    "forks_count": 11,
+    "open_issues_count": 0
   }
 ]
