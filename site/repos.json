@@ -30105,5 +30105,51 @@
     "language": "Python",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1207321604,
+    "name": "AutoTeam",
+    "owner": {
+      "id": 60732685,
+      "url": "https://api.github.com/users/cnitlrt",
+      "html_url": "https://github.com/cnitlrt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60732685?v=4"
+    },
+    "html_url": "https://github.com/cnitlrt/AutoTeam",
+    "description": "ChatGPT Team 账号自动轮转管理 - Codex 额度监控、自动换号、邮箱注册、CPA/Sub2API 认证同步",
+    "created_at": "2026-04-10T20:14:56Z",
+    "updated_at": "2026-04-26T18:20:42Z",
+    "pushed_at": "2026-04-26T17:40:34Z",
+    "git_url": "git://github.com/cnitlrt/AutoTeam.git",
+    "homepage": "",
+    "size": 2331,
+    "stargazers_count": 677,
+    "watchers_count": 677,
+    "language": "Python",
+    "forks_count": 161,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1219194417,
+    "name": "chanlun_auto_trading",
+    "owner": {
+      "id": 278749761,
+      "url": "https://api.github.com/users/haigechanlun",
+      "html_url": "https://github.com/haigechanlun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/278749761?v=4"
+    },
+    "html_url": "https://github.com/haigechanlun/chanlun_auto_trading",
+    "description": "一个基于缠论（Chanlun）理论构建的自动化量化交易系统，结合历史数据训练、严格风控与实盘执行，致力于实现稳定且可持续的收益表现。  回测收益年化80%+！欢迎订阅信号和实盘测试。",
+    "created_at": "2026-04-23T16:16:29Z",
+    "updated_at": "2026-04-26T17:20:22Z",
+    "pushed_at": "2026-04-26T14:14:28Z",
+    "git_url": "git://github.com/haigechanlun/chanlun_auto_trading.git",
+    "homepage": "",
+    "size": 1059,
+    "stargazers_count": 74,
+    "watchers_count": 74,
+    "language": "Python",
+    "forks_count": 28,
+    "open_issues_count": 0
   }
 ]
