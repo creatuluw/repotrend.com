@@ -30841,5 +30841,51 @@
     "language": null,
     "forks_count": 6,
     "open_issues_count": 2
+  },
+  {
+    "id": 1213311333,
+    "name": "LLaDA2.0-Uni",
+    "owner": {
+      "id": 199075982,
+      "url": "https://api.github.com/users/inclusionAI",
+      "html_url": "https://github.com/inclusionAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/199075982?v=4"
+    },
+    "html_url": "https://github.com/inclusionAI/LLaDA2.0-Uni",
+    "description": "LLaDA2.0-Uni: Understanding and Generation the World. ",
+    "created_at": "2026-04-17T08:48:24Z",
+    "updated_at": "2026-04-28T00:48:24Z",
+    "pushed_at": "2026-04-24T10:40:00Z",
+    "git_url": "git://github.com/inclusionAI/LLaDA2.0-Uni.git",
+    "homepage": "",
+    "size": 3294,
+    "stargazers_count": 624,
+    "watchers_count": 624,
+    "language": "Python",
+    "forks_count": 41,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1220888415,
+    "name": "Aether",
+    "owner": {
+      "id": 86581525,
+      "url": "https://api.github.com/users/Zhou-Shilin",
+      "html_url": "https://github.com/Zhou-Shilin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86581525?v=4"
+    },
+    "html_url": "https://github.com/Zhou-Shilin/Aether",
+    "description": "A stunning, localized, general-purpose AI Agent for Android.",
+    "created_at": "2026-04-25T13:22:24Z",
+    "updated_at": "2026-04-27T14:33:40Z",
+    "pushed_at": "2026-04-26T12:01:48Z",
+    "git_url": "git://github.com/Zhou-Shilin/Aether.git",
+    "homepage": null,
+    "size": 3163,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "Kotlin",
+    "forks_count": 2,
+    "open_issues_count": 1
   }
 ]
