@@ -31301,5 +31301,51 @@
     "language": "Python",
     "forks_count": 6,
     "open_issues_count": 4
+  },
+  {
+    "id": 1207740274,
+    "name": "little-coder",
+    "owner": {
+      "id": 12065558,
+      "url": "https://api.github.com/users/itayinbarr",
+      "html_url": "https://github.com/itayinbarr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12065558?v=4"
+    },
+    "html_url": "https://github.com/itayinbarr/little-coder",
+    "description": "A coding agent optimized to smaller LLMs",
+    "created_at": "2026-04-11T10:37:11Z",
+    "updated_at": "2026-04-28T18:38:08Z",
+    "pushed_at": "2026-04-28T15:10:06Z",
+    "git_url": "git://github.com/itayinbarr/little-coder.git",
+    "homepage": "",
+    "size": 1159,
+    "stargazers_count": 683,
+    "watchers_count": 683,
+    "language": "TypeScript",
+    "forks_count": 48,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1221068903,
+    "name": "agent-session-resume",
+    "owner": {
+      "id": 26572907,
+      "url": "https://api.github.com/users/hacktivist123",
+      "html_url": "https://github.com/hacktivist123",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26572907?v=4"
+    },
+    "html_url": "https://github.com/hacktivist123/agent-session-resume",
+    "description": "Cross-agent session resume skill for Claude Code, Codex, Antigravity, and OpenCode.",
+    "created_at": "2026-04-25T17:58:33Z",
+    "updated_at": "2026-04-26T17:49:35Z",
+    "pushed_at": "2026-04-25T20:23:19Z",
+    "git_url": "git://github.com/hacktivist123/agent-session-resume.git",
+    "homepage": null,
+    "size": 42,
+    "stargazers_count": 91,
+    "watchers_count": 91,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
