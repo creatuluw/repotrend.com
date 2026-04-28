@@ -31071,5 +31071,51 @@
     "language": "Shell",
     "forks_count": 84,
     "open_issues_count": 0
+  },
+  {
+    "id": 1213212865,
+    "name": "esp-claw",
+    "owner": {
+      "id": 9460735,
+      "url": "https://api.github.com/users/espressif",
+      "html_url": "https://github.com/espressif",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9460735?v=4"
+    },
+    "html_url": "https://github.com/espressif/esp-claw",
+    "description": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
+    "created_at": "2026-04-17T06:40:46Z",
+    "updated_at": "2026-04-28T06:38:46Z",
+    "pushed_at": "2026-04-27T14:25:17Z",
+    "git_url": "git://github.com/espressif/esp-claw.git",
+    "homepage": "https://esp-claw.com/",
+    "size": 16069,
+    "stargazers_count": 646,
+    "watchers_count": 646,
+    "language": "C",
+    "forks_count": 136,
+    "open_issues_count": 19
+  },
+  {
+    "id": 1219253934,
+    "name": "bizos-company-os",
+    "owner": {
+      "id": 187960517,
+      "url": "https://api.github.com/users/ungden",
+      "html_url": "https://github.com/ungden",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187960517?v=4"
+    },
+    "html_url": "https://github.com/ungden/bizos-company-os",
+    "description": "BIZOS — Business Operating System: 19 screens (Dashboard, Org chart, KPI Tree, Operations, Compensation, Finance, OKR, Forecast, Reports, Alerts, Approvals, Audit, Recruiting, Knowledge) built with Next.js 16 + Supabase. Demo mode works without any config.",
+    "created_at": "2026-04-23T17:30:33Z",
+    "updated_at": "2026-04-26T17:25:34Z",
+    "pushed_at": "2026-04-24T14:12:52Z",
+    "git_url": "git://github.com/ungden/bizos-company-os.git",
+    "homepage": "https://bizos-company-os.vercel.app",
+    "size": 11169,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": "TypeScript",
+    "forks_count": 72,
+    "open_issues_count": 1
   }
 ]
