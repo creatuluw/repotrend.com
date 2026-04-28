@@ -30979,5 +30979,51 @@
     "language": "C",
     "forks_count": 9,
     "open_issues_count": 1
+  },
+  {
+    "id": 1208718257,
+    "name": "animal-island-ui",
+    "owner": {
+      "id": 9608847,
+      "url": "https://api.github.com/users/guokaigdg",
+      "html_url": "https://github.com/guokaigdg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9608847?v=4"
+    },
+    "html_url": "https://github.com/guokaigdg/animal-island-ui",
+    "description": "Animal 风格的 React 组件库 灵感来源于任天堂集合啦！动物森友会游戏界面",
+    "created_at": "2026-04-12T16:53:42Z",
+    "updated_at": "2026-04-28T06:57:01Z",
+    "pushed_at": "2026-04-27T17:14:13Z",
+    "git_url": "git://github.com/guokaigdg/animal-island-ui.git",
+    "homepage": "https://guokaigdg.github.io/animal-island-ui/#/",
+    "size": 108820,
+    "stargazers_count": 653,
+    "watchers_count": 653,
+    "language": "TypeScript",
+    "forks_count": 33,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1221391011,
+    "name": "snitchmd",
+    "owner": {
+      "id": 29029,
+      "url": "https://api.github.com/users/syabro",
+      "html_url": "https://github.com/syabro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29029?v=4"
+    },
+    "html_url": "https://github.com/syabro/snitchmd",
+    "description": null,
+    "created_at": "2026-04-26T06:19:01Z",
+    "updated_at": "2026-04-28T05:31:48Z",
+    "pushed_at": "2026-04-27T07:31:14Z",
+    "git_url": "git://github.com/syabro/snitchmd.git",
+    "homepage": null,
+    "size": 324,
+    "stargazers_count": 55,
+    "watchers_count": 55,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
