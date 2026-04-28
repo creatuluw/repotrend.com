@@ -31140,5 +31140,74 @@
     "language": "TypeScript",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1179046874,
+    "name": "prompt-master",
+    "owner": {
+      "id": 254035488,
+      "url": "https://api.github.com/users/nidhinjs",
+      "html_url": "https://github.com/nidhinjs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/254035488?v=4"
+    },
+    "html_url": "https://github.com/nidhinjs/prompt-master",
+    "description": "A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention",
+    "created_at": "2026-03-11T16:25:43Z",
+    "updated_at": "2026-04-28T12:45:29Z",
+    "pushed_at": "2026-04-26T22:44:31Z",
+    "git_url": "git://github.com/nidhinjs/prompt-master.git",
+    "homepage": "",
+    "size": 84,
+    "stargazers_count": 6325,
+    "watchers_count": 6325,
+    "language": null,
+    "forks_count": 663,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1195371847,
+    "name": "awesome-harness-engineering",
+    "owner": {
+      "id": 70333750,
+      "url": "https://api.github.com/users/ai-boost",
+      "html_url": "https://github.com/ai-boost",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70333750?v=4"
+    },
+    "html_url": "https://github.com/ai-boost/awesome-harness-engineering",
+    "description": "Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.",
+    "created_at": "2026-03-29T15:39:49Z",
+    "updated_at": "2026-04-28T12:38:47Z",
+    "pushed_at": "2026-04-28T09:48:49Z",
+    "git_url": "git://github.com/ai-boost/awesome-harness-engineering.git",
+    "homepage": "https://github.com/ai-boost/awesome-harness-engineering",
+    "size": 426,
+    "stargazers_count": 634,
+    "watchers_count": 634,
+    "language": "Python",
+    "forks_count": 48,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1222647433,
+    "name": "Oneira",
+    "owner": {
+      "id": 10227196,
+      "url": "https://api.github.com/users/laguerric",
+      "html_url": "https://github.com/laguerric",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10227196?v=4"
+    },
+    "html_url": "https://github.com/laguerric/Oneira",
+    "description": "An autonomous dreaming AI agent",
+    "created_at": "2026-04-27T15:11:20Z",
+    "updated_at": "2026-04-28T06:54:21Z",
+    "pushed_at": "2026-04-28T00:56:18Z",
+    "git_url": "git://github.com/laguerric/Oneira.git",
+    "homepage": "https://x.com/OneiraEngine",
+    "size": 196,
+    "stargazers_count": 71,
+    "watchers_count": 71,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
