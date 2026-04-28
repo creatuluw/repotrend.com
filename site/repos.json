@@ -30933,5 +30933,51 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1217522067,
+    "name": "text-to-cad",
+    "owner": {
+      "id": 10742417,
+      "url": "https://api.github.com/users/earthtojake",
+      "html_url": "https://github.com/earthtojake",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10742417?v=4"
+    },
+    "html_url": "https://github.com/earthtojake/text-to-cad",
+    "description": "An open source harness for generating CAD models",
+    "created_at": "2026-04-22T01:09:45Z",
+    "updated_at": "2026-04-28T06:47:11Z",
+    "pushed_at": "2026-04-26T04:38:37Z",
+    "git_url": "git://github.com/earthtojake/text-to-cad.git",
+    "homepage": "",
+    "size": 26226,
+    "stargazers_count": 983,
+    "watchers_count": 983,
+    "language": "JavaScript",
+    "forks_count": 157,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1220866899,
+    "name": "facex",
+    "owner": {
+      "id": 279251688,
+      "url": "https://api.github.com/users/facex-engine",
+      "html_url": "https://github.com/facex-engine",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279251688?v=4"
+    },
+    "html_url": "https://github.com/facex-engine/facex",
+    "description": "Face verification in the browser. 74 KB WebAssembly. No server, no cloud, no dependencies. Also runs native at 3ms on CPU.",
+    "created_at": "2026-04-25T12:49:25Z",
+    "updated_at": "2026-04-27T10:22:36Z",
+    "pushed_at": "2026-04-27T04:02:31Z",
+    "git_url": "git://github.com/facex-engine/facex.git",
+    "homepage": null,
+    "size": 7968,
+    "stargazers_count": 82,
+    "watchers_count": 82,
+    "language": "C",
+    "forks_count": 9,
+    "open_issues_count": 1
   }
 ]
