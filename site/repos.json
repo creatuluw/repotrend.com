@@ -31255,5 +31255,51 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 1
+  },
+  {
+    "id": 1223170290,
+    "name": "open-design",
+    "owner": {
+      "id": 263625318,
+      "url": "https://api.github.com/users/nexu-io",
+      "html_url": "https://github.com/nexu-io",
+      "avatar_url": "https://avatars.githubusercontent.com/u/263625318?v=4"
+    },
+    "html_url": "https://github.com/nexu-io/open-design",
+    "description": "🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
+    "created_at": "2026-04-28T04:25:20Z",
+    "updated_at": "2026-04-28T18:39:20Z",
+    "pushed_at": "2026-04-28T16:32:07Z",
+    "git_url": "git://github.com/nexu-io/open-design.git",
+    "homepage": "https://github.com/nexu-io/open-design",
+    "size": 16340,
+    "stargazers_count": 890,
+    "watchers_count": 890,
+    "language": "TypeScript",
+    "forks_count": 95,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1221600219,
+    "name": "MaaNTE",
+    "owner": {
+      "id": 116740703,
+      "url": "https://api.github.com/users/1bananachicken",
+      "html_url": "https://github.com/1bananachicken",
+      "avatar_url": "https://avatars.githubusercontent.com/u/116740703?v=4"
+    },
+    "html_url": "https://github.com/1bananachicken/MaaNTE",
+    "description": "MAA异环小助手，由MAAFramework强力驱动！QQ交流群：1103323319",
+    "created_at": "2026-04-26T12:42:30Z",
+    "updated_at": "2026-04-28T18:35:13Z",
+    "pushed_at": "2026-04-28T18:35:09Z",
+    "git_url": "git://github.com/1bananachicken/MaaNTE.git",
+    "homepage": "https://space.bilibili.com/148153268",
+    "size": 817,
+    "stargazers_count": 89,
+    "watchers_count": 89,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 4
   }
 ]
