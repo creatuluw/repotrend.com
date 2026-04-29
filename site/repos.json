@@ -31715,5 +31715,28 @@
     "language": "JavaScript",
     "forks_count": 10,
     "open_issues_count": 0
+  },
+  {
+    "id": 1221700035,
+    "name": "claude-desktop_win-zh_cn",
+    "owner": {
+      "id": 100816316,
+      "url": "https://api.github.com/users/Jyy1529",
+      "html_url": "https://github.com/Jyy1529",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100816316?v=4"
+    },
+    "html_url": "https://github.com/Jyy1529/claude-desktop_win-zh_cn",
+    "description": "Claude Desktop Windows 中文补丁 (zh-CN) - 12700+ keys 翻译 + JS chunk UI 标签汉化",
+    "created_at": "2026-04-26T15:12:40Z",
+    "updated_at": "2026-04-29T12:39:41Z",
+    "pushed_at": "2026-04-28T01:12:30Z",
+    "git_url": "git://github.com/Jyy1529/claude-desktop_win-zh_cn.git",
+    "homepage": null,
+    "size": 1303,
+    "stargazers_count": 76,
+    "watchers_count": 76,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 1
   }
 ]
