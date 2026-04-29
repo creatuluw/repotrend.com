@@ -31370,5 +31370,28 @@
     "language": "JavaScript",
     "forks_count": 9,
     "open_issues_count": 0
+  },
+  {
+    "id": 1222126520,
+    "name": "clawd.rip",
+    "owner": {
+      "id": 254055478,
+      "url": "https://api.github.com/users/maria-rcks",
+      "html_url": "https://github.com/maria-rcks",
+      "avatar_url": "https://avatars.githubusercontent.com/u/254055478?v=4"
+    },
+    "html_url": "https://github.com/maria-rcks/clawd.rip",
+    "description": "Everything that *went* wrong with Claude.",
+    "created_at": "2026-04-27T04:18:39Z",
+    "updated_at": "2026-04-28T17:43:43Z",
+    "pushed_at": "2026-04-28T00:58:47Z",
+    "git_url": "git://github.com/maria-rcks/clawd.rip.git",
+    "homepage": "https://clawd.rip",
+    "size": 801,
+    "stargazers_count": 79,
+    "watchers_count": 79,
+    "language": "TypeScript",
+    "forks_count": 11,
+    "open_issues_count": 2
   }
 ]
