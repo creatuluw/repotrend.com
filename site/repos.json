@@ -31692,5 +31692,28 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1220498389,
+    "name": "shots",
+    "owner": {
+      "id": 175360614,
+      "url": "https://api.github.com/users/hypersocialinc",
+      "html_url": "https://github.com/hypersocialinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/175360614?v=4"
+    },
+    "html_url": "https://github.com/hypersocialinc/shots",
+    "description": "Claude Code/Agent Skill for making App Store screenshots with GPT Image 2 that you can upload. Give it your App Store link & screenshots of your app and it will produce beautiful app store screenshots ready to upload to Apple (or Google)",
+    "created_at": "2026-04-25T01:00:58Z",
+    "updated_at": "2026-04-28T16:32:50Z",
+    "pushed_at": "2026-04-27T15:21:57Z",
+    "git_url": "git://github.com/hypersocialinc/shots.git",
+    "homepage": "",
+    "size": 8086,
+    "stargazers_count": 85,
+    "watchers_count": 85,
+    "language": "JavaScript",
+    "forks_count": 10,
+    "open_issues_count": 0
   }
 ]
