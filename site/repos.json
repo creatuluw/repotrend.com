@@ -31669,5 +31669,28 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 1
+  },
+  {
+    "id": 1224062065,
+    "name": "monthly-bonus-stake",
+    "owner": {
+      "id": 276495194,
+      "url": "https://api.github.com/users/bonused",
+      "html_url": "https://github.com/bonused",
+      "avatar_url": "https://avatars.githubusercontent.com/u/276495194?v=4"
+    },
+    "html_url": "https://github.com/bonused/monthly-bonus-stake",
+    "description": "Stake Monthly Bonus is one of the most anticipated and valuable rewards available to loyal players on Stake casino. Designed to reward consistent activity, long-term loyalty, and VIP progression, the monthly bonus acts as a powerful cashback-style reward that can significantly increase your overall returns from gameplay.",
+    "created_at": "2026-04-28T23:31:20Z",
+    "updated_at": "2026-04-29T06:57:30Z",
+    "pushed_at": "2026-04-28T23:36:41Z",
+    "git_url": "git://github.com/bonused/monthly-bonus-stake.git",
+    "homepage": "https://winaspin.cc/auth/register?promo=2026",
+    "size": 9,
+    "stargazers_count": 75,
+    "watchers_count": 75,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
