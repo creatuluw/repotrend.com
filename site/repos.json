@@ -31439,5 +31439,51 @@
     "language": "JavaScript",
     "forks_count": 11,
     "open_issues_count": 0
+  },
+  {
+    "id": 1212163658,
+    "name": "cangjie-skill",
+    "owner": {
+      "id": 52196004,
+      "url": "https://api.github.com/users/kangarooking",
+      "html_url": "https://github.com/kangarooking",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52196004?v=4"
+    },
+    "html_url": "https://github.com/kangarooking/cangjie-skill",
+    "description": "把一本书蒸馏成一组可执行的 Agent Skills",
+    "created_at": "2026-04-16T05:54:32Z",
+    "updated_at": "2026-04-28T16:24:02Z",
+    "pushed_at": "2026-04-23T03:03:39Z",
+    "git_url": "git://github.com/kangarooking/cangjie-skill.git",
+    "homepage": "",
+    "size": 247,
+    "stargazers_count": 638,
+    "watchers_count": 638,
+    "language": null,
+    "forks_count": 116,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1221172353,
+    "name": "pi-draw",
+    "owner": {
+      "id": 7396,
+      "url": "https://api.github.com/users/mitsuhiko",
+      "html_url": "https://github.com/mitsuhiko",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7396?v=4"
+    },
+    "html_url": "https://github.com/mitsuhiko/pi-draw",
+    "description": "For when you want to draw something for the clanker",
+    "created_at": "2026-04-25T21:06:35Z",
+    "updated_at": "2026-04-26T16:37:22Z",
+    "pushed_at": "2026-04-26T15:51:11Z",
+    "git_url": "git://github.com/mitsuhiko/pi-draw.git",
+    "homepage": null,
+    "size": 10,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
