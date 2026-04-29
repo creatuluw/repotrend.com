@@ -31485,5 +31485,28 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1222759940,
+    "name": "binance-trading-bot",
+    "owner": {
+      "id": 279487494,
+      "url": "https://api.github.com/users/ForecastForge",
+      "html_url": "https://github.com/ForecastForge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279487494?v=4"
+    },
+    "html_url": "https://github.com/ForecastForge/binance-trading-bot",
+    "description": "binance trading bot · binance bot · binance AI trading bot · binance automated trading bot · binance auto trading bot · binance crypto trading bot · binance futures trading bot · binance spot trading bot · binance grid trading bot · binance bot strategy",
+    "created_at": "2026-04-27T17:21:15Z",
+    "updated_at": "2026-04-28T18:22:47Z",
+    "pushed_at": "2026-04-27T17:22:00Z",
+    "git_url": "git://github.com/ForecastForge/binance-trading-bot.git",
+    "homepage": "https://www.binance.com/en/trade",
+    "size": 18,
+    "stargazers_count": 90,
+    "watchers_count": 90,
+    "language": "TypeScript",
+    "forks_count": 30,
+    "open_issues_count": 0
   }
 ]
