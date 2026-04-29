@@ -31600,5 +31600,51 @@
     "language": null,
     "forks_count": 10,
     "open_issues_count": 0
+  },
+  {
+    "id": 1205638461,
+    "name": "dothething",
+    "owner": {
+      "id": 1944293,
+      "url": "https://api.github.com/users/fluffypony",
+      "html_url": "https://github.com/fluffypony",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1944293?v=4"
+    },
+    "html_url": "https://github.com/fluffypony/dothething",
+    "description": "an autonomous AI agent: you describe the thing, it does the thing.",
+    "created_at": "2026-04-09T06:30:01Z",
+    "updated_at": "2026-04-29T06:37:20Z",
+    "pushed_at": "2026-04-14T10:12:36Z",
+    "git_url": "git://github.com/fluffypony/dothething.git",
+    "homepage": "https://dotheth.ing",
+    "size": 567,
+    "stargazers_count": 748,
+    "watchers_count": 748,
+    "language": "Shell",
+    "forks_count": 46,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1221501922,
+    "name": "polymarket-arbitrage-bot",
+    "owner": {
+      "id": 67728595,
+      "url": "https://api.github.com/users/alefinvest",
+      "html_url": "https://github.com/alefinvest",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67728595?v=4"
+    },
+    "html_url": "https://github.com/alefinvest/polymarket-arbitrage-bot",
+    "description": "polymarket trading bot polymarket arbitrage bot polymarket arbitrage trading bot polymarket trading bot polymarket arbitrage bot polymarket arbitrage trading bot polymarket trading bot polymarket arbitrage bot polymarket arbitrage trading bot polymarket trading bot polymarket arbitrage bot polymarket arbitrage trading bot polymarket trading bot",
+    "created_at": "2026-04-26T09:50:48Z",
+    "updated_at": "2026-04-28T19:44:23Z",
+    "pushed_at": "2026-04-26T10:08:52Z",
+    "git_url": "git://github.com/alefinvest/polymarket-arbitrage-bot.git",
+    "homepage": null,
+    "size": 126,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "TypeScript",
+    "forks_count": 776,
+    "open_issues_count": 0
   }
 ]
