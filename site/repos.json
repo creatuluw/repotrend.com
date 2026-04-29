@@ -31554,5 +31554,51 @@
     "language": "Swift",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1179229480,
+    "name": "pi-autoresearch",
+    "owner": {
+      "id": 477473,
+      "url": "https://api.github.com/users/davebcn87",
+      "html_url": "https://github.com/davebcn87",
+      "avatar_url": "https://avatars.githubusercontent.com/u/477473?v=4"
+    },
+    "html_url": "https://github.com/davebcn87/pi-autoresearch",
+    "description": "Autonomous experiment loop extension for pi",
+    "created_at": "2026-03-11T20:25:53Z",
+    "updated_at": "2026-04-29T06:50:09Z",
+    "pushed_at": "2026-04-28T14:13:24Z",
+    "git_url": "git://github.com/davebcn87/pi-autoresearch.git",
+    "homepage": null,
+    "size": 1329,
+    "stargazers_count": 6260,
+    "watchers_count": 6260,
+    "language": "TypeScript",
+    "forks_count": 355,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1222045086,
+    "name": "axi-front-design-skill",
+    "owner": {
+      "id": 279469461,
+      "url": "https://api.github.com/users/bbostaice",
+      "html_url": "https://github.com/bbostaice",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279469461?v=4"
+    },
+    "html_url": "https://github.com/bbostaice/axi-front-design-skill",
+    "description": "帮你做 PPT、落地页、产品动效和交互原型的 Skill。——by 阿西_出海",
+    "created_at": "2026-04-27T01:49:54Z",
+    "updated_at": "2026-04-29T04:35:27Z",
+    "pushed_at": "2026-04-27T10:45:08Z",
+    "git_url": "git://github.com/bbostaice/axi-front-design-skill.git",
+    "homepage": "https://x.com/axichuhai",
+    "size": 19850,
+    "stargazers_count": 76,
+    "watchers_count": 76,
+    "language": null,
+    "forks_count": 10,
+    "open_issues_count": 0
   }
 ]
