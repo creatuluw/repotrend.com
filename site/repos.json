@@ -31508,5 +31508,51 @@
     "language": "TypeScript",
     "forks_count": 30,
     "open_issues_count": 0
+  },
+  {
+    "id": 1201253077,
+    "name": "OpenKB",
+    "owner": {
+      "id": 133959746,
+      "url": "https://api.github.com/users/VectifyAI",
+      "html_url": "https://github.com/VectifyAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/133959746?v=4"
+    },
+    "html_url": "https://github.com/VectifyAI/OpenKB",
+    "description": "OpenKB: Open LLM Knowledge Base",
+    "created_at": "2026-04-04T12:26:04Z",
+    "updated_at": "2026-04-29T00:54:17Z",
+    "pushed_at": "2026-04-27T09:09:29Z",
+    "git_url": "git://github.com/VectifyAI/OpenKB.git",
+    "homepage": "https://pageindex.ai",
+    "size": 30039,
+    "stargazers_count": 700,
+    "watchers_count": 700,
+    "language": "Python",
+    "forks_count": 68,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1222946560,
+    "name": "agentswift",
+    "owner": {
+      "id": 9709615,
+      "url": "https://api.github.com/users/hpennington",
+      "html_url": "https://github.com/hpennington",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9709615?v=4"
+    },
+    "html_url": "https://github.com/hpennington/agentswift",
+    "description": null,
+    "created_at": "2026-04-27T21:34:10Z",
+    "updated_at": "2026-04-29T00:51:20Z",
+    "pushed_at": "2026-04-28T20:26:05Z",
+    "git_url": "git://github.com/hpennington/agentswift.git",
+    "homepage": null,
+    "size": 26924,
+    "stargazers_count": 84,
+    "watchers_count": 84,
+    "language": "Swift",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
