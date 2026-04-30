@@ -31899,5 +31899,28 @@
     "language": null,
     "forks_count": 28,
     "open_issues_count": 0
+  },
+  {
+    "id": 1222373076,
+    "name": "DrvEye",
+    "owner": {
+      "id": 232367449,
+      "url": "https://api.github.com/users/0xDbgMan",
+      "html_url": "https://github.com/0xDbgMan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/232367449?v=4"
+    },
+    "html_url": "https://github.com/0xDbgMan/DrvEye",
+    "description": "  Static analysis & exploitation-triage toolkit for Windows kernel drivers. Discover IOCTLs, Symbolic Links, and check cert , ",
+    "created_at": "2026-04-27T09:53:24Z",
+    "updated_at": "2026-04-28T15:47:54Z",
+    "pushed_at": "2026-04-27T16:24:02Z",
+    "git_url": "git://github.com/0xDbgMan/DrvEye.git",
+    "homepage": "",
+    "size": 2764,
+    "stargazers_count": 78,
+    "watchers_count": 78,
+    "language": "Python",
+    "forks_count": 13,
+    "open_issues_count": 0
   }
 ]
