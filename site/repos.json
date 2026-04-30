@@ -31853,5 +31853,51 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1222301562,
+    "name": "cookbook",
+    "owner": {
+      "id": 126759922,
+      "url": "https://api.github.com/users/cursor",
+      "html_url": "https://github.com/cursor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126759922?v=4"
+    },
+    "html_url": "https://github.com/cursor/cookbook",
+    "description": null,
+    "created_at": "2026-04-27T08:27:12Z",
+    "updated_at": "2026-04-29T18:38:15Z",
+    "pushed_at": "2026-04-29T17:43:57Z",
+    "git_url": "git://github.com/cursor/cookbook.git",
+    "homepage": null,
+    "size": 2720,
+    "stargazers_count": 773,
+    "watchers_count": 773,
+    "language": "TypeScript",
+    "forks_count": 87,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1222503975,
+    "name": "binance-square-monitor",
+    "owner": {
+      "id": 173913356,
+      "url": "https://api.github.com/users/ZAIJIN88",
+      "html_url": "https://github.com/ZAIJIN88",
+      "avatar_url": "https://avatars.githubusercontent.com/u/173913356?v=4"
+    },
+    "html_url": "https://github.com/ZAIJIN88/binance-square-monitor",
+    "description": "binance-square-monitor",
+    "created_at": "2026-04-27T12:34:37Z",
+    "updated_at": "2026-04-29T14:36:07Z",
+    "pushed_at": "2026-04-27T14:03:04Z",
+    "git_url": "git://github.com/ZAIJIN88/binance-square-monitor.git",
+    "homepage": null,
+    "size": 132,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": null,
+    "forks_count": 28,
+    "open_issues_count": 0
   }
 ]
