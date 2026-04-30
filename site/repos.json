@@ -32060,5 +32060,51 @@
     "language": null,
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1210218287,
+    "name": "USB-Uncensored-LLM",
+    "owner": {
+      "id": 54399984,
+      "url": "https://api.github.com/users/techjarves",
+      "html_url": "https://github.com/techjarves",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54399984?v=4"
+    },
+    "html_url": "https://github.com/techjarves/USB-Uncensored-LLM",
+    "description": "The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history.",
+    "created_at": "2026-04-14T07:43:10Z",
+    "updated_at": "2026-04-30T05:17:30Z",
+    "pushed_at": "2026-04-18T11:01:04Z",
+    "git_url": "git://github.com/techjarves/USB-Uncensored-LLM.git",
+    "homepage": "",
+    "size": 77,
+    "stargazers_count": 626,
+    "watchers_count": 626,
+    "language": "Shell",
+    "forks_count": 147,
+    "open_issues_count": 17
+  },
+  {
+    "id": 1222760229,
+    "name": "Sketchfab-Ripper",
+    "owner": {
+      "id": 177901754,
+      "url": "https://api.github.com/users/Sanjundar",
+      "html_url": "https://github.com/Sanjundar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/177901754?v=4"
+    },
+    "html_url": "https://github.com/Sanjundar/Sketchfab-Ripper",
+    "description": "Download any 3D model from Sketchfab",
+    "created_at": "2026-04-27T17:21:37Z",
+    "updated_at": "2026-04-30T04:29:50Z",
+    "pushed_at": "2026-04-27T17:29:45Z",
+    "git_url": "git://github.com/Sanjundar/Sketchfab-Ripper.git",
+    "homepage": null,
+    "size": 4,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
