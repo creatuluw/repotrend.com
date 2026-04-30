@@ -32313,5 +32313,51 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1220026502,
+    "name": "ps5-linux-loader",
+    "owner": {
+      "id": 278984012,
+      "url": "https://api.github.com/users/ps5-linux",
+      "html_url": "https://github.com/ps5-linux",
+      "avatar_url": "https://avatars.githubusercontent.com/u/278984012?v=4"
+    },
+    "html_url": "https://github.com/ps5-linux/ps5-linux-loader",
+    "description": "Linux payload implementing the HV exploit and a custom bootloader",
+    "created_at": "2026-04-24T13:19:30Z",
+    "updated_at": "2026-04-30T12:41:43Z",
+    "pushed_at": "2026-04-30T08:09:53Z",
+    "git_url": "git://github.com/ps5-linux/ps5-linux-loader.git",
+    "homepage": "",
+    "size": 561,
+    "stargazers_count": 691,
+    "watchers_count": 691,
+    "language": "C",
+    "forks_count": 41,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1223536421,
+    "name": "cosmo-tui",
+    "owner": {
+      "id": 206466005,
+      "url": "https://api.github.com/users/irahulstomar",
+      "html_url": "https://github.com/irahulstomar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/206466005?v=4"
+    },
+    "html_url": "https://github.com/irahulstomar/cosmo-tui",
+    "description": "A terminal dashboard for NASA's open data",
+    "created_at": "2026-04-28T12:19:48Z",
+    "updated_at": "2026-04-29T17:45:34Z",
+    "pushed_at": "2026-04-28T23:03:51Z",
+    "git_url": "git://github.com/irahulstomar/cosmo-tui.git",
+    "homepage": null,
+    "size": 75,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "Python",
+    "forks_count": 7,
+    "open_issues_count": 0
   }
 ]
