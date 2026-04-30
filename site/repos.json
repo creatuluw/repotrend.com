@@ -31922,5 +31922,51 @@
     "language": "Python",
     "forks_count": 13,
     "open_issues_count": 0
+  },
+  {
+    "id": 1198604352,
+    "name": "cheetahclaws",
+    "owner": {
+      "id": 113200031,
+      "url": "https://api.github.com/users/SafeRL-Lab",
+      "html_url": "https://github.com/SafeRL-Lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113200031?v=4"
+    },
+    "html_url": "https://github.com/SafeRL-Lab/cheetahclaws",
+    "description": "CheetahClaws (Nano Claude Code): A Fast, Easy-to-Use, Production-Ready, Python-Native Personal AI Assistant for Any Model, Inspired by OpenClaw and Claude Code, Built to Work for You Autonomously 24/7.",
+    "created_at": "2026-04-01T15:23:36Z",
+    "updated_at": "2026-04-29T16:08:49Z",
+    "pushed_at": "2026-04-29T16:08:43Z",
+    "git_url": "git://github.com/SafeRL-Lab/cheetahclaws.git",
+    "homepage": "https://cheetahclaws.github.io",
+    "size": 9369,
+    "stargazers_count": 624,
+    "watchers_count": 624,
+    "language": "Python",
+    "forks_count": 233,
+    "open_issues_count": 22
+  },
+  {
+    "id": 1222167768,
+    "name": "korean-voice-acting-engine",
+    "owner": {
+      "id": 33678272,
+      "url": "https://api.github.com/users/sinmb79",
+      "html_url": "https://github.com/sinmb79",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33678272?v=4"
+    },
+    "html_url": "https://github.com/sinmb79/korean-voice-acting-engine",
+    "description": "Local-first Korean voice acting engine for Codex-assisted training, voice conversion, and audio review",
+    "created_at": "2026-04-27T05:30:11Z",
+    "updated_at": "2026-04-29T17:18:24Z",
+    "pushed_at": "2026-04-29T12:29:51Z",
+    "git_url": "git://github.com/sinmb79/korean-voice-acting-engine.git",
+    "homepage": null,
+    "size": 549,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
