@@ -32267,5 +32267,28 @@
     "language": null,
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1222320291,
+    "name": "GeoMind",
+    "owner": {
+      "id": 266953785,
+      "url": "https://api.github.com/users/lucianaib0318",
+      "html_url": "https://github.com/lucianaib0318",
+      "avatar_url": "https://avatars.githubusercontent.com/u/266953785?v=4"
+    },
+    "html_url": "https://github.com/lucianaib0318/GeoMind",
+    "description": "🌍 GeoMind：基于飞书 CLI + 腾讯位置的科研与产业地理情报可视化 Skill",
+    "created_at": "2026-04-27T08:49:23Z",
+    "updated_at": "2026-04-30T12:41:28Z",
+    "pushed_at": "2026-04-28T04:52:31Z",
+    "git_url": "git://github.com/lucianaib0318/GeoMind.git",
+    "homepage": null,
+    "size": 60817,
+    "stargazers_count": 62,
+    "watchers_count": 62,
+    "language": "TypeScript",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
