@@ -32405,5 +32405,51 @@
     "language": "C",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1201061111,
+    "name": "yojam",
+    "owner": {
+      "id": 1944293,
+      "url": "https://api.github.com/users/fluffypony",
+      "html_url": "https://github.com/fluffypony",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1944293?v=4"
+    },
+    "html_url": "https://github.com/fluffypony/yojam",
+    "description": "open links on macOS in whatever browser, app, or profile you need - whatever yo jam is",
+    "created_at": "2026-04-04T06:43:12Z",
+    "updated_at": "2026-04-30T17:53:43Z",
+    "pushed_at": "2026-04-22T15:54:39Z",
+    "git_url": "git://github.com/fluffypony/yojam.git",
+    "homepage": "",
+    "size": 3938,
+    "stargazers_count": 726,
+    "watchers_count": 726,
+    "language": "Swift",
+    "forks_count": 2,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1224251504,
+    "name": "gh-dashboard",
+    "owner": {
+      "id": 3198901,
+      "url": "https://api.github.com/users/debba",
+      "html_url": "https://github.com/debba",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3198901?v=4"
+    },
+    "html_url": "https://github.com/debba/gh-dashboard",
+    "description": "Open-source Github dashboard built on REST and GraphQL APIs: repositories, issues, pull requests, traffic, Actions, contributors, dependents, and a kanban board view.",
+    "created_at": "2026-04-29T05:21:26Z",
+    "updated_at": "2026-04-30T18:32:27Z",
+    "pushed_at": "2026-04-29T16:01:06Z",
+    "git_url": "git://github.com/debba/gh-dashboard.git",
+    "homepage": "",
+    "size": 32010,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": "TypeScript",
+    "forks_count": 5,
+    "open_issues_count": 1
   }
 ]
