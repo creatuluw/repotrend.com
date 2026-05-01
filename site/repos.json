@@ -32819,5 +32819,51 @@
     "language": "Solidity",
     "forks_count": 327,
     "open_issues_count": 1
+  },
+  {
+    "id": 1202815922,
+    "name": "maoxuan-skill",
+    "owner": {
+      "id": 41156182,
+      "url": "https://api.github.com/users/leezythu",
+      "html_url": "https://github.com/leezythu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41156182?v=4"
+    },
+    "html_url": "https://github.com/leezythu/maoxuan-skill",
+    "description": "毛选.skill — 让毛泽东的思维框架帮你分析问题、制定策略、看透本质。7个核心心智模型 · 10条决策启发式 · 完整表达DNA。不是复读语录，是用他的认知框架帮你看问题。",
+    "created_at": "2026-04-06T12:36:04Z",
+    "updated_at": "2026-05-01T06:44:34Z",
+    "pushed_at": "2026-04-08T08:27:19Z",
+    "git_url": "git://github.com/leezythu/maoxuan-skill.git",
+    "homepage": null,
+    "size": 35,
+    "stargazers_count": 623,
+    "watchers_count": 623,
+    "language": null,
+    "forks_count": 78,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1223084570,
+    "name": "Meta-CoT",
+    "owner": {
+      "id": 109779406,
+      "url": "https://api.github.com/users/shiyi-zh0408",
+      "html_url": "https://github.com/shiyi-zh0408",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109779406?v=4"
+    },
+    "html_url": "https://github.com/shiyi-zh0408/Meta-CoT",
+    "description": "[CVPR 2026] Official code of the paper \"Meta-CoT: Enhancing Granularity and Generalization in Image Editing\"",
+    "created_at": "2026-04-28T01:56:58Z",
+    "updated_at": "2026-04-30T16:47:24Z",
+    "pushed_at": "2026-04-28T02:31:12Z",
+    "git_url": "git://github.com/shiyi-zh0408/Meta-CoT.git",
+    "homepage": null,
+    "size": 16050,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
