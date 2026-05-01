@@ -32451,5 +32451,28 @@
     "language": "TypeScript",
     "forks_count": 5,
     "open_issues_count": 1
+  },
+  {
+    "id": 1223067277,
+    "name": "counsel",
+    "owner": {
+      "id": 29005150,
+      "url": "https://api.github.com/users/asdff342ae",
+      "html_url": "https://github.com/asdff342ae",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29005150?v=4"
+    },
+    "html_url": "https://github.com/asdff342ae/counsel",
+    "description": "An AI defense attorney for high-profile public disputes. Pick a side. Counsel builds the defense.",
+    "created_at": "2026-04-28T01:26:25Z",
+    "updated_at": "2026-04-30T14:15:41Z",
+    "pushed_at": "2026-04-29T14:02:21Z",
+    "git_url": "git://github.com/asdff342ae/counsel.git",
+    "homepage": "https://counselprotocol.com/",
+    "size": 70,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
