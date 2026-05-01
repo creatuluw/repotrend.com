@@ -32589,5 +32589,51 @@
     "language": "Python",
     "forks_count": 25,
     "open_issues_count": 1
+  },
+  {
+    "id": 1199028956,
+    "name": "helmor",
+    "owner": {
+      "id": 32405058,
+      "url": "https://api.github.com/users/dohooo",
+      "html_url": "https://github.com/dohooo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32405058?v=4"
+    },
+    "html_url": "https://github.com/dohooo/helmor",
+    "description": "Open-source local workbench for multi-agent software development.",
+    "created_at": "2026-04-02T01:49:14Z",
+    "updated_at": "2026-05-01T00:18:57Z",
+    "pushed_at": "2026-04-30T15:25:20Z",
+    "git_url": "git://github.com/dohooo/helmor.git",
+    "homepage": "https://helmor.ai",
+    "size": 48235,
+    "stargazers_count": 616,
+    "watchers_count": 616,
+    "language": "TypeScript",
+    "forks_count": 50,
+    "open_issues_count": 19
+  },
+  {
+    "id": 1222252809,
+    "name": "openless",
+    "owner": {
+      "id": 192432815,
+      "url": "https://api.github.com/users/appergb",
+      "html_url": "https://github.com/appergb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192432815?v=4"
+    },
+    "html_url": "https://github.com/appergb/openless",
+    "description": "Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)",
+    "created_at": "2026-04-27T07:25:49Z",
+    "updated_at": "2026-04-30T18:33:21Z",
+    "pushed_at": "2026-04-30T16:15:57Z",
+    "git_url": "git://github.com/appergb/openless.git",
+    "homepage": "https://github.com/appergb/openless",
+    "size": 5195,
+    "stargazers_count": 74,
+    "watchers_count": 74,
+    "language": "HTML",
+    "forks_count": 8,
+    "open_issues_count": 24
   }
 ]
