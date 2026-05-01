@@ -32474,5 +32474,28 @@
     "language": "Python",
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1223357484,
+    "name": "GmgnTwitterTgAlert",
+    "owner": {
+      "id": 126341195,
+      "url": "https://api.github.com/users/Tech-Melon",
+      "html_url": "https://github.com/Tech-Melon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126341195?v=4"
+    },
+    "html_url": "https://github.com/Tech-Melon/GmgnTwitterTgAlert",
+    "description": "只要gmgn不倒闭，就能拥有自己的推特追踪器",
+    "created_at": "2026-04-28T08:44:32Z",
+    "updated_at": "2026-04-30T12:13:10Z",
+    "pushed_at": "2026-04-29T15:24:42Z",
+    "git_url": "git://github.com/Tech-Melon/GmgnTwitterTgAlert.git",
+    "homepage": "https://docs.tech-melon.top",
+    "size": 126,
+    "stargazers_count": 70,
+    "watchers_count": 70,
+    "language": "Python",
+    "forks_count": 32,
+    "open_issues_count": 0
   }
 ]
