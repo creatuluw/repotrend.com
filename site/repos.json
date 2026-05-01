@@ -32727,5 +32727,51 @@
     "language": null,
     "forks_count": 13,
     "open_issues_count": 0
+  },
+  {
+    "id": 1223476197,
+    "name": "chromex",
+    "owner": {
+      "id": 131945398,
+      "url": "https://api.github.com/users/GENEXIS-AI",
+      "html_url": "https://github.com/GENEXIS-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131945398?v=4"
+    },
+    "html_url": "https://github.com/GENEXIS-AI/chromex",
+    "description": "A Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows.",
+    "created_at": "2026-04-28T11:08:06Z",
+    "updated_at": "2026-05-01T06:48:30Z",
+    "pushed_at": "2026-04-30T08:03:09Z",
+    "git_url": "git://github.com/GENEXIS-AI/chromex.git",
+    "homepage": null,
+    "size": 5422,
+    "stargazers_count": 704,
+    "watchers_count": 704,
+    "language": "TypeScript",
+    "forks_count": 58,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1224204306,
+    "name": "netlify-XHHTP",
+    "owner": {
+      "id": 280159435,
+      "url": "https://api.github.com/users/avacocloud",
+      "html_url": "https://github.com/avacocloud",
+      "avatar_url": "https://avatars.githubusercontent.com/u/280159435?v=4"
+    },
+    "html_url": "https://github.com/avacocloud/netlify-XHHTP",
+    "description": null,
+    "created_at": "2026-04-29T03:57:25Z",
+    "updated_at": "2026-05-01T05:52:11Z",
+    "pushed_at": "2026-04-29T06:39:19Z",
+    "git_url": "git://github.com/avacocloud/netlify-XHHTP.git",
+    "homepage": null,
+    "size": 17,
+    "stargazers_count": 70,
+    "watchers_count": 70,
+    "language": "JavaScript",
+    "forks_count": 392,
+    "open_issues_count": 0
   }
 ]
