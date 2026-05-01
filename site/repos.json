@@ -32773,5 +32773,51 @@
     "language": "JavaScript",
     "forks_count": 392,
     "open_issues_count": 0
+  },
+  {
+    "id": 1204501218,
+    "name": "wechat-cli",
+    "owner": {
+      "id": 38516552,
+      "url": "https://api.github.com/users/huohuoer",
+      "html_url": "https://github.com/huohuoer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38516552?v=4"
+    },
+    "html_url": "https://github.com/huohuoer/wechat-cli",
+    "description": "A CLI tool to query your local WeChat data — chat history, contacts, sessions, favorites, and more. Designed for LLM integration.",
+    "created_at": "2026-04-08T04:15:11Z",
+    "updated_at": "2026-05-01T06:44:35Z",
+    "pushed_at": "2026-04-06T01:52:04Z",
+    "git_url": "git://github.com/huohuoer/wechat-cli.git",
+    "homepage": "https://wesight.ai/",
+    "size": 4677,
+    "stargazers_count": 627,
+    "watchers_count": 627,
+    "language": null,
+    "forks_count": 1189,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1224843664,
+    "name": "smartbugs-curated",
+    "owner": {
+      "id": 280476892,
+      "url": "https://api.github.com/users/benqi-finance",
+      "html_url": "https://github.com/benqi-finance",
+      "avatar_url": "https://avatars.githubusercontent.com/u/280476892?v=4"
+    },
+    "html_url": "https://github.com/benqi-finance/smartbugs-curated",
+    "description": "SB Curated is a curated dataset of Solidity smart contracts annotated with tagged vulnerabilities. The dataset was created to evaluate the accuracy of automated analysis tools.",
+    "created_at": "2026-04-29T17:27:24Z",
+    "updated_at": "2026-05-01T04:29:15Z",
+    "pushed_at": "2026-04-29T17:37:16Z",
+    "git_url": "git://github.com/benqi-finance/smartbugs-curated.git",
+    "homepage": null,
+    "size": 173,
+    "stargazers_count": 89,
+    "watchers_count": 89,
+    "language": "Solidity",
+    "forks_count": 327,
+    "open_issues_count": 1
   }
 ]
