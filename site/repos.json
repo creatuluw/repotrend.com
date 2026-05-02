@@ -33256,5 +33256,51 @@
     "language": "Go",
     "forks_count": 520,
     "open_issues_count": 0
+  },
+  {
+    "id": 1218014178,
+    "name": "social-media-skills",
+    "owner": {
+      "id": 255382850,
+      "url": "https://api.github.com/users/charlie947",
+      "html_url": "https://github.com/charlie947",
+      "avatar_url": "https://avatars.githubusercontent.com/u/255382850?v=4"
+    },
+    "html_url": "https://github.com/charlie947/social-media-skills",
+    "description": null,
+    "created_at": "2026-04-22T12:56:33Z",
+    "updated_at": "2026-05-01T18:26:31Z",
+    "pushed_at": "2026-04-27T14:33:34Z",
+    "git_url": "git://github.com/charlie947/social-media-skills.git",
+    "homepage": null,
+    "size": 112,
+    "stargazers_count": 628,
+    "watchers_count": 628,
+    "language": "Shell",
+    "forks_count": 163,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1223483619,
+    "name": "pi-config",
+    "owner": {
+      "id": 255718537,
+      "url": "https://api.github.com/users/amosblomqvist",
+      "html_url": "https://github.com/amosblomqvist",
+      "avatar_url": "https://avatars.githubusercontent.com/u/255718537?v=4"
+    },
+    "html_url": "https://github.com/amosblomqvist/pi-config",
+    "description": null,
+    "created_at": "2026-04-28T11:17:15Z",
+    "updated_at": "2026-05-01T17:16:53Z",
+    "pushed_at": "2026-04-28T11:17:45Z",
+    "git_url": "git://github.com/amosblomqvist/pi-config.git",
+    "homepage": null,
+    "size": 89,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": "TypeScript",
+    "forks_count": 12,
+    "open_issues_count": 1
   }
 ]
