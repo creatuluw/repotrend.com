@@ -33486,5 +33486,51 @@
     "language": "JavaScript",
     "forks_count": 2,
     "open_issues_count": 12
+  },
+  {
+    "id": 1202566439,
+    "name": "PlotPilot",
+    "owner": {
+      "id": 112049634,
+      "url": "https://api.github.com/users/shenminglinyi",
+      "html_url": "https://github.com/shenminglinyi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112049634?v=4"
+    },
+    "html_url": "https://github.com/shenminglinyi/PlotPilot",
+    "description": "【墨枢】作者的领航员",
+    "created_at": "2026-04-06T06:45:44Z",
+    "updated_at": "2026-05-02T08:50:16Z",
+    "pushed_at": "2026-04-25T14:51:38Z",
+    "git_url": "git://github.com/shenminglinyi/PlotPilot.git",
+    "homepage": null,
+    "size": 27163,
+    "stargazers_count": 620,
+    "watchers_count": 620,
+    "language": "Python",
+    "forks_count": 261,
+    "open_issues_count": 9
+  },
+  {
+    "id": 1225042084,
+    "name": "git-commands-cheatsheet",
+    "owner": {
+      "id": 155462072,
+      "url": "https://api.github.com/users/abdosorour7",
+      "html_url": "https://github.com/abdosorour7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/155462072?v=4"
+    },
+    "html_url": "https://github.com/abdosorour7/git-commands-cheatsheet",
+    "description": "The ultimate Git Commands Cheatsheet: searchable, copy-ready, and organized for real-world developer workflows.",
+    "created_at": "2026-04-29T22:19:23Z",
+    "updated_at": "2026-05-02T11:25:19Z",
+    "pushed_at": "2026-04-30T01:59:16Z",
+    "git_url": "git://github.com/abdosorour7/git-commands-cheatsheet.git",
+    "homepage": "https://abdosorour7.github.io/git-commands-cheatsheet/",
+    "size": 478,
+    "stargazers_count": 97,
+    "watchers_count": 97,
+    "language": "CSS",
+    "forks_count": 12,
+    "open_issues_count": 3
   }
 ]
