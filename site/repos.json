@@ -33394,5 +33394,51 @@
     "language": "HTML",
     "forks_count": 11,
     "open_issues_count": 0
+  },
+  {
+    "id": 1204466824,
+    "name": "Happy-Horse-1.0",
+    "owner": {
+      "id": 193594001,
+      "url": "https://api.github.com/users/brooks376",
+      "html_url": "https://github.com/brooks376",
+      "avatar_url": "https://avatars.githubusercontent.com/u/193594001?v=4"
+    },
+    "html_url": "https://github.com/brooks376/Happy-Horse-1.0",
+    "description": "Information collection for the Happy Horse AI video generator model. Official demo and updates at happyhorses.io.",
+    "created_at": "2026-04-08T03:15:48Z",
+    "updated_at": "2026-05-02T05:19:26Z",
+    "pushed_at": "2026-04-27T16:03:23Z",
+    "git_url": "git://github.com/brooks376/Happy-Horse-1.0.git",
+    "homepage": "https://happyhorses.io/",
+    "size": 48,
+    "stargazers_count": 613,
+    "watchers_count": 613,
+    "language": null,
+    "forks_count": 60,
+    "open_issues_count": 9
+  },
+  {
+    "id": 1225152054,
+    "name": "context-bridge",
+    "owner": {
+      "id": 100029348,
+      "url": "https://api.github.com/users/ershiyidian",
+      "html_url": "https://github.com/ershiyidian",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100029348?v=4"
+    },
+    "html_url": "https://github.com/ershiyidian/context-bridge",
+    "description": null,
+    "created_at": "2026-04-30T02:05:29Z",
+    "updated_at": "2026-05-01T10:35:04Z",
+    "pushed_at": "2026-04-30T09:07:43Z",
+    "git_url": "git://github.com/ershiyidian/context-bridge.git",
+    "homepage": null,
+    "size": 103,
+    "stargazers_count": 92,
+    "watchers_count": 92,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
