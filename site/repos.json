@@ -33164,5 +33164,51 @@
     "language": "JavaScript",
     "forks_count": 5,
     "open_issues_count": 6
+  },
+  {
+    "id": 1211084450,
+    "name": "WorldSeed",
+    "owner": {
+      "id": 226059021,
+      "url": "https://api.github.com/users/AIScientists-Dev",
+      "html_url": "https://github.com/AIScientists-Dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/226059021?v=4"
+    },
+    "html_url": "https://github.com/AIScientists-Dev/WorldSeed",
+    "description": "More is Different. A multi-agent world engine where AI agents live, talk, compete, ally.",
+    "created_at": "2026-04-15T03:47:21Z",
+    "updated_at": "2026-05-01T21:30:04Z",
+    "pushed_at": "2026-04-28T05:05:25Z",
+    "git_url": "git://github.com/AIScientists-Dev/WorldSeed.git",
+    "homepage": "https://worldseed.morphmind.ai/demo",
+    "size": 83137,
+    "stargazers_count": 607,
+    "watchers_count": 607,
+    "language": "Python",
+    "forks_count": 25,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1224146882,
+    "name": "SatoshiGuesser",
+    "owner": {
+      "id": 9423482,
+      "url": "https://api.github.com/users/Pathos0925",
+      "html_url": "https://github.com/Pathos0925",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9423482?v=4"
+    },
+    "html_url": "https://github.com/Pathos0925/SatoshiGuesser",
+    "description": "Roll for lost bitcoin.",
+    "created_at": "2026-04-29T02:16:32Z",
+    "updated_at": "2026-04-30T18:29:52Z",
+    "pushed_at": "2026-04-29T19:42:13Z",
+    "git_url": "git://github.com/Pathos0925/SatoshiGuesser.git",
+    "homepage": "https://satoshiguesser.com",
+    "size": 621,
+    "stargazers_count": 85,
+    "watchers_count": 85,
+    "language": "JavaScript",
+    "forks_count": 23,
+    "open_issues_count": 0
   }
 ]
