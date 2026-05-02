@@ -33440,5 +33440,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1219378569,
+    "name": "gpt_image_playground",
+    "owner": {
+      "id": 151028412,
+      "url": "https://api.github.com/users/CookSleep",
+      "html_url": "https://github.com/CookSleep",
+      "avatar_url": "https://avatars.githubusercontent.com/u/151028412?v=4"
+    },
+    "html_url": "https://github.com/CookSleep/gpt_image_playground",
+    "description": "基于 OpenAI gpt-image-2 接口的图片生成与编辑工具",
+    "created_at": "2026-04-23T20:18:57Z",
+    "updated_at": "2026-05-02T06:46:19Z",
+    "pushed_at": "2026-05-01T08:16:00Z",
+    "git_url": "git://github.com/CookSleep/gpt_image_playground.git",
+    "homepage": "https://gpt-image-playground.cooksleep.dev",
+    "size": 8345,
+    "stargazers_count": 621,
+    "watchers_count": 621,
+    "language": "TypeScript",
+    "forks_count": 204,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1226007299,
+    "name": "klattsch",
+    "owner": {
+      "id": 1594352,
+      "url": "https://api.github.com/users/tgies",
+      "html_url": "https://github.com/tgies",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1594352?v=4"
+    },
+    "html_url": "https://github.com/tgies/klattsch",
+    "description": "primitive parallel-formant speech synth in the browser",
+    "created_at": "2026-04-30T21:57:14Z",
+    "updated_at": "2026-05-02T06:42:37Z",
+    "pushed_at": "2026-05-02T06:42:34Z",
+    "git_url": "git://github.com/tgies/klattsch.git",
+    "homepage": "https://tgies.github.io/klattsch/",
+    "size": 99,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 12
   }
 ]
