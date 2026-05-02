@@ -33670,5 +33670,51 @@
     "language": "TypeScript",
     "forks_count": 4,
     "open_issues_count": 1
+  },
+  {
+    "id": 1226379024,
+    "name": "dictionary-of-ai-coding",
+    "owner": {
+      "id": 28293365,
+      "url": "https://api.github.com/users/mattpocock",
+      "html_url": "https://github.com/mattpocock",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28293365?v=4"
+    },
+    "html_url": "https://github.com/mattpocock/dictionary-of-ai-coding",
+    "description": "AI coding jargon, explained in plain English.",
+    "created_at": "2026-05-01T10:17:05Z",
+    "updated_at": "2026-05-02T18:23:21Z",
+    "pushed_at": "2026-05-01T12:33:35Z",
+    "git_url": "git://github.com/mattpocock/dictionary-of-ai-coding.git",
+    "homepage": "",
+    "size": 272,
+    "stargazers_count": 620,
+    "watchers_count": 620,
+    "language": "TypeScript",
+    "forks_count": 95,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1225564352,
+    "name": "web-scroll-video",
+    "owner": {
+      "id": 70291621,
+      "url": "https://api.github.com/users/upenn",
+      "html_url": "https://github.com/upenn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70291621?v=4"
+    },
+    "html_url": "https://github.com/upenn/web-scroll-video",
+    "description": null,
+    "created_at": "2026-04-30T12:09:23Z",
+    "updated_at": "2026-05-02T16:00:13Z",
+    "pushed_at": "2026-04-30T12:47:48Z",
+    "git_url": "git://github.com/upenn/web-scroll-video.git",
+    "homepage": null,
+    "size": 29,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
