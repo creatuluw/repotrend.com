@@ -33578,5 +33578,51 @@
     "language": null,
     "forks_count": 258,
     "open_issues_count": 0
+  },
+  {
+    "id": 1213220459,
+    "name": "open-codex-computer-use",
+    "owner": {
+      "id": 16201837,
+      "url": "https://api.github.com/users/iFurySt",
+      "html_url": "https://github.com/iFurySt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16201837?v=4"
+    },
+    "html_url": "https://github.com/iFurySt/open-codex-computer-use",
+    "description": "👾 Open Computer Use – Open-Source Alternative to Codex Computer Use",
+    "created_at": "2026-04-17T06:51:32Z",
+    "updated_at": "2026-05-02T09:00:18Z",
+    "pushed_at": "2026-04-23T06:38:31Z",
+    "git_url": "git://github.com/iFurySt/open-codex-computer-use.git",
+    "homepage": "",
+    "size": 2389,
+    "stargazers_count": 627,
+    "watchers_count": 627,
+    "language": "Swift",
+    "forks_count": 74,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1224739912,
+    "name": "laravel-brain",
+    "owner": {
+      "id": 280440068,
+      "url": "https://api.github.com/users/laramint",
+      "html_url": "https://github.com/laramint",
+      "avatar_url": "https://avatars.githubusercontent.com/u/280440068?v=4"
+    },
+    "html_url": "https://github.com/laramint/laravel-brain",
+    "description": "Visualize your Laravel request lifecycle as an interactive graph",
+    "created_at": "2026-04-29T15:22:40Z",
+    "updated_at": "2026-05-02T12:00:02Z",
+    "pushed_at": "2026-05-02T01:14:56Z",
+    "git_url": "git://github.com/laramint/laravel-brain.git",
+    "homepage": "https://laramint.dev/",
+    "size": 3053,
+    "stargazers_count": 78,
+    "watchers_count": 78,
+    "language": "PHP",
+    "forks_count": 4,
+    "open_issues_count": 2
   }
 ]
