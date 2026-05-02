@@ -33118,5 +33118,51 @@
     "language": "Kotlin",
     "forks_count": 0,
     "open_issues_count": 1
+  },
+  {
+    "id": 1218823179,
+    "name": "world2agent",
+    "owner": {
+      "id": 243333502,
+      "url": "https://api.github.com/users/machinepulse-ai",
+      "html_url": "https://github.com/machinepulse-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/243333502?v=4"
+    },
+    "html_url": "https://github.com/machinepulse-ai/world2agent",
+    "description": "World2Agent(W2A) is an open protocol that standardizes how Al agents perceive the real world.",
+    "created_at": "2026-04-23T08:49:29Z",
+    "updated_at": "2026-05-01T18:26:22Z",
+    "pushed_at": "2026-04-30T13:57:10Z",
+    "git_url": "git://github.com/machinepulse-ai/world2agent.git",
+    "homepage": "https://world2agent.ai",
+    "size": 4939,
+    "stargazers_count": 727,
+    "watchers_count": 727,
+    "language": "TypeScript",
+    "forks_count": 12,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1222258735,
+    "name": "pullmd",
+    "owner": {
+      "id": 263174715,
+      "url": "https://api.github.com/users/AeternaLabsHQ",
+      "html_url": "https://github.com/AeternaLabsHQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/263174715?v=4"
+    },
+    "html_url": "https://github.com/AeternaLabsHQ/pullmd",
+    "description": "Self-hosted URL-to-Markdown service for humans and AI agents. PWA + REST + MCP + Claude Code skill, with Reddit support and refreshable share links.",
+    "created_at": "2026-04-27T07:32:25Z",
+    "updated_at": "2026-04-30T00:46:46Z",
+    "pushed_at": "2026-04-29T18:32:33Z",
+    "git_url": "git://github.com/AeternaLabsHQ/pullmd.git",
+    "homepage": null,
+    "size": 790,
+    "stargazers_count": 97,
+    "watchers_count": 97,
+    "language": "JavaScript",
+    "forks_count": 5,
+    "open_issues_count": 6
   }
 ]
