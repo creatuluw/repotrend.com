@@ -33210,5 +33210,51 @@
     "language": "JavaScript",
     "forks_count": 23,
     "open_issues_count": 0
+  },
+  {
+    "id": 1212568395,
+    "name": "OmniAgent",
+    "owner": {
+      "id": 276625368,
+      "url": "https://api.github.com/users/YeQing17-2026",
+      "html_url": "https://github.com/YeQing17-2026",
+      "avatar_url": "https://avatars.githubusercontent.com/u/276625368?v=4"
+    },
+    "html_url": "https://github.com/YeQing17-2026/OmniAgent",
+    "description": "An agent capable of self-evolving and dynamically hardening security",
+    "created_at": "2026-04-16T14:04:36Z",
+    "updated_at": "2026-05-02T00:47:03Z",
+    "pushed_at": "2026-04-19T14:28:59Z",
+    "git_url": "git://github.com/YeQing17-2026/OmniAgent.git",
+    "homepage": "https://yeqing17-2026.github.io/OmniAgent/",
+    "size": 16542,
+    "stargazers_count": 647,
+    "watchers_count": 647,
+    "language": "Python",
+    "forks_count": 117,
+    "open_issues_count": 24
+  },
+  {
+    "id": 1224843711,
+    "name": "legalmarkdown",
+    "owner": {
+      "id": 280476892,
+      "url": "https://api.github.com/users/benqi-finance",
+      "html_url": "https://github.com/benqi-finance",
+      "avatar_url": "https://avatars.githubusercontent.com/u/280476892?v=4"
+    },
+    "html_url": "https://github.com/benqi-finance/legalmarkdown",
+    "description": "Eris Legal Markdown -- Putting the Contract in Smart Contracts",
+    "created_at": "2026-04-29T17:27:27Z",
+    "updated_at": "2026-05-02T00:29:20Z",
+    "pushed_at": "2026-04-29T17:37:28Z",
+    "git_url": "git://github.com/benqi-finance/legalmarkdown.git",
+    "homepage": null,
+    "size": 232,
+    "stargazers_count": 99,
+    "watchers_count": 99,
+    "language": "Go",
+    "forks_count": 520,
+    "open_issues_count": 0
   }
 ]
