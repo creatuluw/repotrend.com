@@ -33532,5 +33532,51 @@
     "language": "CSS",
     "forks_count": 12,
     "open_issues_count": 3
+  },
+  {
+    "id": 1222521101,
+    "name": "AIbijia",
+    "owner": {
+      "id": 279716989,
+      "url": "https://api.github.com/users/ka-pi-ba-la",
+      "html_url": "https://github.com/ka-pi-ba-la",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279716989?v=4"
+    },
+    "html_url": "https://github.com/ka-pi-ba-la/AIbijia",
+    "description": "分享便宜靠谱Token，抹平信息差",
+    "created_at": "2026-04-27T12:55:00Z",
+    "updated_at": "2026-05-02T12:13:03Z",
+    "pushed_at": "2026-05-01T14:43:54Z",
+    "git_url": "git://github.com/ka-pi-ba-la/AIbijia.git",
+    "homepage": "https://aibijia.org",
+    "size": 4587,
+    "stargazers_count": 631,
+    "watchers_count": 631,
+    "language": null,
+    "forks_count": 27,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1226670531,
+    "name": "react_tanstack",
+    "owner": {
+      "id": 280848245,
+      "url": "https://api.github.com/users/ApexNextGroup",
+      "html_url": "https://github.com/ApexNextGroup",
+      "avatar_url": "https://avatars.githubusercontent.com/u/280848245?v=4"
+    },
+    "html_url": "https://github.com/ApexNextGroup/react_tanstack",
+    "description": null,
+    "created_at": "2026-05-01T17:35:19Z",
+    "updated_at": "2026-05-02T12:03:33Z",
+    "pushed_at": "2026-05-01T17:35:20Z",
+    "git_url": "git://github.com/ApexNextGroup/react_tanstack.git",
+    "homepage": null,
+    "size": 0,
+    "stargazers_count": 91,
+    "watchers_count": 91,
+    "language": null,
+    "forks_count": 258,
+    "open_issues_count": 0
   }
 ]
