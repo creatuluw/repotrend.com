@@ -33808,5 +33808,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1202420883,
+    "name": "yao-open-skills",
+    "owner": {
+      "id": 266242792,
+      "url": "https://api.github.com/users/yaojingang",
+      "html_url": "https://github.com/yaojingang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/266242792?v=4"
+    },
+    "html_url": "https://github.com/yaojingang/yao-open-skills",
+    "description": "OpenYao 公开 Skill 合集：把决策、商业分析、学习教程、研究取证和文档生成流程沉淀成可复用的 AI 资产。",
+    "created_at": "2026-04-06T02:19:10Z",
+    "updated_at": "2026-05-02T16:46:14Z",
+    "pushed_at": "2026-04-30T06:28:50Z",
+    "git_url": "git://github.com/yaojingang/yao-open-skills.git",
+    "homepage": null,
+    "size": 16592,
+    "stargazers_count": 640,
+    "watchers_count": 640,
+    "language": "HTML",
+    "forks_count": 77,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1226886541,
+    "name": "governor",
+    "owner": {
+      "id": 60388359,
+      "url": "https://api.github.com/users/0xhimanshu",
+      "html_url": "https://github.com/0xhimanshu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60388359?v=4"
+    },
+    "html_url": "https://github.com/0xhimanshu/governor",
+    "description": "Claude Code usage governor: compact professional output, context slimming, tool-output filtering, telemetry, and drift guardrails.",
+    "created_at": "2026-05-01T23:56:31Z",
+    "updated_at": "2026-05-02T23:35:40Z",
+    "pushed_at": "2026-05-02T22:18:04Z",
+    "git_url": "git://github.com/0xhimanshu/governor.git",
+    "homepage": "https://github.com/0xhimanshu/governor",
+    "size": 261,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
