@@ -33946,5 +33946,51 @@
     "language": "Python",
     "forks_count": 16,
     "open_issues_count": 0
+  },
+  {
+    "id": 1200204014,
+    "name": "Awesome-Agent-Skills-for-Empirical-Research",
+    "owner": {
+      "id": 199214463,
+      "url": "https://api.github.com/users/brycewang-stanford",
+      "html_url": "https://github.com/brycewang-stanford",
+      "avatar_url": "https://avatars.githubusercontent.com/u/199214463?v=4"
+    },
+    "html_url": "https://github.com/brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research",
+    "description": "🔬 A curated collection of 23,000+ agent skills for empirical research across 8 social science disciplines. | 精选 23,000+ AI Agent 技能库，覆盖8大社会科学学科的实证研究。CoPaper.AI 20分钟完成一篇可复现的规范实证论文，并支持用户上传 Skills。-- Maintained by CoPaper.AI from Stanford REAP.",
+    "created_at": "2026-04-03T06:31:20Z",
+    "updated_at": "2026-05-03T04:29:32Z",
+    "pushed_at": "2026-04-30T20:01:12Z",
+    "git_url": "git://github.com/brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research.git",
+    "homepage": "https://copaper.ai",
+    "size": 20210,
+    "stargazers_count": 615,
+    "watchers_count": 615,
+    "language": "Stata",
+    "forks_count": 115,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1224542558,
+    "name": "cfip",
+    "owner": {
+      "id": 62696913,
+      "url": "https://api.github.com/users/HandsomeMJZ",
+      "html_url": "https://github.com/HandsomeMJZ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62696913?v=4"
+    },
+    "html_url": "https://github.com/HandsomeMJZ/cfip",
+    "description": null,
+    "created_at": "2026-04-29T11:39:25Z",
+    "updated_at": "2026-05-02T18:07:12Z",
+    "pushed_at": "2026-05-02T18:07:09Z",
+    "git_url": "git://github.com/HandsomeMJZ/cfip.git",
+    "homepage": null,
+    "size": 874,
+    "stargazers_count": 83,
+    "watchers_count": 83,
+    "language": null,
+    "forks_count": 15,
+    "open_issues_count": 0
   }
 ]
