@@ -34015,5 +34015,51 @@
     "language": "TypeScript",
     "forks_count": 7,
     "open_issues_count": 0
+  },
+  {
+    "id": 1220418983,
+    "name": "stash",
+    "owner": {
+      "id": 3078292,
+      "url": "https://api.github.com/users/alash3al",
+      "html_url": "https://github.com/alash3al",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3078292?v=4"
+    },
+    "html_url": "https://github.com/alash3al/stash",
+    "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
+    "created_at": "2026-04-24T22:05:12Z",
+    "updated_at": "2026-05-02T13:02:09Z",
+    "pushed_at": "2026-05-01T09:26:15Z",
+    "git_url": "git://github.com/alash3al/stash.git",
+    "homepage": "https://alash3al.github.io/stash/",
+    "size": 589,
+    "stargazers_count": 623,
+    "watchers_count": 623,
+    "language": "Go",
+    "forks_count": 26,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1226971484,
+    "name": "CUDA_spectrum",
+    "owner": {
+      "id": 17606888,
+      "url": "https://api.github.com/users/mebrown47",
+      "html_url": "https://github.com/mebrown47",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17606888?v=4"
+    },
+    "html_url": "https://github.com/mebrown47/CUDA_spectrum",
+    "description": "A simple CUDA FFT spectrum tool",
+    "created_at": "2026-05-02T03:29:13Z",
+    "updated_at": "2026-05-03T06:15:51Z",
+    "pushed_at": "2026-05-02T13:36:06Z",
+    "git_url": "git://github.com/mebrown47/CUDA_spectrum.git",
+    "homepage": "",
+    "size": 3332,
+    "stargazers_count": 64,
+    "watchers_count": 64,
+    "language": "Python",
+    "forks_count": 8,
+    "open_issues_count": 0
   }
 ]
