@@ -34291,5 +34291,28 @@
     "language": "Shell",
     "forks_count": 5,
     "open_issues_count": 1
+  },
+  {
+    "id": 1227588616,
+    "name": "Theseus",
+    "owner": {
+      "id": 39630670,
+      "url": "https://api.github.com/users/MrMilenko",
+      "html_url": "https://github.com/MrMilenko",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39630670?v=4"
+    },
+    "html_url": "https://github.com/MrMilenko/Theseus",
+    "description": "Reverse-engineered reconstruction of the original Xbox 5960 dashboard. Runs on Xbox hardware and on desktop (macOS, Linux, Windows) via SDL2/OpenGL.",
+    "created_at": "2026-05-02T22:25:26Z",
+    "updated_at": "2026-05-03T18:24:25Z",
+    "pushed_at": "2026-05-03T01:40:46Z",
+    "git_url": "git://github.com/MrMilenko/Theseus.git",
+    "homepage": null,
+    "size": 83245,
+    "stargazers_count": 92,
+    "watchers_count": 92,
+    "language": "C++",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
