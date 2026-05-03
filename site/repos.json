@@ -34199,5 +34199,51 @@
     "language": "JavaScript",
     "forks_count": 16,
     "open_issues_count": 2
+  },
+  {
+    "id": 1208191255,
+    "name": "ghui",
+    "owner": {
+      "id": 7587245,
+      "url": "https://api.github.com/users/kitlangton",
+      "html_url": "https://github.com/kitlangton",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7587245?v=4"
+    },
+    "html_url": "https://github.com/kitlangton/ghui",
+    "description": "A GitHub TUI",
+    "created_at": "2026-04-12T00:08:02Z",
+    "updated_at": "2026-05-03T18:24:09Z",
+    "pushed_at": "2026-05-03T18:24:04Z",
+    "git_url": "git://github.com/kitlangton/ghui.git",
+    "homepage": "",
+    "size": 608,
+    "stargazers_count": 701,
+    "watchers_count": 701,
+    "language": "TypeScript",
+    "forks_count": 41,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1224815769,
+    "name": "DoomSyscalls",
+    "owner": {
+      "id": 165338136,
+      "url": "https://api.github.com/users/SilentisVox",
+      "html_url": "https://github.com/SilentisVox",
+      "avatar_url": "https://avatars.githubusercontent.com/u/165338136?v=4"
+    },
+    "html_url": "https://github.com/SilentisVox/DoomSyscalls",
+    "description": "Clean Indirect Syscalls with Hook Evasion & Return Address Spoofing.",
+    "created_at": "2026-04-29T16:53:03Z",
+    "updated_at": "2026-05-02T17:15:52Z",
+    "pushed_at": "2026-04-30T05:53:00Z",
+    "git_url": "git://github.com/SilentisVox/DoomSyscalls.git",
+    "homepage": "",
+    "size": 225,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "C",
+    "forks_count": 11,
+    "open_issues_count": 0
   }
 ]
