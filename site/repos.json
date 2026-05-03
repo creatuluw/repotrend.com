@@ -34245,5 +34245,51 @@
     "language": "C",
     "forks_count": 11,
     "open_issues_count": 0
+  },
+  {
+    "id": 1215889121,
+    "name": "talkie",
+    "owner": {
+      "id": 277708231,
+      "url": "https://api.github.com/users/talkie-lm",
+      "html_url": "https://github.com/talkie-lm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277708231?v=4"
+    },
+    "html_url": "https://github.com/talkie-lm/talkie",
+    "description": "talkie is a vintage language model from 1930",
+    "created_at": "2026-04-20T10:58:45Z",
+    "updated_at": "2026-05-03T18:03:05Z",
+    "pushed_at": "2026-04-23T09:04:52Z",
+    "git_url": "git://github.com/talkie-lm/talkie.git",
+    "homepage": "https://talkie-lm.com",
+    "size": 185,
+    "stargazers_count": 626,
+    "watchers_count": 626,
+    "language": "Python",
+    "forks_count": 38,
+    "open_issues_count": 10
+  },
+  {
+    "id": 1226447505,
+    "name": "nxc-sweep",
+    "owner": {
+      "id": 143574262,
+      "url": "https://api.github.com/users/corey-farley",
+      "html_url": "https://github.com/corey-farley",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143574262?v=4"
+    },
+    "html_url": "https://github.com/corey-farley/nxc-sweep",
+    "description": "Bash wrapper for NetExec to quickly validate compromised credentials across SMB, WinRM, RDP, MSSQL, and FTP",
+    "created_at": "2026-05-01T12:10:59Z",
+    "updated_at": "2026-05-03T16:37:28Z",
+    "pushed_at": "2026-05-01T13:25:16Z",
+    "git_url": "git://github.com/corey-farley/nxc-sweep.git",
+    "homepage": null,
+    "size": 4,
+    "stargazers_count": 62,
+    "watchers_count": 62,
+    "language": "Shell",
+    "forks_count": 5,
+    "open_issues_count": 1
   }
 ]
