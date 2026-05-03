@@ -33854,5 +33854,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1202839233,
+    "name": "awesome-design-md-jp",
+    "owner": {
+      "id": 1807869,
+      "url": "https://api.github.com/users/kzhrknt",
+      "html_url": "https://github.com/kzhrknt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1807869?v=4"
+    },
+    "html_url": "https://github.com/kzhrknt/awesome-design-md-jp",
+    "description": "日本語UIをAIエージェントに正しくつくらせるためのDESIGN.md集。Japanese DESIGN.md collection for AI agents — extending Google Stitch format with CJK typography.",
+    "created_at": "2026-04-06T13:05:05Z",
+    "updated_at": "2026-05-03T00:17:16Z",
+    "pushed_at": "2026-05-01T05:01:23Z",
+    "git_url": "git://github.com/kzhrknt/awesome-design-md-jp.git",
+    "homepage": null,
+    "size": 21149,
+    "stargazers_count": 605,
+    "watchers_count": 605,
+    "language": "HTML",
+    "forks_count": 47,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1224732615,
+    "name": "USDT-BTC-Flashing-Tool",
+    "owner": {
+      "id": 280438463,
+      "url": "https://api.github.com/users/81yz",
+      "html_url": "https://github.com/81yz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/280438463?v=4"
+    },
+    "html_url": "https://github.com/81yz/USDT-BTC-Flashing-Tool",
+    "description": null,
+    "created_at": "2026-04-29T15:14:25Z",
+    "updated_at": "2026-05-01T23:31:34Z",
+    "pushed_at": "2026-04-29T15:14:26Z",
+    "git_url": "git://github.com/81yz/USDT-BTC-Flashing-Tool.git",
+    "homepage": "",
+    "size": 0,
+    "stargazers_count": 91,
+    "watchers_count": 91,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
