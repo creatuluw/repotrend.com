@@ -34153,5 +34153,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1222213350,
+    "name": "awesome-deepseek-agent",
+    "owner": {
+      "id": 148330874,
+      "url": "https://api.github.com/users/deepseek-ai",
+      "html_url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "html_url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
+    "description": null,
+    "created_at": "2026-04-27T06:37:38Z",
+    "updated_at": "2026-05-03T12:08:34Z",
+    "pushed_at": "2026-05-01T01:23:25Z",
+    "git_url": "git://github.com/deepseek-ai/awesome-deepseek-agent.git",
+    "homepage": null,
+    "size": 404,
+    "stargazers_count": 621,
+    "watchers_count": 621,
+    "language": null,
+    "forks_count": 59,
+    "open_issues_count": 31
+  },
+  {
+    "id": 1225256461,
+    "name": "codex-plusplus-ios-simulator",
+    "owner": {
+      "id": 62760393,
+      "url": "https://api.github.com/users/b-nnett",
+      "html_url": "https://github.com/b-nnett",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62760393?v=4"
+    },
+    "html_url": "https://github.com/b-nnett/codex-plusplus-ios-simulator",
+    "description": "iOS Simulator tweak for Codex++ — embeds a headless, mirrored simulator in Codex's right panel.",
+    "created_at": "2026-04-30T05:22:15Z",
+    "updated_at": "2026-05-02T18:20:20Z",
+    "pushed_at": "2026-04-30T05:22:27Z",
+    "git_url": "git://github.com/b-nnett/codex-plusplus-ios-simulator.git",
+    "homepage": null,
+    "size": 28,
+    "stargazers_count": 72,
+    "watchers_count": 72,
+    "language": "JavaScript",
+    "forks_count": 16,
+    "open_issues_count": 2
   }
 ]
