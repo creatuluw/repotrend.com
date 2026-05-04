@@ -34337,5 +34337,74 @@
     "language": "Go",
     "forks_count": 0,
     "open_issues_count": 1
+  },
+  {
+    "id": 1186559664,
+    "name": "feynman",
+    "owner": {
+      "id": 231637121,
+      "url": "https://api.github.com/users/getcompanion-ai",
+      "html_url": "https://github.com/getcompanion-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/231637121?v=4"
+    },
+    "html_url": "https://github.com/getcompanion-ai/feynman",
+    "description": null,
+    "created_at": "2026-03-19T18:53:05Z",
+    "updated_at": "2026-05-03T23:41:37Z",
+    "pushed_at": "2026-04-19T20:56:13Z",
+    "git_url": "git://github.com/getcompanion-ai/feynman.git",
+    "homepage": "https://feynman.is",
+    "size": 9574,
+    "stargazers_count": 6076,
+    "watchers_count": 6076,
+    "language": "TypeScript",
+    "forks_count": 749,
+    "open_issues_count": 18
+  },
+  {
+    "id": 1202492868,
+    "name": "google-meta-ads-ga4-mcp",
+    "owner": {
+      "id": 231318361,
+      "url": "https://api.github.com/users/irinabuht12-oss",
+      "html_url": "https://github.com/irinabuht12-oss",
+      "avatar_url": "https://avatars.githubusercontent.com/u/231318361?v=4"
+    },
+    "html_url": "https://github.com/irinabuht12-oss/google-meta-ads-ga4-mcp",
+    "description": "MCP server for Google Ads, Meta Ads & GA4 — works with ChatGPT, Claude, Cursor, n8n, Windsurf & more. 250+ tools for campaign management, analytics & optimization.",
+    "created_at": "2026-04-06T04:41:14Z",
+    "updated_at": "2026-05-03T21:08:45Z",
+    "pushed_at": "2026-04-07T01:32:31Z",
+    "git_url": "git://github.com/irinabuht12-oss/google-meta-ads-ga4-mcp.git",
+    "homepage": null,
+    "size": 26,
+    "stargazers_count": 666,
+    "watchers_count": 666,
+    "language": null,
+    "forks_count": 40,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1228117001,
+    "name": "ableton-live-mcp",
+    "owner": {
+      "id": 6391254,
+      "url": "https://api.github.com/users/bschoepke",
+      "html_url": "https://github.com/bschoepke",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6391254?v=4"
+    },
+    "html_url": "https://github.com/bschoepke/ableton-live-mcp",
+    "description": "General-purpose MCP bridge for Ableton Live",
+    "created_at": "2026-05-03T16:06:47Z",
+    "updated_at": "2026-05-04T00:49:36Z",
+    "pushed_at": "2026-05-03T18:11:54Z",
+    "git_url": "git://github.com/bschoepke/ableton-live-mcp.git",
+    "homepage": null,
+    "size": 101,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
