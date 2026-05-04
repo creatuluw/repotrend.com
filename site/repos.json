@@ -34613,5 +34613,28 @@
     "language": "JavaScript",
     "forks_count": 5,
     "open_issues_count": 1
+  },
+  {
+    "id": 1225734196,
+    "name": "YSMParser",
+    "owner": {
+      "id": 280289859,
+      "url": "https://api.github.com/users/OpenYSM",
+      "html_url": "https://github.com/OpenYSM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/280289859?v=4"
+    },
+    "html_url": "https://github.com/OpenYSM/YSMParser",
+    "description": "A Parser to recover Yes-Steve-Model Encrypted Binaries.",
+    "created_at": "2026-04-30T15:25:26Z",
+    "updated_at": "2026-05-03T18:13:45Z",
+    "pushed_at": "2026-05-03T09:06:30Z",
+    "git_url": "git://github.com/OpenYSM/YSMParser.git",
+    "homepage": "",
+    "size": 11021,
+    "stargazers_count": 78,
+    "watchers_count": 78,
+    "language": "C++",
+    "forks_count": 35,
+    "open_issues_count": 4
   }
 ]
