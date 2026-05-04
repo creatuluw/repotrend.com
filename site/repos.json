@@ -34314,5 +34314,28 @@
     "language": "C++",
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1226118217,
+    "name": "gitreal",
+    "owner": {
+      "id": 76135106,
+      "url": "https://api.github.com/users/watany-dev",
+      "html_url": "https://github.com/watany-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76135106?v=4"
+    },
+    "html_url": "https://github.com/watany-dev/gitreal",
+    "description": null,
+    "created_at": "2026-05-01T01:58:08Z",
+    "updated_at": "2026-05-03T03:49:23Z",
+    "pushed_at": "2026-05-01T23:15:01Z",
+    "git_url": "git://github.com/watany-dev/gitreal.git",
+    "homepage": null,
+    "size": 102,
+    "stargazers_count": 77,
+    "watchers_count": 77,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 1
   }
 ]
