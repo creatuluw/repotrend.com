@@ -34544,5 +34544,51 @@
     "language": "Python",
     "forks_count": 24,
     "open_issues_count": 0
+  },
+  {
+    "id": 1221509404,
+    "name": "open-slide",
+    "owner": {
+      "id": 75478661,
+      "url": "https://api.github.com/users/1weiho",
+      "html_url": "https://github.com/1weiho",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75478661?v=4"
+    },
+    "html_url": "https://github.com/1weiho/open-slide",
+    "description": "A slide framework built for agents.",
+    "created_at": "2026-04-26T10:04:20Z",
+    "updated_at": "2026-05-04T07:10:43Z",
+    "pushed_at": "2026-05-04T01:59:27Z",
+    "git_url": "git://github.com/1weiho/open-slide.git",
+    "homepage": "https://open-slide.dev",
+    "size": 2079,
+    "stargazers_count": 613,
+    "watchers_count": 613,
+    "language": "TypeScript",
+    "forks_count": 39,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1227833365,
+    "name": "codex-startup-pressure-test-skill",
+    "owner": {
+      "id": 203409268,
+      "url": "https://api.github.com/users/Kappaemme-git",
+      "html_url": "https://github.com/Kappaemme-git",
+      "avatar_url": "https://avatars.githubusercontent.com/u/203409268?v=4"
+    },
+    "html_url": "https://github.com/Kappaemme-git/codex-startup-pressure-test-skill",
+    "description": null,
+    "created_at": "2026-05-03T08:20:20Z",
+    "updated_at": "2026-05-03T18:24:25Z",
+    "pushed_at": "2026-05-03T08:35:32Z",
+    "git_url": "git://github.com/Kappaemme-git/codex-startup-pressure-test-skill.git",
+    "homepage": null,
+    "size": 8,
+    "stargazers_count": 80,
+    "watchers_count": 80,
+    "language": "JavaScript",
+    "forks_count": 6,
+    "open_issues_count": 0
   }
 ]
