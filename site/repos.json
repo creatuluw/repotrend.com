@@ -34659,5 +34659,51 @@
     "language": "TypeScript",
     "forks_count": 8,
     "open_issues_count": 1
+  },
+  {
+    "id": 1227136277,
+    "name": "keep-codex-fast",
+    "owner": {
+      "id": 224284815,
+      "url": "https://api.github.com/users/vibeforge1111",
+      "html_url": "https://github.com/vibeforge1111",
+      "avatar_url": "https://avatars.githubusercontent.com/u/224284815?v=4"
+    },
+    "html_url": "https://github.com/vibeforge1111/keep-codex-fast",
+    "description": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
+    "created_at": "2026-05-02T08:57:24Z",
+    "updated_at": "2026-05-04T18:39:20Z",
+    "pushed_at": "2026-05-04T06:27:15Z",
+    "git_url": "git://github.com/vibeforge1111/keep-codex-fast.git",
+    "homepage": null,
+    "size": 1163,
+    "stargazers_count": 638,
+    "watchers_count": 638,
+    "language": "Python",
+    "forks_count": 35,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1227006602,
+    "name": "deep-learning-formula-cheatsheet",
+    "owner": {
+      "id": 225161756,
+      "url": "https://api.github.com/users/Jerry-0821",
+      "html_url": "https://github.com/Jerry-0821",
+      "avatar_url": "https://avatars.githubusercontent.com/u/225161756?v=4"
+    },
+    "html_url": "https://github.com/Jerry-0821/deep-learning-formula-cheatsheet",
+    "description": null,
+    "created_at": "2026-05-02T04:51:42Z",
+    "updated_at": "2026-05-03T17:48:36Z",
+    "pushed_at": "2026-05-02T08:10:42Z",
+    "git_url": "git://github.com/Jerry-0821/deep-learning-formula-cheatsheet.git",
+    "homepage": null,
+    "size": 2304,
+    "stargazers_count": 79,
+    "watchers_count": 79,
+    "language": "TeX",
+    "forks_count": 5,
+    "open_issues_count": 0
   }
 ]
