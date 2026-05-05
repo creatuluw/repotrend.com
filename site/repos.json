@@ -34889,5 +34889,51 @@
     "language": "HTML",
     "forks_count": 11,
     "open_issues_count": 0
+  },
+  {
+    "id": 1216672009,
+    "name": "VizPilot_AI",
+    "owner": {
+      "id": 273271302,
+      "url": "https://api.github.com/users/Zafer-Liu",
+      "html_url": "https://github.com/Zafer-Liu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273271302?v=4"
+    },
+    "html_url": "https://github.com/Zafer-Liu/VizPilot_AI",
+    "description": "上传数据，智能推荐图表，一键生成交互式可视化。 Upload data, get chart recommendations, and generate interactive visualizations in one click.",
+    "created_at": "2026-04-21T06:04:19Z",
+    "updated_at": "2026-05-04T18:14:47Z",
+    "pushed_at": "2026-05-04T15:02:02Z",
+    "git_url": "git://github.com/Zafer-Liu/VizPilot_AI.git",
+    "homepage": "https://vizpilot-ai.vercel.app",
+    "size": 7157,
+    "stargazers_count": 763,
+    "watchers_count": 763,
+    "language": "HTML",
+    "forks_count": 28,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1227206673,
+    "name": "RijiN",
+    "owner": {
+      "id": 89423559,
+      "url": "https://api.github.com/users/senator715",
+      "html_url": "https://github.com/senator715",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89423559?v=4"
+    },
+    "html_url": "https://github.com/senator715/RijiN",
+    "description": "Full source code for RijiN/codebase_main",
+    "created_at": "2026-05-02T11:06:54Z",
+    "updated_at": "2026-05-04T22:50:07Z",
+    "pushed_at": "2026-05-03T04:23:21Z",
+    "git_url": "git://github.com/senator715/RijiN.git",
+    "homepage": null,
+    "size": 103784,
+    "stargazers_count": 55,
+    "watchers_count": 55,
+    "language": "C++",
+    "forks_count": 28,
+    "open_issues_count": 2
   }
 ]
