@@ -34935,5 +34935,74 @@
     "language": "C++",
     "forks_count": 28,
     "open_issues_count": 2
+  },
+  {
+    "id": 1197656406,
+    "name": "open-multi-agent",
+    "owner": {
+      "id": 26346076,
+      "url": "https://api.github.com/users/JackChen-me",
+      "html_url": "https://github.com/JackChen-me",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26346076?v=4"
+    },
+    "html_url": "https://github.com/JackChen-me/open-multi-agent",
+    "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration with MCP and live tracing. Three runtime dependencies.",
+    "created_at": "2026-03-31T19:07:34Z",
+    "updated_at": "2026-05-05T00:32:16Z",
+    "pushed_at": "2026-05-04T03:04:58Z",
+    "git_url": "git://github.com/JackChen-me/open-multi-agent.git",
+    "homepage": "https://open-multi-agent.com",
+    "size": 1472,
+    "stargazers_count": 6042,
+    "watchers_count": 6042,
+    "language": "TypeScript",
+    "forks_count": 2341,
+    "open_issues_count": 11
+  },
+  {
+    "id": 1202893487,
+    "name": "yome-agent",
+    "owner": {
+      "id": 180406008,
+      "url": "https://api.github.com/users/Whopus",
+      "html_url": "https://github.com/Whopus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/180406008?v=4"
+    },
+    "html_url": "https://github.com/Whopus/yome-agent",
+    "description": null,
+    "created_at": "2026-04-06T14:07:41Z",
+    "updated_at": "2026-05-05T00:35:17Z",
+    "pushed_at": "2026-05-04T09:32:28Z",
+    "git_url": "git://github.com/Whopus/yome-agent.git",
+    "homepage": null,
+    "size": 436,
+    "stargazers_count": 653,
+    "watchers_count": 653,
+    "language": "TypeScript",
+    "forks_count": 35,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1227772650,
+    "name": "pyflue",
+    "owner": {
+      "id": 209777732,
+      "url": "https://api.github.com/users/SuperagenticAI",
+      "html_url": "https://github.com/SuperagenticAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/209777732?v=4"
+    },
+    "html_url": "https://github.com/SuperagenticAI/pyflue",
+    "description": "Python port of the Flue: The Agent Harness Framework",
+    "created_at": "2026-05-03T06:29:13Z",
+    "updated_at": "2026-05-04T23:38:41Z",
+    "pushed_at": "2026-05-03T23:24:55Z",
+    "git_url": "git://github.com/SuperagenticAI/pyflue.git",
+    "homepage": "https://super-agentic.ai/pyflue",
+    "size": 426,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 5
   }
 ]
