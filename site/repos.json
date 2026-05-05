@@ -34774,5 +34774,51 @@
     "language": "JavaScript",
     "forks_count": 5,
     "open_issues_count": 1
+  },
+  {
+    "id": 1228306162,
+    "name": "deepclaude",
+    "owner": {
+      "id": 18339644,
+      "url": "https://api.github.com/users/aattaran",
+      "html_url": "https://github.com/aattaran",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18339644?v=4"
+    },
+    "html_url": "https://github.com/aattaran/deepclaude",
+    "description": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
+    "created_at": "2026-05-03T21:27:49Z",
+    "updated_at": "2026-05-04T18:39:46Z",
+    "pushed_at": "2026-05-04T03:13:02Z",
+    "git_url": "git://github.com/aattaran/deepclaude.git",
+    "homepage": null,
+    "size": 130,
+    "stargazers_count": 908,
+    "watchers_count": 908,
+    "language": "JavaScript",
+    "forks_count": 42,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1228616732,
+    "name": "kalshi-ai-trading-bot",
+    "owner": {
+      "id": 280651816,
+      "url": "https://api.github.com/users/bestpracticaI",
+      "html_url": "https://github.com/bestpracticaI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/280651816?v=4"
+    },
+    "html_url": "https://github.com/bestpracticaI/kalshi-ai-trading-bot",
+    "description": "Kalshi prediction markets trading bot algorithmic automated trading TypeScript Node.js Kalshi REST API RSA signing OpenRouter LLM CLI npm quant fintech event contracts market making exchange API bot Kalshi SDK",
+    "created_at": "2026-05-04T07:48:29Z",
+    "updated_at": "2026-05-04T18:37:43Z",
+    "pushed_at": "2026-05-04T08:07:52Z",
+    "git_url": "git://github.com/bestpracticaI/kalshi-ai-trading-bot.git",
+    "homepage": "https://github.com/bestpracticaI/kalshi-ai-trading-bot",
+    "size": 525,
+    "stargazers_count": 97,
+    "watchers_count": 97,
+    "language": "TypeScript",
+    "forks_count": 92,
+    "open_issues_count": 0
   }
 ]
