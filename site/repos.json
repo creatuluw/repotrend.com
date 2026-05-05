@@ -34820,5 +34820,74 @@
     "language": "TypeScript",
     "forks_count": 92,
     "open_issues_count": 0
+  },
+  {
+    "id": 1190363679,
+    "name": "OpenSpace",
+    "owner": {
+      "id": 118165258,
+      "url": "https://api.github.com/users/HKUDS",
+      "html_url": "https://github.com/HKUDS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+    },
+    "html_url": "https://github.com/HKUDS/OpenSpace",
+    "description": "\"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
+    "created_at": "2026-03-24T08:01:49Z",
+    "updated_at": "2026-05-04T23:08:22Z",
+    "pushed_at": "2026-04-16T14:14:35Z",
+    "git_url": "git://github.com/HKUDS/OpenSpace.git",
+    "homepage": "",
+    "size": 55473,
+    "stargazers_count": 6010,
+    "watchers_count": 6010,
+    "language": "Python",
+    "forks_count": 744,
+    "open_issues_count": 42
+  },
+  {
+    "id": 1202456595,
+    "name": "leaf",
+    "owner": {
+      "id": 18447177,
+      "url": "https://api.github.com/users/RivoLink",
+      "html_url": "https://github.com/RivoLink",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18447177?v=4"
+    },
+    "html_url": "https://github.com/RivoLink/leaf",
+    "description": "Terminal Markdown previewer — GUI-like experience.",
+    "created_at": "2026-04-06T03:31:32Z",
+    "updated_at": "2026-05-05T00:40:39Z",
+    "pushed_at": "2026-05-03T21:57:10Z",
+    "git_url": "git://github.com/RivoLink/leaf.git",
+    "homepage": "https://leaf.rivolink.mg",
+    "size": 1348,
+    "stargazers_count": 637,
+    "watchers_count": 637,
+    "language": "Rust",
+    "forks_count": 15,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1228405179,
+    "name": "phantom-motion",
+    "owner": {
+      "id": 94648648,
+      "url": "https://api.github.com/users/pixelxzen",
+      "html_url": "https://github.com/pixelxzen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94648648?v=4"
+    },
+    "html_url": "https://github.com/pixelxzen/phantom-motion",
+    "description": "Phantom-Motion is an incredibly powerful, epic interactive dynamic visual storytelling generator. Its capabilities are limited only by the bounds of your imagination! 它是一个极其硬核的史诗级交互式动态视觉叙事生成器。���的实力只取决于你的想象力高低！",
+    "created_at": "2026-05-04T01:27:04Z",
+    "updated_at": "2026-05-04T18:07:36Z",
+    "pushed_at": "2026-05-04T05:41:07Z",
+    "git_url": "git://github.com/pixelxzen/phantom-motion.git",
+    "homepage": "",
+    "size": 74195,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "HTML",
+    "forks_count": 11,
+    "open_issues_count": 0
   }
 ]
