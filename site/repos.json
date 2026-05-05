@@ -35119,5 +35119,28 @@
     "language": "TypeScript",
     "forks_count": 6,
     "open_issues_count": 0
+  },
+  {
+    "id": 1227307732,
+    "name": "kept",
+    "owner": {
+      "id": 280005824,
+      "url": "https://api.github.com/users/egroup-labs",
+      "html_url": "https://github.com/egroup-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/280005824?v=4"
+    },
+    "html_url": "https://github.com/egroup-labs/kept",
+    "description": "Search, archive, and recall your AI conversations. ChatGPT, Claude, Gemini, Grok, Kimi. Local-first, MIT licensed.",
+    "created_at": "2026-05-02T13:58:16Z",
+    "updated_at": "2026-05-05T06:46:25Z",
+    "pushed_at": "2026-05-04T14:21:37Z",
+    "git_url": "git://github.com/egroup-labs/kept.git",
+    "homepage": "https://kept.work/",
+    "size": 14906,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
