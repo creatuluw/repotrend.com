@@ -35188,5 +35188,51 @@
     "language": "Python",
     "forks_count": 11,
     "open_issues_count": 0
+  },
+  {
+    "id": 1226304875,
+    "name": "baguette",
+    "owner": {
+      "id": 154110414,
+      "url": "https://api.github.com/users/tddworks",
+      "html_url": "https://github.com/tddworks",
+      "avatar_url": "https://avatars.githubusercontent.com/u/154110414?v=4"
+    },
+    "html_url": "https://github.com/tddworks/baguette",
+    "description": "Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming",
+    "created_at": "2026-05-01T08:14:13Z",
+    "updated_at": "2026-05-05T18:05:17Z",
+    "pushed_at": "2026-05-04T14:50:11Z",
+    "git_url": "git://github.com/tddworks/baguette.git",
+    "homepage": "https://tddworks.github.io/baguette/",
+    "size": 24338,
+    "stargazers_count": 618,
+    "watchers_count": 618,
+    "language": "Swift",
+    "forks_count": 22,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1228133202,
+    "name": "notion-desktop-premium-business-version",
+    "owner": {
+      "id": 279383725,
+      "url": "https://api.github.com/users/carinschuering47715327694",
+      "html_url": "https://github.com/carinschuering47715327694",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279383725?v=4"
+    },
+    "html_url": "https://github.com/carinschuering47715327694/notion-desktop-premium-business-version",
+    "description": "Easy-to-use PC utility and installer for Notion Desktop, featuring a simple .exe setup. Built for speed and accessibility.",
+    "created_at": "2026-05-03T16:31:19Z",
+    "updated_at": "2026-05-05T17:31:46Z",
+    "pushed_at": "2026-05-03T16:32:52Z",
+    "git_url": "git://github.com/carinschuering47715327694/notion-desktop-premium-business-version.git",
+    "homepage": "",
+    "size": 8,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
