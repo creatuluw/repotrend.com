@@ -34728,5 +34728,51 @@
     "language": "Go",
     "forks_count": 10,
     "open_issues_count": 0
+  },
+  {
+    "id": 1221522201,
+    "name": "DNSHE-FreeDomains",
+    "owner": {
+      "id": 234883652,
+      "url": "https://api.github.com/users/dnshe",
+      "html_url": "https://github.com/dnshe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/234883652?v=4"
+    },
+    "html_url": "https://github.com/dnshe/DNSHE-FreeDomains",
+    "description": "🌐 DNSHE Official - Stable & Free Subdomains for Developers. Support 180-day renewal window, Anycast DNS, and REST API. (us.ci, cc.cd, de5.net, ccwu.cc)",
+    "created_at": "2026-04-26T10:27:09Z",
+    "updated_at": "2026-05-04T18:15:53Z",
+    "pushed_at": "2026-04-26T11:15:16Z",
+    "git_url": "git://github.com/dnshe/DNSHE-FreeDomains.git",
+    "homepage": null,
+    "size": 13,
+    "stargazers_count": 682,
+    "watchers_count": 682,
+    "language": null,
+    "forks_count": 11,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1227802761,
+    "name": "teleMirror",
+    "owner": {
+      "id": 128790947,
+      "url": "https://api.github.com/users/ircfspace",
+      "html_url": "https://github.com/ircfspace",
+      "avatar_url": "https://avatars.githubusercontent.com/u/128790947?v=4"
+    },
+    "html_url": "https://github.com/ircfspace/teleMirror",
+    "description": "A simple desktop client for viewing Telegram channels, specifically designed for complex filtering environments like Iran",
+    "created_at": "2026-05-03T07:19:00Z",
+    "updated_at": "2026-05-04T18:39:03Z",
+    "pushed_at": "2026-05-04T16:16:31Z",
+    "git_url": "git://github.com/ircfspace/teleMirror.git",
+    "homepage": "",
+    "size": 1985,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "JavaScript",
+    "forks_count": 5,
+    "open_issues_count": 1
   }
 ]
