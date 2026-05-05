@@ -35073,5 +35073,51 @@
     "language": "TypeScript",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1202937420,
+    "name": "semble",
+    "owner": {
+      "id": 177965497,
+      "url": "https://api.github.com/users/MinishLab",
+      "html_url": "https://github.com/MinishLab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/177965497?v=4"
+    },
+    "html_url": "https://github.com/MinishLab/semble",
+    "description": "Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read",
+    "created_at": "2026-04-06T14:56:45Z",
+    "updated_at": "2026-05-05T06:52:53Z",
+    "pushed_at": "2026-05-05T06:52:51Z",
+    "git_url": "git://github.com/MinishLab/semble.git",
+    "homepage": "https://minish.ai/packages/semble/introduction/",
+    "size": 2171,
+    "stargazers_count": 634,
+    "watchers_count": 634,
+    "language": "Python",
+    "forks_count": 52,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1227184850,
+    "name": "html-in-canvas",
+    "owner": {
+      "id": 85344006,
+      "url": "https://api.github.com/users/remotion-dev",
+      "html_url": "https://github.com/remotion-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85344006?v=4"
+    },
+    "html_url": "https://github.com/remotion-dev/html-in-canvas",
+    "description": null,
+    "created_at": "2026-05-02T10:27:01Z",
+    "updated_at": "2026-05-05T06:41:00Z",
+    "pushed_at": "2026-05-03T14:24:19Z",
+    "git_url": "git://github.com/remotion-dev/html-in-canvas.git",
+    "homepage": "https://remotion.dev/html-in-canvas",
+    "size": 7239,
+    "stargazers_count": 78,
+    "watchers_count": 78,
+    "language": "TypeScript",
+    "forks_count": 6,
+    "open_issues_count": 0
   }
 ]
