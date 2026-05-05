@@ -35004,5 +35004,74 @@
     "language": "Python",
     "forks_count": 3,
     "open_issues_count": 5
+  },
+  {
+    "id": 1152014594,
+    "name": "claude-seo",
+    "owner": {
+      "id": 223140489,
+      "url": "https://api.github.com/users/AgriciDaniel",
+      "html_url": "https://github.com/AgriciDaniel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223140489?v=4"
+    },
+    "html_url": "https://github.com/AgriciDaniel/claude-seo",
+    "description": "Universal SEO skill for Claude Code. 19 sub-skills, 12 subagents, 3 extensions (DataForSEO, Firecrawl, Banana). Technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, Google APIs, and PDF/Excel reporting.",
+    "created_at": "2026-02-07T08:17:38Z",
+    "updated_at": "2026-05-05T06:44:13Z",
+    "pushed_at": "2026-04-28T00:15:35Z",
+    "git_url": "git://github.com/AgriciDaniel/claude-seo.git",
+    "homepage": "https://claude-seo.md",
+    "size": 2441,
+    "stargazers_count": 6028,
+    "watchers_count": 6028,
+    "language": "Python",
+    "forks_count": 918,
+    "open_issues_count": 26
+  },
+  {
+    "id": 1224974361,
+    "name": "serve-sim",
+    "owner": {
+      "id": 9664363,
+      "url": "https://api.github.com/users/EvanBacon",
+      "html_url": "https://github.com/EvanBacon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9664363?v=4"
+    },
+    "html_url": "https://github.com/EvanBacon/serve-sim",
+    "description": "The `npx serve` of Apple Simulators.",
+    "created_at": "2026-04-29T20:23:12Z",
+    "updated_at": "2026-05-05T06:49:16Z",
+    "pushed_at": "2026-05-04T23:57:01Z",
+    "git_url": "git://github.com/EvanBacon/serve-sim.git",
+    "homepage": null,
+    "size": 1595,
+    "stargazers_count": 624,
+    "watchers_count": 624,
+    "language": "TypeScript",
+    "forks_count": 33,
+    "open_issues_count": 11
+  },
+  {
+    "id": 1227930611,
+    "name": "pi-k-excalidraw",
+    "owner": {
+      "id": 3660553,
+      "url": "https://api.github.com/users/kostyay",
+      "html_url": "https://github.com/kostyay",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3660553?v=4"
+    },
+    "html_url": "https://github.com/kostyay/pi-k-excalidraw",
+    "description": "Native Excalidraw diagram preview tool for pi — draw and save diagrams from the agent with a live glimpse webview.",
+    "created_at": "2026-05-03T11:09:42Z",
+    "updated_at": "2026-05-04T21:09:09Z",
+    "pushed_at": "2026-05-03T20:48:50Z",
+    "git_url": "git://github.com/kostyay/pi-k-excalidraw.git",
+    "homepage": "https://github.com/kostyay/pi-k-excalidraw",
+    "size": 3396,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
