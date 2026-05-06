@@ -35418,5 +35418,51 @@
     "language": "Go",
     "forks_count": 7,
     "open_issues_count": 4
+  },
+  {
+    "id": 1212064523,
+    "name": "wx-favorites-report",
+    "owner": {
+      "id": 24306647,
+      "url": "https://api.github.com/users/zhuyansen",
+      "html_url": "https://github.com/zhuyansen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24306647?v=4"
+    },
+    "html_url": "https://github.com/zhuyansen/wx-favorites-report",
+    "description": "微信收藏可视化 Claude Code Skill — 从加密 DB 到交互式 HTML 报告的端到端管线",
+    "created_at": "2026-04-16T02:58:42Z",
+    "updated_at": "2026-05-04T08:54:31Z",
+    "pushed_at": "2026-04-16T02:58:45Z",
+    "git_url": "git://github.com/zhuyansen/wx-favorites-report.git",
+    "homepage": null,
+    "size": 26,
+    "stargazers_count": 578,
+    "watchers_count": 578,
+    "language": "Python",
+    "forks_count": 118,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1228403547,
+    "name": "pi-goal",
+    "owner": {
+      "id": 13676242,
+      "url": "https://api.github.com/users/Michaelliv",
+      "html_url": "https://github.com/Michaelliv",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13676242?v=4"
+    },
+    "html_url": "https://github.com/Michaelliv/pi-goal",
+    "description": "Persistent autonomous goals for pi",
+    "created_at": "2026-05-04T01:23:25Z",
+    "updated_at": "2026-05-06T06:21:56Z",
+    "pushed_at": "2026-05-04T05:19:29Z",
+    "git_url": "git://github.com/Michaelliv/pi-goal.git",
+    "homepage": null,
+    "size": 101,
+    "stargazers_count": 80,
+    "watchers_count": 80,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 2
   }
 ]
