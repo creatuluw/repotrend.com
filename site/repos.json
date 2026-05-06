@@ -35349,5 +35349,51 @@
     "language": "Python",
     "forks_count": 31,
     "open_issues_count": 0
+  },
+  {
+    "id": 1184985738,
+    "name": "web-access",
+    "owner": {
+      "id": 53331888,
+      "url": "https://api.github.com/users/eze-is",
+      "html_url": "https://github.com/eze-is",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53331888?v=4"
+    },
+    "html_url": "https://github.com/eze-is/web-access",
+    "description": "给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治",
+    "created_at": "2026-03-18T05:54:57Z",
+    "updated_at": "2026-05-05T18:02:16Z",
+    "pushed_at": "2026-04-23T03:46:55Z",
+    "git_url": "git://github.com/eze-is/web-access.git",
+    "homepage": null,
+    "size": 77,
+    "stargazers_count": 6013,
+    "watchers_count": 6013,
+    "language": "JavaScript",
+    "forks_count": 468,
+    "open_issues_count": 23
+  },
+  {
+    "id": 1228698470,
+    "name": "Cloudflare_TextSpace_Worker",
+    "owner": {
+      "id": 197734059,
+      "url": "https://api.github.com/users/ethgan",
+      "html_url": "https://github.com/ethgan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/197734059?v=4"
+    },
+    "html_url": "https://github.com/ethgan/Cloudflare_TextSpace_Worker",
+    "description": "重磅福利 | 拥抱Cloudflare 文本直链网盘 | 拒绝限流 | CDN加速 | 100%免费 https://www.youtube.com/watch?v=QZUx4pHf0J4",
+    "created_at": "2026-05-04T09:28:55Z",
+    "updated_at": "2026-05-05T15:13:02Z",
+    "pushed_at": "2026-05-04T09:30:05Z",
+    "git_url": "git://github.com/ethgan/Cloudflare_TextSpace_Worker.git",
+    "homepage": null,
+    "size": 24,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "JavaScript",
+    "forks_count": 54,
+    "open_issues_count": 1
   }
 ]
