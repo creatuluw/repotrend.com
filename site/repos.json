@@ -35395,5 +35395,28 @@
     "language": "JavaScript",
     "forks_count": 54,
     "open_issues_count": 1
+  },
+  {
+    "id": 1228490158,
+    "name": "mhr-cfw-go",
+    "owner": {
+      "id": 93939156,
+      "url": "https://api.github.com/users/ThisIsDara",
+      "html_url": "https://github.com/ThisIsDara",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93939156?v=4"
+    },
+    "html_url": "https://github.com/ThisIsDara/mhr-cfw-go",
+    "description": "A local proxy that runs on your machine and forwards traffic through Google.",
+    "created_at": "2026-05-04T04:24:15Z",
+    "updated_at": "2026-05-05T18:28:38Z",
+    "pushed_at": "2026-05-05T16:12:09Z",
+    "git_url": "git://github.com/ThisIsDara/mhr-cfw-go.git",
+    "homepage": "",
+    "size": 58,
+    "stargazers_count": 85,
+    "watchers_count": 85,
+    "language": "Go",
+    "forks_count": 7,
+    "open_issues_count": 4
   }
 ]
