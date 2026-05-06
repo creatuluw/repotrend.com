@@ -35556,5 +35556,28 @@
     "language": "Python",
     "forks_count": 6,
     "open_issues_count": 0
+  },
+  {
+    "id": 1227390839,
+    "name": "aigc-reduce",
+    "owner": {
+      "id": 139917150,
+      "url": "https://api.github.com/users/xiaofenggan01",
+      "html_url": "https://github.com/xiaofenggan01",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139917150?v=4"
+    },
+    "html_url": "https://github.com/xiaofenggan01/aigc-reduce",
+    "description": "降低学术论文 AIGC 查重率的 Claude Code Skill | A Claude Code skill for reducing AIGC detection rates in academic papers",
+    "created_at": "2026-05-02T16:07:49Z",
+    "updated_at": "2026-05-05T17:30:04Z",
+    "pushed_at": "2026-05-03T12:09:13Z",
+    "git_url": "git://github.com/xiaofenggan01/aigc-reduce.git",
+    "homepage": null,
+    "size": 41,
+    "stargazers_count": 60,
+    "watchers_count": 60,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
