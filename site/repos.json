@@ -35280,5 +35280,51 @@
     "language": "Shell",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1219644159,
+    "name": "claude-video",
+    "owner": {
+      "id": 186665980,
+      "url": "https://api.github.com/users/bradautomates",
+      "html_url": "https://github.com/bradautomates",
+      "avatar_url": "https://avatars.githubusercontent.com/u/186665980?v=4"
+    },
+    "html_url": "https://github.com/bradautomates/claude-video",
+    "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+    "created_at": "2026-04-24T04:40:43Z",
+    "updated_at": "2026-05-05T18:37:45Z",
+    "pushed_at": "2026-04-24T07:23:07Z",
+    "git_url": "git://github.com/bradautomates/claude-video.git",
+    "homepage": null,
+    "size": 35,
+    "stargazers_count": 719,
+    "watchers_count": 719,
+    "language": "Python",
+    "forks_count": 158,
+    "open_issues_count": 10
+  },
+  {
+    "id": 1228366354,
+    "name": "Noustiny",
+    "owner": {
+      "id": 208284577,
+      "url": "https://api.github.com/users/UfukNode",
+      "html_url": "https://github.com/UfukNode",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208284577?v=4"
+    },
+    "html_url": "https://github.com/UfukNode/Noustiny",
+    "description": "An agent native video creation pipeline that runs on top of Hermes Agent",
+    "created_at": "2026-05-03T23:53:15Z",
+    "updated_at": "2026-05-05T15:07:11Z",
+    "pushed_at": "2026-05-04T01:24:44Z",
+    "git_url": "git://github.com/UfukNode/Noustiny.git",
+    "homepage": "",
+    "size": 4884,
+    "stargazers_count": 64,
+    "watchers_count": 64,
+    "language": "TypeScript",
+    "forks_count": 11,
+    "open_issues_count": 1
   }
 ]
