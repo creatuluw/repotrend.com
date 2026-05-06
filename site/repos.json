@@ -35510,5 +35510,28 @@
     "language": "Dockerfile",
     "forks_count": 106,
     "open_issues_count": 0
+  },
+  {
+    "id": 1227659984,
+    "name": "Ace_Combat_Infinity_Campaign_Patch_and_Local_Server",
+    "owner": {
+      "id": 123526215,
+      "url": "https://api.github.com/users/Optimus1200",
+      "html_url": "https://github.com/Optimus1200",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123526215?v=4"
+    },
+    "html_url": "https://github.com/Optimus1200/Ace_Combat_Infinity_Campaign_Patch_and_Local_Server",
+    "description": "RPCS3 game patch and minimal local server for Ace Combat: Infinity",
+    "created_at": "2026-05-03T01:41:10Z",
+    "updated_at": "2026-05-06T11:28:46Z",
+    "pushed_at": "2026-05-06T11:37:21Z",
+    "git_url": "git://github.com/Optimus1200/Ace_Combat_Infinity_Campaign_Patch_and_Local_Server.git",
+    "homepage": "",
+    "size": 27,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": "C#",
+    "forks_count": 2,
+    "open_issues_count": 1
   }
 ]
