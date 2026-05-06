@@ -35464,5 +35464,51 @@
     "language": "TypeScript",
     "forks_count": 3,
     "open_issues_count": 2
+  },
+  {
+    "id": 1208280353,
+    "name": "maeil-mail-contents",
+    "owner": {
+      "id": 185776812,
+      "url": "https://api.github.com/users/maeil-mail",
+      "html_url": "https://github.com/maeil-mail",
+      "avatar_url": "https://avatars.githubusercontent.com/u/185776812?v=4"
+    },
+    "html_url": "https://github.com/maeil-mail/maeil-mail-contents",
+    "description": "📮 매일메일 기술 면접 컨텐츠 아카이브 (FE, BE)",
+    "created_at": "2026-04-12T04:05:26Z",
+    "updated_at": "2026-05-06T10:37:50Z",
+    "pushed_at": "2026-04-16T04:12:28Z",
+    "git_url": "git://github.com/maeil-mail/maeil-mail-contents.git",
+    "homepage": "",
+    "size": 408,
+    "stargazers_count": 588,
+    "watchers_count": 588,
+    "language": null,
+    "forks_count": 99,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1229916708,
+    "name": "Sing-Flare-Auto",
+    "owner": {
+      "id": 58203962,
+      "url": "https://api.github.com/users/zzzhhh1",
+      "html_url": "https://github.com/zzzhhh1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58203962?v=4"
+    },
+    "html_url": "https://github.com/zzzhhh1/Sing-Flare-Auto",
+    "description": "本项目提供了一个基于 Docker 容器的轻量级、高隐匿性科学上网节点部署方案。通过集成 sing-box 和 cloudflared，你可以轻松地在各类云平台（如 Koyeb、Render 等）或个人 VPS 上一键构建安全隧道。下方是详细的视频教程链接：",
+    "created_at": "2026-05-05T13:59:37Z",
+    "updated_at": "2026-05-06T12:44:13Z",
+    "pushed_at": "2026-05-06T08:05:08Z",
+    "git_url": "git://github.com/zzzhhh1/Sing-Flare-Auto.git",
+    "homepage": "https://youtu.be/ODVbTw0wfak",
+    "size": 48,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": "Dockerfile",
+    "forks_count": 106,
+    "open_issues_count": 0
   }
 ]
