@@ -35579,5 +35579,28 @@
     "language": "Python",
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1227527033,
+    "name": "homeassistant-mcp",
+    "owner": {
+      "id": 6122503,
+      "url": "https://api.github.com/users/robbrad",
+      "html_url": "https://github.com/robbrad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6122503?v=4"
+    },
+    "html_url": "https://github.com/robbrad/homeassistant-mcp",
+    "description": "Home Assistant MCP Server - Control your smart home with AI assistants via the Model Context Protocol",
+    "created_at": "2026-05-02T20:07:36Z",
+    "updated_at": "2026-05-05T17:19:35Z",
+    "pushed_at": "2026-05-05T07:40:47Z",
+    "git_url": "git://github.com/robbrad/homeassistant-mcp.git",
+    "homepage": null,
+    "size": 591,
+    "stargazers_count": 77,
+    "watchers_count": 77,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
