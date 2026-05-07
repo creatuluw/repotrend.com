@@ -35717,5 +35717,51 @@
     "language": "Go",
     "forks_count": 3,
     "open_issues_count": 3
+  },
+  {
+    "id": 1227102698,
+    "name": "petdex",
+    "owner": {
+      "id": 120886289,
+      "url": "https://api.github.com/users/crafter-station",
+      "html_url": "https://github.com/crafter-station",
+      "avatar_url": "https://avatars.githubusercontent.com/u/120886289?v=4"
+    },
+    "html_url": "https://github.com/crafter-station/petdex",
+    "description": "Public gallery of animated Codex pets",
+    "created_at": "2026-05-02T07:51:35Z",
+    "updated_at": "2026-05-06T18:39:31Z",
+    "pushed_at": "2026-05-06T18:39:27Z",
+    "git_url": "git://github.com/crafter-station/petdex.git",
+    "homepage": "https://petdex.crafter.run",
+    "size": 60927,
+    "stargazers_count": 675,
+    "watchers_count": 675,
+    "language": "TypeScript",
+    "forks_count": 32,
+    "open_issues_count": 9
+  },
+  {
+    "id": 1228582851,
+    "name": "codex-pet-limit-rings",
+    "owner": {
+      "id": 130558610,
+      "url": "https://api.github.com/users/petergpt",
+      "html_url": "https://github.com/petergpt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130558610?v=4"
+    },
+    "html_url": "https://github.com/petergpt/codex-pet-limit-rings",
+    "description": "Usage-limit rings for Codex pets.",
+    "created_at": "2026-05-04T07:01:44Z",
+    "updated_at": "2026-05-06T18:08:21Z",
+    "pushed_at": "2026-05-06T18:08:18Z",
+    "git_url": "git://github.com/petergpt/codex-pet-limit-rings.git",
+    "homepage": null,
+    "size": 2789,
+    "stargazers_count": 70,
+    "watchers_count": 70,
+    "language": "Swift",
+    "forks_count": 5,
+    "open_issues_count": 1
   }
 ]
