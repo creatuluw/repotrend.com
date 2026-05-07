@@ -35763,5 +35763,51 @@
     "language": "Swift",
     "forks_count": 5,
     "open_issues_count": 1
+  },
+  {
+    "id": 1226387273,
+    "name": "automotive-skills-suite",
+    "owner": {
+      "id": 275361233,
+      "url": "https://api.github.com/users/jherrodthomas",
+      "html_url": "https://github.com/jherrodthomas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/275361233?v=4"
+    },
+    "html_url": "https://github.com/jherrodthomas/automotive-skills-suite",
+    "description": "100+ installable Claude skills covering Engineering areas such as, ISO 26262 functional safety, ISO/SAE 21434 cybersecurity, ISO 21448 SOTIF, AIAG-VDA quality (APQP/PPAP/FMEA), Automotive SPICE, and continuous improvement tools — every builder paired with a confirmation reviewer.",
+    "created_at": "2026-05-01T10:30:37Z",
+    "updated_at": "2026-05-07T12:43:10Z",
+    "pushed_at": "2026-05-02T15:57:07Z",
+    "git_url": "git://github.com/jherrodthomas/automotive-skills-suite.git",
+    "homepage": "",
+    "size": 2452,
+    "stargazers_count": 832,
+    "watchers_count": 832,
+    "language": null,
+    "forks_count": 15,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1227957130,
+    "name": "hermes-war-room",
+    "owner": {
+      "id": 2976270,
+      "url": "https://api.github.com/users/Naroh091",
+      "html_url": "https://github.com/Naroh091",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2976270?v=4"
+    },
+    "html_url": "https://github.com/Naroh091/hermes-war-room",
+    "description": "UI layer for the native Hermes orchestration features",
+    "created_at": "2026-05-03T11:57:02Z",
+    "updated_at": "2026-05-06T11:12:00Z",
+    "pushed_at": "2026-05-04T20:56:48Z",
+    "git_url": "git://github.com/Naroh091/hermes-war-room.git",
+    "homepage": "",
+    "size": 1142,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": "Vue",
+    "forks_count": 0,
+    "open_issues_count": 2
   }
 ]
