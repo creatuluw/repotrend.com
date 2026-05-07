@@ -35648,5 +35648,51 @@
     "language": "Python",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1203403049,
+    "name": "insane-search",
+    "owner": {
+      "id": 65525458,
+      "url": "https://api.github.com/users/fivetaku",
+      "html_url": "https://github.com/fivetaku",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65525458?v=4"
+    },
+    "html_url": "https://github.com/fivetaku/insane-search",
+    "description": "Auto-bypass for blocked websites in Claude Code — Phase 0→3 adaptive scheduler, no API keys",
+    "created_at": "2026-04-07T02:28:01Z",
+    "updated_at": "2026-05-06T10:39:18Z",
+    "pushed_at": "2026-05-03T15:36:14Z",
+    "git_url": "git://github.com/fivetaku/insane-search.git",
+    "homepage": null,
+    "size": 131,
+    "stargazers_count": 610,
+    "watchers_count": 610,
+    "language": "Python",
+    "forks_count": 92,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1227966493,
+    "name": "GenLIP",
+    "owner": {
+      "id": 59140240,
+      "url": "https://api.github.com/users/YanFangCS",
+      "html_url": "https://github.com/YanFangCS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59140240?v=4"
+    },
+    "html_url": "https://github.com/YanFangCS/GenLIP",
+    "description": "Official repo for \"Let ViT Speak: Generative Language-Image Pre-training\"",
+    "created_at": "2026-05-03T12:13:20Z",
+    "updated_at": "2026-05-06T18:18:44Z",
+    "pushed_at": "2026-05-04T06:00:24Z",
+    "git_url": "git://github.com/YanFangCS/GenLIP.git",
+    "homepage": null,
+    "size": 979,
+    "stargazers_count": 56,
+    "watchers_count": 56,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
