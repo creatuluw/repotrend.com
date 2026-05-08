@@ -36292,5 +36292,51 @@
     "language": "JavaScript",
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1221922293,
+    "name": "Claude-OSINT",
+    "owner": {
+      "id": 49252733,
+      "url": "https://api.github.com/users/elementalsouls",
+      "html_url": "https://github.com/elementalsouls",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49252733?v=4"
+    },
+    "html_url": "https://github.com/elementalsouls/Claude-OSINT",
+    "description": "Two paired Claude skills · 90+ recon modules · 48 secret-regex patterns · 80+ dorks · 9 read-only credential validators · 27 attack-path templates · 5,500+ lines of structured tradecraft. Drop-in SKILL.md files that turn Claude into a god-mode external recon operator for authorized red-team and bug-bounty engagements.",
+    "created_at": "2026-04-26T21:09:56Z",
+    "updated_at": "2026-05-08T12:36:34Z",
+    "pushed_at": "2026-04-27T09:39:42Z",
+    "git_url": "git://github.com/elementalsouls/Claude-OSINT.git",
+    "homepage": "",
+    "size": 1050,
+    "stargazers_count": 715,
+    "watchers_count": 715,
+    "language": "Python",
+    "forks_count": 138,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1229655382,
+    "name": "cursed-repo",
+    "owner": {
+      "id": 996134,
+      "url": "https://api.github.com/users/Hacksore",
+      "html_url": "https://github.com/Hacksore",
+      "avatar_url": "https://avatars.githubusercontent.com/u/996134?v=4"
+    },
+    "html_url": "https://github.com/Hacksore/cursed-repo",
+    "description": "Average JavaScript repo 🫪",
+    "created_at": "2026-05-05T09:01:53Z",
+    "updated_at": "2026-05-08T04:55:09Z",
+    "pushed_at": "2026-05-05T12:03:06Z",
+    "git_url": "git://github.com/Hacksore/cursed-repo.git",
+    "homepage": null,
+    "size": 70,
+    "stargazers_count": 69,
+    "watchers_count": 69,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 2
   }
 ]
