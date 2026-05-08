@@ -36108,5 +36108,51 @@
     "language": "Python",
     "forks_count": 8,
     "open_issues_count": 1
+  },
+  {
+    "id": 1218155686,
+    "name": "MingLi-Bench",
+    "owner": {
+      "id": 227604965,
+      "url": "https://api.github.com/users/DestinyLinker",
+      "html_url": "https://github.com/DestinyLinker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/227604965?v=4"
+    },
+    "html_url": "https://github.com/DestinyLinker/MingLi-Bench",
+    "description": "A benchmark for evaluating LLMs on Chinese traditional fortune telling — Bazi (八字) and Ziwei Doushu (紫微斗数).",
+    "created_at": "2026-04-22T15:32:29Z",
+    "updated_at": "2026-05-08T06:40:20Z",
+    "pushed_at": "2026-05-06T04:05:10Z",
+    "git_url": "git://github.com/DestinyLinker/MingLi-Bench.git",
+    "homepage": "https://destinyLinker.github.io/MingLi-Bench/",
+    "size": 2225,
+    "stargazers_count": 856,
+    "watchers_count": 856,
+    "language": "Python",
+    "forks_count": 126,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1230498812,
+    "name": "cwc-workshops",
+    "owner": {
+      "id": 76263028,
+      "url": "https://api.github.com/users/anthropics",
+      "html_url": "https://github.com/anthropics",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
+    },
+    "html_url": "https://github.com/anthropics/cwc-workshops",
+    "description": null,
+    "created_at": "2026-05-06T03:53:01Z",
+    "updated_at": "2026-05-08T05:34:29Z",
+    "pushed_at": "2026-05-07T18:59:52Z",
+    "git_url": "git://github.com/anthropics/cwc-workshops.git",
+    "homepage": null,
+    "size": 488,
+    "stargazers_count": 81,
+    "watchers_count": 81,
+    "language": "TypeScript",
+    "forks_count": 26,
+    "open_issues_count": 2
   }
 ]
