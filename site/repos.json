@@ -36338,5 +36338,51 @@
     "language": "JavaScript",
     "forks_count": 2,
     "open_issues_count": 2
+  },
+  {
+    "id": 1221334781,
+    "name": "ppt-image-first",
+    "owner": {
+      "id": 205922613,
+      "url": "https://api.github.com/users/NyxTides",
+      "html_url": "https://github.com/NyxTides",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205922613?v=4"
+    },
+    "html_url": "https://github.com/NyxTides/ppt-image-first",
+    "description": "PPT image-first skill for Codex/Claude Code/Opencode CLI",
+    "created_at": "2026-04-26T04:04:15Z",
+    "updated_at": "2026-05-07T16:32:24Z",
+    "pushed_at": "2026-05-05T08:08:54Z",
+    "git_url": "git://github.com/NyxTides/ppt-image-first.git",
+    "homepage": "",
+    "size": 31601,
+    "stargazers_count": 594,
+    "watchers_count": 594,
+    "language": "Python",
+    "forks_count": 56,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1231170332,
+    "name": "opensquilla",
+    "owner": {
+      "id": 275098769,
+      "url": "https://api.github.com/users/OpenSquilla",
+      "html_url": "https://github.com/OpenSquilla",
+      "avatar_url": "https://avatars.githubusercontent.com/u/275098769?v=4"
+    },
+    "html_url": "https://github.com/OpenSquilla/opensquilla",
+    "description": "OpenSquilla — Token-Efficient AI Agent",
+    "created_at": "2026-05-06T17:43:05Z",
+    "updated_at": "2026-05-08T12:30:37Z",
+    "pushed_at": "2026-05-08T03:07:52Z",
+    "git_url": "git://github.com/OpenSquilla/opensquilla.git",
+    "homepage": "https://opensquilla.ai/",
+    "size": 3145,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": "Python",
+    "forks_count": 7,
+    "open_issues_count": 0
   }
 ]
