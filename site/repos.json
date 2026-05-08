@@ -36246,5 +36246,51 @@
     "language": "Kotlin",
     "forks_count": 7,
     "open_issues_count": 1
+  },
+  {
+    "id": 1222998674,
+    "name": "agent-to-merchant-payments",
+    "owner": {
+      "id": 279859560,
+      "url": "https://api.github.com/users/Snaplii-Inc",
+      "html_url": "https://github.com/Snaplii-Inc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279859560?v=4"
+    },
+    "html_url": "https://github.com/Snaplii-Inc/agent-to-merchant-payments",
+    "description": "Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer — powered by 500+ merchant gift cards — and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions.",
+    "created_at": "2026-04-27T23:12:18Z",
+    "updated_at": "2026-05-07T11:39:37Z",
+    "pushed_at": "2026-05-06T14:54:17Z",
+    "git_url": "git://github.com/Snaplii-Inc/agent-to-merchant-payments.git",
+    "homepage": "https://www.snaplii.com/",
+    "size": 113,
+    "stargazers_count": 713,
+    "watchers_count": 713,
+    "language": "Python",
+    "forks_count": 86,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1231014650,
+    "name": "codex-eu-patcher",
+    "owner": {
+      "id": 111887417,
+      "url": "https://api.github.com/users/Blueemi",
+      "html_url": "https://github.com/Blueemi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111887417?v=4"
+    },
+    "html_url": "https://github.com/Blueemi/codex-eu-patcher",
+    "description": null,
+    "created_at": "2026-05-06T14:40:30Z",
+    "updated_at": "2026-05-07T14:51:25Z",
+    "pushed_at": "2026-05-06T14:40:49Z",
+    "git_url": "git://github.com/Blueemi/codex-eu-patcher.git",
+    "homepage": null,
+    "size": 5,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "JavaScript",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
