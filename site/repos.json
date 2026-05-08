@@ -36476,5 +36476,51 @@
     "language": "C",
     "forks_count": 4,
     "open_issues_count": 2
+  },
+  {
+    "id": 1209677886,
+    "name": "FluentCleaner",
+    "owner": {
+      "id": 48735732,
+      "url": "https://api.github.com/users/builtbybel",
+      "html_url": "https://github.com/builtbybel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48735732?v=4"
+    },
+    "html_url": "https://github.com/builtbybel/FluentCleaner",
+    "description": "A real WinUI desktop cleaner with terminal control and multi-database support",
+    "created_at": "2026-04-13T17:09:20Z",
+    "updated_at": "2026-05-08T12:33:48Z",
+    "pushed_at": "2026-05-07T08:58:12Z",
+    "git_url": "git://github.com/builtbybel/FluentCleaner.git",
+    "homepage": "",
+    "size": 1844,
+    "stargazers_count": 589,
+    "watchers_count": 589,
+    "language": "C#",
+    "forks_count": 15,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1228563482,
+    "name": "karpov-gateway",
+    "owner": {
+      "id": 77006751,
+      "url": "https://api.github.com/users/MiChongs",
+      "html_url": "https://github.com/MiChongs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77006751?v=4"
+    },
+    "html_url": "https://github.com/MiChongs/karpov-gateway",
+    "description": "Karpov Gateway — REST API gateway + Next.js console. Go (Gin+gRPC) + PostgreSQL + Redis + OAuth2 (Linux.do) + TOTP 2FA + encrypted credential pool",
+    "created_at": "2026-05-04T06:32:38Z",
+    "updated_at": "2026-05-07T16:04:59Z",
+    "pushed_at": "2026-05-06T21:10:44Z",
+    "git_url": "git://github.com/MiChongs/karpov-gateway.git",
+    "homepage": null,
+    "size": 920,
+    "stargazers_count": 68,
+    "watchers_count": 68,
+    "language": "Go",
+    "forks_count": 10,
+    "open_issues_count": 0
   }
 ]
