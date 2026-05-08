@@ -36200,5 +36200,51 @@
     "language": "HTML",
     "forks_count": 4,
     "open_issues_count": 1
+  },
+  {
+    "id": 1218362557,
+    "name": "tuna-2",
+    "owner": {
+      "id": 16943930,
+      "url": "https://api.github.com/users/facebookresearch",
+      "html_url": "https://github.com/facebookresearch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16943930?v=4"
+    },
+    "html_url": "https://github.com/facebookresearch/tuna-2",
+    "description": "Official implementation of Tuna-2: Pixel Embeddings Beat Vision Encoders for Unified Understanding and Generation",
+    "created_at": "2026-04-22T19:54:50Z",
+    "updated_at": "2026-05-07T18:38:46Z",
+    "pushed_at": "2026-05-01T23:24:31Z",
+    "git_url": "git://github.com/facebookresearch/tuna-2.git",
+    "homepage": "",
+    "size": 100888,
+    "stargazers_count": 592,
+    "watchers_count": 592,
+    "language": "Python",
+    "forks_count": 25,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1228848781,
+    "name": "opencyvis-phone",
+    "owner": {
+      "id": 281116324,
+      "url": "https://api.github.com/users/opencyvis",
+      "html_url": "https://github.com/opencyvis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/281116324?v=4"
+    },
+    "html_url": "https://github.com/opencyvis/opencyvis-phone",
+    "description": null,
+    "created_at": "2026-05-04T12:49:45Z",
+    "updated_at": "2026-05-06T16:02:31Z",
+    "pushed_at": "2026-05-06T10:08:42Z",
+    "git_url": "git://github.com/opencyvis/opencyvis-phone.git",
+    "homepage": null,
+    "size": 245418,
+    "stargazers_count": 72,
+    "watchers_count": 72,
+    "language": "Kotlin",
+    "forks_count": 7,
+    "open_issues_count": 1
   }
 ]
