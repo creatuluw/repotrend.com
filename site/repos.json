@@ -35901,5 +35901,51 @@
     "language": "Go",
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1208208523,
+    "name": "OpenSwarm",
+    "owner": {
+      "id": 71930995,
+      "url": "https://api.github.com/users/VRSEN",
+      "html_url": "https://github.com/VRSEN",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71930995?v=4"
+    },
+    "html_url": "https://github.com/VRSEN/OpenSwarm",
+    "description": "Claude code for everything except coding",
+    "created_at": "2026-04-12T00:58:18Z",
+    "updated_at": "2026-05-06T18:41:13Z",
+    "pushed_at": "2026-05-06T12:15:23Z",
+    "git_url": "git://github.com/VRSEN/OpenSwarm.git",
+    "homepage": "",
+    "size": 2654,
+    "stargazers_count": 794,
+    "watchers_count": 794,
+    "language": "Python",
+    "forks_count": 240,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1230601208,
+    "name": "polymarket-trading-bot",
+    "owner": {
+      "id": 282157539,
+      "url": "https://api.github.com/users/Predictional-Infra",
+      "html_url": "https://github.com/Predictional-Infra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/282157539?v=4"
+    },
+    "html_url": "https://github.com/Predictional-Infra/polymarket-trading-bot",
+    "description": "polymarket trading bot polymarket arbitrage bot polymarket arbitrage trading bot polymarket trading bot polymarket arbitrage bot polymarket arbitrage trading bot polymarket trading bot polymarket arbitrage bot polymarket arbitrage trading bot polymarket trading bot polymarket arbitrage bot polymarket arbitrage trading bot polymarket trading bot",
+    "created_at": "2026-05-06T06:36:16Z",
+    "updated_at": "2026-05-07T11:09:22Z",
+    "pushed_at": "2026-05-06T15:50:34Z",
+    "git_url": "git://github.com/Predictional-Infra/polymarket-trading-bot.git",
+    "homepage": "https://polymarket.com/crypto",
+    "size": 127,
+    "stargazers_count": 87,
+    "watchers_count": 87,
+    "language": "TypeScript",
+    "forks_count": 364,
+    "open_issues_count": 0
   }
 ]
