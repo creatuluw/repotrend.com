@@ -35947,5 +35947,51 @@
     "language": "TypeScript",
     "forks_count": 364,
     "open_issues_count": 0
+  },
+  {
+    "id": 1211148623,
+    "name": "ForgeRAG",
+    "owner": {
+      "id": 274931469,
+      "url": "https://api.github.com/users/deeplethe",
+      "html_url": "https://github.com/deeplethe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/274931469?v=4"
+    },
+    "html_url": "https://github.com/deeplethe/ForgeRAG",
+    "description": "Production-Ready RAG with Structure-Aware Reasoning",
+    "created_at": "2026-04-15T05:41:43Z",
+    "updated_at": "2026-05-06T17:20:14Z",
+    "pushed_at": "2026-05-04T17:12:35Z",
+    "git_url": "git://github.com/deeplethe/ForgeRAG.git",
+    "homepage": null,
+    "size": 23931,
+    "stargazers_count": 636,
+    "watchers_count": 636,
+    "language": "Python",
+    "forks_count": 48,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1229372605,
+    "name": "Nikon-Recipes",
+    "owner": {
+      "id": 32345320,
+      "url": "https://api.github.com/users/shouryan01",
+      "html_url": "https://github.com/shouryan01",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32345320?v=4"
+    },
+    "html_url": "https://github.com/shouryan01/Nikon-Recipes",
+    "description": null,
+    "created_at": "2026-05-05T01:21:00Z",
+    "updated_at": "2026-05-07T18:35:32Z",
+    "pushed_at": "2026-05-05T01:33:39Z",
+    "git_url": "git://github.com/shouryan01/Nikon-Recipes.git",
+    "homepage": null,
+    "size": 86,
+    "stargazers_count": 67,
+    "watchers_count": 67,
+    "language": null,
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
