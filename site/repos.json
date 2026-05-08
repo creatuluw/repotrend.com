@@ -36430,5 +36430,51 @@
     "language": null,
     "forks_count": 15,
     "open_issues_count": 0
+  },
+  {
+    "id": 1222227524,
+    "name": "kwcode",
+    "owner": {
+      "id": 265172612,
+      "url": "https://api.github.com/users/val1813",
+      "html_url": "https://github.com/val1813",
+      "avatar_url": "https://avatars.githubusercontent.com/u/265172612?v=4"
+    },
+    "html_url": "https://github.com/val1813/kwcode",
+    "description": "一个能持续增强本地开源模型的cli，专门为本地部署模型优化的coding窗口。目前仍然处于mvp未能大规模测试和端到端跑通，欢迎指正🙏🏻🙏🏻🙏🏻",
+    "created_at": "2026-04-27T06:56:36Z",
+    "updated_at": "2026-05-08T11:14:45Z",
+    "pushed_at": "2026-05-08T04:40:35Z",
+    "git_url": "git://github.com/val1813/kwcode.git",
+    "homepage": null,
+    "size": 1141,
+    "stargazers_count": 574,
+    "watchers_count": 574,
+    "language": "Python",
+    "forks_count": 82,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1228737598,
+    "name": "elfuse",
+    "owner": {
+      "id": 22310129,
+      "url": "https://api.github.com/users/sysprog21",
+      "html_url": "https://github.com/sysprog21",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22310129?v=4"
+    },
+    "html_url": "https://github.com/sysprog21/elfuse",
+    "description": "Run Arm64/Linux ELF binaries on macOS Apple Silicon",
+    "created_at": "2026-05-04T10:21:48Z",
+    "updated_at": "2026-05-07T18:03:00Z",
+    "pushed_at": "2026-05-07T18:02:24Z",
+    "git_url": "git://github.com/sysprog21/elfuse.git",
+    "homepage": "",
+    "size": 862,
+    "stargazers_count": 84,
+    "watchers_count": 84,
+    "language": "C",
+    "forks_count": 4,
+    "open_issues_count": 2
   }
 ]
