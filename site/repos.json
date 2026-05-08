@@ -36062,5 +36062,51 @@
     "language": "TypeScript",
     "forks_count": 364,
     "open_issues_count": 0
+  },
+  {
+    "id": 1205140442,
+    "name": "hermes-control-interface",
+    "owner": {
+      "id": 38959282,
+      "url": "https://api.github.com/users/xaspx",
+      "html_url": "https://github.com/xaspx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38959282?v=4"
+    },
+    "html_url": "https://github.com/xaspx/hermes-control-interface",
+    "description": "A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate.",
+    "created_at": "2026-04-08T17:13:25Z",
+    "updated_at": "2026-05-06T18:38:10Z",
+    "pushed_at": "2026-05-04T10:58:59Z",
+    "git_url": "git://github.com/xaspx/hermes-control-interface.git",
+    "homepage": "https://x.com/bayendor",
+    "size": 20615,
+    "stargazers_count": 602,
+    "watchers_count": 602,
+    "language": "JavaScript",
+    "forks_count": 93,
+    "open_issues_count": 10
+  },
+  {
+    "id": 1231332766,
+    "name": "claudesona",
+    "owner": {
+      "id": 43304488,
+      "url": "https://api.github.com/users/N8python",
+      "html_url": "https://github.com/N8python",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43304488?v=4"
+    },
+    "html_url": "https://github.com/N8python/claudesona",
+    "description": "Claudesona Emotion Sprites is an unofficial fan extension for claude.ai. It watches normal page text for simple emotion tags such as <claude_happy />, <claude_thoughtful />, and <claude_skeptical />, then replaces each tag with a compact 128x128 transparent claudesona sprite.",
+    "created_at": "2026-05-06T21:30:39Z",
+    "updated_at": "2026-05-08T00:01:02Z",
+    "pushed_at": "2026-05-07T22:00:27Z",
+    "git_url": "git://github.com/N8python/claudesona.git",
+    "homepage": null,
+    "size": 55304,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "Python",
+    "forks_count": 8,
+    "open_issues_count": 1
   }
 ]
