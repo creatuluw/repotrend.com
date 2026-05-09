@@ -36890,5 +36890,51 @@
     "language": "Python",
     "forks_count": 14,
     "open_issues_count": 0
+  },
+  {
+    "id": 1210969976,
+    "name": "claude-doctor",
+    "owner": {
+      "id": 85101781,
+      "url": "https://api.github.com/users/millionco",
+      "html_url": "https://github.com/millionco",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85101781?v=4"
+    },
+    "html_url": "https://github.com/millionco/claude-doctor",
+    "description": "Diagnose your Claude Code sessions",
+    "created_at": "2026-04-15T00:13:49Z",
+    "updated_at": "2026-05-08T05:42:29Z",
+    "pushed_at": "2026-04-15T09:26:42Z",
+    "git_url": "git://github.com/millionco/claude-doctor.git",
+    "homepage": "",
+    "size": 232,
+    "stargazers_count": 565,
+    "watchers_count": 565,
+    "language": "TypeScript",
+    "forks_count": 50,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1230435080,
+    "name": "TigerAI-n8n-Skill-Pack",
+    "owner": {
+      "id": 22585297,
+      "url": "https://api.github.com/users/MorrisLu-Taipei",
+      "html_url": "https://github.com/MorrisLu-Taipei",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22585297?v=4"
+    },
+    "html_url": "https://github.com/MorrisLu-Taipei/TigerAI-n8n-Skill-Pack",
+    "description": "Build enterprise-grade n8n workflows using natural language sticky notes: An AI engine that transforms simple human intent into complete, documented three-layer automation systems.",
+    "created_at": "2026-05-06T01:58:42Z",
+    "updated_at": "2026-05-08T17:19:21Z",
+    "pushed_at": "2026-05-06T03:06:42Z",
+    "git_url": "git://github.com/MorrisLu-Taipei/TigerAI-n8n-Skill-Pack.git",
+    "homepage": null,
+    "size": 8815,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "JavaScript",
+    "forks_count": 11,
+    "open_issues_count": 0
   }
 ]
