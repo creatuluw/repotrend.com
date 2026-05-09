@@ -36752,5 +36752,51 @@
     "language": "Python",
     "forks_count": 15,
     "open_issues_count": 0
+  },
+  {
+    "id": 1223428226,
+    "name": "club-3090",
+    "owner": {
+      "id": 10742901,
+      "url": "https://api.github.com/users/noonghunna",
+      "html_url": "https://github.com/noonghunna",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10742901?v=4"
+    },
+    "html_url": "https://github.com/noonghunna/club-3090",
+    "description": "Community recipes for serving LLMs on RTX 3090. Multi-engine (vLLM, llama.cpp, SGLang) and model-agnostic. Currently shipping Qwen3.6-27B configs for 1× and 2× cards.",
+    "created_at": "2026-04-28T10:08:59Z",
+    "updated_at": "2026-05-08T18:28:11Z",
+    "pushed_at": "2026-05-08T12:54:53Z",
+    "git_url": "git://github.com/noonghunna/club-3090.git",
+    "homepage": null,
+    "size": 11659,
+    "stargazers_count": 643,
+    "watchers_count": 643,
+    "language": "Python",
+    "forks_count": 41,
+    "open_issues_count": 9
+  },
+  {
+    "id": 1230726664,
+    "name": "PhysForge",
+    "owner": {
+      "id": 218629317,
+      "url": "https://api.github.com/users/HKU-MMLab",
+      "html_url": "https://github.com/HKU-MMLab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/218629317?v=4"
+    },
+    "html_url": "https://github.com/HKU-MMLab/PhysForge",
+    "description": "[ICML 2026] PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World",
+    "created_at": "2026-05-06T09:03:28Z",
+    "updated_at": "2026-05-08T18:07:51Z",
+    "pushed_at": "2026-05-07T02:57:19Z",
+    "git_url": "git://github.com/HKU-MMLab/PhysForge.git",
+    "homepage": "https://hku-mmlab.github.io/PhysForge/",
+    "size": 93169,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 1
   }
 ]
