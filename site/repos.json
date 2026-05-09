@@ -36936,5 +36936,51 @@
     "language": "JavaScript",
     "forks_count": 11,
     "open_issues_count": 0
+  },
+  {
+    "id": 1223187770,
+    "name": "markdown-preview",
+    "owner": {
+      "id": 204355064,
+      "url": "https://api.github.com/users/pluk-inc",
+      "html_url": "https://github.com/pluk-inc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/204355064?v=4"
+    },
+    "html_url": "https://github.com/pluk-inc/markdown-preview",
+    "description": "A simple Markdown viewer for reading .md files",
+    "created_at": "2026-04-28T04:55:41Z",
+    "updated_at": "2026-05-09T10:44:03Z",
+    "pushed_at": "2026-05-09T08:12:28Z",
+    "git_url": "git://github.com/pluk-inc/markdown-preview.git",
+    "homepage": "http://markdownpreview.app",
+    "size": 14856,
+    "stargazers_count": 563,
+    "watchers_count": 563,
+    "language": "Swift",
+    "forks_count": 28,
+    "open_issues_count": 10
+  },
+  {
+    "id": 1231277516,
+    "name": "php-fts",
+    "owner": {
+      "id": 247223033,
+      "url": "https://api.github.com/users/olivier-ls",
+      "html_url": "https://github.com/olivier-ls",
+      "avatar_url": "https://avatars.githubusercontent.com/u/247223033?v=4"
+    },
+    "html_url": "https://github.com/olivier-ls/php-fts",
+    "description": "A self-contained full-text search engine in pure PHP. No extensions, no dependencies.",
+    "created_at": "2026-05-06T20:07:05Z",
+    "updated_at": "2026-05-08T16:57:24Z",
+    "pushed_at": "2026-05-07T13:04:50Z",
+    "git_url": "git://github.com/olivier-ls/php-fts.git",
+    "homepage": null,
+    "size": 3401,
+    "stargazers_count": 95,
+    "watchers_count": 95,
+    "language": "PHP",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
