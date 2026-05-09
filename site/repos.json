@@ -36798,5 +36798,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 1
+  },
+  {
+    "id": 1230933500,
+    "name": "tokenspeed",
+    "owner": {
+      "id": 238925110,
+      "url": "https://api.github.com/users/lightseekorg",
+      "html_url": "https://github.com/lightseekorg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/238925110?v=4"
+    },
+    "html_url": "https://github.com/lightseekorg/tokenspeed",
+    "description": "TokenSpeed is a speed-of-light LLM inference engine.",
+    "created_at": "2026-05-06T13:13:21Z",
+    "updated_at": "2026-05-08T18:04:43Z",
+    "pushed_at": "2026-05-08T18:36:16Z",
+    "git_url": "git://github.com/lightseekorg/tokenspeed.git",
+    "homepage": "https://lightseek.org/blog/lightseek-tokenspeed.html",
+    "size": 1658,
+    "stargazers_count": 757,
+    "watchers_count": 757,
+    "language": "Python",
+    "forks_count": 46,
+    "open_issues_count": 15
+  },
+  {
+    "id": 1230949909,
+    "name": "DeepSeek-TUI",
+    "owner": {
+      "id": 282264371,
+      "url": "https://api.github.com/users/DeepSeek-TUI",
+      "html_url": "https://github.com/DeepSeek-TUI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/282264371?v=4"
+    },
+    "html_url": "https://github.com/DeepSeek-TUI/DeepSeek-TUI",
+    "description": "Install DeepSeek TUI - Coding agent for DeepSeek models that runs in your terminal.",
+    "created_at": "2026-05-06T13:31:16Z",
+    "updated_at": "2026-05-08T16:01:59Z",
+    "pushed_at": "2026-05-06T13:53:07Z",
+    "git_url": "git://github.com/DeepSeek-TUI/DeepSeek-TUI.git",
+    "homepage": "",
+    "size": 827,
+    "stargazers_count": 80,
+    "watchers_count": 80,
+    "language": "Rust",
+    "forks_count": 12,
+    "open_issues_count": 0
   }
 ]
