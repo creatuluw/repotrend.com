@@ -36614,5 +36614,51 @@
     "language": "JavaScript",
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1210390572,
+    "name": "cve-mcp-server",
+    "owner": {
+      "id": 42860185,
+      "url": "https://api.github.com/users/mukul975",
+      "html_url": "https://github.com/mukul975",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42860185?v=4"
+    },
+    "html_url": "https://github.com/mukul975/cve-mcp-server",
+    "description": "Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more.",
+    "created_at": "2026-04-14T11:20:00Z",
+    "updated_at": "2026-05-08T17:48:29Z",
+    "pushed_at": "2026-05-08T11:47:20Z",
+    "git_url": "git://github.com/mukul975/cve-mcp-server.git",
+    "homepage": "https://www.mahipal.engineer/CVE-MCP-Server/",
+    "size": 5632,
+    "stargazers_count": 552,
+    "watchers_count": 552,
+    "language": "Python",
+    "forks_count": 93,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1230838403,
+    "name": "TG-Downloader",
+    "owner": {
+      "id": 13311003,
+      "url": "https://api.github.com/users/nikzad-avasam",
+      "html_url": "https://github.com/nikzad-avasam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13311003?v=4"
+    },
+    "html_url": "https://github.com/nikzad-avasam/TG-Downloader",
+    "description": "🚀 Tele gram Downloader by sam nikzad",
+    "created_at": "2026-05-06T11:21:14Z",
+    "updated_at": "2026-05-09T00:47:34Z",
+    "pushed_at": "2026-05-08T15:04:30Z",
+    "git_url": "git://github.com/nikzad-avasam/TG-Downloader.git",
+    "homepage": "https://avasam.ir",
+    "size": 564,
+    "stargazers_count": 59,
+    "watchers_count": 59,
+    "language": null,
+    "forks_count": 330,
+    "open_issues_count": 4
   }
 ]
