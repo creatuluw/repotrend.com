@@ -36660,5 +36660,51 @@
     "language": null,
     "forks_count": 330,
     "open_issues_count": 4
+  },
+  {
+    "id": 1218231004,
+    "name": "cuda-oxide",
+    "owner": {
+      "id": 2695301,
+      "url": "https://api.github.com/users/NVlabs",
+      "html_url": "https://github.com/NVlabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2695301?v=4"
+    },
+    "html_url": "https://github.com/NVlabs/cuda-oxide",
+    "description": "cuda-oxide is an experimental Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just Rust.",
+    "created_at": "2026-04-22T17:03:09Z",
+    "updated_at": "2026-05-09T00:49:03Z",
+    "pushed_at": "2026-05-08T08:43:52Z",
+    "git_url": "git://github.com/NVlabs/cuda-oxide.git",
+    "homepage": "https://nvlabs.github.io/cuda-oxide/",
+    "size": 3405,
+    "stargazers_count": 772,
+    "watchers_count": 772,
+    "language": "Rust",
+    "forks_count": 41,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1231745656,
+    "name": "AIEden",
+    "owner": {
+      "id": 81148442,
+      "url": "https://api.github.com/users/Sayhi-bzb",
+      "html_url": "https://github.com/Sayhi-bzb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81148442?v=4"
+    },
+    "html_url": "https://github.com/Sayhi-bzb/AIEden",
+    "description": "an LLM-native world and civilization",
+    "created_at": "2026-05-07T08:44:58Z",
+    "updated_at": "2026-05-08T23:34:17Z",
+    "pushed_at": "2026-05-08T08:41:40Z",
+    "git_url": "git://github.com/Sayhi-bzb/AIEden.git",
+    "homepage": null,
+    "size": 140,
+    "stargazers_count": 76,
+    "watchers_count": 76,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
