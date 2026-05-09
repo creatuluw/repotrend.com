@@ -36706,5 +36706,51 @@
     "language": "TypeScript",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1226278857,
+    "name": "RunbookHermes",
+    "owner": {
+      "id": 203919907,
+      "url": "https://api.github.com/users/Tommy-yw",
+      "html_url": "https://github.com/Tommy-yw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/203919907?v=4"
+    },
+    "html_url": "https://github.com/Tommy-yw/RunbookHermes",
+    "description": "Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
+    "created_at": "2026-05-01T07:30:53Z",
+    "updated_at": "2026-05-09T00:45:39Z",
+    "pushed_at": "2026-05-01T09:46:37Z",
+    "git_url": "git://github.com/Tommy-yw/RunbookHermes.git",
+    "homepage": null,
+    "size": 20913,
+    "stargazers_count": 557,
+    "watchers_count": 557,
+    "language": "Python",
+    "forks_count": 29,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1232763235,
+    "name": "autoresearch-crypto",
+    "owner": {
+      "id": 2560838,
+      "url": "https://api.github.com/users/chencore",
+      "html_url": "https://github.com/chencore",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2560838?v=4"
+    },
+    "html_url": "https://github.com/chencore/autoresearch-crypto",
+    "description": "autoresearch-crypto",
+    "created_at": "2026-05-08T08:43:45Z",
+    "updated_at": "2026-05-09T00:46:45Z",
+    "pushed_at": "2026-05-08T08:53:49Z",
+    "git_url": "git://github.com/chencore/autoresearch-crypto.git",
+    "homepage": null,
+    "size": 24753,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": "Python",
+    "forks_count": 15,
+    "open_issues_count": 0
   }
 ]
