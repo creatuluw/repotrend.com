@@ -37465,5 +37465,51 @@
     "language": "HTML",
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1217914588,
+    "name": "kanwas",
+    "owner": {
+      "id": 274951065,
+      "url": "https://api.github.com/users/kanwas-ai",
+      "html_url": "https://github.com/kanwas-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/274951065?v=4"
+    },
+    "html_url": "https://github.com/kanwas-ai/kanwas",
+    "description": "Kanwas — Shared context board for teams and agents",
+    "created_at": "2026-04-22T10:49:58Z",
+    "updated_at": "2026-05-09T18:23:55Z",
+    "pushed_at": "2026-05-06T12:20:54Z",
+    "git_url": "git://github.com/kanwas-ai/kanwas.git",
+    "homepage": "https://kanwas.ai/",
+    "size": 10356,
+    "stargazers_count": 585,
+    "watchers_count": 585,
+    "language": "TypeScript",
+    "forks_count": 81,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1233680465,
+    "name": "mercury-agent-skills",
+    "owner": {
+      "id": 277752932,
+      "url": "https://api.github.com/users/cosmicstack-labs",
+      "html_url": "https://github.com/cosmicstack-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277752932?v=4"
+    },
+    "html_url": "https://github.com/cosmicstack-labs/mercury-agent-skills",
+    "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
+    "created_at": "2026-05-09T08:16:53Z",
+    "updated_at": "2026-05-10T12:26:51Z",
+    "pushed_at": "2026-05-10T09:12:57Z",
+    "git_url": "git://github.com/cosmicstack-labs/mercury-agent-skills.git",
+    "homepage": "https://mercury.cosmicstack.org",
+    "size": 1643,
+    "stargazers_count": 71,
+    "watchers_count": 71,
+    "language": "Shell",
+    "forks_count": 8,
+    "open_issues_count": 0
   }
 ]
