@@ -37327,5 +37327,51 @@
     "language": "TypeScript",
     "forks_count": 7,
     "open_issues_count": 0
+  },
+  {
+    "id": 1222653845,
+    "name": "Meli-Action",
+    "owner": {
+      "id": 111803918,
+      "url": "https://api.github.com/users/Kurdeus",
+      "html_url": "https://github.com/Kurdeus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111803918?v=4"
+    },
+    "html_url": "https://github.com/Kurdeus/Meli-Action",
+    "description": "دانلود فایل از لینک مستقیم، یوتیوب، تلگرام، گوگل پلی، و ذخیره صفحات وب در فیلترینگ شدید اینترنت ملی (پروژه بزرگ ضد فیلترینگ)",
+    "created_at": "2026-04-27T15:18:18Z",
+    "updated_at": "2026-05-10T07:02:01Z",
+    "pushed_at": "2026-05-09T23:01:51Z",
+    "git_url": "git://github.com/Kurdeus/Meli-Action.git",
+    "homepage": "",
+    "size": 163754,
+    "stargazers_count": 851,
+    "watchers_count": 851,
+    "language": "Python",
+    "forks_count": 2553,
+    "open_issues_count": 49
+  },
+  {
+    "id": 1230797184,
+    "name": "yixueAIganhuo-PPT",
+    "owner": {
+      "id": 131294232,
+      "url": "https://api.github.com/users/snowmanzhuang",
+      "html_url": "https://github.com/snowmanzhuang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131294232?v=4"
+    },
+    "html_url": "https://github.com/snowmanzhuang/yixueAIganhuo-PPT",
+    "description": "AI workflow for generating PPT decks from papers, PDFs, figures, screenshots, and prepared materials, then rebuilding editable PPTX files.",
+    "created_at": "2026-05-06T10:28:47Z",
+    "updated_at": "2026-05-09T15:47:38Z",
+    "pushed_at": "2026-05-07T14:19:50Z",
+    "git_url": "git://github.com/snowmanzhuang/yixueAIganhuo-PPT.git",
+    "homepage": null,
+    "size": 554066,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": "Python",
+    "forks_count": 12,
+    "open_issues_count": 0
   }
 ]
