@@ -37258,5 +37258,74 @@
     "language": "Python",
     "forks_count": 13,
     "open_issues_count": 0
+  },
+  {
+    "id": 1219042200,
+    "name": "guizang-ppt-skill",
+    "owner": {
+      "id": 13505770,
+      "url": "https://api.github.com/users/op7418",
+      "html_url": "https://github.com/op7418",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
+    },
+    "html_url": "https://github.com/op7418/guizang-ppt-skill",
+    "description": "A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.",
+    "created_at": "2026-04-23T13:23:07Z",
+    "updated_at": "2026-05-10T07:01:30Z",
+    "pushed_at": "2026-04-28T12:06:04Z",
+    "git_url": "git://github.com/op7418/guizang-ppt-skill.git",
+    "homepage": null,
+    "size": 117,
+    "stargazers_count": 6134,
+    "watchers_count": 6134,
+    "language": "HTML",
+    "forks_count": 558,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1219430101,
+    "name": "FlowDriver",
+    "owner": {
+      "id": 278809786,
+      "url": "https://api.github.com/users/NullLatency",
+      "html_url": "https://github.com/NullLatency",
+      "avatar_url": "https://avatars.githubusercontent.com/u/278809786?v=4"
+    },
+    "html_url": "https://github.com/NullLatency/FlowDriver",
+    "description": "Bypass restrictive networks by tunneling SOCKS5 traffic through legitimate Google Drive API requests.",
+    "created_at": "2026-04-23T21:44:12Z",
+    "updated_at": "2026-05-10T06:25:34Z",
+    "pushed_at": "2026-04-24T17:34:59Z",
+    "git_url": "git://github.com/NullLatency/FlowDriver.git",
+    "homepage": "",
+    "size": 72,
+    "stargazers_count": 587,
+    "watchers_count": 587,
+    "language": "Go",
+    "forks_count": 67,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1232769331,
+    "name": "pi-ds4",
+    "owner": {
+      "id": 7396,
+      "url": "https://api.github.com/users/mitsuhiko",
+      "html_url": "https://github.com/mitsuhiko",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7396?v=4"
+    },
+    "html_url": "https://github.com/mitsuhiko/pi-ds4",
+    "description": "Run deepseek4 locally on metal right from within Pi",
+    "created_at": "2026-05-08T08:51:34Z",
+    "updated_at": "2026-05-10T06:16:02Z",
+    "pushed_at": "2026-05-09T17:42:33Z",
+    "git_url": "git://github.com/mitsuhiko/pi-ds4.git",
+    "homepage": null,
+    "size": 18,
+    "stargazers_count": 90,
+    "watchers_count": 90,
+    "language": "TypeScript",
+    "forks_count": 7,
+    "open_issues_count": 0
   }
 ]
