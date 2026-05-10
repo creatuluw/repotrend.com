@@ -37419,5 +37419,51 @@
     "language": "JavaScript",
     "forks_count": 51,
     "open_issues_count": 2
+  },
+  {
+    "id": 1208451003,
+    "name": "hue",
+    "owner": {
+      "id": 4389660,
+      "url": "https://api.github.com/users/dominikmartn",
+      "html_url": "https://github.com/dominikmartn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4389660?v=4"
+    },
+    "html_url": "https://github.com/dominikmartn/hue",
+    "description": "open-source skill that learns any brand and turns it into a complete design system. works on claude code and codex. install once, every UI your assistant builds matches your brand.",
+    "created_at": "2026-04-12T09:51:03Z",
+    "updated_at": "2026-05-09T18:19:13Z",
+    "pushed_at": "2026-04-17T04:57:56Z",
+    "git_url": "git://github.com/dominikmartn/hue.git",
+    "homepage": "https://hueapp.io",
+    "size": 430,
+    "stargazers_count": 554,
+    "watchers_count": 554,
+    "language": null,
+    "forks_count": 52,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1231607252,
+    "name": "note-slides",
+    "owner": {
+      "id": 214752576,
+      "url": "https://api.github.com/users/gainubi",
+      "html_url": "https://github.com/gainubi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/214752576?v=4"
+    },
+    "html_url": "https://github.com/gainubi/note-slides",
+    "description": "把一篇长文、一个长 PDF，转为可读的精美 Slides。",
+    "created_at": "2026-05-07T05:50:00Z",
+    "updated_at": "2026-05-09T16:19:19Z",
+    "pushed_at": "2026-05-08T08:48:50Z",
+    "git_url": "git://github.com/gainubi/note-slides.git",
+    "homepage": null,
+    "size": 80,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "HTML",
+    "forks_count": 5,
+    "open_issues_count": 0
   }
 ]
