@@ -37212,5 +37212,51 @@
     "language": "Dockerfile",
     "forks_count": 461,
     "open_issues_count": 1
+  },
+  {
+    "id": 1208450620,
+    "name": "cursor-byok",
+    "owner": {
+      "id": 131544788,
+      "url": "https://api.github.com/users/leookun",
+      "html_url": "https://github.com/leookun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131544788?v=4"
+    },
+    "html_url": "https://github.com/leookun/cursor-byok",
+    "description": "Infinite BYOK in Cursor  https://github.com/leookun/cursor-byok/releases",
+    "created_at": "2026-04-12T09:50:23Z",
+    "updated_at": "2026-05-09T22:58:37Z",
+    "pushed_at": "2026-05-06T17:35:11Z",
+    "git_url": "git://github.com/leookun/cursor-byok.git",
+    "homepage": "",
+    "size": 17,
+    "stargazers_count": 587,
+    "watchers_count": 587,
+    "language": null,
+    "forks_count": 36,
+    "open_issues_count": 14
+  },
+  {
+    "id": 1233037001,
+    "name": "aistudio-api",
+    "owner": {
+      "id": 58966022,
+      "url": "https://api.github.com/users/chrysoljq",
+      "html_url": "https://github.com/chrysoljq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58966022?v=4"
+    },
+    "html_url": "https://github.com/chrysoljq/aistudio-api",
+    "description": "Google AIStudio Playgroud 反代，支持 Google 会员（Pro/Ultra），支持 Gemini 原生协议格式，包含生图、工具调用、Google搜索。",
+    "created_at": "2026-05-08T14:22:27Z",
+    "updated_at": "2026-05-09T18:39:43Z",
+    "pushed_at": "2026-05-09T15:03:56Z",
+    "git_url": "git://github.com/chrysoljq/aistudio-api.git",
+    "homepage": "https://linux.do",
+    "size": 1033,
+    "stargazers_count": 64,
+    "watchers_count": 64,
+    "language": "Python",
+    "forks_count": 13,
+    "open_issues_count": 0
   }
 ]
