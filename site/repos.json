@@ -37373,5 +37373,51 @@
     "language": "Python",
     "forks_count": 12,
     "open_issues_count": 0
+  },
+  {
+    "id": 1229531271,
+    "name": "beautiful-html-templates",
+    "owner": {
+      "id": 153693696,
+      "url": "https://api.github.com/users/zarazhangrui",
+      "html_url": "https://github.com/zarazhangrui",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153693696?v=4"
+    },
+    "html_url": "https://github.com/zarazhangrui/beautiful-html-templates",
+    "description": "A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user's behalf, automatically.",
+    "created_at": "2026-05-05T06:18:21Z",
+    "updated_at": "2026-05-10T12:18:37Z",
+    "pushed_at": "2026-05-06T01:45:30Z",
+    "git_url": "git://github.com/zarazhangrui/beautiful-html-templates.git",
+    "homepage": null,
+    "size": 51731,
+    "stargazers_count": 680,
+    "watchers_count": 680,
+    "language": "HTML",
+    "forks_count": 59,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1232762831,
+    "name": "rpow_cli_miner",
+    "owner": {
+      "id": 244230500,
+      "url": "https://api.github.com/users/stablemarkk",
+      "html_url": "https://github.com/stablemarkk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/244230500?v=4"
+    },
+    "html_url": "https://github.com/stablemarkk/rpow_cli_miner",
+    "description": "RPOW2 CLI minter with native C proof-of-work, designed to be significantly faster than browser JavaScript mining",
+    "created_at": "2026-05-08T08:43:22Z",
+    "updated_at": "2026-05-10T09:02:39Z",
+    "pushed_at": "2026-05-10T05:03:56Z",
+    "git_url": "git://github.com/stablemarkk/rpow_cli_miner.git",
+    "homepage": null,
+    "size": 157,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": "JavaScript",
+    "forks_count": 51,
+    "open_issues_count": 2
   }
 ]
