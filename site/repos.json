@@ -37120,5 +37120,51 @@
     "language": "Rust",
     "forks_count": 3,
     "open_issues_count": 7
+  },
+  {
+    "id": 1228321522,
+    "name": "youtube-dl",
+    "owner": {
+      "id": 13311003,
+      "url": "https://api.github.com/users/nikzad-avasam",
+      "html_url": "https://github.com/nikzad-avasam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13311003?v=4"
+    },
+    "html_url": "https://github.com/nikzad-avasam/youtube-dl",
+    "description": "🎬 You tube Downloader to your github repository .",
+    "created_at": "2026-05-03T22:01:37Z",
+    "updated_at": "2026-05-10T00:22:02Z",
+    "pushed_at": "2026-05-09T22:41:18Z",
+    "git_url": "git://github.com/nikzad-avasam/youtube-dl.git",
+    "homepage": "https://avasam.ir",
+    "size": 28556,
+    "stargazers_count": 566,
+    "watchers_count": 566,
+    "language": null,
+    "forks_count": 2426,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1231555195,
+    "name": "paper-pilot",
+    "owner": {
+      "id": 60683632,
+      "url": "https://api.github.com/users/Xueyang-Song",
+      "html_url": "https://github.com/Xueyang-Song",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60683632?v=4"
+    },
+    "html_url": "https://github.com/Xueyang-Song/paper-pilot",
+    "description": null,
+    "created_at": "2026-05-07T04:21:52Z",
+    "updated_at": "2026-05-09T22:19:15Z",
+    "pushed_at": "2026-05-07T07:19:56Z",
+    "git_url": "git://github.com/Xueyang-Song/paper-pilot.git",
+    "homepage": null,
+    "size": 207,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": "TypeScript",
+    "forks_count": 6,
+    "open_issues_count": 0
   }
 ]
