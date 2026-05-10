@@ -37074,5 +37074,51 @@
     "language": "Python",
     "forks_count": 8,
     "open_issues_count": 0
+  },
+  {
+    "id": 1225136025,
+    "name": "OpenClaude-Portable",
+    "owner": {
+      "id": 54399984,
+      "url": "https://api.github.com/users/techjarves",
+      "html_url": "https://github.com/techjarves",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54399984?v=4"
+    },
+    "html_url": "https://github.com/techjarves/OpenClaude-Portable",
+    "description": "Run Claude Code from a USB drive on any PC — no installation required.",
+    "created_at": "2026-04-30T01:34:22Z",
+    "updated_at": "2026-05-09T17:43:25Z",
+    "pushed_at": "2026-05-07T08:48:42Z",
+    "git_url": "git://github.com/techjarves/OpenClaude-Portable.git",
+    "homepage": null,
+    "size": 193,
+    "stargazers_count": 593,
+    "watchers_count": 593,
+    "language": "HTML",
+    "forks_count": 224,
+    "open_issues_count": 10
+  },
+  {
+    "id": 1230402021,
+    "name": "omikuji",
+    "owner": {
+      "id": 85903730,
+      "url": "https://api.github.com/users/reakjra",
+      "html_url": "https://github.com/reakjra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85903730?v=4"
+    },
+    "html_url": "https://github.com/reakjra/omikuji",
+    "description": "Qt/QML based game launcher for Linux",
+    "created_at": "2026-05-06T00:56:45Z",
+    "updated_at": "2026-05-08T16:02:51Z",
+    "pushed_at": "2026-05-08T16:02:43Z",
+    "git_url": "git://github.com/reakjra/omikuji.git",
+    "homepage": null,
+    "size": 3565,
+    "stargazers_count": 76,
+    "watchers_count": 76,
+    "language": "Rust",
+    "forks_count": 3,
+    "open_issues_count": 7
   }
 ]
