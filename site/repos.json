@@ -37511,5 +37511,51 @@
     "language": "Shell",
     "forks_count": 8,
     "open_issues_count": 0
+  },
+  {
+    "id": 1214785164,
+    "name": "Supervisor-Skills",
+    "owner": {
+      "id": 176130785,
+      "url": "https://api.github.com/users/HKUSTDial",
+      "html_url": "https://github.com/HKUSTDial",
+      "avatar_url": "https://avatars.githubusercontent.com/u/176130785?v=4"
+    },
+    "html_url": "https://github.com/HKUSTDial/Supervisor-Skills",
+    "description": "将博导十年科研经验炼化为可直接调用的 AI 技能。从 Idea 构思到论文投稿，你的 AI 科研副导师。",
+    "created_at": "2026-04-19T03:33:02Z",
+    "updated_at": "2026-05-09T16:36:53Z",
+    "pushed_at": "2026-04-29T02:33:10Z",
+    "git_url": "git://github.com/HKUSTDial/Supervisor-Skills.git",
+    "homepage": "",
+    "size": 36076,
+    "stargazers_count": 718,
+    "watchers_count": 718,
+    "language": "Python",
+    "forks_count": 52,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1233959269,
+    "name": "rust-but-lisp",
+    "owner": {
+      "id": 66848002,
+      "url": "https://api.github.com/users/ThatXliner",
+      "html_url": "https://github.com/ThatXliner",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66848002?v=4"
+    },
+    "html_url": "https://github.com/ThatXliner/rust-but-lisp",
+    "description": "Rust but LISP",
+    "created_at": "2026-05-09T15:09:45Z",
+    "updated_at": "2026-05-10T12:24:17Z",
+    "pushed_at": "2026-05-10T07:48:44Z",
+    "git_url": "git://github.com/ThatXliner/rust-but-lisp.git",
+    "homepage": "",
+    "size": 1273,
+    "stargazers_count": 77,
+    "watchers_count": 77,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
