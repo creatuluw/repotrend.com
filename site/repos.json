@@ -37028,5 +37028,51 @@
     "language": "Swift",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1226182842,
+    "name": "minimind-o",
+    "owner": {
+      "id": 62287848,
+      "url": "https://api.github.com/users/jingyaogong",
+      "html_url": "https://github.com/jingyaogong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62287848?v=4"
+    },
+    "html_url": "https://github.com/jingyaogong/minimind-o",
+    "description": "🎙️ 「大模型」从0训练0.1B能听能说能看的全模态Omni模型！A 0.1B Omni model trained from scratch, capable of listening, speaking, and seeing!",
+    "created_at": "2026-05-01T04:20:16Z",
+    "updated_at": "2026-05-09T18:14:27Z",
+    "pushed_at": "2026-05-08T07:04:47Z",
+    "git_url": "git://github.com/jingyaogong/minimind-o.git",
+    "homepage": "https://jingyaogong.github.io/minimind-o",
+    "size": 6661,
+    "stargazers_count": 698,
+    "watchers_count": 698,
+    "language": "Python",
+    "forks_count": 65,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1232486041,
+    "name": "mtg-realtime-translator",
+    "owner": {
+      "id": 86884048,
+      "url": "https://api.github.com/users/nanameru",
+      "html_url": "https://github.com/nanameru",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86884048?v=4"
+    },
+    "html_url": "https://github.com/nanameru/mtg-realtime-translator",
+    "description": null,
+    "created_at": "2026-05-08T01:28:51Z",
+    "updated_at": "2026-05-09T17:45:13Z",
+    "pushed_at": "2026-05-08T06:39:13Z",
+    "git_url": "git://github.com/nanameru/mtg-realtime-translator.git",
+    "homepage": null,
+    "size": 5334,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": "Python",
+    "forks_count": 8,
+    "open_issues_count": 0
   }
 ]
