@@ -38086,5 +38086,51 @@
     "language": null,
     "forks_count": 8,
     "open_issues_count": 1
+  },
+  {
+    "id": 1210042048,
+    "name": "openduck",
+    "owner": {
+      "id": 16475846,
+      "url": "https://api.github.com/users/CITGuru",
+      "html_url": "https://github.com/CITGuru",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16475846?v=4"
+    },
+    "html_url": "https://github.com/CITGuru/openduck",
+    "description": "Distributed DuckDB - dual execution and differential storage",
+    "created_at": "2026-04-14T03:08:05Z",
+    "updated_at": "2026-05-09T16:21:54Z",
+    "pushed_at": "2026-05-06T12:52:12Z",
+    "git_url": "git://github.com/CITGuru/openduck.git",
+    "homepage": "",
+    "size": 95344,
+    "stargazers_count": 533,
+    "watchers_count": 533,
+    "language": "C++",
+    "forks_count": 23,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1233056940,
+    "name": "UFO-USA",
+    "owner": {
+      "id": 2140110,
+      "url": "https://api.github.com/users/DenisSergeevitch",
+      "html_url": "https://github.com/DenisSergeevitch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2140110?v=4"
+    },
+    "html_url": "https://github.com/DenisSergeevitch/UFO-USA",
+    "description": "Converted Markdown archive for the public war.gov UFO/PURSUE Release 01 files",
+    "created_at": "2026-05-08T14:46:12Z",
+    "updated_at": "2026-05-11T07:35:20Z",
+    "pushed_at": "2026-05-08T18:44:55Z",
+    "git_url": "git://github.com/DenisSergeevitch/UFO-USA.git",
+    "homepage": null,
+    "size": 7753,
+    "stargazers_count": 75,
+    "watchers_count": 75,
+    "language": "Python",
+    "forks_count": 19,
+    "open_issues_count": 0
   }
 ]
