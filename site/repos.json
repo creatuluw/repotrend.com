@@ -37603,5 +37603,51 @@
     "language": "Python",
     "forks_count": 2,
     "open_issues_count": 1
+  },
+  {
+    "id": 1205687807,
+    "name": "3dsvg",
+    "owner": {
+      "id": 130500381,
+      "url": "https://api.github.com/users/renatoworks",
+      "html_url": "https://github.com/renatoworks",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130500381?v=4"
+    },
+    "html_url": "https://github.com/renatoworks/3dsvg",
+    "description": "The easiest way to turn SVGs into interactive React 3D components",
+    "created_at": "2026-04-09T07:33:41Z",
+    "updated_at": "2026-05-09T16:55:16Z",
+    "pushed_at": "2026-04-12T11:32:10Z",
+    "git_url": "git://github.com/renatoworks/3dsvg.git",
+    "homepage": "https://3dsvg.design",
+    "size": 488,
+    "stargazers_count": 545,
+    "watchers_count": 545,
+    "language": "TypeScript",
+    "forks_count": 74,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1233958601,
+    "name": "Sora-2-App-No-Watermark",
+    "owner": {
+      "id": 49539262,
+      "url": "https://api.github.com/users/baydarerhan",
+      "html_url": "https://github.com/baydarerhan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49539262?v=4"
+    },
+    "html_url": "https://github.com/baydarerhan/Sora-2-App-No-Watermark",
+    "description": "free Sora 2 sora chatgpt App No Watermark download OpenAI AI video generator text-to-video 1080p Full HD synchronized audio character cameos no watermark remover clean export MP4 premium unlocked APK desktop version mobile app 2026 video editor cinematic realism multi-shot control prompt-to-video creative tool. ",
+    "created_at": "2026-05-09T15:08:47Z",
+    "updated_at": "2026-05-09T18:10:00Z",
+    "pushed_at": "2026-05-09T15:21:38Z",
+    "git_url": "git://github.com/baydarerhan/Sora-2-App-No-Watermark.git",
+    "homepage": "",
+    "size": 72,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
