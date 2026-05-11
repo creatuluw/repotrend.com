@@ -37902,5 +37902,51 @@
     "language": "C#",
     "forks_count": 10,
     "open_issues_count": 0
+  },
+  {
+    "id": 1218088263,
+    "name": "wanman",
+    "owner": {
+      "id": 253923356,
+      "url": "https://api.github.com/users/chekusu",
+      "html_url": "https://github.com/chekusu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/253923356?v=4"
+    },
+    "html_url": "https://github.com/chekusu/wanman",
+    "description": "wanman is an open-source agent matrix runtime inspired by Japanese one-man trains. It lets human users step back into an observer role while local agent runtimes coordinate autonomous multi-agent workflows, task execution, and artifacts.",
+    "created_at": "2026-04-22T14:17:57Z",
+    "updated_at": "2026-05-11T02:11:30Z",
+    "pushed_at": "2026-04-25T10:38:39Z",
+    "git_url": "git://github.com/chekusu/wanman.git",
+    "homepage": "http://wanman.ai",
+    "size": 685,
+    "stargazers_count": 531,
+    "watchers_count": 531,
+    "language": "TypeScript",
+    "forks_count": 86,
+    "open_issues_count": 9
+  },
+  {
+    "id": 1233248262,
+    "name": "meshtastic-sniffer",
+    "owner": {
+      "id": 44436101,
+      "url": "https://api.github.com/users/alphafox02",
+      "html_url": "https://github.com/alphafox02",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44436101?v=4"
+    },
+    "html_url": "https://github.com/alphafox02/meshtastic-sniffer",
+    "description": "Wideband passive Meshtastic LoRa receiver with multi-station fusion and offline PSK recovery",
+    "created_at": "2026-05-08T18:51:19Z",
+    "updated_at": "2026-05-11T01:21:56Z",
+    "pushed_at": "2026-05-11T01:21:53Z",
+    "git_url": "git://github.com/alphafox02/meshtastic-sniffer.git",
+    "homepage": null,
+    "size": 537,
+    "stargazers_count": 64,
+    "watchers_count": 64,
+    "language": "C",
+    "forks_count": 12,
+    "open_issues_count": 2
   }
 ]
