@@ -37718,5 +37718,51 @@
     "language": "Python",
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1217281692,
+    "name": "HALO",
+    "owner": {
+      "id": 125929854,
+      "url": "https://api.github.com/users/context-labs",
+      "html_url": "https://github.com/context-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/125929854?v=4"
+    },
+    "html_url": "https://github.com/context-labs/HALO",
+    "description": "Hierarchal Agent Loop Optimizer",
+    "created_at": "2026-04-21T18:20:46Z",
+    "updated_at": "2026-05-10T17:38:21Z",
+    "pushed_at": "2026-05-09T02:53:54Z",
+    "git_url": "git://github.com/context-labs/HALO.git",
+    "homepage": null,
+    "size": 3827,
+    "stargazers_count": 541,
+    "watchers_count": 541,
+    "language": "Python",
+    "forks_count": 49,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1233756465,
+    "name": "super-volume-booster",
+    "owner": {
+      "id": 116557249,
+      "url": "https://api.github.com/users/kokarevn",
+      "html_url": "https://github.com/kokarevn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/116557249?v=4"
+    },
+    "html_url": "https://github.com/kokarevn/super-volume-booster",
+    "description": "Free, open-source, privacy-first volume booster and equalizer for Chrome. Public",
+    "created_at": "2026-05-09T10:14:19Z",
+    "updated_at": "2026-05-10T15:48:14Z",
+    "pushed_at": "2026-05-09T12:25:32Z",
+    "git_url": "git://github.com/kokarevn/super-volume-booster.git",
+    "homepage": null,
+    "size": 3015,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
