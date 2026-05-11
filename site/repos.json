@@ -37810,5 +37810,51 @@
     "language": null,
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1234572130,
+    "name": "Velocity-Executor",
+    "owner": {
+      "id": 107716847,
+      "url": "https://api.github.com/users/thakur-works",
+      "html_url": "https://github.com/thakur-works",
+      "avatar_url": "https://avatars.githubusercontent.com/u/107716847?v=4"
+    },
+    "html_url": "https://github.com/thakur-works/Velocity-Executor",
+    "description": "This repository contains Velocity Executor — a free Roblox script executor for PC built for fast injection, stable performance, and easy access. Includes Level 8 execution in 2026 with no ads, no key checkpoints, and no extra verification.",
+    "created_at": "2026-05-10T11:10:20Z",
+    "updated_at": "2026-05-10T11:24:42Z",
+    "pushed_at": "2026-05-10T11:21:25Z",
+    "git_url": "git://github.com/thakur-works/Velocity-Executor.git",
+    "homepage": "",
+    "size": 22,
+    "stargazers_count": 528,
+    "watchers_count": 528,
+    "language": null,
+    "forks_count": 90,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1233565815,
+    "name": "ba-zone-user-story-ac-writer",
+    "owner": {
+      "id": 64410511,
+      "url": "https://api.github.com/users/blaoman",
+      "html_url": "https://github.com/blaoman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64410511?v=4"
+    },
+    "html_url": "https://github.com/blaoman/ba-zone-user-story-ac-writer",
+    "description": "Skill Claude AI giúp BA/PO viết User Story & AC chuẩn INVEST + Given-When-Then · by Phúc NT · BA Zone",
+    "created_at": "2026-05-09T05:16:15Z",
+    "updated_at": "2026-05-10T17:47:00Z",
+    "pushed_at": "2026-05-09T09:16:57Z",
+    "git_url": "git://github.com/blaoman/ba-zone-user-story-ac-writer.git",
+    "homepage": null,
+    "size": 38,
+    "stargazers_count": 55,
+    "watchers_count": 55,
+    "language": null,
+    "forks_count": 22,
+    "open_issues_count": 0
   }
 ]
