@@ -37994,5 +37994,51 @@
     "language": null,
     "forks_count": 8,
     "open_issues_count": 0
+  },
+  {
+    "id": 1220914655,
+    "name": "ian-handdrawn-ppt",
+    "owner": {
+      "id": 89686060,
+      "url": "https://api.github.com/users/helloianneo",
+      "html_url": "https://github.com/helloianneo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89686060?v=4"
+    },
+    "html_url": "https://github.com/helloianneo/ian-handdrawn-ppt",
+    "description": "中文手绘技术 PPT 整页图像生成 Skill | 21:9 封面 + 16:9 正文配图 | PNG 输出",
+    "created_at": "2026-04-25T14:02:51Z",
+    "updated_at": "2026-05-10T15:58:51Z",
+    "pushed_at": "2026-04-25T14:23:25Z",
+    "git_url": "git://github.com/helloianneo/ian-handdrawn-ppt.git",
+    "homepage": "https://ianneo.xyz",
+    "size": 8335,
+    "stargazers_count": 579,
+    "watchers_count": 579,
+    "language": null,
+    "forks_count": 59,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1232622993,
+    "name": "turnintoserver",
+    "owner": {
+      "id": 40188015,
+      "url": "https://api.github.com/users/QianYushi",
+      "html_url": "https://github.com/QianYushi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40188015?v=4"
+    },
+    "html_url": "https://github.com/QianYushi/turnintoserver",
+    "description": "Use a MacBook as a closed-lid server while setting the built-in display to zero brightness.",
+    "created_at": "2026-05-08T05:37:47Z",
+    "updated_at": "2026-05-11T13:05:13Z",
+    "pushed_at": "2026-05-10T14:48:31Z",
+    "git_url": "git://github.com/QianYushi/turnintoserver.git",
+    "homepage": "https://github.com/QianYushi/turnintoserver/releases/latest",
+    "size": 2225,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": "Swift",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
