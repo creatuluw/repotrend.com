@@ -37764,5 +37764,51 @@
     "language": "JavaScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1219009070,
+    "name": "agent-toolkit-for-aws",
+    "owner": {
+      "id": 2232217,
+      "url": "https://api.github.com/users/aws",
+      "html_url": "https://github.com/aws",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2232217?v=4"
+    },
+    "html_url": "https://github.com/aws/agent-toolkit-for-aws",
+    "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+    "created_at": "2026-04-23T12:44:08Z",
+    "updated_at": "2026-05-10T23:25:47Z",
+    "pushed_at": "2026-05-09T04:35:51Z",
+    "git_url": "git://github.com/aws/agent-toolkit-for-aws.git",
+    "homepage": "",
+    "size": 760,
+    "stargazers_count": 539,
+    "watchers_count": 539,
+    "language": "Python",
+    "forks_count": 28,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1232897272,
+    "name": "lecture-to-hw",
+    "owner": {
+      "id": 175605261,
+      "url": "https://api.github.com/users/vect-G",
+      "html_url": "https://github.com/vect-G",
+      "avatar_url": "https://avatars.githubusercontent.com/u/175605261?v=4"
+    },
+    "html_url": "https://github.com/vect-G/lecture-to-hw",
+    "description": "A Codex skill that turns course lectures, homework files, classroom code, and previous solution style into concise Markdown submissions.",
+    "created_at": "2026-05-08T11:40:44Z",
+    "updated_at": "2026-05-10T17:16:46Z",
+    "pushed_at": "2026-05-08T11:53:19Z",
+    "git_url": "git://github.com/vect-G/lecture-to-hw.git",
+    "homepage": "",
+    "size": 14,
+    "stargazers_count": 76,
+    "watchers_count": 76,
+    "language": null,
+    "forks_count": 5,
+    "open_issues_count": 0
   }
 ]
