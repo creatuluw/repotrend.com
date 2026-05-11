@@ -37856,5 +37856,51 @@
     "language": null,
     "forks_count": 22,
     "open_issues_count": 0
+  },
+  {
+    "id": 1214951658,
+    "name": "awesome-claude-design",
+    "owner": {
+      "id": 48523873,
+      "url": "https://api.github.com/users/rohitg00",
+      "html_url": "https://github.com/rohitg00",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48523873?v=4"
+    },
+    "html_url": "https://github.com/rohitg00/awesome-claude-design",
+    "description": "Claude Design DESIGN.md prompts by aesthetic family, remix recipes, skills, video teardowns, X signal, honest community takes.",
+    "created_at": "2026-04-19T09:20:44Z",
+    "updated_at": "2026-05-11T03:56:59Z",
+    "pushed_at": "2026-04-23T13:37:55Z",
+    "git_url": "git://github.com/rohitg00/awesome-claude-design.git",
+    "homepage": "",
+    "size": 1396,
+    "stargazers_count": 535,
+    "watchers_count": 535,
+    "language": null,
+    "forks_count": 63,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1233537626,
+    "name": "formcms",
+    "owner": {
+      "id": 9389563,
+      "url": "https://api.github.com/users/ChristianJR19",
+      "html_url": "https://github.com/ChristianJR19",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9389563?v=4"
+    },
+    "html_url": "https://github.com/ChristianJR19/formcms",
+    "description": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer.",
+    "created_at": "2026-05-09T04:19:15Z",
+    "updated_at": "2026-05-10T21:58:18Z",
+    "pushed_at": "2026-05-09T04:20:13Z",
+    "git_url": "git://github.com/ChristianJR19/formcms.git",
+    "homepage": "https://formcms.com",
+    "size": 304802,
+    "stargazers_count": 64,
+    "watchers_count": 64,
+    "language": "C#",
+    "forks_count": 10,
+    "open_issues_count": 0
   }
 ]
