@@ -38040,5 +38040,51 @@
     "language": "Swift",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1229284184,
+    "name": "awesome-agentic-ai-zh",
+    "owner": {
+      "id": 162016108,
+      "url": "https://api.github.com/users/WenyuChiou",
+      "html_url": "https://github.com/WenyuChiou",
+      "avatar_url": "https://avatars.githubusercontent.com/u/162016108?v=4"
+    },
+    "html_url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
+    "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
+    "created_at": "2026-05-04T22:18:51Z",
+    "updated_at": "2026-05-10T18:12:59Z",
+    "pushed_at": "2026-05-10T16:35:42Z",
+    "git_url": "git://github.com/WenyuChiou/awesome-agentic-ai-zh.git",
+    "homepage": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
+    "size": 21106,
+    "stargazers_count": 717,
+    "watchers_count": 717,
+    "language": "Python",
+    "forks_count": 64,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1232061850,
+    "name": "rust-roadmap-ru",
+    "owner": {
+      "id": 59180628,
+      "url": "https://api.github.com/users/Develp10",
+      "html_url": "https://github.com/Develp10",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59180628?v=4"
+    },
+    "html_url": "https://github.com/Develp10/rust-roadmap-ru",
+    "description": "🦀 Полный roadmap по изучению Rust на русском + большой список ресурсов. Telegram: t.me/rust_code",
+    "created_at": "2026-05-07T14:51:49Z",
+    "updated_at": "2026-05-10T17:48:56Z",
+    "pushed_at": "2026-05-10T14:25:25Z",
+    "git_url": "git://github.com/Develp10/rust-roadmap-ru.git",
+    "homepage": null,
+    "size": 614,
+    "stargazers_count": 55,
+    "watchers_count": 55,
+    "language": null,
+    "forks_count": 8,
+    "open_issues_count": 1
   }
 ]
