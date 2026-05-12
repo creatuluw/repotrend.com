@@ -38178,5 +38178,51 @@
     "language": "JavaScript",
     "forks_count": 18,
     "open_issues_count": 1
+  },
+  {
+    "id": 1230751102,
+    "name": "CodexPlusPlus",
+    "owner": {
+      "id": 237402563,
+      "url": "https://api.github.com/users/BigPizzaV3",
+      "html_url": "https://github.com/BigPizzaV3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/237402563?v=4"
+    },
+    "html_url": "https://github.com/BigPizzaV3/CodexPlusPlus",
+    "description": "一个CodexApp的增强工具",
+    "created_at": "2026-05-06T09:32:49Z",
+    "updated_at": "2026-05-11T18:31:32Z",
+    "pushed_at": "2026-05-11T17:04:42Z",
+    "git_url": "git://github.com/BigPizzaV3/CodexPlusPlus.git",
+    "homepage": "",
+    "size": 1186,
+    "stargazers_count": 996,
+    "watchers_count": 996,
+    "language": "Python",
+    "forks_count": 64,
+    "open_issues_count": 17
+  },
+  {
+    "id": 1233854753,
+    "name": "Google-Health-CLI",
+    "owner": {
+      "id": 30552772,
+      "url": "https://api.github.com/users/rudrankriyam",
+      "html_url": "https://github.com/rudrankriyam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30552772?v=4"
+    },
+    "html_url": "https://github.com/rudrankriyam/Google-Health-CLI",
+    "description": "Unofficial Google-Health-CLI for the Google Health API, written in Go",
+    "created_at": "2026-05-09T12:49:43Z",
+    "updated_at": "2026-05-11T15:33:21Z",
+    "pushed_at": "2026-05-09T13:22:31Z",
+    "git_url": "git://github.com/rudrankriyam/Google-Health-CLI.git",
+    "homepage": null,
+    "size": 31,
+    "stargazers_count": 55,
+    "watchers_count": 55,
+    "language": "Go",
+    "forks_count": 2,
+    "open_issues_count": 1
   }
 ]
