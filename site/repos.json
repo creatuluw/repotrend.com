@@ -38546,5 +38546,51 @@
     "language": "Python",
     "forks_count": 68,
     "open_issues_count": 1
+  },
+  {
+    "id": 1228438586,
+    "name": "solidity-cot-auditor",
+    "owner": {
+      "id": 257218376,
+      "url": "https://api.github.com/users/butthtio",
+      "html_url": "https://github.com/butthtio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/257218376?v=4"
+    },
+    "html_url": "https://github.com/butthtio/solidity-cot-auditor",
+    "description": "Multi-role chain-of-thought LLM pipeline for Solidity security auditing, layered on top of Slither output.",
+    "created_at": "2026-05-04T02:37:55Z",
+    "updated_at": "2026-05-12T12:47:22Z",
+    "pushed_at": "2026-05-04T02:38:06Z",
+    "git_url": "git://github.com/butthtio/solidity-cot-auditor.git",
+    "homepage": null,
+    "size": 27,
+    "stargazers_count": 519,
+    "watchers_count": 519,
+    "language": "Python",
+    "forks_count": 326,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1234319092,
+    "name": "image-multi-asset-extractor",
+    "owner": {
+      "id": 76898474,
+      "url": "https://api.github.com/users/3440869867",
+      "html_url": "https://github.com/3440869867",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76898474?v=4"
+    },
+    "html_url": "https://github.com/3440869867/image-multi-asset-extractor",
+    "description": "Automatically split multi-object asset sheets into individual transparent PNG assets with background removal and manifest generation.",
+    "created_at": "2026-05-10T03:01:23Z",
+    "updated_at": "2026-05-12T10:29:52Z",
+    "pushed_at": "2026-05-10T03:02:11Z",
+    "git_url": "git://github.com/3440869867/image-multi-asset-extractor.git",
+    "homepage": null,
+    "size": 31,
+    "stargazers_count": 70,
+    "watchers_count": 70,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
