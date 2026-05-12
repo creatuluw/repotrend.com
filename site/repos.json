@@ -38224,5 +38224,74 @@
     "language": "Go",
     "forks_count": 2,
     "open_issues_count": 1
+  },
+  {
+    "id": 1160497244,
+    "name": "floci",
+    "owner": {
+      "id": 271436837,
+      "url": "https://api.github.com/users/floci-io",
+      "html_url": "https://github.com/floci-io",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271436837?v=4"
+    },
+    "html_url": "https://github.com/floci-io/floci",
+    "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+    "created_at": "2026-02-18T02:28:29Z",
+    "updated_at": "2026-05-12T00:52:44Z",
+    "pushed_at": "2026-05-12T00:52:29Z",
+    "git_url": "git://github.com/floci-io/floci.git",
+    "homepage": "https://floci.io",
+    "size": 5246,
+    "stargazers_count": 6567,
+    "watchers_count": 6567,
+    "language": "Java",
+    "forks_count": 506,
+    "open_issues_count": 43
+  },
+  {
+    "id": 1224859117,
+    "name": "cve_2026_31431",
+    "owner": {
+      "id": 11039165,
+      "url": "https://api.github.com/users/rootsecdev",
+      "html_url": "https://github.com/rootsecdev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11039165?v=4"
+    },
+    "html_url": "https://github.com/rootsecdev/cve_2026_31431",
+    "description": "Exploit POC for CVE_2026_31431",
+    "created_at": "2026-04-29T17:46:43Z",
+    "updated_at": "2026-05-11T23:58:02Z",
+    "pushed_at": "2026-04-29T18:24:24Z",
+    "git_url": "git://github.com/rootsecdev/cve_2026_31431.git",
+    "homepage": null,
+    "size": 15,
+    "stargazers_count": 544,
+    "watchers_count": 544,
+    "language": "Python",
+    "forks_count": 113,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1234429907,
+    "name": "smartsearch",
+    "owner": {
+      "id": 118860816,
+      "url": "https://api.github.com/users/konbakuyomu",
+      "html_url": "https://github.com/konbakuyomu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118860816?v=4"
+    },
+    "html_url": "https://github.com/konbakuyomu/smartsearch",
+    "description": null,
+    "created_at": "2026-05-10T07:08:47Z",
+    "updated_at": "2026-05-11T16:29:33Z",
+    "pushed_at": "2026-05-11T03:09:03Z",
+    "git_url": "git://github.com/konbakuyomu/smartsearch.git",
+    "homepage": null,
+    "size": 133,
+    "stargazers_count": 77,
+    "watchers_count": 77,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
