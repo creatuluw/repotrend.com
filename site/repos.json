@@ -38454,5 +38454,51 @@
     "language": "CSS",
     "forks_count": 2,
     "open_issues_count": 10
+  },
+  {
+    "id": 1220144875,
+    "name": "algebrica",
+    "owner": {
+      "id": 11787794,
+      "url": "https://api.github.com/users/antoniolupetti",
+      "html_url": "https://github.com/antoniolupetti",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11787794?v=4"
+    },
+    "html_url": "https://github.com/antoniolupetti/algebrica",
+    "description": "Algebrica is free and open a mathematical knowledge base dedicated to clarity, structure, and conceptual coherence. ",
+    "created_at": "2026-04-24T15:37:20Z",
+    "updated_at": "2026-05-12T05:44:46Z",
+    "pushed_at": "2026-05-11T20:04:17Z",
+    "git_url": "git://github.com/antoniolupetti/algebrica.git",
+    "homepage": "https://algebrica.org",
+    "size": 715,
+    "stargazers_count": 548,
+    "watchers_count": 548,
+    "language": null,
+    "forks_count": 29,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1234345172,
+    "name": "buddyme",
+    "owner": {
+      "id": 13903616,
+      "url": "https://api.github.com/users/virgo777",
+      "html_url": "https://github.com/virgo777",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13903616?v=4"
+    },
+    "html_url": "https://github.com/virgo777/buddyme",
+    "description": "Lightweight agent framework with layered personality evolution, three-tier skill loading and heartbeat memory system.",
+    "created_at": "2026-05-10T04:04:49Z",
+    "updated_at": "2026-05-12T05:30:33Z",
+    "pushed_at": "2026-05-12T04:32:55Z",
+    "git_url": "git://github.com/virgo777/buddyme.git",
+    "homepage": null,
+    "size": 276,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
