@@ -38339,5 +38339,51 @@
     "language": "HTML",
     "forks_count": 19,
     "open_issues_count": 0
+  },
+  {
+    "id": 1228202170,
+    "name": "Sprite-Pipeline",
+    "owner": {
+      "id": 281445166,
+      "url": "https://api.github.com/users/LayrKits",
+      "html_url": "https://github.com/LayrKits",
+      "avatar_url": "https://avatars.githubusercontent.com/u/281445166?v=4"
+    },
+    "html_url": "https://github.com/LayrKits/Sprite-Pipeline",
+    "description": "2D Sprite Sheet Creation Pipeline",
+    "created_at": "2026-05-03T18:19:20Z",
+    "updated_at": "2026-05-12T06:34:23Z",
+    "pushed_at": "2026-05-10T12:21:02Z",
+    "git_url": "git://github.com/LayrKits/Sprite-Pipeline.git",
+    "homepage": null,
+    "size": 274,
+    "stargazers_count": 510,
+    "watchers_count": 510,
+    "language": "Python",
+    "forks_count": 53,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1233823641,
+    "name": "DeepSeekCode",
+    "owner": {
+      "id": 108940482,
+      "url": "https://api.github.com/users/QingJ01",
+      "html_url": "https://github.com/QingJ01",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108940482?v=4"
+    },
+    "html_url": "https://github.com/QingJ01/DeepSeekCode",
+    "description": "基于 Claude Code 代码库改造的本地 CLI 编程代理",
+    "created_at": "2026-05-09T12:04:51Z",
+    "updated_at": "2026-05-12T06:42:01Z",
+    "pushed_at": "2026-05-10T11:23:00Z",
+    "git_url": "git://github.com/QingJ01/DeepSeekCode.git",
+    "homepage": "",
+    "size": 10237,
+    "stargazers_count": 99,
+    "watchers_count": 99,
+    "language": "TypeScript",
+    "forks_count": 14,
+    "open_issues_count": 0
   }
 ]
