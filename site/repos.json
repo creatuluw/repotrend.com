@@ -38385,5 +38385,74 @@
     "language": "TypeScript",
     "forks_count": 14,
     "open_issues_count": 0
+  },
+  {
+    "id": 1163834030,
+    "name": "CloakBrowser",
+    "owner": {
+      "id": 263128610,
+      "url": "https://api.github.com/users/CloakHQ",
+      "html_url": "https://github.com/CloakHQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/263128610?v=4"
+    },
+    "html_url": "https://github.com/CloakHQ/CloakBrowser",
+    "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+    "created_at": "2026-02-22T08:09:57Z",
+    "updated_at": "2026-05-12T07:08:27Z",
+    "pushed_at": "2026-05-11T19:43:50Z",
+    "git_url": "git://github.com/CloakHQ/CloakBrowser.git",
+    "homepage": "https://cloakbrowser.dev/",
+    "size": 5849,
+    "stargazers_count": 6700,
+    "watchers_count": 6700,
+    "language": "Python",
+    "forks_count": 495,
+    "open_issues_count": 46
+  },
+  {
+    "id": 1214119020,
+    "name": "kiro-auto",
+    "owner": {
+      "id": 265234268,
+      "url": "https://api.github.com/users/AERT-7Y",
+      "html_url": "https://github.com/AERT-7Y",
+      "avatar_url": "https://avatars.githubusercontent.com/u/265234268?v=4"
+    },
+    "html_url": "https://github.com/AERT-7Y/kiro-auto",
+    "description": "kiro自动注册机",
+    "created_at": "2026-04-18T06:27:50Z",
+    "updated_at": "2026-05-12T06:25:47Z",
+    "pushed_at": "2026-04-18T11:44:56Z",
+    "git_url": "git://github.com/AERT-7Y/kiro-auto.git",
+    "homepage": null,
+    "size": 212,
+    "stargazers_count": 571,
+    "watchers_count": 571,
+    "language": "TypeScript",
+    "forks_count": 157,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1235511227,
+    "name": "OpenGravity",
+    "owner": {
+      "id": 173104679,
+      "url": "https://api.github.com/users/ab-613",
+      "html_url": "https://github.com/ab-613",
+      "avatar_url": "https://avatars.githubusercontent.com/u/173104679?v=4"
+    },
+    "html_url": "https://github.com/ab-613/OpenGravity",
+    "description": "A lightweight, BYOK (Bring Your Own Key) recreation of the Google Antigravity UI. It currently features a live xterm.js terminal with direct local file system sync and a sidebar agent capable of running commands and editing files. Built in pure HTML/CSS/JS for maximum speed and zero installation.",
+    "created_at": "2026-05-11T11:51:33Z",
+    "updated_at": "2026-05-12T06:52:56Z",
+    "pushed_at": "2026-05-11T22:28:58Z",
+    "git_url": "git://github.com/ab-613/OpenGravity.git",
+    "homepage": "https://opengravity.pages.dev",
+    "size": 904,
+    "stargazers_count": 68,
+    "watchers_count": 68,
+    "language": "CSS",
+    "forks_count": 2,
+    "open_issues_count": 10
   }
 ]
