@@ -38799,5 +38799,51 @@
     "language": "TypeScript",
     "forks_count": 24,
     "open_issues_count": 0
+  },
+  {
+    "id": 1225724797,
+    "name": "writer-computer",
+    "owner": {
+      "id": 19965325,
+      "url": "https://api.github.com/users/joelbqz",
+      "html_url": "https://github.com/joelbqz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19965325?v=4"
+    },
+    "html_url": "https://github.com/joelbqz/writer-computer",
+    "description": "Local-first desktop markdown editor",
+    "created_at": "2026-04-30T15:14:09Z",
+    "updated_at": "2026-05-13T00:51:30Z",
+    "pushed_at": "2026-05-12T23:03:52Z",
+    "git_url": "git://github.com/joelbqz/writer-computer.git",
+    "homepage": null,
+    "size": 11347,
+    "stargazers_count": 549,
+    "watchers_count": 549,
+    "language": "TypeScript",
+    "forks_count": 45,
+    "open_issues_count": 9
+  },
+  {
+    "id": 1236643854,
+    "name": "NexonD-Here",
+    "owner": {
+      "id": 283974969,
+      "url": "https://api.github.com/users/LeromNeri",
+      "html_url": "https://github.com/LeromNeri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/283974969?v=4"
+    },
+    "html_url": "https://github.com/LeromNeri/NexonD-Here",
+    "description": null,
+    "created_at": "2026-05-12T12:45:11Z",
+    "updated_at": "2026-05-12T13:17:44Z",
+    "pushed_at": "2026-05-12T12:45:14Z",
+    "git_url": "git://github.com/LeromNeri/NexonD-Here.git",
+    "homepage": null,
+    "size": 1,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
