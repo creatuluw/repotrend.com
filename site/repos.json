@@ -38845,5 +38845,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1228653314,
+    "name": "univ3-pool-lens",
+    "owner": {
+      "id": 256736955,
+      "url": "https://api.github.com/users/moxailoo",
+      "html_url": "https://github.com/moxailoo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/256736955?v=4"
+    },
+    "html_url": "https://github.com/moxailoo/univ3-pool-lens",
+    "description": "A focused TypeScript toolkit for inspecting Uniswap V3 pools — liquidity distribution, fee yield, and impermanent-loss math from your terminal.",
+    "created_at": "2026-05-04T08:28:59Z",
+    "updated_at": "2026-05-13T00:56:46Z",
+    "pushed_at": "2026-05-09T16:43:34Z",
+    "git_url": "git://github.com/moxailoo/univ3-pool-lens.git",
+    "homepage": null,
+    "size": 4821,
+    "stargazers_count": 525,
+    "watchers_count": 525,
+    "language": "TypeScript",
+    "forks_count": 345,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1235232619,
+    "name": "httpx2",
+    "owner": {
+      "id": 110818415,
+      "url": "https://api.github.com/users/pydantic",
+      "html_url": "https://github.com/pydantic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110818415?v=4"
+    },
+    "html_url": "https://github.com/pydantic/httpx2",
+    "description": "A next generation HTTP client for Python. 🦋",
+    "created_at": "2026-05-11T06:15:04Z",
+    "updated_at": "2026-05-13T00:53:22Z",
+    "pushed_at": "2026-05-12T19:52:38Z",
+    "git_url": "git://github.com/pydantic/httpx2.git",
+    "homepage": "https://httpx2.pydantic.dev/",
+    "size": 9512,
+    "stargazers_count": 74,
+    "watchers_count": 74,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 161
   }
 ]
