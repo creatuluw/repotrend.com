@@ -39029,5 +39029,51 @@
     "language": "C",
     "forks_count": 10,
     "open_issues_count": 1
+  },
+  {
+    "id": 1211492976,
+    "name": "slothdb",
+    "owner": {
+      "id": 85476817,
+      "url": "https://api.github.com/users/SouravRoy-ETL",
+      "html_url": "https://github.com/SouravRoy-ETL",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85476817?v=4"
+    },
+    "html_url": "https://github.com/SouravRoy-ETL/slothdb",
+    "description": "SlothDB is an embedded SQL database that runs everywhere: on your laptop, on a server, and in the browser. Built from scratch. Up to 5x faster where it counts.",
+    "created_at": "2026-04-15T12:56:46Z",
+    "updated_at": "2026-05-13T09:09:39Z",
+    "pushed_at": "2026-04-30T07:18:12Z",
+    "git_url": "git://github.com/SouravRoy-ETL/slothdb.git",
+    "homepage": "https://slothdb.org",
+    "size": 6964,
+    "stargazers_count": 843,
+    "watchers_count": 843,
+    "language": "C++",
+    "forks_count": 4,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1234924945,
+    "name": "esp32-c5-deauth",
+    "owner": {
+      "id": 49025386,
+      "url": "https://api.github.com/users/maxbrito500",
+      "html_url": "https://github.com/maxbrito500",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49025386?v=4"
+    },
+    "html_url": "https://github.com/maxbrito500/esp32-c5-deauth",
+    "description": "A deauth with nuker for 2.4Ghz and 5Ghz controlled by BLE with Android app",
+    "created_at": "2026-05-10T20:19:04Z",
+    "updated_at": "2026-05-12T15:44:27Z",
+    "pushed_at": "2026-05-10T21:19:21Z",
+    "git_url": "git://github.com/maxbrito500/esp32-c5-deauth.git",
+    "homepage": null,
+    "size": 5247,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": "C",
+    "forks_count": 6,
+    "open_issues_count": 0
   }
 ]
