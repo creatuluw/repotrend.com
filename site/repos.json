@@ -38684,5 +38684,51 @@
     "language": "JavaScript",
     "forks_count": 16,
     "open_issues_count": 0
+  },
+  {
+    "id": 1224189452,
+    "name": "netlify-relay",
+    "owner": {
+      "id": 74258437,
+      "url": "https://api.github.com/users/amirshaker000",
+      "html_url": "https://github.com/amirshaker000",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74258437?v=4"
+    },
+    "html_url": "https://github.com/amirshaker000/netlify-relay",
+    "description": null,
+    "created_at": "2026-04-29T03:30:34Z",
+    "updated_at": "2026-05-12T18:37:50Z",
+    "pushed_at": "2026-05-11T15:11:25Z",
+    "git_url": "git://github.com/amirshaker000/netlify-relay.git",
+    "homepage": null,
+    "size": 4244,
+    "stargazers_count": 525,
+    "watchers_count": 525,
+    "language": "HTML",
+    "forks_count": 1254,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1233773833,
+    "name": "kaspi-pos-automation",
+    "owner": {
+      "id": 283138218,
+      "url": "https://api.github.com/users/tapter-dev",
+      "html_url": "https://github.com/tapter-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/283138218?v=4"
+    },
+    "html_url": "https://github.com/tapter-dev/kaspi-pos-automation",
+    "description": null,
+    "created_at": "2026-05-09T10:42:59Z",
+    "updated_at": "2026-05-12T18:03:40Z",
+    "pushed_at": "2026-05-09T19:25:20Z",
+    "git_url": "git://github.com/tapter-dev/kaspi-pos-automation.git",
+    "homepage": null,
+    "size": 76,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": "JavaScript",
+    "forks_count": 23,
+    "open_issues_count": 0
   }
 ]
