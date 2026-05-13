@@ -39075,5 +39075,74 @@
     "language": "C",
     "forks_count": 6,
     "open_issues_count": 0
+  },
+  {
+    "id": 1166408297,
+    "name": "agentmemory",
+    "owner": {
+      "id": 48523873,
+      "url": "https://api.github.com/users/rohitg00",
+      "html_url": "https://github.com/rohitg00",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48523873?v=4"
+    },
+    "html_url": "https://github.com/rohitg00/agentmemory",
+    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+    "created_at": "2026-02-25T07:32:52Z",
+    "updated_at": "2026-05-13T12:53:52Z",
+    "pushed_at": "2026-05-13T11:51:07Z",
+    "git_url": "git://github.com/rohitg00/agentmemory.git",
+    "homepage": "https://agent-memory.dev",
+    "size": 22623,
+    "stargazers_count": 6734,
+    "watchers_count": 6734,
+    "language": "TypeScript",
+    "forks_count": 604,
+    "open_issues_count": 64
+  },
+  {
+    "id": 1232712502,
+    "name": "files-sdk",
+    "owner": {
+      "id": 4142719,
+      "url": "https://api.github.com/users/haydenbleasel",
+      "html_url": "https://github.com/haydenbleasel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4142719?v=4"
+    },
+    "html_url": "https://github.com/haydenbleasel/files-sdk",
+    "description": "A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O.",
+    "created_at": "2026-05-08T07:37:16Z",
+    "updated_at": "2026-05-13T12:33:12Z",
+    "pushed_at": "2026-05-10T20:43:40Z",
+    "git_url": "git://github.com/haydenbleasel/files-sdk.git",
+    "homepage": "https://files-sdk.dev/",
+    "size": 2694,
+    "stargazers_count": 617,
+    "watchers_count": 617,
+    "language": "TypeScript",
+    "forks_count": 12,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1233605506,
+    "name": "cardputer-claude-os",
+    "owner": {
+      "id": 50276213,
+      "url": "https://api.github.com/users/dakshaymehta",
+      "html_url": "https://github.com/dakshaymehta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50276213?v=4"
+    },
+    "html_url": "https://github.com/dakshaymehta/cardputer-claude-os",
+    "description": "DIY OS bundle for the M5Stack Cardputer: Claude Buddy (BLE), Push-to-Claude (voice + chat with memory via a Cloudflare Worker), and a flash-and-go installer skill for Claude Code. Forked from moremas/build-with-claude.",
+    "created_at": "2026-05-09T06:21:08Z",
+    "updated_at": "2026-05-12T00:02:38Z",
+    "pushed_at": "2026-05-10T06:23:50Z",
+    "git_url": "git://github.com/dakshaymehta/cardputer-claude-os.git",
+    "homepage": null,
+    "size": 1015,
+    "stargazers_count": 60,
+    "watchers_count": 60,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
