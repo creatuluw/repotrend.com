@@ -39144,5 +39144,51 @@
     "language": "Python",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1228687488,
+    "name": "Photo-agents",
+    "owner": {
+      "id": 164396066,
+      "url": "https://api.github.com/users/jmerelnyc",
+      "html_url": "https://github.com/jmerelnyc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/164396066?v=4"
+    },
+    "html_url": "https://github.com/jmerelnyc/Photo-agents",
+    "description": "Autonomous self-evolving agents. Vision-grounded layered memory and self-written skills for LLM agents that operate your computer.",
+    "created_at": "2026-05-04T09:14:09Z",
+    "updated_at": "2026-05-13T18:09:58Z",
+    "pushed_at": "2026-05-13T15:59:48Z",
+    "git_url": "git://github.com/jmerelnyc/Photo-agents.git",
+    "homepage": "https://photo-agents.com",
+    "size": 12241,
+    "stargazers_count": 771,
+    "watchers_count": 771,
+    "language": "Python",
+    "forks_count": 15,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1234507299,
+    "name": "Flux_ID_Adjuster",
+    "owner": {
+      "id": 195153749,
+      "url": "https://api.github.com/users/Magirad",
+      "html_url": "https://github.com/Magirad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/195153749?v=4"
+    },
+    "html_url": "https://github.com/Magirad/Flux_ID_Adjuster",
+    "description": "The node has been created with an objective of identity consistency for FLUX.2 klein 9b models in ComfyUI.",
+    "created_at": "2026-05-10T09:19:56Z",
+    "updated_at": "2026-05-13T17:43:17Z",
+    "pushed_at": "2026-05-13T10:21:58Z",
+    "git_url": "git://github.com/Magirad/Flux_ID_Adjuster.git",
+    "homepage": null,
+    "size": 120,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
