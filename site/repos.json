@@ -38983,5 +38983,51 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1228664213,
+    "name": "lighthouse-router",
+    "owner": {
+      "id": 255865052,
+      "url": "https://api.github.com/users/evanphi7",
+      "html_url": "https://github.com/evanphi7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/255865052?v=4"
+    },
+    "html_url": "https://github.com/evanphi7/lighthouse-router",
+    "description": "Off-chain DEX route discovery on Solana — pool decoders, multi-hop quoting, and arbitrage cycle detection",
+    "created_at": "2026-05-04T08:42:52Z",
+    "updated_at": "2026-05-13T12:50:41Z",
+    "pushed_at": "2026-05-13T10:34:01Z",
+    "git_url": "git://github.com/evanphi7/lighthouse-router.git",
+    "homepage": null,
+    "size": 118,
+    "stargazers_count": 523,
+    "watchers_count": 523,
+    "language": null,
+    "forks_count": 358,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1233987473,
+    "name": "mazu",
+    "owner": {
+      "id": 73389544,
+      "url": "https://api.github.com/users/MazuNIX",
+      "html_url": "https://github.com/MazuNIX",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73389544?v=4"
+    },
+    "html_url": "https://github.com/MazuNIX/mazu",
+    "description": "RTOS combining Linux rigor with Plan 9 simplicity, designed around SMP, real-time scheduling, and integrated networking.",
+    "created_at": "2026-05-09T15:51:18Z",
+    "updated_at": "2026-05-12T17:56:33Z",
+    "pushed_at": "2026-05-12T17:15:11Z",
+    "git_url": "git://github.com/MazuNIX/mazu.git",
+    "homepage": "",
+    "size": 741,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "C",
+    "forks_count": 10,
+    "open_issues_count": 1
   }
 ]
