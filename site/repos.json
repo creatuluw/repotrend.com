@@ -38891,5 +38891,51 @@
     "language": "Python",
     "forks_count": 1,
     "open_issues_count": 161
+  },
+  {
+    "id": 1217396442,
+    "name": "transitions.dev",
+    "owner": {
+      "id": 14873517,
+      "url": "https://api.github.com/users/Jakubantalik",
+      "html_url": "https://github.com/Jakubantalik",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14873517?v=4"
+    },
+    "html_url": "https://github.com/Jakubantalik/transitions.dev",
+    "description": "Collection of the most essential transitions for web apps that you can just copy and paste into any project. ",
+    "created_at": "2026-04-21T21:01:08Z",
+    "updated_at": "2026-05-12T12:20:28Z",
+    "pushed_at": "2026-05-08T20:33:54Z",
+    "git_url": "git://github.com/Jakubantalik/transitions.dev.git",
+    "homepage": "https://transitions.dev/",
+    "size": 844,
+    "stargazers_count": 550,
+    "watchers_count": 550,
+    "language": "HTML",
+    "forks_count": 26,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1234749022,
+    "name": "chatgpt-portal",
+    "owner": {
+      "id": 2140110,
+      "url": "https://api.github.com/users/DenisSergeevitch",
+      "html_url": "https://github.com/DenisSergeevitch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2140110?v=4"
+    },
+    "html_url": "https://github.com/DenisSergeevitch/chatgpt-portal",
+    "description": "Local browser bridge for exposing sanitized authenticated page snapshots to ChatGPT via Cloudflare Tunnel.",
+    "created_at": "2026-05-10T15:38:30Z",
+    "updated_at": "2026-05-13T00:07:49Z",
+    "pushed_at": "2026-05-10T21:10:18Z",
+    "git_url": "git://github.com/DenisSergeevitch/chatgpt-portal.git",
+    "homepage": "https://shir-man.com/chatgpt-portal/",
+    "size": 116,
+    "stargazers_count": 62,
+    "watchers_count": 62,
+    "language": "TypeScript",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
