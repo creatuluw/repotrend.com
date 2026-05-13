@@ -38937,5 +38937,51 @@
     "language": "TypeScript",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1226971975,
+    "name": "AiSOC",
+    "owner": {
+      "id": 19245630,
+      "url": "https://api.github.com/users/beenuar",
+      "html_url": "https://github.com/beenuar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19245630?v=4"
+    },
+    "html_url": "https://github.com/beenuar/AiSOC",
+    "description": "Open-source AI-powered Security Operations Center — alert fusion, purple-team drills, agent-assisted triage, MITRE ATT&CK investigation. MIT-licensed, self-hostable.",
+    "created_at": "2026-05-02T03:30:19Z",
+    "updated_at": "2026-05-12T18:38:49Z",
+    "pushed_at": "2026-05-12T18:34:12Z",
+    "git_url": "git://github.com/beenuar/AiSOC.git",
+    "homepage": "https://tryaisoc.com",
+    "size": 21106,
+    "stargazers_count": 680,
+    "watchers_count": 680,
+    "language": "Python",
+    "forks_count": 58,
+    "open_issues_count": 11
+  },
+  {
+    "id": 1235860100,
+    "name": "git-faker-3000",
+    "owner": {
+      "id": 77499101,
+      "url": "https://api.github.com/users/Spielewoy",
+      "html_url": "https://github.com/Spielewoy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77499101?v=4"
+    },
+    "html_url": "https://github.com/Spielewoy/git-faker-3000",
+    "description": "Fake your GitHub contribution graph. Click squares, push backdated commits. No scripts, no shame, fully reversible.",
+    "created_at": "2026-05-11T18:15:10Z",
+    "updated_at": "2026-05-12T13:03:17Z",
+    "pushed_at": "2026-05-11T22:12:00Z",
+    "git_url": "git://github.com/Spielewoy/git-faker-3000.git",
+    "homepage": null,
+    "size": 185,
+    "stargazers_count": 74,
+    "watchers_count": 74,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
