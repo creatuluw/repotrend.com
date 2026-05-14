@@ -39282,5 +39282,51 @@
     "language": "JavaScript",
     "forks_count": 14,
     "open_issues_count": 0
+  },
+  {
+    "id": 1236824669,
+    "name": "YellowKey",
+    "owner": {
+      "id": 271389851,
+      "url": "https://api.github.com/users/Nightmare-Eclipse",
+      "html_url": "https://github.com/Nightmare-Eclipse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271389851?v=4"
+    },
+    "html_url": "https://github.com/Nightmare-Eclipse/YellowKey",
+    "description": "YellowKey Bitlocker Bypass Vulnerability",
+    "created_at": "2026-05-12T15:54:59Z",
+    "updated_at": "2026-05-13T18:45:17Z",
+    "pushed_at": "2026-05-12T17:27:16Z",
+    "git_url": "git://github.com/Nightmare-Eclipse/YellowKey.git",
+    "homepage": null,
+    "size": 118,
+    "stargazers_count": 835,
+    "watchers_count": 835,
+    "language": null,
+    "forks_count": 171,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1234177006,
+    "name": "modafinil",
+    "owner": {
+      "id": 159318243,
+      "url": "https://api.github.com/users/narcotic-sh",
+      "html_url": "https://github.com/narcotic-sh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/159318243?v=4"
+    },
+    "html_url": "https://github.com/narcotic-sh/modafinil",
+    "description": "Let your agents run while your MacBook lid is closed",
+    "created_at": "2026-05-09T21:04:24Z",
+    "updated_at": "2026-05-12T09:55:36Z",
+    "pushed_at": "2026-05-10T06:27:52Z",
+    "git_url": "git://github.com/narcotic-sh/modafinil.git",
+    "homepage": "https://modafinil.dev",
+    "size": 567,
+    "stargazers_count": 87,
+    "watchers_count": 87,
+    "language": "Swift",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
