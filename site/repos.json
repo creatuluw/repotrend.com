@@ -39466,5 +39466,51 @@
     "language": null,
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1236674722,
+    "name": "cs2-external-overlay",
+    "owner": {
+      "id": 272090371,
+      "url": "https://api.github.com/users/patchfighterway90",
+      "html_url": "https://github.com/patchfighterway90",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272090371?v=4"
+    },
+    "html_url": "https://github.com/patchfighterway90/cs2-external-overlay",
+    "description": "The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay.",
+    "created_at": "2026-05-12T13:18:16Z",
+    "updated_at": "2026-05-13T06:38:43Z",
+    "pushed_at": "2026-05-13T06:56:03Z",
+    "git_url": "git://github.com/patchfighterway90/cs2-external-overlay.git",
+    "homepage": null,
+    "size": 4878,
+    "stargazers_count": 533,
+    "watchers_count": 533,
+    "language": "Python",
+    "forks_count": 104,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1235575564,
+    "name": "Mi8G3-Unlocker",
+    "owner": {
+      "id": 190095175,
+      "url": "https://api.github.com/users/Linuxoid-cn",
+      "html_url": "https://github.com/Linuxoid-cn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190095175?v=4"
+    },
+    "html_url": "https://github.com/Linuxoid-cn/Mi8G3-Unlocker",
+    "description": "本项目是专为搭载骁龙 8g3（Snapdragon 8 Gen3）平台的小米设备打造的一键 BL 解锁辅助工具。通过 8g3-unlock.bat 脚本，实现 HyperOS 系统下的自动化解锁流程。",
+    "created_at": "2026-05-11T13:04:50Z",
+    "updated_at": "2026-05-13T16:35:41Z",
+    "pushed_at": "2026-05-13T17:12:40Z",
+    "git_url": "git://github.com/Linuxoid-cn/Mi8G3-Unlocker.git",
+    "homepage": null,
+    "size": 16,
+    "stargazers_count": 72,
+    "watchers_count": 72,
+    "language": null,
+    "forks_count": 7,
+    "open_issues_count": 4
   }
 ]
