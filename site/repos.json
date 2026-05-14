@@ -39673,5 +39673,51 @@
     "language": "C#",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1211449139,
+    "name": "paper-ppt-agent",
+    "owner": {
+      "id": 89085461,
+      "url": "https://api.github.com/users/CRui5in",
+      "html_url": "https://github.com/CRui5in",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89085461?v=4"
+    },
+    "html_url": "https://github.com/CRui5in/paper-ppt-agent",
+    "description": "Generate editable PPT decks from paper PDFs or LaTeX sources",
+    "created_at": "2026-04-15T12:04:08Z",
+    "updated_at": "2026-05-14T17:37:06Z",
+    "pushed_at": "2026-05-13T15:28:18Z",
+    "git_url": "git://github.com/CRui5in/paper-ppt-agent.git",
+    "homepage": null,
+    "size": 47048,
+    "stargazers_count": 524,
+    "watchers_count": 524,
+    "language": "Python",
+    "forks_count": 40,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1235839513,
+    "name": "polymarket-copy-trading-bot-clob-ai",
+    "owner": {
+      "id": 283751838,
+      "url": "https://api.github.com/users/Cortex-Trading-Systems",
+      "html_url": "https://github.com/Cortex-Trading-Systems",
+      "avatar_url": "https://avatars.githubusercontent.com/u/283751838?v=4"
+    },
+    "html_url": "https://github.com/Cortex-Trading-Systems/polymarket-copy-trading-bot-clob-ai",
+    "description": "Advanced Polymarket Copy Trading Bot & CLOB Automation Engine. Integrated with Claude 4.0 Omni for AI-driven sentiment analysis, sub-85ms execution, and real-time whale mirroring on Polygon network. Optimized for HFT liquidity provision and algorithmic prediction market trading.",
+    "created_at": "2026-05-11T17:50:49Z",
+    "updated_at": "2026-05-14T18:32:55Z",
+    "pushed_at": "2026-05-14T18:32:34Z",
+    "git_url": "git://github.com/Cortex-Trading-Systems/polymarket-copy-trading-bot-clob-ai.git",
+    "homepage": "https://arbitrage-bot.pro",
+    "size": 46,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": "Python",
+    "forks_count": 12,
+    "open_issues_count": 2
   }
 ]
