@@ -39512,5 +39512,74 @@
     "language": null,
     "forks_count": 7,
     "open_issues_count": 4
+  },
+  {
+    "id": 1161163182,
+    "name": "openhuman",
+    "owner": {
+      "id": 246003628,
+      "url": "https://api.github.com/users/tinyhumansai",
+      "html_url": "https://github.com/tinyhumansai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246003628?v=4"
+    },
+    "html_url": "https://github.com/tinyhumansai/openhuman",
+    "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+    "created_at": "2026-02-18T20:01:27Z",
+    "updated_at": "2026-05-14T07:09:42Z",
+    "pushed_at": "2026-05-14T05:43:57Z",
+    "git_url": "git://github.com/tinyhumansai/openhuman.git",
+    "homepage": "https://tinyhumans.ai/openhuman",
+    "size": 79873,
+    "stargazers_count": 6434,
+    "watchers_count": 6434,
+    "language": "Rust",
+    "forks_count": 522,
+    "open_issues_count": 92
+  },
+  {
+    "id": 1212192130,
+    "name": "HY-SOAR",
+    "owner": {
+      "id": 210980732,
+      "url": "https://api.github.com/users/Tencent-Hunyuan",
+      "html_url": "https://github.com/Tencent-Hunyuan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210980732?v=4"
+    },
+    "html_url": "https://github.com/Tencent-Hunyuan/HY-SOAR",
+    "description": "HY-SOAR:Self-Correction for Optimal Alignment and Refinement in Diffusion Models",
+    "created_at": "2026-04-16T06:34:05Z",
+    "updated_at": "2026-05-14T03:31:06Z",
+    "pushed_at": "2026-04-21T16:45:31Z",
+    "git_url": "git://github.com/Tencent-Hunyuan/HY-SOAR.git",
+    "homepage": "",
+    "size": 46046,
+    "stargazers_count": 515,
+    "watchers_count": 515,
+    "language": "Python",
+    "forks_count": 54,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1238130230,
+    "name": "claude-p",
+    "owner": {
+      "id": 264758082,
+      "url": "https://api.github.com/users/smithersai",
+      "html_url": "https://github.com/smithersai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/264758082?v=4"
+    },
+    "html_url": "https://github.com/smithersai/claude-p",
+    "description": "Drop-in replacement for `claude -p` that drives the interactive Claude Code TUI inside an in-process zmux PTY session.",
+    "created_at": "2026-05-13T20:57:29Z",
+    "updated_at": "2026-05-14T07:05:54Z",
+    "pushed_at": "2026-05-13T21:59:06Z",
+    "git_url": "git://github.com/smithersai/claude-p.git",
+    "homepage": null,
+    "size": 71,
+    "stargazers_count": 55,
+    "watchers_count": 55,
+    "language": "Zig",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
