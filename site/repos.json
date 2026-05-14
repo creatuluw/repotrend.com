@@ -39420,5 +39420,51 @@
     "language": null,
     "forks_count": 1,
     "open_issues_count": 1
+  },
+  {
+    "id": 1220022610,
+    "name": "cc-desktop-switch",
+    "owner": {
+      "id": 199348432,
+      "url": "https://api.github.com/users/lonr-6",
+      "html_url": "https://github.com/lonr-6",
+      "avatar_url": "https://avatars.githubusercontent.com/u/199348432?v=4"
+    },
+    "html_url": "https://github.com/lonr-6/cc-desktop-switch",
+    "description": "Lightweight desktop tool for configuring DeepSeek, Kimi, Zhipu GLM and Bailian providers in Claude Desktop.",
+    "created_at": "2026-04-24T13:15:01Z",
+    "updated_at": "2026-05-13T17:16:39Z",
+    "pushed_at": "2026-05-13T08:06:35Z",
+    "git_url": "git://github.com/lonr-6/cc-desktop-switch.git",
+    "homepage": "https://github.com/lonr-6/cc-desktop-switch/releases/latest",
+    "size": 6834,
+    "stargazers_count": 537,
+    "watchers_count": 537,
+    "language": "Python",
+    "forks_count": 41,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1236283919,
+    "name": "wangluoxiaoshuozhushou",
+    "owner": {
+      "id": 36160999,
+      "url": "https://api.github.com/users/showdownagain",
+      "html_url": "https://github.com/showdownagain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36160999?v=4"
+    },
+    "html_url": "https://github.com/showdownagain/wangluoxiaoshuozhushou",
+    "description": "利用claudecode创作网络小说",
+    "created_at": "2026-05-12T05:39:11Z",
+    "updated_at": "2026-05-14T00:37:48Z",
+    "pushed_at": "2026-05-12T05:42:43Z",
+    "git_url": "git://github.com/showdownagain/wangluoxiaoshuozhushou.git",
+    "homepage": null,
+    "size": 28,
+    "stargazers_count": 56,
+    "watchers_count": 56,
+    "language": null,
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
