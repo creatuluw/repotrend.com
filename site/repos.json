@@ -39328,5 +39328,51 @@
     "language": "Swift",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1236621048,
+    "name": "ARC-Raiders-External-Tool",
+    "owner": {
+      "id": 280151611,
+      "url": "https://api.github.com/users/RadianceToadAmend",
+      "html_url": "https://github.com/RadianceToadAmend",
+      "avatar_url": "https://avatars.githubusercontent.com/u/280151611?v=4"
+    },
+    "html_url": "https://github.com/RadianceToadAmend/ARC-Raiders-External-Tool",
+    "description": "External overlay tool for ARC Raiders. UE5 memory reader, entity , radar, performance monitor. D3D11 render, no injection. For offline training purposes only.",
+    "created_at": "2026-05-12T12:19:52Z",
+    "updated_at": "2026-05-12T12:40:55Z",
+    "pushed_at": "2026-05-12T12:23:25Z",
+    "git_url": "git://github.com/RadianceToadAmend/ARC-Raiders-External-Tool.git",
+    "homepage": "",
+    "size": 7,
+    "stargazers_count": 521,
+    "watchers_count": 521,
+    "language": "C++",
+    "forks_count": 109,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1235184153,
+    "name": "leetcode-helper",
+    "owner": {
+      "id": 54241597,
+      "url": "https://api.github.com/users/amanattar",
+      "html_url": "https://github.com/amanattar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54241597?v=4"
+    },
+    "html_url": "https://github.com/amanattar/leetcode-helper",
+    "description": null,
+    "created_at": "2026-05-11T04:58:44Z",
+    "updated_at": "2026-05-13T18:52:30Z",
+    "pushed_at": "2026-05-11T04:58:46Z",
+    "git_url": "git://github.com/amanattar/leetcode-helper.git",
+    "homepage": null,
+    "size": 7,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": null,
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
