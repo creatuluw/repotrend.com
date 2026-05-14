@@ -39374,5 +39374,51 @@
     "language": null,
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1229438606,
+    "name": "trustclaw",
+    "owner": {
+      "id": 128464815,
+      "url": "https://api.github.com/users/ComposioHQ",
+      "html_url": "https://github.com/ComposioHQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/128464815?v=4"
+    },
+    "html_url": "https://github.com/ComposioHQ/trustclaw",
+    "description": "A self-hostable personal AI agent with vector memory, Composio tools, and Telegram.",
+    "created_at": "2026-05-05T03:33:19Z",
+    "updated_at": "2026-05-13T23:52:00Z",
+    "pushed_at": "2026-05-13T05:09:45Z",
+    "git_url": "git://github.com/ComposioHQ/trustclaw.git",
+    "homepage": null,
+    "size": 5907,
+    "stargazers_count": 563,
+    "watchers_count": 563,
+    "language": "TypeScript",
+    "forks_count": 124,
+    "open_issues_count": 11
+  },
+  {
+    "id": 1236771809,
+    "name": "yansu-skill",
+    "owner": {
+      "id": 4956703,
+      "url": "https://api.github.com/users/Isoform",
+      "html_url": "https://github.com/Isoform",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4956703?v=4"
+    },
+    "html_url": "https://github.com/Isoform/yansu-skill",
+    "description": "Bespoke context, delivered to your AI agent. Yansu observes how you actually work and crystallizes it into knowledge — this skill is how that knowledge reaches whichever agent you happen to be using. Prompt once, never re-introduce yourself.",
+    "created_at": "2026-05-12T14:58:32Z",
+    "updated_at": "2026-05-14T00:58:28Z",
+    "pushed_at": "2026-05-13T18:51:13Z",
+    "git_url": "git://github.com/Isoform/yansu-skill.git",
+    "homepage": "https://yansu.app",
+    "size": 51,
+    "stargazers_count": 90,
+    "watchers_count": 90,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 1
   }
 ]
