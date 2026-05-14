@@ -39627,5 +39627,51 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1229921686,
+    "name": "Mirrai",
+    "owner": {
+      "id": 96851389,
+      "url": "https://api.github.com/users/Ch1rpy2613",
+      "html_url": "https://github.com/Ch1rpy2613",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96851389?v=4"
+    },
+    "html_url": "https://github.com/Ch1rpy2613/Mirrai",
+    "description": null,
+    "created_at": "2026-05-05T14:04:55Z",
+    "updated_at": "2026-05-13T18:45:23Z",
+    "pushed_at": "2026-05-05T14:05:01Z",
+    "git_url": "git://github.com/Ch1rpy2613/Mirrai.git",
+    "homepage": null,
+    "size": 481,
+    "stargazers_count": 651,
+    "watchers_count": 651,
+    "language": "TypeScript",
+    "forks_count": 10,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1237177201,
+    "name": "Olivia",
+    "owner": {
+      "id": 16392444,
+      "url": "https://api.github.com/users/matthewjmandel",
+      "html_url": "https://github.com/matthewjmandel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16392444?v=4"
+    },
+    "html_url": "https://github.com/matthewjmandel/Olivia",
+    "description": "A memory-grounded language model — built from the life of someone who mattered.",
+    "created_at": "2026-05-13T00:27:00Z",
+    "updated_at": "2026-05-14T03:45:12Z",
+    "pushed_at": "2026-05-14T02:14:15Z",
+    "git_url": "git://github.com/matthewjmandel/Olivia.git",
+    "homepage": "https://www.oliviasworld.app",
+    "size": 122,
+    "stargazers_count": 87,
+    "watchers_count": 87,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
