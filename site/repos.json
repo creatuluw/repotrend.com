@@ -39995,5 +39995,51 @@
     "language": "Python",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1213978045,
+    "name": "rice-cooker",
+    "owner": {
+      "id": 112230288,
+      "url": "https://api.github.com/users/amarsbar",
+      "html_url": "https://github.com/amarsbar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112230288?v=4"
+    },
+    "html_url": "https://github.com/amarsbar/rice-cooker",
+    "description": "a visual (toy) tool for ricing",
+    "created_at": "2026-04-18T01:14:34Z",
+    "updated_at": "2026-05-14T18:39:18Z",
+    "pushed_at": "2026-05-14T01:08:19Z",
+    "git_url": "git://github.com/amarsbar/rice-cooker.git",
+    "homepage": "",
+    "size": 47287,
+    "stargazers_count": 528,
+    "watchers_count": 528,
+    "language": "TypeScript",
+    "forks_count": 5,
+    "open_issues_count": 9
+  },
+  {
+    "id": 1237501138,
+    "name": "skill-manager",
+    "owner": {
+      "id": 106566505,
+      "url": "https://api.github.com/users/wanghuan9",
+      "html_url": "https://github.com/wanghuan9",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106566505?v=4"
+    },
+    "html_url": "https://github.com/wanghuan9/skill-manager",
+    "description": "SkillDock 是一个桌面控制中心，用于管理 AI Skills 和 MCP servers，支持 Git-aware 更新，并同步到 Claude Code、Codex、Cursor、Windsurf、Gemini CLI、GitHub Copilot 等工具。 SkillDock is a desktop control center for managing AI Skills and MCP servers, with Git-aware updates and sync for Claude Code, Codex, Cursor, Windsurf, Gemini CLI, GitHub Copilot, and more.",
+    "created_at": "2026-05-13T08:37:42Z",
+    "updated_at": "2026-05-14T16:50:53Z",
+    "pushed_at": "2026-05-14T11:42:05Z",
+    "git_url": "git://github.com/wanghuan9/skill-manager.git",
+    "homepage": "https://github.com/wanghuan9/skill-manager/releases/latest",
+    "size": 13738,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 1
   }
 ]
