@@ -39949,5 +39949,51 @@
     "language": "TypeScript",
     "forks_count": 408,
     "open_issues_count": 0
+  },
+  {
+    "id": 1227432942,
+    "name": "hermes-agent-mission-control",
+    "owner": {
+      "id": 212061076,
+      "url": "https://api.github.com/users/Agent-3-7",
+      "html_url": "https://github.com/Agent-3-7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/212061076?v=4"
+    },
+    "html_url": "https://github.com/Agent-3-7/hermes-agent-mission-control",
+    "description": "Mission Control Kanban for your Hermes Agent",
+    "created_at": "2026-05-02T17:15:34Z",
+    "updated_at": "2026-05-14T17:06:37Z",
+    "pushed_at": "2026-05-14T00:37:17Z",
+    "git_url": "git://github.com/Agent-3-7/hermes-agent-mission-control.git",
+    "homepage": null,
+    "size": 567,
+    "stargazers_count": 572,
+    "watchers_count": 572,
+    "language": "TypeScript",
+    "forks_count": 20,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1236159289,
+    "name": "SwinGSR",
+    "owner": {
+      "id": 62371335,
+      "url": "https://api.github.com/users/qianchentao9",
+      "html_url": "https://github.com/qianchentao9",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62371335?v=4"
+    },
+    "html_url": "https://github.com/qianchentao9/SwinGSR",
+    "description": null,
+    "created_at": "2026-05-12T02:10:36Z",
+    "updated_at": "2026-05-12T22:24:04Z",
+    "pushed_at": "2026-05-12T02:52:25Z",
+    "git_url": "git://github.com/qianchentao9/SwinGSR.git",
+    "homepage": null,
+    "size": 5703,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
