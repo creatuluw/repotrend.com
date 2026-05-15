@@ -39719,5 +39719,51 @@
     "language": "Python",
     "forks_count": 12,
     "open_issues_count": 2
+  },
+  {
+    "id": 1235056479,
+    "name": "a-stock-data",
+    "owner": {
+      "id": 166034225,
+      "url": "https://api.github.com/users/simonlin1212",
+      "html_url": "https://github.com/simonlin1212",
+      "avatar_url": "https://avatars.githubusercontent.com/u/166034225?v=4"
+    },
+    "html_url": "https://github.com/simonlin1212/a-stock-data",
+    "description": "A 股全栈数据工具包 — 6层架构 · 15个端点 · 7个数据源 | AI Skill for China A-Share Market Data",
+    "created_at": "2026-05-11T01:08:15Z",
+    "updated_at": "2026-05-15T00:47:42Z",
+    "pushed_at": "2026-05-12T06:55:55Z",
+    "git_url": "git://github.com/simonlin1212/a-stock-data.git",
+    "homepage": null,
+    "size": 202,
+    "stargazers_count": 698,
+    "watchers_count": 698,
+    "language": null,
+    "forks_count": 171,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1235826853,
+    "name": "aemeath_withclaude",
+    "owner": {
+      "id": 215276917,
+      "url": "https://api.github.com/users/77wilNd",
+      "html_url": "https://github.com/77wilNd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/215276917?v=4"
+    },
+    "html_url": "https://github.com/77wilNd/aemeath_withclaude",
+    "description": "谁不喜欢一个会跟随 Claude Code 状态做动画的像素小爱弥斯呢？",
+    "created_at": "2026-05-11T17:36:14Z",
+    "updated_at": "2026-05-14T14:17:08Z",
+    "pushed_at": "2026-05-14T17:09:43Z",
+    "git_url": "git://github.com/77wilNd/aemeath_withclaude.git",
+    "homepage": "",
+    "size": 706,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "Rust",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
