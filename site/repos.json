@@ -39903,5 +39903,51 @@
     "language": "Python",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1214805512,
+    "name": "gpt-image2-ppt-skills",
+    "owner": {
+      "id": 60815510,
+      "url": "https://api.github.com/users/JuneYaooo",
+      "html_url": "https://github.com/JuneYaooo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60815510?v=4"
+    },
+    "html_url": "https://github.com/JuneYaooo/gpt-image2-ppt-skills",
+    "description": "Clone any .pptx into your own deck — OpenAI gpt-image-2 mimics the layout, you supply the content. 10 bundled styles. | 把任何 .pptx 模板\"抄\"成你的 PPT：gpt-image-2 仿版式、你换内容，另含 10 套精选风格。Claude Code / OpenClaw skill. ",
+    "created_at": "2026-04-19T04:25:35Z",
+    "updated_at": "2026-05-14T16:57:47Z",
+    "pushed_at": "2026-05-14T07:49:39Z",
+    "git_url": "git://github.com/JuneYaooo/gpt-image2-ppt-skills.git",
+    "homepage": "",
+    "size": 1814,
+    "stargazers_count": 541,
+    "watchers_count": 541,
+    "language": "Python",
+    "forks_count": 26,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1236317780,
+    "name": "polymarket-arbitrage-bot-v2",
+    "owner": {
+      "id": 283890988,
+      "url": "https://api.github.com/users/windowsMarketLab",
+      "html_url": "https://github.com/windowsMarketLab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/283890988?v=4"
+    },
+    "html_url": "https://github.com/windowsMarketLab/polymarket-arbitrage-bot-v2",
+    "description": "polymarket arbitrage bot V2 to interact with CLOB V2 polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot ",
+    "created_at": "2026-05-12T06:25:29Z",
+    "updated_at": "2026-05-14T06:06:04Z",
+    "pushed_at": "2026-05-12T06:31:46Z",
+    "git_url": "git://github.com/windowsMarketLab/polymarket-arbitrage-bot-v2.git",
+    "homepage": "https://polymarket.com/crypto",
+    "size": 31,
+    "stargazers_count": 77,
+    "watchers_count": 77,
+    "language": "TypeScript",
+    "forks_count": 408,
+    "open_issues_count": 0
   }
 ]
