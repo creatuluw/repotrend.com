@@ -40041,5 +40041,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 1
+  },
+  {
+    "id": 1229168545,
+    "name": "openpets",
+    "owner": {
+      "id": 204474669,
+      "url": "https://api.github.com/users/alvinunreal",
+      "html_url": "https://github.com/alvinunreal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/204474669?v=4"
+    },
+    "html_url": "https://github.com/alvinunreal/openpets",
+    "description": "Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.",
+    "created_at": "2026-05-04T19:14:46Z",
+    "updated_at": "2026-05-14T18:32:26Z",
+    "pushed_at": "2026-05-14T17:07:32Z",
+    "git_url": "git://github.com/alvinunreal/openpets.git",
+    "homepage": "https://openpets.dev",
+    "size": 26455,
+    "stargazers_count": 560,
+    "watchers_count": 560,
+    "language": "TypeScript",
+    "forks_count": 15,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1237521012,
+    "name": "best-of-algorithmic-trading",
+    "owner": {
+      "id": 284222125,
+      "url": "https://api.github.com/users/PlaceNL2026",
+      "html_url": "https://github.com/PlaceNL2026",
+      "avatar_url": "https://avatars.githubusercontent.com/u/284222125?v=4"
+    },
+    "html_url": "https://github.com/PlaceNL2026/best-of-algorithmic-trading",
+    "description": "algorithmic trading curated list quant finance trading bots backtesting technical analysis crypto open-source freqtrade hummingbot fintech Python TypeScript resources MCP quantopian-style rankings",
+    "created_at": "2026-05-13T09:00:07Z",
+    "updated_at": "2026-05-15T17:44:21Z",
+    "pushed_at": "2026-05-13T09:01:03Z",
+    "git_url": "git://github.com/PlaceNL2026/best-of-algorithmic-trading.git",
+    "homepage": "https://github.com/PlaceNL2026/best-of-algorithmic-trading",
+    "size": 2888,
+    "stargazers_count": 75,
+    "watchers_count": 75,
+    "language": "TypeScript",
+    "forks_count": 99,
+    "open_issues_count": 0
   }
 ]
