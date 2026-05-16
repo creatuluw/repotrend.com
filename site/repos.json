@@ -40225,5 +40225,51 @@
     "language": "TypeScript",
     "forks_count": 960,
     "open_issues_count": 0
+  },
+  {
+    "id": 1212068500,
+    "name": "opentalking",
+    "owner": {
+      "id": 258351683,
+      "url": "https://api.github.com/users/datascale-ai",
+      "html_url": "https://github.com/datascale-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/258351683?v=4"
+    },
+    "html_url": "https://github.com/datascale-ai/opentalking",
+    "description": "OpenTalking：支持实时对话的工业级开源数字人框架，可私有部署、可插拔模型。",
+    "created_at": "2026-04-16T03:05:42Z",
+    "updated_at": "2026-05-16T04:35:55Z",
+    "pushed_at": "2026-05-16T06:31:09Z",
+    "git_url": "git://github.com/datascale-ai/opentalking.git",
+    "homepage": "https://datascale-ai.github.io/opentalking/",
+    "size": 74837,
+    "stargazers_count": 541,
+    "watchers_count": 541,
+    "language": "Python",
+    "forks_count": 165,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1236091227,
+    "name": "zabbix-observability",
+    "owner": {
+      "id": 36636979,
+      "url": "https://api.github.com/users/italozucareli",
+      "html_url": "https://github.com/italozucareli",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36636979?v=4"
+    },
+    "html_url": "https://github.com/italozucareli/zabbix-observability",
+    "description": null,
+    "created_at": "2026-05-12T00:10:22Z",
+    "updated_at": "2026-05-15T14:58:52Z",
+    "pushed_at": "2026-05-13T23:42:17Z",
+    "git_url": "git://github.com/italozucareli/zabbix-observability.git",
+    "homepage": null,
+    "size": 171,
+    "stargazers_count": 81,
+    "watchers_count": 81,
+    "language": "Python",
+    "forks_count": 42,
+    "open_issues_count": 0
   }
 ]
