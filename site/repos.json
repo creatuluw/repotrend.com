@@ -40087,5 +40087,51 @@
     "language": "TypeScript",
     "forks_count": 99,
     "open_issues_count": 0
+  },
+  {
+    "id": 1235122687,
+    "name": "Clawdmeter",
+    "owner": {
+      "id": 5817854,
+      "url": "https://api.github.com/users/HermannBjorgvin",
+      "html_url": "https://github.com/HermannBjorgvin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5817854?v=4"
+    },
+    "html_url": "https://github.com/HermannBjorgvin/Clawdmeter",
+    "description": "ESP32 desk dashboard that shows Claude Code usage",
+    "created_at": "2026-05-11T03:07:49Z",
+    "updated_at": "2026-05-14T18:40:48Z",
+    "pushed_at": "2026-05-14T18:40:52Z",
+    "git_url": "git://github.com/HermannBjorgvin/Clawdmeter.git",
+    "homepage": null,
+    "size": 11341,
+    "stargazers_count": 834,
+    "watchers_count": 834,
+    "language": "C",
+    "forks_count": 52,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1238942562,
+    "name": "local-client-prospector-skill",
+    "owner": {
+      "id": 203409268,
+      "url": "https://api.github.com/users/Kappaemme-git",
+      "html_url": "https://github.com/Kappaemme-git",
+      "avatar_url": "https://avatars.githubusercontent.com/u/203409268?v=4"
+    },
+    "html_url": "https://github.com/Kappaemme-git/local-client-prospector-skill",
+    "description": null,
+    "created_at": "2026-05-14T15:50:52Z",
+    "updated_at": "2026-05-15T18:37:00Z",
+    "pushed_at": "2026-05-14T15:51:15Z",
+    "git_url": "git://github.com/Kappaemme-git/local-client-prospector-skill.git",
+    "homepage": null,
+    "size": 5,
+    "stargazers_count": 71,
+    "watchers_count": 71,
+    "language": "JavaScript",
+    "forks_count": 8,
+    "open_issues_count": 0
   }
 ]
