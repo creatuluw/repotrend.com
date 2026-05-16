@@ -40179,5 +40179,51 @@
     "language": "Shell",
     "forks_count": 8,
     "open_issues_count": 1
+  },
+  {
+    "id": 1233301160,
+    "name": "delta-exec",
+    "owner": {
+      "id": 273872515,
+      "url": "https://api.github.com/users/AvenueSleuth",
+      "html_url": "https://github.com/AvenueSleuth",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273872515?v=4"
+    },
+    "html_url": "https://github.com/AvenueSleuth/delta-exec",
+    "description": "Delta Exec scripting utility",
+    "created_at": "2026-05-08T20:10:42Z",
+    "updated_at": "2026-05-16T06:47:22Z",
+    "pushed_at": "2026-05-10T03:07:26Z",
+    "git_url": "git://github.com/AvenueSleuth/delta-exec.git",
+    "homepage": "",
+    "size": 14,
+    "stargazers_count": 558,
+    "watchers_count": 558,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1237712535,
+    "name": "pumpfun-bundler-bot",
+    "owner": {
+      "id": 284309405,
+      "url": "https://api.github.com/users/Signal-Execution-Core",
+      "html_url": "https://github.com/Signal-Execution-Core",
+      "avatar_url": "https://avatars.githubusercontent.com/u/284309405?v=4"
+    },
+    "html_url": "https://github.com/Signal-Execution-Core/pumpfun-bundler-bot",
+    "description": "Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun Bundler Bot Pumpfun",
+    "created_at": "2026-05-13T12:43:36Z",
+    "updated_at": "2026-05-15T19:54:53Z",
+    "pushed_at": "2026-05-15T19:54:50Z",
+    "git_url": "git://github.com/Signal-Execution-Core/pumpfun-bundler-bot.git",
+    "homepage": "",
+    "size": 1445,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": "TypeScript",
+    "forks_count": 960,
+    "open_issues_count": 0
   }
 ]
