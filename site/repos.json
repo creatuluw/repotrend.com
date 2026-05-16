@@ -40271,5 +40271,51 @@
     "language": "Python",
     "forks_count": 42,
     "open_issues_count": 0
+  },
+  {
+    "id": 1237138183,
+    "name": "Nginx-Rift",
+    "owner": {
+      "id": 229222067,
+      "url": "https://api.github.com/users/DepthFirstDisclosures",
+      "html_url": "https://github.com/DepthFirstDisclosures",
+      "avatar_url": "https://avatars.githubusercontent.com/u/229222067?v=4"
+    },
+    "html_url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
+    "description": "exploit for CVE-2026-42945",
+    "created_at": "2026-05-12T23:05:32Z",
+    "updated_at": "2026-05-15T18:27:11Z",
+    "pushed_at": "2026-05-13T18:40:57Z",
+    "git_url": "git://github.com/DepthFirstDisclosures/Nginx-Rift.git",
+    "homepage": null,
+    "size": 7,
+    "stargazers_count": 594,
+    "watchers_count": 594,
+    "language": "Python",
+    "forks_count": 96,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1239115006,
+    "name": "polymarket-arbitrage-trading-bot",
+    "owner": {
+      "id": 284733350,
+      "url": "https://api.github.com/users/money-takers",
+      "html_url": "https://github.com/money-takers",
+      "avatar_url": "https://avatars.githubusercontent.com/u/284733350?v=4"
+    },
+    "html_url": "https://github.com/money-takers/polymarket-arbitrage-trading-bot",
+    "description": "polymarket trading bot polymarket arbitrage bot, polymarket trading bot polymarket arbitrage bot, polymarket trading bot polymarket arbitrage bot, polymarket trading bot polymarket arbitrage bot, polymarket trading bot polymarket arbitrage bot, polymarket trading bot polymarket  bot, ",
+    "created_at": "2026-05-14T19:22:12Z",
+    "updated_at": "2026-05-16T17:46:15Z",
+    "pushed_at": "2026-05-14T19:22:47Z",
+    "git_url": "git://github.com/money-takers/polymarket-arbitrage-trading-bot.git",
+    "homepage": "https://github.com/money-takers/polymarket-arbitrage-trading-bot",
+    "size": 4003,
+    "stargazers_count": 90,
+    "watchers_count": 90,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
