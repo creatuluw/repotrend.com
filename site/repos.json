@@ -40133,5 +40133,51 @@
     "language": "JavaScript",
     "forks_count": 8,
     "open_issues_count": 0
+  },
+  {
+    "id": 1235672138,
+    "name": "ELF",
+    "owner": {
+      "id": 88616362,
+      "url": "https://api.github.com/users/lillian039",
+      "html_url": "https://github.com/lillian039",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88616362?v=4"
+    },
+    "html_url": "https://github.com/lillian039/ELF",
+    "description": null,
+    "created_at": "2026-05-11T14:44:10Z",
+    "updated_at": "2026-05-15T18:26:56Z",
+    "pushed_at": "2026-05-13T18:51:45Z",
+    "git_url": "git://github.com/lillian039/ELF.git",
+    "homepage": null,
+    "size": 13322,
+    "stargazers_count": 549,
+    "watchers_count": 549,
+    "language": "Python",
+    "forks_count": 31,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1236313121,
+    "name": "kernel-pilot",
+    "owner": {
+      "id": 35585791,
+      "url": "https://api.github.com/users/BBuf",
+      "html_url": "https://github.com/BBuf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35585791?v=4"
+    },
+    "html_url": "https://github.com/BBuf/kernel-pilot",
+    "description": null,
+    "created_at": "2026-05-12T06:19:26Z",
+    "updated_at": "2026-05-15T18:29:19Z",
+    "pushed_at": "2026-05-15T03:16:58Z",
+    "git_url": "git://github.com/BBuf/kernel-pilot.git",
+    "homepage": null,
+    "size": 10037,
+    "stargazers_count": 69,
+    "watchers_count": 69,
+    "language": "Shell",
+    "forks_count": 8,
+    "open_issues_count": 1
   }
 ]
