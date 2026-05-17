@@ -40501,5 +40501,74 @@
     "language": "Python",
     "forks_count": 9,
     "open_issues_count": 0
+  },
+  {
+    "id": 1172617973,
+    "name": "tg-ws-proxy",
+    "owner": {
+      "id": 50780822,
+      "url": "https://api.github.com/users/Flowseal",
+      "html_url": "https://github.com/Flowseal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50780822?v=4"
+    },
+    "html_url": "https://github.com/Flowseal/tg-ws-proxy",
+    "description": "Local MTProto proxy server for partial bypassing of Telegram loading",
+    "created_at": "2026-03-04T14:10:26Z",
+    "updated_at": "2026-05-17T00:37:59Z",
+    "pushed_at": "2026-05-16T22:04:37Z",
+    "git_url": "git://github.com/Flowseal/tg-ws-proxy.git",
+    "homepage": "",
+    "size": 1984,
+    "stargazers_count": 6215,
+    "watchers_count": 6215,
+    "language": "Python",
+    "forks_count": 289,
+    "open_issues_count": 182
+  },
+  {
+    "id": 1226068984,
+    "name": "workshop",
+    "owner": {
+      "id": 255009287,
+      "url": "https://api.github.com/users/raindrop-ai",
+      "html_url": "https://github.com/raindrop-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/255009287?v=4"
+    },
+    "html_url": "https://github.com/raindrop-ai/workshop",
+    "description": "Give your coding agent the power to write and run agent evals.",
+    "created_at": "2026-05-01T00:10:08Z",
+    "updated_at": "2026-05-17T00:17:54Z",
+    "pushed_at": "2026-05-14T21:42:26Z",
+    "git_url": "git://github.com/raindrop-ai/workshop.git",
+    "homepage": "https://www.raindrop.ai/workshop/",
+    "size": 1602,
+    "stargazers_count": 550,
+    "watchers_count": 550,
+    "language": "TypeScript",
+    "forks_count": 20,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1240129662,
+    "name": "OP-Auto-Clicker-4.1",
+    "owner": {
+      "id": 279520276,
+      "url": "https://api.github.com/users/smokeserverquilt",
+      "html_url": "https://github.com/smokeserverquilt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279520276?v=4"
+    },
+    "html_url": "https://github.com/smokeserverquilt/OP-Auto-Clicker-4.1",
+    "description": "Free, fast, and open-source auto clicker for Windows. Customize click speed, intervals, hotkeys, and random delays. Perfect for Roblox, Minecraft, idle games, and repetitive tasks. Portable & lightweight.",
+    "created_at": "2026-05-15T19:53:43Z",
+    "updated_at": "2026-05-16T12:02:30Z",
+    "pushed_at": "2026-05-15T20:19:02Z",
+    "git_url": "git://github.com/smokeserverquilt/OP-Auto-Clicker-4.1.git",
+    "homepage": "",
+    "size": 171,
+    "stargazers_count": 94,
+    "watchers_count": 94,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
