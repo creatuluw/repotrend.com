@@ -40570,5 +40570,74 @@
     "language": "C#",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1167515091,
+    "name": "vphone-cli",
+    "owner": {
+      "id": 25259084,
+      "url": "https://api.github.com/users/Lakr233",
+      "html_url": "https://github.com/Lakr233",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25259084?v=4"
+    },
+    "html_url": "https://github.com/Lakr233/vphone-cli",
+    "description": null,
+    "created_at": "2026-02-26T11:29:08Z",
+    "updated_at": "2026-05-17T07:05:14Z",
+    "pushed_at": "2026-05-16T13:19:18Z",
+    "git_url": "git://github.com/Lakr233/vphone-cli.git",
+    "homepage": null,
+    "size": 4625,
+    "stargazers_count": 6219,
+    "watchers_count": 6219,
+    "language": "Swift",
+    "forks_count": 933,
+    "open_issues_count": 18
+  },
+  {
+    "id": 1213015951,
+    "name": "storybloq",
+    "owner": {
+      "id": 276784697,
+      "url": "https://api.github.com/users/Storybloq",
+      "html_url": "https://github.com/Storybloq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/276784697?v=4"
+    },
+    "html_url": "https://github.com/Storybloq/storybloq",
+    "description": "Cross-session context for Claude Code. CLI + MCP server + /story skill that tracks tickets, issues, handovers, and roadmap in a .story/ directory.",
+    "created_at": "2026-04-17T00:51:21Z",
+    "updated_at": "2026-05-17T05:01:09Z",
+    "pushed_at": "2026-05-15T19:30:21Z",
+    "git_url": "git://github.com/Storybloq/storybloq.git",
+    "homepage": "https://www.storybloq.com",
+    "size": 13605,
+    "stargazers_count": 525,
+    "watchers_count": 525,
+    "language": "TypeScript",
+    "forks_count": 22,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1238494219,
+    "name": "solana-trading-bot",
+    "owner": {
+      "id": 12048341,
+      "url": "https://api.github.com/users/trdx",
+      "html_url": "https://github.com/trdx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12048341?v=4"
+    },
+    "html_url": "https://github.com/trdx/solana-trading-bot",
+    "description": "solana trading bot, an automated Solana sniping bot that trades newly-listed tokens on Raydium AMM v4 and pump.fun bonding curves. Listens to on-chain events in real time, applies configurable safety filters, buys with your chosen quote token (WSOL / USDC), and auto-sells on take-profit / stop-loss.",
+    "created_at": "2026-05-14T07:04:44Z",
+    "updated_at": "2026-05-17T05:54:09Z",
+    "pushed_at": "2026-05-14T07:18:09Z",
+    "git_url": "git://github.com/trdx/solana-trading-bot.git",
+    "homepage": "",
+    "size": 119,
+    "stargazers_count": 68,
+    "watchers_count": 68,
+    "language": "TypeScript",
+    "forks_count": 895,
+    "open_issues_count": 1
   }
 ]
