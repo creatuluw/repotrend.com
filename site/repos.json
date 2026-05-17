@@ -40892,5 +40892,51 @@
     "language": "Python",
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1226205410,
+    "name": "ziwei-doushu",
+    "owner": {
+      "id": 91890238,
+      "url": "https://api.github.com/users/Renhuai123",
+      "html_url": "https://github.com/Renhuai123",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91890238?v=4"
+    },
+    "html_url": "https://github.com/Renhuai123/ziwei-doushu",
+    "description": "紫微斗数开源排盘引擎 — 基于倪海夏《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+    "created_at": "2026-05-01T05:09:59Z",
+    "updated_at": "2026-05-17T17:54:44Z",
+    "pushed_at": "2026-05-09T12:30:29Z",
+    "git_url": "git://github.com/Renhuai123/ziwei-doushu.git",
+    "homepage": null,
+    "size": 204,
+    "stargazers_count": 833,
+    "watchers_count": 833,
+    "language": "TypeScript",
+    "forks_count": 168,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1239988912,
+    "name": "polymarket-trading-bot",
+    "owner": {
+      "id": 180678646,
+      "url": "https://api.github.com/users/Multichain-Bot-Lab",
+      "html_url": "https://github.com/Multichain-Bot-Lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/180678646?v=4"
+    },
+    "html_url": "https://github.com/Multichain-Bot-Lab/polymarket-trading-bot",
+    "description": "polymarket trading bot polymarket arbitrage trading bot polymarket arbitrage bot polymarket trading bot polymarket arbitrage trading bot polymarket arbitrage bot polymarket trading bot polymarket arbitrage trading bot polymarket arbitrage bot polymarket trading bot polymarket arbitrage trading bot polymarket arbitrage bot polymarket trading bot",
+    "created_at": "2026-05-15T16:46:39Z",
+    "updated_at": "2026-05-16T17:40:52Z",
+    "pushed_at": "2026-05-15T16:50:32Z",
+    "git_url": "git://github.com/Multichain-Bot-Lab/polymarket-trading-bot.git",
+    "homepage": "https://polymarket.com/crypto/15M",
+    "size": 128,
+    "stargazers_count": 96,
+    "watchers_count": 96,
+    "language": "TypeScript",
+    "forks_count": 1020,
+    "open_issues_count": 0
   }
 ]
