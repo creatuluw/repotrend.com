@@ -40685,5 +40685,51 @@
     "language": "C#",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1230057134,
+    "name": "natural_language_autoencoders",
+    "owner": {
+      "id": 58341426,
+      "url": "https://api.github.com/users/kitft",
+      "html_url": "https://github.com/kitft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58341426?v=4"
+    },
+    "html_url": "https://github.com/kitft/natural_language_autoencoders",
+    "description": null,
+    "created_at": "2026-05-05T16:27:07Z",
+    "updated_at": "2026-05-16T16:34:43Z",
+    "pushed_at": "2026-05-07T15:50:58Z",
+    "git_url": "git://github.com/kitft/natural_language_autoencoders.git",
+    "homepage": null,
+    "size": 345,
+    "stargazers_count": 607,
+    "watchers_count": 607,
+    "language": "Python",
+    "forks_count": 74,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1238608979,
+    "name": "jarvis",
+    "owner": {
+      "id": 284579976,
+      "url": "https://api.github.com/users/alpunlu12-commits",
+      "html_url": "https://github.com/alpunlu12-commits",
+      "avatar_url": "https://avatars.githubusercontent.com/u/284579976?v=4"
+    },
+    "html_url": "https://github.com/alpunlu12-commits/jarvis",
+    "description": "Jarvis AI Asistan",
+    "created_at": "2026-05-14T09:25:19Z",
+    "updated_at": "2026-05-17T02:41:19Z",
+    "pushed_at": "2026-05-15T21:19:24Z",
+    "git_url": "git://github.com/alpunlu12-commits/jarvis.git",
+    "homepage": null,
+    "size": 2529,
+    "stargazers_count": 70,
+    "watchers_count": 70,
+    "language": null,
+    "forks_count": 19,
+    "open_issues_count": 0
   }
 ]
