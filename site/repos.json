@@ -40731,5 +40731,74 @@
     "language": null,
     "forks_count": 19,
     "open_issues_count": 0
+  },
+  {
+    "id": 1217153065,
+    "name": "claude-for-legal",
+    "owner": {
+      "id": 76263028,
+      "url": "https://api.github.com/users/anthropics",
+      "html_url": "https://github.com/anthropics",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4"
+    },
+    "html_url": "https://github.com/anthropics/claude-for-legal",
+    "description": "A suite of plugins for legal workflows",
+    "created_at": "2026-04-21T15:43:42Z",
+    "updated_at": "2026-05-17T12:23:48Z",
+    "pushed_at": "2026-05-17T02:42:41Z",
+    "git_url": "git://github.com/anthropics/claude-for-legal.git",
+    "homepage": "",
+    "size": 496,
+    "stargazers_count": 6836,
+    "watchers_count": 6836,
+    "language": "Python",
+    "forks_count": 928,
+    "open_issues_count": 32
+  },
+  {
+    "id": 1236825833,
+    "name": "GreenPlasma",
+    "owner": {
+      "id": 271389851,
+      "url": "https://api.github.com/users/Nightmare-Eclipse",
+      "html_url": "https://github.com/Nightmare-Eclipse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271389851?v=4"
+    },
+    "html_url": "https://github.com/Nightmare-Eclipse/GreenPlasma",
+    "description": "GreenPlasma Windows CTFMON Arbitrary Section Creation Elevation of Privileges Vulnerability",
+    "created_at": "2026-05-12T15:56:16Z",
+    "updated_at": "2026-05-17T12:21:25Z",
+    "pushed_at": "2026-05-12T17:38:21Z",
+    "git_url": "git://github.com/Nightmare-Eclipse/GreenPlasma.git",
+    "homepage": null,
+    "size": 6,
+    "stargazers_count": 550,
+    "watchers_count": 550,
+    "language": "C++",
+    "forks_count": 166,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1240944219,
+    "name": "hyperliquid-trading-bot",
+    "owner": {
+      "id": 209856637,
+      "url": "https://api.github.com/users/fristork",
+      "html_url": "https://github.com/fristork",
+      "avatar_url": "https://avatars.githubusercontent.com/u/209856637?v=4"
+    },
+    "html_url": "https://github.com/fristork/hyperliquid-trading-bot",
+    "description": "hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot hyperliquid trading bot hyperliquid bot hyperliquid copytrading bot",
+    "created_at": "2026-05-16T19:09:13Z",
+    "updated_at": "2026-05-17T12:26:30Z",
+    "pushed_at": "2026-05-16T19:09:18Z",
+    "git_url": "git://github.com/fristork/hyperliquid-trading-bot.git",
+    "homepage": null,
+    "size": 55,
+    "stargazers_count": 75,
+    "watchers_count": 75,
+    "language": "TypeScript",
+    "forks_count": 593,
+    "open_issues_count": 0
   }
 ]
