@@ -40846,5 +40846,51 @@
     "language": "Python",
     "forks_count": 13,
     "open_issues_count": 0
+  },
+  {
+    "id": 1236692074,
+    "name": "LSFG-Desktop",
+    "owner": {
+      "id": 131721654,
+      "url": "https://api.github.com/users/sunyouzhi2003",
+      "html_url": "https://github.com/sunyouzhi2003",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131721654?v=4"
+    },
+    "html_url": "https://github.com/sunyouzhi2003/LSFG-Desktop",
+    "description": "Lossless Scaling 2026: Universal Frame Generation LSFG 3. Multi-frame gen: X2, X3, X4 multiplier for extreme FPS. AI Upscaling: LS1, FSR 3.1, NIS. Smooth gaming on Steam Deck, handhelds, and Android (LSFG-VK). Fix stuttering, low latency mode, VRR support, 4K spatial scaling, G-Sync compatible.",
+    "created_at": "2026-05-12T13:36:32Z",
+    "updated_at": "2026-05-17T18:27:14Z",
+    "pushed_at": "2026-05-12T13:42:16Z",
+    "git_url": "git://github.com/sunyouzhi2003/LSFG-Desktop.git",
+    "homepage": "",
+    "size": 31,
+    "stargazers_count": 556,
+    "watchers_count": 556,
+    "language": "C++",
+    "forks_count": 1,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1238996909,
+    "name": "SDAR",
+    "owner": {
+      "id": 203928864,
+      "url": "https://api.github.com/users/ZJU-REAL",
+      "html_url": "https://github.com/ZJU-REAL",
+      "avatar_url": "https://avatars.githubusercontent.com/u/203928864?v=4"
+    },
+    "html_url": "https://github.com/ZJU-REAL/SDAR",
+    "description": "Official code for \"Self-Distilled Agentic Reinforcement Learning\"",
+    "created_at": "2026-05-14T16:54:03Z",
+    "updated_at": "2026-05-17T17:38:02Z",
+    "pushed_at": "2026-05-15T04:31:17Z",
+    "git_url": "git://github.com/ZJU-REAL/SDAR.git",
+    "homepage": "https://arxiv.org/abs/2605.15155",
+    "size": 39216,
+    "stargazers_count": 73,
+    "watchers_count": 73,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 0
   }
 ]
