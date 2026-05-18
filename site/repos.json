@@ -40984,5 +40984,51 @@
     "language": "Python",
     "forks_count": 8,
     "open_issues_count": 0
+  },
+  {
+    "id": 1236755539,
+    "name": "Wallpaper-Engine-Live-wallpaper-engine",
+    "owner": {
+      "id": 179905873,
+      "url": "https://api.github.com/users/PHjont",
+      "html_url": "https://github.com/PHjont",
+      "avatar_url": "https://avatars.githubusercontent.com/u/179905873?v=4"
+    },
+    "html_url": "https://github.com/PHjont/Wallpaper-Engine-Live-wallpaper-engine",
+    "description": "Wallpaper Engine Steam: Live wallpaper engine. Features: 3D interactive scenes, audio visualizer, clock widgets. Android sync, mobile companion, playlist scheduler. Performance optimization, low CPU usage, LED hardware lighting, Razer Chroma, Corsair iCUE, Steam Workshop integration, SceneScript.",
+    "created_at": "2026-05-12T14:41:32Z",
+    "updated_at": "2026-05-18T00:58:23Z",
+    "pushed_at": "2026-05-12T14:52:23Z",
+    "git_url": "git://github.com/PHjont/Wallpaper-Engine-Live-wallpaper-engine.git",
+    "homepage": "",
+    "size": 59,
+    "stargazers_count": 599,
+    "watchers_count": 599,
+    "language": "C++",
+    "forks_count": 1,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1240337927,
+    "name": "reframe",
+    "owner": {
+      "id": 97088,
+      "url": "https://api.github.com/users/mrdoob",
+      "html_url": "https://github.com/mrdoob",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97088?v=4"
+    },
+    "html_url": "https://github.com/mrdoob/reframe",
+    "description": "Webapp for framing a video clip and exporting an MP4.",
+    "created_at": "2026-05-16T02:55:55Z",
+    "updated_at": "2026-05-17T17:20:17Z",
+    "pushed_at": "2026-05-16T02:56:33Z",
+    "git_url": "git://github.com/mrdoob/reframe.git",
+    "homepage": "https://mrdoob.github.io/reframe/",
+    "size": 42,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "JavaScript",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
