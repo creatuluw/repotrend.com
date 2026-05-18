@@ -41329,5 +41329,51 @@
     "language": "C",
     "forks_count": 1,
     "open_issues_count": 1
+  },
+  {
+    "id": 1239825019,
+    "name": "codex-complexity-optimizer",
+    "owner": {
+      "id": 203409268,
+      "url": "https://api.github.com/users/Kappaemme-git",
+      "html_url": "https://github.com/Kappaemme-git",
+      "avatar_url": "https://avatars.githubusercontent.com/u/203409268?v=4"
+    },
+    "html_url": "https://github.com/Kappaemme-git/codex-complexity-optimizer",
+    "description": "Codex skill for safe codebase complexity analysis and performance optimization reports",
+    "created_at": "2026-05-15T13:33:28Z",
+    "updated_at": "2026-05-18T13:04:46Z",
+    "pushed_at": "2026-05-15T13:33:31Z",
+    "git_url": "git://github.com/Kappaemme-git/codex-complexity-optimizer.git",
+    "homepage": null,
+    "size": 10,
+    "stargazers_count": 712,
+    "watchers_count": 712,
+    "language": "Python",
+    "forks_count": 38,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1240906515,
+    "name": "Screenshot-Search-Engine",
+    "owner": {
+      "id": 204368390,
+      "url": "https://api.github.com/users/Itssaisathan",
+      "html_url": "https://github.com/Itssaisathan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/204368390?v=4"
+    },
+    "html_url": "https://github.com/Itssaisathan/Screenshot-Search-Engine",
+    "description": null,
+    "created_at": "2026-05-16T18:06:49Z",
+    "updated_at": "2026-05-18T06:17:16Z",
+    "pushed_at": "2026-05-16T18:15:24Z",
+    "git_url": "git://github.com/Itssaisathan/Screenshot-Search-Engine.git",
+    "homepage": null,
+    "size": 15,
+    "stargazers_count": 56,
+    "watchers_count": 56,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
