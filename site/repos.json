@@ -41030,5 +41030,74 @@
     "language": "JavaScript",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1179413000,
+    "name": "inkos",
+    "owner": {
+      "id": 33502405,
+      "url": "https://api.github.com/users/Narcooo",
+      "html_url": "https://github.com/Narcooo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33502405?v=4"
+    },
+    "html_url": "https://github.com/Narcooo/inkos",
+    "description": "Autonomous novel writing AI Agent — agents write, audit, and revise novels with human review gates",
+    "created_at": "2026-03-12T02:12:54Z",
+    "updated_at": "2026-05-18T00:57:47Z",
+    "pushed_at": "2026-05-17T02:25:56Z",
+    "git_url": "git://github.com/Narcooo/inkos.git",
+    "homepage": "",
+    "size": 8929,
+    "stargazers_count": 6185,
+    "watchers_count": 6185,
+    "language": "TypeScript",
+    "forks_count": 1168,
+    "open_issues_count": 156
+  },
+  {
+    "id": 1234266468,
+    "name": "printer-offline-fix",
+    "owner": {
+      "id": 273872271,
+      "url": "https://api.github.com/users/Rhythmplocutter",
+      "html_url": "https://github.com/Rhythmplocutter",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273872271?v=4"
+    },
+    "html_url": "https://github.com/Rhythmplocutter/printer-offline-fix",
+    "description": "printer offline fix || printer offline || printer offline driver || printer offline fix windows",
+    "created_at": "2026-05-10T00:43:27Z",
+    "updated_at": "2026-05-18T00:47:05Z",
+    "pushed_at": "2026-05-10T02:24:58Z",
+    "git_url": "git://github.com/Rhythmplocutter/printer-offline-fix.git",
+    "homepage": "",
+    "size": 47,
+    "stargazers_count": 581,
+    "watchers_count": 581,
+    "language": "PowerShell",
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1241248494,
+    "name": "kalshi-trading-bot",
+    "owner": {
+      "id": 183075077,
+      "url": "https://api.github.com/users/sachmalan",
+      "html_url": "https://github.com/sachmalan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/183075077?v=4"
+    },
+    "html_url": "https://github.com/sachmalan/kalshi-trading-bot",
+    "description": "kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot kalshi bot kalshi trading bot",
+    "created_at": "2026-05-17T06:24:13Z",
+    "updated_at": "2026-05-17T12:33:26Z",
+    "pushed_at": "2026-05-17T06:24:20Z",
+    "git_url": "git://github.com/sachmalan/kalshi-trading-bot.git",
+    "homepage": null,
+    "size": 112,
+    "stargazers_count": 78,
+    "watchers_count": 78,
+    "language": "TypeScript",
+    "forks_count": 452,
+    "open_issues_count": 0
   }
 ]
