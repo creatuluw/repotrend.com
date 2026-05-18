@@ -41145,5 +41145,51 @@
     "language": "JavaScript",
     "forks_count": 13,
     "open_issues_count": 0
+  },
+  {
+    "id": 1238904811,
+    "name": "Subnautica-2-Release",
+    "owner": {
+      "id": 127411695,
+      "url": "https://api.github.com/users/Juwluuu",
+      "html_url": "https://github.com/Juwluuu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127411695?v=4"
+    },
+    "html_url": "https://github.com/Juwluuu/Subnautica-2-Release",
+    "description": "Subnautica 2: Early Access release, Have Multiplayer 4-player co-op multiplayer, Planet Zazura exploration, DNA BioMod system, Tadpole modular submersible, new Leviathans list, CICADA crash site lore. Xbox Game Pass, Steam preload, base building blueprints, ocean currents, crafting recipes",
+    "created_at": "2026-05-14T15:08:34Z",
+    "updated_at": "2026-05-18T07:33:52Z",
+    "pushed_at": "2026-05-14T15:27:31Z",
+    "git_url": "git://github.com/Juwluuu/Subnautica-2-Release.git",
+    "homepage": "",
+    "size": 62,
+    "stargazers_count": 573,
+    "watchers_count": 573,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1239342938,
+    "name": "Brovan",
+    "owner": {
+      "id": 90452585,
+      "url": "https://api.github.com/users/AdvDebug",
+      "html_url": "https://github.com/AdvDebug",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90452585?v=4"
+    },
+    "html_url": "https://github.com/AdvDebug/Brovan",
+    "description": "Brovan is a user-mode x86_64 binary emulator for PE, ELF, memory dumps, and unrecognized file formats.",
+    "created_at": "2026-05-15T02:12:23Z",
+    "updated_at": "2026-05-18T06:10:10Z",
+    "pushed_at": "2026-05-18T03:59:06Z",
+    "git_url": "git://github.com/AdvDebug/Brovan.git",
+    "homepage": "",
+    "size": 13680,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": "C#",
+    "forks_count": 6,
+    "open_issues_count": 0
   }
 ]
