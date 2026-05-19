@@ -41467,5 +41467,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1233537154,
+    "name": "grok-animus",
+    "owner": {
+      "id": 9389563,
+      "url": "https://api.github.com/users/shefyYuri",
+      "html_url": "https://github.com/shefyYuri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9389563?v=4"
+    },
+    "html_url": "https://github.com/shefyYuri/grok-animus",
+    "description": "Persistent AI companion engine — personality, memory, dreams, and evolution for any LLM. The foundation behind living AI companions.",
+    "created_at": "2026-05-09T04:18:30Z",
+    "updated_at": "2026-05-17T17:00:11Z",
+    "pushed_at": "2026-05-16T18:07:40Z",
+    "git_url": "git://github.com/shefyYuri/grok-animus.git",
+    "homepage": "",
+    "size": 152,
+    "stargazers_count": 568,
+    "watchers_count": 568,
+    "language": "Python",
+    "forks_count": 131,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1241272060,
+    "name": "crop-recommendation-system",
+    "owner": {
+      "id": 264926066,
+      "url": "https://api.github.com/users/amaravijayalakshmi216-collab",
+      "html_url": "https://github.com/amaravijayalakshmi216-collab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/264926066?v=4"
+    },
+    "html_url": "https://github.com/amaravijayalakshmi216-collab/crop-recommendation-system",
+    "description": null,
+    "created_at": "2026-05-17T07:05:29Z",
+    "updated_at": "2026-05-17T17:55:48Z",
+    "pushed_at": "2026-05-17T08:20:52Z",
+    "git_url": "git://github.com/amaravijayalakshmi216-collab/crop-recommendation-system.git",
+    "homepage": null,
+    "size": 2,
+    "stargazers_count": 55,
+    "watchers_count": 55,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
