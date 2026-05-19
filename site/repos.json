@@ -41651,5 +41651,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1233209171,
+    "name": "kmspico-2026-windows-11",
+    "owner": {
+      "id": 279138221,
+      "url": "https://api.github.com/users/ViewInspection",
+      "html_url": "https://github.com/ViewInspection",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279138221?v=4"
+    },
+    "html_url": "https://github.com/ViewInspection/kmspico-2026-windows-11",
+    "description": "⭐️ KMSPico-2026 Activator | Windows 10/11 License Key | Setup Installer v1.0 | Patch Loader Keygen | Pre-Activated Full Version | Latest Build Pro | Genuine Original Activation Tool | Install Desktop Application | Get Software Working | Effective Permanent Activation Solution | Direct Download Access ⭐️",
+    "created_at": "2026-05-08T17:56:45Z",
+    "updated_at": "2026-05-19T04:29:56Z",
+    "pushed_at": "2026-05-18T23:47:02Z",
+    "git_url": "git://github.com/ViewInspection/kmspico-2026-windows-11.git",
+    "homepage": "",
+    "size": 18,
+    "stargazers_count": 791,
+    "watchers_count": 791,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1241217061,
+    "name": "MultiClass-LungDisease-Detection-Using-XAI",
+    "owner": {
+      "id": 193919058,
+      "url": "https://api.github.com/users/Stevia-S",
+      "html_url": "https://github.com/Stevia-S",
+      "avatar_url": "https://avatars.githubusercontent.com/u/193919058?v=4"
+    },
+    "html_url": "https://github.com/Stevia-S/MultiClass-LungDisease-Detection-Using-XAI",
+    "description": "Explainable deep learning framework for multi-class lung disease detection from CT scan images using ResNet50, VGG16 feature fusion, and Grad-CAM visualization.",
+    "created_at": "2026-05-17T05:17:53Z",
+    "updated_at": "2026-05-18T02:17:10Z",
+    "pushed_at": "2026-05-17T09:34:24Z",
+    "git_url": "git://github.com/Stevia-S/MultiClass-LungDisease-Detection-Using-XAI.git",
+    "homepage": null,
+    "size": 69,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
