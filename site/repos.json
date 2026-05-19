@@ -41605,5 +41605,51 @@
     "language": "Shell",
     "forks_count": 563,
     "open_issues_count": 0
+  },
+  {
+    "id": 1232599710,
+    "name": "sven-family",
+    "owner": {
+      "id": 17078631,
+      "url": "https://api.github.com/users/laishiwen",
+      "html_url": "https://github.com/laishiwen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17078631?v=4"
+    },
+    "html_url": "https://github.com/laishiwen/sven-family",
+    "description": "Sven Family is an AI-native product suite that connects creation, collaboration, publishing, and operations into one integrated platform.",
+    "created_at": "2026-05-08T04:58:29Z",
+    "updated_at": "2026-05-18T08:24:44Z",
+    "pushed_at": "2026-05-13T05:40:33Z",
+    "git_url": "git://github.com/laishiwen/sven-family.git",
+    "homepage": "https://sven-family-admin-frontend.vercel.app",
+    "size": 10883,
+    "stargazers_count": 555,
+    "watchers_count": 555,
+    "language": "TypeScript",
+    "forks_count": 24,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1240530620,
+    "name": "WindowsDelta",
+    "owner": {
+      "id": 170282613,
+      "url": "https://api.github.com/users/akuma815",
+      "html_url": "https://github.com/akuma815",
+      "avatar_url": "https://avatars.githubusercontent.com/u/170282613?v=4"
+    },
+    "html_url": "https://github.com/akuma815/WindowsDelta",
+    "description": "Delta is a precision-engineered executor , third-party client for Roblox, specifically architected to dismantle performance bottlenecks. By bypassing standard client limitations, Delta provides a high-fidelity, low-latency environment tailored for power users and competitive players on Windows 10 and 11.",
+    "created_at": "2026-05-16T08:42:29Z",
+    "updated_at": "2026-05-17T12:56:22Z",
+    "pushed_at": "2026-05-16T08:43:46Z",
+    "git_url": "git://github.com/akuma815/WindowsDelta.git",
+    "homepage": "",
+    "size": 3,
+    "stargazers_count": 91,
+    "watchers_count": 91,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
