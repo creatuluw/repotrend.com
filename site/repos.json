@@ -41513,5 +41513,51 @@
     "language": "Python",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1229492049,
+    "name": "Dulus",
+    "owner": {
+      "id": 9065636,
+      "url": "https://api.github.com/users/KevRojo",
+      "html_url": "https://github.com/KevRojo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9065636?v=4"
+    },
+    "html_url": "https://github.com/KevRojo/Dulus",
+    "description": "The only real free CLI agent. Harvests your Gemini (guest, no login) · Claude.ai · Claude Code · Kimi · Qwen · DeepSeek browser session and turns it into a tool-calling agent — reads & edits files, runs Bash, greps your repo, browses the web, ships commits, all from your terminal. Frontier IA driving real work at $0 ",
+    "created_at": "2026-05-05T05:13:43Z",
+    "updated_at": "2026-05-19T00:06:21Z",
+    "pushed_at": "2026-05-18T23:06:58Z",
+    "git_url": "git://github.com/KevRojo/Dulus.git",
+    "homepage": "https://kevrojo.github.io/Dulus/",
+    "size": 39972,
+    "stargazers_count": 618,
+    "watchers_count": 618,
+    "language": "Python",
+    "forks_count": 14,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1241232092,
+    "name": "vibe-observer",
+    "owner": {
+      "id": 17940149,
+      "url": "https://api.github.com/users/AIchovy",
+      "html_url": "https://github.com/AIchovy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17940149?v=4"
+    },
+    "html_url": "https://github.com/AIchovy/vibe-observer",
+    "description": "Claude Code Tracer & Observer",
+    "created_at": "2026-05-17T05:50:21Z",
+    "updated_at": "2026-05-18T02:51:45Z",
+    "pushed_at": "2026-05-17T07:07:11Z",
+    "git_url": "git://github.com/AIchovy/vibe-observer.git",
+    "homepage": "",
+    "size": 814,
+    "stargazers_count": 93,
+    "watchers_count": 93,
+    "language": "Rust",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
