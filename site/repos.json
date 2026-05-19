@@ -41697,5 +41697,51 @@
     "language": "Python",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1237004640,
+    "name": "zerostack",
+    "owner": {
+      "id": 61155988,
+      "url": "https://api.github.com/users/gi-dellav",
+      "html_url": "https://github.com/gi-dellav",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61155988?v=4"
+    },
+    "html_url": "https://github.com/gi-dellav/zerostack",
+    "description": "Minimalistic coding agent written in Rust, optimized for memory footprint and performance",
+    "created_at": "2026-05-12T19:31:49Z",
+    "updated_at": "2026-05-19T07:19:53Z",
+    "pushed_at": "2026-05-18T22:09:42Z",
+    "git_url": "git://github.com/gi-dellav/zerostack.git",
+    "homepage": "",
+    "size": 328,
+    "stargazers_count": 761,
+    "watchers_count": 761,
+    "language": "Rust",
+    "forks_count": 47,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1241146344,
+    "name": "AI-Resume_Analyzer",
+    "owner": {
+      "id": 234153156,
+      "url": "https://api.github.com/users/greatvishal27-rc",
+      "html_url": "https://github.com/greatvishal27-rc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/234153156?v=4"
+    },
+    "html_url": "https://github.com/greatvishal27-rc/AI-Resume_Analyzer",
+    "description": null,
+    "created_at": "2026-05-17T02:35:46Z",
+    "updated_at": "2026-05-19T06:05:26Z",
+    "pushed_at": "2026-05-17T03:28:48Z",
+    "git_url": "git://github.com/greatvishal27-rc/AI-Resume_Analyzer.git",
+    "homepage": null,
+    "size": 121,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
