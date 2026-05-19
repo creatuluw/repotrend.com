@@ -41743,5 +41743,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1239240779,
+    "name": "ssh-keysign-pwn",
+    "owner": {
+      "id": 93794938,
+      "url": "https://api.github.com/users/0xdeadbeefnetwork",
+      "html_url": "https://github.com/0xdeadbeefnetwork",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93794938?v=4"
+    },
+    "html_url": "https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn",
+    "description": "Steal SSH host private keys and /etc/shadow via the ptrace_may_access mm-NULL bypass + pidfd_getfd. Pre-31e62c2ebbfd kernels.",
+    "created_at": "2026-05-14T22:44:21Z",
+    "updated_at": "2026-05-18T17:35:29Z",
+    "pushed_at": "2026-05-15T21:34:20Z",
+    "git_url": "git://github.com/0xdeadbeefnetwork/ssh-keysign-pwn.git",
+    "homepage": null,
+    "size": 2396,
+    "stargazers_count": 582,
+    "watchers_count": 582,
+    "language": "C",
+    "forks_count": 71,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1240790303,
+    "name": "Windows-Activator",
+    "owner": {
+      "id": 283049997,
+      "url": "https://api.github.com/users/gazelleandrewrasmussenmouj2",
+      "html_url": "https://github.com/gazelleandrewrasmussenmouj2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/283049997?v=4"
+    },
+    "html_url": "https://github.com/gazelleandrewrasmussenmouj2/Windows-Activator",
+    "description": "Windows KMS activator office365",
+    "created_at": "2026-05-16T15:17:13Z",
+    "updated_at": "2026-05-17T12:59:55Z",
+    "pushed_at": "2026-05-16T15:20:10Z",
+    "git_url": "git://github.com/gazelleandrewrasmussenmouj2/Windows-Activator.git",
+    "homepage": "",
+    "size": 7,
+    "stargazers_count": 93,
+    "watchers_count": 93,
+    "language": null,
+    "forks_count": 66,
+    "open_issues_count": 0
   }
 ]
