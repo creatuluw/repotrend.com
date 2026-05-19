@@ -41835,5 +41835,51 @@
     "language": "TypeScript",
     "forks_count": 50,
     "open_issues_count": 0
+  },
+  {
+    "id": 1242107382,
+    "name": "smallcode",
+    "owner": {
+      "id": 283874042,
+      "url": "https://api.github.com/users/Doorman11991",
+      "html_url": "https://github.com/Doorman11991",
+      "avatar_url": "https://avatars.githubusercontent.com/u/283874042?v=4"
+    },
+    "html_url": "https://github.com/Doorman11991/smallcode",
+    "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
+    "created_at": "2026-05-18T06:19:44Z",
+    "updated_at": "2026-05-19T18:42:11Z",
+    "pushed_at": "2026-05-19T08:23:09Z",
+    "git_url": "git://github.com/Doorman11991/smallcode.git",
+    "homepage": null,
+    "size": 597,
+    "stargazers_count": 682,
+    "watchers_count": 682,
+    "language": "JavaScript",
+    "forks_count": 37,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1240927334,
+    "name": "quickshell",
+    "owner": {
+      "id": 1419214,
+      "url": "https://api.github.com/users/bjarneo",
+      "html_url": "https://github.com/bjarneo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1419214?v=4"
+    },
+    "html_url": "https://github.com/bjarneo/quickshell",
+    "description": "Quickshell configs for Omarchy. Navbar. Omni menu. + more",
+    "created_at": "2026-05-16T18:41:26Z",
+    "updated_at": "2026-05-19T18:43:52Z",
+    "pushed_at": "2026-05-19T18:43:47Z",
+    "git_url": "git://github.com/bjarneo/quickshell.git",
+    "homepage": "https://omarchy.org",
+    "size": 2565,
+    "stargazers_count": 56,
+    "watchers_count": 56,
+    "language": "QML",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
