@@ -4198,5 +4198,11 @@
     "name": "SDAR",
     "html_url": "https://github.com/ZJU-REAL/SDAR",
     "posted_at": "2026-05-19T12:49:53.930Z"
+  },
+  {
+    "id": 1202251960,
+    "name": "llm-wiki-compiler",
+    "html_url": "https://github.com/atomicmemory/llm-wiki-compiler",
+    "posted_at": "2026-05-19T15:47:12.321Z"
   }
 ]
