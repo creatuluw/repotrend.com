@@ -42019,5 +42019,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 1
+  },
+  {
+    "id": 1223423695,
+    "name": "deepmlab",
+    "owner": {
+      "id": 35392196,
+      "url": "https://api.github.com/users/yuanzhongqiao",
+      "html_url": "https://github.com/yuanzhongqiao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35392196?v=4"
+    },
+    "html_url": "https://github.com/yuanzhongqiao/deepmlab",
+    "description": "An Open-Source Alternative to MATLAB: LLM-Driven & Scilab-Based AI Mathematical Modeling Tool with Natural Language Interface",
+    "created_at": "2026-04-28T10:03:28Z",
+    "updated_at": "2026-05-18T12:35:47Z",
+    "pushed_at": "2026-04-28T12:05:33Z",
+    "git_url": "git://github.com/yuanzhongqiao/deepmlab.git",
+    "homepage": "http://www.deepmlab.com",
+    "size": 120344,
+    "stargazers_count": 568,
+    "watchers_count": 568,
+    "language": "Scilab",
+    "forks_count": 7,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1240713910,
+    "name": "Pneumonia-Detection-With-Explainable-AI",
+    "owner": {
+      "id": 236381472,
+      "url": "https://api.github.com/users/Yuvan-x",
+      "html_url": "https://github.com/Yuvan-x",
+      "avatar_url": "https://avatars.githubusercontent.com/u/236381472?v=4"
+    },
+    "html_url": "https://github.com/Yuvan-x/Pneumonia-Detection-With-Explainable-AI",
+    "description": "AI-based medical image classifier that identifies Pneumonia from chest X-ray images through CNN along with visualization of areas with abnormalities through Grad-CAM Explainable AI",
+    "created_at": "2026-05-16T13:28:38Z",
+    "updated_at": "2026-05-17T17:27:14Z",
+    "pushed_at": "2026-05-16T14:13:40Z",
+    "git_url": "git://github.com/Yuvan-x/Pneumonia-Detection-With-Explainable-AI.git",
+    "homepage": null,
+    "size": 1243573,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
