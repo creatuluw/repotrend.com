@@ -42111,5 +42111,51 @@
     "language": null,
     "forks_count": 6,
     "open_issues_count": 1
+  },
+  {
+    "id": 1242604332,
+    "name": "Lossless-Scaling-Desktop-2026",
+    "owner": {
+      "id": 279139821,
+      "url": "https://api.github.com/users/DuskMosquito",
+      "html_url": "https://github.com/DuskMosquito",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279139821?v=4"
+    },
+    "html_url": "https://github.com/DuskMosquito/Lossless-Scaling-Desktop-2026",
+    "description": "⭐️ Lossless Scaling Desktop 2026 | Setup Installer v1.0 | Patch Activator Keygen | License Key Pre-Activated | Full Version Latest Build Pro | Optimize Resolution Scaling | Enhance Performance Graphics | Get Desktop App Windows 10/11 PC | Direct Genuine Original x64 | Download Install Loader Mod ⭐️",
+    "created_at": "2026-05-18T15:21:49Z",
+    "updated_at": "2026-05-19T18:28:09Z",
+    "pushed_at": "2026-05-19T18:27:43Z",
+    "git_url": "git://github.com/DuskMosquito/Lossless-Scaling-Desktop-2026.git",
+    "homepage": "",
+    "size": 9,
+    "stargazers_count": 778,
+    "watchers_count": 778,
+    "language": "C",
+    "forks_count": 0,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1242745060,
+    "name": "Dexora",
+    "owner": {
+      "id": 232278787,
+      "url": "https://api.github.com/users/dexoravla",
+      "html_url": "https://github.com/dexoravla",
+      "avatar_url": "https://avatars.githubusercontent.com/u/232278787?v=4"
+    },
+    "html_url": "https://github.com/dexoravla/Dexora",
+    "description": null,
+    "created_at": "2026-05-18T18:01:30Z",
+    "updated_at": "2026-05-20T07:06:05Z",
+    "pushed_at": "2026-05-19T07:21:33Z",
+    "git_url": "git://github.com/dexoravla/Dexora.git",
+    "homepage": null,
+    "size": 250513,
+    "stargazers_count": 68,
+    "watchers_count": 68,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
