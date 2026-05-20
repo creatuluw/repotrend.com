@@ -42341,5 +42341,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1243496690,
+    "name": "GuJumpgate",
+    "owner": {
+      "id": 98100115,
+      "url": "https://api.github.com/users/FoundZiGu",
+      "html_url": "https://github.com/FoundZiGu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98100115?v=4"
+    },
+    "html_url": "https://github.com/FoundZiGu/GuJumpgate",
+    "description": null,
+    "created_at": "2026-05-19T11:52:52Z",
+    "updated_at": "2026-05-20T18:53:06Z",
+    "pushed_at": "2026-05-20T15:53:23Z",
+    "git_url": "git://github.com/FoundZiGu/GuJumpgate.git",
+    "homepage": null,
+    "size": 4313,
+    "stargazers_count": 915,
+    "watchers_count": 915,
+    "language": "JavaScript",
+    "forks_count": 334,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1244542373,
+    "name": "Rivals-Tool-2026",
+    "owner": {
+      "id": 271789219,
+      "url": "https://api.github.com/users/CapitalPortalCloak",
+      "html_url": "https://github.com/CapitalPortalCloak",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271789219?v=4"
+    },
+    "html_url": "https://github.com/CapitalPortalCloak/Rivals-Tool-2026",
+    "description": "Rivals Tool | Lua Executor | Advanced Game Utility | Fly Speed ESP | Script Hub | Stable 2026",
+    "created_at": "2026-05-20T11:12:24Z",
+    "updated_at": "2026-05-20T12:06:24Z",
+    "pushed_at": "2026-05-20T11:12:34Z",
+    "git_url": "git://github.com/CapitalPortalCloak/Rivals-Tool-2026.git",
+    "homepage": "",
+    "size": 2,
+    "stargazers_count": 77,
+    "watchers_count": 77,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
