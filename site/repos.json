@@ -41973,5 +41973,51 @@
     "language": "Python",
     "forks_count": 8,
     "open_issues_count": 0
+  },
+  {
+    "id": 1238952654,
+    "name": "OPAutoClicker",
+    "owner": {
+      "id": 265744887,
+      "url": "https://api.github.com/users/jiaoyanming0-bot",
+      "html_url": "https://github.com/jiaoyanming0-bot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/265744887?v=4"
+    },
+    "html_url": "https://github.com/jiaoyanming0-bot/OPAutoClicker",
+    "description": "OP Auto Clicker: Fast click interval, milliseconds, seconds. Left, right, middle button. keyboard auto clicker Single, double, triple click. Repeat until stopped, fixed count. Current location, pick coordinates. Hotkey trigger, start stop shortcut. Record playback, macro, Roblox AFK, Minecraft, mouse emulator, portable. ",
+    "created_at": "2026-05-14T16:02:07Z",
+    "updated_at": "2026-05-19T22:09:13Z",
+    "pushed_at": "2026-05-14T16:10:44Z",
+    "git_url": "git://github.com/jiaoyanming0-bot/OPAutoClicker.git",
+    "homepage": "",
+    "size": 175,
+    "stargazers_count": 582,
+    "watchers_count": 582,
+    "language": "C#",
+    "forks_count": 2,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1240555141,
+    "name": "SeedVault",
+    "owner": {
+      "id": 244108120,
+      "url": "https://api.github.com/users/hvsk24",
+      "html_url": "https://github.com/hvsk24",
+      "avatar_url": "https://avatars.githubusercontent.com/u/244108120?v=4"
+    },
+    "html_url": "https://github.com/hvsk24/SeedVault",
+    "description": "Seed Phrase Generator and Balance Checker: Multi-currency address generator. BIP-39 mnemonic setup, multi-threading, custom derivation paths, proxy support. Supports BTC (Legacy, SegWit, Native SegWit), ETH, BSC, SOL, MATIC. RPC configuration, automatic database logging, clean UI, portable execution.",
+    "created_at": "2026-05-16T09:22:09Z",
+    "updated_at": "2026-05-17T12:56:24Z",
+    "pushed_at": "2026-05-16T09:28:35Z",
+    "git_url": "git://github.com/hvsk24/SeedVault.git",
+    "homepage": "",
+    "size": 6,
+    "stargazers_count": 91,
+    "watchers_count": 91,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 1
   }
 ]
