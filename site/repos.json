@@ -41881,5 +41881,51 @@
     "language": "QML",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1220899692,
+    "name": "academic-research-skills-codex",
+    "owner": {
+      "id": 132531341,
+      "url": "https://api.github.com/users/Imbad0202",
+      "html_url": "https://github.com/Imbad0202",
+      "avatar_url": "https://avatars.githubusercontent.com/u/132531341?v=4"
+    },
+    "html_url": "https://github.com/Imbad0202/academic-research-skills-codex",
+    "description": "Codex-native Academic Research Skills suite for human-in-the-loop academic research workflows",
+    "created_at": "2026-04-25T13:39:58Z",
+    "updated_at": "2026-05-19T18:22:41Z",
+    "pushed_at": "2026-05-19T05:45:22Z",
+    "git_url": "git://github.com/Imbad0202/academic-research-skills-codex.git",
+    "homepage": "https://github.com/Imbad0202/academic-research-skills",
+    "size": 2571,
+    "stargazers_count": 789,
+    "watchers_count": 789,
+    "language": "Python",
+    "forks_count": 56,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1240797972,
+    "name": "besur-themes",
+    "owner": {
+      "id": 104717038,
+      "url": "https://api.github.com/users/Ballwictb",
+      "html_url": "https://github.com/Ballwictb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104717038?v=4"
+    },
+    "html_url": "https://github.com/Ballwictb/besur-themes",
+    "description": "Vibrant color themes (dark, soft, light) with extended language support: JS/TS, Python, Rust, Go, PHP, SQL, XML, YAML, TOML, Markdown, Bash, and more.",
+    "created_at": "2026-05-16T15:27:55Z",
+    "updated_at": "2026-05-17T19:41:56Z",
+    "pushed_at": "2026-05-17T14:55:55Z",
+    "git_url": "git://github.com/Ballwictb/besur-themes.git",
+    "homepage": "https://besur.site",
+    "size": 2230,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "CSS",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
