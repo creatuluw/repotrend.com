@@ -42203,5 +42203,51 @@
     "language": "Rust",
     "forks_count": 2,
     "open_issues_count": 1
+  },
+  {
+    "id": 1237338198,
+    "name": "invisible_playwright",
+    "owner": {
+      "id": 85809106,
+      "url": "https://api.github.com/users/feder-cr",
+      "html_url": "https://github.com/feder-cr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85809106?v=4"
+    },
+    "html_url": "https://github.com/feder-cr/invisible_playwright",
+    "description": "Stealth Firefox that passes every bot detection test. Drop-in Playwright replacement.",
+    "created_at": "2026-05-13T05:04:33Z",
+    "updated_at": "2026-05-20T13:01:09Z",
+    "pushed_at": "2026-05-20T04:08:58Z",
+    "git_url": "git://github.com/feder-cr/invisible_playwright.git",
+    "homepage": "",
+    "size": 8899,
+    "stargazers_count": 632,
+    "watchers_count": 632,
+    "language": "Python",
+    "forks_count": 57,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1243638600,
+    "name": "markov-hedge-fund-method",
+    "owner": {
+      "id": 272205952,
+      "url": "https://api.github.com/users/jackson-video-resources",
+      "html_url": "https://github.com/jackson-video-resources",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272205952?v=4"
+    },
+    "html_url": "https://github.com/jackson-video-resources/markov-hedge-fund-method",
+    "description": "Markov regime detection skill + one-shot install prompt + Pine indicator. Companion to Quant Series video 1. Framework by Roan (@RohOnChain).",
+    "created_at": "2026-05-19T14:22:02Z",
+    "updated_at": "2026-05-20T12:52:54Z",
+    "pushed_at": "2026-05-20T11:21:27Z",
+    "git_url": "git://github.com/jackson-video-resources/markov-hedge-fund-method.git",
+    "homepage": null,
+    "size": 71,
+    "stargazers_count": 60,
+    "watchers_count": 60,
+    "language": "Python",
+    "forks_count": 32,
+    "open_issues_count": 0
   }
 ]
