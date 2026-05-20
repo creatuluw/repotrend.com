@@ -42249,5 +42249,51 @@
     "language": "Python",
     "forks_count": 32,
     "open_issues_count": 0
+  },
+  {
+    "id": 1239594204,
+    "name": "clawpatch",
+    "owner": {
+      "id": 252820863,
+      "url": "https://api.github.com/users/openclaw",
+      "html_url": "https://github.com/openclaw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/252820863?v=4"
+    },
+    "html_url": "https://github.com/openclaw/clawpatch",
+    "description": "Review code. Patch bugs. Land PRs.",
+    "created_at": "2026-05-15T08:43:03Z",
+    "updated_at": "2026-05-20T12:21:17Z",
+    "pushed_at": "2026-05-20T11:43:18Z",
+    "git_url": "git://github.com/openclaw/clawpatch.git",
+    "homepage": "https://clawpatch.ai",
+    "size": 1411,
+    "stargazers_count": 587,
+    "watchers_count": 587,
+    "language": "TypeScript",
+    "forks_count": 84,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1241100055,
+    "name": "renewlet",
+    "owner": {
+      "id": 16408285,
+      "url": "https://api.github.com/users/zhiyingzzhou",
+      "html_url": "https://github.com/zhiyingzzhou",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16408285?v=4"
+    },
+    "html_url": "https://github.com/zhiyingzzhou/renewlet",
+    "description": "Self-hosted subscription tracker for recurring renewals, with timezone-aware reminders, six notification channels, budgets, and spending insights.",
+    "created_at": "2026-05-17T00:39:48Z",
+    "updated_at": "2026-05-19T13:44:04Z",
+    "pushed_at": "2026-05-20T12:34:57Z",
+    "git_url": "git://github.com/zhiyingzzhou/renewlet.git",
+    "homepage": "",
+    "size": 5888,
+    "stargazers_count": 68,
+    "watchers_count": 68,
+    "language": "TypeScript",
+    "forks_count": 9,
+    "open_issues_count": 1
   }
 ]
