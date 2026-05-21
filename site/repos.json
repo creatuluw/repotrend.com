@@ -42709,5 +42709,51 @@
     "language": "JavaScript",
     "forks_count": 23,
     "open_issues_count": 1
+  },
+  {
+    "id": 1241627469,
+    "name": "rbxfpsunlocker-boost-More-240FPS",
+    "owner": {
+      "id": 95230486,
+      "url": "https://api.github.com/users/Sunislazi",
+      "html_url": "https://github.com/Sunislazi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95230486?v=4"
+    },
+    "html_url": "https://github.com/Sunislazi/rbxfpsunlocker-boost-More-240FPS",
+    "description": "rbxfpsunlocker Roblox FPS BOOST: Roblox FPS unlocker download free More 240 FPS, uncap 60 FPS limit, axst GitHub source code, high refresh rate monitor, Roblox client lag fix, Byfron Hyperion anti-cheat compatibility, safe to use ban status, settings.ini configuration, rfu.exe not working error, ClientAppSettings json,bloxtstrap fps unlocke",
+    "created_at": "2026-05-17T16:13:25Z",
+    "updated_at": "2026-05-20T18:53:29Z",
+    "pushed_at": "2026-05-17T16:28:23Z",
+    "git_url": "git://github.com/Sunislazi/rbxfpsunlocker-boost-More-240FPS.git",
+    "homepage": "",
+    "size": 17,
+    "stargazers_count": 582,
+    "watchers_count": 582,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1243499752,
+    "name": "remotion-ad-video-skill",
+    "owner": {
+      "id": 246395685,
+      "url": "https://api.github.com/users/leosssvip-dot",
+      "html_url": "https://github.com/leosssvip-dot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246395685?v=4"
+    },
+    "html_url": "https://github.com/leosssvip-dot/remotion-ad-video-skill",
+    "description": "Create Remotion ad video projects from a URL with an AI coding agent, no video-generation AI required.",
+    "created_at": "2026-05-19T11:56:23Z",
+    "updated_at": "2026-05-21T07:03:29Z",
+    "pushed_at": "2026-05-21T06:05:05Z",
+    "git_url": "git://github.com/leosssvip-dot/remotion-ad-video-skill.git",
+    "homepage": null,
+    "size": 20682,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "JavaScript",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
