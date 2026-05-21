@@ -42525,5 +42525,51 @@
     "language": "Python",
     "forks_count": 8,
     "open_issues_count": 0
+  },
+  {
+    "id": 1237975140,
+    "name": "yuzu-emu",
+    "owner": {
+      "id": 65268289,
+      "url": "https://api.github.com/users/pedrodg28",
+      "html_url": "https://github.com/pedrodg28",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65268289?v=4"
+    },
+    "html_url": "https://github.com/pedrodg28/yuzu-emu",
+    "description": "Yuzu Emulator Switch Nintendo Pokemon Scarlet Violet, Mario Kart 8 Deluxe, firmware 18.1.0, prod.keys, shader stutter fix, FPS++ mod, save file importer, amiibo bin, motion control setup, local wireless LDN, multicore, handheld mode, docked mode, custom resolution, Joy-Con drift fix.",
+    "created_at": "2026-05-13T17:32:38Z",
+    "updated_at": "2026-05-21T00:50:53Z",
+    "pushed_at": "2026-05-13T17:45:49Z",
+    "git_url": "git://github.com/pedrodg28/yuzu-emu.git",
+    "homepage": "",
+    "size": 59,
+    "stargazers_count": 651,
+    "watchers_count": 651,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1242496284,
+    "name": "tech-interview-handbook",
+    "owner": {
+      "id": 8975742,
+      "url": "https://api.github.com/users/julianommartins",
+      "html_url": "https://github.com/julianommartins",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8975742?v=4"
+    },
+    "html_url": "https://github.com/julianommartins/tech-interview-handbook",
+    "description": "Um guia honesto sobre entrevistas técnicas, system design e senioridade em engenharia de software, baseado em padrões observados ao longo de centenas de entrevistas reais.",
+    "created_at": "2026-05-18T13:31:33Z",
+    "updated_at": "2026-05-20T17:50:02Z",
+    "pushed_at": "2026-05-18T14:24:33Z",
+    "git_url": "git://github.com/julianommartins/tech-interview-handbook.git",
+    "homepage": null,
+    "size": 23,
+    "stargazers_count": 91,
+    "watchers_count": 91,
+    "language": null,
+    "forks_count": 7,
+    "open_issues_count": 0
   }
 ]
