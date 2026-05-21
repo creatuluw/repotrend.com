@@ -42433,5 +42433,51 @@
     "language": "JavaScript",
     "forks_count": 15,
     "open_issues_count": 3
+  },
+  {
+    "id": 1236044976,
+    "name": "XHTTP-Installer",
+    "owner": {
+      "id": 280159435,
+      "url": "https://api.github.com/users/avacocloud",
+      "html_url": "https://github.com/avacocloud",
+      "avatar_url": "https://avatars.githubusercontent.com/u/280159435?v=4"
+    },
+    "html_url": "https://github.com/avacocloud/XHTTP-Installer",
+    "description": "VLESS+XHTTP+TLS Auto-Installer for Ubuntu — Vercel / Netlify relay",
+    "created_at": "2026-05-11T22:41:33Z",
+    "updated_at": "2026-05-20T18:45:38Z",
+    "pushed_at": "2026-05-14T21:51:45Z",
+    "git_url": "git://github.com/avacocloud/XHTTP-Installer.git",
+    "homepage": null,
+    "size": 4734,
+    "stargazers_count": 665,
+    "watchers_count": 665,
+    "language": "HTML",
+    "forks_count": 142,
+    "open_issues_count": 9
+  },
+  {
+    "id": 1244535704,
+    "name": "Warzone-Cheat-2026",
+    "owner": {
+      "id": 271789288,
+      "url": "https://api.github.com/users/CoxswainMattock",
+      "html_url": "https://github.com/CoxswainMattock",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271789288?v=4"
+    },
+    "html_url": "https://github.com/CoxswainMattock/Warzone-Cheat-2026",
+    "description": "Warzone Tool | External Aimbot ESP | Wallhack Triggerbot NoRecoil | UAV Radar | Speedhack BunnyHop | HWID Spoofer Undetected | 2026 Latest Season",
+    "created_at": "2026-05-20T11:04:10Z",
+    "updated_at": "2026-05-20T11:40:10Z",
+    "pushed_at": "2026-05-20T11:04:26Z",
+    "git_url": "git://github.com/CoxswainMattock/Warzone-Cheat-2026.git",
+    "homepage": "",
+    "size": 3,
+    "stargazers_count": 78,
+    "watchers_count": 78,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
