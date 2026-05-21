@@ -42571,5 +42571,51 @@
     "language": null,
     "forks_count": 7,
     "open_issues_count": 0
+  },
+  {
+    "id": 1236483524,
+    "name": "KMS-Tools-Portable-2026-Last-Version",
+    "owner": {
+      "id": 279138837,
+      "url": "https://api.github.com/users/TriangleFalcon",
+      "html_url": "https://github.com/TriangleFalcon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279138837?v=4"
+    },
+    "html_url": "https://github.com/TriangleFalcon/KMS-Tools-Portable-2026-Last-Version",
+    "description": "⭐️ KMS-Tools-Portable | Activation Tool Suite | Keygen License Manager | Patch Installer v4.0 | Full Version Setup | Pre-Activated Premium Build | Mod Loader Utility | Latest Windows 11 x64 | Desktop Application for Software Activation | Direct Download Genuine Original ⭐️",
+    "created_at": "2026-05-12T09:37:05Z",
+    "updated_at": "2026-05-20T11:29:30Z",
+    "pushed_at": "2026-05-20T11:29:26Z",
+    "git_url": "git://github.com/TriangleFalcon/KMS-Tools-Portable-2026-Last-Version.git",
+    "homepage": "",
+    "size": 14,
+    "stargazers_count": 777,
+    "watchers_count": 777,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1241290856,
+    "name": "type-review",
+    "owner": {
+      "id": 152970,
+      "url": "https://api.github.com/users/xiaolai",
+      "html_url": "https://github.com/xiaolai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/152970?v=4"
+    },
+    "html_url": "https://github.com/xiaolai/type-review",
+    "description": "TYPE — adaptive typing practice that lives in your browser. Live at https://type.review",
+    "created_at": "2026-05-17T07:34:55Z",
+    "updated_at": "2026-05-20T17:35:22Z",
+    "pushed_at": "2026-05-18T05:02:01Z",
+    "git_url": "git://github.com/xiaolai/type-review.git",
+    "homepage": "https://type.review",
+    "size": 3536,
+    "stargazers_count": 79,
+    "watchers_count": 79,
+    "language": "TypeScript",
+    "forks_count": 16,
+    "open_issues_count": 2
   }
 ]
