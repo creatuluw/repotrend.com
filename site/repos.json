@@ -42893,5 +42893,51 @@
     "language": "Python",
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1219230064,
+    "name": "hackingtool-plugin",
+    "owner": {
+      "id": 43763415,
+      "url": "https://api.github.com/users/AKCodez",
+      "html_url": "https://github.com/AKCodez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43763415?v=4"
+    },
+    "html_url": "https://github.com/AKCodez/hackingtool-plugin",
+    "description": "Claude Code plugin: 183+ pentesting & OSINT tools from Z4nzu/hackingtool. Auto-runs what it can, hands off the rest.",
+    "created_at": "2026-04-23T17:01:04Z",
+    "updated_at": "2026-05-21T12:42:23Z",
+    "pushed_at": "2026-04-25T16:32:05Z",
+    "git_url": "git://github.com/AKCodez/hackingtool-plugin.git",
+    "homepage": null,
+    "size": 1059,
+    "stargazers_count": 613,
+    "watchers_count": 613,
+    "language": "Python",
+    "forks_count": 141,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1243326074,
+    "name": "stainful",
+    "owner": {
+      "id": 109842185,
+      "url": "https://api.github.com/users/stainlu",
+      "html_url": "https://github.com/stainlu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109842185?v=4"
+    },
+    "html_url": "https://github.com/stainlu/stainful",
+    "description": "The open-source Stainless — point your existing stainless.yml at it and get the same idiomatic Python SDK. Zero migration. No SaaS.",
+    "created_at": "2026-05-19T08:37:26Z",
+    "updated_at": "2026-05-21T12:52:02Z",
+    "pushed_at": "2026-05-21T09:22:54Z",
+    "git_url": "git://github.com/stainlu/stainful.git",
+    "homepage": null,
+    "size": 1565,
+    "stargazers_count": 78,
+    "watchers_count": 78,
+    "language": "Python",
+    "forks_count": 8,
+    "open_issues_count": 1
   }
 ]
