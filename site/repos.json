@@ -42847,5 +42847,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 1
+  },
+  {
+    "id": 1241656776,
+    "name": "hydra-launcher",
+    "owner": {
+      "id": 125897715,
+      "url": "https://api.github.com/users/arnabchoudhury404",
+      "html_url": "https://github.com/arnabchoudhury404",
+      "avatar_url": "https://avatars.githubusercontent.com/u/125897715?v=4"
+    },
+    "html_url": "https://github.com/arnabchoudhury404/hydra-launcher",
+    "description": "hydralauncher: Hydra Launcher download free PC library  fontes links baixar , hydralauncher github,  trusted sources url list, steam verde download, hydralauncher github source code, no download available hydra launcher fix. Embedded bittorrent client setup, repack scraper json megathread, hydra cloud save files sync, python rpc server error",
+    "created_at": "2026-05-17T16:54:12Z",
+    "updated_at": "2026-05-20T18:54:09Z",
+    "pushed_at": "2026-05-17T17:00:19Z",
+    "git_url": "git://github.com/arnabchoudhury404/hydra-launcher.git",
+    "homepage": "",
+    "size": 10,
+    "stargazers_count": 586,
+    "watchers_count": 586,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1241233912,
+    "name": "SherlockMaps",
+    "owner": {
+      "id": 71553466,
+      "url": "https://api.github.com/users/Ayyouboss0011",
+      "html_url": "https://github.com/Ayyouboss0011",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71553466?v=4"
+    },
+    "html_url": "https://github.com/Ayyouboss0011/SherlockMaps",
+    "description": "Powerful Google Maps Crawler / Scraper tool with REST API, Docker support & multi-format export",
+    "created_at": "2026-05-17T05:54:12Z",
+    "updated_at": "2026-05-20T16:58:57Z",
+    "pushed_at": "2026-05-19T00:21:04Z",
+    "git_url": "git://github.com/Ayyouboss0011/SherlockMaps.git",
+    "homepage": "",
+    "size": 619,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 0
   }
 ]
