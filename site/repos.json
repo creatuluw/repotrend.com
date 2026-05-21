@@ -42801,5 +42801,51 @@
     "language": null,
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1221068421,
+    "name": "Nova-Proxy-App",
+    "owner": {
+      "id": 226289179,
+      "url": "https://api.github.com/users/IRNova",
+      "html_url": "https://github.com/IRNova",
+      "avatar_url": "https://avatars.githubusercontent.com/u/226289179?v=4"
+    },
+    "html_url": "https://github.com/IRNova/Nova-Proxy-App",
+    "description": "نوا پروکسی - ابزار پروکسی محلی قدرتمند با قابلیت‌های GSA (Google Apps Script) با Domain Fronting، تکه‌تکه‌سازی TLS، تزریق ECH، بازپخش QUIC، MITM و مسیریابی هوشمند. طراحی شده برای عبور از فیلترینگ سنگین و DPI پیشرفته.",
+    "created_at": "2026-04-25T17:57:46Z",
+    "updated_at": "2026-05-21T13:02:44Z",
+    "pushed_at": "2026-05-17T17:23:54Z",
+    "git_url": "git://github.com/IRNova/Nova-Proxy-App.git",
+    "homepage": "",
+    "size": 30266,
+    "stargazers_count": 581,
+    "watchers_count": 581,
+    "language": "Go",
+    "forks_count": 90,
+    "open_issues_count": 35
+  },
+  {
+    "id": 1242016095,
+    "name": "SWIM",
+    "owner": {
+      "id": 194887136,
+      "url": "https://api.github.com/users/HumanMLLM",
+      "html_url": "https://github.com/HumanMLLM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/194887136?v=4"
+    },
+    "html_url": "https://github.com/HumanMLLM/SWIM",
+    "description": "Official Code for See What I Mean: Aligning Vision and Language Representations for Video Fine-grained Object Understanding (CVPR 2026)",
+    "created_at": "2026-05-18T03:55:19Z",
+    "updated_at": "2026-05-20T18:44:17Z",
+    "pushed_at": "2026-05-20T12:35:26Z",
+    "git_url": "git://github.com/HumanMLLM/SWIM.git",
+    "homepage": "",
+    "size": 19306,
+    "stargazers_count": 75,
+    "watchers_count": 75,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1
   }
 ]
