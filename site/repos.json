@@ -42617,5 +42617,51 @@
     "language": "TypeScript",
     "forks_count": 16,
     "open_issues_count": 2
+  },
+  {
+    "id": 1227920501,
+    "name": "stemdeck",
+    "owner": {
+      "id": 284003876,
+      "url": "https://api.github.com/users/stemdeckapp",
+      "html_url": "https://github.com/stemdeckapp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/284003876?v=4"
+    },
+    "html_url": "https://github.com/stemdeckapp/stemdeck",
+    "description": "Stemdeck is an modern stem extraction platform for musicians,producers and hobbyists, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface",
+    "created_at": "2026-05-03T10:51:20Z",
+    "updated_at": "2026-05-20T18:03:22Z",
+    "pushed_at": "2026-05-20T11:13:50Z",
+    "git_url": "git://github.com/stemdeckapp/stemdeck.git",
+    "homepage": "",
+    "size": 7428,
+    "stargazers_count": 598,
+    "watchers_count": 598,
+    "language": "JavaScript",
+    "forks_count": 73,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1244224873,
+    "name": "injectrc",
+    "owner": {
+      "id": 56485584,
+      "url": "https://api.github.com/users/5ec1cff",
+      "html_url": "https://github.com/5ec1cff",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56485584?v=4"
+    },
+    "html_url": "https://github.com/5ec1cff/injectrc",
+    "description": null,
+    "created_at": "2026-05-20T04:34:17Z",
+    "updated_at": "2026-05-21T00:09:53Z",
+    "pushed_at": "2026-05-20T10:39:11Z",
+    "git_url": "git://github.com/5ec1cff/injectrc.git",
+    "homepage": null,
+    "size": 65,
+    "stargazers_count": 55,
+    "watchers_count": 55,
+    "language": "C++",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
