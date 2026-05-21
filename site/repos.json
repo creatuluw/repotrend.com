@@ -42663,5 +42663,51 @@
     "language": "C++",
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1225178950,
+    "name": "anysearch-skill",
+    "owner": {
+      "id": 271186954,
+      "url": "https://api.github.com/users/anysearch-ai",
+      "html_url": "https://github.com/anysearch-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271186954?v=4"
+    },
+    "html_url": "https://github.com/anysearch-ai/anysearch-skill",
+    "description": "Unified real-time search engine skill for AI agents. ",
+    "created_at": "2026-04-30T02:55:36Z",
+    "updated_at": "2026-05-21T07:21:17Z",
+    "pushed_at": "2026-05-19T06:14:16Z",
+    "git_url": "git://github.com/anysearch-ai/anysearch-skill.git",
+    "homepage": "https://www.anysearch.com/",
+    "size": 85,
+    "stargazers_count": 675,
+    "watchers_count": 675,
+    "language": "Python",
+    "forks_count": 69,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1241258726,
+    "name": "agent-browser-runtime",
+    "owner": {
+      "id": 34472578,
+      "url": "https://api.github.com/users/energypantry",
+      "html_url": "https://github.com/energypantry",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34472578?v=4"
+    },
+    "html_url": "https://github.com/energypantry/agent-browser-runtime",
+    "description": null,
+    "created_at": "2026-05-17T06:43:23Z",
+    "updated_at": "2026-05-20T17:04:13Z",
+    "pushed_at": "2026-05-20T18:03:10Z",
+    "git_url": "git://github.com/energypantry/agent-browser-runtime.git",
+    "homepage": null,
+    "size": 443,
+    "stargazers_count": 71,
+    "watchers_count": 71,
+    "language": "JavaScript",
+    "forks_count": 23,
+    "open_issues_count": 1
   }
 ]
