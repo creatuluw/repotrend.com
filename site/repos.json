@@ -42755,5 +42755,51 @@
     "language": "JavaScript",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1241671828,
+    "name": "ROM-MGBA-Pokemon-Emulator-PC",
+    "owner": {
+      "id": 46368738,
+      "url": "https://api.github.com/users/Flizorules05",
+      "html_url": "https://github.com/Flizorules05",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46368738?v=4"
+    },
+    "html_url": "https://github.com/Flizorules05/ROM-MGBA-Pokemon-Emulator-PC",
+    "description": "ROM Emulator Pokemon mGBA eden emulator eden emulator switch 2: download GBA NDS 3DS Switch games, android APK, MelonDS setup guide, Citra Pokemon X Y, Ryujinx Scarlet Violet ROM hack, Pokemon Emerald Randomizer download. Safe ROMs site, Action Replay cheat codes, GameShark codes FireRed, real time clock RTC error fix, trade evolution",
+    "created_at": "2026-05-17T17:15:30Z",
+    "updated_at": "2026-05-20T18:54:30Z",
+    "pushed_at": "2026-05-17T17:33:45Z",
+    "git_url": "git://github.com/Flizorules05/ROM-MGBA-Pokemon-Emulator-PC.git",
+    "homepage": "",
+    "size": 5,
+    "stargazers_count": 586,
+    "watchers_count": 586,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1241454291,
+    "name": "huashu-weread",
+    "owner": {
+      "id": 127714341,
+      "url": "https://api.github.com/users/alchaincyf",
+      "html_url": "https://github.com/alchaincyf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
+    },
+    "html_url": "https://github.com/alchaincyf/huashu-weread",
+    "description": "微信读书高阶顾问 · 在官方 weread skill 之上加一层「读书顾问的工作流」· 书架+笔记交叉分析 · 4 个 workflow (advisor/path/alchemy/review) · Made by 花叔",
+    "created_at": "2026-05-17T12:12:02Z",
+    "updated_at": "2026-05-20T16:02:46Z",
+    "pushed_at": "2026-05-17T12:12:06Z",
+    "git_url": "git://github.com/alchaincyf/huashu-weread.git",
+    "homepage": null,
+    "size": 34,
+    "stargazers_count": 70,
+    "watchers_count": 70,
+    "language": null,
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
