@@ -43054,5 +43054,51 @@
     "language": "Jupyter Notebook",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1242450421,
+    "name": "wallpaper-engine-steam",
+    "owner": {
+      "id": 36497547,
+      "url": "https://api.github.com/users/xw7872081123",
+      "html_url": "https://github.com/xw7872081123",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36497547?v=4"
+    },
+    "html_url": "https://github.com/xw7872081123/wallpaper-engine-steam",
+    "description": "Free Wallpaper Engine Steam: download PC windows 11, steam workshop downloader bypass, high CPU RAM usage fix, android apk mobile sync. 4k anime live wallpaper, black screen crash on startup, corsair icue razer chroma integration, ui32.exe error solution, scene web wallpaper, mobile connection pin, custom playlist screensaver, ",
+    "created_at": "2026-05-18T12:44:49Z",
+    "updated_at": "2026-05-22T00:57:33Z",
+    "pushed_at": "2026-05-18T12:50:58Z",
+    "git_url": "git://github.com/xw7872081123/wallpaper-engine-steam.git",
+    "homepage": "",
+    "size": 9,
+    "stargazers_count": 617,
+    "watchers_count": 617,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1244820597,
+    "name": "Identification-of-Tamil-Dialects-Using-Wav2Vec-2.0-",
+    "owner": {
+      "id": 221390241,
+      "url": "https://api.github.com/users/Inbatamilan18",
+      "html_url": "https://github.com/Inbatamilan18",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221390241?v=4"
+    },
+    "html_url": "https://github.com/Inbatamilan18/Identification-of-Tamil-Dialects-Using-Wav2Vec-2.0-",
+    "description": null,
+    "created_at": "2026-05-20T16:20:41Z",
+    "updated_at": "2026-05-21T11:28:31Z",
+    "pushed_at": "2026-05-21T08:55:21Z",
+    "git_url": "git://github.com/Inbatamilan18/Identification-of-Tamil-Dialects-Using-Wav2Vec-2.0-.git",
+    "homepage": null,
+    "size": 12,
+    "stargazers_count": 55,
+    "watchers_count": 55,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
