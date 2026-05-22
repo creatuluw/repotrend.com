@@ -43192,5 +43192,51 @@
     "language": "JavaScript",
     "forks_count": 12,
     "open_issues_count": 0
+  },
+  {
+    "id": 1232897321,
+    "name": "stackprism",
+    "owner": {
+      "id": 73606411,
+      "url": "https://api.github.com/users/setube",
+      "html_url": "https://github.com/setube",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73606411?v=4"
+    },
+    "html_url": "https://github.com/setube/stackprism",
+    "description": "StackPrism是一款用于检测网页技术栈的浏览器插件。",
+    "created_at": "2026-05-08T11:40:48Z",
+    "updated_at": "2026-05-22T09:13:37Z",
+    "pushed_at": "2026-05-22T09:13:32Z",
+    "git_url": "git://github.com/setube/stackprism.git",
+    "homepage": "https://stackprism.wenzi.games/",
+    "size": 10501,
+    "stargazers_count": 543,
+    "watchers_count": 543,
+    "language": "TypeScript",
+    "forks_count": 36,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1245540410,
+    "name": "boris-prompts",
+    "owner": {
+      "id": 44161003,
+      "url": "https://api.github.com/users/LingyiChen-AI",
+      "html_url": "https://github.com/LingyiChen-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44161003?v=4"
+    },
+    "html_url": "https://github.com/LingyiChen-AI/boris-prompts",
+    "description": "boris-prompts",
+    "created_at": "2026-05-21T10:11:51Z",
+    "updated_at": "2026-05-21T18:43:12Z",
+    "pushed_at": "2026-05-21T11:04:19Z",
+    "git_url": "git://github.com/LingyiChen-AI/boris-prompts.git",
+    "homepage": null,
+    "size": 14,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": null,
+    "forks_count": 8,
+    "open_issues_count": 0
   }
 ]
