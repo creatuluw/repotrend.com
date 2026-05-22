@@ -42985,5 +42985,74 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1235834494,
+    "name": "OrcaSlicer-bambulab",
+    "owner": {
+      "id": 223959643,
+      "url": "https://api.github.com/users/FULU-Foundation",
+      "html_url": "https://github.com/FULU-Foundation",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223959643?v=4"
+    },
+    "html_url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+    "description": null,
+    "created_at": "2026-05-11T17:44:55Z",
+    "updated_at": "2026-05-22T00:36:27Z",
+    "pushed_at": "2026-05-12T18:58:00Z",
+    "git_url": "git://github.com/FULU-Foundation/OrcaSlicer-bambulab.git",
+    "homepage": null,
+    "size": 124818,
+    "stargazers_count": 6276,
+    "watchers_count": 6276,
+    "language": "C++",
+    "forks_count": 4894,
+    "open_issues_count": 26
+  },
+  {
+    "id": 1225005463,
+    "name": "antigravity-sdk-python",
+    "owner": {
+      "id": 242056456,
+      "url": "https://api.github.com/users/google-antigravity",
+      "html_url": "https://github.com/google-antigravity",
+      "avatar_url": "https://avatars.githubusercontent.com/u/242056456?v=4"
+    },
+    "html_url": "https://github.com/google-antigravity/antigravity-sdk-python",
+    "description": null,
+    "created_at": "2026-04-29T21:12:19Z",
+    "updated_at": "2026-05-22T00:58:09Z",
+    "pushed_at": "2026-05-20T22:41:09Z",
+    "git_url": "git://github.com/google-antigravity/antigravity-sdk-python.git",
+    "homepage": null,
+    "size": 910,
+    "stargazers_count": 709,
+    "watchers_count": 709,
+    "language": "Python",
+    "forks_count": 132,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1241324658,
+    "name": "LSTM-Next-Word-Predictor",
+    "owner": {
+      "id": 234152143,
+      "url": "https://api.github.com/users/rakeshbtechx-rx",
+      "html_url": "https://github.com/rakeshbtechx-rx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/234152143?v=4"
+    },
+    "html_url": "https://github.com/rakeshbtechx-rx/LSTM-Next-Word-Predictor",
+    "description": null,
+    "created_at": "2026-05-17T08:35:54Z",
+    "updated_at": "2026-05-17T17:28:11Z",
+    "pushed_at": "2026-05-17T09:01:36Z",
+    "git_url": "git://github.com/rakeshbtechx-rx/LSTM-Next-Word-Predictor.git",
+    "homepage": null,
+    "size": 2703,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
