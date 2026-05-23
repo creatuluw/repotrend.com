@@ -43606,5 +43606,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1235175101,
+    "name": "gpt-promo-scanner",
+    "owner": {
+      "id": 236887312,
+      "url": "https://api.github.com/users/JUk1-GH",
+      "html_url": "https://github.com/JUk1-GH",
+      "avatar_url": "https://avatars.githubusercontent.com/u/236887312?v=4"
+    },
+    "html_url": "https://github.com/JUk1-GH/gpt-promo-scanner",
+    "description": "ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% off",
+    "created_at": "2026-05-11T04:42:18Z",
+    "updated_at": "2026-05-22T12:22:05Z",
+    "pushed_at": "2026-05-15T08:41:27Z",
+    "git_url": "git://github.com/JUk1-GH/gpt-promo-scanner.git",
+    "homepage": null,
+    "size": 211,
+    "stargazers_count": 547,
+    "watchers_count": 547,
+    "language": "Python",
+    "forks_count": 112,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1245459746,
+    "name": "openxiv",
+    "owner": {
+      "id": 226167042,
+      "url": "https://api.github.com/users/davidichalfyorov-wq",
+      "html_url": "https://github.com/davidichalfyorov-wq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/226167042?v=4"
+    },
+    "html_url": "https://github.com/davidichalfyorov-wq/openxiv",
+    "description": "OpenXiv is an AT Protocol preprint server with source-based submissions, public provenance, typed endorsements, OAI-PMH, and Bluesky federation.",
+    "created_at": "2026-05-21T08:38:02Z",
+    "updated_at": "2026-05-22T08:28:31Z",
+    "pushed_at": "2026-05-21T14:50:02Z",
+    "git_url": "git://github.com/davidichalfyorov-wq/openxiv.git",
+    "homepage": "https://openxiv.net",
+    "size": 1331,
+    "stargazers_count": 56,
+    "watchers_count": 56,
+    "language": "TypeScript",
+    "forks_count": 6,
+    "open_issues_count": 0
   }
 ]
