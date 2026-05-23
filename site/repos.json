@@ -43422,5 +43422,51 @@
     "language": "JavaScript",
     "forks_count": 10,
     "open_issues_count": 0
+  },
+  {
+    "id": 1234380117,
+    "name": "WhiteDNS",
+    "owner": {
+      "id": 7813872,
+      "url": "https://api.github.com/users/iampedii",
+      "html_url": "https://github.com/iampedii",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7813872?v=4"
+    },
+    "html_url": "https://github.com/iampedii/WhiteDNS",
+    "description": "Source-available Android DNS tunneling client with VPN and proxy modes, backed by MasterDNS & StormDNS.",
+    "created_at": "2026-05-10T05:27:42Z",
+    "updated_at": "2026-05-22T19:23:35Z",
+    "pushed_at": "2026-05-20T14:56:58Z",
+    "git_url": "git://github.com/iampedii/WhiteDNS.git",
+    "homepage": "https://t.me/whitedns",
+    "size": 24984,
+    "stargazers_count": 545,
+    "watchers_count": 545,
+    "language": "Kotlin",
+    "forks_count": 46,
+    "open_issues_count": 29
+  },
+  {
+    "id": 1245893763,
+    "name": "Gemini-app-windows",
+    "owner": {
+      "id": 227835647,
+      "url": "https://api.github.com/users/BlueSharks-apps",
+      "html_url": "https://github.com/BlueSharks-apps",
+      "avatar_url": "https://avatars.githubusercontent.com/u/227835647?v=4"
+    },
+    "html_url": "https://github.com/BlueSharks-apps/Gemini-app-windows",
+    "description": "chatgpt google gemini pro ai flash 3.5 app windows  download pc google ai desktop client windows 11 10 official application free exe install shortcut workspace chat assistant",
+    "created_at": "2026-05-21T16:59:30Z",
+    "updated_at": "2026-05-22T11:29:46Z",
+    "pushed_at": "2026-05-21T17:04:17Z",
+    "git_url": "git://github.com/BlueSharks-apps/Gemini-app-windows.git",
+    "homepage": "",
+    "size": 173,
+    "stargazers_count": 92,
+    "watchers_count": 92,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 1
   }
 ]
