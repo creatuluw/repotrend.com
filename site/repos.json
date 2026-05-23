@@ -43698,5 +43698,51 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1231291764,
+    "name": "AI-Engineering-Coach",
+    "owner": {
+      "id": 6154722,
+      "url": "https://api.github.com/users/microsoft",
+      "html_url": "https://github.com/microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+    },
+    "html_url": "https://github.com/microsoft/AI-Engineering-Coach",
+    "description": "better agentic engineering",
+    "created_at": "2026-05-06T20:27:16Z",
+    "updated_at": "2026-05-23T18:20:29Z",
+    "pushed_at": "2026-05-23T14:30:16Z",
+    "git_url": "git://github.com/microsoft/AI-Engineering-Coach.git",
+    "homepage": null,
+    "size": 3771,
+    "stargazers_count": 684,
+    "watchers_count": 684,
+    "language": "TypeScript",
+    "forks_count": 94,
+    "open_issues_count": 20
+  },
+  {
+    "id": 1246600517,
+    "name": "gsd-pi",
+    "owner": {
+      "id": 286935422,
+      "url": "https://api.github.com/users/open-gsd",
+      "html_url": "https://github.com/open-gsd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/286935422?v=4"
+    },
+    "html_url": "https://github.com/open-gsd/gsd-pi",
+    "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture",
+    "created_at": "2026-05-22T11:03:33Z",
+    "updated_at": "2026-05-23T17:59:30Z",
+    "pushed_at": "2026-05-23T17:51:38Z",
+    "git_url": "git://github.com/open-gsd/gsd-pi.git",
+    "homepage": "https://www.opengsd.net",
+    "size": 59991,
+    "stargazers_count": 71,
+    "watchers_count": 71,
+    "language": "TypeScript",
+    "forks_count": 8,
+    "open_issues_count": 10
   }
 ]
