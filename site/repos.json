@@ -43376,5 +43376,51 @@
     "language": null,
     "forks_count": 19,
     "open_issues_count": 1
+  },
+  {
+    "id": 1219424489,
+    "name": "link-cli",
+    "owner": {
+      "id": 856813,
+      "url": "https://api.github.com/users/stripe",
+      "html_url": "https://github.com/stripe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/856813?v=4"
+    },
+    "html_url": "https://github.com/stripe/link-cli",
+    "description": "Let your agents spend on your behalf. Your payment credentials are never exposed. You approve every purchase.",
+    "created_at": "2026-04-23T21:33:50Z",
+    "updated_at": "2026-05-22T18:30:22Z",
+    "pushed_at": "2026-05-22T15:50:45Z",
+    "git_url": "git://github.com/stripe/link-cli.git",
+    "homepage": "https://link.com/agents",
+    "size": 375,
+    "stargazers_count": 534,
+    "watchers_count": 534,
+    "language": "TypeScript",
+    "forks_count": 44,
+    "open_issues_count": 10
+  },
+  {
+    "id": 1243744340,
+    "name": "qiaomu-userscripts",
+    "owner": {
+      "id": 3236682,
+      "url": "https://api.github.com/users/joeseesun",
+      "html_url": "https://github.com/joeseesun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3236682?v=4"
+    },
+    "html_url": "https://github.com/joeseesun/qiaomu-userscripts",
+    "description": "Tampermonkey userscripts for WeChat, Douyin, and X content workflows",
+    "created_at": "2026-05-19T16:12:42Z",
+    "updated_at": "2026-05-22T15:08:44Z",
+    "pushed_at": "2026-05-20T05:47:23Z",
+    "git_url": "git://github.com/joeseesun/qiaomu-userscripts.git",
+    "homepage": null,
+    "size": 184,
+    "stargazers_count": 78,
+    "watchers_count": 78,
+    "language": "JavaScript",
+    "forks_count": 10,
+    "open_issues_count": 0
   }
 ]
