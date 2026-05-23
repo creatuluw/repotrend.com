@@ -43468,5 +43468,51 @@
     "language": "C#",
     "forks_count": 0,
     "open_issues_count": 1
+  },
+  {
+    "id": 1228169468,
+    "name": "ProgramBench",
+    "owner": {
+      "id": 16943930,
+      "url": "https://api.github.com/users/facebookresearch",
+      "html_url": "https://github.com/facebookresearch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16943930?v=4"
+    },
+    "html_url": "https://github.com/facebookresearch/ProgramBench",
+    "description": "Can Language Models Rebuild Programs From Scratch?",
+    "created_at": "2026-05-03T17:26:54Z",
+    "updated_at": "2026-05-22T23:25:45Z",
+    "pushed_at": "2026-05-21T14:38:59Z",
+    "git_url": "git://github.com/facebookresearch/ProgramBench.git",
+    "homepage": "https://programbench.com",
+    "size": 3697,
+    "stargazers_count": 641,
+    "watchers_count": 641,
+    "language": "Python",
+    "forks_count": 44,
+    "open_issues_count": 9
+  },
+  {
+    "id": 1246910714,
+    "name": "paralives-release",
+    "owner": {
+      "id": 105334258,
+      "url": "https://api.github.com/users/Qwilxy",
+      "html_url": "https://github.com/Qwilxy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105334258?v=4"
+    },
+    "html_url": "https://github.com/Qwilxy/paralives-release",
+    "description": "paralives release date early access steam download pc windows 11 gameplay trailer paramaker life simulation sims alternative free updates system requirements character creator build mode ",
+    "created_at": "2026-05-22T17:34:07Z",
+    "updated_at": "2026-05-23T00:55:23Z",
+    "pushed_at": "2026-05-22T17:39:30Z",
+    "git_url": "git://github.com/Qwilxy/paralives-release.git",
+    "homepage": "",
+    "size": 173,
+    "stargazers_count": 87,
+    "watchers_count": 87,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
