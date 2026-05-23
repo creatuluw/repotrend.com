@@ -43514,5 +43514,51 @@
     "language": "C#",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1239459771,
+    "name": "Lance",
+    "owner": {
+      "id": 4158466,
+      "url": "https://api.github.com/users/bytedance",
+      "html_url": "https://github.com/bytedance",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4158466?v=4"
+    },
+    "html_url": "https://github.com/bytedance/Lance",
+    "description": "A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing.",
+    "created_at": "2026-05-15T05:42:08Z",
+    "updated_at": "2026-05-22T18:02:23Z",
+    "pushed_at": "2026-05-22T18:03:11Z",
+    "git_url": "git://github.com/bytedance/Lance.git",
+    "homepage": "https://lance-project.github.io",
+    "size": 104084,
+    "stargazers_count": 758,
+    "watchers_count": 758,
+    "language": "Python",
+    "forks_count": 40,
+    "open_issues_count": 11
+  },
+  {
+    "id": 1246341681,
+    "name": "recaptcha",
+    "owner": {
+      "id": 108831238,
+      "url": "https://api.github.com/users/elyelysiox",
+      "html_url": "https://github.com/elyelysiox",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108831238?v=4"
+    },
+    "html_url": "https://github.com/elyelysiox/recaptcha",
+    "description": "Documentation and reverse engineering of reCAPTCHA",
+    "created_at": "2026-05-22T05:26:53Z",
+    "updated_at": "2026-05-23T00:54:52Z",
+    "pushed_at": "2026-05-22T07:15:38Z",
+    "git_url": "git://github.com/elyelysiox/recaptcha.git",
+    "homepage": null,
+    "size": 550,
+    "stargazers_count": 76,
+    "watchers_count": 76,
+    "language": "JavaScript",
+    "forks_count": 11,
+    "open_issues_count": 0
   }
 ]
