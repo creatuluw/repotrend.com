@@ -43652,5 +43652,51 @@
     "language": "TypeScript",
     "forks_count": 6,
     "open_issues_count": 0
+  },
+  {
+    "id": 1225427533,
+    "name": "re_gent",
+    "owner": {
+      "id": 280647561,
+      "url": "https://api.github.com/users/regent-vcs",
+      "html_url": "https://github.com/regent-vcs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/280647561?v=4"
+    },
+    "html_url": "https://github.com/regent-vcs/re_gent",
+    "description": "Version-Control for AI coding agents.",
+    "created_at": "2026-04-30T09:09:41Z",
+    "updated_at": "2026-05-23T00:45:32Z",
+    "pushed_at": "2026-05-20T13:23:33Z",
+    "git_url": "git://github.com/regent-vcs/re_gent.git",
+    "homepage": "https://re-gent.dev",
+    "size": 29767,
+    "stargazers_count": 584,
+    "watchers_count": 584,
+    "language": "Go",
+    "forks_count": 42,
+    "open_issues_count": 29
+  },
+  {
+    "id": 1246899645,
+    "name": "cheat-engine-7.5",
+    "owner": {
+      "id": 201273783,
+      "url": "https://api.github.com/users/CEOHarvey242",
+      "html_url": "https://github.com/CEOHarvey242",
+      "avatar_url": "https://avatars.githubusercontent.com/u/201273783?v=4"
+    },
+    "html_url": "https://github.com/CEOHarvey242/cheat-engine-7.5",
+    "description": "cheat engine 7.5  github  tables download pc windows 11 cheat tables forza horizon 6  elden ring  ct file memory scanner speedhack trainer maker",
+    "created_at": "2026-05-22T17:19:54Z",
+    "updated_at": "2026-05-23T00:54:49Z",
+    "pushed_at": "2026-05-22T17:24:42Z",
+    "git_url": "git://github.com/CEOHarvey242/cheat-engine-7.5.git",
+    "homepage": "",
+    "size": 9,
+    "stargazers_count": 91,
+    "watchers_count": 91,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
