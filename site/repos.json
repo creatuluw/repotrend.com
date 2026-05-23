@@ -43744,5 +43744,51 @@
     "language": "TypeScript",
     "forks_count": 8,
     "open_issues_count": 10
+  },
+  {
+    "id": 1231342524,
+    "name": "LUKSbox",
+    "owner": {
+      "id": 59710120,
+      "url": "https://api.github.com/users/PentHertz",
+      "html_url": "https://github.com/PentHertz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59710120?v=4"
+    },
+    "html_url": "https://github.com/PentHertz/LUKSbox",
+    "description": "Store sensitive files in the cloud, or on shared media without trusting the host. LUKSbox is a Rust-based encrypted-container tool with passphrase, FIDO2 (YubiKey, Titan, Nitrokey, Windows Hello), TPM 2.0, and hybrid post-quantum (ML-KEM-768 / 1024) keyslots. Mounts as a real drive on Linux, macOS, and Windows.",
+    "created_at": "2026-05-06T21:47:11Z",
+    "updated_at": "2026-05-22T15:56:32Z",
+    "pushed_at": "2026-05-22T15:57:28Z",
+    "git_url": "git://github.com/PentHertz/LUKSbox.git",
+    "homepage": "https://luksbox.penthertz.com",
+    "size": 4585,
+    "stargazers_count": 529,
+    "watchers_count": 529,
+    "language": "Rust",
+    "forks_count": 45,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1246440874,
+    "name": "Ableton-Live-12",
+    "owner": {
+      "id": 279141068,
+      "url": "https://api.github.com/users/SnowComplete9",
+      "html_url": "https://github.com/SnowComplete9",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279141068?v=4"
+    },
+    "html_url": "https://github.com/SnowComplete9/Ableton-Live-12",
+    "description": "⭐️ Ableton Live 12 | Session View | Arrangement View | MIDI & Audio Effects | Max for Live | Stem Separation | Generative MIDI Tools | Tuning Systems | Hybrid Reverb | All Unblocked Version | Meld & Roar Synths | Auto Shift & Drum Sampler ⭐️",
+    "created_at": "2026-05-22T07:38:27Z",
+    "updated_at": "2026-05-23T15:48:29Z",
+    "pushed_at": "2026-05-23T15:48:25Z",
+    "git_url": "git://github.com/SnowComplete9/Ableton-Live-12.git",
+    "homepage": "",
+    "size": 7,
+    "stargazers_count": 96,
+    "watchers_count": 96,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
