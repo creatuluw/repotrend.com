@@ -43882,5 +43882,51 @@
     "language": "Python",
     "forks_count": 7,
     "open_issues_count": 1
+  },
+  {
+    "id": 1241990700,
+    "name": "HRM-Text",
+    "owner": {
+      "id": 188930505,
+      "url": "https://api.github.com/users/sapientinc",
+      "html_url": "https://github.com/sapientinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188930505?v=4"
+    },
+    "html_url": "https://github.com/sapientinc/HRM-Text",
+    "description": "HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.",
+    "created_at": "2026-05-18T03:10:52Z",
+    "updated_at": "2026-05-23T18:05:25Z",
+    "pushed_at": "2026-05-22T07:30:03Z",
+    "git_url": "git://github.com/sapientinc/HRM-Text.git",
+    "homepage": "",
+    "size": 3275,
+    "stargazers_count": 671,
+    "watchers_count": 671,
+    "language": "Python",
+    "forks_count": 61,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1244895146,
+    "name": "ComfyUI-Angelo",
+    "owner": {
+      "id": 110498357,
+      "url": "https://api.github.com/users/shootthesound",
+      "html_url": "https://github.com/shootthesound",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110498357?v=4"
+    },
+    "html_url": "https://github.com/shootthesound/ComfyUI-Angelo",
+    "description": "Click-to-refine + smart inpaint sampler node for ComfyUI (FLUX 2 Klein). One node: generate, then click / paint / drag to refine, or do location-guided whole-image edits.",
+    "created_at": "2026-05-20T17:51:27Z",
+    "updated_at": "2026-05-22T16:53:42Z",
+    "pushed_at": "2026-05-22T16:57:30Z",
+    "git_url": "git://github.com/shootthesound/ComfyUI-Angelo.git",
+    "homepage": null,
+    "size": 14644,
+    "stargazers_count": 62,
+    "watchers_count": 62,
+    "language": "JavaScript",
+    "forks_count": 7,
+    "open_issues_count": 7
   }
 ]
