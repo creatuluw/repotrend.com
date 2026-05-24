@@ -43836,5 +43836,51 @@
     "language": "Python",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1230179862,
+    "name": "aio-downloader",
+    "owner": {
+      "id": 84266320,
+      "url": "https://api.github.com/users/ProAlit",
+      "html_url": "https://github.com/ProAlit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84266320?v=4"
+    },
+    "html_url": "https://github.com/ProAlit/aio-downloader",
+    "description": "regain your freedom and break gfw!",
+    "created_at": "2026-05-05T18:53:30Z",
+    "updated_at": "2026-05-23T18:17:11Z",
+    "pushed_at": "2026-05-23T17:15:18Z",
+    "git_url": "git://github.com/ProAlit/aio-downloader.git",
+    "homepage": "",
+    "size": 17472594,
+    "stargazers_count": 527,
+    "watchers_count": 527,
+    "language": null,
+    "forks_count": 1299,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1244359466,
+    "name": "tg-watchbot",
+    "owner": {
+      "id": 102417826,
+      "url": "https://api.github.com/users/GongyiChuren",
+      "html_url": "https://github.com/GongyiChuren",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102417826?v=4"
+    },
+    "html_url": "https://github.com/GongyiChuren/tg-watchbot",
+    "description": "Tg-Watchbot��Telegram 双向对话 Bot + 网页关键词推送 + 可视化面板",
+    "created_at": "2026-05-20T07:35:59Z",
+    "updated_at": "2026-05-23T12:50:20Z",
+    "pushed_at": "2026-05-23T08:59:59Z",
+    "git_url": "git://github.com/GongyiChuren/tg-watchbot.git",
+    "homepage": "",
+    "size": 400,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": "Python",
+    "forks_count": 7,
+    "open_issues_count": 1
   }
 ]
