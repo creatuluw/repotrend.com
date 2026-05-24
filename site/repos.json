@@ -44020,5 +44020,51 @@
     "language": "Rust",
     "forks_count": 7,
     "open_issues_count": 1
+  },
+  {
+    "id": 1219468224,
+    "name": "Zoo-Code",
+    "owner": {
+      "id": 278826416,
+      "url": "https://api.github.com/users/Zoo-Code-Org",
+      "html_url": "https://github.com/Zoo-Code-Org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/278826416?v=4"
+    },
+    "html_url": "https://github.com/Zoo-Code-Org/Zoo-Code",
+    "description": "Zoo Code gives you a whole dev team of AI agents in your code editor.",
+    "created_at": "2026-04-23T22:57:48Z",
+    "updated_at": "2026-05-23T16:57:02Z",
+    "pushed_at": "2026-05-23T16:46:00Z",
+    "git_url": "git://github.com/Zoo-Code-Org/Zoo-Code.git",
+    "homepage": "https://www.zoocode.dev",
+    "size": 383607,
+    "stargazers_count": 548,
+    "watchers_count": 548,
+    "language": "TypeScript",
+    "forks_count": 53,
+    "open_issues_count": 135
+  },
+  {
+    "id": 1245461700,
+    "name": "directional-prompting",
+    "owner": {
+      "id": 127834715,
+      "url": "https://api.github.com/users/kingbootoshi",
+      "html_url": "https://github.com/kingbootoshi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127834715?v=4"
+    },
+    "html_url": "https://github.com/kingbootoshi/directional-prompting",
+    "description": "Outcome-first plus directional language. A two-layer skill for writing prompts, agent directives, and skill descriptions. Works in Claude Code and Codex CLI.",
+    "created_at": "2026-05-21T08:40:18Z",
+    "updated_at": "2026-05-24T12:34:26Z",
+    "pushed_at": "2026-05-21T08:40:21Z",
+    "git_url": "git://github.com/kingbootoshi/directional-prompting.git",
+    "homepage": null,
+    "size": 2088,
+    "stargazers_count": 95,
+    "watchers_count": 95,
+    "language": null,
+    "forks_count": 8,
+    "open_issues_count": 6
   }
 ]
