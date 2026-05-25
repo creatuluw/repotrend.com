@@ -44365,5 +44365,51 @@
     "language": "TypeScript",
     "forks_count": 2038,
     "open_issues_count": 0
+  },
+  {
+    "id": 1230541272,
+    "name": "agent-skills-eval",
+    "owner": {
+      "id": 812474,
+      "url": "https://api.github.com/users/darkrishabh",
+      "html_url": "https://github.com/darkrishabh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/812474?v=4"
+    },
+    "html_url": "https://github.com/darkrishabh/agent-skills-eval",
+    "description": "A test runner for agentskills.io-style AI agent skills",
+    "created_at": "2026-05-06T05:10:29Z",
+    "updated_at": "2026-05-24T22:25:24Z",
+    "pushed_at": "2026-05-20T20:37:23Z",
+    "git_url": "git://github.com/darkrishabh/agent-skills-eval.git",
+    "homepage": "https://darkrishabh.github.io/agent-skills-eval/",
+    "size": 81,
+    "stargazers_count": 526,
+    "watchers_count": 526,
+    "language": "TypeScript",
+    "forks_count": 23,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1247425808,
+    "name": "polymarket-trading-bot",
+    "owner": {
+      "id": 287188670,
+      "url": "https://api.github.com/users/Quantum-Probability-Forge",
+      "html_url": "https://github.com/Quantum-Probability-Forge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/287188670?v=4"
+    },
+    "html_url": "https://github.com/Quantum-Probability-Forge/polymarket-trading-bot",
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot",
+    "created_at": "2026-05-23T09:50:22Z",
+    "updated_at": "2026-05-23T17:56:45Z",
+    "pushed_at": "2026-05-23T10:26:51Z",
+    "git_url": "git://github.com/Quantum-Probability-Forge/polymarket-trading-bot.git",
+    "homepage": null,
+    "size": 56,
+    "stargazers_count": 79,
+    "watchers_count": 79,
+    "language": "TypeScript",
+    "forks_count": 1235,
+    "open_issues_count": 0
   }
 ]
