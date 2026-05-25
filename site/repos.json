@@ -44319,5 +44319,51 @@
     "language": "TypeScript",
     "forks_count": 10,
     "open_issues_count": 2
+  },
+  {
+    "id": 1222638640,
+    "name": "LSFG-Android",
+    "owner": {
+      "id": 138036410,
+      "url": "https://api.github.com/users/FrankBarretta",
+      "html_url": "https://github.com/FrankBarretta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/138036410?v=4"
+    },
+    "html_url": "https://github.com/FrankBarretta/LSFG-Android",
+    "description": "Lossless Scaling Frames Generator (LSFG) Application for Android",
+    "created_at": "2026-04-27T15:01:51Z",
+    "updated_at": "2026-05-25T02:01:11Z",
+    "pushed_at": "2026-05-09T08:16:29Z",
+    "git_url": "git://github.com/FrankBarretta/LSFG-Android.git",
+    "homepage": null,
+    "size": 11,
+    "stargazers_count": 545,
+    "watchers_count": 545,
+    "language": null,
+    "forks_count": 36,
+    "open_issues_count": 84
+  },
+  {
+    "id": 1247425314,
+    "name": "polymarket-arbitrage-trading-bot",
+    "owner": {
+      "id": 287188952,
+      "url": "https://api.github.com/users/Signal-Market-Engine",
+      "html_url": "https://github.com/Signal-Market-Engine",
+      "avatar_url": "https://avatars.githubusercontent.com/u/287188952?v=4"
+    },
+    "html_url": "https://github.com/Signal-Market-Engine/polymarket-arbitrage-trading-bot",
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot",
+    "created_at": "2026-05-23T09:49:31Z",
+    "updated_at": "2026-05-23T17:56:45Z",
+    "pushed_at": "2026-05-23T14:15:31Z",
+    "git_url": "git://github.com/Signal-Market-Engine/polymarket-arbitrage-trading-bot.git",
+    "homepage": null,
+    "size": 20,
+    "stargazers_count": 79,
+    "watchers_count": 79,
+    "language": "TypeScript",
+    "forks_count": 2038,
+    "open_issues_count": 0
   }
 ]
