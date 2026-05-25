@@ -44181,5 +44181,51 @@
     "language": "JavaScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1231009237,
+    "name": "CodexSaver",
+    "owner": {
+      "id": 6284532,
+      "url": "https://api.github.com/users/fendouai",
+      "html_url": "https://github.com/fendouai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6284532?v=4"
+    },
+    "html_url": "https://github.com/fendouai/CodexSaver",
+    "description": "Make Codex cheaper without making it dumber with DeepSeek.",
+    "created_at": "2026-05-06T14:34:36Z",
+    "updated_at": "2026-05-24T23:29:16Z",
+    "pushed_at": "2026-05-20T13:42:44Z",
+    "git_url": "git://github.com/fendouai/CodexSaver.git",
+    "homepage": "",
+    "size": 1945,
+    "stargazers_count": 532,
+    "watchers_count": 532,
+    "language": "Python",
+    "forks_count": 36,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1246689833,
+    "name": "token-checker",
+    "owner": {
+      "id": 173223647,
+      "url": "https://api.github.com/users/otoha1119",
+      "html_url": "https://github.com/otoha1119",
+      "avatar_url": "https://avatars.githubusercontent.com/u/173223647?v=4"
+    },
+    "html_url": "https://github.com/otoha1119/token-checker",
+    "description": null,
+    "created_at": "2026-05-22T12:58:54Z",
+    "updated_at": "2026-05-24T23:29:23Z",
+    "pushed_at": "2026-05-24T11:07:42Z",
+    "git_url": "git://github.com/otoha1119/token-checker.git",
+    "homepage": null,
+    "size": 1385,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "Swift",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
