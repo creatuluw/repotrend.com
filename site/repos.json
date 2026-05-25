@@ -44112,5 +44112,74 @@
     "language": "Rust",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1220744720,
+    "name": "awesome-gpt-image-2",
+    "owner": {
+      "id": 43960064,
+      "url": "https://api.github.com/users/freestylefly",
+      "html_url": "https://github.com/freestylefly",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43960064?v=4"
+    },
+    "html_url": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，370+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+    "created_at": "2026-04-25T09:19:13Z",
+    "updated_at": "2026-05-24T18:23:33Z",
+    "pushed_at": "2026-05-24T13:34:39Z",
+    "git_url": "git://github.com/freestylefly/awesome-gpt-image-2.git",
+    "homepage": "https://gpt-image2.canghe.ai",
+    "size": 172988,
+    "stargazers_count": 6337,
+    "watchers_count": 6337,
+    "language": "JavaScript",
+    "forks_count": 854,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1241325722,
+    "name": "PaperSpine",
+    "owner": {
+      "id": 242776933,
+      "url": "https://api.github.com/users/WUBING2023",
+      "html_url": "https://github.com/WUBING2023",
+      "avatar_url": "https://avatars.githubusercontent.com/u/242776933?v=4"
+    },
+    "html_url": "https://github.com/WUBING2023/PaperSpine",
+    "description": "PaperSpine is a motivation-driven skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits.",
+    "created_at": "2026-05-17T08:37:31Z",
+    "updated_at": "2026-05-24T18:19:47Z",
+    "pushed_at": "2026-05-24T06:33:57Z",
+    "git_url": "git://github.com/WUBING2023/PaperSpine.git",
+    "homepage": "",
+    "size": 288,
+    "stargazers_count": 647,
+    "watchers_count": 647,
+    "language": "Python",
+    "forks_count": 25,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1247228015,
+    "name": "gutenberg-control-blocks-lite",
+    "owner": {
+      "id": 287131092,
+      "url": "https://api.github.com/users/wordpress-gcb",
+      "html_url": "https://github.com/wordpress-gcb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/287131092?v=4"
+    },
+    "html_url": "https://github.com/wordpress-gcb/gutenberg-control-blocks-lite",
+    "description": null,
+    "created_at": "2026-05-23T03:41:31Z",
+    "updated_at": "2026-05-24T14:55:52Z",
+    "pushed_at": "2026-05-24T14:55:49Z",
+    "git_url": "git://github.com/wordpress-gcb/gutenberg-control-blocks-lite.git",
+    "homepage": null,
+    "size": 573,
+    "stargazers_count": 64,
+    "watchers_count": 64,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
