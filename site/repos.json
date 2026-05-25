@@ -44411,5 +44411,74 @@
     "language": "TypeScript",
     "forks_count": 1235,
     "open_issues_count": 0
+  },
+  {
+    "id": 1172117787,
+    "name": "motrix-next",
+    "owner": {
+      "id": 62804262,
+      "url": "https://api.github.com/users/AnInsomniacy",
+      "html_url": "https://github.com/AnInsomniacy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62804262?v=4"
+    },
+    "html_url": "https://github.com/AnInsomniacy/motrix-next",
+    "description": "A full-featured download manager — rebuilt from the ground up",
+    "created_at": "2026-03-04T00:46:49Z",
+    "updated_at": "2026-05-25T12:32:45Z",
+    "pushed_at": "2026-05-25T12:01:37Z",
+    "git_url": "git://github.com/AnInsomniacy/motrix-next.git",
+    "homepage": "https://motrix-next.pages.dev",
+    "size": 231042,
+    "stargazers_count": 6305,
+    "watchers_count": 6305,
+    "language": "TypeScript",
+    "forks_count": 201,
+    "open_issues_count": 58
+  },
+  {
+    "id": 1246625636,
+    "name": "get-shit-done-redux",
+    "owner": {
+      "id": 286935422,
+      "url": "https://api.github.com/users/open-gsd",
+      "html_url": "https://github.com/open-gsd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/286935422?v=4"
+    },
+    "html_url": "https://github.com/open-gsd/get-shit-done-redux",
+    "description": "Getting Shit Done, the Aftermath",
+    "created_at": "2026-05-22T11:36:21Z",
+    "updated_at": "2026-05-25T13:13:58Z",
+    "pushed_at": "2026-05-25T13:01:08Z",
+    "git_url": "git://github.com/open-gsd/get-shit-done-redux.git",
+    "homepage": "https://github.com/gsd-redux/get-shit-done-redux/discussions/109",
+    "size": 21254,
+    "stargazers_count": 725,
+    "watchers_count": 725,
+    "language": "JavaScript",
+    "forks_count": 51,
+    "open_issues_count": 85
+  },
+  {
+    "id": 1247416412,
+    "name": "Todo-Tree-Next",
+    "owner": {
+      "id": 281925319,
+      "url": "https://api.github.com/users/real-Elysia886",
+      "html_url": "https://github.com/real-Elysia886",
+      "avatar_url": "https://avatars.githubusercontent.com/u/281925319?v=4"
+    },
+    "html_url": "https://github.com/real-Elysia886/Todo-Tree-Next",
+    "description": "Modern rewrite of Todo Tree — TypeScript + Rust architecture for blazing-fast TODO scanning in VS Code",
+    "created_at": "2026-05-23T09:33:41Z",
+    "updated_at": "2026-05-25T10:27:59Z",
+    "pushed_at": "2026-05-23T13:42:38Z",
+    "git_url": "git://github.com/real-Elysia886/Todo-Tree-Next.git",
+    "homepage": "",
+    "size": 2253,
+    "stargazers_count": 98,
+    "watchers_count": 98,
+    "language": "JavaScript",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
