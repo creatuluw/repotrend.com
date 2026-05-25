@@ -44066,5 +44066,51 @@
     "language": null,
     "forks_count": 8,
     "open_issues_count": 6
+  },
+  {
+    "id": 1221742654,
+    "name": "library-skills",
+    "owner": {
+      "id": 1326112,
+      "url": "https://api.github.com/users/tiangolo",
+      "html_url": "https://github.com/tiangolo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1326112?v=4"
+    },
+    "html_url": "https://github.com/tiangolo/library-skills",
+    "description": "Library Agent Skills",
+    "created_at": "2026-04-26T16:15:07Z",
+    "updated_at": "2026-05-23T15:30:56Z",
+    "pushed_at": "2026-05-24T14:55:01Z",
+    "git_url": "git://github.com/tiangolo/library-skills.git",
+    "homepage": null,
+    "size": 633,
+    "stargazers_count": 533,
+    "watchers_count": 533,
+    "language": "Python",
+    "forks_count": 31,
+    "open_issues_count": 10
+  },
+  {
+    "id": 1245356640,
+    "name": "handsets",
+    "owner": {
+      "id": 15275188,
+      "url": "https://api.github.com/users/elliotgao2",
+      "html_url": "https://github.com/elliotgao2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15275188?v=4"
+    },
+    "html_url": "https://github.com/elliotgao2/handsets",
+    "description": "A high-performance Android control CLI, built for agents and humans",
+    "created_at": "2026-05-21T06:33:33Z",
+    "updated_at": "2026-05-24T18:19:19Z",
+    "pushed_at": "2026-05-24T15:10:01Z",
+    "git_url": "git://github.com/elliotgao2/handsets.git",
+    "homepage": "https://handsets.dev",
+    "size": 1189,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": "Rust",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
