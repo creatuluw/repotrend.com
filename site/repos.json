@@ -44227,5 +44227,51 @@
     "language": "Swift",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1229774092,
+    "name": "Claude-BugHunter",
+    "owner": {
+      "id": 49252733,
+      "url": "https://api.github.com/users/elementalsouls",
+      "html_url": "https://github.com/elementalsouls",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49252733?v=4"
+    },
+    "html_url": "https://github.com/elementalsouls/Claude-BugHunter",
+    "description": "A Claude Code skill bundle for bug hunting and external red-team work - 51 skills, 15 slash commands, 574+ disclosed-report patterns curated across 24 vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+    "created_at": "2026-05-05T11:22:32Z",
+    "updated_at": "2026-05-24T18:28:06Z",
+    "pushed_at": "2026-05-21T17:49:29Z",
+    "git_url": "git://github.com/elementalsouls/Claude-BugHunter.git",
+    "homepage": "",
+    "size": 1658,
+    "stargazers_count": 602,
+    "watchers_count": 602,
+    "language": "Python",
+    "forks_count": 87,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1248165119,
+    "name": "Food-Donation-Platform",
+    "owner": {
+      "id": 219140479,
+      "url": "https://api.github.com/users/anandhi1086",
+      "html_url": "https://github.com/anandhi1086",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219140479?v=4"
+    },
+    "html_url": "https://github.com/anandhi1086/Food-Donation-Platform",
+    "description": "A Food Donation Platform is a web/mobile-based application developed to reduce food wastage and help needy people by connecting food donors with NGOs, volunteers, and shelters. The platform enables restaurants, hotels, supermarkets, and individuals to donate excess food quickly and efficiently.  ",
+    "created_at": "2026-05-24T09:17:49Z",
+    "updated_at": "2026-05-24T16:52:26Z",
+    "pushed_at": "2026-05-24T09:18:49Z",
+    "git_url": "git://github.com/anandhi1086/Food-Donation-Platform.git",
+    "homepage": null,
+    "size": 9,
+    "stargazers_count": 76,
+    "watchers_count": 76,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
