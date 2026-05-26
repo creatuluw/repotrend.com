@@ -44710,5 +44710,74 @@
     "language": "Swift",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1203503423,
+    "name": "clicky",
+    "owner": {
+      "id": 15614124,
+      "url": "https://api.github.com/users/farzaa",
+      "html_url": "https://github.com/farzaa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15614124?v=4"
+    },
+    "html_url": "https://github.com/farzaa/clicky",
+    "description": null,
+    "created_at": "2026-04-07T05:12:51Z",
+    "updated_at": "2026-05-26T07:23:07Z",
+    "pushed_at": "2026-04-28T19:33:33Z",
+    "git_url": "git://github.com/farzaa/clicky.git",
+    "homepage": null,
+    "size": 11104,
+    "stargazers_count": 6120,
+    "watchers_count": 6120,
+    "language": "Swift",
+    "forks_count": 1136,
+    "open_issues_count": 64
+  },
+  {
+    "id": 1227325025,
+    "name": "Skirk",
+    "owner": {
+      "id": 122942441,
+      "url": "https://api.github.com/users/ShahabSL",
+      "html_url": "https://github.com/ShahabSL",
+      "avatar_url": "https://avatars.githubusercontent.com/u/122942441?v=4"
+    },
+    "html_url": "https://github.com/ShahabSL/Skirk",
+    "description": "Socks over Google Drive.",
+    "created_at": "2026-05-02T14:25:45Z",
+    "updated_at": "2026-05-25T17:57:19Z",
+    "pushed_at": "2026-05-23T23:41:27Z",
+    "git_url": "git://github.com/ShahabSL/Skirk.git",
+    "homepage": null,
+    "size": 2387,
+    "stargazers_count": 718,
+    "watchers_count": 718,
+    "language": "Go",
+    "forks_count": 90,
+    "open_issues_count": 15
+  },
+  {
+    "id": 1247148919,
+    "name": "HelloKimi",
+    "owner": {
+      "id": 273903058,
+      "url": "https://api.github.com/users/Hello-Application-XH",
+      "html_url": "https://github.com/Hello-Application-XH",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273903058?v=4"
+    },
+    "html_url": "https://github.com/Hello-Application-XH/HelloKimi",
+    "description": "Kimi的 Cloudflare Worker 2API层，提供 OpenAI协议兼容接口，支持流式对话、Tools调用。无需配置，部署即用。",
+    "created_at": "2026-05-23T00:42:43Z",
+    "updated_at": "2026-05-26T05:56:20Z",
+    "pushed_at": "2026-05-25T13:40:04Z",
+    "git_url": "git://github.com/Hello-Application-XH/HelloKimi.git",
+    "homepage": null,
+    "size": 53,
+    "stargazers_count": 77,
+    "watchers_count": 77,
+    "language": "TypeScript",
+    "forks_count": 31,
+    "open_issues_count": 0
   }
 ]
