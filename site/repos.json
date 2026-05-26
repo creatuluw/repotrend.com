@@ -44664,5 +44664,51 @@
     "language": "PowerShell",
     "forks_count": 0,
     "open_issues_count": 1
+  },
+  {
+    "id": 1240673690,
+    "name": "Mega-ASR",
+    "owner": {
+      "id": 201621992,
+      "url": "https://api.github.com/users/xzf-thu",
+      "html_url": "https://github.com/xzf-thu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/201621992?v=4"
+    },
+    "html_url": "https://github.com/xzf-thu/Mega-ASR",
+    "description": "First foundation ASR built for the real world - 7 atomic acoustic conditions, 54 compound scenarios, 2.6M samples, and up to ~30% gains over SOTA where every other model falls apart. **You'll come back to MEGA-ASR, after the rest fail in the wild. ⭐**",
+    "created_at": "2026-05-16T12:28:56Z",
+    "updated_at": "2026-05-26T00:52:19Z",
+    "pushed_at": "2026-05-25T16:22:13Z",
+    "git_url": "git://github.com/xzf-thu/Mega-ASR.git",
+    "homepage": "https://xzf-thu.github.io/Mega-ASR/",
+    "size": 21382,
+    "stargazers_count": 585,
+    "watchers_count": 585,
+    "language": "Python",
+    "forks_count": 44,
+    "open_issues_count": 13
+  },
+  {
+    "id": 1247482929,
+    "name": "AI-experiments",
+    "owner": {
+      "id": 84037175,
+      "url": "https://api.github.com/users/mikelikesdesign",
+      "html_url": "https://github.com/mikelikesdesign",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84037175?v=4"
+    },
+    "html_url": "https://github.com/mikelikesdesign/AI-experiments",
+    "description": "Experiments on ways to utilize AI in applications",
+    "created_at": "2026-05-23T11:29:37Z",
+    "updated_at": "2026-05-25T20:12:45Z",
+    "pushed_at": "2026-05-25T14:07:45Z",
+    "git_url": "git://github.com/mikelikesdesign/AI-experiments.git",
+    "homepage": "",
+    "size": 237395,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": "Swift",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
