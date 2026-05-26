@@ -44572,5 +44572,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 1
+  },
+  {
+    "id": 1234460360,
+    "name": "Embodied-AI",
+    "owner": {
+      "id": 283347612,
+      "url": "https://api.github.com/users/Octoday-Hub",
+      "html_url": "https://github.com/Octoday-Hub",
+      "avatar_url": "https://avatars.githubusercontent.com/u/283347612?v=4"
+    },
+    "html_url": "https://github.com/Octoday-Hub/Embodied-AI",
+    "description": "星期八 Octoday 「具身智能知识索引与产业地图」",
+    "created_at": "2026-05-10T07:59:01Z",
+    "updated_at": "2026-05-25T17:09:47Z",
+    "pushed_at": "2026-05-10T18:21:10Z",
+    "git_url": "git://github.com/Octoday-Hub/Embodied-AI.git",
+    "homepage": "https://github.com/Octoday-Hub/Embodied-Al",
+    "size": 1875,
+    "stargazers_count": 541,
+    "watchers_count": 541,
+    "language": null,
+    "forks_count": 52,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1248187436,
+    "name": "threat-detection-",
+    "owner": {
+      "id": 178690853,
+      "url": "https://api.github.com/users/dayaa-hash",
+      "html_url": "https://github.com/dayaa-hash",
+      "avatar_url": "https://avatars.githubusercontent.com/u/178690853?v=4"
+    },
+    "html_url": "https://github.com/dayaa-hash/threat-detection-",
+    "description": null,
+    "created_at": "2026-05-24T09:57:44Z",
+    "updated_at": "2026-05-25T22:44:38Z",
+    "pushed_at": "2026-05-24T10:42:51Z",
+    "git_url": "git://github.com/dayaa-hash/threat-detection-.git",
+    "homepage": null,
+    "size": 28917,
+    "stargazers_count": 67,
+    "watchers_count": 67,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
