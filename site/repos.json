@@ -44871,5 +44871,51 @@
     "language": "Rust",
     "forks_count": 25,
     "open_issues_count": 0
+  },
+  {
+    "id": 1225188401,
+    "name": "knowhere",
+    "owner": {
+      "id": 244261442,
+      "url": "https://api.github.com/users/Ontos-AI",
+      "html_url": "https://github.com/Ontos-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/244261442?v=4"
+    },
+    "html_url": "https://github.com/Ontos-AI/knowhere",
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "created_at": "2026-04-30T03:13:10Z",
+    "updated_at": "2026-05-25T18:36:54Z",
+    "pushed_at": "2026-05-21T02:54:30Z",
+    "git_url": "git://github.com/Ontos-AI/knowhere.git",
+    "homepage": "https://knowhereto.ai",
+    "size": 138972,
+    "stargazers_count": 530,
+    "watchers_count": 530,
+    "language": "Python",
+    "forks_count": 57,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1247023760,
+    "name": "polymarket-arbitrage-trading-bot",
+    "owner": {
+      "id": 49436704,
+      "url": "https://api.github.com/users/md0070",
+      "html_url": "https://github.com/md0070",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49436704?v=4"
+    },
+    "html_url": "https://github.com/md0070/polymarket-arbitrage-trading-bot",
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot",
+    "created_at": "2026-05-22T20:20:54Z",
+    "updated_at": "2026-05-24T05:45:17Z",
+    "pushed_at": "2026-05-22T20:22:38Z",
+    "git_url": "git://github.com/md0070/polymarket-arbitrage-trading-bot.git",
+    "homepage": "",
+    "size": 20,
+    "stargazers_count": 79,
+    "watchers_count": 79,
+    "language": "TypeScript",
+    "forks_count": 3109,
+    "open_issues_count": 0
   }
 ]
