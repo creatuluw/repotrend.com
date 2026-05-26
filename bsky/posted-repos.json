@@ -4354,5 +4354,11 @@
     "name": "YSMParser",
     "html_url": "https://github.com/OpenYSM/YSMParser",
     "posted_at": "2026-05-25T17:28:55.798Z"
+  },
+  {
+    "id": 1186664179,
+    "name": "opencode-claude-auth",
+    "html_url": "https://github.com/griffinmartin/opencode-claude-auth",
+    "posted_at": "2026-05-26T02:58:25.835Z"
   }
 ]
