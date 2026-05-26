@@ -44526,5 +44526,51 @@
     "language": "Python",
     "forks_count": 11,
     "open_issues_count": 21
+  },
+  {
+    "id": 1239159840,
+    "name": "feishu-claude-code-bridge",
+    "owner": {
+      "id": 153693696,
+      "url": "https://api.github.com/users/zarazhangrui",
+      "html_url": "https://github.com/zarazhangrui",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153693696?v=4"
+    },
+    "html_url": "https://github.com/zarazhangrui/feishu-claude-code-bridge",
+    "description": "Bot that bridges Feishu/Lark messenger with a local Claude Code CLI — streaming cards, per-chat sessions, multiple workspaces",
+    "created_at": "2026-05-14T20:26:46Z",
+    "updated_at": "2026-05-26T00:52:31Z",
+    "pushed_at": "2026-05-25T12:32:21Z",
+    "git_url": "git://github.com/zarazhangrui/feishu-claude-code-bridge.git",
+    "homepage": null,
+    "size": 284,
+    "stargazers_count": 563,
+    "watchers_count": 563,
+    "language": "TypeScript",
+    "forks_count": 65,
+    "open_issues_count": 36
+  },
+  {
+    "id": 1247133163,
+    "name": "Lossless-Scaling",
+    "owner": {
+      "id": 273874408,
+      "url": "https://api.github.com/users/resonancegnatassess",
+      "html_url": "https://github.com/resonancegnatassess",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273874408?v=4"
+    },
+    "html_url": "https://github.com/resonancegnatassess/Lossless-Scaling",
+    "description": "Powerful upscaling and frame generation tool with LSFG technology for sharper visuals and higher FPS. One-command install.",
+    "created_at": "2026-05-23T00:03:21Z",
+    "updated_at": "2026-05-25T18:27:27Z",
+    "pushed_at": "2026-05-23T00:21:27Z",
+    "git_url": "git://github.com/resonancegnatassess/Lossless-Scaling.git",
+    "homepage": "",
+    "size": 18,
+    "stargazers_count": 96,
+    "watchers_count": 96,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1
   }
 ]
