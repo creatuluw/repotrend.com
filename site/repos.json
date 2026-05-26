@@ -44825,5 +44825,51 @@
     "language": "TypeScript",
     "forks_count": 6,
     "open_issues_count": 0
+  },
+  {
+    "id": 1238377818,
+    "name": "PsiphonOverMITM",
+    "owner": {
+      "id": 24478741,
+      "url": "https://api.github.com/users/B3hnamR",
+      "html_url": "https://github.com/B3hnamR",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24478741?v=4"
+    },
+    "html_url": "https://github.com/B3hnamR/PsiphonOverMITM",
+    "description": null,
+    "created_at": "2026-05-14T04:19:09Z",
+    "updated_at": "2026-05-25T17:13:02Z",
+    "pushed_at": "2026-05-14T10:31:14Z",
+    "git_url": "git://github.com/B3hnamR/PsiphonOverMITM.git",
+    "homepage": null,
+    "size": 30350,
+    "stargazers_count": 554,
+    "watchers_count": 554,
+    "language": "PowerShell",
+    "forks_count": 86,
+    "open_issues_count": 16
+  },
+  {
+    "id": 1247786593,
+    "name": "zap",
+    "owner": {
+      "id": 239617125,
+      "url": "https://api.github.com/users/bitan-del",
+      "html_url": "https://github.com/bitan-del",
+      "avatar_url": "https://avatars.githubusercontent.com/u/239617125?v=4"
+    },
+    "html_url": "https://github.com/bitan-del/zap",
+    "description": "Zap — high-performance CLI proxy that filters command output to save 60-90% AI tokens",
+    "created_at": "2026-05-23T19:26:12Z",
+    "updated_at": "2026-05-26T12:19:10Z",
+    "pushed_at": "2026-05-25T16:19:47Z",
+    "git_url": "git://github.com/bitan-del/zap.git",
+    "homepage": null,
+    "size": 606,
+    "stargazers_count": 55,
+    "watchers_count": 55,
+    "language": "Rust",
+    "forks_count": 25,
+    "open_issues_count": 0
   }
 ]
