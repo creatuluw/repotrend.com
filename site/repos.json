@@ -44917,5 +44917,51 @@
     "language": "TypeScript",
     "forks_count": 3109,
     "open_issues_count": 0
+  },
+  {
+    "id": 1232669890,
+    "name": "SkillOpt",
+    "owner": {
+      "id": 6154722,
+      "url": "https://api.github.com/users/microsoft",
+      "html_url": "https://github.com/microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+    },
+    "html_url": "https://github.com/microsoft/SkillOpt",
+    "description": "SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.",
+    "created_at": "2026-05-08T06:41:01Z",
+    "updated_at": "2026-05-27T01:01:42Z",
+    "pushed_at": "2026-05-26T08:12:52Z",
+    "git_url": "git://github.com/microsoft/SkillOpt.git",
+    "homepage": null,
+    "size": 22247,
+    "stargazers_count": 729,
+    "watchers_count": 729,
+    "language": "Python",
+    "forks_count": 63,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1247191108,
+    "name": "tts-prosody-probe",
+    "owner": {
+      "id": 255718388,
+      "url": "https://api.github.com/users/saadansha",
+      "html_url": "https://github.com/saadansha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/255718388?v=4"
+    },
+    "html_url": "https://github.com/saadansha/tts-prosody-probe",
+    "description": "Probe and compare the prosody (pitch / energy / duration) of TTS outputs.",
+    "created_at": "2026-05-23T02:20:32Z",
+    "updated_at": "2026-05-26T18:11:03Z",
+    "pushed_at": "2026-05-23T02:20:34Z",
+    "git_url": "git://github.com/saadansha/tts-prosody-probe.git",
+    "homepage": null,
+    "size": 9,
+    "stargazers_count": 87,
+    "watchers_count": 87,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
