@@ -45193,5 +45193,51 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1226211658,
+    "name": "molmoact2",
+    "owner": {
+      "id": 5667695,
+      "url": "https://api.github.com/users/allenai",
+      "html_url": "https://github.com/allenai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5667695?v=4"
+    },
+    "html_url": "https://github.com/allenai/molmoact2",
+    "description": "Official Repository for MolmoAct2",
+    "created_at": "2026-05-01T05:23:53Z",
+    "updated_at": "2026-05-26T18:07:35Z",
+    "pushed_at": "2026-05-24T22:06:33Z",
+    "git_url": "git://github.com/allenai/molmoact2.git",
+    "homepage": "https://allenai.org/blog/molmoact2",
+    "size": 180,
+    "stargazers_count": 542,
+    "watchers_count": 542,
+    "language": "Shell",
+    "forks_count": 18,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1248620768,
+    "name": "andrej-karpathy-skills",
+    "owner": {
+      "id": 108492647,
+      "url": "https://api.github.com/users/duolahypercho",
+      "html_url": "https://github.com/duolahypercho",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108492647?v=4"
+    },
+    "html_url": "https://github.com/duolahypercho/andrej-karpathy-skills",
+    "description": "Codex-first conversion of Karpathy-inspired coding agent guidelines.",
+    "created_at": "2026-05-24T21:59:28Z",
+    "updated_at": "2026-05-27T06:40:37Z",
+    "pushed_at": "2026-05-26T18:41:58Z",
+    "git_url": "git://github.com/duolahypercho/andrej-karpathy-skills.git",
+    "homepage": null,
+    "size": 66,
+    "stargazers_count": 71,
+    "watchers_count": 71,
+    "language": null,
+    "forks_count": 7,
+    "open_issues_count": 0
   }
 ]
