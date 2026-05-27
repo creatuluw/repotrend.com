@@ -45285,5 +45285,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1245361579,
+    "name": "wechatpay",
+    "owner": {
+      "id": 106264291,
+      "url": "https://api.github.com/users/run-liyi",
+      "html_url": "https://github.com/run-liyi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106264291?v=4"
+    },
+    "html_url": "https://github.com/run-liyi/wechatpay",
+    "description": "微信账单分析工具 - 基于Electron的可视化账单分析应用",
+    "created_at": "2026-05-21T06:40:00Z",
+    "updated_at": "2026-05-27T13:07:01Z",
+    "pushed_at": "2026-05-27T06:18:18Z",
+    "git_url": "git://github.com/run-liyi/wechatpay.git",
+    "homepage": null,
+    "size": 49,
+    "stargazers_count": 927,
+    "watchers_count": 927,
+    "language": "JavaScript",
+    "forks_count": 80,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1248315096,
+    "name": "vue-tui",
+    "owner": {
+      "id": 257730754,
+      "url": "https://api.github.com/users/vuejs-ai",
+      "html_url": "https://github.com/vuejs-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/257730754?v=4"
+    },
+    "html_url": "https://github.com/vuejs-ai/vue-tui",
+    "description": "Terminal UI framework built on Vue and Vite. Components, layout, focus, HMR, and testing out of the box.",
+    "created_at": "2026-05-24T13:35:45Z",
+    "updated_at": "2026-05-26T18:30:22Z",
+    "pushed_at": "2026-05-25T17:05:43Z",
+    "git_url": "git://github.com/vuejs-ai/vue-tui.git",
+    "homepage": null,
+    "size": 388,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 1
   }
 ]
