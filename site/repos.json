@@ -44963,5 +44963,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1242967652,
+    "name": "infinite-canvas",
+    "owner": {
+      "id": 114481029,
+      "url": "https://api.github.com/users/basketikun",
+      "html_url": "https://github.com/basketikun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/114481029?v=4"
+    },
+    "html_url": "https://github.com/basketikun/infinite-canvas",
+    "description": "面向AI创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、画布编排、对话助手、提示词库和素材管理等功能、兼容OpenAI接口，支持chatgpt2api、grok2api、flow2api、newapi等接入。",
+    "created_at": "2026-05-18T23:45:50Z",
+    "updated_at": "2026-05-26T18:54:02Z",
+    "pushed_at": "2026-05-26T08:06:21Z",
+    "git_url": "git://github.com/basketikun/infinite-canvas.git",
+    "homepage": "https://infinite-canvas-cpco.onrender.com/",
+    "size": 782,
+    "stargazers_count": 586,
+    "watchers_count": 586,
+    "language": "TypeScript",
+    "forks_count": 118,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1248067774,
+    "name": "BuddyTracker",
+    "owner": {
+      "id": 216832611,
+      "url": "https://api.github.com/users/aakash-ak0704",
+      "html_url": "https://github.com/aakash-ak0704",
+      "avatar_url": "https://avatars.githubusercontent.com/u/216832611?v=4"
+    },
+    "html_url": "https://github.com/aakash-ak0704/BuddyTracker",
+    "description": null,
+    "created_at": "2026-05-24T06:27:33Z",
+    "updated_at": "2026-05-26T15:41:56Z",
+    "pushed_at": "2026-05-24T06:37:29Z",
+    "git_url": "git://github.com/aakash-ak0704/BuddyTracker.git",
+    "homepage": null,
+    "size": 3,
+    "stargazers_count": 55,
+    "watchers_count": 55,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
