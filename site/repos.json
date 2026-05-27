@@ -45147,5 +45147,51 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1237570742,
+    "name": "FAROS",
+    "owner": {
+      "id": 284286314,
+      "url": "https://api.github.com/users/OpenNSWM-Lab",
+      "html_url": "https://github.com/OpenNSWM-Lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/284286314?v=4"
+    },
+    "html_url": "https://github.com/OpenNSWM-Lab/FAROS",
+    "description": null,
+    "created_at": "2026-05-13T09:56:01Z",
+    "updated_at": "2026-05-26T18:52:06Z",
+    "pushed_at": "2026-05-14T01:56:21Z",
+    "git_url": "git://github.com/OpenNSWM-Lab/FAROS.git",
+    "homepage": null,
+    "size": 2988,
+    "stargazers_count": 539,
+    "watchers_count": 539,
+    "language": "Python",
+    "forks_count": 91,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1249360394,
+    "name": "Polymarket-Automated-Trading-Bot",
+    "owner": {
+      "id": 111028002,
+      "url": "https://api.github.com/users/Ronesfe",
+      "html_url": "https://github.com/Ronesfe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111028002?v=4"
+    },
+    "html_url": "https://github.com/Ronesfe/Polymarket-Automated-Trading-Bot",
+    "description": "Automated trading bot for Polymarket prediction markets. Supports 4 strategies, optional AI integration, and full risk management.",
+    "created_at": "2026-05-25T16:07:05Z",
+    "updated_at": "2026-05-26T13:37:44Z",
+    "pushed_at": "2026-05-25T16:07:42Z",
+    "git_url": "git://github.com/Ronesfe/Polymarket-Automated-Trading-Bot.git",
+    "homepage": "",
+    "size": 44,
+    "stargazers_count": 77,
+    "watchers_count": 77,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
