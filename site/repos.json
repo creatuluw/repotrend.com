@@ -45055,5 +45055,51 @@
     "language": null,
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1237239472,
+    "name": "locoagent",
+    "owner": {
+      "id": 262364187,
+      "url": "https://api.github.com/users/LocoreMind",
+      "html_url": "https://github.com/LocoreMind",
+      "avatar_url": "https://avatars.githubusercontent.com/u/262364187?v=4"
+    },
+    "html_url": "https://github.com/LocoreMind/locoagent",
+    "description": "AI-powered social media agent with real browser automation",
+    "created_at": "2026-05-13T02:16:45Z",
+    "updated_at": "2026-05-27T00:51:53Z",
+    "pushed_at": "2026-05-15T06:07:49Z",
+    "git_url": "git://github.com/LocoreMind/locoagent.git",
+    "homepage": "https://locoremind.com/blog/locoagent",
+    "size": 9563,
+    "stargazers_count": 528,
+    "watchers_count": 528,
+    "language": "TypeScript",
+    "forks_count": 12,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1247916961,
+    "name": "ai-usagebar",
+    "owner": {
+      "id": 2840,
+      "url": "https://api.github.com/users/akitaonrails",
+      "html_url": "https://github.com/akitaonrails",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2840?v=4"
+    },
+    "html_url": "https://github.com/akitaonrails/ai-usagebar",
+    "description": "Rust-based waybar widget to monitor status of Claude, GPT, GLM, OpenRouter plans/credits - inspired by claudebar/codexbar",
+    "created_at": "2026-05-24T00:29:51Z",
+    "updated_at": "2026-05-27T00:41:28Z",
+    "pushed_at": "2026-05-26T14:11:29Z",
+    "git_url": "git://github.com/akitaonrails/ai-usagebar.git",
+    "homepage": null,
+    "size": 6788,
+    "stargazers_count": 62,
+    "watchers_count": 62,
+    "language": "Rust",
+    "forks_count": 13,
+    "open_issues_count": 0
   }
 ]
