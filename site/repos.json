@@ -45722,5 +45722,51 @@
     "language": "HTML",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1226917411,
+    "name": "CodexGuide",
+    "owner": {
+      "id": 43960064,
+      "url": "https://api.github.com/users/freestylefly",
+      "html_url": "https://github.com/freestylefly",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43960064?v=4"
+    },
+    "html_url": "https://github.com/freestylefly/CodexGuide",
+    "description": "CodexGuide：面向全球初学者、创作者、开发者与团队的 Codex 实践指南",
+    "created_at": "2026-05-02T01:14:54Z",
+    "updated_at": "2026-05-28T13:23:17Z",
+    "pushed_at": "2026-05-28T04:15:16Z",
+    "git_url": "git://github.com/freestylefly/CodexGuide.git",
+    "homepage": "https://codexguide.ai",
+    "size": 143736,
+    "stargazers_count": 661,
+    "watchers_count": 661,
+    "language": null,
+    "forks_count": 77,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1250678702,
+    "name": "Krisp-Studio-Echo-Kill",
+    "owner": {
+      "id": 69666700,
+      "url": "https://api.github.com/users/jkygspawn",
+      "html_url": "https://github.com/jkygspawn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69666700?v=4"
+    },
+    "html_url": "https://github.com/jkygspawn/Krisp-Studio-Echo-Kill",
+    "description": "Krisp Pro AI Noise Cancellation for Remote Streaming 2026 - Real Time Voice Clarity App",
+    "created_at": "2026-05-26T21:40:53Z",
+    "updated_at": "2026-05-28T11:34:56Z",
+    "pushed_at": "2026-05-28T11:34:52Z",
+    "git_url": "git://github.com/jkygspawn/Krisp-Studio-Echo-Kill.git",
+    "homepage": null,
+    "size": 41,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
