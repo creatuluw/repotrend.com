@@ -45676,5 +45676,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1241425259,
+    "name": "shushu-internship-tool",
+    "owner": {
+      "id": 225589786,
+      "url": "https://api.github.com/users/LiuMengxuan04",
+      "html_url": "https://github.com/LiuMengxuan04",
+      "avatar_url": "https://avatars.githubusercontent.com/u/225589786?v=4"
+    },
+    "html_url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
+    "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
+    "created_at": "2026-05-17T11:25:47Z",
+    "updated_at": "2026-05-27T17:04:07Z",
+    "pushed_at": "2026-05-21T13:02:00Z",
+    "git_url": "git://github.com/LiuMengxuan04/shushu-internship-tool.git",
+    "homepage": "",
+    "size": 67,
+    "stargazers_count": 570,
+    "watchers_count": 570,
+    "language": "Python",
+    "forks_count": 23,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1250680035,
+    "name": "Red-Giant-Trapcode-Toolkit-archive",
+    "owner": {
+      "id": 185771966,
+      "url": "https://api.github.com/users/ACHILLES-0",
+      "html_url": "https://github.com/ACHILLES-0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/185771966?v=4"
+    },
+    "html_url": "https://github.com/ACHILLES-0/Red-Giant-Trapcode-Toolkit-archive",
+    "description": "Maxon Red Giant Trapcode Suite Free Download 2026 Full Plugin Pack",
+    "created_at": "2026-05-26T21:43:07Z",
+    "updated_at": "2026-05-28T10:44:27Z",
+    "pushed_at": "2026-05-28T10:44:23Z",
+    "git_url": "git://github.com/ACHILLES-0/Red-Giant-Trapcode-Toolkit-archive.git",
+    "homepage": null,
+    "size": 39,
+    "stargazers_count": 56,
+    "watchers_count": 56,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
