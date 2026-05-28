@@ -45446,5 +45446,51 @@
     "language": null,
     "forks_count": 12,
     "open_issues_count": 1
+  },
+  {
+    "id": 1242719319,
+    "name": "centaur",
+    "owner": {
+      "id": 97369466,
+      "url": "https://api.github.com/users/paradigmxyz",
+      "html_url": "https://github.com/paradigmxyz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97369466?v=4"
+    },
+    "html_url": "https://github.com/paradigmxyz/centaur",
+    "description": "Multiplayer, self-hosted, secure agents.",
+    "created_at": "2026-05-18T17:30:29Z",
+    "updated_at": "2026-05-27T18:44:36Z",
+    "pushed_at": "2026-05-27T18:52:15Z",
+    "git_url": "git://github.com/paradigmxyz/centaur.git",
+    "homepage": "https://centaur.run",
+    "size": 30578,
+    "stargazers_count": 609,
+    "watchers_count": 609,
+    "language": "Python",
+    "forks_count": 80,
+    "open_issues_count": 44
+  },
+  {
+    "id": 1249699859,
+    "name": "libopus-wasm",
+    "owner": {
+      "id": 252820863,
+      "url": "https://api.github.com/users/openclaw",
+      "html_url": "https://github.com/openclaw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/252820863?v=4"
+    },
+    "html_url": "https://github.com/openclaw/libopus-wasm",
+    "description": "Small, modern WASM bindings for libopus raw packet encode/decode.",
+    "created_at": "2026-05-26T00:59:23Z",
+    "updated_at": "2026-05-27T16:14:58Z",
+    "pushed_at": "2026-05-26T22:33:29Z",
+    "git_url": "git://github.com/openclaw/libopus-wasm.git",
+    "homepage": "https://libopus-wasm.dev",
+    "size": 171,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
