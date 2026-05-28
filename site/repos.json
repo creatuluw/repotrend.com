@@ -45492,5 +45492,51 @@
     "language": "JavaScript",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1233418417,
+    "name": "bookorbit",
+    "owner": {
+      "id": 279911312,
+      "url": "https://api.github.com/users/bookorbit",
+      "html_url": "https://github.com/bookorbit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279911312?v=4"
+    },
+    "html_url": "https://github.com/bookorbit/bookorbit",
+    "description": "BookOrbit: Your Reading Space",
+    "created_at": "2026-05-09T00:04:37Z",
+    "updated_at": "2026-05-27T18:46:42Z",
+    "pushed_at": "2026-05-26T21:10:37Z",
+    "git_url": "git://github.com/bookorbit/bookorbit.git",
+    "homepage": "https://bookorbit.app",
+    "size": 31134,
+    "stargazers_count": 537,
+    "watchers_count": 537,
+    "language": "TypeScript",
+    "forks_count": 38,
+    "open_issues_count": 30
+  },
+  {
+    "id": 1248038466,
+    "name": "android-stream-desk",
+    "owner": {
+      "id": 41569332,
+      "url": "https://api.github.com/users/aniadev",
+      "html_url": "https://github.com/aniadev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41569332?v=4"
+    },
+    "html_url": "https://github.com/aniadev/android-stream-desk",
+    "description": "The repository for Android Stream Desk project",
+    "created_at": "2026-05-24T05:25:18Z",
+    "updated_at": "2026-05-27T18:47:00Z",
+    "pushed_at": "2026-05-27T09:27:19Z",
+    "git_url": "git://github.com/aniadev/android-stream-desk.git",
+    "homepage": null,
+    "size": 21814,
+    "stargazers_count": 55,
+    "watchers_count": 55,
+    "language": "Vue",
+    "forks_count": 13,
+    "open_issues_count": 0
   }
 ]
