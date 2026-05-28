@@ -45377,5 +45377,74 @@
     "language": "HTML",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1171949255,
+    "name": "OBLITERATUS",
+    "owner": {
+      "id": 133052465,
+      "url": "https://api.github.com/users/elder-plinius",
+      "html_url": "https://github.com/elder-plinius",
+      "avatar_url": "https://avatars.githubusercontent.com/u/133052465?v=4"
+    },
+    "html_url": "https://github.com/elder-plinius/OBLITERATUS",
+    "description": "OBLITERATE THE CHAINS THAT BIND YOU",
+    "created_at": "2026-03-03T19:37:51Z",
+    "updated_at": "2026-05-28T00:31:57Z",
+    "pushed_at": "2026-04-01T20:47:50Z",
+    "git_url": "git://github.com/elder-plinius/OBLITERATUS.git",
+    "homepage": "https://huggingface.co/spaces/pliny-the-prompter/",
+    "size": 682,
+    "stargazers_count": 5757,
+    "watchers_count": 5757,
+    "language": "Python",
+    "forks_count": 1100,
+    "open_issues_count": 29
+  },
+  {
+    "id": 1235604959,
+    "name": "GOD",
+    "owner": {
+      "id": 56611624,
+      "url": "https://api.github.com/users/XiaoLuoLYG",
+      "html_url": "https://github.com/XiaoLuoLYG",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56611624?v=4"
+    },
+    "html_url": "https://github.com/XiaoLuoLYG/GOD",
+    "description": "Govern, Observe, Direct - a real-time control room for agent societies",
+    "created_at": "2026-05-11T13:35:48Z",
+    "updated_at": "2026-05-27T23:44:31Z",
+    "pushed_at": "2026-05-27T11:02:16Z",
+    "git_url": "git://github.com/XiaoLuoLYG/GOD.git",
+    "homepage": "",
+    "size": 44244,
+    "stargazers_count": 523,
+    "watchers_count": 523,
+    "language": "Python",
+    "forks_count": 75,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1249360152,
+    "name": "Selene-TV",
+    "owner": {
+      "id": 226115334,
+      "url": "https://api.github.com/users/MoonTechLab",
+      "html_url": "https://github.com/MoonTechLab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/226115334?v=4"
+    },
+    "html_url": "https://github.com/MoonTechLab/Selene-TV",
+    "description": "以 MoonTV v100 版本 / Helios 为后端的 Android TV 客户端，针对遥控器设备优化",
+    "created_at": "2026-05-25T16:06:49Z",
+    "updated_at": "2026-05-27T17:48:03Z",
+    "pushed_at": "2026-05-27T16:55:22Z",
+    "git_url": "git://github.com/MoonTechLab/Selene-TV.git",
+    "homepage": null,
+    "size": 17175,
+    "stargazers_count": 68,
+    "watchers_count": 68,
+    "language": null,
+    "forks_count": 12,
+    "open_issues_count": 1
   }
 ]
