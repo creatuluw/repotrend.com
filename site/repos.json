@@ -45630,5 +45630,51 @@
     "language": "HTML",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1242316635,
+    "name": "humanize-text",
+    "owner": {
+      "id": 285635790,
+      "url": "https://api.github.com/users/lynote-ai",
+      "html_url": "https://github.com/lynote-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/285635790?v=4"
+    },
+    "html_url": "https://github.com/lynote-ai/humanize-text",
+    "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
+    "created_at": "2026-05-18T10:12:15Z",
+    "updated_at": "2026-05-27T17:32:30Z",
+    "pushed_at": "2026-05-27T03:10:49Z",
+    "git_url": "git://github.com/lynote-ai/humanize-text.git",
+    "homepage": "https://lynote.ai/ai-humanizer",
+    "size": 5307,
+    "stargazers_count": 827,
+    "watchers_count": 827,
+    "language": "Python",
+    "forks_count": 45,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1248958654,
+    "name": "AST-Guided-LLM-Code-Review_System",
+    "owner": {
+      "id": 177644271,
+      "url": "https://api.github.com/users/rahuldr556",
+      "html_url": "https://github.com/rahuldr556",
+      "avatar_url": "https://avatars.githubusercontent.com/u/177644271?v=4"
+    },
+    "html_url": "https://github.com/rahuldr556/AST-Guided-LLM-Code-Review_System",
+    "description": null,
+    "created_at": "2026-05-25T07:59:47Z",
+    "updated_at": "2026-05-27T06:39:11Z",
+    "pushed_at": "2026-05-25T08:14:46Z",
+    "git_url": "git://github.com/rahuldr556/AST-Guided-LLM-Code-Review_System.git",
+    "homepage": null,
+    "size": 156,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
