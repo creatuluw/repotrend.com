@@ -45538,5 +45538,51 @@
     "language": "Vue",
     "forks_count": 13,
     "open_issues_count": 0
+  },
+  {
+    "id": 1247201816,
+    "name": "awesome-architecture",
+    "owner": {
+      "id": 106414602,
+      "url": "https://api.github.com/users/study8677",
+      "html_url": "https://github.com/study8677",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106414602?v=4"
+    },
+    "html_url": "https://github.com/study8677/awesome-architecture",
+    "description": "🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. 中英文双语。",
+    "created_at": "2026-05-23T02:44:43Z",
+    "updated_at": "2026-05-27T18:48:48Z",
+    "pushed_at": "2026-05-27T06:25:15Z",
+    "git_url": "git://github.com/study8677/awesome-architecture.git",
+    "homepage": "",
+    "size": 1286,
+    "stargazers_count": 541,
+    "watchers_count": 541,
+    "language": "Vue",
+    "forks_count": 54,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1250676655,
+    "name": "Auslogics-SystemTune-Pro",
+    "owner": {
+      "id": 278659668,
+      "url": "https://api.github.com/users/Dev-Zeeshan-Qadir",
+      "html_url": "https://github.com/Dev-Zeeshan-Qadir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/278659668?v=4"
+    },
+    "html_url": "https://github.com/Dev-Zeeshan-Qadir/Auslogics-SystemTune-Pro",
+    "description": "Auslogics BoostSpeed Pro 2026 - All-in-One Windows PC Optimizer Kit",
+    "created_at": "2026-05-26T21:37:40Z",
+    "updated_at": "2026-05-28T05:59:55Z",
+    "pushed_at": "2026-05-28T05:59:52Z",
+    "git_url": "git://github.com/Dev-Zeeshan-Qadir/Auslogics-SystemTune-Pro.git",
+    "homepage": null,
+    "size": 38,
+    "stargazers_count": 56,
+    "watchers_count": 56,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
