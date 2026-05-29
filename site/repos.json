@@ -45975,5 +45975,51 @@
     "language": "C++",
     "forks_count": 10,
     "open_issues_count": 0
+  },
+  {
+    "id": 1225594874,
+    "name": "nano-world-model",
+    "owner": {
+      "id": 240366951,
+      "url": "https://api.github.com/users/simchowitzlabpublic",
+      "html_url": "https://github.com/simchowitzlabpublic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/240366951?v=4"
+    },
+    "html_url": "https://github.com/simchowitzlabpublic/nano-world-model",
+    "description": "A Minimalist, Batteries-included Repository for Advancing World Model Science.",
+    "created_at": "2026-04-30T12:47:25Z",
+    "updated_at": "2026-05-28T18:29:50Z",
+    "pushed_at": "2026-05-27T13:28:03Z",
+    "git_url": "git://github.com/simchowitzlabpublic/nano-world-model.git",
+    "homepage": "https://simchowitzlabpublic.github.io/nano-world-model/",
+    "size": 27414,
+    "stargazers_count": 546,
+    "watchers_count": 546,
+    "language": "Python",
+    "forks_count": 28,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1248568839,
+    "name": "Project-Onyx",
+    "owner": {
+      "id": 75887512,
+      "url": "https://api.github.com/users/X-3306",
+      "html_url": "https://github.com/X-3306",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75887512?v=4"
+    },
+    "html_url": "https://github.com/X-3306/Project-Onyx",
+    "description": "Advanced EDR Evasion via AI Telemetry Spoofing & WASM Sandboxing. Project Onyx is a PoC Red Team pipeline designed to demonstrate advanced evasion techniques against modern EDR systems. It shifts away from traditional signature-based obfuscation towards behavioral camouflage and strict environmental keying.",
+    "created_at": "2026-05-24T20:14:02Z",
+    "updated_at": "2026-05-27T18:25:58Z",
+    "pushed_at": "2026-05-24T21:28:12Z",
+    "git_url": "git://github.com/X-3306/Project-Onyx.git",
+    "homepage": "",
+    "size": 2278,
+    "stargazers_count": 78,
+    "watchers_count": 78,
+    "language": "C",
+    "forks_count": 11,
+    "open_issues_count": 0
   }
 ]
