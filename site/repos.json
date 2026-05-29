@@ -46021,5 +46021,51 @@
     "language": "C",
     "forks_count": 11,
     "open_issues_count": 0
+  },
+  {
+    "id": 1238193136,
+    "name": "blooket-hacks",
+    "owner": {
+      "id": 273874387,
+      "url": "https://api.github.com/users/PrimeKeeper58",
+      "html_url": "https://github.com/PrimeKeeper58",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273874387?v=4"
+    },
+    "html_url": "https://github.com/PrimeKeeper58/blooket-hacks",
+    "description": "blooket menu || blooket || blooket hacks",
+    "created_at": "2026-05-13T22:45:27Z",
+    "updated_at": "2026-05-28T18:40:42Z",
+    "pushed_at": "2026-05-21T00:22:46Z",
+    "git_url": "git://github.com/PrimeKeeper58/blooket-hacks.git",
+    "homepage": "",
+    "size": 19,
+    "stargazers_count": 533,
+    "watchers_count": 533,
+    "language": "JavaScript",
+    "forks_count": 5,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1251775733,
+    "name": "ian-xiaohei-illustrations",
+    "owner": {
+      "id": 89686060,
+      "url": "https://api.github.com/users/helloianneo",
+      "html_url": "https://github.com/helloianneo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89686060?v=4"
+    },
+    "html_url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
+    "description": "中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill",
+    "created_at": "2026-05-27T22:47:56Z",
+    "updated_at": "2026-05-28T18:33:27Z",
+    "pushed_at": "2026-05-28T00:17:12Z",
+    "git_url": "git://github.com/helloianneo/ian-xiaohei-illustrations.git",
+    "homepage": "https://ianneo.xyz",
+    "size": 13190,
+    "stargazers_count": 98,
+    "watchers_count": 98,
+    "language": null,
+    "forks_count": 23,
+    "open_issues_count": 0
   }
 ]
