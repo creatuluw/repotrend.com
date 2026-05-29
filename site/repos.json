@@ -46159,5 +46159,74 @@
     "language": "Python",
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1172781277,
+    "name": "gsap-skills",
+    "owner": {
+      "id": 2386673,
+      "url": "https://api.github.com/users/greensock",
+      "html_url": "https://github.com/greensock",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2386673?v=4"
+    },
+    "html_url": "https://github.com/greensock/gsap-skills",
+    "description": "Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage.",
+    "created_at": "2026-03-04T17:22:35Z",
+    "updated_at": "2026-05-29T18:48:00Z",
+    "pushed_at": "2026-04-21T23:47:09Z",
+    "git_url": "git://github.com/greensock/gsap-skills.git",
+    "homepage": "",
+    "size": 122,
+    "stargazers_count": 5856,
+    "watchers_count": 5856,
+    "language": null,
+    "forks_count": 375,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1235483809,
+    "name": "FinSight-AI",
+    "owner": {
+      "id": 212179655,
+      "url": "https://api.github.com/users/juanjuandog",
+      "html_url": "https://github.com/juanjuandog",
+      "avatar_url": "https://avatars.githubusercontent.com/u/212179655?v=4"
+    },
+    "html_url": "https://github.com/juanjuandog/FinSight-AI",
+    "description": "AI equity research agent with resilient workflows, Redis Lua single-flight, pgvector RAG, versioned reports, evidence tracing, and RAG evaluation.",
+    "created_at": "2026-05-11T11:19:40Z",
+    "updated_at": "2026-05-27T15:52:15Z",
+    "pushed_at": "2026-05-26T01:39:47Z",
+    "git_url": "git://github.com/juanjuandog/FinSight-AI.git",
+    "homepage": null,
+    "size": 1842,
+    "stargazers_count": 578,
+    "watchers_count": 578,
+    "language": "Java",
+    "forks_count": 29,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1253679001,
+    "name": "MyIPTV",
+    "owner": {
+      "id": 251172993,
+      "url": "https://api.github.com/users/zyuslan25-dotcom",
+      "html_url": "https://github.com/zyuslan25-dotcom",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251172993?v=4"
+    },
+    "html_url": "https://github.com/zyuslan25-dotcom/MyIPTV",
+    "description": "ProIPTVPlayer",
+    "created_at": "2026-05-29T17:53:21Z",
+    "updated_at": "2026-05-29T18:30:04Z",
+    "pushed_at": "2026-05-29T17:53:24Z",
+    "git_url": "git://github.com/zyuslan25-dotcom/MyIPTV.git",
+    "homepage": null,
+    "size": 1,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
