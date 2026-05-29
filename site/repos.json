@@ -46067,5 +46067,51 @@
     "language": null,
     "forks_count": 23,
     "open_issues_count": 0
+  },
+  {
+    "id": 1239522492,
+    "name": "elephant-agent",
+    "owner": {
+      "id": 274756484,
+      "url": "https://api.github.com/users/agentic-in",
+      "html_url": "https://github.com/agentic-in",
+      "avatar_url": "https://avatars.githubusercontent.com/u/274756484?v=4"
+    },
+    "html_url": "https://github.com/agentic-in/elephant-agent",
+    "description": "Personal-Model First Self Evolving AI Agent 🐘",
+    "created_at": "2026-05-15T07:08:17Z",
+    "updated_at": "2026-05-29T02:44:56Z",
+    "pushed_at": "2026-05-29T02:39:55Z",
+    "git_url": "git://github.com/agentic-in/elephant-agent.git",
+    "homepage": "https://elephant.agentic-in.ai",
+    "size": 198152,
+    "stargazers_count": 560,
+    "watchers_count": 560,
+    "language": "Python",
+    "forks_count": 60,
+    "open_issues_count": 19
+  },
+  {
+    "id": 1250677506,
+    "name": "Descript-Edit-AI-Transcriptor",
+    "owner": {
+      "id": 151198878,
+      "url": "https://api.github.com/users/Youngcooper626",
+      "html_url": "https://github.com/Youngcooper626",
+      "avatar_url": "https://avatars.githubusercontent.com/u/151198878?v=4"
+    },
+    "html_url": "https://github.com/Youngcooper626/Descript-Edit-AI-Transcriptor",
+    "description": "Descript Pro AI Video Editor 2026 - Edit Footage by Transcript Overdub Studio Sound Screen Recorder",
+    "created_at": "2026-05-26T21:39:02Z",
+    "updated_at": "2026-05-29T12:41:52Z",
+    "pushed_at": "2026-05-29T12:41:48Z",
+    "git_url": "git://github.com/Youngcooper626/Descript-Edit-AI-Transcriptor.git",
+    "homepage": null,
+    "size": 51,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
