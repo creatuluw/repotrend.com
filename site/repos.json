@@ -45929,5 +45929,51 @@
     "language": "HTML",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1225179105,
+    "name": "anysearch-mcp-server",
+    "owner": {
+      "id": 271186954,
+      "url": "https://api.github.com/users/anysearch-ai",
+      "html_url": "https://github.com/anysearch-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271186954?v=4"
+    },
+    "html_url": "https://github.com/anysearch-ai/anysearch-mcp-server",
+    "description": "Unified real-time search engine skill for AI agents.",
+    "created_at": "2026-04-30T02:55:53Z",
+    "updated_at": "2026-05-28T18:24:35Z",
+    "pushed_at": "2026-05-22T10:16:57Z",
+    "git_url": "git://github.com/anysearch-ai/anysearch-mcp-server.git",
+    "homepage": "https://www.anysearch.com",
+    "size": 18,
+    "stargazers_count": 693,
+    "watchers_count": 693,
+    "language": null,
+    "forks_count": 57,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1248950573,
+    "name": "sbox",
+    "owner": {
+      "id": 111459558,
+      "url": "https://api.github.com/users/x86byte",
+      "html_url": "https://github.com/x86byte",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111459558?v=4"
+    },
+    "html_url": "https://github.com/x86byte/sbox",
+    "description": "Compile-time AES string obfuscation for C++",
+    "created_at": "2026-05-25T07:49:51Z",
+    "updated_at": "2026-05-28T10:57:23Z",
+    "pushed_at": "2026-05-26T11:42:57Z",
+    "git_url": "git://github.com/x86byte/sbox.git",
+    "homepage": "",
+    "size": 46,
+    "stargazers_count": 82,
+    "watchers_count": 82,
+    "language": "C++",
+    "forks_count": 10,
+    "open_issues_count": 0
   }
 ]
