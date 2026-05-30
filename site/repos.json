@@ -46504,5 +46504,51 @@
     "language": "HTML",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1250957639,
+    "name": "vibecode-pro-max-kit",
+    "owner": {
+      "id": 85094695,
+      "url": "https://api.github.com/users/withkynam",
+      "html_url": "https://github.com/withkynam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85094695?v=4"
+    },
+    "html_url": "https://github.com/withkynam/vibecode-pro-max-kit",
+    "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
+    "created_at": "2026-05-27T05:46:25Z",
+    "updated_at": "2026-05-30T17:55:57Z",
+    "pushed_at": "2026-05-30T14:33:05Z",
+    "git_url": "git://github.com/withkynam/vibecode-pro-max-kit.git",
+    "homepage": "",
+    "size": 14721,
+    "stargazers_count": 568,
+    "watchers_count": 568,
+    "language": "JavaScript",
+    "forks_count": 140,
+    "open_issues_count": 16
+  },
+  {
+    "id": 1249703395,
+    "name": "visio-skill",
+    "owner": {
+      "id": 49542403,
+      "url": "https://api.github.com/users/deermiya",
+      "html_url": "https://github.com/deermiya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49542403?v=4"
+    },
+    "html_url": "https://github.com/deermiya/visio-skill",
+    "description": null,
+    "created_at": "2026-05-26T01:05:28Z",
+    "updated_at": "2026-05-29T15:16:59Z",
+    "pushed_at": "2026-05-29T07:26:59Z",
+    "git_url": "git://github.com/deermiya/visio-skill.git",
+    "homepage": null,
+    "size": 53,
+    "stargazers_count": 55,
+    "watchers_count": 55,
+    "language": "PowerShell",
+    "forks_count": 5,
+    "open_issues_count": 0
   }
 ]
