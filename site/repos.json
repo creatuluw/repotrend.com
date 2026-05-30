@@ -46458,5 +46458,51 @@
     "language": "TypeScript",
     "forks_count": 56,
     "open_issues_count": 0
+  },
+  {
+    "id": 1226088627,
+    "name": "AIS-OS",
+    "owner": {
+      "id": 253835467,
+      "url": "https://api.github.com/users/nateherkai",
+      "html_url": "https://github.com/nateherkai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/253835467?v=4"
+    },
+    "html_url": "https://github.com/nateherkai/AIS-OS",
+    "description": "AI Operating System starter kit for Claude Code — three-skill kit (/onboard, /audit, /level-up) + 3Ms framework. Companion to the AIOS masterclass.",
+    "created_at": "2026-05-01T00:53:01Z",
+    "updated_at": "2026-05-30T11:59:39Z",
+    "pushed_at": "2026-05-01T00:56:58Z",
+    "git_url": "git://github.com/nateherkai/AIS-OS.git",
+    "homepage": null,
+    "size": 28,
+    "stargazers_count": 533,
+    "watchers_count": 533,
+    "language": null,
+    "forks_count": 185,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1251976028,
+    "name": "Awesome-LLM-Interview",
+    "owner": {
+      "id": 185015402,
+      "url": "https://api.github.com/users/laoshan-song",
+      "html_url": "https://github.com/laoshan-song",
+      "avatar_url": "https://avatars.githubusercontent.com/u/185015402?v=4"
+    },
+    "html_url": "https://github.com/laoshan-song/Awesome-LLM-Interview",
+    "description": " LLM interview prep notes: Transformer, RLHF, DPO, LoRA, KV Cache,RAG, MoE, distributed training & 2026 frontier topics",
+    "created_at": "2026-05-28T04:36:23Z",
+    "updated_at": "2026-05-30T07:33:40Z",
+    "pushed_at": "2026-05-29T04:31:56Z",
+    "git_url": "git://github.com/laoshan-song/Awesome-LLM-Interview.git",
+    "homepage": "",
+    "size": 813,
+    "stargazers_count": 56,
+    "watchers_count": 56,
+    "language": "HTML",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
