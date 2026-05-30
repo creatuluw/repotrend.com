@@ -46412,5 +46412,51 @@
     "language": "JavaScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1249107749,
+    "name": "adhd",
+    "owner": {
+      "id": 156824020,
+      "url": "https://api.github.com/users/UditAkhourii",
+      "html_url": "https://github.com/UditAkhourii",
+      "avatar_url": "https://avatars.githubusercontent.com/u/156824020?v=4"
+    },
+    "html_url": "https://github.com/UditAkhourii/adhd",
+    "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
+    "created_at": "2026-05-25T11:06:35Z",
+    "updated_at": "2026-05-30T00:08:30Z",
+    "pushed_at": "2026-05-28T10:09:36Z",
+    "git_url": "git://github.com/UditAkhourii/adhd.git",
+    "homepage": "https://uditakhourii.github.io/adhd/",
+    "size": 1856,
+    "stargazers_count": 516,
+    "watchers_count": 516,
+    "language": "TypeScript",
+    "forks_count": 25,
+    "open_issues_count": 15
+  },
+  {
+    "id": 1252126520,
+    "name": "marketing-pineline-share",
+    "owner": {
+      "id": 287800108,
+      "url": "https://api.github.com/users/pennydinh",
+      "html_url": "https://github.com/pennydinh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/287800108?v=4"
+    },
+    "html_url": "https://github.com/pennydinh/marketing-pineline-share",
+    "description": "Hệ thống tự động hóa Content số 1: Từ Research, Lên Kịch Bản, Đăng Page tự động đến Generate Video!",
+    "created_at": "2026-05-28T08:03:15Z",
+    "updated_at": "2026-05-29T23:12:29Z",
+    "pushed_at": "2026-05-28T08:17:11Z",
+    "git_url": "git://github.com/pennydinh/marketing-pineline-share.git",
+    "homepage": null,
+    "size": 49291,
+    "stargazers_count": 71,
+    "watchers_count": 71,
+    "language": "TypeScript",
+    "forks_count": 56,
+    "open_issues_count": 0
   }
 ]
