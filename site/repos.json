@@ -46228,5 +46228,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1232370714,
+    "name": "litellm-agent-platform",
+    "owner": {
+      "id": 121462774,
+      "url": "https://api.github.com/users/BerriAI",
+      "html_url": "https://github.com/BerriAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121462774?v=4"
+    },
+    "html_url": "https://github.com/BerriAI/litellm-agent-platform",
+    "description": "Self-hosted platform for running coding agents (Claude Code, Codex, Hermes) in isolated sandboxes with vault proxy. ",
+    "created_at": "2026-05-07T21:35:39Z",
+    "updated_at": "2026-05-29T17:44:02Z",
+    "pushed_at": "2026-05-29T16:18:20Z",
+    "git_url": "git://github.com/BerriAI/litellm-agent-platform.git",
+    "homepage": "https://docs.litellm-agent-platform.ai",
+    "size": 72909,
+    "stargazers_count": 528,
+    "watchers_count": 528,
+    "language": "TypeScript",
+    "forks_count": 54,
+    "open_issues_count": 30
+  },
+  {
+    "id": 1249895223,
+    "name": "multimodal-interview-system",
+    "owner": {
+      "id": 134584593,
+      "url": "https://api.github.com/users/zhaojingru-ai",
+      "html_url": "https://github.com/zhaojingru-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/134584593?v=4"
+    },
+    "html_url": "https://github.com/zhaojingru-ai/multimodal-interview-system",
+    "description": "Multimodal interview system with Coze workflow exports",
+    "created_at": "2026-05-26T06:06:11Z",
+    "updated_at": "2026-05-28T01:06:29Z",
+    "pushed_at": "2026-05-26T09:22:36Z",
+    "git_url": "git://github.com/zhaojingru-ai/multimodal-interview-system.git",
+    "homepage": null,
+    "size": 2970,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
