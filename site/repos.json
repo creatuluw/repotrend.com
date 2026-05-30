@@ -46320,5 +46320,51 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1241479513,
+    "name": "grok2api",
+    "owner": {
+      "id": 218706572,
+      "url": "https://api.github.com/users/jiujiu532",
+      "html_url": "https://github.com/jiujiu532",
+      "avatar_url": "https://avatars.githubusercontent.com/u/218706572?v=4"
+    },
+    "html_url": "https://github.com/jiujiu532/grok2api",
+    "description": null,
+    "created_at": "2026-05-17T12:50:26Z",
+    "updated_at": "2026-05-29T23:05:44Z",
+    "pushed_at": "2026-05-29T12:36:22Z",
+    "git_url": "git://github.com/jiujiu532/grok2api.git",
+    "homepage": null,
+    "size": 596,
+    "stargazers_count": 553,
+    "watchers_count": 553,
+    "language": "Python",
+    "forks_count": 63,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1252148903,
+    "name": "bpc-fetch",
+    "owner": {
+      "id": 94944221,
+      "url": "https://api.github.com/users/Sophomoresty",
+      "html_url": "https://github.com/Sophomoresty",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94944221?v=4"
+    },
+    "html_url": "https://github.com/Sophomoresty/bpc-fetch",
+    "description": "Bypass paywall sites — search, discover, and batch fetch articles as Markdown. 936 sites supported.",
+    "created_at": "2026-05-28T08:31:28Z",
+    "updated_at": "2026-05-30T00:28:59Z",
+    "pushed_at": "2026-05-29T05:49:25Z",
+    "git_url": "git://github.com/Sophomoresty/bpc-fetch.git",
+    "homepage": null,
+    "size": 1426,
+    "stargazers_count": 89,
+    "watchers_count": 89,
+    "language": "JavaScript",
+    "forks_count": 28,
+    "open_issues_count": 0
   }
 ]
