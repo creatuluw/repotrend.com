@@ -46366,5 +46366,51 @@
     "language": "JavaScript",
     "forks_count": 28,
     "open_issues_count": 0
+  },
+  {
+    "id": 1244071529,
+    "name": "butterbase-oss",
+    "owner": {
+      "id": 274386375,
+      "url": "https://api.github.com/users/butterbase-ai",
+      "html_url": "https://github.com/butterbase-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/274386375?v=4"
+    },
+    "html_url": "https://github.com/butterbase-ai/butterbase-oss",
+    "description": "Open-source backend-as-a-service. Postgres, auth, storage, functions, AI gateway, MCP.",
+    "created_at": "2026-05-20T00:06:03Z",
+    "updated_at": "2026-05-30T00:56:57Z",
+    "pushed_at": "2026-05-28T09:33:39Z",
+    "git_url": "git://github.com/butterbase-ai/butterbase-oss.git",
+    "homepage": null,
+    "size": 5158,
+    "stargazers_count": 524,
+    "watchers_count": 524,
+    "language": "TypeScript",
+    "forks_count": 63,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1251530236,
+    "name": "Vibe-CMS-Project",
+    "owner": {
+      "id": 247219696,
+      "url": "https://api.github.com/users/0305harshi-ui",
+      "html_url": "https://github.com/0305harshi-ui",
+      "avatar_url": "https://avatars.githubusercontent.com/u/247219696?v=4"
+    },
+    "html_url": "https://github.com/0305harshi-ui/Vibe-CMS-Project",
+    "description": null,
+    "created_at": "2026-05-27T17:07:11Z",
+    "updated_at": "2026-05-29T06:32:49Z",
+    "pushed_at": "2026-05-28T06:29:40Z",
+    "git_url": "git://github.com/0305harshi-ui/Vibe-CMS-Project.git",
+    "homepage": null,
+    "size": 154,
+    "stargazers_count": 64,
+    "watchers_count": 64,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
