@@ -4504,5 +4504,11 @@
     "name": "CVE-2026-41651",
     "html_url": "https://github.com/Vozec/CVE-2026-41651",
     "posted_at": "2026-05-30T05:10:15.315Z"
+  },
+  {
+    "id": 1217153065,
+    "name": "claude-for-legal",
+    "html_url": "https://github.com/anthropics/claude-for-legal",
+    "posted_at": "2026-05-30T06:43:27.232Z"
   }
 ]
