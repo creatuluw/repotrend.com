@@ -46757,5 +46757,28 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1251483204,
+    "name": "DotWasm",
+    "owner": {
+      "id": 84110981,
+      "url": "https://api.github.com/users/nuskey8",
+      "html_url": "https://github.com/nuskey8",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84110981?v=4"
+    },
+    "html_url": "https://github.com/nuskey8/DotWasm",
+    "description": "A WebAssembly runtime implemented in C# for .NET",
+    "created_at": "2026-05-27T16:13:14Z",
+    "updated_at": "2026-05-30T17:09:58Z",
+    "pushed_at": "2026-05-27T23:55:08Z",
+    "git_url": "git://github.com/nuskey8/DotWasm.git",
+    "homepage": "",
+    "size": 543,
+    "stargazers_count": 59,
+    "watchers_count": 59,
+    "language": "C#",
+    "forks_count": 4,
+    "open_issues_count": 6
   }
 ]
