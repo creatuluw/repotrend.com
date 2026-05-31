@@ -46780,5 +46780,51 @@
     "language": "C#",
     "forks_count": 4,
     "open_issues_count": 6
+  },
+  {
+    "id": 1252583707,
+    "name": "SenPaiScanner",
+    "owner": {
+      "id": 99926753,
+      "url": "https://api.github.com/users/MatinSenPai",
+      "html_url": "https://github.com/MatinSenPai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99926753?v=4"
+    },
+    "html_url": "https://github.com/MatinSenPai/SenPaiScanner",
+    "description": "A light-weight scanner for Cloudflare IPs, written in Golang",
+    "created_at": "2026-05-28T17:02:54Z",
+    "updated_at": "2026-05-31T12:34:11Z",
+    "pushed_at": "2026-05-30T15:26:12Z",
+    "git_url": "git://github.com/MatinSenPai/SenPaiScanner.git",
+    "homepage": "",
+    "size": 130,
+    "stargazers_count": 700,
+    "watchers_count": 700,
+    "language": "Go",
+    "forks_count": 50,
+    "open_issues_count": 13
+  },
+  {
+    "id": 1252887411,
+    "name": "coinbase-copy-trading-bot",
+    "owner": {
+      "id": 37666406,
+      "url": "https://api.github.com/users/DRVX92",
+      "html_url": "https://github.com/DRVX92",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37666406?v=4"
+    },
+    "html_url": "https://github.com/DRVX92/coinbase-copy-trading-bot",
+    "description": "coinbase trading bot coinbase api advanced trade trading bot crypto trading bot automated trading coinbase trading bot typescript algorithmic trading ema atr coinbase bot crypto trading bot coinbase trading bot paper trading spot coinbase trading bot risk sizing zod nodejs coinbase trading bot fintech quant coinbase trading bot open source",
+    "created_at": "2026-05-29T01:10:39Z",
+    "updated_at": "2026-05-31T02:31:09Z",
+    "pushed_at": "2026-05-29T01:16:06Z",
+    "git_url": "git://github.com/DRVX92/coinbase-copy-trading-bot.git",
+    "homepage": "",
+    "size": 62,
+    "stargazers_count": 76,
+    "watchers_count": 76,
+    "language": "TypeScript",
+    "forks_count": 1709,
+    "open_issues_count": 2
   }
 ]
