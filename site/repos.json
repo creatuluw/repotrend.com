@@ -46550,5 +46550,51 @@
     "language": "PowerShell",
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1227764627,
+    "name": "LGBT-Prompt",
+    "owner": {
+      "id": 102844701,
+      "url": "https://api.github.com/users/JustLikeCheese",
+      "html_url": "https://github.com/JustLikeCheese",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102844701?v=4"
+    },
+    "html_url": "https://github.com/JustLikeCheese/LGBT-Prompt",
+    "description": "利用 AI 对 LGBT 弱势群体的 \"同情偏向\" 让他执行原先会被拒绝的请求",
+    "created_at": "2026-05-03T06:11:46Z",
+    "updated_at": "2026-05-30T18:28:19Z",
+    "pushed_at": "2026-05-05T04:33:27Z",
+    "git_url": "git://github.com/JustLikeCheese/LGBT-Prompt.git",
+    "homepage": "https://justlikecheese.github.io/LGBT-Prompt/",
+    "size": 63,
+    "stargazers_count": 539,
+    "watchers_count": 539,
+    "language": "HTML",
+    "forks_count": 51,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1252128435,
+    "name": "fomo5000.com",
+    "owner": {
+      "id": 1284814,
+      "url": "https://api.github.com/users/bwjoke",
+      "html_url": "https://github.com/bwjoke",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1284814?v=4"
+    },
+    "html_url": "https://github.com/bwjoke/fomo5000.com",
+    "description": "AI market map for scanning 5,000+ U.S.-listed stocks",
+    "created_at": "2026-05-28T08:05:43Z",
+    "updated_at": "2026-05-30T16:37:40Z",
+    "pushed_at": "2026-05-29T12:55:30Z",
+    "git_url": "git://github.com/bwjoke/fomo5000.com.git",
+    "homepage": "https://fomo5000.com",
+    "size": 33553,
+    "stargazers_count": 79,
+    "watchers_count": 79,
+    "language": "JavaScript",
+    "forks_count": 16,
+    "open_issues_count": 0
   }
 ]
