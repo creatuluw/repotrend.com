@@ -46849,5 +46849,51 @@
     "language": "Python",
     "forks_count": 15,
     "open_issues_count": 0
+  },
+  {
+    "id": 1217291538,
+    "name": "terax-ai",
+    "owner": {
+      "id": 135257643,
+      "url": "https://api.github.com/users/crynta",
+      "html_url": "https://github.com/crynta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135257643?v=4"
+    },
+    "html_url": "https://github.com/crynta/terax-ai",
+    "description": "Lightweight (7MB) Terminal-first AI-native dev workspace",
+    "created_at": "2026-04-21T18:33:12Z",
+    "updated_at": "2026-05-31T18:30:18Z",
+    "pushed_at": "2026-05-31T00:26:48Z",
+    "git_url": "git://github.com/crynta/terax-ai.git",
+    "homepage": "https://terax.app",
+    "size": 12334,
+    "stargazers_count": 5934,
+    "watchers_count": 5934,
+    "language": "TypeScript",
+    "forks_count": 643,
+    "open_issues_count": 265
+  },
+  {
+    "id": 1253679350,
+    "name": "MyIPTV",
+    "owner": {
+      "id": 266135428,
+      "url": "https://api.github.com/users/invokepisya",
+      "html_url": "https://github.com/invokepisya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/266135428?v=4"
+    },
+    "html_url": "https://github.com/invokepisya/MyIPTV",
+    "description": "ProIPTVPlayer",
+    "created_at": "2026-05-29T17:53:45Z",
+    "updated_at": "2026-05-30T10:41:37Z",
+    "pushed_at": "2026-05-29T17:53:48Z",
+    "git_url": "git://github.com/invokepisya/MyIPTV.git",
+    "homepage": null,
+    "size": 1,
+    "stargazers_count": 56,
+    "watchers_count": 56,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
