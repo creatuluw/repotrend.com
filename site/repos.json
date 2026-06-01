@@ -46941,5 +46941,74 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1255180606,
+    "name": "odysseus",
+    "owner": {
+      "id": 229018391,
+      "url": "https://api.github.com/users/pewdiepie-archdaemon",
+      "html_url": "https://github.com/pewdiepie-archdaemon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/229018391?v=4"
+    },
+    "html_url": "https://github.com/pewdiepie-archdaemon/odysseus",
+    "description": "Self-hosted AI workspace. ",
+    "created_at": "2026-05-31T14:05:51Z",
+    "updated_at": "2026-06-01T01:08:52Z",
+    "pushed_at": "2026-06-01T01:00:21Z",
+    "git_url": "git://github.com/pewdiepie-archdaemon/odysseus.git",
+    "homepage": "",
+    "size": 20677,
+    "stargazers_count": 7825,
+    "watchers_count": 7825,
+    "language": "JavaScript",
+    "forks_count": 1113,
+    "open_issues_count": 180
+  },
+  {
+    "id": 1237319927,
+    "name": "journal-adapt-writing-skill",
+    "owner": {
+      "id": 158467055,
+      "url": "https://api.github.com/users/WantongC",
+      "html_url": "https://github.com/WantongC",
+      "avatar_url": "https://avatars.githubusercontent.com/u/158467055?v=4"
+    },
+    "html_url": "https://github.com/WantongC/journal-adapt-writing-skill",
+    "description": "Learn any journal's writing conventions from its published papers, then revise your manuscript to match — section by section.",
+    "created_at": "2026-05-13T04:33:17Z",
+    "updated_at": "2026-05-31T17:30:35Z",
+    "pushed_at": "2026-05-15T03:18:22Z",
+    "git_url": "git://github.com/WantongC/journal-adapt-writing-skill.git",
+    "homepage": null,
+    "size": 177,
+    "stargazers_count": 574,
+    "watchers_count": 574,
+    "language": null,
+    "forks_count": 37,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1251360469,
+    "name": "vibecoding-signal-light",
+    "owner": {
+      "id": 1694921,
+      "url": "https://api.github.com/users/starlight36",
+      "html_url": "https://github.com/starlight36",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1694921?v=4"
+    },
+    "html_url": "https://github.com/starlight36/vibecoding-signal-light",
+    "description": "A real traffic light for AI agents.",
+    "created_at": "2026-05-27T13:57:05Z",
+    "updated_at": "2026-05-30T16:06:10Z",
+    "pushed_at": "2026-05-30T01:25:57Z",
+    "git_url": "git://github.com/starlight36/vibecoding-signal-light.git",
+    "homepage": "",
+    "size": 312,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "Python",
+    "forks_count": 9,
+    "open_issues_count": 2
   }
 ]
