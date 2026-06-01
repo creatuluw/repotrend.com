@@ -47332,5 +47332,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1233119393,
+    "name": "PaperGuru-Benchmark",
+    "owner": {
+      "id": 282129565,
+      "url": "https://api.github.com/users/PaperGuru-AI",
+      "html_url": "https://github.com/PaperGuru-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/282129565?v=4"
+    },
+    "html_url": "https://github.com/PaperGuru-AI/PaperGuru-Benchmark",
+    "description": "Lifecycle-Aware Memory for long-horizon LLM agents — 66.05% on PaperBench, 94.66% on SurveyBench, 10 peer-reviewed acceptances at FSE/ICML/TOSEM/AEI/ICoGB",
+    "created_at": "2026-05-08T16:01:28Z",
+    "updated_at": "2026-06-01T19:22:30Z",
+    "pushed_at": "2026-05-30T06:37:11Z",
+    "git_url": "git://github.com/PaperGuru-AI/PaperGuru-Benchmark.git",
+    "homepage": null,
+    "size": 372654,
+    "stargazers_count": 536,
+    "watchers_count": 536,
+    "language": "TeX",
+    "forks_count": 83,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1254965478,
+    "name": "deep-rock-rogue-core-mods",
+    "owner": {
+      "id": 279563896,
+      "url": "https://api.github.com/users/ByteDemodulator",
+      "html_url": "https://github.com/ByteDemodulator",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279563896?v=4"
+    },
+    "html_url": "https://github.com/ByteDemodulator/deep-rock-rogue-core-mods",
+    "description": "Community mod collection and gameplay enhancement tools for Deep Rock Galactic: Rogue Core.",
+    "created_at": "2026-05-31T08:14:04Z",
+    "updated_at": "2026-05-31T18:05:50Z",
+    "pushed_at": "2026-05-31T08:35:20Z",
+    "git_url": "git://github.com/ByteDemodulator/deep-rock-rogue-core-mods.git",
+    "homepage": "",
+    "size": 2314,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "AMPL",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
