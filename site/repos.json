@@ -47056,5 +47056,51 @@
     "language": null,
     "forks_count": 3,
     "open_issues_count": 1
+  },
+  {
+    "id": 1252289708,
+    "name": "gemini-web2api",
+    "owner": {
+      "id": 94944221,
+      "url": "https://api.github.com/users/Sophomoresty",
+      "html_url": "https://github.com/Sophomoresty",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94944221?v=4"
+    },
+    "html_url": "https://github.com/Sophomoresty/gemini-web2api",
+    "description": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
+    "created_at": "2026-05-28T11:25:55Z",
+    "updated_at": "2026-05-31T18:30:14Z",
+    "pushed_at": "2026-05-31T10:07:13Z",
+    "git_url": "git://github.com/Sophomoresty/gemini-web2api.git",
+    "homepage": null,
+    "size": 188,
+    "stargazers_count": 832,
+    "watchers_count": 832,
+    "language": "Python",
+    "forks_count": 227,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1255158857,
+    "name": "Oracle-VirtualBox-Extension-Pack-cracked",
+    "owner": {
+      "id": 288345812,
+      "url": "https://api.github.com/users/fieldwardenuncouple",
+      "html_url": "https://github.com/fieldwardenuncouple",
+      "avatar_url": "https://avatars.githubusercontent.com/u/288345812?v=4"
+    },
+    "html_url": "https://github.com/fieldwardenuncouple/Oracle-VirtualBox-Extension-Pack-cracked",
+    "description": "Oracle VirtualBox Extension Pack - Open-source VM platform extension with USB and RDP support. Includes setup guide, feature overview, and download instructions.",
+    "created_at": "2026-05-31T13:35:09Z",
+    "updated_at": "2026-05-31T17:39:06Z",
+    "pushed_at": "2026-05-31T13:35:28Z",
+    "git_url": "git://github.com/fieldwardenuncouple/Oracle-VirtualBox-Extension-Pack-cracked.git",
+    "homepage": null,
+    "size": 1,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
