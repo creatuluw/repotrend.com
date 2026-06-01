@@ -47148,5 +47148,51 @@
     "language": "Python",
     "forks_count": 15,
     "open_issues_count": 0
+  },
+  {
+    "id": 1237911785,
+    "name": "science-skills",
+    "owner": {
+      "id": 8596759,
+      "url": "https://api.github.com/users/google-deepmind",
+      "html_url": "https://github.com/google-deepmind",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8596759?v=4"
+    },
+    "html_url": "https://github.com/google-deepmind/science-skills",
+    "description": "GDM Science Skills to speed up agentic scientific workflows with better grounding and higher token efficiency. Integrate insights from AlphaGenome, AFDB, UniProt and 30+ other databases and tools.",
+    "created_at": "2026-05-13T16:17:41Z",
+    "updated_at": "2026-05-31T18:03:01Z",
+    "pushed_at": "2026-05-28T16:40:46Z",
+    "git_url": "git://github.com/google-deepmind/science-skills.git",
+    "homepage": "https://antigravity.google/use-cases/science",
+    "size": 1821,
+    "stargazers_count": 597,
+    "watchers_count": 597,
+    "language": "Python",
+    "forks_count": 61,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1255158220,
+    "name": "Notta-Pro-cracked",
+    "owner": {
+      "id": 288341467,
+      "url": "https://api.github.com/users/GalaxyFollowerVary",
+      "html_url": "https://github.com/GalaxyFollowerVary",
+      "avatar_url": "https://avatars.githubusercontent.com/u/288341467?v=4"
+    },
+    "html_url": "https://github.com/GalaxyFollowerVary/Notta-Pro-cracked",
+    "description": "Notta Pro - AI meeting notes and real-time transcription with summary generation. Official page with installation notes, activation guidance, and configuration tips.",
+    "created_at": "2026-05-31T13:34:12Z",
+    "updated_at": "2026-05-31T17:37:17Z",
+    "pushed_at": "2026-05-31T13:34:29Z",
+    "git_url": "git://github.com/GalaxyFollowerVary/Notta-Pro-cracked.git",
+    "homepage": null,
+    "size": 1,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
