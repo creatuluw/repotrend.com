@@ -47378,5 +47378,51 @@
     "language": "AMPL",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1249866465,
+    "name": "DeltaForce-OBS-Locker",
+    "owner": {
+      "id": 187950525,
+      "url": "https://api.github.com/users/ace-trump-tech",
+      "html_url": "https://github.com/ace-trump-tech",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187950525?v=4"
+    },
+    "html_url": "https://github.com/ace-trump-tech/DeltaForce-OBS-Locker",
+    "description": "三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.",
+    "created_at": "2026-05-26T05:24:10Z",
+    "updated_at": "2026-06-01T18:19:51Z",
+    "pushed_at": "2026-06-01T16:40:30Z",
+    "git_url": "git://github.com/ace-trump-tech/DeltaForce-OBS-Locker.git",
+    "homepage": "",
+    "size": 10605,
+    "stargazers_count": 562,
+    "watchers_count": 562,
+    "language": "Python",
+    "forks_count": 543,
+    "open_issues_count": 19
+  },
+  {
+    "id": 1254468871,
+    "name": "gpt-account-manager",
+    "owner": {
+      "id": 286599923,
+      "url": "https://api.github.com/users/margetrp-hub",
+      "html_url": "https://github.com/margetrp-hub",
+      "avatar_url": "https://avatars.githubusercontent.com/u/286599923?v=4"
+    },
+    "html_url": "https://github.com/margetrp-hub/gpt-account-manager",
+    "description": "GPT账号管理助手：Outlook/临时邮箱验证码、CPA OAuth凭证刷新与auth导出工具",
+    "created_at": "2026-05-30T15:52:18Z",
+    "updated_at": "2026-06-01T17:32:15Z",
+    "pushed_at": "2026-06-01T17:32:11Z",
+    "git_url": "git://github.com/margetrp-hub/gpt-account-manager.git",
+    "homepage": "",
+    "size": 1846,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": "Python",
+    "forks_count": 19,
+    "open_issues_count": 0
   }
 ]
