@@ -47010,5 +47010,51 @@
     "language": "Python",
     "forks_count": 9,
     "open_issues_count": 2
+  },
+  {
+    "id": 1239622387,
+    "name": "loom",
+    "owner": {
+      "id": 8263559,
+      "url": "https://api.github.com/users/husu",
+      "html_url": "https://github.com/husu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8263559?v=4"
+    },
+    "html_url": "https://github.com/husu/loom",
+    "description": "一个写接口文档的AI Agent。支持使用Vibe coding 的方式，编写接口文档，同时自带友好的文档查看工具与接口Mock工具",
+    "created_at": "2026-05-15T09:19:02Z",
+    "updated_at": "2026-05-31T15:45:51Z",
+    "pushed_at": "2026-05-28T02:20:35Z",
+    "git_url": "git://github.com/husu/loom.git",
+    "homepage": null,
+    "size": 75,
+    "stargazers_count": 530,
+    "watchers_count": 530,
+    "language": null,
+    "forks_count": 21,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1251519364,
+    "name": "slide-image-to-editable-pptx",
+    "owner": {
+      "id": 230873138,
+      "url": "https://api.github.com/users/w1163222589-coder",
+      "html_url": "https://github.com/w1163222589-coder",
+      "avatar_url": "https://avatars.githubusercontent.com/u/230873138?v=4"
+    },
+    "html_url": "https://github.com/w1163222589-coder/slide-image-to-editable-pptx",
+    "description": "A Codex skill for converting slide screenshots into editable PowerPoint decks.",
+    "created_at": "2026-05-27T16:55:03Z",
+    "updated_at": "2026-05-30T09:14:09Z",
+    "pushed_at": "2026-05-27T17:07:19Z",
+    "git_url": "git://github.com/w1163222589-coder/slide-image-to-editable-pptx.git",
+    "homepage": null,
+    "size": 2236,
+    "stargazers_count": 68,
+    "watchers_count": 68,
+    "language": null,
+    "forks_count": 3,
+    "open_issues_count": 1
   }
 ]
