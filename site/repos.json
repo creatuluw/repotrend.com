@@ -47470,5 +47470,51 @@
     "language": null,
     "forks_count": 17,
     "open_issues_count": 5
+  },
+  {
+    "id": 1245319446,
+    "name": "skill-creator",
+    "owner": {
+      "id": 15861257,
+      "url": "https://api.github.com/users/sandiiarov",
+      "html_url": "https://github.com/sandiiarov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15861257?v=4"
+    },
+    "html_url": "https://github.com/sandiiarov/skill-creator",
+    "description": "Turn any MCP server, OpenAPI spec, or GraphQL endpoint into a CLI at runtime.",
+    "created_at": "2026-05-21T05:45:40Z",
+    "updated_at": "2026-06-01T21:57:46Z",
+    "pushed_at": "2026-05-29T12:00:31Z",
+    "git_url": "git://github.com/sandiiarov/skill-creator.git",
+    "homepage": null,
+    "size": 576,
+    "stargazers_count": 520,
+    "watchers_count": 520,
+    "language": "TypeScript",
+    "forks_count": 75,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1253679411,
+    "name": "MyIPTV",
+    "owner": {
+      "id": 274139085,
+      "url": "https://api.github.com/users/mkb38287-sys",
+      "html_url": "https://github.com/mkb38287-sys",
+      "avatar_url": "https://avatars.githubusercontent.com/u/274139085?v=4"
+    },
+    "html_url": "https://github.com/mkb38287-sys/MyIPTV",
+    "description": "ProIPTVPlayer",
+    "created_at": "2026-05-29T17:53:49Z",
+    "updated_at": "2026-05-30T10:41:41Z",
+    "pushed_at": "2026-06-01T08:47:44Z",
+    "git_url": "git://github.com/mkb38287-sys/MyIPTV.git",
+    "homepage": null,
+    "size": 18,
+    "stargazers_count": 56,
+    "watchers_count": 56,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 1
   }
 ]
