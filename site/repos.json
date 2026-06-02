@@ -47516,5 +47516,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 1
+  },
+  {
+    "id": 1244040752,
+    "name": "vault",
+    "owner": {
+      "id": 286161482,
+      "url": "https://api.github.com/users/vaultmcp",
+      "html_url": "https://github.com/vaultmcp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/286161482?v=4"
+    },
+    "html_url": "https://github.com/vaultmcp/vault",
+    "description": "MCP prompt-injection scanning proxy — runtime security for MCP tool responses",
+    "created_at": "2026-05-19T23:02:47Z",
+    "updated_at": "2026-06-01T19:10:28Z",
+    "pushed_at": "2026-05-26T00:12:21Z",
+    "git_url": "git://github.com/vaultmcp/vault.git",
+    "homepage": null,
+    "size": 1949,
+    "stargazers_count": 591,
+    "watchers_count": 591,
+    "language": "Solidity",
+    "forks_count": 271,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1256480511,
+    "name": "zapret-discord-youtube-1.9.9",
+    "owner": {
+      "id": 270957806,
+      "url": "https://api.github.com/users/PackAshReside79",
+      "html_url": "https://github.com/PackAshReside79",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270957806?v=4"
+    },
+    "html_url": "https://github.com/PackAshReside79/zapret-discord-youtube-1.9.9",
+    "description": null,
+    "created_at": "2026-06-01T20:22:09Z",
+    "updated_at": "2026-06-01T20:38:55Z",
+    "pushed_at": "2026-06-01T20:23:13Z",
+    "git_url": "git://github.com/PackAshReside79/zapret-discord-youtube-1.9.9.git",
+    "homepage": null,
+    "size": 1594,
+    "stargazers_count": 79,
+    "watchers_count": 79,
+    "language": "Batchfile",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
