@@ -47861,5 +47861,51 @@
     "language": "Python",
     "forks_count": 15,
     "open_issues_count": 0
+  },
+  {
+    "id": 1229167008,
+    "name": "EdgeSavedPasswordsDumper",
+    "owner": {
+      "id": 129007008,
+      "url": "https://api.github.com/users/L1v1ng0ffTh3L4N",
+      "html_url": "https://github.com/L1v1ng0ffTh3L4N",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129007008?v=4"
+    },
+    "html_url": "https://github.com/L1v1ng0ffTh3L4N/EdgeSavedPasswordsDumper",
+    "description": "Proof of concept to show that Edge stores credentials in cleartext",
+    "created_at": "2026-05-04T19:12:35Z",
+    "updated_at": "2026-06-02T17:21:10Z",
+    "pushed_at": "2026-05-27T20:45:06Z",
+    "git_url": "git://github.com/L1v1ng0ffTh3L4N/EdgeSavedPasswordsDumper.git",
+    "homepage": "",
+    "size": 27,
+    "stargazers_count": 517,
+    "watchers_count": 517,
+    "language": "C#",
+    "forks_count": 110,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1257208754,
+    "name": "Tarkov-Map-Tool",
+    "owner": {
+      "id": 277277732,
+      "url": "https://api.github.com/users/SpireCrabFoyer",
+      "html_url": "https://github.com/SpireCrabFoyer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277277732?v=4"
+    },
+    "html_url": "https://github.com/SpireCrabFoyer/Tarkov-Map-Tool",
+    "description": null,
+    "created_at": "2026-06-02T13:15:50Z",
+    "updated_at": "2026-06-02T17:29:57Z",
+    "pushed_at": "2026-06-02T17:29:49Z",
+    "git_url": "git://github.com/SpireCrabFoyer/Tarkov-Map-Tool.git",
+    "homepage": "",
+    "size": 74,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
