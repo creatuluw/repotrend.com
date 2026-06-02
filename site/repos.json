@@ -47792,5 +47792,51 @@
     "language": "JavaScript",
     "forks_count": 18,
     "open_issues_count": 0
+  },
+  {
+    "id": 1239993295,
+    "name": "burn-baby-burn",
+    "owner": {
+      "id": 3669803,
+      "url": "https://api.github.com/users/dtnewman",
+      "html_url": "https://github.com/dtnewman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3669803?v=4"
+    },
+    "html_url": "https://github.com/dtnewman/burn-baby-burn",
+    "description": "Be the most productive engineer on your team 🚀🚀🚀",
+    "created_at": "2026-05-15T16:51:59Z",
+    "updated_at": "2026-06-01T19:14:26Z",
+    "pushed_at": "2026-05-21T15:38:15Z",
+    "git_url": "git://github.com/dtnewman/burn-baby-burn.git",
+    "homepage": "",
+    "size": 5476,
+    "stargazers_count": 553,
+    "watchers_count": 553,
+    "language": "Shell",
+    "forks_count": 12,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1256303932,
+    "name": "ARC-Raiders-Boosts-2026",
+    "owner": {
+      "id": 289479521,
+      "url": "https://api.github.com/users/noahkguan6529634",
+      "html_url": "https://github.com/noahkguan6529634",
+      "avatar_url": "https://avatars.githubusercontent.com/u/289479521?v=4"
+    },
+    "html_url": "https://github.com/noahkguan6529634/ARC-Raiders-Boosts-2026",
+    "description": "🚀 Arc Raiders Booster - Ultimate PC optimization tool to boost FPS, reduce input lag, and fix stuttering in Arc Raiders. Easy one-click setup!",
+    "created_at": "2026-06-01T16:44:41Z",
+    "updated_at": "2026-06-02T12:38:59Z",
+    "pushed_at": "2026-06-01T16:50:08Z",
+    "git_url": "git://github.com/noahkguan6529634/ARC-Raiders-Boosts-2026.git",
+    "homepage": "",
+    "size": 9,
+    "stargazers_count": 68,
+    "watchers_count": 68,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
