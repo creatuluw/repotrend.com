@@ -47746,5 +47746,51 @@
     "language": "C#",
     "forks_count": 0,
     "open_issues_count": 1
+  },
+  {
+    "id": 1231743029,
+    "name": "Echo-Loop",
+    "owner": {
+      "id": 282510409,
+      "url": "https://api.github.com/users/echo-loop",
+      "html_url": "https://github.com/echo-loop",
+      "avatar_url": "https://avatars.githubusercontent.com/u/282510409?v=4"
+    },
+    "html_url": "https://github.com/echo-loop/Echo-Loop",
+    "description": "Echo Loop 是一款科学、高效的 AI 英语听说训练 App，通过盲听、精听、跟读、复述和间隔复习，自动驱动学习者把每一段音频真正练懂、练熟、练到会说。",
+    "created_at": "2026-05-07T08:41:45Z",
+    "updated_at": "2026-06-02T13:19:19Z",
+    "pushed_at": "2026-06-02T11:21:35Z",
+    "git_url": "git://github.com/echo-loop/Echo-Loop.git",
+    "homepage": "https://www.echo-loop.top",
+    "size": 27360,
+    "stargazers_count": 860,
+    "watchers_count": 860,
+    "language": "Dart",
+    "forks_count": 51,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1252980831,
+    "name": "tang-changan",
+    "owner": {
+      "id": 187917479,
+      "url": "https://api.github.com/users/andyhuo520",
+      "html_url": "https://github.com/andyhuo520",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187917479?v=4"
+    },
+    "html_url": "https://github.com/andyhuo520/tang-changan",
+    "description": "大唐长安 · 智机府 — Tang Changan web game",
+    "created_at": "2026-05-29T03:51:09Z",
+    "updated_at": "2026-06-01T19:15:10Z",
+    "pushed_at": "2026-05-29T14:36:24Z",
+    "git_url": "git://github.com/andyhuo520/tang-changan.git",
+    "homepage": null,
+    "size": 36825,
+    "stargazers_count": 77,
+    "watchers_count": 77,
+    "language": "JavaScript",
+    "forks_count": 18,
+    "open_issues_count": 0
   }
 ]
