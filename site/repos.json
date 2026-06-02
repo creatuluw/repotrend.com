@@ -47654,5 +47654,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1234188479,
+    "name": "linux-basics-for-hackers-notes",
+    "owner": {
+      "id": 224766807,
+      "url": "https://api.github.com/users/ahegazy0",
+      "html_url": "https://github.com/ahegazy0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/224766807?v=4"
+    },
+    "html_url": "https://github.com/ahegazy0/linux-basics-for-hackers-notes",
+    "description": "A structured course built from personal study notes of the book Linux Basics for Hackers by OccupyTheWeb.",
+    "created_at": "2026-05-09T21:29:32Z",
+    "updated_at": "2026-06-02T07:44:42Z",
+    "pushed_at": "2026-05-31T21:26:04Z",
+    "git_url": "git://github.com/ahegazy0/linux-basics-for-hackers-notes.git",
+    "homepage": null,
+    "size": 12741,
+    "stargazers_count": 849,
+    "watchers_count": 849,
+    "language": null,
+    "forks_count": 86,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1255035856,
+    "name": "Valo-2",
+    "owner": {
+      "id": 288404384,
+      "url": "https://api.github.com/users/venomrageturbonova0847989",
+      "html_url": "https://github.com/venomrageturbonova0847989",
+      "avatar_url": "https://avatars.githubusercontent.com/u/288404384?v=4"
+    },
+    "html_url": "https://github.com/venomrageturbonova0847989/Valo-2",
+    "description": "Vanguard Vision (2026) — High-performance external computer vision framework for Valorant. Features ultra-low latency color detection, Arduino/HID mouse automation support, and a kernel-safe visual overlay.",
+    "created_at": "2026-05-31T10:16:19Z",
+    "updated_at": "2026-06-01T15:20:23Z",
+    "pushed_at": "2026-05-31T10:17:52Z",
+    "git_url": "git://github.com/venomrageturbonova0847989/Valo-2.git",
+    "homepage": "",
+    "size": 10,
+    "stargazers_count": 67,
+    "watchers_count": 67,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
