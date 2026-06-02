@@ -47608,5 +47608,51 @@
     "language": "Python",
     "forks_count": 9,
     "open_issues_count": 1
+  },
+  {
+    "id": 1239890796,
+    "name": "deep-swe",
+    "owner": {
+      "id": 130958377,
+      "url": "https://api.github.com/users/datacurve-ai",
+      "html_url": "https://github.com/datacurve-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130958377?v=4"
+    },
+    "html_url": "https://github.com/datacurve-ai/deep-swe",
+    "description": "Measuring frontier coding agents on original, long-horizon engineering tasks",
+    "created_at": "2026-05-15T14:49:34Z",
+    "updated_at": "2026-06-02T07:48:58Z",
+    "pushed_at": "2026-06-01T21:52:47Z",
+    "git_url": "git://github.com/datacurve-ai/deep-swe.git",
+    "homepage": "https://deepswe.datacurve.ai/",
+    "size": 1516,
+    "stargazers_count": 527,
+    "watchers_count": 527,
+    "language": "Shell",
+    "forks_count": 28,
+    "open_issues_count": 20
+  },
+  {
+    "id": 1256467798,
+    "name": "TG-Proxy",
+    "owner": {
+      "id": 270957806,
+      "url": "https://api.github.com/users/PackAshReside79",
+      "html_url": "https://github.com/PackAshReside79",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270957806?v=4"
+    },
+    "html_url": "https://github.com/PackAshReside79/TG-Proxy",
+    "description": null,
+    "created_at": "2026-06-01T20:04:47Z",
+    "updated_at": "2026-06-01T20:07:56Z",
+    "pushed_at": "2026-06-01T20:06:03Z",
+    "git_url": "git://github.com/PackAshReside79/TG-Proxy.git",
+    "homepage": null,
+    "size": 1605,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
