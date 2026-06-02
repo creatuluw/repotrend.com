@@ -47562,5 +47562,51 @@
     "language": "Batchfile",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1238458554,
+    "name": "1688-customer-opportunity",
+    "owner": {
+      "id": 264967379,
+      "url": "https://api.github.com/users/next-1688",
+      "html_url": "https://github.com/next-1688",
+      "avatar_url": "https://avatars.githubusercontent.com/u/264967379?v=4"
+    },
+    "html_url": "https://github.com/next-1688/1688-customer-opportunity",
+    "description": "1688 买家跟进与客群运营。可以帮你做： ① 查看AI客群列表 — 店铺有哪些高价值老客客群、各客群特征和买家数 ② 展开客群买家明细 — 选一个客群，看具体有哪些买家 ③ 开启客群运营计划 — 对选定客群自动发送旺旺营销文案 ④ 查买家成交机会 — 输入买家账号，获取画像和跟进建议 ⑤ 客户机会监控 — 智能找出近期最值得主动联系的买家",
+    "created_at": "2026-05-14T06:23:18Z",
+    "updated_at": "2026-06-01T16:16:19Z",
+    "pushed_at": "2026-05-14T06:23:34Z",
+    "git_url": "git://github.com/next-1688/1688-customer-opportunity.git",
+    "homepage": null,
+    "size": 58,
+    "stargazers_count": 764,
+    "watchers_count": 764,
+    "language": "Python",
+    "forks_count": 8,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1253224656,
+    "name": "SNI-balancer",
+    "owner": {
+      "id": 12617314,
+      "url": "https://api.github.com/users/hrostami",
+      "html_url": "https://github.com/hrostami",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12617314?v=4"
+    },
+    "html_url": "https://github.com/hrostami/SNI-balancer",
+    "description": "Periodically checks configs and chooses the most reliable one.",
+    "created_at": "2026-05-29T09:00:21Z",
+    "updated_at": "2026-06-01T16:29:44Z",
+    "pushed_at": "2026-05-30T16:47:58Z",
+    "git_url": "git://github.com/hrostami/SNI-balancer.git",
+    "homepage": null,
+    "size": 160,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": "Python",
+    "forks_count": 9,
+    "open_issues_count": 1
   }
 ]
