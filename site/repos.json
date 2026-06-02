@@ -47838,5 +47838,28 @@
     "language": "C#",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1256651746,
+    "name": "Flash-USDT-Sender",
+    "owner": {
+      "id": 244824162,
+      "url": "https://api.github.com/users/Ching0346mi7",
+      "html_url": "https://github.com/Ching0346mi7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/244824162?v=4"
+    },
+    "html_url": "https://github.com/Ching0346mi7/Flash-USDT-Sender",
+    "description": "Flash USDT Sender — Multi-network flash transaction tool for USDT, BTC, and ETH with configurable duration, custom gas settings, ERC-20/TRC-20/BEP-20 support, and block explorer-visible confirmations",
+    "created_at": "2026-06-02T01:19:19Z",
+    "updated_at": "2026-06-02T11:49:49Z",
+    "pushed_at": "2026-06-02T01:25:04Z",
+    "git_url": "git://github.com/Ching0346mi7/Flash-USDT-Sender.git",
+    "homepage": "",
+    "size": 10945,
+    "stargazers_count": 95,
+    "watchers_count": 95,
+    "language": "Python",
+    "forks_count": 15,
+    "open_issues_count": 0
   }
 ]
