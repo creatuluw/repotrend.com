@@ -48344,5 +48344,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1257638955,
+    "name": "tab-labeler",
+    "owner": {
+      "id": 140437827,
+      "url": "https://api.github.com/users/SenhorH",
+      "html_url": "https://github.com/SenhorH",
+      "avatar_url": "https://avatars.githubusercontent.com/u/140437827?v=4"
+    },
+    "html_url": "https://github.com/SenhorH/tab-labeler",
+    "description": "Rename browser tabs locally and bring order to chaotic sessions.",
+    "created_at": "2026-06-02T21:45:25Z",
+    "updated_at": "2026-06-03T19:26:06Z",
+    "pushed_at": "2026-06-02T21:46:47Z",
+    "git_url": "git://github.com/SenhorH/tab-labeler.git",
+    "homepage": null,
+    "size": 48,
+    "stargazers_count": 524,
+    "watchers_count": 524,
+    "language": "TypeScript",
+    "forks_count": 38,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1254885400,
+    "name": "discord-cdn-fix",
+    "owner": {
+      "id": 283207062,
+      "url": "https://api.github.com/users/DesireCheetah",
+      "html_url": "https://github.com/DesireCheetah",
+      "avatar_url": "https://avatars.githubusercontent.com/u/283207062?v=4"
+    },
+    "html_url": "https://github.com/DesireCheetah/discord-cdn-fix",
+    "description": "Починка загрузки картинок, аватарок и эмодзи в Discord",
+    "created_at": "2026-05-31T05:48:15Z",
+    "updated_at": "2026-06-03T13:15:20Z",
+    "pushed_at": "2026-05-31T05:48:36Z",
+    "git_url": "git://github.com/DesireCheetah/discord-cdn-fix.git",
+    "homepage": null,
+    "size": 4808,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
