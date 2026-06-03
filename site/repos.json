@@ -47976,5 +47976,51 @@
     "language": "Objective-C",
     "forks_count": 7,
     "open_issues_count": 4
+  },
+  {
+    "id": 1244185155,
+    "name": "VibeSearchBench",
+    "owner": {
+      "id": 286201477,
+      "url": "https://api.github.com/users/VibeBench",
+      "html_url": "https://github.com/VibeBench",
+      "avatar_url": "https://avatars.githubusercontent.com/u/286201477?v=4"
+    },
+    "html_url": "https://github.com/VibeBench/VibeSearchBench",
+    "description": "🔍 The hardest search benchmark in the wild — vague, multi-turn, proactive. 200 long-horizon tasks with persona-driven progressive disclosure, scored by verifiable schema-free knowledge-graph evaluation. No vibes, just triplet F1.",
+    "created_at": "2026-05-20T03:24:57Z",
+    "updated_at": "2026-06-02T14:49:00Z",
+    "pushed_at": "2026-05-28T03:21:51Z",
+    "git_url": "git://github.com/VibeBench/VibeSearchBench.git",
+    "homepage": "https://vibebench.github.io/VibeSearchBench.github.io/",
+    "size": 480,
+    "stargazers_count": 578,
+    "watchers_count": 578,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1256306208,
+    "name": "VapeV4-Client-2026",
+    "owner": {
+      "id": 289480340,
+      "url": "https://api.github.com/users/gunnardorsey36725068",
+      "html_url": "https://github.com/gunnardorsey36725068",
+      "avatar_url": "https://avatars.githubusercontent.com/u/289480340?v=4"
+    },
+    "html_url": "https://github.com/gunnardorsey36725068/VapeV4-Client-2026",
+    "description": "⭐️ Minecraft Vape V4 2026 Latest Download Updated Version Client | Vape Minecraft Client Release New Build Patch Update Installer | Setup File Edition V4 2026 Newest Latest Download | Vape V4 Minecraft Update Installer Setup File Edition | Client V4 2026 Release New Build Patch Update New ⭐️",
+    "created_at": "2026-06-01T16:47:14Z",
+    "updated_at": "2026-06-02T12:23:40Z",
+    "pushed_at": "2026-06-01T16:52:45Z",
+    "git_url": "git://github.com/gunnardorsey36725068/VapeV4-Client-2026.git",
+    "homepage": "",
+    "size": 8,
+    "stargazers_count": 85,
+    "watchers_count": 85,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
