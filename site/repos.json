@@ -48160,5 +48160,51 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 1
+  },
+  {
+    "id": 1233569086,
+    "name": "Agent-HTML",
+    "owner": {
+      "id": 81148442,
+      "url": "https://api.github.com/users/Sayhi-bzb",
+      "html_url": "https://github.com/Sayhi-bzb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81148442?v=4"
+    },
+    "html_url": "https://github.com/Sayhi-bzb/Agent-HTML",
+    "description": "You don't need a chat ui but a canvas with ai.",
+    "created_at": "2026-05-09T05:22:38Z",
+    "updated_at": "2026-06-02T18:29:45Z",
+    "pushed_at": "2026-06-02T14:34:36Z",
+    "git_url": "git://github.com/Sayhi-bzb/Agent-HTML.git",
+    "homepage": "https://agent-html.org/",
+    "size": 37228,
+    "stargazers_count": 541,
+    "watchers_count": 541,
+    "language": "TypeScript",
+    "forks_count": 17,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1255618063,
+    "name": "replaya",
+    "owner": {
+      "id": 136030139,
+      "url": "https://api.github.com/users/s2-streamstore",
+      "html_url": "https://github.com/s2-streamstore",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136030139?v=4"
+    },
+    "html_url": "https://github.com/s2-streamstore/replaya",
+    "description": "Self-hosted browser session replay built on S2 with live tailing",
+    "created_at": "2026-06-01T02:46:42Z",
+    "updated_at": "2026-06-03T07:02:38Z",
+    "pushed_at": "2026-06-02T18:49:43Z",
+    "git_url": "git://github.com/s2-streamstore/replaya.git",
+    "homepage": "https://s2.dev",
+    "size": 7538,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
