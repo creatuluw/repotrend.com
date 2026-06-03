@@ -48206,5 +48206,51 @@
     "language": "TypeScript",
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1229708435,
+    "name": "repository-harness",
+    "owner": {
+      "id": 35019978,
+      "url": "https://api.github.com/users/hoangnb24",
+      "html_url": "https://github.com/hoangnb24",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35019978?v=4"
+    },
+    "html_url": "https://github.com/hoangnb24/repository-harness",
+    "description": "Turn any repo into an agent-ready workspace for Claude Code, Codex, Cursor, and other coding agents.",
+    "created_at": "2026-05-05T10:02:30Z",
+    "updated_at": "2026-06-03T13:46:26Z",
+    "pushed_at": "2026-06-02T11:45:36Z",
+    "git_url": "git://github.com/hoangnb24/repository-harness.git",
+    "homepage": null,
+    "size": 157,
+    "stargazers_count": 513,
+    "watchers_count": 513,
+    "language": "Rust",
+    "forks_count": 240,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1255123063,
+    "name": "Tomadach-PC-2026-M2",
+    "owner": {
+      "id": 288417936,
+      "url": "https://api.github.com/users/violadunnigan83888912091",
+      "html_url": "https://github.com/violadunnigan83888912091",
+      "avatar_url": "https://avatars.githubusercontent.com/u/288417936?v=4"
+    },
+    "html_url": "https://github.com/violadunnigan83888912091/Tomadach-PC-2026-M2",
+    "description": "Easy-to-use PC utility and installer for TomodachiShare, featuring a simple .exe setup. Built for speed and accessibility.",
+    "created_at": "2026-05-31T12:41:06Z",
+    "updated_at": "2026-06-02T12:41:05Z",
+    "pushed_at": "2026-05-31T12:44:28Z",
+    "git_url": "git://github.com/violadunnigan83888912091/Tomadach-PC-2026-M2.git",
+    "homepage": "",
+    "size": 8,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
