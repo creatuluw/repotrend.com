@@ -48022,5 +48022,51 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1238606716,
+    "name": "comet",
+    "owner": {
+      "id": 153429891,
+      "url": "https://api.github.com/users/rpamis",
+      "html_url": "https://github.com/rpamis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153429891?v=4"
+    },
+    "html_url": "https://github.com/rpamis/comet",
+    "description": "Comet: OpenSpec + Superpowers dual-star development workflow",
+    "created_at": "2026-05-14T09:22:35Z",
+    "updated_at": "2026-06-02T17:24:01Z",
+    "pushed_at": "2026-06-02T16:06:48Z",
+    "git_url": "git://github.com/rpamis/comet.git",
+    "homepage": "",
+    "size": 2743,
+    "stargazers_count": 571,
+    "watchers_count": 571,
+    "language": "TypeScript",
+    "forks_count": 82,
+    "open_issues_count": 23
+  },
+  {
+    "id": 1255204944,
+    "name": "rag-from-zero",
+    "owner": {
+      "id": 15308811,
+      "url": "https://api.github.com/users/MisterBooo",
+      "html_url": "https://github.com/MisterBooo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15308811?v=4"
+    },
+    "html_url": "https://github.com/MisterBooo/rag-from-zero",
+    "description": "从零做出能上线的 RAG 系统,跟着代码学,完整开源 · A complete, runnable RAG tutorial in Chinese",
+    "created_at": "2026-05-31T14:40:20Z",
+    "updated_at": "2026-06-02T21:41:23Z",
+    "pushed_at": "2026-06-02T13:47:27Z",
+    "git_url": "git://github.com/MisterBooo/rag-from-zero.git",
+    "homepage": null,
+    "size": 84,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 0
   }
 ]
