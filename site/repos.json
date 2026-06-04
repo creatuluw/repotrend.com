@@ -48390,5 +48390,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1246148135,
+    "name": "ai-memory",
+    "owner": {
+      "id": 2840,
+      "url": "https://api.github.com/users/akitaonrails",
+      "html_url": "https://github.com/akitaonrails",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2840?v=4"
+    },
+    "html_url": "https://github.com/akitaonrails/ai-memory",
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "created_at": "2026-05-21T23:23:51Z",
+    "updated_at": "2026-06-03T18:58:30Z",
+    "pushed_at": "2026-06-02T20:50:15Z",
+    "git_url": "git://github.com/akitaonrails/ai-memory.git",
+    "homepage": "",
+    "size": 7236,
+    "stargazers_count": 513,
+    "watchers_count": 513,
+    "language": "Rust",
+    "forks_count": 55,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1255010253,
+    "name": "Email-Security-Auditor",
+    "owner": {
+      "id": 286365933,
+      "url": "https://api.github.com/users/sipaaryadi06864",
+      "html_url": "https://github.com/sipaaryadi06864",
+      "avatar_url": "https://avatars.githubusercontent.com/u/286365933?v=4"
+    },
+    "html_url": "https://github.com/sipaaryadi06864/Email-Security-Auditor",
+    "description": "An efficient utility for auditing email account security, validating credentials, and managing email lists.",
+    "created_at": "2026-05-31T09:32:02Z",
+    "updated_at": "2026-06-03T14:20:30Z",
+    "pushed_at": "2026-05-31T09:33:33Z",
+    "git_url": "git://github.com/sipaaryadi06864/Email-Security-Auditor.git",
+    "homepage": "",
+    "size": 8,
+    "stargazers_count": 76,
+    "watchers_count": 76,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 1
   }
 ]
