@@ -48666,5 +48666,51 @@
     "language": "Rust",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1250579716,
+    "name": "xalen-ephemeris",
+    "owner": {
+      "id": 244793891,
+      "url": "https://api.github.com/users/vedika-io",
+      "html_url": "https://github.com/vedika-io",
+      "avatar_url": "https://avatars.githubusercontent.com/u/244793891?v=4"
+    },
+    "html_url": "https://github.com/vedika-io/xalen-ephemeris",
+    "description": "Pure-Rust astronomical ephemeris for astrology — Vedic, Western, Chinese, and 9 world traditions",
+    "created_at": "2026-05-26T19:16:49Z",
+    "updated_at": "2026-06-04T13:17:12Z",
+    "pushed_at": "2026-06-02T15:48:14Z",
+    "git_url": "git://github.com/vedika-io/xalen-ephemeris.git",
+    "homepage": "https://xalen.io",
+    "size": 796,
+    "stargazers_count": 621,
+    "watchers_count": 621,
+    "language": "Rust",
+    "forks_count": 52,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1258064737,
+    "name": "draco.js",
+    "owner": {
+      "id": 97088,
+      "url": "https://api.github.com/users/mrdoob",
+      "html_url": "https://github.com/mrdoob",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97088?v=4"
+    },
+    "html_url": "https://github.com/mrdoob/draco.js",
+    "description": "A small, drop-in, pure-JavaScript Draco mesh loader for three.js.",
+    "created_at": "2026-06-03T08:44:06Z",
+    "updated_at": "2026-06-03T19:19:49Z",
+    "pushed_at": "2026-06-03T13:04:17Z",
+    "git_url": "git://github.com/mrdoob/draco.js.git",
+    "homepage": "https://mrdoob.github.io/draco.js/",
+    "size": 33728,
+    "stargazers_count": 80,
+    "watchers_count": 80,
+    "language": "JavaScript",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
