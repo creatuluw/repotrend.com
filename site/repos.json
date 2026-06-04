@@ -48574,5 +48574,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1233530473,
+    "name": "minWM",
+    "owner": {
+      "id": 133188292,
+      "url": "https://api.github.com/users/shengshu-ai",
+      "html_url": "https://github.com/shengshu-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/133188292?v=4"
+    },
+    "html_url": "https://github.com/shengshu-ai/minWM",
+    "description": "A Minimal and Elegant Framework & Tutorial for Real-Time Interactive World Models",
+    "created_at": "2026-05-09T04:04:35Z",
+    "updated_at": "2026-06-04T07:39:25Z",
+    "pushed_at": "2026-06-03T14:01:20Z",
+    "git_url": "git://github.com/shengshu-ai/minWM.git",
+    "homepage": "",
+    "size": 18517,
+    "stargazers_count": 530,
+    "watchers_count": 530,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1258377532,
+    "name": "align-dev",
+    "owner": {
+      "id": 3770596,
+      "url": "https://api.github.com/users/razr001",
+      "html_url": "https://github.com/razr001",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3770596?v=4"
+    },
+    "html_url": "https://github.com/razr001/align-dev",
+    "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Cursor, Copilot, and other agents write consistently.",
+    "created_at": "2026-06-03T14:19:33Z",
+    "updated_at": "2026-06-04T05:11:23Z",
+    "pushed_at": "2026-06-04T01:50:01Z",
+    "git_url": "git://github.com/razr001/align-dev.git",
+    "homepage": "https://aligndev.dev",
+    "size": 197,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
