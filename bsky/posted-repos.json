@@ -4690,5 +4690,11 @@
     "name": "claude-code",
     "html_url": "https://github.com/CometixSpace/claude-code",
     "posted_at": "2026-06-05T04:35:56.280Z"
+  },
+  {
+    "id": 1225256461,
+    "name": "codex-plusplus-ios-simulator",
+    "html_url": "https://github.com/b-nnett/codex-plusplus-ios-simulator",
+    "posted_at": "2026-06-05T07:01:04.871Z"
   }
 ]
