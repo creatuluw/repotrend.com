@@ -48827,5 +48827,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1252526989,
+    "name": "ideogram4",
+    "owner": {
+      "id": 288687116,
+      "url": "https://api.github.com/users/ideogram-oss",
+      "html_url": "https://github.com/ideogram-oss",
+      "avatar_url": "https://avatars.githubusercontent.com/u/288687116?v=4"
+    },
+    "html_url": "https://github.com/ideogram-oss/ideogram4",
+    "description": "Ideogram 4: Open image model at the forefront of design",
+    "created_at": "2026-05-28T15:56:47Z",
+    "updated_at": "2026-06-04T18:55:48Z",
+    "pushed_at": "2026-06-04T15:44:03Z",
+    "git_url": "git://github.com/ideogram-oss/ideogram4.git",
+    "homepage": "",
+    "size": 10448,
+    "stargazers_count": 871,
+    "watchers_count": 871,
+    "language": "Python",
+    "forks_count": 68,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1259569199,
+    "name": "universal-fps-tweak-26-743",
+    "owner": {
+      "id": 288927931,
+      "url": "https://api.github.com/users/Marinasainertia",
+      "html_url": "https://github.com/Marinasainertia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/288927931?v=4"
+    },
+    "html_url": "https://github.com/Marinasainertia/universal-fps-tweak-26-743",
+    "description": "🚀 Easy-to-use FPS Booster and system performance optimizer for Windows. Maximize your PC capabilities, reduce lag, and get smooth gameplay in one click.",
+    "created_at": "2026-06-04T16:29:35Z",
+    "updated_at": "2026-06-04T18:54:37Z",
+    "pushed_at": "2026-06-04T16:30:05Z",
+    "git_url": "git://github.com/Marinasainertia/universal-fps-tweak-26-743.git",
+    "homepage": null,
+    "size": 19,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
