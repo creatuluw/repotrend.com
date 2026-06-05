@@ -48919,5 +48919,51 @@
     "language": "JavaScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1244665294,
+    "name": "poc-lab",
+    "owner": {
+      "id": 55303635,
+      "url": "https://api.github.com/users/Unclecheng-li",
+      "html_url": "https://github.com/Unclecheng-li",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55303635?v=4"
+    },
+    "html_url": "https://github.com/Unclecheng-li/poc-lab",
+    "description": "Recent CVE PoC & reproduction scripts. Focused on high-severity vulnerabilities across Linux kernel, Windows, macOS and more.",
+    "created_at": "2026-05-20T13:31:52Z",
+    "updated_at": "2026-06-05T03:16:18Z",
+    "pushed_at": "2026-06-04T11:47:26Z",
+    "git_url": "git://github.com/Unclecheng-li/poc-lab.git",
+    "homepage": "",
+    "size": 1184,
+    "stargazers_count": 487,
+    "watchers_count": 487,
+    "language": "C",
+    "forks_count": 84,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1257245577,
+    "name": "RB-Coll-2026",
+    "owner": {
+      "id": 289807926,
+      "url": "https://api.github.com/users/w053415201593",
+      "html_url": "https://github.com/w053415201593",
+      "avatar_url": "https://avatars.githubusercontent.com/u/289807926?v=4"
+    },
+    "html_url": "https://github.com/w053415201593/RB-Coll-2026",
+    "description": "A curated collection of documentation and safe templates for understanding and analyzing Roblox execution environments in a controlled lab setting.",
+    "created_at": "2026-06-02T13:54:25Z",
+    "updated_at": "2026-06-04T14:25:24Z",
+    "pushed_at": "2026-06-02T14:00:06Z",
+    "git_url": "git://github.com/w053415201593/RB-Coll-2026.git",
+    "homepage": "",
+    "size": 15,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
