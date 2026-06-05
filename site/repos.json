@@ -49057,5 +49057,51 @@
     "language": "Shell",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1245733063,
+    "name": "AutoScientists",
+    "owner": {
+      "id": 60720343,
+      "url": "https://api.github.com/users/mims-harvard",
+      "html_url": "https://github.com/mims-harvard",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60720343?v=4"
+    },
+    "html_url": "https://github.com/mims-harvard/AutoScientists",
+    "description": "AutoScientists: Self-Organizing Agent Teams for Long-Running Scientific Experimentation",
+    "created_at": "2026-05-21T13:58:17Z",
+    "updated_at": "2026-06-05T06:07:36Z",
+    "pushed_at": "2026-05-28T05:00:19Z",
+    "git_url": "git://github.com/mims-harvard/AutoScientists.git",
+    "homepage": "https://autoscientists.openscientist.ai",
+    "size": 11509,
+    "stargazers_count": 537,
+    "watchers_count": 537,
+    "language": "Python",
+    "forks_count": 83,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1257336239,
+    "name": "KTO",
+    "owner": {
+      "id": 190832399,
+      "url": "https://api.github.com/users/Ymsniper",
+      "html_url": "https://github.com/Ymsniper",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190832399?v=4"
+    },
+    "html_url": "https://github.com/Ymsniper/KTO",
+    "description": "WiFi deauthentication tool that kicks every device off a target network - except the ones you whitelist by MAC address. It continuously scans for non‑whitelisted devices and deauths them the moment they appear or try to reconnect.",
+    "created_at": "2026-06-02T15:26:18Z",
+    "updated_at": "2026-06-05T13:08:42Z",
+    "pushed_at": "2026-06-04T21:04:24Z",
+    "git_url": "git://github.com/Ymsniper/KTO.git",
+    "homepage": "",
+    "size": 39,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
