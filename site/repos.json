@@ -49011,5 +49011,51 @@
     "language": "TypeScript",
     "forks_count": 33,
     "open_issues_count": 0
+  },
+  {
+    "id": 1255412388,
+    "name": "memory-os",
+    "owner": {
+      "id": 242654945,
+      "url": "https://api.github.com/users/ClaudioDrews",
+      "html_url": "https://github.com/ClaudioDrews",
+      "avatar_url": "https://avatars.githubusercontent.com/u/242654945?v=4"
+    },
+    "html_url": "https://github.com/ClaudioDrews/memory-os",
+    "description": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.",
+    "created_at": "2026-05-31T19:50:25Z",
+    "updated_at": "2026-06-05T07:15:17Z",
+    "pushed_at": "2026-06-05T04:51:37Z",
+    "git_url": "git://github.com/ClaudioDrews/memory-os.git",
+    "homepage": "",
+    "size": 381,
+    "stargazers_count": 837,
+    "watchers_count": 837,
+    "language": "Python",
+    "forks_count": 82,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1259520543,
+    "name": "nbd-vram-594",
+    "owner": {
+      "id": 288927103,
+      "url": "https://api.github.com/users/Southshuquilt",
+      "html_url": "https://github.com/Southshuquilt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/288927103?v=4"
+    },
+    "html_url": "https://github.com/Southshuquilt/nbd-vram-594",
+    "description": "Use your NVIDIA GPU's VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you're getting swapped to SSD, this puts that VRAM to work",
+    "created_at": "2026-06-04T15:34:34Z",
+    "updated_at": "2026-06-04T18:54:34Z",
+    "pushed_at": "2026-06-04T15:35:29Z",
+    "git_url": "git://github.com/Southshuquilt/nbd-vram-594.git",
+    "homepage": null,
+    "size": 46,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
