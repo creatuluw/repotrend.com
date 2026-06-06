@@ -49195,5 +49195,51 @@
     "language": "Python",
     "forks_count": 19,
     "open_issues_count": 0
+  },
+  {
+    "id": 1248697773,
+    "name": "wha-spell-simulator",
+    "owner": {
+      "id": 287546222,
+      "url": "https://api.github.com/users/ytnrvdf",
+      "html_url": "https://github.com/ytnrvdf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/287546222?v=4"
+    },
+    "html_url": "https://github.com/ytnrvdf/wha-spell-simulator",
+    "description": "A fan-made browser-based Witch Hat Atelier spell simulator.",
+    "created_at": "2026-05-25T00:57:33Z",
+    "updated_at": "2026-06-05T18:42:14Z",
+    "pushed_at": "2026-05-31T12:16:42Z",
+    "git_url": "git://github.com/ytnrvdf/wha-spell-simulator.git",
+    "homepage": "https://ytnrvdf.github.io/wha-spell-simulator/",
+    "size": 7533,
+    "stargazers_count": 569,
+    "watchers_count": 569,
+    "language": "JavaScript",
+    "forks_count": 72,
+    "open_issues_count": 13
+  },
+  {
+    "id": 1259598206,
+    "name": "Forza-Horizon-Spotify-Radio",
+    "owner": {
+      "id": 198825657,
+      "url": "https://api.github.com/users/ZackTheHack362B",
+      "html_url": "https://github.com/ZackTheHack362B",
+      "avatar_url": "https://avatars.githubusercontent.com/u/198825657?v=4"
+    },
+    "html_url": "https://github.com/ZackTheHack362B/Forza-Horizon-Spotify-Radio",
+    "description": "forza horizon 6 spotify radio mod fh6 download nexus github setup 2026",
+    "created_at": "2026-06-04T17:04:45Z",
+    "updated_at": "2026-06-06T06:53:51Z",
+    "pushed_at": "2026-06-04T17:18:08Z",
+    "git_url": "git://github.com/ZackTheHack362B/Forza-Horizon-Spotify-Radio.git",
+    "homepage": "",
+    "size": 171,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
