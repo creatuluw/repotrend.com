@@ -49149,5 +49149,51 @@
     "language": "Python",
     "forks_count": 35,
     "open_issues_count": 0
+  },
+  {
+    "id": 1230831838,
+    "name": "OpenOSINT",
+    "owner": {
+      "id": 281987694,
+      "url": "https://api.github.com/users/OpenOSINT",
+      "html_url": "https://github.com/OpenOSINT",
+      "avatar_url": "https://avatars.githubusercontent.com/u/281987694?v=4"
+    },
+    "html_url": "https://github.com/OpenOSINT/OpenOSINT",
+    "description": "AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 16 tools. Works with Claude, GPT-4, or local models. For authorized security research only.",
+    "created_at": "2026-05-06T11:12:42Z",
+    "updated_at": "2026-06-04T17:52:53Z",
+    "pushed_at": "2026-06-03T14:36:32Z",
+    "git_url": "git://github.com/OpenOSINT/OpenOSINT.git",
+    "homepage": "https://openosint.tech",
+    "size": 17639,
+    "stargazers_count": 498,
+    "watchers_count": 498,
+    "language": "Python",
+    "forks_count": 91,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1258388497,
+    "name": "wechat-group-stats",
+    "owner": {
+      "id": 118886392,
+      "url": "https://api.github.com/users/punk2898",
+      "html_url": "https://github.com/punk2898",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118886392?v=4"
+    },
+    "html_url": "https://github.com/punk2898/wechat-group-stats",
+    "description": null,
+    "created_at": "2026-06-03T14:30:30Z",
+    "updated_at": "2026-06-04T18:14:04Z",
+    "pushed_at": "2026-06-03T14:55:55Z",
+    "git_url": "git://github.com/punk2898/wechat-group-stats.git",
+    "homepage": null,
+    "size": 168,
+    "stargazers_count": 67,
+    "watchers_count": 67,
+    "language": "Python",
+    "forks_count": 19,
+    "open_issues_count": 0
   }
 ]
