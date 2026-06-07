@@ -49287,5 +49287,51 @@
     "language": "Go",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1246722622,
+    "name": "agent-skills",
+    "owner": {
+      "id": 252820863,
+      "url": "https://api.github.com/users/openclaw",
+      "html_url": "https://github.com/openclaw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/252820863?v=4"
+    },
+    "html_url": "https://github.com/openclaw/agent-skills",
+    "description": "Useful skills for agents and claws.",
+    "created_at": "2026-05-22T13:38:53Z",
+    "updated_at": "2026-06-06T17:25:13Z",
+    "pushed_at": "2026-06-04T21:50:18Z",
+    "git_url": "git://github.com/openclaw/agent-skills.git",
+    "homepage": "",
+    "size": 138,
+    "stargazers_count": 709,
+    "watchers_count": 709,
+    "language": "TypeScript",
+    "forks_count": 32,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1259415649,
+    "name": "forzahorizon-spotify-integration",
+    "owner": {
+      "id": 171024104,
+      "url": "https://api.github.com/users/ivandhaxxi",
+      "html_url": "https://github.com/ivandhaxxi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/171024104?v=4"
+    },
+    "html_url": "https://github.com/ivandhaxxi/forzahorizon-spotify-integration",
+    "description": "Simple audio controller for Forza Horizon and Spotify on Windows PC. Control your favorite music tracks directly while driving.",
+    "created_at": "2026-06-04T13:39:58Z",
+    "updated_at": "2026-06-05T16:13:51Z",
+    "pushed_at": "2026-06-04T13:45:28Z",
+    "git_url": "git://github.com/ivandhaxxi/forzahorizon-spotify-integration.git",
+    "homepage": "",
+    "size": 8,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
