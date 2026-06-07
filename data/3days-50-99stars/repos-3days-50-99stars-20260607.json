@@ -1,28 +1,5 @@
 [
   {
-    "id": 1259888079,
-    "name": "grill-me-codex",
-    "owner": {
-      "id": 290887357,
-      "url": "https://api.github.com/users/chaseai-yt",
-      "html_url": "https://github.com/chaseai-yt",
-      "avatar_url": "https://avatars.githubusercontent.com/u/290887357?v=4"
-    },
-    "html_url": "https://github.com/chaseai-yt/grill-me-codex",
-    "description": null,
-    "created_at": "2026-06-05T00:51:06Z",
-    "updated_at": "2026-06-07T06:41:07Z",
-    "pushed_at": "2026-06-05T01:57:50Z",
-    "git_url": "git://github.com/chaseai-yt/grill-me-codex.git",
-    "homepage": null,
-    "size": 18,
-    "stargazers_count": 99,
-    "watchers_count": 99,
-    "language": null,
-    "forks_count": 17,
-    "open_issues_count": 3
-  },
-  {
     "id": 1261539697,
     "name": "Canva-Pro-Desktop-Windows",
     "owner": {
@@ -92,6 +69,29 @@
     "open_issues_count": 1
   },
   {
+    "id": 1260920967,
+    "name": "image-to-code",
+    "owner": {
+      "id": 236988898,
+      "url": "https://api.github.com/users/yuzhworkhard-wq",
+      "html_url": "https://github.com/yuzhworkhard-wq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/236988898?v=4"
+    },
+    "html_url": "https://github.com/yuzhworkhard-wq/image-to-code",
+    "description": "Codex skill for 750px image-to-code reconstruction and transparent PNG slicing",
+    "created_at": "2026-06-06T03:01:49Z",
+    "updated_at": "2026-06-07T10:18:54Z",
+    "pushed_at": "2026-06-06T06:14:24Z",
+    "git_url": "git://github.com/yuzhworkhard-wq/image-to-code.git",
+    "homepage": null,
+    "size": 46,
+    "stargazers_count": 95,
+    "watchers_count": 95,
+    "language": "Python",
+    "forks_count": 7,
+    "open_issues_count": 0
+  },
+  {
     "id": 1260614227,
     "name": "DrFone-Screen-Unlock-ToolKit-2",
     "owner": {
@@ -138,29 +138,6 @@
     "open_issues_count": 1
   },
   {
-    "id": 1260920967,
-    "name": "image-to-code",
-    "owner": {
-      "id": 236988898,
-      "url": "https://api.github.com/users/yuzhworkhard-wq",
-      "html_url": "https://github.com/yuzhworkhard-wq",
-      "avatar_url": "https://avatars.githubusercontent.com/u/236988898?v=4"
-    },
-    "html_url": "https://github.com/yuzhworkhard-wq/image-to-code",
-    "description": "Codex skill for 750px image-to-code reconstruction and transparent PNG slicing",
-    "created_at": "2026-06-06T03:01:49Z",
-    "updated_at": "2026-06-07T06:16:42Z",
-    "pushed_at": "2026-06-06T06:14:24Z",
-    "git_url": "git://github.com/yuzhworkhard-wq/image-to-code.git",
-    "homepage": null,
-    "size": 46,
-    "stargazers_count": 94,
-    "watchers_count": 94,
-    "language": "Python",
-    "forks_count": 7,
-    "open_issues_count": 0
-  },
-  {
     "id": 1260137777,
     "name": "WhiteDNS-Wizard",
     "owner": {
@@ -172,38 +149,15 @@
     "html_url": "https://github.com/iampedii/WhiteDNS-Wizard",
     "description": "Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows.",
     "created_at": "2026-06-05T07:34:28Z",
-    "updated_at": "2026-06-07T07:31:46Z",
+    "updated_at": "2026-06-07T12:28:56Z",
     "pushed_at": "2026-06-07T06:11:06Z",
     "git_url": "git://github.com/iampedii/WhiteDNS-Wizard.git",
     "homepage": null,
     "size": 959,
-    "stargazers_count": 90,
-    "watchers_count": 90,
+    "stargazers_count": 93,
+    "watchers_count": 93,
     "language": "Go",
     "forks_count": 5,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1261650101,
-    "name": "baoyu-design",
-    "owner": {
-      "id": 648674,
-      "url": "https://api.github.com/users/JimLiu",
-      "html_url": "https://github.com/JimLiu",
-      "avatar_url": "https://avatars.githubusercontent.com/u/648674?v=4"
-    },
-    "html_url": "https://github.com/JimLiu/baoyu-design",
-    "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
-    "created_at": "2026-06-07T01:16:18Z",
-    "updated_at": "2026-06-07T07:31:56Z",
-    "pushed_at": "2026-06-07T07:16:54Z",
-    "git_url": "git://github.com/JimLiu/baoyu-design.git",
-    "homepage": null,
-    "size": 4544,
-    "stargazers_count": 85,
-    "watchers_count": 85,
-    "language": "JavaScript",
-    "forks_count": 6,
     "open_issues_count": 0
   },
   {
@@ -218,15 +172,38 @@
     "html_url": "https://github.com/elder-plinius/ENTHEA",
     "description": "real-time psychedelic visual synthesizer and pro-grade music visualizer",
     "created_at": "2026-06-05T10:26:11Z",
-    "updated_at": "2026-06-07T03:46:08Z",
+    "updated_at": "2026-06-07T12:25:19Z",
     "pushed_at": "2026-06-05T10:28:52Z",
     "git_url": "git://github.com/elder-plinius/ENTHEA.git",
     "homepage": "",
     "size": 117,
-    "stargazers_count": 84,
-    "watchers_count": 84,
+    "stargazers_count": 86,
+    "watchers_count": 86,
     "language": "HTML",
     "forks_count": 19,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1258994637,
+    "name": "ian-xiaohei-scenes",
+    "owner": {
+      "id": 89686060,
+      "url": "https://api.github.com/users/helloianneo",
+      "html_url": "https://github.com/helloianneo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89686060?v=4"
+    },
+    "html_url": "https://github.com/helloianneo/ian-xiaohei-scenes",
+    "description": "Xiaohei 2.0 Codex Skill for Chinese real-object article illustrations and long-scroll story images",
+    "created_at": "2026-06-04T05:23:49Z",
+    "updated_at": "2026-06-07T11:04:09Z",
+    "pushed_at": "2026-06-04T05:49:37Z",
+    "git_url": "git://github.com/helloianneo/ian-xiaohei-scenes.git",
+    "homepage": "https://www.ianneo.xyz",
+    "size": 8635,
+    "stargazers_count": 84,
+    "watchers_count": 84,
+    "language": null,
+    "forks_count": 4,
     "open_issues_count": 0
   },
   {
@@ -253,29 +230,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1258994637,
-    "name": "ian-xiaohei-scenes",
-    "owner": {
-      "id": 89686060,
-      "url": "https://api.github.com/users/helloianneo",
-      "html_url": "https://github.com/helloianneo",
-      "avatar_url": "https://avatars.githubusercontent.com/u/89686060?v=4"
-    },
-    "html_url": "https://github.com/helloianneo/ian-xiaohei-scenes",
-    "description": "Xiaohei 2.0 Codex Skill for Chinese real-object article illustrations and long-scroll story images",
-    "created_at": "2026-06-04T05:23:49Z",
-    "updated_at": "2026-06-07T04:17:09Z",
-    "pushed_at": "2026-06-04T05:49:37Z",
-    "git_url": "git://github.com/helloianneo/ian-xiaohei-scenes.git",
-    "homepage": "https://www.ianneo.xyz",
-    "size": 8635,
-    "stargazers_count": 82,
-    "watchers_count": 82,
-    "language": null,
-    "forks_count": 4,
-    "open_issues_count": 0
-  },
-  {
     "id": 1259742577,
     "name": "start-ai-engineering",
     "owner": {
@@ -287,15 +241,38 @@
     "html_url": "https://github.com/louisfb01/start-ai-engineering",
     "description": "A complete guide to start and improve in AI engineering in 2026 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!",
     "created_at": "2026-06-04T20:14:21Z",
-    "updated_at": "2026-06-07T07:09:12Z",
+    "updated_at": "2026-06-07T11:45:58Z",
     "pushed_at": "2026-06-06T15:45:01Z",
     "git_url": "git://github.com/louisfb01/start-ai-engineering.git",
     "homepage": null,
     "size": 62,
-    "stargazers_count": 78,
-    "watchers_count": 78,
+    "stargazers_count": 83,
+    "watchers_count": 83,
     "language": null,
     "forks_count": 9,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1261170027,
+    "name": "awesome-free-models",
+    "owner": {
+      "id": 3703613,
+      "url": "https://api.github.com/users/12britz",
+      "html_url": "https://github.com/12britz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3703613?v=4"
+    },
+    "html_url": "https://github.com/12britz/awesome-free-models",
+    "description": "A curated list of free AI models, APIs, and tools you can use without paying a cent.",
+    "created_at": "2026-06-06T10:30:50Z",
+    "updated_at": "2026-06-07T12:02:01Z",
+    "pushed_at": "2026-06-07T10:32:11Z",
+    "git_url": "git://github.com/12britz/awesome-free-models.git",
+    "homepage": null,
+    "size": 212,
+    "stargazers_count": 76,
+    "watchers_count": 76,
+    "language": null,
+    "forks_count": 2,
     "open_issues_count": 0
   },
   {
@@ -391,6 +368,29 @@
     "open_issues_count": 1
   },
   {
+    "id": 1261078102,
+    "name": "honkaistarrailexternalcheatmenu-overlay",
+    "owner": {
+      "id": 290556434,
+      "url": "https://api.github.com/users/lopacachonda0891-art",
+      "html_url": "https://github.com/lopacachonda0891-art",
+      "avatar_url": "https://avatars.githubusercontent.com/u/290556434?v=4"
+    },
+    "html_url": "https://github.com/lopacachonda0891-art/honkaistarrailexternalcheatmenu-overlay",
+    "description": "Simple and clean standalone desktop overlay for HonkaiStarRailExternalCheatMenu on Windows PC. Easily monitor turn-based combat metrics, track farming paths, and manage stats.",
+    "created_at": "2026-06-06T07:53:51Z",
+    "updated_at": "2026-06-07T09:09:44Z",
+    "pushed_at": "2026-06-06T07:55:14Z",
+    "git_url": "git://github.com/lopacachonda0891-art/honkaistarrailexternalcheatmenu-overlay.git",
+    "homepage": "",
+    "size": 9,
+    "stargazers_count": 75,
+    "watchers_count": 75,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
     "id": 1260620538,
     "name": "monkemodmanager-windows-installer-2",
     "owner": {
@@ -412,6 +412,29 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 1
+  },
+  {
+    "id": 1261082100,
+    "name": "sims4-dls-unlocker-desktop-2",
+    "owner": {
+      "id": 223110157,
+      "url": "https://api.github.com/users/Shahamat21201839",
+      "html_url": "https://github.com/Shahamat21201839",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223110157?v=4"
+    },
+    "html_url": "https://github.com/Shahamat21201839/sims4-dls-unlocker-desktop-2",
+    "description": "Simple and clean standalone desktop organization manager for Sims 4 Dls Unlocker on Windows PC. Easily manage, index, and organize your local game expansion contents.",
+    "created_at": "2026-06-06T08:00:09Z",
+    "updated_at": "2026-06-07T09:08:12Z",
+    "pushed_at": "2026-06-06T08:01:34Z",
+    "git_url": "git://github.com/Shahamat21201839/sims4-dls-unlocker-desktop-2.git",
+    "homepage": "",
+    "size": 9,
+    "stargazers_count": 75,
+    "watchers_count": 75,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   },
   {
     "id": 1260590555,
@@ -460,6 +483,75 @@
     "open_issues_count": 1
   },
   {
+    "id": 1261077914,
+    "name": "hytalepanel-desktop-wizard",
+    "owner": {
+      "id": 253022817,
+      "url": "https://api.github.com/users/ItsCentralize",
+      "html_url": "https://github.com/ItsCentralize",
+      "avatar_url": "https://avatars.githubusercontent.com/u/253022817?v=4"
+    },
+    "html_url": "https://github.com/ItsCentralize/hytalepanel-desktop-wizard",
+    "description": "Simple and clean standalone desktop management dashboard for HytalePanel on Windows PC. Easily view, configure, and organize your local sandbox servers, worlds, and modpacks.",
+    "created_at": "2026-06-06T07:53:33Z",
+    "updated_at": "2026-06-07T09:11:09Z",
+    "pushed_at": "2026-06-06T07:54:55Z",
+    "git_url": "git://github.com/ItsCentralize/hytalepanel-desktop-wizard.git",
+    "homepage": "",
+    "size": 8,
+    "stargazers_count": 75,
+    "watchers_count": 75,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1259800488,
+    "name": "opengram",
+    "owner": {
+      "id": 277049734,
+      "url": "https://api.github.com/users/opengram-server",
+      "html_url": "https://github.com/opengram-server",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277049734?v=4"
+    },
+    "html_url": "https://github.com/opengram-server/opengram",
+    "description": null,
+    "created_at": "2026-06-04T21:49:12Z",
+    "updated_at": "2026-06-07T12:27:25Z",
+    "pushed_at": "2026-06-06T11:23:41Z",
+    "git_url": "git://github.com/opengram-server/opengram.git",
+    "homepage": null,
+    "size": 3256,
+    "stargazers_count": 74,
+    "watchers_count": 74,
+    "language": "C#",
+    "forks_count": 10,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1259078427,
+    "name": "serenity-skill",
+    "owner": {
+      "id": 83726732,
+      "url": "https://api.github.com/users/ZadAnthony",
+      "html_url": "https://github.com/ZadAnthony",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83726732?v=4"
+    },
+    "html_url": "https://github.com/ZadAnthony/serenity-skill",
+    "description": "Serenity (@aleabitoreddit) 供应链卡点逆向投资方法论的 Claude Code Skill — 第三方提炼,非投资建议",
+    "created_at": "2026-06-04T07:09:48Z",
+    "updated_at": "2026-06-07T12:41:22Z",
+    "pushed_at": "2026-06-07T07:15:21Z",
+    "git_url": "git://github.com/ZadAnthony/serenity-skill.git",
+    "homepage": null,
+    "size": 75,
+    "stargazers_count": 73,
+    "watchers_count": 73,
+    "language": null,
+    "forks_count": 7,
+    "open_issues_count": 0
+  },
+  {
     "id": 1261484186,
     "name": "ai-linux-webapp-wrapper",
     "owner": {
@@ -483,26 +575,26 @@
     "open_issues_count": 1
   },
   {
-    "id": 1259112461,
-    "name": "zca-bridge",
+    "id": 1261478656,
+    "name": "Spectrum-Library",
     "owner": {
-      "id": 6101402,
-      "url": "https://api.github.com/users/diendh",
-      "html_url": "https://github.com/diendh",
-      "avatar_url": "https://avatars.githubusercontent.com/u/6101402?v=4"
+      "id": 26288409,
+      "url": "https://api.github.com/users/Phoenixx1202",
+      "html_url": "https://github.com/Phoenixx1202",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26288409?v=4"
     },
-    "html_url": "https://github.com/diendh/zca-bridge",
-    "description": "Self-hosted Zalo ↔ Chatwoot bridge for Vietnamese customer support teams",
-    "created_at": "2026-06-04T07:49:55Z",
-    "updated_at": "2026-06-07T06:16:44Z",
-    "pushed_at": "2026-06-05T15:02:04Z",
-    "git_url": "git://github.com/diendh/zca-bridge.git",
-    "homepage": "https://vietts.io/",
-    "size": 1714,
-    "stargazers_count": 69,
-    "watchers_count": 69,
-    "language": "TypeScript",
-    "forks_count": 43,
+    "html_url": "https://github.com/Phoenixx1202/Spectrum-Library",
+    "description": null,
+    "created_at": "2026-06-06T18:35:52Z",
+    "updated_at": "2026-06-07T12:19:18Z",
+    "pushed_at": "2026-06-07T02:06:44Z",
+    "git_url": "git://github.com/Phoenixx1202/Spectrum-Library.git",
+    "homepage": null,
+    "size": 2,
+    "stargazers_count": 71,
+    "watchers_count": 71,
+    "language": null,
+    "forks_count": 3,
     "open_issues_count": 0
   },
   {
@@ -517,38 +609,38 @@
     "html_url": "https://github.com/nv-tlabs/ArtiFixer",
     "description": null,
     "created_at": "2026-06-04T01:11:13Z",
-    "updated_at": "2026-06-07T06:43:30Z",
+    "updated_at": "2026-06-07T09:00:38Z",
     "pushed_at": "2026-06-04T18:12:37Z",
     "git_url": "git://github.com/nv-tlabs/ArtiFixer.git",
     "homepage": null,
     "size": 1044,
-    "stargazers_count": 68,
-    "watchers_count": 68,
+    "stargazers_count": 70,
+    "watchers_count": 70,
     "language": "Python",
     "forks_count": 4,
-    "open_issues_count": 1
+    "open_issues_count": 2
   },
   {
-    "id": 1259078427,
-    "name": "serenity-skill",
+    "id": 1259112461,
+    "name": "zca-bridge",
     "owner": {
-      "id": 83726732,
-      "url": "https://api.github.com/users/ZadAnthony",
-      "html_url": "https://github.com/ZadAnthony",
-      "avatar_url": "https://avatars.githubusercontent.com/u/83726732?v=4"
+      "id": 6101402,
+      "url": "https://api.github.com/users/diendh",
+      "html_url": "https://github.com/diendh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6101402?v=4"
     },
-    "html_url": "https://github.com/ZadAnthony/serenity-skill",
-    "description": "Serenity (@aleabitoreddit) 供应链卡点逆向投资方法论的 Claude Code Skill — 第三方提炼,非投资建议",
-    "created_at": "2026-06-04T07:09:48Z",
-    "updated_at": "2026-06-07T07:31:13Z",
-    "pushed_at": "2026-06-07T07:15:21Z",
-    "git_url": "git://github.com/ZadAnthony/serenity-skill.git",
-    "homepage": null,
-    "size": 72,
-    "stargazers_count": 66,
-    "watchers_count": 66,
-    "language": null,
-    "forks_count": 7,
+    "html_url": "https://github.com/diendh/zca-bridge",
+    "description": "Self-hosted Zalo ↔ Chatwoot bridge for Vietnamese customer support teams",
+    "created_at": "2026-06-04T07:49:55Z",
+    "updated_at": "2026-06-07T09:10:03Z",
+    "pushed_at": "2026-06-07T09:10:00Z",
+    "git_url": "git://github.com/diendh/zca-bridge.git",
+    "homepage": "https://vietts.io/",
+    "size": 1752,
+    "stargazers_count": 69,
+    "watchers_count": 69,
+    "language": "TypeScript",
+    "forks_count": 43,
     "open_issues_count": 0
   },
   {
@@ -563,15 +655,61 @@
     "html_url": "https://github.com/pontusab/behindthecode",
     "description": null,
     "created_at": "2026-06-04T09:10:52Z",
-    "updated_at": "2026-06-06T07:30:06Z",
+    "updated_at": "2026-06-07T09:48:42Z",
     "pushed_at": "2026-06-04T14:58:43Z",
     "git_url": "git://github.com/pontusab/behindthecode.git",
     "homepage": "https://behindthecode-nu.vercel.app",
     "size": 683,
-    "stargazers_count": 66,
-    "watchers_count": 66,
+    "stargazers_count": 67,
+    "watchers_count": 67,
     "language": "TypeScript",
     "forks_count": 10,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1260240113,
+    "name": "hermes-link-curator",
+    "owner": {
+      "id": 254021826,
+      "url": "https://api.github.com/users/dodo-reach",
+      "html_url": "https://github.com/dodo-reach",
+      "avatar_url": "https://avatars.githubusercontent.com/u/254021826?v=4"
+    },
+    "html_url": "https://github.com/dodo-reach/hermes-link-curator",
+    "description": "Hermes profile pack for archiving and browsing curated links + web dashboard app",
+    "created_at": "2026-06-05T09:36:50Z",
+    "updated_at": "2026-06-07T11:07:56Z",
+    "pushed_at": "2026-06-06T07:59:55Z",
+    "git_url": "git://github.com/dodo-reach/hermes-link-curator.git",
+    "homepage": "",
+    "size": 23586,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": "HTML",
+    "forks_count": 5,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1259843225,
+    "name": "Flash-USDT-Sender",
+    "owner": {
+      "id": 244790971,
+      "url": "https://api.github.com/users/amyxvalen",
+      "html_url": "https://github.com/amyxvalen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/244790971?v=4"
+    },
+    "html_url": "https://github.com/amyxvalen/Flash-USDT-Sender",
+    "description": "Flash USDT Sender — Multi-network flash transaction tool for USDT, BTC, and ETH with configurable duration, custom gas settings, ERC-20/TRC-20/BEP-20 support, and block explorer-visible confirmations",
+    "created_at": "2026-06-04T23:15:33Z",
+    "updated_at": "2026-06-07T11:44:35Z",
+    "pushed_at": "2026-06-04T23:38:31Z",
+    "git_url": "git://github.com/amyxvalen/Flash-USDT-Sender.git",
+    "homepage": "",
+    "size": 10950,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": "Python",
+    "forks_count": 11,
     "open_issues_count": 0
   },
   {
@@ -621,29 +759,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1259415189,
-    "name": "ARC-Raiders-Boosts-2026",
-    "owner": {
-      "id": 183604590,
-      "url": "https://api.github.com/users/djcharliebee",
-      "html_url": "https://github.com/djcharliebee",
-      "avatar_url": "https://avatars.githubusercontent.com/u/183604590?v=4"
-    },
-    "html_url": "https://github.com/djcharliebee/ARC-Raiders-Boosts-2026",
-    "description": "🚀 Arc Raiders Booster - Ultimate PC optimization tool to boost FPS, reduce input lag, and fix stuttering in Arc Raiders. Easy one-click setup!",
-    "created_at": "2026-06-04T13:39:27Z",
-    "updated_at": "2026-06-05T16:15:09Z",
-    "pushed_at": "2026-06-04T13:41:24Z",
-    "git_url": "git://github.com/djcharliebee/ARC-Raiders-Boosts-2026.git",
-    "homepage": "",
-    "size": 9,
-    "stargazers_count": 65,
-    "watchers_count": 65,
-    "language": "C#",
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
     "id": 1259415649,
     "name": "forzahorizon-spotify-integration",
     "owner": {
@@ -663,6 +778,29 @@
     "stargazers_count": 65,
     "watchers_count": 65,
     "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1259415189,
+    "name": "ARC-Raiders-Boosts-2026",
+    "owner": {
+      "id": 183604590,
+      "url": "https://api.github.com/users/djcharliebee",
+      "html_url": "https://github.com/djcharliebee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/183604590?v=4"
+    },
+    "html_url": "https://github.com/djcharliebee/ARC-Raiders-Boosts-2026",
+    "description": "🚀 Arc Raiders Booster - Ultimate PC optimization tool to boost FPS, reduce input lag, and fix stuttering in Arc Raiders. Easy one-click setup!",
+    "created_at": "2026-06-04T13:39:27Z",
+    "updated_at": "2026-06-05T16:15:09Z",
+    "pushed_at": "2026-06-04T13:41:24Z",
+    "git_url": "git://github.com/djcharliebee/ARC-Raiders-Boosts-2026.git",
+    "homepage": "",
+    "size": 9,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": "C#",
     "forks_count": 0,
     "open_issues_count": 0
   },
@@ -687,29 +825,6 @@
     "watchers_count": 65,
     "language": "PowerShell",
     "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1259843225,
-    "name": "Flash-USDT-Sender",
-    "owner": {
-      "id": 244790971,
-      "url": "https://api.github.com/users/amyxvalen",
-      "html_url": "https://github.com/amyxvalen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/244790971?v=4"
-    },
-    "html_url": "https://github.com/amyxvalen/Flash-USDT-Sender",
-    "description": "Flash USDT Sender — Multi-network flash transaction tool for USDT, BTC, and ETH with configurable duration, custom gas settings, ERC-20/TRC-20/BEP-20 support, and block explorer-visible confirmations",
-    "created_at": "2026-06-04T23:15:33Z",
-    "updated_at": "2026-06-06T17:42:08Z",
-    "pushed_at": "2026-06-04T23:38:31Z",
-    "git_url": "git://github.com/amyxvalen/Flash-USDT-Sender.git",
-    "homepage": "",
-    "size": 10950,
-    "stargazers_count": 65,
-    "watchers_count": 65,
-    "language": "Python",
-    "forks_count": 11,
     "open_issues_count": 0
   },
   {
@@ -782,52 +897,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1260240113,
-    "name": "hermes-link-curator",
-    "owner": {
-      "id": 254021826,
-      "url": "https://api.github.com/users/dodo-reach",
-      "html_url": "https://github.com/dodo-reach",
-      "avatar_url": "https://avatars.githubusercontent.com/u/254021826?v=4"
-    },
-    "html_url": "https://github.com/dodo-reach/hermes-link-curator",
-    "description": "Hermes profile pack for archiving and browsing curated links + web dashboard app",
-    "created_at": "2026-06-05T09:36:50Z",
-    "updated_at": "2026-06-06T22:51:13Z",
-    "pushed_at": "2026-06-06T07:59:55Z",
-    "git_url": "git://github.com/dodo-reach/hermes-link-curator.git",
-    "homepage": "",
-    "size": 23586,
-    "stargazers_count": 63,
-    "watchers_count": 63,
-    "language": "HTML",
-    "forks_count": 5,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1261170027,
-    "name": "awesome-free-models",
-    "owner": {
-      "id": 3703613,
-      "url": "https://api.github.com/users/12britz",
-      "html_url": "https://github.com/12britz",
-      "avatar_url": "https://avatars.githubusercontent.com/u/3703613?v=4"
-    },
-    "html_url": "https://github.com/12britz/awesome-free-models",
-    "description": "A curated list of free AI models, APIs, and tools you can use without paying a cent.",
-    "created_at": "2026-06-06T10:30:50Z",
-    "updated_at": "2026-06-07T07:03:05Z",
-    "pushed_at": "2026-06-07T04:03:59Z",
-    "git_url": "git://github.com/12britz/awesome-free-models.git",
-    "homepage": null,
-    "size": 205,
-    "stargazers_count": 61,
-    "watchers_count": 61,
-    "language": null,
-    "forks_count": 1,
-    "open_issues_count": 1
-  },
-  {
     "id": 1259448352,
     "name": "NaturePanelForge",
     "owner": {
@@ -839,13 +908,13 @@
     "html_url": "https://github.com/littlepeachs/NaturePanelForge",
     "description": "NaturePanelForge is a code-first workflow for turning scientific figure images and open-access Nature-family papers into panel-level, executable plotting-code reconstruction tasks.",
     "created_at": "2026-06-04T14:16:03Z",
-    "updated_at": "2026-06-07T07:18:30Z",
+    "updated_at": "2026-06-07T11:51:06Z",
     "pushed_at": "2026-06-05T03:41:03Z",
     "git_url": "git://github.com/littlepeachs/NaturePanelForge.git",
     "homepage": "https://uu543493-83c1-74a94416.nma1.seetacloud.com:8448/",
     "size": 30449,
-    "stargazers_count": 58,
-    "watchers_count": 58,
+    "stargazers_count": 61,
+    "watchers_count": 61,
     "language": "Python",
     "forks_count": 2,
     "open_issues_count": 0
@@ -897,6 +966,29 @@
     "open_issues_count": 0
   },
   {
+    "id": 1260030086,
+    "name": "tessera",
+    "owner": {
+      "id": 94059721,
+      "url": "https://api.github.com/users/zengxiao-he",
+      "html_url": "https://github.com/zengxiao-he",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94059721?v=4"
+    },
+    "html_url": "https://github.com/zengxiao-he/tessera",
+    "description": "From teacher to tiles — a from-scratch LLM distillation & serving engine: custom Triton/CUDA kernels, FSDP distillation, paged-KV continuous batching, speculative decoding, a Rust gateway, a JAX oracle, and interpretability tooling.",
+    "created_at": "2026-06-05T05:02:09Z",
+    "updated_at": "2026-06-07T10:06:44Z",
+    "pushed_at": "2026-06-05T06:20:24Z",
+    "git_url": "git://github.com/zengxiao-he/tessera.git",
+    "homepage": null,
+    "size": 101,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
     "id": 1259024465,
     "name": "Fanny-MacOs-FanControl",
     "owner": {
@@ -920,52 +1012,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1260030086,
-    "name": "tessera",
-    "owner": {
-      "id": 94059721,
-      "url": "https://api.github.com/users/zengxiao-he",
-      "html_url": "https://github.com/zengxiao-he",
-      "avatar_url": "https://avatars.githubusercontent.com/u/94059721?v=4"
-    },
-    "html_url": "https://github.com/zengxiao-he/tessera",
-    "description": "From teacher to tiles — a from-scratch LLM distillation & serving engine: custom Triton/CUDA kernels, FSDP distillation, paged-KV continuous batching, speculative decoding, a Rust gateway, a JAX oracle, and interpretability tooling.",
-    "created_at": "2026-06-05T05:02:09Z",
-    "updated_at": "2026-06-06T16:26:49Z",
-    "pushed_at": "2026-06-05T06:20:24Z",
-    "git_url": "git://github.com/zengxiao-he/tessera.git",
-    "homepage": null,
-    "size": 101,
-    "stargazers_count": 56,
-    "watchers_count": 56,
-    "language": "Python",
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1260186676,
-    "name": "forsy-trace-skill",
-    "owner": {
-      "id": 273874842,
-      "url": "https://api.github.com/users/Forsy-AI",
-      "html_url": "https://github.com/Forsy-AI",
-      "avatar_url": "https://avatars.githubusercontent.com/u/273874842?v=4"
-    },
-    "html_url": "https://github.com/Forsy-AI/forsy-trace-skill",
-    "description": "Open skill for capturing AI agent work as structured traces.",
-    "created_at": "2026-06-05T08:31:53Z",
-    "updated_at": "2026-06-07T03:31:07Z",
-    "pushed_at": "2026-06-06T14:43:15Z",
-    "git_url": "git://github.com/Forsy-AI/forsy-trace-skill.git",
-    "homepage": "https://forsy.ai",
-    "size": 310,
-    "stargazers_count": 54,
-    "watchers_count": 54,
-    "language": "Python",
-    "forks_count": 7,
-    "open_issues_count": 0
-  },
-  {
     "id": 1259676981,
     "name": "TinyRetroPad",
     "owner": {
@@ -977,13 +1023,13 @@
     "html_url": "https://github.com/PlummersSoftwareLLC/TinyRetroPad",
     "description": null,
     "created_at": "2026-06-04T18:43:16Z",
-    "updated_at": "2026-06-06T20:39:38Z",
+    "updated_at": "2026-06-07T12:21:58Z",
     "pushed_at": "2026-06-06T18:18:04Z",
     "git_url": "git://github.com/PlummersSoftwareLLC/TinyRetroPad.git",
     "homepage": null,
     "size": 116,
-    "stargazers_count": 53,
-    "watchers_count": 53,
+    "stargazers_count": 55,
+    "watchers_count": 55,
     "language": "Assembly",
     "forks_count": 6,
     "open_issues_count": 3
@@ -1000,15 +1046,38 @@
     "html_url": "https://github.com/myccarl/ai-shortVideo-pipeline",
     "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
     "created_at": "2026-06-04T13:49:51Z",
-    "updated_at": "2026-06-07T06:09:11Z",
+    "updated_at": "2026-06-07T11:57:47Z",
     "pushed_at": "2026-06-04T13:54:25Z",
     "git_url": "git://github.com/myccarl/ai-shortVideo-pipeline.git",
     "homepage": "",
     "size": 13076,
-    "stargazers_count": 52,
-    "watchers_count": 52,
+    "stargazers_count": 54,
+    "watchers_count": 54,
     "language": "Python",
     "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1260873863,
+    "name": "project-fathom",
+    "owner": {
+      "id": 108453477,
+      "url": "https://api.github.com/users/m1ckc3s",
+      "html_url": "https://github.com/m1ckc3s",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108453477?v=4"
+    },
+    "html_url": "https://github.com/m1ckc3s/project-fathom",
+    "description": "Tiny React sandbox proving you can fire native iOS haptics from a plain web page (no app) using the WebKit <input switch> control — verified on-device, works after the iOS 26.5 patch.",
+    "created_at": "2026-06-06T01:12:53Z",
+    "updated_at": "2026-06-07T11:09:49Z",
+    "pushed_at": "2026-06-07T00:33:35Z",
+    "git_url": "git://github.com/m1ckc3s/project-fathom.git",
+    "homepage": "https://fathom-mocha.vercel.app",
+    "size": 30,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "CSS",
+    "forks_count": 2,
     "open_issues_count": 0
   },
   {
@@ -1023,15 +1092,130 @@
     "html_url": "https://github.com/lucifer1004/VeloQ",
     "description": "Agent-friendly GPU profile-query CLI",
     "created_at": "2026-06-05T01:14:24Z",
-    "updated_at": "2026-06-07T01:34:14Z",
+    "updated_at": "2026-06-07T12:10:31Z",
     "pushed_at": "2026-06-05T11:35:32Z",
     "git_url": "git://github.com/lucifer1004/VeloQ.git",
     "homepage": "https://lucifer1004.github.io/VeloQ/",
     "size": 1357,
-    "stargazers_count": 51,
-    "watchers_count": 51,
+    "stargazers_count": 53,
+    "watchers_count": 53,
     "language": "Rust",
     "forks_count": 1,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1260137887,
+    "name": "makethembroke",
+    "owner": {
+      "id": 168919481,
+      "url": "https://api.github.com/users/vicky142803",
+      "html_url": "https://github.com/vicky142803",
+      "avatar_url": "https://avatars.githubusercontent.com/u/168919481?v=4"
+    },
+    "html_url": "https://github.com/vicky142803/makethembroke",
+    "description": null,
+    "created_at": "2026-06-05T07:34:35Z",
+    "updated_at": "2026-06-07T10:39:11Z",
+    "pushed_at": "2026-06-05T07:38:05Z",
+    "git_url": "git://github.com/vicky142803/makethembroke.git",
+    "homepage": null,
+    "size": 926,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": null,
+    "forks_count": 2,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1260200602,
+    "name": "kiira",
+    "owner": {
+      "id": 18480956,
+      "url": "https://api.github.com/users/AlemTuzlak",
+      "html_url": "https://github.com/AlemTuzlak",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18480956?v=4"
+    },
+    "html_url": "https://github.com/AlemTuzlak/kiira",
+    "description": "Type-check the TypeScript & JavaScript code in your Markdown against your real project — in your editor, the CLI, and CI.",
+    "created_at": "2026-06-05T08:48:59Z",
+    "updated_at": "2026-06-07T11:44:07Z",
+    "pushed_at": "2026-06-06T15:34:11Z",
+    "git_url": "git://github.com/AlemTuzlak/kiira.git",
+    "homepage": "https://marketplace.visualstudio.com/items?itemName=CodeForge.typedown-vscode",
+    "size": 9285,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1260750981,
+    "name": "skills",
+    "owner": {
+      "id": 151409062,
+      "url": "https://api.github.com/users/oscabriel",
+      "html_url": "https://github.com/oscabriel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/151409062?v=4"
+    },
+    "html_url": "https://github.com/oscabriel/skills",
+    "description": null,
+    "created_at": "2026-06-05T20:43:38Z",
+    "updated_at": "2026-06-07T07:55:00Z",
+    "pushed_at": "2026-06-06T15:53:09Z",
+    "git_url": "git://github.com/oscabriel/skills.git",
+    "homepage": null,
+    "size": 21,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": null,
+    "forks_count": 2,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1258875741,
+    "name": "Ruota-della-Fortuna",
+    "owner": {
+      "id": 256822306,
+      "url": "https://api.github.com/users/29-Cu",
+      "html_url": "https://github.com/29-Cu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/256822306?v=4"
+    },
+    "html_url": "https://github.com/29-Cu/Ruota-della-Fortuna",
+    "description": "Pick your wheels. Pull the lever. No refunds. — NSFW tag randomizer slot machine",
+    "created_at": "2026-06-04T02:12:35Z",
+    "updated_at": "2026-06-07T10:41:06Z",
+    "pushed_at": "2026-06-05T03:27:42Z",
+    "git_url": "git://github.com/29-Cu/Ruota-della-Fortuna.git",
+    "homepage": "https://29-cu.github.io/Ruota-della-Fortuna/",
+    "size": 212,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "HTML",
+    "forks_count": 6,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1258893200,
+    "name": "China-US-Stock-Guide",
+    "owner": {
+      "id": 290577108,
+      "url": "https://api.github.com/users/neclo0752",
+      "html_url": "https://github.com/neclo0752",
+      "avatar_url": "https://avatars.githubusercontent.com/u/290577108?v=4"
+    },
+    "html_url": "https://github.com/neclo0752/China-US-Stock-Guide",
+    "description": "2026年最新中国大陆居民炒美股合规指南。包含嘉信理财(Charles Schwab)、第一证券(Firstrade)、盈透证券(IBKR)开户评测；华美银行Velo、Wise无损出入金及防风控、避开CRS风险实操教程。",
+    "created_at": "2026-06-04T02:41:11Z",
+    "updated_at": "2026-06-07T12:02:27Z",
+    "pushed_at": "2026-06-06T06:19:57Z",
+    "git_url": "git://github.com/neclo0752/China-US-Stock-Guide.git",
+    "homepage": "",
+    "size": 59,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": null,
+    "forks_count": 9,
     "open_issues_count": 0
   },
   {
@@ -1058,72 +1242,26 @@
     "open_issues_count": 0
   },
   {
-    "id": 1260873863,
-    "name": "project-fathom",
+    "id": 1260143846,
+    "name": "pi-infobar",
     "owner": {
-      "id": 108453477,
-      "url": "https://api.github.com/users/m1ckc3s",
-      "html_url": "https://github.com/m1ckc3s",
-      "avatar_url": "https://avatars.githubusercontent.com/u/108453477?v=4"
+      "id": 149762185,
+      "url": "https://api.github.com/users/phun333",
+      "html_url": "https://github.com/phun333",
+      "avatar_url": "https://avatars.githubusercontent.com/u/149762185?v=4"
     },
-    "html_url": "https://github.com/m1ckc3s/project-fathom",
-    "description": "Tiny React sandbox proving you can fire native iOS haptics from a plain web page (no app) using the WebKit <input switch> control — verified on-device, works after the iOS 26.5 patch.",
-    "created_at": "2026-06-06T01:12:53Z",
-    "updated_at": "2026-06-07T07:09:31Z",
-    "pushed_at": "2026-06-07T00:33:35Z",
-    "git_url": "git://github.com/m1ckc3s/project-fathom.git",
-    "homepage": "https://fathom-mocha.vercel.app",
-    "size": 30,
-    "stargazers_count": 51,
-    "watchers_count": 51,
-    "language": "CSS",
-    "forks_count": 2,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1260750981,
-    "name": "skills",
-    "owner": {
-      "id": 151409062,
-      "url": "https://api.github.com/users/oscabriel",
-      "html_url": "https://github.com/oscabriel",
-      "avatar_url": "https://avatars.githubusercontent.com/u/151409062?v=4"
-    },
-    "html_url": "https://github.com/oscabriel/skills",
-    "description": null,
-    "created_at": "2026-06-05T20:43:38Z",
-    "updated_at": "2026-06-07T04:23:22Z",
-    "pushed_at": "2026-06-06T15:53:09Z",
-    "git_url": "git://github.com/oscabriel/skills.git",
-    "homepage": null,
-    "size": 21,
-    "stargazers_count": 51,
-    "watchers_count": 51,
-    "language": null,
-    "forks_count": 2,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1258893200,
-    "name": "China-US-Stock-Guide",
-    "owner": {
-      "id": 290577108,
-      "url": "https://api.github.com/users/neclo0752",
-      "html_url": "https://github.com/neclo0752",
-      "avatar_url": "https://avatars.githubusercontent.com/u/290577108?v=4"
-    },
-    "html_url": "https://github.com/neclo0752/China-US-Stock-Guide",
-    "description": "2026年最新中国大陆居民炒美股合规指南。包含嘉信理财(Charles Schwab)、第一证券(Firstrade)、盈透证券(IBKR)开户评测；华美银行Velo、Wise无损出入金及防风控、避开CRS风险实操教程。",
-    "created_at": "2026-06-04T02:41:11Z",
-    "updated_at": "2026-06-07T07:04:48Z",
-    "pushed_at": "2026-06-06T06:19:57Z",
-    "git_url": "git://github.com/neclo0752/China-US-Stock-Guide.git",
+    "html_url": "https://github.com/phun333/pi-infobar",
+    "description": "Native macOS menu bar dashboard for Pi agent usage, cost, languages, models, projects & tokens.",
+    "created_at": "2026-06-05T07:42:20Z",
+    "updated_at": "2026-06-07T09:54:44Z",
+    "pushed_at": "2026-06-06T08:46:01Z",
+    "git_url": "git://github.com/phun333/pi-infobar.git",
     "homepage": "",
-    "size": 59,
+    "size": 1865,
     "stargazers_count": 50,
     "watchers_count": 50,
-    "language": null,
-    "forks_count": 9,
+    "language": "Swift",
+    "forks_count": 3,
     "open_issues_count": 0
   },
   {
@@ -1146,6 +1284,29 @@
     "stargazers_count": 50,
     "watchers_count": 50,
     "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1261408881,
+    "name": "d-scord-tool",
+    "owner": {
+      "id": 289203740,
+      "url": "https://api.github.com/users/cryznn",
+      "html_url": "https://github.com/cryznn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/289203740?v=4"
+    },
+    "html_url": "https://github.com/cryznn/d-scord-tool",
+    "description": "best multi tool ig",
+    "created_at": "2026-06-06T16:38:43Z",
+    "updated_at": "2026-06-07T11:49:52Z",
+    "pushed_at": "2026-06-06T16:47:25Z",
+    "git_url": "git://github.com/cryznn/d-scord-tool.git",
+    "homepage": null,
+    "size": 286,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": null,
     "forks_count": 0,
     "open_issues_count": 0
   }
