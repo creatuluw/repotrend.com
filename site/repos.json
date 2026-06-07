@@ -49333,5 +49333,74 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1199549779,
+    "name": "quip-protocol-rs",
+    "owner": {
+      "id": 203704131,
+      "url": "https://api.github.com/users/QuipNetwork",
+      "html_url": "https://github.com/QuipNetwork",
+      "avatar_url": "https://avatars.githubusercontent.com/u/203704131?v=4"
+    },
+    "html_url": "https://github.com/QuipNetwork/quip-protocol-rs",
+    "description": "A rust implementation of the Quip Protocol forked from Substrate",
+    "created_at": "2026-04-02T13:12:31Z",
+    "updated_at": "2026-06-03T18:57:03Z",
+    "pushed_at": "2026-06-03T18:25:02Z",
+    "git_url": "git://github.com/QuipNetwork/quip-protocol-rs.git",
+    "homepage": null,
+    "size": 990,
+    "stargazers_count": 5675,
+    "watchers_count": 5675,
+    "language": "Rust",
+    "forks_count": 32,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1236185998,
+    "name": "aholo-viewer",
+    "owner": {
+      "id": 9434461,
+      "url": "https://api.github.com/users/manycoretech",
+      "html_url": "https://github.com/manycoretech",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9434461?v=4"
+    },
+    "html_url": "https://github.com/manycoretech/aholo-viewer",
+    "description": "A high performance 3DGS renderer",
+    "created_at": "2026-05-12T02:54:28Z",
+    "updated_at": "2026-06-06T18:31:54Z",
+    "pushed_at": "2026-06-05T17:36:12Z",
+    "git_url": "git://github.com/manycoretech/aholo-viewer.git",
+    "homepage": "https://aholojs.dev/",
+    "size": 28679,
+    "stargazers_count": 522,
+    "watchers_count": 522,
+    "language": "TypeScript",
+    "forks_count": 47,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1258530998,
+    "name": "Skill-Routing-Kit",
+    "owner": {
+      "id": 13247831,
+      "url": "https://api.github.com/users/juew",
+      "html_url": "https://github.com/juew",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13247831?v=4"
+    },
+    "html_url": "https://github.com/juew/Skill-Routing-Kit",
+    "description": "Skill Routing Kit 是一个本地优先的 Codex 插件，用来提升 skill 和插件的命中率，同时避免引入缓慢、强侵入的运行时路由层。",
+    "created_at": "2026-06-03T17:05:26Z",
+    "updated_at": "2026-06-06T13:52:17Z",
+    "pushed_at": "2026-06-04T10:43:54Z",
+    "git_url": "git://github.com/juew/Skill-Routing-Kit.git",
+    "homepage": null,
+    "size": 1550,
+    "stargazers_count": 68,
+    "watchers_count": 68,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
