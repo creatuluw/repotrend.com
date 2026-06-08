@@ -49540,5 +49540,51 @@
     "language": null,
     "forks_count": 8,
     "open_issues_count": 0
+  },
+  {
+    "id": 1236249097,
+    "name": "kernel-design-agents",
+    "owner": {
+      "id": 39571499,
+      "url": "https://api.github.com/users/mit-han-lab",
+      "html_url": "https://github.com/mit-han-lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39571499?v=4"
+    },
+    "html_url": "https://github.com/mit-han-lab/kernel-design-agents",
+    "description": null,
+    "created_at": "2026-05-12T04:42:45Z",
+    "updated_at": "2026-06-07T17:43:29Z",
+    "pushed_at": "2026-06-02T05:28:39Z",
+    "git_url": "git://github.com/mit-han-lab/kernel-design-agents.git",
+    "homepage": null,
+    "size": 20,
+    "stargazers_count": 488,
+    "watchers_count": 488,
+    "language": null,
+    "forks_count": 38,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1262162467,
+    "name": "SamFw-FRP-Tool-Pro-Version",
+    "owner": {
+      "id": 289028427,
+      "url": "https://api.github.com/users/Tankzurbarrow",
+      "html_url": "https://github.com/Tankzurbarrow",
+      "avatar_url": "https://avatars.githubusercontent.com/u/289028427?v=4"
+    },
+    "html_url": "https://github.com/Tankzurbarrow/SamFw-FRP-Tool-Pro-Version",
+    "description": "One-click Samsung FRP bypass tool. Removes Factory Reset Protection and changes CSC without data loss.",
+    "created_at": "2026-06-07T16:47:42Z",
+    "updated_at": "2026-06-07T18:13:35Z",
+    "pushed_at": "2026-06-07T16:48:09Z",
+    "git_url": "git://github.com/Tankzurbarrow/SamFw-FRP-Tool-Pro-Version.git",
+    "homepage": null,
+    "size": 0,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
