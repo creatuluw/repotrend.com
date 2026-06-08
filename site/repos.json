@@ -49701,5 +49701,51 @@
     "language": "C#",
     "forks_count": 0,
     "open_issues_count": 1
+  },
+  {
+    "id": 1234078113,
+    "name": "get-it",
+    "owner": {
+      "id": 184690628,
+      "url": "https://api.github.com/users/beltromatti",
+      "html_url": "https://github.com/beltromatti",
+      "avatar_url": "https://avatars.githubusercontent.com/u/184690628?v=4"
+    },
+    "html_url": "https://github.com/beltromatti/get-it",
+    "description": "Read it. See it. Get it. Built at GDG AI Hack Milan 2026 for \"Learn Different\" track.",
+    "created_at": "2026-05-09T18:10:11Z",
+    "updated_at": "2026-06-08T13:32:21Z",
+    "pushed_at": "2026-05-28T20:08:45Z",
+    "git_url": "git://github.com/beltromatti/get-it.git",
+    "homepage": "https://getit.noesisai.it",
+    "size": 19181,
+    "stargazers_count": 480,
+    "watchers_count": 480,
+    "language": "JavaScript",
+    "forks_count": 60,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1260255382,
+    "name": "brand-docs",
+    "owner": {
+      "id": 118387048,
+      "url": "https://api.github.com/users/ferdinandobons",
+      "html_url": "https://github.com/ferdinandobons",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118387048?v=4"
+    },
+    "html_url": "https://github.com/ferdinandobons/brand-docs",
+    "description": "BrandDocs turns existing Word, PowerPoint and Excel templates into reusable AI document-generation skills. Unlike generic AI document generators, it preserves brand, structure, styles and formulas by construction.",
+    "created_at": "2026-06-05T09:55:35Z",
+    "updated_at": "2026-06-08T13:12:22Z",
+    "pushed_at": "2026-06-08T10:13:02Z",
+    "git_url": "git://github.com/ferdinandobons/brand-docs.git",
+    "homepage": "https://ferdinandobons.github.io/brand-docs/",
+    "size": 3360,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
