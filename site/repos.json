@@ -49402,5 +49402,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1242354790,
+    "name": "intelligent-terminal",
+    "owner": {
+      "id": 6154722,
+      "url": "https://api.github.com/users/microsoft",
+      "html_url": "https://github.com/microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+    },
+    "html_url": "https://github.com/microsoft/intelligent-terminal",
+    "description": "A fork of Windows Terminal with native agent integration, right in your command line.",
+    "created_at": "2026-05-18T10:57:07Z",
+    "updated_at": "2026-06-07T18:20:54Z",
+    "pushed_at": "2026-06-07T07:52:25Z",
+    "git_url": "git://github.com/microsoft/intelligent-terminal.git",
+    "homepage": "https://devblogs.microsoft.com/commandline/announcing-intelligent-terminal-version-0-1/",
+    "size": 151283,
+    "stargazers_count": 672,
+    "watchers_count": 672,
+    "language": "C++",
+    "forks_count": 35,
+    "open_issues_count": 41
+  },
+  {
+    "id": 1259028339,
+    "name": "zipEnhancer",
+    "owner": {
+      "id": 134065253,
+      "url": "https://api.github.com/users/gyj1201",
+      "html_url": "https://github.com/gyj1201",
+      "avatar_url": "https://avatars.githubusercontent.com/u/134065253?v=4"
+    },
+    "html_url": "https://github.com/gyj1201/zipEnhancer",
+    "description": "将阿里达摩院 ZipEnhancer 模型从 ModelScope pipeline 中剥离，用纯 PyTorch 重新实现推理流程，并封装为高性能 FastAPI 降噪服务。",
+    "created_at": "2026-06-04T06:11:13Z",
+    "updated_at": "2026-06-07T06:15:06Z",
+    "pushed_at": "2026-06-05T07:49:07Z",
+    "git_url": "git://github.com/gyj1201/zipEnhancer.git",
+    "homepage": "",
+    "size": 586,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
