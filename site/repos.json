@@ -49586,5 +49586,74 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1192555574,
+    "name": "turbovec",
+    "owner": {
+      "id": 10856497,
+      "url": "https://api.github.com/users/RyanCodrai",
+      "html_url": "https://github.com/RyanCodrai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10856497?v=4"
+    },
+    "html_url": "https://github.com/RyanCodrai/turbovec",
+    "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+    "created_at": "2026-03-26T10:32:44Z",
+    "updated_at": "2026-06-08T07:54:31Z",
+    "pushed_at": "2026-05-30T13:12:07Z",
+    "git_url": "git://github.com/RyanCodrai/turbovec.git",
+    "homepage": "https://pypi.org/project/turbovec/",
+    "size": 4970,
+    "stargazers_count": 7633,
+    "watchers_count": 7633,
+    "language": "Python",
+    "forks_count": 734,
+    "open_issues_count": 11
+  },
+  {
+    "id": 1253322436,
+    "name": "Bernini",
+    "owner": {
+      "id": 4158466,
+      "url": "https://api.github.com/users/bytedance",
+      "html_url": "https://github.com/bytedance",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4158466?v=4"
+    },
+    "html_url": "https://github.com/bytedance/Bernini",
+    "description": "Bernini is a unified framework for video generation and editing that combines an MLLM-based semantic planner with a DiT-based renderer.",
+    "created_at": "2026-05-29T10:51:54Z",
+    "updated_at": "2026-06-08T07:53:29Z",
+    "pushed_at": "2026-06-02T09:09:21Z",
+    "git_url": "git://github.com/bytedance/Bernini.git",
+    "homepage": "https://bernini-ai.github.io/",
+    "size": 85530,
+    "stargazers_count": 577,
+    "watchers_count": 577,
+    "language": "Python",
+    "forks_count": 41,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1258875741,
+    "name": "Ruota-della-Fortuna",
+    "owner": {
+      "id": 256822306,
+      "url": "https://api.github.com/users/29-Cu",
+      "html_url": "https://github.com/29-Cu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/256822306?v=4"
+    },
+    "html_url": "https://github.com/29-Cu/Ruota-della-Fortuna",
+    "description": "Pick your wheels. Pull the lever. No refunds. — NSFW tag randomizer slot machine",
+    "created_at": "2026-06-04T02:12:35Z",
+    "updated_at": "2026-06-07T10:41:06Z",
+    "pushed_at": "2026-06-05T03:27:42Z",
+    "git_url": "git://github.com/29-Cu/Ruota-della-Fortuna.git",
+    "homepage": "https://29-cu.github.io/Ruota-della-Fortuna/",
+    "size": 212,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "HTML",
+    "forks_count": 6,
+    "open_issues_count": 0
   }
 ]
