@@ -49747,5 +49747,51 @@
     "language": "Python",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1251948393,
+    "name": "Qwen-VLA",
+    "owner": {
+      "id": 141221163,
+      "url": "https://api.github.com/users/QwenLM",
+      "html_url": "https://github.com/QwenLM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141221163?v=4"
+    },
+    "html_url": "https://github.com/QwenLM/Qwen-VLA",
+    "description": "The official repository of Qwen-VLA",
+    "created_at": "2026-05-28T03:46:53Z",
+    "updated_at": "2026-06-08T13:34:38Z",
+    "pushed_at": "2026-05-29T13:49:38Z",
+    "git_url": "git://github.com/QwenLM/Qwen-VLA.git",
+    "homepage": "",
+    "size": 112426,
+    "stargazers_count": 530,
+    "watchers_count": 530,
+    "language": null,
+    "forks_count": 20,
+    "open_issues_count": 9
+  },
+  {
+    "id": 1262167407,
+    "name": "iToolab-AnyGo-Location-Spoofer",
+    "owner": {
+      "id": 289031103,
+      "url": "https://api.github.com/users/SummitForeman",
+      "html_url": "https://github.com/SummitForeman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/289031103?v=4"
+    },
+    "html_url": "https://github.com/SummitForeman/iToolab-AnyGo-Location-Spoofer",
+    "description": "Change GPS location on iPhone/iPad without jailbreak. Perfect for location-based AR games and privacy.",
+    "created_at": "2026-06-07T16:54:28Z",
+    "updated_at": "2026-06-08T13:35:44Z",
+    "pushed_at": "2026-06-07T16:54:55Z",
+    "git_url": "git://github.com/SummitForeman/iToolab-AnyGo-Location-Spoofer.git",
+    "homepage": null,
+    "size": 0,
+    "stargazers_count": 71,
+    "watchers_count": 71,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
