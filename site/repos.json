@@ -49885,5 +49885,51 @@
     "language": "TypeScript",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1251604333,
+    "name": "macos-app-skills",
+    "owner": {
+      "id": 15716057,
+      "url": "https://api.github.com/users/fayazara",
+      "html_url": "https://github.com/fayazara",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15716057?v=4"
+    },
+    "html_url": "https://github.com/fayazara/macos-app-skills",
+    "description": "AI coding agent skills for building, shipping, and maintaining native macOS apps",
+    "created_at": "2026-05-27T18:36:27Z",
+    "updated_at": "2026-06-07T17:59:17Z",
+    "pushed_at": "2026-05-27T19:10:57Z",
+    "git_url": "git://github.com/fayazara/macos-app-skills.git",
+    "homepage": null,
+    "size": 44,
+    "stargazers_count": 470,
+    "watchers_count": 470,
+    "language": "Swift",
+    "forks_count": 11,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1262119018,
+    "name": "claude-for-financial-services-cn",
+    "owner": {
+      "id": 3615494,
+      "url": "https://api.github.com/users/jwangkun",
+      "html_url": "https://github.com/jwangkun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3615494?v=4"
+    },
+    "html_url": "https://github.com/jwangkun/claude-for-financial-services-cn",
+    "description": " 63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。",
+    "created_at": "2026-06-07T15:45:23Z",
+    "updated_at": "2026-06-08T16:42:15Z",
+    "pushed_at": "2026-06-08T09:34:44Z",
+    "git_url": "git://github.com/jwangkun/claude-for-financial-services-cn.git",
+    "homepage": "",
+    "size": 387,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "Python",
+    "forks_count": 18,
+    "open_issues_count": 0
   }
 ]
