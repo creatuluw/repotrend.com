@@ -49839,5 +49839,51 @@
     "language": null,
     "forks_count": 9,
     "open_issues_count": 0
+  },
+  {
+    "id": 1238374602,
+    "name": "codex-claude-academic-skills",
+    "owner": {
+      "id": 151378616,
+      "url": "https://api.github.com/users/zLanqing",
+      "html_url": "https://github.com/zLanqing",
+      "avatar_url": "https://avatars.githubusercontent.com/u/151378616?v=4"
+    },
+    "html_url": "https://github.com/zLanqing/codex-claude-academic-skills",
+    "description": "本仓库包含三个面向学术科研人员的Skills，覆盖从文献阅读、论文写作到科学计算的完整研究工作流。office-academic-skill 负责论文阅读报告与学术 PPT/Word 文档生成；research-writing-skill 提供论文写作、润色与审稿回复辅助；scientific-toolkit-skill 整合 MATLAB/Python 科学计算与期刊级图表生成。三个 Skill 专为中文科研用户设计，可在 Claude Code 和 codex 中一键调用。",
+    "created_at": "2026-05-14T04:13:15Z",
+    "updated_at": "2026-06-08T15:48:04Z",
+    "pushed_at": "2026-05-14T09:08:48Z",
+    "git_url": "git://github.com/zLanqing/codex-claude-academic-skills.git",
+    "homepage": null,
+    "size": 2674,
+    "stargazers_count": 476,
+    "watchers_count": 476,
+    "language": "Python",
+    "forks_count": 46,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1261247867,
+    "name": "DeepSeekMonitorWindows",
+    "owner": {
+      "id": 206511176,
+      "url": "https://api.github.com/users/Joyi-code",
+      "html_url": "https://github.com/Joyi-code",
+      "avatar_url": "https://avatars.githubusercontent.com/u/206511176?v=4"
+    },
+    "html_url": "https://github.com/Joyi-code/DeepSeekMonitorWindows",
+    "description": "Windows desktop monitor for DeepSeek balance and usage, built with Tauri, React and Rust.",
+    "created_at": "2026-06-06T12:40:10Z",
+    "updated_at": "2026-06-08T18:09:44Z",
+    "pushed_at": "2026-06-08T13:36:06Z",
+    "git_url": "git://github.com/Joyi-code/DeepSeekMonitorWindows.git",
+    "homepage": null,
+    "size": 2344,
+    "stargazers_count": 72,
+    "watchers_count": 72,
+    "language": "TypeScript",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
