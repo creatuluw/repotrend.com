@@ -49793,5 +49793,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1248769131,
+    "name": "tubatools",
+    "owner": {
+      "id": 111534103,
+      "url": "https://api.github.com/users/luolangaga",
+      "html_url": "https://github.com/luolangaga",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111534103?v=4"
+    },
+    "html_url": "https://github.com/luolangaga/tubatools",
+    "description": "图吧工具箱 winUI3 版",
+    "created_at": "2026-05-25T03:15:04Z",
+    "updated_at": "2026-06-09T00:51:49Z",
+    "pushed_at": "2026-06-09T00:44:27Z",
+    "git_url": "git://github.com/luolangaga/tubatools.git",
+    "homepage": "https://tubawinui3.cn/",
+    "size": 398685,
+    "stargazers_count": 808,
+    "watchers_count": 808,
+    "language": "C#",
+    "forks_count": 17,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1259078427,
+    "name": "serenity-skill",
+    "owner": {
+      "id": 83726732,
+      "url": "https://api.github.com/users/ZadAnthony",
+      "html_url": "https://github.com/ZadAnthony",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83726732?v=4"
+    },
+    "html_url": "https://github.com/ZadAnthony/serenity-skill",
+    "description": "Serenity (@aleabitoreddit) 供应链卡点逆向投资方法论的 Claude Code Skill — 第三方提炼,非投资建议",
+    "created_at": "2026-06-04T07:09:48Z",
+    "updated_at": "2026-06-07T16:58:29Z",
+    "pushed_at": "2026-06-07T07:15:21Z",
+    "git_url": "git://github.com/ZadAnthony/serenity-skill.git",
+    "homepage": null,
+    "size": 75,
+    "stargazers_count": 82,
+    "watchers_count": 82,
+    "language": null,
+    "forks_count": 9,
+    "open_issues_count": 0
   }
 ]
