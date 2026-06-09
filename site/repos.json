@@ -49931,5 +49931,74 @@
     "language": "Python",
     "forks_count": 18,
     "open_issues_count": 0
+  },
+  {
+    "id": 1183263320,
+    "name": "skills",
+    "owner": {
+      "id": 32689599,
+      "url": "https://api.github.com/users/android",
+      "html_url": "https://github.com/android",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32689599?v=4"
+    },
+    "html_url": "https://github.com/android/skills",
+    "description": null,
+    "created_at": "2026-03-16T12:41:46Z",
+    "updated_at": "2026-06-09T06:25:00Z",
+    "pushed_at": "2026-06-04T11:30:32Z",
+    "git_url": "git://github.com/android/skills.git",
+    "homepage": null,
+    "size": 795,
+    "stargazers_count": 5642,
+    "watchers_count": 5642,
+    "language": null,
+    "forks_count": 302,
+    "open_issues_count": 27
+  },
+  {
+    "id": 1255939927,
+    "name": "Anima",
+    "owner": {
+      "id": 285607428,
+      "url": "https://api.github.com/users/Fullive-AI",
+      "html_url": "https://github.com/Fullive-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/285607428?v=4"
+    },
+    "html_url": "https://github.com/Fullive-AI/Anima",
+    "description": "Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence",
+    "created_at": "2026-06-01T10:06:21Z",
+    "updated_at": "2026-06-08T16:45:08Z",
+    "pushed_at": "2026-06-03T16:00:26Z",
+    "git_url": "git://github.com/Fullive-AI/Anima.git",
+    "homepage": "",
+    "size": 6775,
+    "stargazers_count": 488,
+    "watchers_count": 488,
+    "language": "Python",
+    "forks_count": 11,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1260252404,
+    "name": "RB-Coll-Desktop-2",
+    "owner": {
+      "id": 34996659,
+      "url": "https://api.github.com/users/mehock582",
+      "html_url": "https://github.com/mehock582",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34996659?v=4"
+    },
+    "html_url": "https://github.com/mehock582/RB-Coll-Desktop-2",
+    "description": "A curated collection of documentation and safe templates for understanding and analyzing Roblox execution environments in a controlled lab setting.",
+    "created_at": "2026-06-05T09:51:54Z",
+    "updated_at": "2026-06-08T13:11:14Z",
+    "pushed_at": "2026-06-05T09:54:08Z",
+    "git_url": "git://github.com/mehock582/RB-Coll-Desktop-2.git",
+    "homepage": "",
+    "size": 15,
+    "stargazers_count": 75,
+    "watchers_count": 75,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
