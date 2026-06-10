@@ -50345,5 +50345,51 @@
     "language": "Python",
     "forks_count": 6,
     "open_issues_count": 0
+  },
+  {
+    "id": 1248129407,
+    "name": "SAM3DBody-cpp",
+    "owner": {
+      "id": 97630,
+      "url": "https://api.github.com/users/AmmarkoV",
+      "html_url": "https://github.com/AmmarkoV",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97630?v=4"
+    },
+    "html_url": "https://github.com/AmmarkoV/SAM3DBody-cpp",
+    "description": "Real-time 3D full-body reconstruction from a single camera, Multiperson BVH output, Pure C++ runtime, ONNX + ggml, 70-joint skeleton with hands.",
+    "created_at": "2026-05-24T08:12:55Z",
+    "updated_at": "2026-06-09T18:44:17Z",
+    "pushed_at": "2026-06-09T18:20:44Z",
+    "git_url": "git://github.com/AmmarkoV/SAM3DBody-cpp.git",
+    "homepage": "http://ammar.gr",
+    "size": 1661,
+    "stargazers_count": 498,
+    "watchers_count": 498,
+    "language": "C",
+    "forks_count": 67,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1263543726,
+    "name": "loom",
+    "owner": {
+      "id": 290986577,
+      "url": "https://api.github.com/users/valkor-ai",
+      "html_url": "https://github.com/valkor-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/290986577?v=4"
+    },
+    "html_url": "https://github.com/valkor-ai/loom",
+    "description": "An open delivery harness that turns Claude Code, Codex, OpenCode, and other coding agents into repeatable software delivery systems.",
+    "created_at": "2026-06-09T03:46:34Z",
+    "updated_at": "2026-06-09T18:22:31Z",
+    "pushed_at": "2026-06-09T12:12:32Z",
+    "git_url": "git://github.com/valkor-ai/loom.git",
+    "homepage": "",
+    "size": 763,
+    "stargazers_count": 93,
+    "watchers_count": 93,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
