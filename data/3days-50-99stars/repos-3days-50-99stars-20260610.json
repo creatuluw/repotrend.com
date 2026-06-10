@@ -1,26 +1,26 @@
 [
   {
-    "id": 1262110699,
-    "name": "xuefeng-agent",
+    "id": 1262476012,
+    "name": "ABot-Earth-0.5",
     "owner": {
-      "id": 284885724,
-      "url": "https://api.github.com/users/ziqihe10-droid",
-      "html_url": "https://github.com/ziqihe10-droid",
-      "avatar_url": "https://avatars.githubusercontent.com/u/284885724?v=4"
+      "id": 207984189,
+      "url": "https://api.github.com/users/amap-cvlab",
+      "html_url": "https://github.com/amap-cvlab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/207984189?v=4"
     },
-    "html_url": "https://github.com/ziqihe10-droid/xuefeng-agent",
-    "description": "AI 高考志愿顾问 — 会追问、会分析、敢说真话",
-    "created_at": "2026-06-07T15:33:07Z",
-    "updated_at": "2026-06-10T01:04:09Z",
-    "pushed_at": "2026-06-09T17:28:26Z",
-    "git_url": "git://github.com/ziqihe10-droid/xuefeng-agent.git",
+    "html_url": "https://github.com/amap-cvlab/ABot-Earth-0.5",
+    "description": "Generative 3D Earth Model by AMap-cvlab",
+    "created_at": "2026-06-08T02:57:36Z",
+    "updated_at": "2026-06-10T07:32:54Z",
+    "pushed_at": "2026-06-10T07:28:56Z",
+    "git_url": "git://github.com/amap-cvlab/ABot-Earth-0.5.git",
     "homepage": null,
-    "size": 17510,
-    "stargazers_count": 95,
-    "watchers_count": 95,
-    "language": "Python",
-    "forks_count": 6,
-    "open_issues_count": 2
+    "size": 33559,
+    "stargazers_count": 97,
+    "watchers_count": 97,
+    "language": null,
+    "forks_count": 4,
+    "open_issues_count": 0
   },
   {
     "id": 1262034051,
@@ -34,38 +34,38 @@
     "html_url": "https://github.com/ApodexAI/AgentHarness",
     "description": "Evaluation harness for Apodex-1.0 on public deep-research benchmarks.",
     "created_at": "2026-06-07T13:39:42Z",
-    "updated_at": "2026-06-10T01:01:17Z",
+    "updated_at": "2026-06-10T07:20:16Z",
     "pushed_at": "2026-06-08T15:56:45Z",
     "git_url": "git://github.com/ApodexAI/AgentHarness.git",
     "homepage": "https://www.apodex.com",
     "size": 920,
-    "stargazers_count": 86,
-    "watchers_count": 86,
+    "stargazers_count": 91,
+    "watchers_count": 91,
     "language": "Python",
     "forks_count": 2,
-    "open_issues_count": 0
+    "open_issues_count": 1
   },
   {
-    "id": 1262476012,
-    "name": "ABot-Earth-0.5",
+    "id": 1261720977,
+    "name": "concord",
     "owner": {
-      "id": 207984189,
-      "url": "https://api.github.com/users/amap-cvlab",
-      "html_url": "https://github.com/amap-cvlab",
-      "avatar_url": "https://avatars.githubusercontent.com/u/207984189?v=4"
+      "id": 63437581,
+      "url": "https://api.github.com/users/emollick",
+      "html_url": "https://github.com/emollick",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63437581?v=4"
     },
-    "html_url": "https://github.com/amap-cvlab/ABot-Earth-0.5",
-    "description": "Generative 3D Earth Model by AMap-cvlab",
-    "created_at": "2026-06-08T02:57:36Z",
-    "updated_at": "2026-06-09T20:32:11Z",
-    "pushed_at": "2026-06-08T12:13:57Z",
-    "git_url": "git://github.com/amap-cvlab/ABot-Earth-0.5.git",
+    "html_url": "https://github.com/emollick/concord",
+    "description": "Instrument-grade qualitative text analysis: AI-coded corpora, gold calibration, DSL/PPI-corrected statistics, Evidence Ladder",
+    "created_at": "2026-06-07T04:13:41Z",
+    "updated_at": "2026-06-10T07:30:33Z",
+    "pushed_at": "2026-06-10T01:06:05Z",
+    "git_url": "git://github.com/emollick/concord.git",
     "homepage": null,
-    "size": 33559,
-    "stargazers_count": 83,
-    "watchers_count": 83,
-    "language": null,
-    "forks_count": 4,
+    "size": 1735,
+    "stargazers_count": 85,
+    "watchers_count": 85,
+    "language": "JavaScript",
+    "forks_count": 7,
     "open_issues_count": 0
   },
   {
@@ -80,15 +80,15 @@
     "html_url": "https://github.com/FengZi1221/grok-reg-tool",
     "description": "可自部署的 Grok 注册机 Web 控制台，支持 Docker、DrissionPage 自动化、邮件后端配置和本地账号号池管理。",
     "created_at": "2026-06-07T18:24:14Z",
-    "updated_at": "2026-06-10T00:39:19Z",
+    "updated_at": "2026-06-10T02:33:29Z",
     "pushed_at": "2026-06-08T03:36:54Z",
     "git_url": "git://github.com/FengZi1221/grok-reg-tool.git",
     "homepage": null,
     "size": 199,
-    "stargazers_count": 80,
-    "watchers_count": 80,
+    "stargazers_count": 81,
+    "watchers_count": 81,
     "language": "TypeScript",
-    "forks_count": 24,
+    "forks_count": 25,
     "open_issues_count": 0
   },
   {
@@ -103,15 +103,38 @@
     "html_url": "https://github.com/jwangkun/claude-for-financial-services-cn",
     "description": " 63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。",
     "created_at": "2026-06-07T15:45:23Z",
-    "updated_at": "2026-06-09T21:43:24Z",
+    "updated_at": "2026-06-10T05:19:11Z",
     "pushed_at": "2026-06-09T13:41:28Z",
     "git_url": "git://github.com/jwangkun/claude-for-financial-services-cn.git",
     "homepage": "",
     "size": 573,
-    "stargazers_count": 77,
-    "watchers_count": 77,
+    "stargazers_count": 81,
+    "watchers_count": 81,
     "language": "Python",
-    "forks_count": 25,
+    "forks_count": 28,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1262534926,
+    "name": "foundation-models-utilities",
+    "owner": {
+      "id": 10639145,
+      "url": "https://api.github.com/users/apple",
+      "html_url": "https://github.com/apple",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10639145?v=4"
+    },
+    "html_url": "https://github.com/apple/foundation-models-utilities",
+    "description": "Emerging and experimental patterns for building with the Foundation Models framework",
+    "created_at": "2026-06-08T04:40:53Z",
+    "updated_at": "2026-06-10T06:14:05Z",
+    "pushed_at": "2026-06-08T04:50:47Z",
+    "git_url": "git://github.com/apple/foundation-models-utilities.git",
+    "homepage": "",
+    "size": 1996,
+    "stargazers_count": 79,
+    "watchers_count": 79,
+    "language": "Swift",
+    "forks_count": 4,
     "open_issues_count": 0
   },
   {
@@ -158,7 +181,7 @@
     "watchers_count": 75,
     "language": null,
     "forks_count": 0,
-    "open_issues_count": 0
+    "open_issues_count": 1
   },
   {
     "id": 1263079461,
@@ -181,7 +204,7 @@
     "watchers_count": 75,
     "language": null,
     "forks_count": 0,
-    "open_issues_count": 0
+    "open_issues_count": 1
   },
   {
     "id": 1262750000,
@@ -204,7 +227,7 @@
     "watchers_count": 75,
     "language": "C++",
     "forks_count": 0,
-    "open_issues_count": 0
+    "open_issues_count": 1
   },
   {
     "id": 1263015082,
@@ -227,7 +250,7 @@
     "watchers_count": 75,
     "language": "C#",
     "forks_count": 0,
-    "open_issues_count": 0
+    "open_issues_count": 1
   },
   {
     "id": 1263090021,
@@ -250,7 +273,7 @@
     "watchers_count": 75,
     "language": null,
     "forks_count": 0,
-    "open_issues_count": 0
+    "open_issues_count": 1
   },
   {
     "id": 1263078535,
@@ -273,7 +296,7 @@
     "watchers_count": 75,
     "language": null,
     "forks_count": 0,
-    "open_issues_count": 0
+    "open_issues_count": 1
   },
   {
     "id": 1263073606,
@@ -296,7 +319,7 @@
     "watchers_count": 75,
     "language": null,
     "forks_count": 0,
-    "open_issues_count": 0
+    "open_issues_count": 1
   },
   {
     "id": 1263073875,
@@ -319,7 +342,7 @@
     "watchers_count": 74,
     "language": null,
     "forks_count": 0,
-    "open_issues_count": 0
+    "open_issues_count": 1
   },
   {
     "id": 1263089141,
@@ -342,30 +365,53 @@
     "watchers_count": 74,
     "language": null,
     "forks_count": 0,
-    "open_issues_count": 0
+    "open_issues_count": 1
   },
   {
-    "id": 1262534926,
-    "name": "foundation-models-utilities",
+    "id": 1263928948,
+    "name": "roleagent",
     "owner": {
-      "id": 10639145,
-      "url": "https://api.github.com/users/apple",
-      "html_url": "https://github.com/apple",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10639145?v=4"
+      "id": 202896035,
+      "url": "https://api.github.com/users/AMAP-ML",
+      "html_url": "https://github.com/AMAP-ML",
+      "avatar_url": "https://avatars.githubusercontent.com/u/202896035?v=4"
     },
-    "html_url": "https://github.com/apple/foundation-models-utilities",
-    "description": "Emerging and experimental patterns for building with the Foundation Models framework",
-    "created_at": "2026-06-08T04:40:53Z",
-    "updated_at": "2026-06-10T00:21:41Z",
-    "pushed_at": "2026-06-08T04:50:47Z",
-    "git_url": "git://github.com/apple/foundation-models-utilities.git",
+    "html_url": "https://github.com/AMAP-ML/roleagent",
+    "description": null,
+    "created_at": "2026-06-09T11:56:21Z",
+    "updated_at": "2026-06-10T07:36:57Z",
+    "pushed_at": "2026-06-10T05:43:36Z",
+    "git_url": "git://github.com/AMAP-ML/roleagent.git",
+    "homepage": null,
+    "size": 46143,
+    "stargazers_count": 69,
+    "watchers_count": 69,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1262842296,
+    "name": "TokenTamer",
+    "owner": {
+      "id": 196561731,
+      "url": "https://api.github.com/users/borhen68",
+      "html_url": "https://github.com/borhen68",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196561731?v=4"
+    },
+    "html_url": "https://github.com/borhen68/TokenTamer",
+    "description": "A drop-in proxy that compresses bloated code context in real-time, cutting LLM API costs by 50–80% without losing what the model actually needs to know.",
+    "created_at": "2026-06-08T11:25:21Z",
+    "updated_at": "2026-06-10T06:02:25Z",
+    "pushed_at": "2026-06-09T23:19:16Z",
+    "git_url": "git://github.com/borhen68/TokenTamer.git",
     "homepage": "",
-    "size": 1996,
-    "stargazers_count": 72,
-    "watchers_count": 72,
-    "language": "Swift",
-    "forks_count": 2,
-    "open_issues_count": 0
+    "size": 77,
+    "stargazers_count": 67,
+    "watchers_count": 67,
+    "language": "Python",
+    "forks_count": 12,
+    "open_issues_count": 2
   },
   {
     "id": 1262365158,
@@ -379,13 +425,13 @@
     "html_url": "https://github.com/markrussinovich/LinkedIn-Formatter",
     "description": null,
     "created_at": "2026-06-07T22:56:55Z",
-    "updated_at": "2026-06-10T00:01:07Z",
+    "updated_at": "2026-06-10T06:51:40Z",
     "pushed_at": "2026-06-09T04:43:06Z",
     "git_url": "git://github.com/markrussinovich/LinkedIn-Formatter.git",
     "homepage": null,
     "size": 543,
-    "stargazers_count": 63,
-    "watchers_count": 63,
+    "stargazers_count": 67,
+    "watchers_count": 67,
     "language": "TypeScript",
     "forks_count": 16,
     "open_issues_count": 0
@@ -402,39 +448,16 @@
     "html_url": "https://github.com/Ryderwe/Sollin-Music-Desktop",
     "description": null,
     "created_at": "2026-06-08T14:22:20Z",
-    "updated_at": "2026-06-09T13:49:02Z",
+    "updated_at": "2026-06-10T06:19:52Z",
     "pushed_at": "2026-06-09T04:44:02Z",
     "git_url": "git://github.com/Ryderwe/Sollin-Music-Desktop.git",
     "homepage": "https://www.223210.xyz",
     "size": 14233,
-    "stargazers_count": 62,
-    "watchers_count": 62,
+    "stargazers_count": 66,
+    "watchers_count": 66,
     "language": "TypeScript",
     "forks_count": 10,
     "open_issues_count": 1
-  },
-  {
-    "id": 1261720977,
-    "name": "concord",
-    "owner": {
-      "id": 63437581,
-      "url": "https://api.github.com/users/emollick",
-      "html_url": "https://github.com/emollick",
-      "avatar_url": "https://avatars.githubusercontent.com/u/63437581?v=4"
-    },
-    "html_url": "https://github.com/emollick/concord",
-    "description": "Instrument-grade qualitative text analysis: AI-coded corpora, gold calibration, DSL/PPI-corrected statistics, Evidence Ladder",
-    "created_at": "2026-06-07T04:13:41Z",
-    "updated_at": "2026-06-10T01:06:08Z",
-    "pushed_at": "2026-06-10T01:06:05Z",
-    "git_url": "git://github.com/emollick/concord.git",
-    "homepage": null,
-    "size": 1657,
-    "stargazers_count": 60,
-    "watchers_count": 60,
-    "language": "JavaScript",
-    "forks_count": 4,
-    "open_issues_count": 0
   },
   {
     "id": 1261794704,
@@ -448,39 +471,131 @@
     "html_url": "https://github.com/jhljx/RecSys-Industrial-Book",
     "description": null,
     "created_at": "2026-06-07T06:47:03Z",
-    "updated_at": "2026-06-10T00:26:26Z",
+    "updated_at": "2026-06-10T05:42:13Z",
     "pushed_at": "2026-06-10T00:26:23Z",
     "git_url": "git://github.com/jhljx/RecSys-Industrial-Book.git",
     "homepage": null,
-    "size": 17791,
-    "stargazers_count": 60,
-    "watchers_count": 60,
+    "size": 17798,
+    "stargazers_count": 66,
+    "watchers_count": 66,
     "language": null,
     "forks_count": 5,
     "open_issues_count": 0
   },
   {
-    "id": 1262842296,
-    "name": "TokenTamer",
+    "id": 1263826302,
+    "name": "AI-SpicyGen",
     "owner": {
-      "id": 196561731,
-      "url": "https://api.github.com/users/borhen68",
-      "html_url": "https://github.com/borhen68",
-      "avatar_url": "https://avatars.githubusercontent.com/u/196561731?v=4"
+      "id": 292062136,
+      "url": "https://api.github.com/users/AI-BestTools",
+      "html_url": "https://github.com/AI-BestTools",
+      "avatar_url": "https://avatars.githubusercontent.com/u/292062136?v=4"
     },
-    "html_url": "https://github.com/borhen68/TokenTamer",
-    "description": "A drop-in proxy that compresses bloated code context in real-time, cutting LLM API costs by 50–80% without losing what the model actually needs to know.",
-    "created_at": "2026-06-08T11:25:21Z",
-    "updated_at": "2026-06-10T01:03:57Z",
-    "pushed_at": "2026-06-09T23:19:16Z",
-    "git_url": "git://github.com/borhen68/TokenTamer.git",
+    "html_url": "https://github.com/AI-BestTools/AI-SpicyGen",
+    "description": "Find AI tools that create realistic photos and videos with fewer restrictions. Easy to use, high quality, and built for more creative freedom - https://tinyurl.com/imggenai",
+    "created_at": "2026-06-09T09:52:54Z",
+    "updated_at": "2026-06-10T07:13:04Z",
+    "pushed_at": "2026-06-09T09:52:55Z",
+    "git_url": "git://github.com/AI-BestTools/AI-SpicyGen.git",
     "homepage": "",
-    "size": 77,
+    "size": 0,
+    "stargazers_count": 62,
+    "watchers_count": 62,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1262952180,
+    "name": "cheat-on-money",
+    "owner": {
+      "id": 280592915,
+      "url": "https://api.github.com/users/XBuilderLAB",
+      "html_url": "https://github.com/XBuilderLAB",
+      "avatar_url": "https://avatars.githubusercontent.com/u/280592915?v=4"
+    },
+    "html_url": "https://github.com/XBuilderLAB/cheat-on-money",
+    "description": "AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个���化校准环",
+    "created_at": "2026-06-08T13:30:36Z",
+    "updated_at": "2026-06-10T07:38:13Z",
+    "pushed_at": "2026-06-08T13:30:40Z",
+    "git_url": "git://github.com/XBuilderLAB/cheat-on-money.git",
+    "homepage": null,
+    "size": 45,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "JavaScript",
+    "forks_count": 6,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1263729696,
+    "name": "awesome-jepa",
+    "owner": {
+      "id": 45264458,
+      "url": "https://api.github.com/users/AbdelStark",
+      "html_url": "https://github.com/AbdelStark",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45264458?v=4"
+    },
+    "html_url": "https://github.com/AbdelStark/awesome-jepa",
+    "description": "Curated resources for JEPA (Joint Embedding Predictive Architecture) world models and self-supervised learning",
+    "created_at": "2026-06-09T08:04:50Z",
+    "updated_at": "2026-06-10T06:55:01Z",
+    "pushed_at": "2026-06-09T15:25:47Z",
+    "git_url": "git://github.com/AbdelStark/awesome-jepa.git",
+    "homepage": "https://abdelstark.github.io/awesome-jepa/",
+    "size": 45,
+    "stargazers_count": 59,
+    "watchers_count": 59,
+    "language": "CSS",
+    "forks_count": 2,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1262672522,
+    "name": "telemt-server-guide",
+    "owner": {
+      "id": 275949930,
+      "url": "https://api.github.com/users/assyoucandy",
+      "html_url": "https://github.com/assyoucandy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/275949930?v=4"
+    },
+    "html_url": "https://github.com/assyoucandy/telemt-server-guide",
+    "description": "telemt (Rust MTProxy) — установка с нуля на Ubuntu, защита от DPI",
+    "created_at": "2026-06-08T07:58:17Z",
+    "updated_at": "2026-06-10T06:52:38Z",
+    "pushed_at": "2026-06-09T09:06:40Z",
+    "git_url": "git://github.com/assyoucandy/telemt-server-guide.git",
+    "homepage": null,
+    "size": 90,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": "HTML",
+    "forks_count": 1,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1261725242,
+    "name": "Light-skills",
+    "owner": {
+      "id": 183568549,
+      "url": "https://api.github.com/users/Light0305",
+      "html_url": "https://github.com/Light0305",
+      "avatar_url": "https://avatars.githubusercontent.com/u/183568549?v=4"
+    },
+    "html_url": "https://github.com/Light0305/Light-skills",
+    "description": "Light — 全流程科研技能包：28 个技能覆盖文献调研到投稿全流程，配套 9 个可核查知识库。适配主流 AI 编程客户端。",
+    "created_at": "2026-06-07T04:23:54Z",
+    "updated_at": "2026-06-10T07:31:21Z",
+    "pushed_at": "2026-06-10T07:31:15Z",
+    "git_url": "git://github.com/Light0305/Light-skills.git",
+    "homepage": "https://github.com/Light0305/Light#readme",
+    "size": 6341,
     "stargazers_count": 57,
     "watchers_count": 57,
     "language": "Python",
-    "forks_count": 10,
-    "open_issues_count": 2
+    "forks_count": 17,
+    "open_issues_count": 0
   },
   {
     "id": 1263821043,
@@ -506,29 +621,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1262672522,
-    "name": "telemt-server-guide",
-    "owner": {
-      "id": 275949930,
-      "url": "https://api.github.com/users/assyoucandy",
-      "html_url": "https://github.com/assyoucandy",
-      "avatar_url": "https://avatars.githubusercontent.com/u/275949930?v=4"
-    },
-    "html_url": "https://github.com/assyoucandy/telemt-server-guide",
-    "description": "telemt (Rust MTProxy) — установка с нуля на Ubuntu, защита от DPI",
-    "created_at": "2026-06-08T07:58:17Z",
-    "updated_at": "2026-06-09T23:23:45Z",
-    "pushed_at": "2026-06-09T09:06:40Z",
-    "git_url": "git://github.com/assyoucandy/telemt-server-guide.git",
-    "homepage": null,
-    "size": 90,
-    "stargazers_count": 55,
-    "watchers_count": 55,
-    "language": "HTML",
-    "forks_count": 1,
-    "open_issues_count": 0
-  },
-  {
     "id": 1262328297,
     "name": "AI-Website-Audit-CLI",
     "owner": {
@@ -549,6 +641,98 @@
     "watchers_count": 55,
     "language": "Python",
     "forks_count": 49,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1261677886,
+    "name": "DeepX",
+    "owner": {
+      "id": 197760511,
+      "url": "https://api.github.com/users/RainyMarks",
+      "html_url": "https://github.com/RainyMarks",
+      "avatar_url": "https://avatars.githubusercontent.com/u/197760511?v=4"
+    },
+    "html_url": "https://github.com/RainyMarks/DeepX",
+    "description": "An AI agent workspace",
+    "created_at": "2026-06-07T02:30:08Z",
+    "updated_at": "2026-06-10T07:10:45Z",
+    "pushed_at": "2026-06-08T15:25:24Z",
+    "git_url": "git://github.com/RainyMarks/DeepX.git",
+    "homepage": "",
+    "size": 5886,
+    "stargazers_count": 55,
+    "watchers_count": 55,
+    "language": "Rust",
+    "forks_count": 4,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1262076795,
+    "name": "CareerForge",
+    "owner": {
+      "id": 266134491,
+      "url": "https://api.github.com/users/rebecha1227-a11y",
+      "html_url": "https://github.com/rebecha1227-a11y",
+      "avatar_url": "https://avatars.githubusercontent.com/u/266134491?v=4"
+    },
+    "html_url": "https://github.com/rebecha1227-a11y/CareerForge",
+    "description": "帮助你求职全流程：简历评估、简历生成与优化、求职信撰写、面试模拟。",
+    "created_at": "2026-06-07T14:42:31Z",
+    "updated_at": "2026-06-10T06:41:52Z",
+    "pushed_at": "2026-06-09T17:10:21Z",
+    "git_url": "git://github.com/rebecha1227-a11y/CareerForge.git",
+    "homepage": null,
+    "size": 9562,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "HTML",
+    "forks_count": 7,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1263662092,
+    "name": "ai-video-agent",
+    "owner": {
+      "id": 10279218,
+      "url": "https://api.github.com/users/xuanyuanzhifeng",
+      "html_url": "https://github.com/xuanyuanzhifeng",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10279218?v=4"
+    },
+    "html_url": "https://github.com/xuanyuanzhifeng/ai-video-agent",
+    "description": "AI生成图片轮播视频和HTML动画视频",
+    "created_at": "2026-06-09T06:44:23Z",
+    "updated_at": "2026-06-10T07:36:34Z",
+    "pushed_at": "2026-06-09T08:15:22Z",
+    "git_url": "git://github.com/xuanyuanzhifeng/ai-video-agent.git",
+    "homepage": null,
+    "size": 1937,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "TypeScript",
+    "forks_count": 20,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1263513016,
+    "name": "kk-knowledge-agent",
+    "owner": {
+      "id": 169382651,
+      "url": "https://api.github.com/users/kanna12580",
+      "html_url": "https://github.com/kanna12580",
+      "avatar_url": "https://avatars.githubusercontent.com/u/169382651?v=4"
+    },
+    "html_url": "https://github.com/kanna12580/kk-knowledge-agent",
+    "description": "轻量级知识库系统，支持知识库管理、文本/txt 上传、语义检索、流式返回，并将检索能力封装为 MCP Server，供 Agent 调用。",
+    "created_at": "2026-06-09T02:54:46Z",
+    "updated_at": "2026-06-10T03:47:11Z",
+    "pushed_at": "2026-06-09T10:55:09Z",
+    "git_url": "git://github.com/kanna12580/kk-knowledge-agent.git",
+    "homepage": null,
+    "size": 539,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "Python",
+    "forks_count": 2,
     "open_issues_count": 0
   },
   {
@@ -632,15 +816,38 @@
     "html_url": "https://github.com/noahwlbbxm0818182/Lossless-Scaling-Full-Version-Git-2",
     "description": "⭐️ Lossless Scaling Desktop 2026 | Setup Installer v1.0 | Patch Activator Keygen | License Key Pre-Activated | Full Version Latest Build Pro | Optimize Resolution Scaling | Enhance Performance Graphics | Get Desktop App Windows 10/11 PC | Direct Genuine Original x64 | Download Install Loader Mod ⭐️",
     "created_at": "2026-06-09T16:48:48Z",
-    "updated_at": "2026-06-10T00:41:47Z",
+    "updated_at": "2026-06-10T07:32:35Z",
     "pushed_at": "2026-06-09T16:50:21Z",
     "git_url": "git://github.com/noahwlbbxm0818182/Lossless-Scaling-Full-Version-Git-2.git",
     "homepage": "",
     "size": 90,
-    "stargazers_count": 50,
-    "watchers_count": 50,
+    "stargazers_count": 51,
+    "watchers_count": 51,
     "language": "C#",
     "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1264478656,
+    "name": "effective-html",
+    "owner": {
+      "id": 287026406,
+      "url": "https://api.github.com/users/plannotator",
+      "html_url": "https://github.com/plannotator",
+      "avatar_url": "https://avatars.githubusercontent.com/u/287026406?v=4"
+    },
+    "html_url": "https://github.com/plannotator/effective-html",
+    "description": "Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of.",
+    "created_at": "2026-06-09T23:24:51Z",
+    "updated_at": "2026-06-10T07:38:13Z",
+    "pushed_at": "2026-06-10T04:47:31Z",
+    "git_url": "git://github.com/plannotator/effective-html.git",
+    "homepage": "https://plannotator.ai",
+    "size": 137,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "HTML",
+    "forks_count": 4,
     "open_issues_count": 0
   },
   {
@@ -667,29 +874,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1261677886,
-    "name": "DeepX",
-    "owner": {
-      "id": 197760511,
-      "url": "https://api.github.com/users/RainyMarks",
-      "html_url": "https://github.com/RainyMarks",
-      "avatar_url": "https://avatars.githubusercontent.com/u/197760511?v=4"
-    },
-    "html_url": "https://github.com/RainyMarks/DeepX",
-    "description": "An AI agent workspace",
-    "created_at": "2026-06-07T02:30:08Z",
-    "updated_at": "2026-06-10T00:56:43Z",
-    "pushed_at": "2026-06-08T15:25:24Z",
-    "git_url": "git://github.com/RainyMarks/DeepX.git",
-    "homepage": "",
-    "size": 5886,
-    "stargazers_count": 50,
-    "watchers_count": 50,
-    "language": "Rust",
-    "forks_count": 4,
-    "open_issues_count": 0
-  },
-  {
     "id": 1263586501,
     "name": "KnowBase_AI",
     "owner": {
@@ -711,5 +895,28 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1262825489,
+    "name": "draft-review-kit",
+    "owner": {
+      "id": 76073155,
+      "url": "https://api.github.com/users/EveryInc",
+      "html_url": "https://github.com/EveryInc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76073155?v=4"
+    },
+    "html_url": "https://github.com/EveryInc/draft-review-kit",
+    "description": "Feedback-first writing review skills for stress-testing drafts.",
+    "created_at": "2026-06-08T11:04:51Z",
+    "updated_at": "2026-06-10T07:29:21Z",
+    "pushed_at": "2026-06-08T11:07:58Z",
+    "git_url": "git://github.com/EveryInc/draft-review-kit.git",
+    "homepage": null,
+    "size": 42,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": null,
+    "forks_count": 11,
+    "open_issues_count": 1
   }
 ]
