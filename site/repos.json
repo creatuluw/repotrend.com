@@ -50207,5 +50207,51 @@
     "language": "C#",
     "forks_count": 0,
     "open_issues_count": 1
+  },
+  {
+    "id": 1257823581,
+    "name": "zhongguo-traditional-colors",
+    "owner": {
+      "id": 166048,
+      "url": "https://api.github.com/users/nevertoday",
+      "html_url": "https://github.com/nevertoday",
+      "avatar_url": "https://avatars.githubusercontent.com/u/166048?v=4"
+    },
+    "html_url": "https://github.com/nevertoday/zhongguo-traditional-colors",
+    "description": "中华传统色演示、色卡浏览与颜色知识科普开源项目",
+    "created_at": "2026-06-03T03:26:16Z",
+    "updated_at": "2026-06-10T01:04:03Z",
+    "pushed_at": "2026-06-10T01:02:42Z",
+    "git_url": "git://github.com/nevertoday/zhongguo-traditional-colors.git",
+    "homepage": "https://nevertoday.github.io/zhongguo-traditional-colors/",
+    "size": 1069937,
+    "stargazers_count": 661,
+    "watchers_count": 661,
+    "language": "JavaScript",
+    "forks_count": 66,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1263821043,
+    "name": "Ai-video-maker",
+    "owner": {
+      "id": 292066082,
+      "url": "https://api.github.com/users/hptwitters",
+      "html_url": "https://github.com/hptwitters",
+      "avatar_url": "https://avatars.githubusercontent.com/u/292066082?v=4"
+    },
+    "html_url": "https://github.com/hptwitters/Ai-video-maker",
+    "description": "Best AI 2026 -> https://tinyurl.com/ycxhb7e7",
+    "created_at": "2026-06-09T09:46:57Z",
+    "updated_at": "2026-06-09T20:51:02Z",
+    "pushed_at": "2026-06-09T09:46:58Z",
+    "git_url": "git://github.com/hptwitters/Ai-video-maker.git",
+    "homepage": "",
+    "size": 0,
+    "stargazers_count": 56,
+    "watchers_count": 56,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
