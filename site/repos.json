@@ -50046,5 +50046,74 @@
     "language": "Vue",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1199545751,
+    "name": "xquad",
+    "owner": {
+      "id": 203704131,
+      "url": "https://api.github.com/users/QuipNetwork",
+      "html_url": "https://github.com/QuipNetwork",
+      "avatar_url": "https://avatars.githubusercontent.com/u/203704131?v=4"
+    },
+    "html_url": "https://github.com/QuipNetwork/xquad",
+    "description": "A rust implementation of the Quip Network's quantum virtual machine.",
+    "created_at": "2026-04-02T13:07:49Z",
+    "updated_at": "2026-06-07T20:41:58Z",
+    "pushed_at": "2026-06-03T18:22:45Z",
+    "git_url": "git://github.com/QuipNetwork/xquad.git",
+    "homepage": null,
+    "size": 1298,
+    "stargazers_count": 5612,
+    "watchers_count": 5612,
+    "language": "Rust",
+    "forks_count": 17,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1261650101,
+    "name": "baoyu-design",
+    "owner": {
+      "id": 648674,
+      "url": "https://api.github.com/users/JimLiu",
+      "html_url": "https://github.com/JimLiu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/648674?v=4"
+    },
+    "html_url": "https://github.com/JimLiu/baoyu-design",
+    "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+    "created_at": "2026-06-07T01:16:18Z",
+    "updated_at": "2026-06-09T18:33:10Z",
+    "pushed_at": "2026-06-09T14:51:44Z",
+    "git_url": "git://github.com/JimLiu/baoyu-design.git",
+    "homepage": null,
+    "size": 7175,
+    "stargazers_count": 625,
+    "watchers_count": 625,
+    "language": "JavaScript",
+    "forks_count": 45,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1263073606,
+    "name": "paint-ai-3d",
+    "owner": {
+      "id": 290397675,
+      "url": "https://api.github.com/users/g69995865146",
+      "html_url": "https://github.com/g69995865146",
+      "avatar_url": "https://avatars.githubusercontent.com/u/290397675?v=4"
+    },
+    "html_url": "https://github.com/g69995865146/paint-ai-3d",
+    "description": "A professional-grade AI-powered 3D painting system with advanced brushstrokes, layers, and materials. Perfect for artists, designers, and digital creators seeking high-quality 3D art creation.",
+    "created_at": "2026-06-08T15:41:23Z",
+    "updated_at": "2026-06-09T16:29:29Z",
+    "pushed_at": "2026-06-08T15:45:11Z",
+    "git_url": "git://github.com/g69995865146/paint-ai-3d.git",
+    "homepage": "",
+    "size": 9,
+    "stargazers_count": 75,
+    "watchers_count": 75,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
