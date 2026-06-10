@@ -50115,5 +50115,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1256080504,
+    "name": "TripoSplat",
+    "owner": {
+      "id": 149052137,
+      "url": "https://api.github.com/users/VAST-AI-Research",
+      "html_url": "https://github.com/VAST-AI-Research",
+      "avatar_url": "https://avatars.githubusercontent.com/u/149052137?v=4"
+    },
+    "html_url": "https://github.com/VAST-AI-Research/TripoSplat",
+    "description": "TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.",
+    "created_at": "2026-06-01T12:50:21Z",
+    "updated_at": "2026-06-10T01:05:59Z",
+    "pushed_at": "2026-06-02T08:47:41Z",
+    "git_url": "git://github.com/VAST-AI-Research/TripoSplat.git",
+    "homepage": null,
+    "size": 4749,
+    "stargazers_count": 593,
+    "watchers_count": 593,
+    "language": "Python",
+    "forks_count": 56,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1263079461,
+    "name": "team-fortress-2-modding",
+    "owner": {
+      "id": 290486024,
+      "url": "https://api.github.com/users/kadirtopaloglu668878815",
+      "html_url": "https://github.com/kadirtopaloglu668878815",
+      "avatar_url": "https://avatars.githubusercontent.com/u/290486024?v=4"
+    },
+    "html_url": "https://github.com/kadirtopaloglu668878815/team-fortress-2-modding",
+    "description": "A modern mod framework for Team Fortress 2, enabling developers to create high-quality, scalable mods with minimal boilerplate. Perfect for both new and experienced TF2 modders.",
+    "created_at": "2026-06-08T15:47:57Z",
+    "updated_at": "2026-06-09T16:26:53Z",
+    "pushed_at": "2026-06-08T15:51:38Z",
+    "git_url": "git://github.com/kadirtopaloglu668878815/team-fortress-2-modding.git",
+    "homepage": "",
+    "size": 9,
+    "stargazers_count": 75,
+    "watchers_count": 75,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
