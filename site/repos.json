@@ -50299,5 +50299,51 @@
     "language": "Python",
     "forks_count": 2,
     "open_issues_count": 1
+  },
+  {
+    "id": 1241362619,
+    "name": "CPA-Manager-Plus",
+    "owner": {
+      "id": 7602294,
+      "url": "https://api.github.com/users/seakee",
+      "html_url": "https://github.com/seakee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7602294?v=4"
+    },
+    "html_url": "https://github.com/seakee/CPA-Manager-Plus",
+    "description": "Management panel for CLI Proxy API with a Docker-ready Manager Server, SQLite usage analytics, request monitoring, model pricing, quota views, and Codex inspection.",
+    "created_at": "2026-05-17T09:41:43Z",
+    "updated_at": "2026-06-09T18:29:23Z",
+    "pushed_at": "2026-06-09T16:21:04Z",
+    "git_url": "git://github.com/seakee/CPA-Manager-Plus.git",
+    "homepage": "",
+    "size": 11780,
+    "stargazers_count": 617,
+    "watchers_count": 617,
+    "language": "TypeScript",
+    "forks_count": 66,
+    "open_issues_count": 20
+  },
+  {
+    "id": 1261808958,
+    "name": "ADtoKeil",
+    "owner": {
+      "id": 95366753,
+      "url": "https://api.github.com/users/Tansuo2021",
+      "html_url": "https://github.com/Tansuo2021",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95366753?v=4"
+    },
+    "html_url": "https://github.com/Tansuo2021/ADtoKeil",
+    "description": null,
+    "created_at": "2026-06-07T07:13:39Z",
+    "updated_at": "2026-06-09T08:08:33Z",
+    "pushed_at": "2026-06-07T07:33:20Z",
+    "git_url": "git://github.com/Tansuo2021/ADtoKeil.git",
+    "homepage": null,
+    "size": 118,
+    "stargazers_count": 76,
+    "watchers_count": 76,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 0
   }
 ]
