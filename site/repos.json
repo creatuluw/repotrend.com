@@ -50782,5 +50782,51 @@
     "language": null,
     "forks_count": 12,
     "open_issues_count": 1
+  },
+  {
+    "id": 1237927619,
+    "name": "rayfin",
+    "owner": {
+      "id": 6154722,
+      "url": "https://api.github.com/users/microsoft",
+      "html_url": "https://github.com/microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+    },
+    "html_url": "https://github.com/microsoft/rayfin",
+    "description": "Backend-as-a-Service with built-in auth, data, and more",
+    "created_at": "2026-05-13T16:36:21Z",
+    "updated_at": "2026-06-11T11:09:34Z",
+    "pushed_at": "2026-06-09T17:43:28Z",
+    "git_url": "git://github.com/microsoft/rayfin.git",
+    "homepage": null,
+    "size": 2205,
+    "stargazers_count": 470,
+    "watchers_count": 470,
+    "language": null,
+    "forks_count": 38,
+    "open_issues_count": 17
+  },
+  {
+    "id": 1264449315,
+    "name": "lumenshaders",
+    "owner": {
+      "id": 219127460,
+      "url": "https://api.github.com/users/Leonxlnx",
+      "html_url": "https://github.com/Leonxlnx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219127460?v=4"
+    },
+    "html_url": "https://github.com/Leonxlnx/lumenshaders",
+    "description": "LUMEN, a generative shader studio. 9 WebGL2 art modes plus synth style blending, perfect-loop animation, gradient sets, share codes and PNG/WebM/GIF export. Zero dependencies.",
+    "created_at": "2026-06-09T22:31:51Z",
+    "updated_at": "2026-06-11T13:30:31Z",
+    "pushed_at": "2026-06-10T15:32:32Z",
+    "git_url": "git://github.com/Leonxlnx/lumenshaders.git",
+    "homepage": "https://leonxlnx.github.io/lumenshaders/",
+    "size": 9077,
+    "stargazers_count": 86,
+    "watchers_count": 86,
+    "language": "JavaScript",
+    "forks_count": 12,
+    "open_issues_count": 0
   }
 ]
