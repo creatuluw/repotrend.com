@@ -50644,5 +50644,51 @@
     "language": "TypeScript",
     "forks_count": 20,
     "open_issues_count": 0
+  },
+  {
+    "id": 1244162403,
+    "name": "codex-windows-fast-patch-skill",
+    "owner": {
+      "id": 255150494,
+      "url": "https://api.github.com/users/chen0416ccc-cpu",
+      "html_url": "https://github.com/chen0416ccc-cpu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/255150494?v=4"
+    },
+    "html_url": "https://github.com/chen0416ccc-cpu/codex-windows-fast-patch-skill",
+    "description": "此skills用于指导智能体在 Windows 上恢复 Codex Desktop 升级后失效的本地补丁和能力开关。（Computer Use，插件，fast mode等问题）支持每次使用前自动将skills更新到最新版。/These skills are designed to guide the agent in restoring local patches and feature toggles that have been disabled or invalidated following a Codex Desktop upgrade on Windows. Supports auto-updating translations.",
+    "created_at": "2026-05-20T02:45:32Z",
+    "updated_at": "2026-06-11T07:38:51Z",
+    "pushed_at": "2026-06-09T08:37:11Z",
+    "git_url": "git://github.com/chen0416ccc-cpu/codex-windows-fast-patch-skill.git",
+    "homepage": "",
+    "size": 392,
+    "stargazers_count": 476,
+    "watchers_count": 476,
+    "language": "PowerShell",
+    "forks_count": 48,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1265651119,
+    "name": "GreatXML",
+    "owner": {
+      "id": 291905677,
+      "url": "https://api.github.com/users/MSNightmare",
+      "html_url": "https://github.com/MSNightmare",
+      "avatar_url": "https://avatars.githubusercontent.com/u/291905677?v=4"
+    },
+    "html_url": "https://github.com/MSNightmare/GreatXML",
+    "description": "GreatXML bitlocker bypass vulnerability",
+    "created_at": "2026-06-11T01:03:12Z",
+    "updated_at": "2026-06-11T07:40:50Z",
+    "pushed_at": "2026-06-11T01:04:40Z",
+    "git_url": "git://github.com/MSNightmare/GreatXML.git",
+    "homepage": null,
+    "size": 87,
+    "stargazers_count": 77,
+    "watchers_count": 77,
+    "language": null,
+    "forks_count": 44,
+    "open_issues_count": 3
   }
 ]
