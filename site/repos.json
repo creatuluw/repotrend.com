@@ -50828,5 +50828,51 @@
     "language": "JavaScript",
     "forks_count": 12,
     "open_issues_count": 0
+  },
+  {
+    "id": 1251648409,
+    "name": "GeoLibre",
+    "owner": {
+      "id": 129896036,
+      "url": "https://api.github.com/users/opengeos",
+      "html_url": "https://github.com/opengeos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129896036?v=4"
+    },
+    "html_url": "https://github.com/opengeos/GeoLibre",
+    "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data across desktop and web environments, with a responsive layout for mobile screens.",
+    "created_at": "2026-05-27T19:34:31Z",
+    "updated_at": "2026-06-11T13:26:47Z",
+    "pushed_at": "2026-06-11T13:04:07Z",
+    "git_url": "git://github.com/opengeos/GeoLibre.git",
+    "homepage": "https://geolibre.app",
+    "size": 3901,
+    "stargazers_count": 595,
+    "watchers_count": 595,
+    "language": "TypeScript",
+    "forks_count": 80,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1264378369,
+    "name": "QMPrompter",
+    "owner": {
+      "id": 3236682,
+      "url": "https://api.github.com/users/joeseesun",
+      "html_url": "https://github.com/joeseesun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3236682?v=4"
+    },
+    "html_url": "https://github.com/joeseesun/QMPrompter",
+    "description": null,
+    "created_at": "2026-06-09T20:39:35Z",
+    "updated_at": "2026-06-11T11:14:44Z",
+    "pushed_at": "2026-06-10T08:48:23Z",
+    "git_url": "git://github.com/joeseesun/QMPrompter.git",
+    "homepage": null,
+    "size": 1186,
+    "stargazers_count": 82,
+    "watchers_count": 82,
+    "language": "Swift",
+    "forks_count": 23,
+    "open_issues_count": 1
   }
 ]
