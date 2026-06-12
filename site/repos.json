@@ -50943,5 +50943,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1243403407,
+    "name": "OSCAR",
+    "owner": {
+      "id": 266794418,
+      "url": "https://api.github.com/users/FutureMLS-Lab",
+      "html_url": "https://github.com/FutureMLS-Lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/266794418?v=4"
+    },
+    "html_url": "https://github.com/FutureMLS-Lab/OSCAR",
+    "description": "OSCAR: Offline Spectral Covariance-Aware Rotation for 2-bit KV Cache Quantization",
+    "created_at": "2026-05-19T10:02:36Z",
+    "updated_at": "2026-06-11T13:36:19Z",
+    "pushed_at": "2026-06-08T07:53:09Z",
+    "git_url": "git://github.com/FutureMLS-Lab/OSCAR.git",
+    "homepage": "https://oscar-quantize.github.io/",
+    "size": 396304,
+    "stargazers_count": 488,
+    "watchers_count": 488,
+    "language": "Python",
+    "forks_count": 72,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1265465734,
+    "name": "expo-curved-bottom-tabs",
+    "owner": {
+      "id": 119659853,
+      "url": "https://api.github.com/users/rit3zh",
+      "html_url": "https://github.com/rit3zh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119659853?v=4"
+    },
+    "html_url": "https://github.com/rit3zh/expo-curved-bottom-tabs",
+    "description": "🚀 A curved, liquid-glass bottom tab bar for Expo Router with a draggable glass pill.",
+    "created_at": "2026-06-10T19:55:45Z",
+    "updated_at": "2026-06-12T00:55:24Z",
+    "pushed_at": "2026-06-10T20:12:26Z",
+    "git_url": "git://github.com/rit3zh/expo-curved-bottom-tabs.git",
+    "homepage": "",
+    "size": 1592,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
