@@ -51265,5 +51265,74 @@
     "language": "Python",
     "forks_count": 28,
     "open_issues_count": 0
+  },
+  {
+    "id": 1265025028,
+    "name": "MiMo-Code",
+    "owner": {
+      "id": 208276378,
+      "url": "https://api.github.com/users/XiaomiMiMo",
+      "html_url": "https://github.com/XiaomiMiMo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208276378?v=4"
+    },
+    "html_url": "https://github.com/XiaomiMiMo/MiMo-Code",
+    "description": null,
+    "created_at": "2026-06-10T11:52:41Z",
+    "updated_at": "2026-06-12T13:20:21Z",
+    "pushed_at": "2026-06-11T14:29:00Z",
+    "git_url": "git://github.com/XiaomiMiMo/MiMo-Code.git",
+    "homepage": null,
+    "size": 46477,
+    "stargazers_count": 5844,
+    "watchers_count": 5844,
+    "language": "TypeScript",
+    "forks_count": 464,
+    "open_issues_count": 403
+  },
+  {
+    "id": 1255237198,
+    "name": "munder-difflin",
+    "owner": {
+      "id": 26071627,
+      "url": "https://api.github.com/users/chaitanyagiri",
+      "html_url": "https://github.com/chaitanyagiri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26071627?v=4"
+    },
+    "html_url": "https://github.com/chaitanyagiri/munder-difflin",
+    "description": "local multi-agent harness",
+    "created_at": "2026-05-31T15:25:05Z",
+    "updated_at": "2026-06-11T18:36:28Z",
+    "pushed_at": "2026-06-10T19:49:10Z",
+    "git_url": "git://github.com/chaitanyagiri/munder-difflin.git",
+    "homepage": "https://munderdiffl.in",
+    "size": 23560,
+    "stargazers_count": 515,
+    "watchers_count": 515,
+    "language": "TypeScript",
+    "forks_count": 56,
+    "open_issues_count": 16
+  },
+  {
+    "id": 1263739043,
+    "name": "xcode27-skills",
+    "owner": {
+      "id": 270369317,
+      "url": "https://api.github.com/users/superagents-lab",
+      "html_url": "https://github.com/superagents-lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270369317?v=4"
+    },
+    "html_url": "https://github.com/superagents-lab/xcode27-skills",
+    "description": "Apple's official Agent Skills exported from Xcode 27 — SwiftUI, UIKit modernization, Swift Testing, C bounds-safety, and security hardening for AI coding agents.",
+    "created_at": "2026-06-09T08:15:52Z",
+    "updated_at": "2026-06-11T14:24:16Z",
+    "pushed_at": "2026-06-09T08:44:33Z",
+    "git_url": "git://github.com/superagents-lab/xcode27-skills.git",
+    "homepage": null,
+    "size": 191,
+    "stargazers_count": 69,
+    "watchers_count": 69,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
