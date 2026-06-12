@@ -51219,5 +51219,51 @@
     "language": null,
     "forks_count": 3,
     "open_issues_count": 1
+  },
+  {
+    "id": 1239473321,
+    "name": "HermesPet",
+    "owner": {
+      "id": 240247679,
+      "url": "https://api.github.com/users/basionwang-bot",
+      "html_url": "https://github.com/basionwang-bot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/240247679?v=4"
+    },
+    "html_url": "https://github.com/basionwang-bot/HermesPet",
+    "description": "让 AI 住在你 MacBook 的刘海里 · 零依赖开箱即用 · 多引擎并行的桌面 AI 伴侣（Swift 6 / SwiftUI / macOS 14+）",
+    "created_at": "2026-05-15T06:03:02Z",
+    "updated_at": "2026-06-11T17:10:09Z",
+    "pushed_at": "2026-06-11T17:10:04Z",
+    "git_url": "git://github.com/basionwang-bot/HermesPet.git",
+    "homepage": "https://hermespet.cc",
+    "size": 7333,
+    "stargazers_count": 484,
+    "watchers_count": 484,
+    "language": "Swift",
+    "forks_count": 52,
+    "open_issues_count": 111
+  },
+  {
+    "id": 1264691849,
+    "name": "GeniusFKoai",
+    "owner": {
+      "id": 30143908,
+      "url": "https://api.github.com/users/asz798838958",
+      "html_url": "https://github.com/asz798838958",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30143908?v=4"
+    },
+    "html_url": "https://github.com/asz798838958/GeniusFKoai",
+    "description": null,
+    "created_at": "2026-06-10T05:20:44Z",
+    "updated_at": "2026-06-11T17:09:47Z",
+    "pushed_at": "2026-06-11T05:31:28Z",
+    "git_url": "git://github.com/asz798838958/GeniusFKoai.git",
+    "homepage": null,
+    "size": 22525,
+    "stargazers_count": 87,
+    "watchers_count": 87,
+    "language": "Python",
+    "forks_count": 28,
+    "open_issues_count": 0
   }
 ]
