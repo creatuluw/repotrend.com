@@ -50874,5 +50874,74 @@
     "language": "Swift",
     "forks_count": 23,
     "open_issues_count": 1
+  },
+  {
+    "id": 1186219527,
+    "name": "TREK",
+    "owner": {
+      "id": 61554723,
+      "url": "https://api.github.com/users/mauriceboe",
+      "html_url": "https://github.com/mauriceboe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61554723?v=4"
+    },
+    "html_url": "https://github.com/mauriceboe/TREK",
+    "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+    "created_at": "2026-03-19T11:51:54Z",
+    "updated_at": "2026-06-11T19:07:14Z",
+    "pushed_at": "2026-06-11T13:44:47Z",
+    "git_url": "git://github.com/mauriceboe/TREK.git",
+    "homepage": "https://demo.liketrek.com",
+    "size": 85736,
+    "stargazers_count": 5615,
+    "watchers_count": 5615,
+    "language": "TypeScript",
+    "forks_count": 555,
+    "open_issues_count": 13
+  },
+  {
+    "id": 1243089932,
+    "name": "1688-common-html-report-generator",
+    "owner": {
+      "id": 264967379,
+      "url": "https://api.github.com/users/next-1688",
+      "html_url": "https://github.com/next-1688",
+      "avatar_url": "https://avatars.githubusercontent.com/u/264967379?v=4"
+    },
+    "html_url": "https://github.com/next-1688/1688-common-html-report-generator",
+    "description": "将文本数据报告快速转换为交互式可视化HTML网页。使用 Python 代码驱动预置模板，只需编写数据配置即可自动生成专业数据看板。适用于市场分析报告、运营数据复盘、行业调研报告、销售数据汇总等场景。触发词：生成HTML报告、生成网页报告、转成可视化网页、做成数据看板、数据可视化、生成HTML看板。",
+    "created_at": "2026-05-19T03:24:02Z",
+    "updated_at": "2026-06-08T16:45:07Z",
+    "pushed_at": "2026-05-19T03:24:11Z",
+    "git_url": "git://github.com/next-1688/1688-common-html-report-generator.git",
+    "homepage": null,
+    "size": 18,
+    "stargazers_count": 498,
+    "watchers_count": 498,
+    "language": "Python",
+    "forks_count": 18,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1262438199,
+    "name": "MicroRAG",
+    "owner": {
+      "id": 16463144,
+      "url": "https://api.github.com/users/canwhite",
+      "html_url": "https://github.com/canwhite",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16463144?v=4"
+    },
+    "html_url": "https://github.com/canwhite/MicroRAG",
+    "description": "The minimal implementation of rag",
+    "created_at": "2026-06-08T01:45:46Z",
+    "updated_at": "2026-06-09T07:38:53Z",
+    "pushed_at": "2026-06-08T04:48:02Z",
+    "git_url": "git://github.com/canwhite/MicroRAG.git",
+    "homepage": null,
+    "size": 30,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
