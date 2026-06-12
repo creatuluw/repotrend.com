@@ -51035,5 +51035,51 @@
     "language": "OpenSCAD",
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1250283885,
+    "name": "gajae-code",
+    "owner": {
+      "id": 54757707,
+      "url": "https://api.github.com/users/Yeachan-Heo",
+      "html_url": "https://github.com/Yeachan-Heo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54757707?v=4"
+    },
+    "html_url": "https://github.com/Yeachan-Heo/gajae-code",
+    "description": "Gajae Code MVP",
+    "created_at": "2026-05-26T13:33:33Z",
+    "updated_at": "2026-06-12T00:30:39Z",
+    "pushed_at": "2026-06-11T14:41:36Z",
+    "git_url": "git://github.com/Yeachan-Heo/gajae-code.git",
+    "homepage": null,
+    "size": 49915,
+    "stargazers_count": 527,
+    "watchers_count": 527,
+    "language": "TypeScript",
+    "forks_count": 64,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1264478656,
+    "name": "effective-html",
+    "owner": {
+      "id": 287026406,
+      "url": "https://api.github.com/users/plannotator",
+      "html_url": "https://github.com/plannotator",
+      "avatar_url": "https://avatars.githubusercontent.com/u/287026406?v=4"
+    },
+    "html_url": "https://github.com/plannotator/effective-html",
+    "description": "Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of.",
+    "created_at": "2026-06-09T23:24:51Z",
+    "updated_at": "2026-06-11T18:54:50Z",
+    "pushed_at": "2026-06-10T04:47:31Z",
+    "git_url": "git://github.com/plannotator/effective-html.git",
+    "homepage": "https://plannotator.ai",
+    "size": 137,
+    "stargazers_count": 85,
+    "watchers_count": 85,
+    "language": "HTML",
+    "forks_count": 7,
+    "open_issues_count": 1
   }
 ]
