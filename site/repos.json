@@ -51127,5 +51127,51 @@
     "language": "Python",
     "forks_count": 8,
     "open_issues_count": 0
+  },
+  {
+    "id": 1254416912,
+    "name": "ExamPass-Assistant",
+    "owner": {
+      "id": 242776933,
+      "url": "https://api.github.com/users/WUBING2023",
+      "html_url": "https://github.com/WUBING2023",
+      "avatar_url": "https://avatars.githubusercontent.com/u/242776933?v=4"
+    },
+    "html_url": "https://github.com/WUBING2023/ExamPass-Assistant",
+    "description": "把课堂讲义变成考试利器 一键将 PPT、Word、PDF 课件转化为结构清晰的知识清单和交互式测试题，让复习事半功倍。 适用人群：大学生、各个阶段老师、其他需要对付短期考试的朋友",
+    "created_at": "2026-05-30T14:38:13Z",
+    "updated_at": "2026-06-11T16:21:48Z",
+    "pushed_at": "2026-06-08T09:31:50Z",
+    "git_url": "git://github.com/WUBING2023/ExamPass-Assistant.git",
+    "homepage": "",
+    "size": 183,
+    "stargazers_count": 519,
+    "watchers_count": 519,
+    "language": "Python",
+    "forks_count": 37,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1265314513,
+    "name": "image-to-prompt",
+    "owner": {
+      "id": 121128867,
+      "url": "https://api.github.com/users/cocktailpeanut",
+      "html_url": "https://github.com/cocktailpeanut",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121128867?v=4"
+    },
+    "html_url": "https://github.com/cocktailpeanut/image-to-prompt",
+    "description": null,
+    "created_at": "2026-06-10T16:57:44Z",
+    "updated_at": "2026-06-11T18:54:15Z",
+    "pushed_at": "2026-06-11T00:58:45Z",
+    "git_url": "git://github.com/cocktailpeanut/image-to-prompt.git",
+    "homepage": "",
+    "size": 2423,
+    "stargazers_count": 71,
+    "watchers_count": 71,
+    "language": "JavaScript",
+    "forks_count": 4,
+    "open_issues_count": 2
   }
 ]
