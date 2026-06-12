@@ -50989,5 +50989,51 @@
     "language": "TypeScript",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1253236308,
+    "name": "specification.website",
+    "owner": {
+      "id": 487629,
+      "url": "https://api.github.com/users/jdevalk",
+      "html_url": "https://github.com/jdevalk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/487629?v=4"
+    },
+    "html_url": "https://github.com/jdevalk/specification.website",
+    "description": "Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT.",
+    "created_at": "2026-05-29T09:13:26Z",
+    "updated_at": "2026-06-11T18:51:31Z",
+    "pushed_at": "2026-06-11T08:12:45Z",
+    "git_url": "git://github.com/jdevalk/specification.website.git",
+    "homepage": "https://specification.website",
+    "size": 10964,
+    "stargazers_count": 642,
+    "watchers_count": 642,
+    "language": "TypeScript",
+    "forks_count": 41,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1265666989,
+    "name": "Kotinos",
+    "owner": {
+      "id": 6299309,
+      "url": "https://api.github.com/users/pseudoku",
+      "html_url": "https://github.com/pseudoku",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6299309?v=4"
+    },
+    "html_url": "https://github.com/pseudoku/Kotinos",
+    "description": "Ergo Fingertip Shell Mod for HSK Pro",
+    "created_at": "2026-06-11T01:31:09Z",
+    "updated_at": "2026-06-11T19:04:45Z",
+    "pushed_at": "2026-06-11T01:31:13Z",
+    "git_url": "git://github.com/pseudoku/Kotinos.git",
+    "homepage": null,
+    "size": 8951,
+    "stargazers_count": 56,
+    "watchers_count": 56,
+    "language": "OpenSCAD",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
