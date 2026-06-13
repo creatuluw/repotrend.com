@@ -51426,5 +51426,51 @@
     "language": "JavaScript",
     "forks_count": 6,
     "open_issues_count": 0
+  },
+  {
+    "id": 1246346594,
+    "name": "ccglass",
+    "owner": {
+      "id": 2012831,
+      "url": "https://api.github.com/users/jianshuo",
+      "html_url": "https://github.com/jianshuo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2012831?v=4"
+    },
+    "html_url": "https://github.com/jianshuo/ccglass",
+    "description": "See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard",
+    "created_at": "2026-05-22T05:35:11Z",
+    "updated_at": "2026-06-11T17:34:32Z",
+    "pushed_at": "2026-06-11T16:00:54Z",
+    "git_url": "git://github.com/jianshuo/ccglass.git",
+    "homepage": "https://ccglass.jianshuo.dev",
+    "size": 808,
+    "stargazers_count": 478,
+    "watchers_count": 478,
+    "language": "JavaScript",
+    "forks_count": 31,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1263797851,
+    "name": "next-forcing",
+    "owner": {
+      "id": 34023118,
+      "url": "https://api.github.com/users/gangweix",
+      "html_url": "https://github.com/gangweix",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34023118?v=4"
+    },
+    "html_url": "https://github.com/gangweix/next-forcing",
+    "description": "Next Forcing: Causal World Modeling with Multi-Chunk Prediction",
+    "created_at": "2026-06-09T09:21:30Z",
+    "updated_at": "2026-06-12T17:36:05Z",
+    "pushed_at": "2026-06-12T17:36:01Z",
+    "git_url": "git://github.com/gangweix/next-forcing.git",
+    "homepage": "https://gangweix.github.io/next-forcing/",
+    "size": 24019,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 2
   }
 ]
