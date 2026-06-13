@@ -51518,5 +51518,51 @@
     "language": "Go",
     "forks_count": 10,
     "open_issues_count": 1
+  },
+  {
+    "id": 1246418196,
+    "name": "webhtv",
+    "owner": {
+      "id": 34814105,
+      "url": "https://api.github.com/users/fish2018",
+      "html_url": "https://github.com/fish2018",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34814105?v=4"
+    },
+    "html_url": "https://github.com/fish2018/webhtv",
+    "description": "WebHomeTV 基于FongMi二次开发，增强了 WebHome 自定义首页、App Native SDK、网盘链接检测 和 Nostr推荐首页。  这个项目的核心目标是让 CSP 站点首页可以变成一个真正可开发的网页应用：开发者可以用 HTML/CSS/JavaScript 定制首页，再通过 App 暴露的 Native 能力完成搜索、播放、跨域请求、资源代理、最近观看、网盘检测和状态同步。",
+    "created_at": "2026-05-22T07:10:04Z",
+    "updated_at": "2026-06-13T07:22:51Z",
+    "pushed_at": "2026-06-13T04:37:29Z",
+    "git_url": "git://github.com/fish2018/webhtv.git",
+    "homepage": "https://t.me/webhtv",
+    "size": 32469,
+    "stargazers_count": 530,
+    "watchers_count": 530,
+    "language": "Java",
+    "forks_count": 156,
+    "open_issues_count": 14
+  },
+  {
+    "id": 1266030785,
+    "name": "pdd-auto-reply",
+    "owner": {
+      "id": 115088296,
+      "url": "https://api.github.com/users/zhinianboke",
+      "html_url": "https://github.com/zhinianboke",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115088296?v=4"
+    },
+    "html_url": "https://github.com/zhinianboke/pdd-auto-reply",
+    "description": "面向拼多多多店铺商家的客服消息自动化系统。基于拼多多商家后台实时收发客服消息，结合关键词规则、AI 智能回复与知识库工具调用，实现 7×24 小时自动应答、转人工、风控与营业时间管控。",
+    "created_at": "2026-06-11T09:12:25Z",
+    "updated_at": "2026-06-12T15:41:30Z",
+    "pushed_at": "2026-06-11T09:26:33Z",
+    "git_url": "git://github.com/zhinianboke/pdd-auto-reply.git",
+    "homepage": null,
+    "size": 904,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": "Python",
+    "forks_count": 22,
+    "open_issues_count": 1
   }
 ]
