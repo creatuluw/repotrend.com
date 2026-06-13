@@ -51564,5 +51564,51 @@
     "language": "Python",
     "forks_count": 22,
     "open_issues_count": 1
+  },
+  {
+    "id": 1254749434,
+    "name": "QMAI",
+    "owner": {
+      "id": 54798020,
+      "url": "https://api.github.com/users/Mochocyang",
+      "html_url": "https://github.com/Mochocyang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54798020?v=4"
+    },
+    "html_url": "https://github.com/Mochocyang/QMAI",
+    "description": "青幕AI写作软件，解决长篇小说写作问题，解决小说角色性格不统一，防止人设崩坏。",
+    "created_at": "2026-05-31T00:41:43Z",
+    "updated_at": "2026-06-12T15:27:01Z",
+    "pushed_at": "2026-06-12T14:58:21Z",
+    "git_url": "git://github.com/Mochocyang/QMAI.git",
+    "homepage": "",
+    "size": 12407,
+    "stargazers_count": 496,
+    "watchers_count": 496,
+    "language": "TypeScript",
+    "forks_count": 100,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1266225254,
+    "name": "InpaintTranslator-Edge-Chrome",
+    "owner": {
+      "id": 216296234,
+      "url": "https://api.github.com/users/Vverity",
+      "html_url": "https://github.com/Vverity",
+      "avatar_url": "https://avatars.githubusercontent.com/u/216296234?v=4"
+    },
+    "html_url": "https://github.com/Vverity/InpaintTranslator-Edge-Chrome",
+    "description": "自用插件",
+    "created_at": "2026-06-11T12:31:31Z",
+    "updated_at": "2026-06-11T23:46:04Z",
+    "pushed_at": "2026-06-11T12:41:46Z",
+    "git_url": "git://github.com/Vverity/InpaintTranslator-Edge-Chrome.git",
+    "homepage": null,
+    "size": 23,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "JavaScript",
+    "forks_count": 8,
+    "open_issues_count": 0
   }
 ]
