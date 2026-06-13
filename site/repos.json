@@ -51380,5 +51380,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1259194283,
+    "name": "9drive",
+    "owner": {
+      "id": 287358902,
+      "url": "https://api.github.com/users/zenhosta",
+      "html_url": "https://github.com/zenhosta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/287358902?v=4"
+    },
+    "html_url": "https://github.com/zenhosta/9drive",
+    "description": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files with virtual folders, preview files, and let the backend route uploads to the Drive account with enough free space.",
+    "created_at": "2026-06-04T09:22:03Z",
+    "updated_at": "2026-06-12T17:55:00Z",
+    "pushed_at": "2026-06-12T06:36:51Z",
+    "git_url": "git://github.com/zenhosta/9drive.git",
+    "homepage": "https://9drive.zenhosta.com",
+    "size": 344,
+    "stargazers_count": 508,
+    "watchers_count": 508,
+    "language": "TypeScript",
+    "forks_count": 169,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1264175252,
+    "name": "Deep-Research-Agent",
+    "owner": {
+      "id": 99888185,
+      "url": "https://api.github.com/users/CYC2002tommy",
+      "html_url": "https://github.com/CYC2002tommy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99888185?v=4"
+    },
+    "html_url": "https://github.com/CYC2002tommy/Deep-Research-Agent",
+    "description": "This is a skill that can be used for most of the agentic AI, which enables your Hermes, Openclaw ...etc to look for a bunch of papers based on your research plan. It will access to scopus by the scopus mcp, and OpenAlex api ...etc",
+    "created_at": "2026-06-09T16:23:08Z",
+    "updated_at": "2026-06-12T16:38:06Z",
+    "pushed_at": "2026-06-11T14:36:23Z",
+    "git_url": "git://github.com/CYC2002tommy/Deep-Research-Agent.git",
+    "homepage": null,
+    "size": 57,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": "JavaScript",
+    "forks_count": 6,
+    "open_issues_count": 0
   }
 ]
