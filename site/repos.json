@@ -51725,5 +51725,51 @@
     "language": null,
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1240022612,
+    "name": "altersend",
+    "owner": {
+      "id": 36776703,
+      "url": "https://api.github.com/users/denislupookov",
+      "html_url": "https://github.com/denislupookov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36776703?v=4"
+    },
+    "html_url": "https://github.com/denislupookov/altersend",
+    "description": "Send files directly between devices over the internet - no cloud, no servers, no size limits.",
+    "created_at": "2026-05-15T17:28:55Z",
+    "updated_at": "2026-06-12T17:39:27Z",
+    "pushed_at": "2026-06-12T13:59:49Z",
+    "git_url": "git://github.com/denislupookov/altersend.git",
+    "homepage": "https://altersend.com/",
+    "size": 8630,
+    "stargazers_count": 514,
+    "watchers_count": 514,
+    "language": "TypeScript",
+    "forks_count": 33,
+    "open_issues_count": 13
+  },
+  {
+    "id": 1266998721,
+    "name": "arbitrage",
+    "owner": {
+      "id": 1672,
+      "url": "https://api.github.com/users/blader",
+      "html_url": "https://github.com/blader",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1672?v=4"
+    },
+    "html_url": "https://github.com/blader/arbitrage",
+    "description": "A Claude Code skill for token arbitrage: keep premium model tokens for judgment, dispatch all code-writing to codex.",
+    "created_at": "2026-06-12T06:14:21Z",
+    "updated_at": "2026-06-13T21:02:09Z",
+    "pushed_at": "2026-06-12T06:14:24Z",
+    "git_url": "git://github.com/blader/arbitrage.git",
+    "homepage": null,
+    "size": 3,
+    "stargazers_count": 85,
+    "watchers_count": 85,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
