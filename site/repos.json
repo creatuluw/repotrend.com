@@ -51840,5 +51840,74 @@
     "language": "Shell",
     "forks_count": 10,
     "open_issues_count": 0
+  },
+  {
+    "id": 1199557142,
+    "name": "xq-py",
+    "owner": {
+      "id": 203704131,
+      "url": "https://api.github.com/users/QuipNetwork",
+      "html_url": "https://github.com/QuipNetwork",
+      "avatar_url": "https://avatars.githubusercontent.com/u/203704131?v=4"
+    },
+    "html_url": "https://github.com/QuipNetwork/xq-py",
+    "description": "A python implementation of the Quip Network's quantum virtual machine",
+    "created_at": "2026-04-02T13:20:52Z",
+    "updated_at": "2026-06-10T23:40:11Z",
+    "pushed_at": "2026-06-03T18:22:38Z",
+    "git_url": "git://github.com/QuipNetwork/xq-py.git",
+    "homepage": null,
+    "size": 380,
+    "stargazers_count": 5545,
+    "watchers_count": 5545,
+    "language": null,
+    "forks_count": 13,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1266385233,
+    "name": "qiaomu-goal-meta-skill",
+    "owner": {
+      "id": 3236682,
+      "url": "https://api.github.com/users/joeseesun",
+      "html_url": "https://github.com/joeseesun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3236682?v=4"
+    },
+    "html_url": "https://github.com/joeseesun/qiaomu-goal-meta-skill",
+    "description": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
+    "created_at": "2026-06-11T15:10:51Z",
+    "updated_at": "2026-06-14T07:14:28Z",
+    "pushed_at": "2026-06-11T15:10:56Z",
+    "git_url": "git://github.com/joeseesun/qiaomu-goal-meta-skill.git",
+    "homepage": null,
+    "size": 52,
+    "stargazers_count": 491,
+    "watchers_count": 491,
+    "language": "Python",
+    "forks_count": 38,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1265684621,
+    "name": "loss-function-development",
+    "owner": {
+      "id": 6955348,
+      "url": "https://api.github.com/users/elvisun",
+      "html_url": "https://github.com/elvisun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6955348?v=4"
+    },
+    "html_url": "https://github.com/elvisun/loss-function-development",
+    "description": null,
+    "created_at": "2026-06-11T02:00:33Z",
+    "updated_at": "2026-06-13T21:38:03Z",
+    "pushed_at": "2026-06-11T11:38:19Z",
+    "git_url": "git://github.com/elvisun/loss-function-development.git",
+    "homepage": null,
+    "size": 32,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
