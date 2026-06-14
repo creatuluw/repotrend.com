@@ -51771,5 +51771,74 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1193909050,
+    "name": "herdr",
+    "owner": {
+      "id": 7064011,
+      "url": "https://api.github.com/users/ogulcancelik",
+      "html_url": "https://github.com/ogulcancelik",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7064011?v=4"
+    },
+    "html_url": "https://github.com/ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal.",
+    "created_at": "2026-03-27T17:54:33Z",
+    "updated_at": "2026-06-14T00:33:24Z",
+    "pushed_at": "2026-06-13T23:08:03Z",
+    "git_url": "git://github.com/ogulcancelik/herdr.git",
+    "homepage": "https://herdr.dev",
+    "size": 27326,
+    "stargazers_count": 5567,
+    "watchers_count": 5567,
+    "language": "Rust",
+    "forks_count": 333,
+    "open_issues_count": 20
+  },
+  {
+    "id": 1259194804,
+    "name": "dots.tts",
+    "owner": {
+      "id": 211634691,
+      "url": "https://api.github.com/users/rednote-hilab",
+      "html_url": "https://github.com/rednote-hilab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/211634691?v=4"
+    },
+    "html_url": "https://github.com/rednote-hilab/dots.tts",
+    "description": null,
+    "created_at": "2026-06-04T09:22:35Z",
+    "updated_at": "2026-06-13T14:23:55Z",
+    "pushed_at": "2026-06-12T07:37:32Z",
+    "git_url": "git://github.com/rednote-hilab/dots.tts.git",
+    "homepage": null,
+    "size": 579,
+    "stargazers_count": 503,
+    "watchers_count": 503,
+    "language": "Python",
+    "forks_count": 36,
+    "open_issues_count": 14
+  },
+  {
+    "id": 1266625409,
+    "name": "value-for-fable",
+    "owner": {
+      "id": 181942708,
+      "url": "https://api.github.com/users/itsinseong",
+      "html_url": "https://github.com/itsinseong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/181942708?v=4"
+    },
+    "html_url": "https://github.com/itsinseong/value-for-fable",
+    "description": "Fable 5 수준의 품질을 Sonnet 단가에 — 가성비 AI 운영 모델을 직접 구축한 Claude Code 프로젝트",
+    "created_at": "2026-06-11T19:54:14Z",
+    "updated_at": "2026-06-13T18:31:36Z",
+    "pushed_at": "2026-06-13T12:08:15Z",
+    "git_url": "git://github.com/itsinseong/value-for-fable.git",
+    "homepage": null,
+    "size": 34,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": "Shell",
+    "forks_count": 10,
+    "open_issues_count": 0
   }
 ]
