@@ -52185,5 +52185,51 @@
     "language": "C#",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1256125546,
+    "name": "reg-factory",
+    "owner": {
+      "id": 164491093,
+      "url": "https://api.github.com/users/tiantianGPU",
+      "html_url": "https://github.com/tiantianGPU",
+      "avatar_url": "https://avatars.githubusercontent.com/u/164491093?v=4"
+    },
+    "html_url": "https://github.com/tiantianGPU/reg-factory",
+    "description": "谷歌邮箱注册",
+    "created_at": "2026-06-01T13:38:37Z",
+    "updated_at": "2026-06-14T18:33:36Z",
+    "pushed_at": "2026-06-11T21:19:19Z",
+    "git_url": "git://github.com/tiantianGPU/reg-factory.git",
+    "homepage": "https://gmails.zeabur.app/gq",
+    "size": 756,
+    "stargazers_count": 762,
+    "watchers_count": 762,
+    "language": "Python",
+    "forks_count": 379,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1267423357,
+    "name": "Awesome-Vibe-Research",
+    "owner": {
+      "id": 109945100,
+      "url": "https://api.github.com/users/modelscope",
+      "html_url": "https://github.com/modelscope",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109945100?v=4"
+    },
+    "html_url": "https://github.com/modelscope/Awesome-Vibe-Research",
+    "description": "An open, collaboratively-built repository for AI-assisted scientific research — collecting and curating agents, skills, workflows, tools, and best practices across the full research lifecycle.面向 AI 辅助科研的开放共建仓库 收集和沉淀科研全流程中的 agents、skills、workflows、tools 与最佳实践",
+    "created_at": "2026-06-12T14:25:10Z",
+    "updated_at": "2026-06-14T17:00:00Z",
+    "pushed_at": "2026-06-13T13:24:02Z",
+    "git_url": "git://github.com/modelscope/Awesome-Vibe-Research.git",
+    "homepage": "",
+    "size": 1040,
+    "stargazers_count": 56,
+    "watchers_count": 56,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
