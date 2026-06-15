@@ -51978,5 +51978,51 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 1
+  },
+  {
+    "id": 1264716916,
+    "name": "world-of-claudecraft",
+    "owner": {
+      "id": 149554763,
+      "url": "https://api.github.com/users/levy-street",
+      "html_url": "https://github.com/levy-street",
+      "avatar_url": "https://avatars.githubusercontent.com/u/149554763?v=4"
+    },
+    "html_url": "https://github.com/levy-street/world-of-claudecraft",
+    "description": null,
+    "created_at": "2026-06-10T05:55:59Z",
+    "updated_at": "2026-06-14T18:33:38Z",
+    "pushed_at": "2026-06-14T13:31:54Z",
+    "git_url": "git://github.com/levy-street/world-of-claudecraft.git",
+    "homepage": null,
+    "size": 98524,
+    "stargazers_count": 676,
+    "watchers_count": 676,
+    "language": "TypeScript",
+    "forks_count": 170,
+    "open_issues_count": 122
+  },
+  {
+    "id": 1268357935,
+    "name": "NS-FW-AI-Adult-Gen",
+    "owner": {
+      "id": 203870154,
+      "url": "https://api.github.com/users/kevinberrios2",
+      "html_url": "https://github.com/kevinberrios2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/203870154?v=4"
+    },
+    "html_url": "https://github.com/kevinberrios2/NS-FW-AI-Adult-Gen",
+    "description": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation.",
+    "created_at": "2026-06-13T12:41:55Z",
+    "updated_at": "2026-06-14T17:53:48Z",
+    "pushed_at": "2026-06-13T12:43:44Z",
+    "git_url": "git://github.com/kevinberrios2/NS-FW-AI-Adult-Gen.git",
+    "homepage": "",
+    "size": 12,
+    "stargazers_count": 73,
+    "watchers_count": 73,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
