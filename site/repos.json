@@ -52277,5 +52277,51 @@
     "language": "TypeScript",
     "forks_count": 8,
     "open_issues_count": 2
+  },
+  {
+    "id": 1245476031,
+    "name": "DEEIX-Chat",
+    "owner": {
+      "id": 282221413,
+      "url": "https://api.github.com/users/DEEIX-AI",
+      "html_url": "https://github.com/DEEIX-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/282221413?v=4"
+    },
+    "html_url": "https://github.com/DEEIX-AI/DEEIX-Chat",
+    "description": "An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.",
+    "created_at": "2026-05-21T08:57:01Z",
+    "updated_at": "2026-06-15T13:02:37Z",
+    "pushed_at": "2026-06-15T13:02:34Z",
+    "git_url": "git://github.com/DEEIX-AI/DEEIX-Chat.git",
+    "homepage": "https://deeix.com",
+    "size": 17992,
+    "stargazers_count": 521,
+    "watchers_count": 521,
+    "language": "Go",
+    "forks_count": 64,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1267443203,
+    "name": "ddd-by-example",
+    "owner": {
+      "id": 293101470,
+      "url": "https://api.github.com/users/richardchanjr90-cpu",
+      "html_url": "https://github.com/richardchanjr90-cpu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/293101470?v=4"
+    },
+    "html_url": "https://github.com/richardchanjr90-cpu/ddd-by-example",
+    "description": "Domain-Driven Design by example — a real C#/.NET loyalty-program backend, with a 3-part article series mapping each DDD pattern to the code that implements it.",
+    "created_at": "2026-06-12T14:44:39Z",
+    "updated_at": "2026-06-13T09:09:08Z",
+    "pushed_at": "2026-06-12T15:12:22Z",
+    "git_url": "git://github.com/richardchanjr90-cpu/ddd-by-example.git",
+    "homepage": null,
+    "size": 1372,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "C#",
+    "forks_count": 6,
+    "open_issues_count": 0
   }
 ]
