@@ -51909,5 +51909,74 @@
     "language": null,
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1196181411,
+    "name": "claude-token-efficient",
+    "owner": {
+      "id": 113818537,
+      "url": "https://api.github.com/users/drona23",
+      "html_url": "https://github.com/drona23",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113818537?v=4"
+    },
+    "html_url": "https://github.com/drona23/claude-token-efficient",
+    "description": "One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes.",
+    "created_at": "2026-03-30T12:59:07Z",
+    "updated_at": "2026-06-14T17:55:38Z",
+    "pushed_at": "2026-04-22T08:59:55Z",
+    "git_url": "git://github.com/drona23/claude-token-efficient.git",
+    "homepage": "",
+    "size": 52,
+    "stargazers_count": 5614,
+    "watchers_count": 5614,
+    "language": null,
+    "forks_count": 433,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1266797999,
+    "name": "ponytail",
+    "owner": {
+      "id": 137048761,
+      "url": "https://api.github.com/users/DietrichGebert",
+      "html_url": "https://github.com/DietrichGebert",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137048761?v=4"
+    },
+    "html_url": "https://github.com/DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "created_at": "2026-06-12T00:52:37Z",
+    "updated_at": "2026-06-12T18:46:01Z",
+    "pushed_at": "2026-06-12T16:00:10Z",
+    "git_url": "git://github.com/DietrichGebert/ponytail.git",
+    "homepage": "",
+    "size": 1104,
+    "stargazers_count": 747,
+    "watchers_count": 747,
+    "language": "JavaScript",
+    "forks_count": 32,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1266516838,
+    "name": "hermes-agent-desktop",
+    "owner": {
+      "id": 120567926,
+      "url": "https://api.github.com/users/desktop-hermes",
+      "html_url": "https://github.com/desktop-hermes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/120567926?v=4"
+    },
+    "html_url": "https://github.com/desktop-hermes/hermes-agent-desktop",
+    "description": "Hermes Desktop github nous research hermes ai  agent local ai ollama github download open source pc windows app installation setup workspace llm models runtime",
+    "created_at": "2026-06-11T17:34:17Z",
+    "updated_at": "2026-06-13T18:12:37Z",
+    "pushed_at": "2026-06-11T17:52:41Z",
+    "git_url": "git://github.com/desktop-hermes/hermes-agent-desktop.git",
+    "homepage": "",
+    "size": 4298,
+    "stargazers_count": 75,
+    "watchers_count": 75,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 1
   }
 ]
