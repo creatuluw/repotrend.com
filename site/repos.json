@@ -52024,5 +52024,51 @@
     "language": "C#",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1252578748,
+    "name": "hyperagent-public-skills",
+    "owner": {
+      "id": 246557980,
+      "url": "https://api.github.com/users/alexmcdonnell-airtable",
+      "html_url": "https://github.com/alexmcdonnell-airtable",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246557980?v=4"
+    },
+    "html_url": "https://github.com/alexmcdonnell-airtable/hyperagent-public-skills",
+    "description": "Free skills from the Hyperagent team",
+    "created_at": "2026-05-28T16:57:22Z",
+    "updated_at": "2026-06-14T18:29:54Z",
+    "pushed_at": "2026-06-12T19:58:53Z",
+    "git_url": "git://github.com/alexmcdonnell-airtable/hyperagent-public-skills.git",
+    "homepage": "",
+    "size": 148,
+    "stargazers_count": 608,
+    "watchers_count": 608,
+    "language": null,
+    "forks_count": 41,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1268515705,
+    "name": "T2HASH-CORE",
+    "owner": {
+      "id": 92183808,
+      "url": "https://api.github.com/users/T2HASH",
+      "html_url": "https://github.com/T2HASH",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92183808?v=4"
+    },
+    "html_url": "https://github.com/T2HASH/T2HASH-CORE",
+    "description": "تونلینگِ لایه صفر (Layer-0) با هسته‌ی پردازشیِ خالصِ x64 Assembly. تعاملِ مستقیم با Syscalls لینوکس برای دستکاریِ خامِ پکت‌ه�� و حذف کامل سربارِ نرم‌افزاری. ⚙️🩸",
+    "created_at": "2026-06-13T16:15:34Z",
+    "updated_at": "2026-06-14T23:43:47Z",
+    "pushed_at": "2026-06-14T14:15:07Z",
+    "git_url": "git://github.com/T2HASH/T2HASH-CORE.git",
+    "homepage": "",
+    "size": 55,
+    "stargazers_count": 73,
+    "watchers_count": 73,
+    "language": "Assembly",
+    "forks_count": 39,
+    "open_issues_count": 2
   }
 ]
