@@ -52438,5 +52438,51 @@
     "language": "TypeScript",
     "forks_count": 6,
     "open_issues_count": 2
+  },
+  {
+    "id": 1252299761,
+    "name": "SCAIL-2",
+    "owner": {
+      "id": 223098841,
+      "url": "https://api.github.com/users/zai-org",
+      "html_url": "https://github.com/zai-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223098841?v=4"
+    },
+    "html_url": "https://github.com/zai-org/SCAIL-2",
+    "description": "Official Implementation of SCAIL-2: Unifying Controlled Character Animation with End-to-end In-Context Conditioning",
+    "created_at": "2026-05-28T11:38:02Z",
+    "updated_at": "2026-06-16T00:51:49Z",
+    "pushed_at": "2026-06-14T13:37:31Z",
+    "git_url": "git://github.com/zai-org/SCAIL-2.git",
+    "homepage": "",
+    "size": 205570,
+    "stargazers_count": 502,
+    "watchers_count": 502,
+    "language": "Python",
+    "forks_count": 30,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1267078450,
+    "name": "FreeStep",
+    "owner": {
+      "id": 208568155,
+      "url": "https://api.github.com/users/htx-studio",
+      "html_url": "https://github.com/htx-studio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208568155?v=4"
+    },
+    "html_url": "https://github.com/htx-studio/FreeStep",
+    "description": null,
+    "created_at": "2026-06-12T07:44:56Z",
+    "updated_at": "2026-06-15T16:31:25Z",
+    "pushed_at": "2026-06-12T10:42:17Z",
+    "git_url": "git://github.com/htx-studio/FreeStep.git",
+    "homepage": null,
+    "size": 30273,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": null,
+    "forks_count": 5,
+    "open_issues_count": 0
   }
 ]
