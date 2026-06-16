@@ -1,28 +1,5 @@
 [
   {
-    "id": 1268611404,
-    "name": "agent-harness-generator",
-    "owner": {
-      "id": 2934394,
-      "url": "https://api.github.com/users/ruvnet",
-      "html_url": "https://github.com/ruvnet",
-      "avatar_url": "https://avatars.githubusercontent.com/u/2934394?v=4"
-    },
-    "html_url": "https://github.com/ruvnet/agent-harness-generator",
-    "description": "🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex, pi.dev, Hermes, OpenClaw, and RVM (hardware-isolated sandbox).",
-    "created_at": "2026-06-13T18:29:11Z",
-    "updated_at": "2026-06-16T13:50:12Z",
-    "pushed_at": "2026-06-16T13:47:27Z",
-    "git_url": "git://github.com/ruvnet/agent-harness-generator.git",
-    "homepage": "https://github.com/ruvnet/ruflo",
-    "size": 10519,
-    "stargazers_count": 99,
-    "watchers_count": 99,
-    "language": "TypeScript",
-    "forks_count": 8,
-    "open_issues_count": 3
-  },
-  {
     "id": 1268809523,
     "name": "CodexQB",
     "owner": {
@@ -57,16 +34,16 @@
     "html_url": "https://github.com/Rajaniraiyn/jzon-rs",
     "description": "Zero-copy JSON serialization with compile-time generated typed parsers",
     "created_at": "2026-06-14T21:18:14Z",
-    "updated_at": "2026-06-16T13:51:16Z",
-    "pushed_at": "2026-06-16T13:43:27Z",
+    "updated_at": "2026-06-16T17:47:46Z",
+    "pushed_at": "2026-06-16T15:31:07Z",
     "git_url": "git://github.com/Rajaniraiyn/jzon-rs.git",
     "homepage": null,
-    "size": 5212,
-    "stargazers_count": 91,
-    "watchers_count": 91,
+    "size": 5202,
+    "stargazers_count": 96,
+    "watchers_count": 96,
     "language": "Rust",
     "forks_count": 3,
-    "open_issues_count": 1
+    "open_issues_count": 0
   },
   {
     "id": 1268183800,
@@ -80,15 +57,38 @@
     "html_url": "https://github.com/CuzTeam/hm-rev",
     "description": "DevECO REV",
     "created_at": "2026-06-13T08:28:18Z",
-    "updated_at": "2026-06-16T13:19:41Z",
+    "updated_at": "2026-06-16T17:57:34Z",
     "pushed_at": "2026-06-15T06:24:21Z",
     "git_url": "git://github.com/CuzTeam/hm-rev.git",
     "homepage": null,
     "size": 60,
-    "stargazers_count": 89,
-    "watchers_count": 89,
+    "stargazers_count": 91,
+    "watchers_count": 91,
     "language": "Python",
-    "forks_count": 45,
+    "forks_count": 46,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1268025800,
+    "name": "stock-market-signal-automation",
+    "owner": {
+      "id": 163957687,
+      "url": "https://api.github.com/users/cporter202",
+      "html_url": "https://github.com/cporter202",
+      "avatar_url": "https://avatars.githubusercontent.com/u/163957687?v=4"
+    },
+    "html_url": "https://github.com/cporter202/stock-market-signal-automation",
+    "description": "Build your own data-driven market edge with swing-trade signal webhooks, dashboards, alerts, AI agents, and automation examples.",
+    "created_at": "2026-06-13T04:24:25Z",
+    "updated_at": "2026-06-16T18:33:53Z",
+    "pushed_at": "2026-06-14T15:25:19Z",
+    "git_url": "git://github.com/cporter202/stock-market-signal-automation.git",
+    "homepage": null,
+    "size": 334,
+    "stargazers_count": 88,
+    "watchers_count": 88,
+    "language": null,
+    "forks_count": 24,
     "open_issues_count": 0
   },
   {
@@ -138,6 +138,75 @@
     "open_issues_count": 0
   },
   {
+    "id": 1268515705,
+    "name": "T2HASH-CORE",
+    "owner": {
+      "id": 92183808,
+      "url": "https://api.github.com/users/T2HASH",
+      "html_url": "https://github.com/T2HASH",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92183808?v=4"
+    },
+    "html_url": "https://github.com/T2HASH/T2HASH-CORE",
+    "description": "تونلینگِ لایه صفر (Layer-0) با هسته‌ی پردازشیِ خالصِ x64 Assembly. تعاملِ مستقیم با Syscalls لینوکس برای دستکاریِ خامِ پکت‌ها و حذف کامل سربارِ نرم‌افزاری. ⚙️🩸",
+    "created_at": "2026-06-13T16:15:34Z",
+    "updated_at": "2026-06-16T16:44:57Z",
+    "pushed_at": "2026-06-14T14:15:07Z",
+    "git_url": "git://github.com/T2HASH/T2HASH-CORE.git",
+    "homepage": "",
+    "size": 55,
+    "stargazers_count": 87,
+    "watchers_count": 87,
+    "language": "Assembly",
+    "forks_count": 47,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1268488813,
+    "name": "Flash-USDT-Sender",
+    "owner": {
+      "id": 244777073,
+      "url": "https://api.github.com/users/ninaantonov",
+      "html_url": "https://github.com/ninaantonov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/244777073?v=4"
+    },
+    "html_url": "https://github.com/ninaantonov/Flash-USDT-Sender",
+    "description": "Flash USDT Sender — Multi-network flash transaction tool for USDT, BTC, and ETH with configurable duration, custom gas settings, ERC-20/TRC-20/BEP-20 support, and block explorer-visible confirmations",
+    "created_at": "2026-06-13T15:40:07Z",
+    "updated_at": "2026-06-16T18:37:04Z",
+    "pushed_at": "2026-06-13T15:41:27Z",
+    "git_url": "git://github.com/ninaantonov/Flash-USDT-Sender.git",
+    "homepage": "",
+    "size": 10945,
+    "stargazers_count": 86,
+    "watchers_count": 86,
+    "language": "Python",
+    "forks_count": 10,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1269124956,
+    "name": "delegate-skills",
+    "owner": {
+      "id": 7650147,
+      "url": "https://api.github.com/users/amElnagdy",
+      "html_url": "https://github.com/amElnagdy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7650147?v=4"
+    },
+    "html_url": "https://github.com/amElnagdy/delegate-skills",
+    "description": "Drive the OpenAI Codex CLI as a background implementer, brief it, review its diff, land the commit yourself.",
+    "created_at": "2026-06-14T10:35:48Z",
+    "updated_at": "2026-06-16T16:56:31Z",
+    "pushed_at": "2026-06-14T16:13:44Z",
+    "git_url": "git://github.com/amElnagdy/delegate-skills.git",
+    "homepage": "https://www.skills.sh/amelnagdy/delegate-skills",
+    "size": 29,
+    "stargazers_count": 86,
+    "watchers_count": 86,
+    "language": "JavaScript",
+    "forks_count": 16,
+    "open_issues_count": 1
+  },
+  {
     "id": 1268850576,
     "name": "RL_for_Game",
     "owner": {
@@ -161,98 +230,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1270661532,
-    "name": "plain-writing-skill",
-    "owner": {
-      "id": 6224969,
-      "url": "https://api.github.com/users/shreyashankar",
-      "html_url": "https://github.com/shreyashankar",
-      "avatar_url": "https://avatars.githubusercontent.com/u/6224969?v=4"
-    },
-    "html_url": "https://github.com/shreyashankar/plain-writing-skill",
-    "description": "A plain-language writing skill for AI agents, with a revision view that shows what changed.",
-    "created_at": "2026-06-15T23:49:32Z",
-    "updated_at": "2026-06-16T13:55:27Z",
-    "pushed_at": "2026-06-16T08:15:35Z",
-    "git_url": "git://github.com/shreyashankar/plain-writing-skill.git",
-    "homepage": null,
-    "size": 215,
-    "stargazers_count": 86,
-    "watchers_count": 86,
-    "language": "HTML",
-    "forks_count": 3,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1268515705,
-    "name": "T2HASH-CORE",
-    "owner": {
-      "id": 92183808,
-      "url": "https://api.github.com/users/T2HASH",
-      "html_url": "https://github.com/T2HASH",
-      "avatar_url": "https://avatars.githubusercontent.com/u/92183808?v=4"
-    },
-    "html_url": "https://github.com/T2HASH/T2HASH-CORE",
-    "description": "تونلینگِ لایه صفر (Layer-0) با هست��‌ی پردازشیِ خالصِ x64 Assembly. تعاملِ مستقیم با Syscalls لینوکس برای دستکاریِ خامِ پکت‌ها و حذف کامل سربارِ نرم‌افزاری. ⚙️🩸",
-    "created_at": "2026-06-13T16:15:34Z",
-    "updated_at": "2026-06-16T10:39:37Z",
-    "pushed_at": "2026-06-14T14:15:07Z",
-    "git_url": "git://github.com/T2HASH/T2HASH-CORE.git",
-    "homepage": "",
-    "size": 55,
-    "stargazers_count": 85,
-    "watchers_count": 85,
-    "language": "Assembly",
-    "forks_count": 46,
-    "open_issues_count": 2
-  },
-  {
-    "id": 1268025800,
-    "name": "stock-market-signal-automation",
-    "owner": {
-      "id": 163957687,
-      "url": "https://api.github.com/users/cporter202",
-      "html_url": "https://github.com/cporter202",
-      "avatar_url": "https://avatars.githubusercontent.com/u/163957687?v=4"
-    },
-    "html_url": "https://github.com/cporter202/stock-market-signal-automation",
-    "description": "Build your own data-driven market edge with swing-trade signal webhooks, dashboards, alerts, AI agents, and automation examples.",
-    "created_at": "2026-06-13T04:24:25Z",
-    "updated_at": "2026-06-16T12:58:43Z",
-    "pushed_at": "2026-06-14T15:25:19Z",
-    "git_url": "git://github.com/cporter202/stock-market-signal-automation.git",
-    "homepage": null,
-    "size": 334,
-    "stargazers_count": 83,
-    "watchers_count": 83,
-    "language": null,
-    "forks_count": 23,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1269124956,
-    "name": "delegate-skills",
-    "owner": {
-      "id": 7650147,
-      "url": "https://api.github.com/users/amElnagdy",
-      "html_url": "https://github.com/amElnagdy",
-      "avatar_url": "https://avatars.githubusercontent.com/u/7650147?v=4"
-    },
-    "html_url": "https://github.com/amElnagdy/delegate-skills",
-    "description": "Drive the OpenAI Codex CLI as a background implementer, brief it, review its diff, land the commit yourself.",
-    "created_at": "2026-06-14T10:35:48Z",
-    "updated_at": "2026-06-16T13:32:26Z",
-    "pushed_at": "2026-06-14T16:13:44Z",
-    "git_url": "git://github.com/amElnagdy/delegate-skills.git",
-    "homepage": "https://www.skills.sh/amelnagdy/delegate-skills",
-    "size": 29,
-    "stargazers_count": 82,
-    "watchers_count": 82,
-    "language": "JavaScript",
-    "forks_count": 15,
-    "open_issues_count": 1
-  },
-  {
     "id": 1269812178,
     "name": "huolala-figma-mcp",
     "owner": {
@@ -264,15 +241,38 @@
     "html_url": "https://github.com/HuolalaTech/huolala-figma-mcp",
     "description": "Huolala's in-house MCP service that automatically converts Figma designs into high-fidelity UI code.",
     "created_at": "2026-06-15T05:54:34Z",
-    "updated_at": "2026-06-16T13:29:53Z",
+    "updated_at": "2026-06-16T16:31:15Z",
     "pushed_at": "2026-06-15T05:56:36Z",
     "git_url": "git://github.com/HuolalaTech/huolala-figma-mcp.git",
     "homepage": null,
     "size": 10809,
-    "stargazers_count": 77,
-    "watchers_count": 77,
+    "stargazers_count": 80,
+    "watchers_count": 80,
     "language": "Python",
-    "forks_count": 13,
+    "forks_count": 15,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1268273877,
+    "name": "travel-plan-viz",
+    "owner": {
+      "id": 266722546,
+      "url": "https://api.github.com/users/zexuanw958-svg",
+      "html_url": "https://github.com/zexuanw958-svg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/266722546?v=4"
+    },
+    "html_url": "https://github.com/zexuanw958-svg/travel-plan-viz",
+    "description": "Migo · 旅行领航 —— 把旅行行程生成为单文件、可离线、手机优先的 HTML（交互地图+每日时间轴+出发前提醒）。Claude Code / Codex 通用 Skill（travel-plan-viz）。",
+    "created_at": "2026-06-13T10:40:30Z",
+    "updated_at": "2026-06-16T17:06:15Z",
+    "pushed_at": "2026-06-14T11:31:58Z",
+    "git_url": "git://github.com/zexuanw958-svg/travel-plan-viz.git",
+    "homepage": null,
+    "size": 423,
+    "stargazers_count": 78,
+    "watchers_count": 78,
+    "language": "JavaScript",
+    "forks_count": 4,
     "open_issues_count": 0
   },
   {
@@ -318,6 +318,29 @@
     "stargazers_count": 75,
     "watchers_count": 75,
     "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1270124465,
+    "name": "CapCut-Pro-26",
+    "owner": {
+      "id": 135398819,
+      "url": "https://api.github.com/users/TFommy",
+      "html_url": "https://github.com/TFommy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135398819?v=4"
+    },
+    "html_url": "https://github.com/TFommy/CapCut-Pro-26",
+    "description": "CapCut Pro Studio (2026) — The ultimate high-performance video editing suite with all premium features unlocked. Experience 4K HDR exporting, AI-powered transitions, and a full professional asset library without limitations.",
+    "created_at": "2026-06-15T12:10:37Z",
+    "updated_at": "2026-06-16T18:41:15Z",
+    "pushed_at": "2026-06-15T12:14:18Z",
+    "git_url": "git://github.com/TFommy/CapCut-Pro-26.git",
+    "homepage": "",
+    "size": 9,
+    "stargazers_count": 75,
+    "watchers_count": 75,
+    "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
   },
@@ -476,29 +499,6 @@
     "git_url": "git://github.com/MUSHTAQ-SHAHRIA/RDR-2-Menu-26.git",
     "homepage": "",
     "size": 9,
-    "stargazers_count": 75,
-    "watchers_count": 75,
-    "language": "C#",
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1270577478,
-    "name": "Roblox-Exec-Collection-Desktop",
-    "owner": {
-      "id": 261528985,
-      "url": "https://api.github.com/users/YashCodesSingh",
-      "html_url": "https://github.com/YashCodesSingh",
-      "avatar_url": "https://avatars.githubusercontent.com/u/261528985?v=4"
-    },
-    "html_url": "https://github.com/YashCodesSingh/Roblox-Exec-Collection-Desktop",
-    "description": "A curated collection of documentation and safe templates for understanding and analyzing Roblox execution environments in a controlled lab setting.",
-    "created_at": "2026-06-15T21:13:35Z",
-    "updated_at": "2026-06-16T10:35:31Z",
-    "pushed_at": "2026-06-15T21:15:16Z",
-    "git_url": "git://github.com/YashCodesSingh/Roblox-Exec-Collection-Desktop.git",
-    "homepage": "",
-    "size": 15,
     "stargazers_count": 75,
     "watchers_count": 75,
     "language": "C#",
@@ -824,29 +824,6 @@
     "stargazers_count": 74,
     "watchers_count": 74,
     "language": "C#",
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1270124465,
-    "name": "CapCut-Pro-26",
-    "owner": {
-      "id": 135398819,
-      "url": "https://api.github.com/users/TFommy",
-      "html_url": "https://github.com/TFommy",
-      "avatar_url": "https://avatars.githubusercontent.com/u/135398819?v=4"
-    },
-    "html_url": "https://github.com/TFommy/CapCut-Pro-26",
-    "description": "CapCut Pro Studio (2026) — The ultimate high-performance video editing suite with all premium features unlocked. Experience 4K HDR exporting, AI-powered transitions, and a full professional asset library without limitations.",
-    "created_at": "2026-06-15T12:10:37Z",
-    "updated_at": "2026-06-16T09:46:20Z",
-    "pushed_at": "2026-06-15T12:14:18Z",
-    "git_url": "git://github.com/TFommy/CapCut-Pro-26.git",
-    "homepage": "",
-    "size": 9,
-    "stargazers_count": 74,
-    "watchers_count": 74,
-    "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
   },
@@ -1308,7 +1285,7 @@
     "watchers_count": 74,
     "language": "C++",
     "forks_count": 0,
-    "open_issues_count": 0
+    "open_issues_count": 1
   },
   {
     "id": 1270170124,
@@ -1354,6 +1331,29 @@
     "watchers_count": 74,
     "language": "C#",
     "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1270608785,
+    "name": "iContainer",
+    "owner": {
+      "id": 813953,
+      "url": "https://api.github.com/users/nico81",
+      "html_url": "https://github.com/nico81",
+      "avatar_url": "https://avatars.githubusercontent.com/u/813953?v=4"
+    },
+    "html_url": "https://github.com/nico81/iContainer",
+    "description": "A native macOS app to manage Apple Container workloads, built with SwiftUI.",
+    "created_at": "2026-06-15T22:07:57Z",
+    "updated_at": "2026-06-16T19:04:30Z",
+    "pushed_at": "2026-06-16T18:02:10Z",
+    "git_url": "git://github.com/nico81/iContainer.git",
+    "homepage": null,
+    "size": 8674,
+    "stargazers_count": 74,
+    "watchers_count": 74,
+    "language": "Swift",
+    "forks_count": 2,
     "open_issues_count": 0
   },
   {
@@ -1759,7 +1759,7 @@
     "html_url": "https://github.com/RagaAlrahcy/Cursor-AI-Pro-Download-2026",
     "description": "A standalone utility designed to unlock and manage Pro features within the Cursor AI editor environment locally.",
     "created_at": "2026-06-15T11:28:06Z",
-    "updated_at": "2026-06-16T10:11:39Z",
+    "updated_at": "2026-06-16T14:31:51Z",
     "pushed_at": "2026-06-15T11:29:48Z",
     "git_url": "git://github.com/RagaAlrahcy/Cursor-AI-Pro-Download-2026.git",
     "homepage": "",
@@ -1794,6 +1794,29 @@
     "open_issues_count": 0
   },
   {
+    "id": 1269937781,
+    "name": "paper-lifecycle",
+    "owner": {
+      "id": 293765316,
+      "url": "https://api.github.com/users/M1n-n9",
+      "html_url": "https://github.com/M1n-n9",
+      "avatar_url": "https://avatars.githubusercontent.com/u/293765316?v=4"
+    },
+    "html_url": "https://github.com/M1n-n9/paper-lifecycle",
+    "description": "Codex skill for full academic paper lifecycle analysis and revision",
+    "created_at": "2026-06-15T08:32:18Z",
+    "updated_at": "2026-06-16T17:09:01Z",
+    "pushed_at": "2026-06-16T07:34:21Z",
+    "git_url": "git://github.com/M1n-n9/paper-lifecycle.git",
+    "homepage": null,
+    "size": 1122,
+    "stargazers_count": 72,
+    "watchers_count": 72,
+    "language": null,
+    "forks_count": 2,
+    "open_issues_count": 0
+  },
+  {
     "id": 1270210538,
     "name": "Tomadach-PC-2026-M2",
     "owner": {
@@ -1815,29 +1838,6 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
-  },
-  {
-    "id": 1269850088,
-    "name": "PPS_Screen_Tester",
-    "owner": {
-      "id": 27757168,
-      "url": "https://api.github.com/users/handpaperkun",
-      "html_url": "https://github.com/handpaperkun",
-      "avatar_url": "https://avatars.githubusercontent.com/u/27757168?v=4"
-    },
-    "html_url": "https://github.com/handpaperkun/PPS_Screen_Tester",
-    "description": "纯AI coding 臭弟弟。发生器P3/HDR部分使用探头已完成验证。",
-    "created_at": "2026-06-15T06:45:45Z",
-    "updated_at": "2026-06-16T13:15:50Z",
-    "pushed_at": "2026-06-16T08:42:23Z",
-    "git_url": "git://github.com/handpaperkun/PPS_Screen_Tester.git",
-    "homepage": null,
-    "size": 16734,
-    "stargazers_count": 72,
-    "watchers_count": 72,
-    "language": "Kotlin",
-    "forks_count": 4,
-    "open_issues_count": 2
   },
   {
     "id": 1270577164,
@@ -1906,7 +1906,7 @@
     "watchers_count": 71,
     "language": "C#",
     "forks_count": 0,
-    "open_issues_count": 0
+    "open_issues_count": 1
   },
   {
     "id": 1270213539,
@@ -1930,6 +1930,29 @@
     "language": "C#",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1269850088,
+    "name": "PPS_Screen_Tester",
+    "owner": {
+      "id": 27757168,
+      "url": "https://api.github.com/users/handpaperkun",
+      "html_url": "https://github.com/handpaperkun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/27757168?v=4"
+    },
+    "html_url": "https://github.com/handpaperkun/PPS_Screen_Tester",
+    "description": "纯AI coding 臭弟弟。发生器P3/HDR部分使用探头已完成验证。",
+    "created_at": "2026-06-15T06:45:45Z",
+    "updated_at": "2026-06-16T15:22:03Z",
+    "pushed_at": "2026-06-16T08:42:23Z",
+    "git_url": "git://github.com/handpaperkun/PPS_Screen_Tester.git",
+    "homepage": null,
+    "size": 16734,
+    "stargazers_count": 71,
+    "watchers_count": 71,
+    "language": "Kotlin",
+    "forks_count": 4,
+    "open_issues_count": 2
   },
   {
     "id": 1270230729,
@@ -1997,29 +2020,6 @@
     "stargazers_count": 70,
     "watchers_count": 70,
     "language": "C++",
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1270578788,
-    "name": "Hent-AI-Generator-2026",
-    "owner": {
-      "id": 289710633,
-      "url": "https://api.github.com/users/ZettaChann",
-      "html_url": "https://github.com/ZettaChann",
-      "avatar_url": "https://avatars.githubusercontent.com/u/289710633?v=4"
-    },
-    "html_url": "https://github.com/ZettaChann/Hent-AI-Generator-2026",
-    "description": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation.",
-    "created_at": "2026-06-15T21:15:46Z",
-    "updated_at": "2026-06-16T09:42:50Z",
-    "pushed_at": "2026-06-15T21:17:30Z",
-    "git_url": "git://github.com/ZettaChann/Hent-AI-Generator-2026.git",
-    "homepage": "",
-    "size": 12,
-    "stargazers_count": 70,
-    "watchers_count": 70,
-    "language": "C#",
     "forks_count": 0,
     "open_issues_count": 0
   },
@@ -2093,50 +2093,27 @@
     "open_issues_count": 0
   },
   {
-    "id": 1269937781,
-    "name": "paper-lifecycle",
+    "id": 1268964825,
+    "name": "worldcup-forecast",
     "owner": {
-      "id": 293765316,
-      "url": "https://api.github.com/users/M1n-n9",
-      "html_url": "https://github.com/M1n-n9",
-      "avatar_url": "https://avatars.githubusercontent.com/u/293765316?v=4"
+      "id": 1913189,
+      "url": "https://api.github.com/users/playmobil",
+      "html_url": "https://github.com/playmobil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1913189?v=4"
     },
-    "html_url": "https://github.com/M1n-n9/paper-lifecycle",
-    "description": "Codex skill for full academic paper lifecycle analysis and revision",
-    "created_at": "2026-06-15T08:32:18Z",
-    "updated_at": "2026-06-16T12:48:28Z",
-    "pushed_at": "2026-06-16T07:34:21Z",
-    "git_url": "git://github.com/M1n-n9/paper-lifecycle.git",
+    "html_url": "https://github.com/playmobil/worldcup-forecast",
+    "description": "worldcup-forecast 世界杯预测",
+    "created_at": "2026-06-14T06:21:32Z",
+    "updated_at": "2026-06-16T18:24:51Z",
+    "pushed_at": "2026-06-16T13:33:12Z",
+    "git_url": "git://github.com/playmobil/worldcup-forecast.git",
     "homepage": null,
-    "size": 1122,
-    "stargazers_count": 69,
-    "watchers_count": 69,
-    "language": null,
-    "forks_count": 2,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1268273877,
-    "name": "travel-plan-viz",
-    "owner": {
-      "id": 266722546,
-      "url": "https://api.github.com/users/zexuanw958-svg",
-      "html_url": "https://github.com/zexuanw958-svg",
-      "avatar_url": "https://avatars.githubusercontent.com/u/266722546?v=4"
-    },
-    "html_url": "https://github.com/zexuanw958-svg/travel-plan-viz",
-    "description": "Migo · 旅行领航 —— 把旅行行程生成为单文件、可离线、手机优先的 HTML（交互地图+每日时间轴+出发前提醒）。Claude Code / Codex 通用 Skill（travel-plan-viz）。",
-    "created_at": "2026-06-13T10:40:30Z",
-    "updated_at": "2026-06-16T12:57:40Z",
-    "pushed_at": "2026-06-14T11:31:58Z",
-    "git_url": "git://github.com/zexuanw958-svg/travel-plan-viz.git",
-    "homepage": null,
-    "size": 423,
+    "size": 204,
     "stargazers_count": 68,
     "watchers_count": 68,
-    "language": "JavaScript",
-    "forks_count": 4,
-    "open_issues_count": 0
+    "language": "Python",
+    "forks_count": 15,
+    "open_issues_count": 2
   },
   {
     "id": 1269999020,
@@ -2254,29 +2231,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1268964825,
-    "name": "worldcup-forecast",
-    "owner": {
-      "id": 1913189,
-      "url": "https://api.github.com/users/playmobil",
-      "html_url": "https://github.com/playmobil",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1913189?v=4"
-    },
-    "html_url": "https://github.com/playmobil/worldcup-forecast",
-    "description": "worldcup-forecast 世界杯预测",
-    "created_at": "2026-06-14T06:21:32Z",
-    "updated_at": "2026-06-16T13:37:12Z",
-    "pushed_at": "2026-06-16T13:33:12Z",
-    "git_url": "git://github.com/playmobil/worldcup-forecast.git",
-    "homepage": null,
-    "size": 204,
-    "stargazers_count": 64,
-    "watchers_count": 64,
-    "language": "Python",
-    "forks_count": 13,
-    "open_issues_count": 2
-  },
-  {
     "id": 1268592137,
     "name": "ltk-manager-lol",
     "owner": {
@@ -2298,5 +2252,51 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 1
+  },
+  {
+    "id": 1270081992,
+    "name": "DrFone-Screen-Unlock-ToolKit",
+    "owner": {
+      "id": 168343516,
+      "url": "https://api.github.com/users/Mohammed-Adel56",
+      "html_url": "https://github.com/Mohammed-Adel56",
+      "avatar_url": "https://avatars.githubusercontent.com/u/168343516?v=4"
+    },
+    "html_url": "https://github.com/Mohammed-Adel56/DrFone-Screen-Unlock-ToolKit",
+    "description": "📱 Easy-to-use desktop assistant and installer for Dr.Fone Screen Unlocker on Windows. Unlock your smartphone, bypass lock screens, and restore access with a quick .exe setup.",
+    "created_at": "2026-06-15T11:17:49Z",
+    "updated_at": "2026-06-16T11:30:19Z",
+    "pushed_at": "2026-06-15T11:21:21Z",
+    "git_url": "git://github.com/Mohammed-Adel56/DrFone-Screen-Unlock-ToolKit.git",
+    "homepage": "",
+    "size": 9,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1268037804,
+    "name": "FlashQwen",
+    "owner": {
+      "id": 52036272,
+      "url": "https://api.github.com/users/frankkk96",
+      "html_url": "https://github.com/frankkk96",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52036272?v=4"
+    },
+    "html_url": "https://github.com/frankkk96/FlashQwen",
+    "description": "From-scratch C++/CUDA inference engine for Qwen3-8B",
+    "created_at": "2026-06-13T04:43:34Z",
+    "updated_at": "2026-06-16T17:40:43Z",
+    "pushed_at": "2026-06-16T12:36:02Z",
+    "git_url": "git://github.com/frankkk96/FlashQwen.git",
+    "homepage": null,
+    "size": 617,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "Go",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
