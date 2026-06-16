@@ -52392,5 +52392,51 @@
     "language": "Python",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1255069527,
+    "name": "agent",
+    "owner": {
+      "id": 232369197,
+      "url": "https://api.github.com/users/PentesterFlow",
+      "html_url": "https://github.com/PentesterFlow",
+      "avatar_url": "https://avatars.githubusercontent.com/u/232369197?v=4"
+    },
+    "html_url": "https://github.com/PentesterFlow/agent",
+    "description": "Agentic offensive-security in your terminal",
+    "created_at": "2026-05-31T11:14:35Z",
+    "updated_at": "2026-06-16T00:45:01Z",
+    "pushed_at": "2026-06-14T08:51:57Z",
+    "git_url": "git://github.com/PentesterFlow/agent.git",
+    "homepage": "https://pentesterflow.com",
+    "size": 1035,
+    "stargazers_count": 482,
+    "watchers_count": 482,
+    "language": "TypeScript",
+    "forks_count": 68,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1268611404,
+    "name": "agent-harness-generator",
+    "owner": {
+      "id": 2934394,
+      "url": "https://api.github.com/users/ruvnet",
+      "html_url": "https://github.com/ruvnet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2934394?v=4"
+    },
+    "html_url": "https://github.com/ruvnet/agent-harness-generator",
+    "description": "🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex, pi.dev, Hermes, OpenClaw, and RVM (hardware-isolated sandbox).",
+    "created_at": "2026-06-13T18:29:11Z",
+    "updated_at": "2026-06-15T18:18:14Z",
+    "pushed_at": "2026-06-15T16:57:15Z",
+    "git_url": "git://github.com/ruvnet/agent-harness-generator.git",
+    "homepage": "https://github.com/ruvnet/ruflo",
+    "size": 10519,
+    "stargazers_count": 71,
+    "watchers_count": 71,
+    "language": "TypeScript",
+    "forks_count": 6,
+    "open_issues_count": 2
   }
 ]
