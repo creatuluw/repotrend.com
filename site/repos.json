@@ -52760,5 +52760,51 @@
     "language": "JavaScript",
     "forks_count": 7,
     "open_issues_count": 0
+  },
+  {
+    "id": 1250235788,
+    "name": "PRISM-VL",
+    "owner": {
+      "id": 30553284,
+      "url": "https://api.github.com/users/kepengxu",
+      "html_url": "https://github.com/kepengxu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30553284?v=4"
+    },
+    "html_url": "https://github.com/kepengxu/PRISM-VL",
+    "description": "PRISM-VL studies measurement-grounded VLM learning with RAW-derived Meas.-XYZ inputs, camera-conditioned grounding, and exposure-bracketed supervision transfer.",
+    "created_at": "2026-05-26T12:40:07Z",
+    "updated_at": "2026-06-15T19:12:30Z",
+    "pushed_at": "2026-05-27T14:27:55Z",
+    "git_url": "git://github.com/kepengxu/PRISM-VL.git",
+    "homepage": null,
+    "size": 21521,
+    "stargazers_count": 498,
+    "watchers_count": 498,
+    "language": "Python",
+    "forks_count": 15,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1268576872,
+    "name": "yt-downloader-savetube",
+    "owner": {
+      "id": 140564396,
+      "url": "https://api.github.com/users/Timgt86",
+      "html_url": "https://github.com/Timgt86",
+      "avatar_url": "https://avatars.githubusercontent.com/u/140564396?v=4"
+    },
+    "html_url": "https://github.com/Timgt86/yt-downloader-savetube",
+    "description": "ytdownloader github youtube downloader chrome extension  video audio mp3 mp4 4k hd download application github desktop app open source",
+    "created_at": "2026-06-13T17:38:23Z",
+    "updated_at": "2026-06-15T01:51:31Z",
+    "pushed_at": "2026-06-13T17:45:14Z",
+    "git_url": "git://github.com/Timgt86/yt-downloader-savetube.git",
+    "homepage": "",
+    "size": 172,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
