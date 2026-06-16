@@ -52576,5 +52576,51 @@
     "language": "C#",
     "forks_count": 2,
     "open_issues_count": 2
+  },
+  {
+    "id": 1265847218,
+    "name": "loc567",
+    "owner": {
+      "id": 292671063,
+      "url": "https://api.github.com/users/loc567",
+      "html_url": "https://github.com/loc567",
+      "avatar_url": "https://avatars.githubusercontent.com/u/292671063?v=4"
+    },
+    "html_url": "https://github.com/loc567/loc567",
+    "description": "loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com",
+    "created_at": "2026-06-11T06:05:29Z",
+    "updated_at": "2026-06-16T07:51:26Z",
+    "pushed_at": "2026-06-12T11:11:21Z",
+    "git_url": "git://github.com/loc567/loc567.git",
+    "homepage": "",
+    "size": 537,
+    "stargazers_count": 681,
+    "watchers_count": 681,
+    "language": "C",
+    "forks_count": 80,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1268037804,
+    "name": "FlashQwen",
+    "owner": {
+      "id": 52036272,
+      "url": "https://api.github.com/users/frankkk96",
+      "html_url": "https://github.com/frankkk96",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52036272?v=4"
+    },
+    "html_url": "https://github.com/frankkk96/FlashQwen",
+    "description": "From-scratch C++/CUDA inference engine for Qwen3-8B",
+    "created_at": "2026-06-13T04:43:34Z",
+    "updated_at": "2026-06-16T08:06:51Z",
+    "pushed_at": "2026-06-16T07:49:13Z",
+    "git_url": "git://github.com/frankkk96/FlashQwen.git",
+    "homepage": null,
+    "size": 557,
+    "stargazers_count": 56,
+    "watchers_count": 56,
+    "language": "Go",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
