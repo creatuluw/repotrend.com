@@ -52484,5 +52484,51 @@
     "language": null,
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1254842258,
+    "name": "serenity-skill",
+    "owner": {
+      "id": 255656695,
+      "url": "https://api.github.com/users/haskaomni",
+      "html_url": "https://github.com/haskaomni",
+      "avatar_url": "https://avatars.githubusercontent.com/u/255656695?v=4"
+    },
+    "html_url": "https://github.com/haskaomni/serenity-skill",
+    "description": null,
+    "created_at": "2026-05-31T04:13:42Z",
+    "updated_at": "2026-06-15T18:33:49Z",
+    "pushed_at": "2026-06-12T04:29:27Z",
+    "git_url": "git://github.com/haskaomni/serenity-skill.git",
+    "homepage": null,
+    "size": 64,
+    "stargazers_count": 523,
+    "watchers_count": 523,
+    "language": null,
+    "forks_count": 80,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1268358525,
+    "name": "Futa-and-Furry-ArtAI-Generator-2026",
+    "owner": {
+      "id": 70873044,
+      "url": "https://api.github.com/users/KappaTengu51",
+      "html_url": "https://github.com/KappaTengu51",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70873044?v=4"
+    },
+    "html_url": "https://github.com/KappaTengu51/Futa-and-Furry-ArtAI-Generator-2026",
+    "description": "A foundational for AI-driven image (Adult FF) generation, focusing on creative expression and content creation.",
+    "created_at": "2026-06-13T12:42:45Z",
+    "updated_at": "2026-06-14T23:01:55Z",
+    "pushed_at": "2026-06-13T12:44:47Z",
+    "git_url": "git://github.com/KappaTengu51/Futa-and-Furry-ArtAI-Generator-2026.git",
+    "homepage": "",
+    "size": 11,
+    "stargazers_count": 75,
+    "watchers_count": 75,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
