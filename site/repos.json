@@ -52668,5 +52668,51 @@
     "language": "Python",
     "forks_count": 6,
     "open_issues_count": 2
+  },
+  {
+    "id": 1245355924,
+    "name": "duckle",
+    "owner": {
+      "id": 85476817,
+      "url": "https://api.github.com/users/SouravRoy-ETL",
+      "html_url": "https://github.com/SouravRoy-ETL",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85476817?v=4"
+    },
+    "html_url": "https://github.com/SouravRoy-ETL/duckle",
+    "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny desktop app, no servers, git-friendly workspaces.",
+    "created_at": "2026-05-21T06:32:39Z",
+    "updated_at": "2026-06-16T08:04:39Z",
+    "pushed_at": "2026-06-16T07:30:23Z",
+    "git_url": "git://github.com/SouravRoy-ETL/duckle.git",
+    "homepage": "https://duckle.org",
+    "size": 76232,
+    "stargazers_count": 481,
+    "watchers_count": 481,
+    "language": "Rust",
+    "forks_count": 29,
+    "open_issues_count": 20
+  },
+  {
+    "id": 1269552921,
+    "name": "jzon-rs",
+    "owner": {
+      "id": 72294760,
+      "url": "https://api.github.com/users/Rajaniraiyn",
+      "html_url": "https://github.com/Rajaniraiyn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72294760?v=4"
+    },
+    "html_url": "https://github.com/Rajaniraiyn/jzon-rs",
+    "description": "Zero-copy JSON serialization with compile-time generated typed parsers",
+    "created_at": "2026-06-14T21:18:14Z",
+    "updated_at": "2026-06-16T08:05:07Z",
+    "pushed_at": "2026-06-15T18:09:20Z",
+    "git_url": "git://github.com/Rajaniraiyn/jzon-rs.git",
+    "homepage": null,
+    "size": 5149,
+    "stargazers_count": 81,
+    "watchers_count": 81,
+    "language": "Rust",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
