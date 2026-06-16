@@ -52323,5 +52323,74 @@
     "language": "C#",
     "forks_count": 6,
     "open_issues_count": 0
+  },
+  {
+    "id": 1237031497,
+    "name": "osiris",
+    "owner": {
+      "id": 241641249,
+      "url": "https://api.github.com/users/simplifaisoul",
+      "html_url": "https://github.com/simplifaisoul",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241641249?v=4"
+    },
+    "html_url": "https://github.com/simplifaisoul/osiris",
+    "description": "Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative",
+    "created_at": "2026-05-12T20:09:25Z",
+    "updated_at": "2026-06-15T19:10:06Z",
+    "pushed_at": "2026-06-15T00:55:57Z",
+    "git_url": "git://github.com/simplifaisoul/osiris.git",
+    "homepage": "https://osirisai.live",
+    "size": 3339,
+    "stargazers_count": 5563,
+    "watchers_count": 5563,
+    "language": "TypeScript",
+    "forks_count": 1132,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1264531337,
+    "name": "fanbox",
+    "owner": {
+      "id": 127714341,
+      "url": "https://api.github.com/users/alchaincyf",
+      "html_url": "https://github.com/alchaincyf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
+    },
+    "html_url": "https://github.com/alchaincyf/fanbox",
+    "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
+    "created_at": "2026-06-10T01:01:42Z",
+    "updated_at": "2026-06-15T16:41:22Z",
+    "pushed_at": "2026-06-14T17:39:22Z",
+    "git_url": "git://github.com/alchaincyf/fanbox.git",
+    "homepage": "https://github.com/alchaincyf/fanbox/releases/latest",
+    "size": 14587,
+    "stargazers_count": 571,
+    "watchers_count": 571,
+    "language": "JavaScript",
+    "forks_count": 81,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1266841115,
+    "name": "MemDreamer",
+    "owner": {
+      "id": 120770412,
+      "url": "https://api.github.com/users/ant-research",
+      "html_url": "https://github.com/ant-research",
+      "avatar_url": "https://avatars.githubusercontent.com/u/120770412?v=4"
+    },
+    "html_url": "https://github.com/ant-research/MemDreamer",
+    "description": null,
+    "created_at": "2026-06-12T02:09:26Z",
+    "updated_at": "2026-06-15T09:42:23Z",
+    "pushed_at": "2026-06-12T14:13:57Z",
+    "git_url": "git://github.com/ant-research/MemDreamer.git",
+    "homepage": null,
+    "size": 3993,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
