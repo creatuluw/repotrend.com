@@ -52852,5 +52852,74 @@
     "language": "C#",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1199542153,
+    "name": "quip-node-manager",
+    "owner": {
+      "id": 203704131,
+      "url": "https://api.github.com/users/QuipNetwork",
+      "html_url": "https://github.com/QuipNetwork",
+      "avatar_url": "https://avatars.githubusercontent.com/u/203704131?v=4"
+    },
+    "html_url": "https://github.com/QuipNetwork/quip-node-manager",
+    "description": "A simple GUI client to manage a Quip Network node",
+    "created_at": "2026-04-02T13:03:34Z",
+    "updated_at": "2026-06-16T13:41:36Z",
+    "pushed_at": "2026-06-04T19:06:00Z",
+    "git_url": "git://github.com/QuipNetwork/quip-node-manager.git",
+    "homepage": null,
+    "size": 6102,
+    "stargazers_count": 5527,
+    "watchers_count": 5527,
+    "language": "Rust",
+    "forks_count": 17,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1267485499,
+    "name": "vorssaint-utils",
+    "owner": {
+      "id": 259901989,
+      "url": "https://api.github.com/users/vorssaint",
+      "html_url": "https://github.com/vorssaint",
+      "avatar_url": "https://avatars.githubusercontent.com/u/259901989?v=4"
+    },
+    "html_url": "https://github.com/vorssaint/vorssaint-utils",
+    "description": null,
+    "created_at": "2026-06-12T15:25:43Z",
+    "updated_at": "2026-06-17T00:26:18Z",
+    "pushed_at": "2026-06-16T21:48:25Z",
+    "git_url": "git://github.com/vorssaint/vorssaint-utils.git",
+    "homepage": null,
+    "size": 32209,
+    "stargazers_count": 510,
+    "watchers_count": 510,
+    "language": "Swift",
+    "forks_count": 25,
+    "open_issues_count": 9
+  },
+  {
+    "id": 1270193469,
+    "name": "CD-GUI-Panel-ByPass-2026",
+    "owner": {
+      "id": 143967710,
+      "url": "https://api.github.com/users/mdamine1",
+      "html_url": "https://github.com/mdamine1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143967710?v=4"
+    },
+    "html_url": "https://github.com/mdamine1/CD-GUI-Panel-ByPass-2026",
+    "description": "A comprehensive toolkit providing frameworks, scripts, and documentation for auditing digital asset security across TRX, SOL, EVM, BTC, and LTC networks.",
+    "created_at": "2026-06-15T13:27:49Z",
+    "updated_at": "2026-06-16T11:20:22Z",
+    "pushed_at": "2026-06-15T13:32:36Z",
+    "git_url": "git://github.com/mdamine1/CD-GUI-Panel-ByPass-2026.git",
+    "homepage": "",
+    "size": 13,
+    "stargazers_count": 74,
+    "watchers_count": 74,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
