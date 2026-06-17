@@ -52921,5 +52921,51 @@
     "language": "C#",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1267797347,
+    "name": "renwei-writing",
+    "owner": {
+      "id": 77816124,
+      "url": "https://api.github.com/users/orange2ai",
+      "html_url": "https://github.com/orange2ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77816124?v=4"
+    },
+    "html_url": "https://github.com/orange2ai/renwei-writing",
+    "description": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
+    "created_at": "2026-06-12T21:45:48Z",
+    "updated_at": "2026-06-16T18:05:41Z",
+    "pushed_at": "2026-06-13T07:49:49Z",
+    "git_url": "git://github.com/orange2ai/renwei-writing.git",
+    "homepage": null,
+    "size": 25,
+    "stargazers_count": 715,
+    "watchers_count": 715,
+    "language": null,
+    "forks_count": 72,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1270199089,
+    "name": "OF-Content-DWNLR",
+    "owner": {
+      "id": 54953450,
+      "url": "https://api.github.com/users/oluwaluhmie",
+      "html_url": "https://github.com/oluwaluhmie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54953450?v=4"
+    },
+    "html_url": "https://github.com/oluwaluhmie/OF-Content-DWNLR",
+    "description": "A secure and ethical toolkit for local content archiving and personal data backup.",
+    "created_at": "2026-06-15T13:33:52Z",
+    "updated_at": "2026-06-16T10:52:55Z",
+    "pushed_at": "2026-06-15T13:37:55Z",
+    "git_url": "git://github.com/oluwaluhmie/OF-Content-DWNLR.git",
+    "homepage": "",
+    "size": 12,
+    "stargazers_count": 74,
+    "watchers_count": 74,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
