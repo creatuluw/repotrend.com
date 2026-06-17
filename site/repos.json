@@ -53059,5 +53059,51 @@
     "language": "C#",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1262689338,
+    "name": "ilab-gpt-conjure",
+    "owner": {
+      "id": 1709751,
+      "url": "https://api.github.com/users/kadevin",
+      "html_url": "https://github.com/kadevin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1709751?v=4"
+    },
+    "html_url": "https://github.com/kadevin/ilab-gpt-conjure",
+    "description": "面向 GPT-image-2 的 AI 图片生成 WebUI 工作台，支持 Codex Responses 与 OpenAI 兼容 API 接入，内置公用图库、多类型 Chip 快捷引用、提示词模板、多任务并发和本地队列管理。An AI image generation WebUI workbench for GPT-image-2 with Codex Responses and OpenAI-compatible API support, shared gallery references, multi-type quick chips, prompt templates, concurrent tasks, and local queue management.",
+    "created_at": "2026-06-08T08:20:30Z",
+    "updated_at": "2026-06-16T18:42:39Z",
+    "pushed_at": "2026-06-15T14:24:56Z",
+    "git_url": "git://github.com/kadevin/ilab-gpt-conjure.git",
+    "homepage": "https://github.com/kadevin/ilab-gpt-conjure/blob/main/RELEASES.md",
+    "size": 16771,
+    "stargazers_count": 485,
+    "watchers_count": 485,
+    "language": "Python",
+    "forks_count": 68,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1270106301,
+    "name": "MarvelRivals-Menu-Version-Easy-2",
+    "owner": {
+      "id": 292019715,
+      "url": "https://api.github.com/users/penelopeemsu-svg",
+      "html_url": "https://github.com/penelopeemsu-svg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/292019715?v=4"
+    },
+    "html_url": "https://github.com/penelopeemsu-svg/MarvelRivals-Menu-Version-Easy-2",
+    "description": "Advanced Marvel Rivals Internal Suite - Premium Performance Utility with Aim Assist, ESP, and Hero Optimization.",
+    "created_at": "2026-06-15T11:48:41Z",
+    "updated_at": "2026-06-16T10:05:54Z",
+    "pushed_at": "2026-06-15T11:50:58Z",
+    "git_url": "git://github.com/penelopeemsu-svg/MarvelRivals-Menu-Version-Easy-2.git",
+    "homepage": "",
+    "size": 9,
+    "stargazers_count": 70,
+    "watchers_count": 70,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
