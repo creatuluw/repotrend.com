@@ -1,28 +1,5 @@
 [
   {
-    "id": 1269552921,
-    "name": "jzon-rs",
-    "owner": {
-      "id": 72294760,
-      "url": "https://api.github.com/users/Rajaniraiyn",
-      "html_url": "https://github.com/Rajaniraiyn",
-      "avatar_url": "https://avatars.githubusercontent.com/u/72294760?v=4"
-    },
-    "html_url": "https://github.com/Rajaniraiyn/jzon-rs",
-    "description": "Zero-copy JSON serialization with compile-time generated typed parsers",
-    "created_at": "2026-06-14T21:18:14Z",
-    "updated_at": "2026-06-17T03:59:01Z",
-    "pushed_at": "2026-06-16T15:31:07Z",
-    "git_url": "git://github.com/Rajaniraiyn/jzon-rs.git",
-    "homepage": null,
-    "size": 5202,
-    "stargazers_count": 99,
-    "watchers_count": 99,
-    "language": "Rust",
-    "forks_count": 3,
-    "open_issues_count": 0
-  },
-  {
     "id": 1270479768,
     "name": "web3-casino",
     "owner": {
@@ -34,15 +11,15 @@
     "html_url": "https://github.com/nkosresearch/web3-casino",
     "description": "Online Web3 Crypto Casino Game - Crash, Jackpot, Roulette, Slot, Coinflip, Mine, Poker. It is designed for fast gameplay, real-time community, and serious risk control – without sacrificing developer friendliness.",
     "created_at": "2026-06-15T18:50:47Z",
-    "updated_at": "2026-06-17T07:21:33Z",
-    "pushed_at": "2026-06-16T22:27:29Z",
+    "updated_at": "2026-06-17T11:53:40Z",
+    "pushed_at": "2026-06-17T11:53:36Z",
     "git_url": "git://github.com/nkosresearch/web3-casino.git",
     "homepage": "",
-    "size": 22939,
+    "size": 22858,
     "stargazers_count": 98,
     "watchers_count": 98,
     "language": "TypeScript",
-    "forks_count": 890,
+    "forks_count": 1065,
     "open_issues_count": 0
   },
   {
@@ -69,6 +46,29 @@
     "open_issues_count": 0
   },
   {
+    "id": 1269937781,
+    "name": "paper-lifecycle",
+    "owner": {
+      "id": 293765316,
+      "url": "https://api.github.com/users/M1n-n9",
+      "html_url": "https://github.com/M1n-n9",
+      "avatar_url": "https://avatars.githubusercontent.com/u/293765316?v=4"
+    },
+    "html_url": "https://github.com/M1n-n9/paper-lifecycle",
+    "description": "Codex skill for full academic paper lifecycle analysis and revision",
+    "created_at": "2026-06-15T08:32:18Z",
+    "updated_at": "2026-06-17T12:44:53Z",
+    "pushed_at": "2026-06-16T07:34:21Z",
+    "git_url": "git://github.com/M1n-n9/paper-lifecycle.git",
+    "homepage": null,
+    "size": 1122,
+    "stargazers_count": 96,
+    "watchers_count": 96,
+    "language": null,
+    "forks_count": 3,
+    "open_issues_count": 0
+  },
+  {
     "id": 1270608785,
     "name": "iContainer",
     "owner": {
@@ -80,13 +80,13 @@
     "html_url": "https://github.com/nico81/iContainer",
     "description": "A native macOS app to manage Apple Container workloads, built with SwiftUI.",
     "created_at": "2026-06-15T22:07:57Z",
-    "updated_at": "2026-06-17T05:39:45Z",
+    "updated_at": "2026-06-17T10:45:31Z",
     "pushed_at": "2026-06-16T18:02:10Z",
     "git_url": "git://github.com/nico81/iContainer.git",
     "homepage": null,
     "size": 8674,
-    "stargazers_count": 94,
-    "watchers_count": 94,
+    "stargazers_count": 96,
+    "watchers_count": 96,
     "language": "Swift",
     "forks_count": 2,
     "open_issues_count": 0
@@ -126,39 +126,62 @@
     "html_url": "https://github.com/amElnagdy/delegate-skills",
     "description": "Drive the OpenAI Codex CLI as a background implementer, brief it, review its diff, land the commit yourself.",
     "created_at": "2026-06-14T10:35:48Z",
-    "updated_at": "2026-06-17T07:10:06Z",
-    "pushed_at": "2026-06-14T16:13:44Z",
+    "updated_at": "2026-06-17T08:16:22Z",
+    "pushed_at": "2026-06-17T10:04:36Z",
     "git_url": "git://github.com/amElnagdy/delegate-skills.git",
     "homepage": "https://www.skills.sh/amelnagdy/delegate-skills",
-    "size": 29,
-    "stargazers_count": 90,
-    "watchers_count": 90,
+    "size": 30,
+    "stargazers_count": 91,
+    "watchers_count": 91,
     "language": "JavaScript",
     "forks_count": 16,
-    "open_issues_count": 1
+    "open_issues_count": 2
   },
   {
-    "id": 1269937781,
-    "name": "paper-lifecycle",
+    "id": 1271204957,
+    "name": "codex-team-oauth",
     "owner": {
-      "id": 293765316,
-      "url": "https://api.github.com/users/M1n-n9",
-      "html_url": "https://github.com/M1n-n9",
-      "avatar_url": "https://avatars.githubusercontent.com/u/293765316?v=4"
+      "id": 89782316,
+      "url": "https://api.github.com/users/cryingcheems",
+      "html_url": "https://github.com/cryingcheems",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89782316?v=4"
     },
-    "html_url": "https://github.com/M1n-n9/paper-lifecycle",
-    "description": "Codex skill for full academic paper lifecycle analysis and revision",
-    "created_at": "2026-06-15T08:32:18Z",
-    "updated_at": "2026-06-17T07:52:36Z",
-    "pushed_at": "2026-06-16T07:34:21Z",
-    "git_url": "git://github.com/M1n-n9/paper-lifecycle.git",
+    "html_url": "https://github.com/cryingcheems/codex-team-oauth",
+    "description": "利用Team 空间域名free 账号跳过手机号登录 codex的研究脚本",
+    "created_at": "2026-06-16T12:40:27Z",
+    "updated_at": "2026-06-17T13:20:53Z",
+    "pushed_at": "2026-06-16T13:34:12Z",
+    "git_url": "git://github.com/cryingcheems/codex-team-oauth.git",
     "homepage": null,
-    "size": 1122,
-    "stargazers_count": 88,
-    "watchers_count": 88,
-    "language": null,
-    "forks_count": 2,
+    "size": 17,
+    "stargazers_count": 90,
+    "watchers_count": 90,
+    "language": "Python",
+    "forks_count": 54,
     "open_issues_count": 0
+  },
+  {
+    "id": 1271332229,
+    "name": "Boogu-Image",
+    "owner": {
+      "id": 243518726,
+      "url": "https://api.github.com/users/boogu-project",
+      "html_url": "https://github.com/boogu-project",
+      "avatar_url": "https://avatars.githubusercontent.com/u/243518726?v=4"
+    },
+    "html_url": "https://github.com/boogu-project/Boogu-Image",
+    "description": "Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
+    "created_at": "2026-06-16T14:59:20Z",
+    "updated_at": "2026-06-17T13:11:46Z",
+    "pushed_at": "2026-06-17T13:10:41Z",
+    "git_url": "git://github.com/boogu-project/Boogu-Image.git",
+    "homepage": "",
+    "size": 5302,
+    "stargazers_count": 89,
+    "watchers_count": 89,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 1
   },
   {
     "id": 1269812178,
@@ -172,39 +195,16 @@
     "html_url": "https://github.com/HuolalaTech/huolala-figma-mcp",
     "description": "Huolala's in-house MCP service that automatically converts Figma designs into high-fidelity UI code.",
     "created_at": "2026-06-15T05:54:34Z",
-    "updated_at": "2026-06-17T07:28:44Z",
+    "updated_at": "2026-06-17T09:54:40Z",
     "pushed_at": "2026-06-15T05:56:36Z",
     "git_url": "git://github.com/HuolalaTech/huolala-figma-mcp.git",
     "homepage": null,
     "size": 10809,
-    "stargazers_count": 82,
-    "watchers_count": 82,
+    "stargazers_count": 85,
+    "watchers_count": 85,
     "language": "Python",
-    "forks_count": 14,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1268964825,
-    "name": "worldcup-forecast",
-    "owner": {
-      "id": 1913189,
-      "url": "https://api.github.com/users/playmobil",
-      "html_url": "https://github.com/playmobil",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1913189?v=4"
-    },
-    "html_url": "https://github.com/playmobil/worldcup-forecast",
-    "description": "worldcup-forecast 世界杯预测",
-    "created_at": "2026-06-14T06:21:32Z",
-    "updated_at": "2026-06-17T07:16:50Z",
-    "pushed_at": "2026-06-17T05:42:13Z",
-    "git_url": "git://github.com/playmobil/worldcup-forecast.git",
-    "homepage": null,
-    "size": 217,
-    "stargazers_count": 81,
-    "watchers_count": 81,
-    "language": "Python",
-    "forks_count": 17,
-    "open_issues_count": 2
+    "forks_count": 15,
+    "open_issues_count": 1
   },
   {
     "id": 1270872206,
@@ -218,15 +218,107 @@
     "html_url": "https://github.com/dososo/chinese-traditional-patterns",
     "description": "开源的中国传统纹样图录项目 · 100 高清纹样(规划 800) · 中英日韩双语 · CC BY-NC 4.0 · https://wenyang.net",
     "created_at": "2026-06-16T06:01:05Z",
-    "updated_at": "2026-06-17T07:59:47Z",
+    "updated_at": "2026-06-17T11:44:34Z",
     "pushed_at": "2026-06-16T06:54:15Z",
     "git_url": "git://github.com/dososo/chinese-traditional-patterns.git",
     "homepage": null,
     "size": 250349,
-    "stargazers_count": 79,
-    "watchers_count": 79,
+    "stargazers_count": 84,
+    "watchers_count": 84,
     "language": null,
     "forks_count": 9,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1271627791,
+    "name": "codexpro",
+    "owner": {
+      "id": 126284057,
+      "url": "https://api.github.com/users/rebel0789",
+      "html_url": "https://github.com/rebel0789",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126284057?v=4"
+    },
+    "html_url": "https://github.com/rebel0789/codexpro",
+    "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+    "created_at": "2026-06-16T21:22:43Z",
+    "updated_at": "2026-06-17T12:47:34Z",
+    "pushed_at": "2026-06-17T10:29:15Z",
+    "git_url": "git://github.com/rebel0789/codexpro.git",
+    "homepage": "https://rebel0789.github.io/codexpro/",
+    "size": 471,
+    "stargazers_count": 83,
+    "watchers_count": 83,
+    "language": "JavaScript",
+    "forks_count": 10,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1268964825,
+    "name": "worldcup-forecast",
+    "owner": {
+      "id": 1913189,
+      "url": "https://api.github.com/users/playmobil",
+      "html_url": "https://github.com/playmobil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1913189?v=4"
+    },
+    "html_url": "https://github.com/playmobil/worldcup-forecast",
+    "description": "worldcup-forecast 世界杯预测",
+    "created_at": "2026-06-14T06:21:32Z",
+    "updated_at": "2026-06-17T08:28:31Z",
+    "pushed_at": "2026-06-17T05:42:13Z",
+    "git_url": "git://github.com/playmobil/worldcup-forecast.git",
+    "homepage": null,
+    "size": 217,
+    "stargazers_count": 82,
+    "watchers_count": 82,
+    "language": "Python",
+    "forks_count": 17,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1270422434,
+    "name": "crypto-casino-app",
+    "owner": {
+      "id": 293940140,
+      "url": "https://api.github.com/users/lescasinos",
+      "html_url": "https://github.com/lescasinos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/293940140?v=4"
+    },
+    "html_url": "https://github.com/lescasinos/crypto-casino-app",
+    "description": "Online Web3 Crypto Casino Game - Crash, Jackpot, Roulette, Slot, Coinflip, Mine, Poker. It is designed for fast gameplay, real-time community, and serious risk control – without sacrificing developer friendliness.",
+    "created_at": "2026-06-15T17:41:42Z",
+    "updated_at": "2026-06-17T13:16:56Z",
+    "pushed_at": "2026-06-17T11:53:35Z",
+    "git_url": "git://github.com/lescasinos/crypto-casino-app.git",
+    "homepage": "https://sweepslots.com/",
+    "size": 356,
+    "stargazers_count": 80,
+    "watchers_count": 80,
+    "language": "TypeScript",
+    "forks_count": 1049,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1270814918,
+    "name": "awesome-ad-video-prompts",
+    "owner": {
+      "id": 3425350,
+      "url": "https://api.github.com/users/LichAmnesia",
+      "html_url": "https://github.com/LichAmnesia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3425350?v=4"
+    },
+    "html_url": "https://github.com/LichAmnesia/awesome-ad-video-prompts",
+    "description": "Curated, original high-craft prompts for AI video ads (Seedance 2.0 / Veo 3 / Kling / Runway). Companion to HeyDreaming.",
+    "created_at": "2026-06-16T04:36:14Z",
+    "updated_at": "2026-06-17T10:17:25Z",
+    "pushed_at": "2026-06-16T04:36:23Z",
+    "git_url": "git://github.com/LichAmnesia/awesome-ad-video-prompts.git",
+    "homepage": "https://heydreaming.com/prompts?utm_source=github&utm_medium=social&utm_campaign=github",
+    "size": 102264,
+    "stargazers_count": 78,
+    "watchers_count": 78,
+    "language": "JavaScript",
+    "forks_count": 2,
     "open_issues_count": 0
   },
   {
@@ -250,29 +342,6 @@
     "watchers_count": 77,
     "language": null,
     "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1270124465,
-    "name": "CapCut-Pro-26",
-    "owner": {
-      "id": 135398819,
-      "url": "https://api.github.com/users/TFommy",
-      "html_url": "https://github.com/TFommy",
-      "avatar_url": "https://avatars.githubusercontent.com/u/135398819?v=4"
-    },
-    "html_url": "https://github.com/TFommy/CapCut-Pro-26",
-    "description": "CapCut Pro Studio (2026) — The ultimate high-performance video editing suite with all premium features unlocked. Experience 4K HDR exporting, AI-powered transitions, and a full professional asset library without limitations.",
-    "created_at": "2026-06-15T12:10:37Z",
-    "updated_at": "2026-06-17T00:05:33Z",
-    "pushed_at": "2026-06-15T12:14:18Z",
-    "git_url": "git://github.com/TFommy/CapCut-Pro-26.git",
-    "homepage": "",
-    "size": 9,
-    "stargazers_count": 76,
-    "watchers_count": 76,
-    "language": "C++",
-    "forks_count": 1,
     "open_issues_count": 0
   },
   {
@@ -364,29 +433,6 @@
     "stargazers_count": 75,
     "watchers_count": 75,
     "language": "C#",
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1271180725,
-    "name": "Microsoft-365-Office-Installer",
-    "owner": {
-      "id": 292255390,
-      "url": "https://api.github.com/users/BottomSeekerWalk",
-      "html_url": "https://github.com/BottomSeekerWalk",
-      "avatar_url": "https://avatars.githubusercontent.com/u/292255390?v=4"
-    },
-    "html_url": "https://github.com/BottomSeekerWalk/Microsoft-365-Office-Installer",
-    "description": "Microsoft 365 desktop apps — Word, Excel, PowerPoint, Outlook, Teams and OneDrive with Copilot AI integration",
-    "created_at": "2026-06-16T12:12:37Z",
-    "updated_at": "2026-06-17T07:59:03Z",
-    "pushed_at": "2026-06-16T12:12:57Z",
-    "git_url": "git://github.com/BottomSeekerWalk/Microsoft-365-Office-Installer.git",
-    "homepage": null,
-    "size": 1,
-    "stargazers_count": 75,
-    "watchers_count": 75,
-    "language": null,
     "forks_count": 0,
     "open_issues_count": 0
   },
@@ -575,29 +621,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1270201205,
-    "name": "Panel-collection-2026",
-    "owner": {
-      "id": 289794901,
-      "url": "https://api.github.com/users/rajamx-CPU1",
-      "html_url": "https://github.com/rajamx-CPU1",
-      "avatar_url": "https://avatars.githubusercontent.com/u/289794901?v=4"
-    },
-    "html_url": "https://github.com/rajamx-CPU1/Panel-collection-2026",
-    "description": "A comprehensive toolkit for analyzing stealer malware families and C2 infrastructure.",
-    "created_at": "2026-06-15T13:36:09Z",
-    "updated_at": "2026-06-16T11:21:27Z",
-    "pushed_at": "2026-06-15T13:37:40Z",
-    "git_url": "git://github.com/rajamx-CPU1/Panel-collection-2026.git",
-    "homepage": "",
-    "size": 12,
-    "stargazers_count": 75,
-    "watchers_count": 75,
-    "language": "C#",
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
     "id": 1271183084,
     "name": "Spotify-Premium-Patcher-2026",
     "owner": {
@@ -736,29 +759,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1270173512,
-    "name": "Xbox-Windows-2026-M1",
-    "owner": {
-      "id": 192086383,
-      "url": "https://api.github.com/users/detectivepg12",
-      "html_url": "https://github.com/detectivepg12",
-      "avatar_url": "https://avatars.githubusercontent.com/u/192086383?v=4"
-    },
-    "html_url": "https://github.com/detectivepg12/Xbox-Windows-2026-M1",
-    "description": "Easy-to-use PC utility for enabling and configuring Xbox Mode on Windows, featuring a simple .exe setup. Built for speed and accessibility.",
-    "created_at": "2026-06-15T13:05:57Z",
-    "updated_at": "2026-06-16T10:55:03Z",
-    "pushed_at": "2026-06-15T13:11:33Z",
-    "git_url": "git://github.com/detectivepg12/Xbox-Windows-2026-M1.git",
-    "homepage": "",
-    "size": 8,
-    "stargazers_count": 74,
-    "watchers_count": 74,
-    "language": "C#",
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
     "id": 1270210703,
     "name": "Scrapper-Proxy-2026-Checker",
     "owner": {
@@ -775,6 +775,29 @@
     "git_url": "git://github.com/tjuven666-hash/Scrapper-Proxy-2026-Checker.git",
     "homepage": "",
     "size": 11,
+    "stargazers_count": 74,
+    "watchers_count": 74,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1270173512,
+    "name": "Xbox-Windows-2026-M1",
+    "owner": {
+      "id": 192086383,
+      "url": "https://api.github.com/users/detectivepg12",
+      "html_url": "https://github.com/detectivepg12",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192086383?v=4"
+    },
+    "html_url": "https://github.com/detectivepg12/Xbox-Windows-2026-M1",
+    "description": "Easy-to-use PC utility for enabling and configuring Xbox Mode on Windows, featuring a simple .exe setup. Built for speed and accessibility.",
+    "created_at": "2026-06-15T13:05:57Z",
+    "updated_at": "2026-06-16T10:55:03Z",
+    "pushed_at": "2026-06-15T13:11:33Z",
+    "git_url": "git://github.com/detectivepg12/Xbox-Windows-2026-M1.git",
+    "homepage": "",
+    "size": 8,
     "stargazers_count": 74,
     "watchers_count": 74,
     "language": "C#",
@@ -821,29 +844,6 @@
     "git_url": "git://github.com/khuongvandoanh1955-del/MineCraft-Clients-W-AND-C.git",
     "homepage": "",
     "size": 11,
-    "stargazers_count": 74,
-    "watchers_count": 74,
-    "language": "C#",
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1270169164,
-    "name": "TG-AB-2026",
-    "owner": {
-      "id": 67107092,
-      "url": "https://api.github.com/users/Alireza-PHP",
-      "html_url": "https://github.com/Alireza-PHP",
-      "avatar_url": "https://avatars.githubusercontent.com/u/67107092?v=4"
-    },
-    "html_url": "https://github.com/Alireza-PHP/TG-AB-2026",
-    "description": "Automate Telegram gift purchases with this secure and efficient project toolkit.",
-    "created_at": "2026-06-15T13:01:12Z",
-    "updated_at": "2026-06-16T11:22:39Z",
-    "pushed_at": "2026-06-15T13:04:49Z",
-    "git_url": "git://github.com/Alireza-PHP/TG-AB-2026.git",
-    "homepage": "",
-    "size": 12,
     "stargazers_count": 74,
     "watchers_count": 74,
     "language": "C#",
@@ -989,29 +989,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1270201907,
-    "name": "FLSH-TX-AND-EIP7702",
-    "owner": {
-      "id": 135515540,
-      "url": "https://api.github.com/users/rajaprathik13",
-      "html_url": "https://github.com/rajaprathik13",
-      "avatar_url": "https://avatars.githubusercontent.com/u/135515540?v=4"
-    },
-    "html_url": "https://github.com/rajaprathik13/FLSH-TX-AND-EIP7702",
-    "description": "A versatile toolkit for managing and sending various native cryptocurrency assets securely.",
-    "created_at": "2026-06-15T13:36:54Z",
-    "updated_at": "2026-06-16T11:07:06Z",
-    "pushed_at": "2026-06-15T13:39:45Z",
-    "git_url": "git://github.com/rajaprathik13/FLSH-TX-AND-EIP7702.git",
-    "homepage": "",
-    "size": 12,
-    "stargazers_count": 74,
-    "watchers_count": 74,
-    "language": "C#",
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
     "id": 1271605163,
     "name": "Lossless-Scaling-Git-Collection-2",
     "owner": {
@@ -1023,7 +1000,7 @@
     "html_url": "https://github.com/SriHarsha-4/Lossless-Scaling-Git-Collection-2",
     "description": "⭐️ Lossless Scaling Desktop 2026 | Setup Installer v1.0 | Patch Activator Keygen | License Key Pre-Activated | Full Version Latest Build Pro | Optimize Resolution Scaling | Enhance Performance Graphics | Get Desktop App Windows 10/11 PC | Direct Genuine Original x64 | Download Install Loader Mod ⭐️",
     "created_at": "2026-06-16T20:44:43Z",
-    "updated_at": "2026-06-17T07:09:23Z",
+    "updated_at": "2026-06-17T10:17:42Z",
     "pushed_at": "2026-06-16T20:46:19Z",
     "git_url": "git://github.com/SriHarsha-4/Lossless-Scaling-Git-Collection-2.git",
     "homepage": "",
@@ -1058,29 +1035,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1270081891,
-    "name": "IDM-6.42-Patch-Lifetime-Ver-26",
-    "owner": {
-      "id": 15173187,
-      "url": "https://api.github.com/users/most9",
-      "html_url": "https://github.com/most9",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15173187?v=4"
-    },
-    "html_url": "https://github.com/most9/IDM-6.42-Patch-Lifetime-Ver-26",
-    "description": "Improve internet stability with tools and settings that reduce drops, fix weak connections, and keep your network steady on any device",
-    "created_at": "2026-06-15T11:17:40Z",
-    "updated_at": "2026-06-16T09:48:15Z",
-    "pushed_at": "2026-06-15T11:21:14Z",
-    "git_url": "git://github.com/most9/IDM-6.42-Patch-Lifetime-Ver-26.git",
-    "homepage": "",
-    "size": 10,
-    "stargazers_count": 74,
-    "watchers_count": 74,
-    "language": "HTML",
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
     "id": 1270231223,
     "name": "ChatGPT-Desktop-Free-2026",
     "owner": {
@@ -1104,72 +1058,26 @@
     "open_issues_count": 0
   },
   {
-    "id": 1270193469,
-    "name": "CD-GUI-Panel-ByPass-2026",
+    "id": 1270883324,
+    "name": "patterngen-oss",
     "owner": {
-      "id": 143967710,
-      "url": "https://api.github.com/users/mdamine1",
-      "html_url": "https://github.com/mdamine1",
-      "avatar_url": "https://avatars.githubusercontent.com/u/143967710?v=4"
+      "id": 28267589,
+      "url": "https://api.github.com/users/halfof8",
+      "html_url": "https://github.com/halfof8",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28267589?v=4"
     },
-    "html_url": "https://github.com/mdamine1/CD-GUI-Panel-ByPass-2026",
-    "description": "A comprehensive toolkit providing frameworks, scripts, and documentation for auditing digital asset security across TRX, SOL, EVM, BTC, and LTC networks.",
-    "created_at": "2026-06-15T13:27:49Z",
-    "updated_at": "2026-06-16T11:20:22Z",
-    "pushed_at": "2026-06-15T13:32:36Z",
-    "git_url": "git://github.com/mdamine1/CD-GUI-Panel-ByPass-2026.git",
-    "homepage": "",
-    "size": 13,
+    "html_url": "https://github.com/halfof8/patterngen-oss",
+    "description": null,
+    "created_at": "2026-06-16T06:15:37Z",
+    "updated_at": "2026-06-17T13:08:45Z",
+    "pushed_at": "2026-06-16T06:27:04Z",
+    "git_url": "git://github.com/halfof8/patterngen-oss.git",
+    "homepage": null,
+    "size": 58,
     "stargazers_count": 74,
     "watchers_count": 74,
-    "language": "C#",
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1270071559,
-    "name": "FL-Product-Version-25",
-    "owner": {
-      "id": 211315930,
-      "url": "https://api.github.com/users/kenshicage26",
-      "html_url": "https://github.com/kenshicage26",
-      "avatar_url": "https://avatars.githubusercontent.com/u/211315930?v=4"
-    },
-    "html_url": "https://github.com/kenshicage26/FL-Product-Version-25",
-    "description": "FL Studio 25 Producer Suite (2026) — Advanced audio engine optimization and offline licensing environment. Unlock All-Plugins Edition features, AI-Stem Separation, and ultra-low latency ASIO performance for professional music production.",
-    "created_at": "2026-06-15T11:04:10Z",
-    "updated_at": "2026-06-16T09:49:11Z",
-    "pushed_at": "2026-06-15T11:08:10Z",
-    "git_url": "git://github.com/kenshicage26/FL-Product-Version-25.git",
-    "homepage": "",
-    "size": 9,
-    "stargazers_count": 74,
-    "watchers_count": 74,
-    "language": "C++",
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1270184586,
-    "name": "FW-Version-2026-Pro-FLSH",
-    "owner": {
-      "id": 283263412,
-      "url": "https://api.github.com/users/javel69",
-      "html_url": "https://github.com/javel69",
-      "avatar_url": "https://avatars.githubusercontent.com/u/283263412?v=4"
-    },
-    "html_url": "https://github.com/javel69/FW-Version-2026-Pro-FLSH",
-    "description": "A foundational toolkit for LARP wallet collection simulation and management.",
-    "created_at": "2026-06-15T13:18:15Z",
-    "updated_at": "2026-06-16T11:06:12Z",
-    "pushed_at": "2026-06-15T13:19:58Z",
-    "git_url": "git://github.com/javel69/FW-Version-2026-Pro-FLSH.git",
-    "homepage": "",
-    "size": 12,
-    "stargazers_count": 74,
-    "watchers_count": 74,
-    "language": "C#",
-    "forks_count": 0,
+    "language": "TypeScript",
+    "forks_count": 5,
     "open_issues_count": 0
   },
   {
@@ -1357,29 +1265,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1270069068,
-    "name": "AI-Voice-Mod-Pro-Studio",
-    "owner": {
-      "id": 32555249,
-      "url": "https://api.github.com/users/biolashonde",
-      "html_url": "https://github.com/biolashonde",
-      "avatar_url": "https://avatars.githubusercontent.com/u/32555249?v=4"
-    },
-    "html_url": "https://github.com/biolashonde/AI-Voice-Mod-Pro-Studio",
-    "description": "An open-source, local AI-powered voice changer and audio enhancement utility.",
-    "created_at": "2026-06-15T11:00:53Z",
-    "updated_at": "2026-06-16T09:54:19Z",
-    "pushed_at": "2026-06-15T11:04:40Z",
-    "git_url": "git://github.com/biolashonde/AI-Voice-Mod-Pro-Studio.git",
-    "homepage": "",
-    "size": 8,
-    "stargazers_count": 74,
-    "watchers_count": 74,
-    "language": "C++",
-    "forks_count": 0,
-    "open_issues_count": 1
-  },
-  {
     "id": 1270170124,
     "name": "AL-2026-v2",
     "owner": {
@@ -1401,6 +1286,29 @@
     "language": "C#",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1270069068,
+    "name": "AI-Voice-Mod-Pro-Studio",
+    "owner": {
+      "id": 32555249,
+      "url": "https://api.github.com/users/biolashonde",
+      "html_url": "https://github.com/biolashonde",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32555249?v=4"
+    },
+    "html_url": "https://github.com/biolashonde/AI-Voice-Mod-Pro-Studio",
+    "description": "An open-source, local AI-powered voice changer and audio enhancement utility.",
+    "created_at": "2026-06-15T11:00:53Z",
+    "updated_at": "2026-06-16T09:54:19Z",
+    "pushed_at": "2026-06-15T11:04:40Z",
+    "git_url": "git://github.com/biolashonde/AI-Voice-Mod-Pro-Studio.git",
+    "homepage": "",
+    "size": 8,
+    "stargazers_count": 74,
+    "watchers_count": 74,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 1
   },
   {
     "id": 1270237079,
@@ -1426,29 +1334,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1270081309,
-    "name": "discord-server-booster-2026",
-    "owner": {
-      "id": 65500530,
-      "url": "https://api.github.com/users/MohammdKopa",
-      "html_url": "https://github.com/MohammdKopa",
-      "avatar_url": "https://avatars.githubusercontent.com/u/65500530?v=4"
-    },
-    "html_url": "https://github.com/MohammdKopa/discord-server-booster-2026",
-    "description": "Discord Nexus Booster 2026 — Advanced Community Scaling & Engagement Automation Suite. High-speed Server Boosting via Token Synchronization, Automated Reward Management, and Infinite Invite Tracking. Cloud-based Infrastructure for Rapid Community Growth.",
-    "created_at": "2026-06-15T11:16:57Z",
-    "updated_at": "2026-06-16T09:53:14Z",
-    "pushed_at": "2026-06-15T11:19:39Z",
-    "git_url": "git://github.com/MohammdKopa/discord-server-booster-2026.git",
-    "homepage": "",
-    "size": 9,
-    "stargazers_count": 74,
-    "watchers_count": 74,
-    "language": "C++",
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
     "id": 1270076114,
     "name": "PH-Content-Download-2026",
     "owner": {
@@ -1468,6 +1353,29 @@
     "stargazers_count": 74,
     "watchers_count": 74,
     "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1270081309,
+    "name": "discord-server-booster-2026",
+    "owner": {
+      "id": 65500530,
+      "url": "https://api.github.com/users/MohammdKopa",
+      "html_url": "https://github.com/MohammdKopa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65500530?v=4"
+    },
+    "html_url": "https://github.com/MohammdKopa/discord-server-booster-2026",
+    "description": "Discord Nexus Booster 2026 — Advanced Community Scaling & Engagement Automation Suite. High-speed Server Boosting via Token Synchronization, Automated Reward Management, and Infinite Invite Tracking. Cloud-based Infrastructure for Rapid Community Growth.",
+    "created_at": "2026-06-15T11:16:57Z",
+    "updated_at": "2026-06-16T09:53:14Z",
+    "pushed_at": "2026-06-15T11:19:39Z",
+    "git_url": "git://github.com/MohammdKopa/discord-server-booster-2026.git",
+    "homepage": "",
+    "size": 9,
+    "stargazers_count": 74,
+    "watchers_count": 74,
+    "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
   },
@@ -1511,52 +1419,6 @@
     "git_url": "git://github.com/sadeqebrahimi/SpotAd-2026.git",
     "homepage": "",
     "size": 9,
-    "stargazers_count": 73,
-    "watchers_count": 73,
-    "language": "C++",
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1270814918,
-    "name": "awesome-ad-video-prompts",
-    "owner": {
-      "id": 3425350,
-      "url": "https://api.github.com/users/LichAmnesia",
-      "html_url": "https://github.com/LichAmnesia",
-      "avatar_url": "https://avatars.githubusercontent.com/u/3425350?v=4"
-    },
-    "html_url": "https://github.com/LichAmnesia/awesome-ad-video-prompts",
-    "description": "Curated, original high-craft prompts for AI video ads (Seedance 2.0 / Veo 3 / Kling / Runway). Companion to HeyDreaming.",
-    "created_at": "2026-06-16T04:36:14Z",
-    "updated_at": "2026-06-17T07:50:09Z",
-    "pushed_at": "2026-06-16T04:36:23Z",
-    "git_url": "git://github.com/LichAmnesia/awesome-ad-video-prompts.git",
-    "homepage": "https://heydreaming.com/prompts?utm_source=github&utm_medium=social&utm_campaign=github",
-    "size": 102264,
-    "stargazers_count": 73,
-    "watchers_count": 73,
-    "language": "JavaScript",
-    "forks_count": 1,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1270073166,
-    "name": "Acrobat-Pro-2026",
-    "owner": {
-      "id": 207474928,
-      "url": "https://api.github.com/users/Kibet-beep",
-      "html_url": "https://github.com/Kibet-beep",
-      "avatar_url": "https://avatars.githubusercontent.com/u/207474928?v=4"
-    },
-    "html_url": "https://github.com/Kibet-beep/Acrobat-Pro-2026",
-    "description": "Adobe Acrobat Pro Professional 2026 – Industry-standard PDF editor for creating, editing, converting, and signing documents with advanced features.",
-    "created_at": "2026-06-15T11:06:14Z",
-    "updated_at": "2026-06-16T09:50:04Z",
-    "pushed_at": "2026-06-15T11:10:04Z",
-    "git_url": "git://github.com/Kibet-beep/Acrobat-Pro-2026.git",
-    "homepage": "",
-    "size": 8,
     "stargazers_count": 73,
     "watchers_count": 73,
     "language": "C++",
@@ -1633,29 +1495,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1270422434,
-    "name": "crypto-casino-app",
-    "owner": {
-      "id": 293940140,
-      "url": "https://api.github.com/users/lescasinos",
-      "html_url": "https://github.com/lescasinos",
-      "avatar_url": "https://avatars.githubusercontent.com/u/293940140?v=4"
-    },
-    "html_url": "https://github.com/lescasinos/crypto-casino-app",
-    "description": "Online Web3 Crypto Casino Game - Crash, Jackpot, Roulette, Slot, Coinflip, Mine, Poker. It is designed for fast gameplay, real-time community, and serious risk control – without sacrificing developer friendliness.",
-    "created_at": "2026-06-15T17:41:42Z",
-    "updated_at": "2026-06-17T07:28:54Z",
-    "pushed_at": "2026-06-16T22:21:20Z",
-    "git_url": "git://github.com/lescasinos/crypto-casino-app.git",
-    "homepage": "https://sweepslots.com/",
-    "size": 353,
-    "stargazers_count": 73,
-    "watchers_count": 73,
-    "language": "TypeScript",
-    "forks_count": 877,
-    "open_issues_count": 0
-  },
-  {
     "id": 1270179925,
     "name": "Pro-NanoBanana",
     "owner": {
@@ -1698,52 +1537,6 @@
     "stargazers_count": 73,
     "watchers_count": 73,
     "language": "C++",
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1270086867,
-    "name": "kmspisco-v2-portable",
-    "owner": {
-      "id": 70589409,
-      "url": "https://api.github.com/users/niladrighoshal",
-      "html_url": "https://github.com/niladrighoshal",
-      "avatar_url": "https://avatars.githubusercontent.com/u/70589409?v=4"
-    },
-    "html_url": "https://github.com/niladrighoshal/kmspisco-v2-portable",
-    "description": "Enterprise-grade management utility for Microsoft Key Management Service (KMS) environments. Features license audit logs, host activation monitoring, and deployment orchestration for large-scale IT infrastructure.",
-    "created_at": "2026-06-15T11:24:10Z",
-    "updated_at": "2026-06-16T09:47:21Z",
-    "pushed_at": "2026-06-15T11:29:44Z",
-    "git_url": "git://github.com/niladrighoshal/kmspisco-v2-portable.git",
-    "homepage": "",
-    "size": 9,
-    "stargazers_count": 73,
-    "watchers_count": 73,
-    "language": "PowerShell",
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1270172948,
-    "name": "SeedGen-Wth-checker-2026-EVM2",
-    "owner": {
-      "id": 220811745,
-      "url": "https://api.github.com/users/CosmicAlice",
-      "html_url": "https://github.com/CosmicAlice",
-      "avatar_url": "https://avatars.githubusercontent.com/u/220811745?v=4"
-    },
-    "html_url": "https://github.com/CosmicAlice/SeedGen-Wth-checker-2026-EVM2",
-    "description": "A robust, offline-first toolkit for generating and validating BIP-39 compatible seed phrases, ensuring cryptographic security for local development and auditing.",
-    "created_at": "2026-06-15T13:05:18Z",
-    "updated_at": "2026-06-16T11:08:59Z",
-    "pushed_at": "2026-06-15T13:07:43Z",
-    "git_url": "git://github.com/CosmicAlice/SeedGen-Wth-checker-2026-EVM2.git",
-    "homepage": "",
-    "size": 12,
-    "stargazers_count": 73,
-    "watchers_count": 73,
-    "language": "C#",
     "forks_count": 0,
     "open_issues_count": 0
   },
@@ -1863,6 +1656,29 @@
     "open_issues_count": 0
   },
   {
+    "id": 1270180601,
+    "name": "CC-Gen-Checker",
+    "owner": {
+      "id": 48780803,
+      "url": "https://api.github.com/users/Jabo1209",
+      "html_url": "https://github.com/Jabo1209",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48780803?v=4"
+    },
+    "html_url": "https://github.com/Jabo1209/CC-Gen-Checker",
+    "description": "A safe and educational tool for generating and validating credit card number formats.",
+    "created_at": "2026-06-15T13:13:50Z",
+    "updated_at": "2026-06-17T10:44:56Z",
+    "pushed_at": "2026-06-15T13:17:44Z",
+    "git_url": "git://github.com/Jabo1209/CC-Gen-Checker.git",
+    "homepage": "",
+    "size": 12,
+    "stargazers_count": 72,
+    "watchers_count": 72,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
     "id": 1270089846,
     "name": "Cursor-AI-Pro-Download-2026",
     "owner": {
@@ -1909,6 +1725,29 @@
     "open_issues_count": 0
   },
   {
+    "id": 1270907018,
+    "name": "differentiable-collisions-optc",
+    "owner": {
+      "id": 922149,
+      "url": "https://api.github.com/users/macton",
+      "html_url": "https://github.com/macton",
+      "avatar_url": "https://avatars.githubusercontent.com/u/922149?v=4"
+    },
+    "html_url": "https://github.com/macton/differentiable-collisions-optc",
+    "description": null,
+    "created_at": "2026-06-16T06:45:45Z",
+    "updated_at": "2026-06-17T11:41:11Z",
+    "pushed_at": "2026-06-16T17:21:38Z",
+    "git_url": "git://github.com/macton/differentiable-collisions-optc.git",
+    "homepage": null,
+    "size": 11823,
+    "stargazers_count": 72,
+    "watchers_count": 72,
+    "language": "C",
+    "forks_count": 7,
+    "open_issues_count": 1
+  },
+  {
     "id": 1270210538,
     "name": "Tomadach-PC-2026-M2",
     "owner": {
@@ -1929,6 +1768,29 @@
     "watchers_count": 72,
     "language": "C++",
     "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1269824929,
+    "name": "antigravity-fusion-plugin",
+    "owner": {
+      "id": 65772478,
+      "url": "https://api.github.com/users/ProxyAyush",
+      "html_url": "https://github.com/ProxyAyush",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65772478?v=4"
+    },
+    "html_url": "https://github.com/ProxyAyush/antigravity-fusion-plugin",
+    "description": null,
+    "created_at": "2026-06-15T06:12:41Z",
+    "updated_at": "2026-06-17T12:11:29Z",
+    "pushed_at": "2026-06-17T04:44:50Z",
+    "git_url": "git://github.com/ProxyAyush/antigravity-fusion-plugin.git",
+    "homepage": null,
+    "size": 1345,
+    "stargazers_count": 72,
+    "watchers_count": 72,
+    "language": "JavaScript",
+    "forks_count": 1,
     "open_issues_count": 0
   },
   {
@@ -1953,29 +1815,6 @@
     "language": "C#",
     "forks_count": 0,
     "open_issues_count": 0
-  },
-  {
-    "id": 1270581524,
-    "name": "KMS-pico-M4-Latest",
-    "owner": {
-      "id": 114224836,
-      "url": "https://api.github.com/users/YD55555",
-      "html_url": "https://github.com/YD55555",
-      "avatar_url": "https://avatars.githubusercontent.com/u/114224836?v=4"
-    },
-    "html_url": "https://github.com/YD55555/KMS-pico-M4-Latest",
-    "description": "A secure, educational toolkit for understanding KMS activation, designed for lab environments.",
-    "created_at": "2026-06-15T21:20:29Z",
-    "updated_at": "2026-06-16T09:40:59Z",
-    "pushed_at": "2026-06-15T21:22:10Z",
-    "git_url": "git://github.com/YD55555/KMS-pico-M4-Latest.git",
-    "homepage": "",
-    "size": 13,
-    "stargazers_count": 71,
-    "watchers_count": 71,
-    "language": "C#",
-    "forks_count": 0,
-    "open_issues_count": 1
   },
   {
     "id": 1270230729,
@@ -2093,26 +1932,26 @@
     "open_issues_count": 0
   },
   {
-    "id": 1269824929,
-    "name": "antigravity-fusion-plugin",
+    "id": 1269340940,
+    "name": "blcaptain-style-skill",
     "owner": {
-      "id": 65772478,
-      "url": "https://api.github.com/users/ProxyAyush",
-      "html_url": "https://github.com/ProxyAyush",
-      "avatar_url": "https://avatars.githubusercontent.com/u/65772478?v=4"
+      "id": 3335877,
+      "url": "https://api.github.com/users/dososo",
+      "html_url": "https://github.com/dososo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3335877?v=4"
     },
-    "html_url": "https://github.com/ProxyAyush/antigravity-fusion-plugin",
-    "description": null,
-    "created_at": "2026-06-15T06:12:41Z",
-    "updated_at": "2026-06-17T07:48:45Z",
-    "pushed_at": "2026-06-17T04:44:50Z",
-    "git_url": "git://github.com/ProxyAyush/antigravity-fusion-plugin.git",
+    "html_url": "https://github.com/dososo/blcaptain-style-skill",
+    "description": "中文图文卡片生成 Skill：一段内容 → 海报级图文组图（小红书 3:4 / 公众号封面）。1 引擎 + 3 视觉语言（静纸 Still Paper / 实证 Signal Proof / 图桥 Bridge Canvas），智能驱动 + 独家影像配方。",
+    "created_at": "2026-06-14T15:40:21Z",
+    "updated_at": "2026-06-17T12:54:53Z",
+    "pushed_at": "2026-06-15T04:15:15Z",
+    "git_url": "git://github.com/dososo/blcaptain-style-skill.git",
     "homepage": null,
-    "size": 1345,
+    "size": 55771,
     "stargazers_count": 70,
     "watchers_count": 70,
     "language": "JavaScript",
-    "forks_count": 1,
+    "forks_count": 11,
     "open_issues_count": 0
   },
   {
@@ -2162,27 +2001,27 @@
     "open_issues_count": 0
   },
   {
-    "id": 1270907018,
-    "name": "differentiable-collisions-optc",
+    "id": 1270632270,
+    "name": "SovietExtension",
     "owner": {
-      "id": 922149,
-      "url": "https://api.github.com/users/macton",
-      "html_url": "https://github.com/macton",
-      "avatar_url": "https://avatars.githubusercontent.com/u/922149?v=4"
+      "id": 21478687,
+      "url": "https://api.github.com/users/MustangYM",
+      "html_url": "https://github.com/MustangYM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21478687?v=4"
     },
-    "html_url": "https://github.com/macton/differentiable-collisions-optc",
-    "description": null,
-    "created_at": "2026-06-16T06:45:45Z",
-    "updated_at": "2026-06-17T07:05:16Z",
-    "pushed_at": "2026-06-16T17:21:38Z",
-    "git_url": "git://github.com/macton/differentiable-collisions-optc.git",
+    "html_url": "https://github.com/MustangYM/SovietExtension",
+    "description": "A Plugin For Mac WeChat > 4.0",
+    "created_at": "2026-06-15T22:52:01Z",
+    "updated_at": "2026-06-17T11:25:43Z",
+    "pushed_at": "2026-06-17T11:25:39Z",
+    "git_url": "git://github.com/MustangYM/SovietExtension.git",
     "homepage": null,
-    "size": 11823,
-    "stargazers_count": 68,
-    "watchers_count": 68,
-    "language": "C",
-    "forks_count": 7,
-    "open_issues_count": 1
+    "size": 1939,
+    "stargazers_count": 69,
+    "watchers_count": 69,
+    "language": "Objective-C++",
+    "forks_count": 17,
+    "open_issues_count": 0
   },
   {
     "id": 1269999020,
@@ -2208,29 +2047,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1270632270,
-    "name": "SovietExtension",
-    "owner": {
-      "id": 21478687,
-      "url": "https://api.github.com/users/MustangYM",
-      "html_url": "https://github.com/MustangYM",
-      "avatar_url": "https://avatars.githubusercontent.com/u/21478687?v=4"
-    },
-    "html_url": "https://github.com/MustangYM/SovietExtension",
-    "description": "A Plugin For Mac WeChat > 4.0",
-    "created_at": "2026-06-15T22:52:01Z",
-    "updated_at": "2026-06-17T07:52:49Z",
-    "pushed_at": "2026-06-17T07:52:45Z",
-    "git_url": "git://github.com/MustangYM/SovietExtension.git",
-    "homepage": null,
-    "size": 1828,
-    "stargazers_count": 68,
-    "watchers_count": 68,
-    "language": "Objective-C++",
-    "forks_count": 16,
-    "open_issues_count": 0
-  },
-  {
     "id": 1270825943,
     "name": "ImportantCode",
     "owner": {
@@ -2242,11 +2058,11 @@
     "html_url": "https://github.com/sneakers-the-rat/ImportantCode",
     "description": "This is a repository with a lot of high profile, high prestige code in it that new programmers can make pull requests to and build their reputation",
     "created_at": "2026-06-16T04:54:39Z",
-    "updated_at": "2026-06-17T07:41:37Z",
-    "pushed_at": "2026-06-16T20:26:18Z",
+    "updated_at": "2026-06-17T11:58:10Z",
+    "pushed_at": "2026-06-17T11:58:07Z",
     "git_url": "git://github.com/sneakers-the-rat/ImportantCode.git",
     "homepage": null,
-    "size": 41,
+    "size": 85,
     "stargazers_count": 67,
     "watchers_count": 67,
     "language": "Python",
@@ -2277,26 +2093,210 @@
     "open_issues_count": 0
   },
   {
-    "id": 1270008209,
-    "name": "kahoottoolsai-desktop-app",
+    "id": 1270108133,
+    "name": "Educational_RAG_System",
     "owner": {
-      "id": 252915454,
-      "url": "https://api.github.com/users/hbraga2018-design",
-      "html_url": "https://github.com/hbraga2018-design",
-      "avatar_url": "https://avatars.githubusercontent.com/u/252915454?v=4"
+      "id": 276916375,
+      "url": "https://api.github.com/users/Happy-Chen-CH",
+      "html_url": "https://github.com/Happy-Chen-CH",
+      "avatar_url": "https://avatars.githubusercontent.com/u/276916375?v=4"
     },
-    "html_url": "https://github.com/hbraga2018-design/kahoottoolsai-desktop-app",
-    "description": "Simple and clean standalone desktop application for KahootToolsAi on Windows PC. Easily manage quizzes, study smarter, and generate educational insights with AI assistance.",
-    "created_at": "2026-06-15T09:45:32Z",
-    "updated_at": "2026-06-16T11:32:16Z",
-    "pushed_at": "2026-06-15T09:50:22Z",
-    "git_url": "git://github.com/hbraga2018-design/kahoottoolsai-desktop-app.git",
+    "html_url": "https://github.com/Happy-Chen-CH/Educational_RAG_System",
+    "description": "面向教育场景的RAG智能问答系统，融合关键词匹配与语义检索双引擎，融合MySQL和RAG技术，先经过MySQL数据库的检索(还融合了Redis辅助储存和搜索)，若无符合条件答案，则进入RAG系统，RAG知识库中的知识储存在Milvus向量数据库中",
+    "created_at": "2026-06-15T11:50:53Z",
+    "updated_at": "2026-06-17T05:11:06Z",
+    "pushed_at": "2026-06-15T11:51:02Z",
+    "git_url": "git://github.com/Happy-Chen-CH/Educational_RAG_System.git",
     "homepage": "",
-    "size": 8,
-    "stargazers_count": 66,
-    "watchers_count": 66,
-    "language": "C++",
+    "size": 5629,
+    "stargazers_count": 64,
+    "watchers_count": 64,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1270092038,
+    "name": "Unlocker-Tool-VPro-2026",
+    "owner": {
+      "id": 193001779,
+      "url": "https://api.github.com/users/rqubati",
+      "html_url": "https://github.com/rqubati",
+      "avatar_url": "https://avatars.githubusercontent.com/u/193001779?v=4"
+    },
+    "html_url": "https://github.com/rqubati/Unlocker-Tool-VPro-2026",
+    "description": "📱 Unlock Tool (uTool) - Advanced GSM utility for Android device repair, firmware flashing, and system recovery. A professional-grade solution for service centers and technicians. Easy .exe installation!",
+    "created_at": "2026-06-15T11:30:55Z",
+    "updated_at": "2026-06-16T10:33:59Z",
+    "pushed_at": "2026-06-15T11:33:05Z",
+    "git_url": "git://github.com/rqubati/Unlocker-Tool-VPro-2026.git",
+    "homepage": "",
+    "size": 9,
+    "stargazers_count": 64,
+    "watchers_count": 64,
+    "language": "C#",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1269022523,
+    "name": "Jiasuo-tools",
+    "owner": {
+      "id": 290525888,
+      "url": "https://api.github.com/users/One-JiaSuo",
+      "html_url": "https://github.com/One-JiaSuo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/290525888?v=4"
+    },
+    "html_url": "https://github.com/One-JiaSuo/Jiasuo-tools",
+    "description": "枷锁工具箱是一套面向 macOS 的安全测试工具集合，把常用的安全能力按场景整理到   一个统一入口里，覆盖信息收集、漏洞扫描、漏洞利用、中间件测试、数据库利用、   WebShell 管理和后渗透辅助。工具箱既支持图形界面，也支持通过 geshell 进行命令   行调用，并且为一部分工具提供了 AI 可调用接口，便于自动化执行、批量检查和标准   化操作。项目还针对 macOS 做了启动修复、JDK 探测、Python 依赖和 venv 管理，支   持主版本自用和分享版本分发，适合在明确授权的环境里做靶场验证、资产排查和漏洞复现。",
+    "created_at": "2026-06-14T08:01:56Z",
+    "updated_at": "2026-06-17T07:24:47Z",
+    "pushed_at": "2026-06-14T10:42:47Z",
+    "git_url": "git://github.com/One-JiaSuo/Jiasuo-tools.git",
+    "homepage": null,
+    "size": 94,
+    "stargazers_count": 64,
+    "watchers_count": 64,
+    "language": null,
+    "forks_count": 3,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1271587892,
+    "name": "code",
+    "owner": {
+      "id": 198804341,
+      "url": "https://api.github.com/users/Noumena-Network",
+      "html_url": "https://github.com/Noumena-Network",
+      "avatar_url": "https://avatars.githubusercontent.com/u/198804341?v=4"
+    },
+    "html_url": "https://github.com/Noumena-Network/code",
+    "description": "Noumena's internal version of your favorite coding tui but improved and optimized for our inference stack",
+    "created_at": "2026-06-16T20:16:50Z",
+    "updated_at": "2026-06-17T13:23:54Z",
+    "pushed_at": "2026-06-16T22:40:05Z",
+    "git_url": "git://github.com/Noumena-Network/code.git",
+    "homepage": null,
+    "size": 10311,
+    "stargazers_count": 62,
+    "watchers_count": 62,
+    "language": "TypeScript",
+    "forks_count": 17,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1270081992,
+    "name": "DrFone-Screen-Unlock-ToolKit",
+    "owner": {
+      "id": 168343516,
+      "url": "https://api.github.com/users/Mohammed-Adel56",
+      "html_url": "https://github.com/Mohammed-Adel56",
+      "avatar_url": "https://avatars.githubusercontent.com/u/168343516?v=4"
+    },
+    "html_url": "https://github.com/Mohammed-Adel56/DrFone-Screen-Unlock-ToolKit",
+    "description": "📱 Easy-to-use desktop assistant and installer for Dr.Fone Screen Unlocker on Windows. Unlock your smartphone, bypass lock screens, and restore access with a quick .exe setup.",
+    "created_at": "2026-06-15T11:17:49Z",
+    "updated_at": "2026-06-16T11:30:19Z",
+    "pushed_at": "2026-06-15T11:21:21Z",
+    "git_url": "git://github.com/Mohammed-Adel56/DrFone-Screen-Unlock-ToolKit.git",
+    "homepage": "",
+    "size": 9,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1270458925,
+    "name": "avatar-mix",
+    "owner": {
+      "id": 206099361,
+      "url": "https://api.github.com/users/Upload-Post",
+      "html_url": "https://github.com/Upload-Post",
+      "avatar_url": "https://avatars.githubusercontent.com/u/206099361?v=4"
+    },
+    "html_url": "https://github.com/Upload-Post/avatar-mix",
+    "description": "Generate 16:9 & 9:16 videos with your HeyGen avatar, animated backgrounds (HyperFrames), music, SFX and Hormozi captions — then publish them to every social network. Reusable skill.",
+    "created_at": "2026-06-15T18:25:41Z",
+    "updated_at": "2026-06-17T11:46:16Z",
+    "pushed_at": "2026-06-16T10:43:15Z",
+    "git_url": "git://github.com/Upload-Post/avatar-mix.git",
+    "homepage": null,
+    "size": 16737,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "Python",
+    "forks_count": 8,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1270001807,
+    "name": "universal-fps-tweak-26",
+    "owner": {
+      "id": 5235136,
+      "url": "https://api.github.com/users/famacer",
+      "html_url": "https://github.com/famacer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5235136?v=4"
+    },
+    "html_url": "https://github.com/famacer/universal-fps-tweak-26",
+    "description": "🚀 Easy-to-use FPS Booster and system performance optimizer for Windows. Maximize your PC capabilities, reduce lag, and get smooth gameplay in one click.",
+    "created_at": "2026-06-15T09:38:37Z",
+    "updated_at": "2026-06-16T11:33:40Z",
+    "pushed_at": "2026-06-15T09:43:59Z",
+    "git_url": "git://github.com/famacer/universal-fps-tweak-26.git",
+    "homepage": "",
+    "size": 8,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1268804183,
+    "name": "harness-forge",
+    "owner": {
+      "id": 159447266,
+      "url": "https://api.github.com/users/001TMF",
+      "html_url": "https://github.com/001TMF",
+      "avatar_url": "https://avatars.githubusercontent.com/u/159447266?v=4"
+    },
+    "html_url": "https://github.com/001TMF/harness-forge",
+    "description": "Turn Claude Code into its own Meta-Harness — a skill that evolves the scaffolding around a fixed model (memory, retrieval, context, prompts) via a native propose→score→Pareto loop. Native reimplementation of Meta-Harness (Lee et al. 2026).",
+    "created_at": "2026-06-14T00:36:07Z",
+    "updated_at": "2026-06-16T19:36:44Z",
+    "pushed_at": "2026-06-14T17:05:50Z",
+    "git_url": "git://github.com/001TMF/harness-forge.git",
+    "homepage": null,
+    "size": 148,
+    "stargazers_count": 60,
+    "watchers_count": 60,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1269273642,
+    "name": "modelharness",
+    "owner": {
+      "id": 3836912,
+      "url": "https://api.github.com/users/vitaliikapliuk",
+      "html_url": "https://github.com/vitaliikapliuk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3836912?v=4"
+    },
+    "html_url": "https://github.com/vitaliikapliuk/modelharness",
+    "description": "Make every model cheaper or better. Zero-config behavioral harness for Claude Code, with a reproducible 408-run benchmark",
+    "created_at": "2026-06-14T14:09:09Z",
+    "updated_at": "2026-06-15T18:43:01Z",
+    "pushed_at": "2026-06-14T20:14:45Z",
+    "git_url": "git://github.com/vitaliikapliuk/modelharness.git",
+    "homepage": "",
+    "size": 105,
+    "stargazers_count": 60,
+    "watchers_count": 60,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1
   }
 ]
