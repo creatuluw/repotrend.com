@@ -53013,5 +53013,51 @@
     "language": "C#",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1258389924,
+    "name": "niubi_guard",
+    "owner": {
+      "id": 186366929,
+      "url": "https://api.github.com/users/Albert-Weasker",
+      "html_url": "https://github.com/Albert-Weasker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/186366929?v=4"
+    },
+    "html_url": "https://github.com/Albert-Weasker/niubi_guard",
+    "description": "Open-source GitHub repository abuse detection and response system.",
+    "created_at": "2026-06-03T14:32:02Z",
+    "updated_at": "2026-06-16T18:36:37Z",
+    "pushed_at": "2026-06-11T11:54:56Z",
+    "git_url": "git://github.com/Albert-Weasker/niubi_guard.git",
+    "homepage": "https://www.niubistar.com/guard",
+    "size": 2332,
+    "stargazers_count": 552,
+    "watchers_count": 552,
+    "language": "TypeScript",
+    "forks_count": 145,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1270191277,
+    "name": "RL-AI-Latest",
+    "owner": {
+      "id": 285943134,
+      "url": "https://api.github.com/users/mahmoud2005byte",
+      "html_url": "https://github.com/mahmoud2005byte",
+      "avatar_url": "https://avatars.githubusercontent.com/u/285943134?v=4"
+    },
+    "html_url": "https://github.com/mahmoud2005byte/RL-AI-Latest",
+    "description": "A comprehensive development framework and logic starter for building, testing, and deploying high-performance AI bots within the RLBot ecosystem.",
+    "created_at": "2026-06-15T13:25:32Z",
+    "updated_at": "2026-06-16T11:17:17Z",
+    "pushed_at": "2026-06-15T13:27:15Z",
+    "git_url": "git://github.com/mahmoud2005byte/RL-AI-Latest.git",
+    "homepage": "",
+    "size": 11,
+    "stargazers_count": 74,
+    "watchers_count": 74,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
