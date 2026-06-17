@@ -52806,5 +52806,51 @@
     "language": "C#",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1255103294,
+    "name": "wa-app",
+    "owner": {
+      "id": 44490561,
+      "url": "https://api.github.com/users/pood1e",
+      "html_url": "https://github.com/pood1e",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44490561?v=4"
+    },
+    "html_url": "https://github.com/pood1e/wa-app",
+    "description": null,
+    "created_at": "2026-05-31T12:09:33Z",
+    "updated_at": "2026-06-16T19:05:09Z",
+    "pushed_at": "2026-06-13T15:12:57Z",
+    "git_url": "git://github.com/pood1e/wa-app.git",
+    "homepage": null,
+    "size": 1663,
+    "stargazers_count": 517,
+    "watchers_count": 517,
+    "language": "Go",
+    "forks_count": 263,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1270231654,
+    "name": "AI-Upscaler-Desktop",
+    "owner": {
+      "id": 148000955,
+      "url": "https://api.github.com/users/javiervzpz",
+      "html_url": "https://github.com/javiervzpz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148000955?v=4"
+    },
+    "html_url": "https://github.com/javiervzpz/AI-Upscaler-Desktop",
+    "description": "Enhance your visuals with a free desktop AI upscaler for images and videos.",
+    "created_at": "2026-06-15T14:08:34Z",
+    "updated_at": "2026-06-16T10:49:26Z",
+    "pushed_at": "2026-06-15T14:10:20Z",
+    "git_url": "git://github.com/javiervzpz/AI-Upscaler-Desktop.git",
+    "homepage": "",
+    "size": 13,
+    "stargazers_count": 74,
+    "watchers_count": 74,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
