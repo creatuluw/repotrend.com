@@ -53381,5 +53381,51 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 1
+  },
+  {
+    "id": 1268186785,
+    "name": "IPA-Download",
+    "owner": {
+      "id": 74881807,
+      "url": "https://api.github.com/users/EEliberto",
+      "html_url": "https://github.com/EEliberto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74881807?v=4"
+    },
+    "html_url": "https://github.com/EEliberto/IPA-Download",
+    "description": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
+    "created_at": "2026-06-13T08:32:39Z",
+    "updated_at": "2026-06-16T19:18:39Z",
+    "pushed_at": "2026-06-15T17:21:43Z",
+    "git_url": "git://github.com/EEliberto/IPA-Download.git",
+    "homepage": "",
+    "size": 67307,
+    "stargazers_count": 773,
+    "watchers_count": 773,
+    "language": "Swift",
+    "forks_count": 42,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1270237079,
+    "name": "AD-Browser-Free",
+    "owner": {
+      "id": 192977534,
+      "url": "https://api.github.com/users/veratti6",
+      "html_url": "https://github.com/veratti6",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192977534?v=4"
+    },
+    "html_url": "https://github.com/veratti6/AD-Browser-Free",
+    "description": "A secure and customizable browser environment for enhanced digital privacy and online anonymity.",
+    "created_at": "2026-06-15T14:14:10Z",
+    "updated_at": "2026-06-16T10:51:45Z",
+    "pushed_at": "2026-06-15T14:16:10Z",
+    "git_url": "git://github.com/veratti6/AD-Browser-Free.git",
+    "homepage": "",
+    "size": 12,
+    "stargazers_count": 74,
+    "watchers_count": 74,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
