@@ -53335,5 +53335,51 @@
     "language": "Python",
     "forks_count": 27,
     "open_issues_count": 1
+  },
+  {
+    "id": 1262769725,
+    "name": "xiaohu-video-translate",
+    "owner": {
+      "id": 129160475,
+      "url": "https://api.github.com/users/xiaohuailabs",
+      "html_url": "https://github.com/xiaohuailabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129160475?v=4"
+    },
+    "html_url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
+    "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+    "created_at": "2026-06-08T09:55:55Z",
+    "updated_at": "2026-06-16T16:18:13Z",
+    "pushed_at": "2026-06-08T10:24:52Z",
+    "git_url": "git://github.com/xiaohuailabs/xiaohu-video-translate.git",
+    "homepage": null,
+    "size": 357,
+    "stargazers_count": 525,
+    "watchers_count": 525,
+    "language": "Python",
+    "forks_count": 83,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1270069068,
+    "name": "AI-Voice-Mod-Pro-Studio",
+    "owner": {
+      "id": 32555249,
+      "url": "https://api.github.com/users/biolashonde",
+      "html_url": "https://github.com/biolashonde",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32555249?v=4"
+    },
+    "html_url": "https://github.com/biolashonde/AI-Voice-Mod-Pro-Studio",
+    "description": "An open-source, local AI-powered voice changer and audio enhancement utility.",
+    "created_at": "2026-06-15T11:00:53Z",
+    "updated_at": "2026-06-16T09:54:19Z",
+    "pushed_at": "2026-06-15T11:04:40Z",
+    "git_url": "git://github.com/biolashonde/AI-Voice-Mod-Pro-Studio.git",
+    "homepage": "",
+    "size": 8,
+    "stargazers_count": 74,
+    "watchers_count": 74,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 1
   }
 ]
