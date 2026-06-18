@@ -53243,5 +53243,51 @@
     "language": "C#",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1256787497,
+    "name": "fastcontext",
+    "owner": {
+      "id": 6154722,
+      "url": "https://api.github.com/users/microsoft",
+      "html_url": "https://github.com/microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+    },
+    "html_url": "https://github.com/microsoft/fastcontext",
+    "description": "FastContext: Training Efficient Repository Explorer for Coding Agents",
+    "created_at": "2026-06-02T05:01:11Z",
+    "updated_at": "2026-06-18T00:41:02Z",
+    "pushed_at": "2026-06-17T10:14:21Z",
+    "git_url": "git://github.com/microsoft/fastcontext.git",
+    "homepage": "",
+    "size": 1810,
+    "stargazers_count": 521,
+    "watchers_count": 521,
+    "language": "Python",
+    "forks_count": 24,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1270187352,
+    "name": "MineCraft-Clients-W-AND-C",
+    "owner": {
+      "id": 288028205,
+      "url": "https://api.github.com/users/khuongvandoanh1955-del",
+      "html_url": "https://github.com/khuongvandoanh1955-del",
+      "avatar_url": "https://avatars.githubusercontent.com/u/288028205?v=4"
+    },
+    "html_url": "https://github.com/khuongvandoanh1955-del/MineCraft-Clients-W-AND-C",
+    "description": "A curated collection of tools and configurations for enhancing your Minecraft experience.",
+    "created_at": "2026-06-15T13:21:17Z",
+    "updated_at": "2026-06-16T11:26:01Z",
+    "pushed_at": "2026-06-15T13:24:09Z",
+    "git_url": "git://github.com/khuongvandoanh1955-del/MineCraft-Clients-W-AND-C.git",
+    "homepage": "",
+    "size": 11,
+    "stargazers_count": 74,
+    "watchers_count": 74,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
