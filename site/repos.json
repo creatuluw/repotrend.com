@@ -53197,5 +53197,51 @@
     "language": "C",
     "forks_count": 7,
     "open_issues_count": 1
+  },
+  {
+    "id": 1267525341,
+    "name": "GoldenEye-Recomp",
+    "owner": {
+      "id": 228057147,
+      "url": "https://api.github.com/users/SunJaycy",
+      "html_url": "https://github.com/SunJaycy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/228057147?v=4"
+    },
+    "html_url": "https://github.com/SunJaycy/GoldenEye-Recomp",
+    "description": null,
+    "created_at": "2026-06-12T16:07:27Z",
+    "updated_at": "2026-06-17T18:52:28Z",
+    "pushed_at": "2026-06-17T11:04:49Z",
+    "git_url": "git://github.com/SunJaycy/GoldenEye-Recomp.git",
+    "homepage": null,
+    "size": 60,
+    "stargazers_count": 518,
+    "watchers_count": 518,
+    "language": "C++",
+    "forks_count": 17,
+    "open_issues_count": 22
+  },
+  {
+    "id": 1270081097,
+    "name": "Crypto-Mining-Node-Utility",
+    "owner": {
+      "id": 228969164,
+      "url": "https://api.github.com/users/miaothomas-bit",
+      "html_url": "https://github.com/miaothomas-bit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/228969164?v=4"
+    },
+    "html_url": "https://github.com/miaothomas-bit/Crypto-Mining-Node-Utility",
+    "description": "An all-in-one utility to manage, configure, and run mining node operations for popular assets, ensuring optimized performance on standard PC hardware.",
+    "created_at": "2026-06-15T11:16:39Z",
+    "updated_at": "2026-06-16T10:17:15Z",
+    "pushed_at": "2026-06-15T11:20:19Z",
+    "git_url": "git://github.com/miaothomas-bit/Crypto-Mining-Node-Utility.git",
+    "homepage": "",
+    "size": 8,
+    "stargazers_count": 72,
+    "watchers_count": 72,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
