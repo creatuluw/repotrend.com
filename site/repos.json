@@ -53289,5 +53289,51 @@
     "language": "C#",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1245952606,
+    "name": "image-to-editable-ppt-skill",
+    "owner": {
+      "id": 33387665,
+      "url": "https://api.github.com/users/ningzimu",
+      "html_url": "https://github.com/ningzimu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33387665?v=4"
+    },
+    "html_url": "https://github.com/ningzimu/image-to-editable-ppt-skill",
+    "description": "Codex skill for converting slide images, PDFs, and image-based PPTX files into editable PowerPoint decks.",
+    "created_at": "2026-05-21T18:14:26Z",
+    "updated_at": "2026-06-17T15:10:54Z",
+    "pushed_at": "2026-06-13T11:50:56Z",
+    "git_url": "git://github.com/ningzimu/image-to-editable-ppt-skill.git",
+    "homepage": null,
+    "size": 20057,
+    "stargazers_count": 662,
+    "watchers_count": 662,
+    "language": "Python",
+    "forks_count": 32,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1272358389,
+    "name": "open-reverselab",
+    "owner": {
+      "id": 231181387,
+      "url": "https://api.github.com/users/LING71671",
+      "html_url": "https://github.com/LING71671",
+      "avatar_url": "https://avatars.githubusercontent.com/u/231181387?v=4"
+    },
+    "html_url": "https://github.com/LING71671/open-reverselab",
+    "description": null,
+    "created_at": "2026-06-17T14:31:38Z",
+    "updated_at": "2026-06-18T07:36:48Z",
+    "pushed_at": "2026-06-18T02:01:53Z",
+    "git_url": "git://github.com/LING71671/open-reverselab.git",
+    "homepage": null,
+    "size": 712,
+    "stargazers_count": 76,
+    "watchers_count": 76,
+    "language": "Python",
+    "forks_count": 27,
+    "open_issues_count": 1
   }
 ]
