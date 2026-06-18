@@ -53427,5 +53427,51 @@
     "language": "C#",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1269794613,
+    "name": "loop-engineering-orange-book",
+    "owner": {
+      "id": 127714341,
+      "url": "https://api.github.com/users/alchaincyf",
+      "html_url": "https://github.com/alchaincyf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
+    },
+    "html_url": "https://github.com/alchaincyf/loop-engineering-orange-book",
+    "description": "别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
+    "created_at": "2026-06-15T05:27:07Z",
+    "updated_at": "2026-06-18T12:24:15Z",
+    "pushed_at": "2026-06-15T05:28:06Z",
+    "git_url": "git://github.com/alchaincyf/loop-engineering-orange-book.git",
+    "homepage": null,
+    "size": 5103,
+    "stargazers_count": 659,
+    "watchers_count": 659,
+    "language": null,
+    "forks_count": 54,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1269993049,
+    "name": "valo-ai-assistant-2026",
+    "owner": {
+      "id": 292164873,
+      "url": "https://api.github.com/users/christinetrinidad-collab",
+      "html_url": "https://github.com/christinetrinidad-collab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/292164873?v=4"
+    },
+    "html_url": "https://github.com/christinetrinidad-collab/valo-ai-assistant-2026",
+    "description": "🤖 Valorant AI Assist - Smart AI-powered gaming assistant designed to help players analyze gameplay, improve reaction time, and enhance performance in real-time. Easy setup with a single .exe file!",
+    "created_at": "2026-06-15T09:28:54Z",
+    "updated_at": "2026-06-16T11:35:03Z",
+    "pushed_at": "2026-06-15T09:32:19Z",
+    "git_url": "git://github.com/christinetrinidad-collab/valo-ai-assistant-2026.git",
+    "homepage": "",
+    "size": 9,
+    "stargazers_count": 59,
+    "watchers_count": 59,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
