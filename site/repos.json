@@ -53519,5 +53519,51 @@
     "language": "C#",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1261137494,
+    "name": "Neo3dEngine",
+    "owner": {
+      "id": 147433062,
+      "url": "https://api.github.com/users/IvanSobolev",
+      "html_url": "https://github.com/IvanSobolev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147433062?v=4"
+    },
+    "html_url": "https://github.com/IvanSobolev/Neo3dEngine",
+    "description": "A minimalist CPU-based 3D console engine in C# (.NET 8) built from scratch. Features Raycasting/Raytracing, dynamic lighting & shadows, .obj loader, and custom TCP-based multiplayer with real-time chat. No external graphics APIs.",
+    "created_at": "2026-06-06T09:33:31Z",
+    "updated_at": "2026-06-18T17:33:46Z",
+    "pushed_at": "2026-06-14T02:26:54Z",
+    "git_url": "git://github.com/IvanSobolev/Neo3dEngine.git",
+    "homepage": "https://youtu.be/vhYE882B9dE",
+    "size": 186,
+    "stargazers_count": 503,
+    "watchers_count": 503,
+    "language": "C#",
+    "forks_count": 5,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1271587892,
+    "name": "code",
+    "owner": {
+      "id": 198804341,
+      "url": "https://api.github.com/users/Noumena-Network",
+      "html_url": "https://github.com/Noumena-Network",
+      "avatar_url": "https://avatars.githubusercontent.com/u/198804341?v=4"
+    },
+    "html_url": "https://github.com/Noumena-Network/code",
+    "description": "Noumena's internal version of your favorite coding tui but improved and optimized for our inference stack",
+    "created_at": "2026-06-16T20:16:50Z",
+    "updated_at": "2026-06-19T00:47:23Z",
+    "pushed_at": "2026-06-19T00:12:32Z",
+    "git_url": "git://github.com/Noumena-Network/code.git",
+    "homepage": null,
+    "size": 10394,
+    "stargazers_count": 86,
+    "watchers_count": 86,
+    "language": "TypeScript",
+    "forks_count": 20,
+    "open_issues_count": 4
   }
 ]
