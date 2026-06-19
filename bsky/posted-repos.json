@@ -4996,5 +4996,11 @@
     "name": "claude-reforge",
     "html_url": "https://github.com/Pinperepette/claude-reforge",
     "posted_at": "2026-06-19T14:47:56.732Z"
+  },
+  {
+    "id": 1191408729,
+    "name": "turboquant-pytorch",
+    "html_url": "https://github.com/tonbistudio/turboquant-pytorch",
+    "posted_at": "2026-06-19T16:44:52.953Z"
   }
 ]
