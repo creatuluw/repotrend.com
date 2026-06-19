@@ -53772,5 +53772,51 @@
     "language": "TypeScript",
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1258607058,
+    "name": "nub",
+    "owner": {
+      "id": 6785695,
+      "url": "https://api.github.com/users/nubjs",
+      "html_url": "https://github.com/nubjs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6785695?v=4"
+    },
+    "html_url": "https://github.com/nubjs/nub",
+    "description": "The all-in-one Node.js toolkit",
+    "created_at": "2026-06-03T18:36:21Z",
+    "updated_at": "2026-06-19T07:54:36Z",
+    "pushed_at": "2026-06-19T05:59:16Z",
+    "git_url": "git://github.com/nubjs/nub.git",
+    "homepage": "https://nubjs.com",
+    "size": 8661,
+    "stargazers_count": 690,
+    "watchers_count": 690,
+    "language": "Rust",
+    "forks_count": 6,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1273505316,
+    "name": "Gothic1Remake_Trainer_v1",
+    "owner": {
+      "id": 110494282,
+      "url": "https://api.github.com/users/EstebanGitPro",
+      "html_url": "https://github.com/EstebanGitPro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110494282?v=4"
+    },
+    "html_url": "https://github.com/EstebanGitPro/Gothic1Remake_Trainer_v1",
+    "description": "Ultimate trainer and survival guide for Gothic 1 Remake: FPS fixes, best factions, Marvin Mode cheats, builds, optimization tweaks, and 20+ essential tips — all in one Python-powered tool.",
+    "created_at": "2026-06-18T15:32:33Z",
+    "updated_at": "2026-06-18T16:28:03Z",
+    "pushed_at": "2026-06-18T16:27:59Z",
+    "git_url": "git://github.com/EstebanGitPro/Gothic1Remake_Trainer_v1.git",
+    "homepage": null,
+    "size": 20,
+    "stargazers_count": 74,
+    "watchers_count": 74,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
