@@ -53818,5 +53818,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1264195214,
+    "name": "slot-text",
+    "owner": {
+      "id": 51721416,
+      "url": "https://api.github.com/users/Danilaa1",
+      "html_url": "https://github.com/Danilaa1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51721416?v=4"
+    },
+    "html_url": "https://github.com/Danilaa1/slot-text",
+    "description": "Dependency-free text roll animation for vanilla JS, React, and Vue.",
+    "created_at": "2026-06-09T16:46:40Z",
+    "updated_at": "2026-06-19T12:22:38Z",
+    "pushed_at": "2026-06-14T21:07:57Z",
+    "git_url": "git://github.com/Danilaa1/slot-text.git",
+    "homepage": "https://www.npmjs.com/package/slot-text",
+    "size": 158,
+    "stargazers_count": 729,
+    "watchers_count": 729,
+    "language": "TypeScript",
+    "forks_count": 17,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1271391588,
+    "name": "telegram_osint",
+    "owner": {
+      "id": 162650054,
+      "url": "https://api.github.com/users/DarkWebInformer",
+      "html_url": "https://github.com/DarkWebInformer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/162650054?v=4"
+    },
+    "html_url": "https://github.com/DarkWebInformer/telegram_osint",
+    "description": "Terminal-based Telegram OSINT toolkit - profile users, analyse channels, enumerate members, and search chats, with JSON/CSV/Markdown export.",
+    "created_at": "2026-06-16T16:05:04Z",
+    "updated_at": "2026-06-18T18:43:03Z",
+    "pushed_at": "2026-06-16T16:20:41Z",
+    "git_url": "git://github.com/DarkWebInformer/telegram_osint.git",
+    "homepage": null,
+    "size": 46,
+    "stargazers_count": 74,
+    "watchers_count": 74,
+    "language": "Python",
+    "forks_count": 9,
+    "open_issues_count": 0
   }
 ]
