@@ -53703,5 +53703,74 @@
     "language": "TypeScript",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1264986626,
+    "name": "improve",
+    "owner": {
+      "id": 124599,
+      "url": "https://api.github.com/users/shadcn",
+      "html_url": "https://github.com/shadcn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124599?v=4"
+    },
+    "html_url": "https://github.com/shadcn/improve",
+    "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+    "created_at": "2026-06-10T11:06:58Z",
+    "updated_at": "2026-06-19T08:01:49Z",
+    "pushed_at": "2026-06-15T06:18:39Z",
+    "git_url": "git://github.com/shadcn/improve.git",
+    "homepage": "",
+    "size": 82,
+    "stargazers_count": 5523,
+    "watchers_count": 5523,
+    "language": null,
+    "forks_count": 212,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1266923310,
+    "name": "pixel2motion",
+    "owner": {
+      "id": 64394910,
+      "url": "https://api.github.com/users/nolangz",
+      "html_url": "https://github.com/nolangz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64394910?v=4"
+    },
+    "html_url": "https://github.com/nolangz/pixel2motion",
+    "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
+    "created_at": "2026-06-12T04:25:17Z",
+    "updated_at": "2026-06-19T06:54:16Z",
+    "pushed_at": "2026-06-18T02:29:56Z",
+    "git_url": "git://github.com/nolangz/pixel2motion.git",
+    "homepage": "https://nolangz.github.io/pixel2motion/",
+    "size": 3549,
+    "stargazers_count": 806,
+    "watchers_count": 806,
+    "language": "Python",
+    "forks_count": 76,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1271954774,
+    "name": "public-apis-live",
+    "owner": {
+      "id": 144777973,
+      "url": "https://api.github.com/users/Manavarya09",
+      "html_url": "https://github.com/Manavarya09",
+      "avatar_url": "https://avatars.githubusercontent.com/u/144777973?v=4"
+    },
+    "html_url": "https://github.com/Manavarya09/public-apis-live",
+    "description": "Every public API in one place — aggregated, deduped, and auto-checked for reachability. Refreshed daily. npm + Claude plugin + live search.",
+    "created_at": "2026-06-17T06:47:04Z",
+    "updated_at": "2026-06-19T07:56:38Z",
+    "pushed_at": "2026-06-19T07:07:51Z",
+    "git_url": "git://github.com/Manavarya09/public-apis-live.git",
+    "homepage": "https://manavarya09.github.io/public-apis-live/",
+    "size": 2207,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "TypeScript",
+    "forks_count": 5,
+    "open_issues_count": 0
   }
 ]
