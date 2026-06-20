@@ -54163,5 +54163,51 @@
     "language": "Python",
     "forks_count": 13,
     "open_issues_count": 1
+  },
+  {
+    "id": 1261170027,
+    "name": "awesome-free-models",
+    "owner": {
+      "id": 3703613,
+      "url": "https://api.github.com/users/12britz",
+      "html_url": "https://github.com/12britz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3703613?v=4"
+    },
+    "html_url": "https://github.com/12britz/awesome-free-models",
+    "description": "A curated list of free AI models, APIs, and tools you can use without paying a cent.",
+    "created_at": "2026-06-06T10:30:50Z",
+    "updated_at": "2026-06-19T18:42:30Z",
+    "pushed_at": "2026-06-19T18:14:20Z",
+    "git_url": "git://github.com/12britz/awesome-free-models.git",
+    "homepage": null,
+    "size": 189,
+    "stargazers_count": 586,
+    "watchers_count": 586,
+    "language": null,
+    "forks_count": 39,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1273631156,
+    "name": "Cubase-2026",
+    "owner": {
+      "id": 292286008,
+      "url": "https://api.github.com/users/StuccoMareSack",
+      "html_url": "https://github.com/StuccoMareSack",
+      "avatar_url": "https://avatars.githubusercontent.com/u/292286008?v=4"
+    },
+    "html_url": "https://github.com/StuccoMareSack/Cubase-2026",
+    "description": "Steinberg Cubase workflow — track templates, VST organization and stem export on Windows.",
+    "created_at": "2026-06-18T18:01:19Z",
+    "updated_at": "2026-06-19T21:40:39Z",
+    "pushed_at": "2026-06-18T18:01:31Z",
+    "git_url": "git://github.com/StuccoMareSack/Cubase-2026.git",
+    "homepage": null,
+    "size": 1,
+    "stargazers_count": 86,
+    "watchers_count": 86,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
