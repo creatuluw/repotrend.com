@@ -54117,5 +54117,51 @@
     "language": "Python",
     "forks_count": 8,
     "open_issues_count": 0
+  },
+  {
+    "id": 1258705733,
+    "name": "usbliter8",
+    "owner": {
+      "id": 290498293,
+      "url": "https://api.github.com/users/prdgmshift",
+      "html_url": "https://github.com/prdgmshift",
+      "avatar_url": "https://avatars.githubusercontent.com/u/290498293?v=4"
+    },
+    "html_url": "https://github.com/prdgmshift/usbliter8",
+    "description": "An A12/A13 SecureROM exploit",
+    "created_at": "2026-06-03T20:53:53Z",
+    "updated_at": "2026-06-19T18:32:22Z",
+    "pushed_at": "2026-06-18T12:30:50Z",
+    "git_url": "git://github.com/prdgmshift/usbliter8.git",
+    "homepage": "https://ps.tc/pages/blog-usbliter8.html",
+    "size": 59,
+    "stargazers_count": 579,
+    "watchers_count": 579,
+    "language": "C",
+    "forks_count": 58,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1270787191,
+    "name": "skills",
+    "owner": {
+      "id": 51238458,
+      "url": "https://api.github.com/users/twhsi",
+      "html_url": "https://github.com/twhsi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51238458?v=4"
+    },
+    "html_url": "https://github.com/twhsi/skills",
+    "description": "Yonghsi Agent Skill library for Codex workflows",
+    "created_at": "2026-06-16T03:46:53Z",
+    "updated_at": "2026-06-19T16:05:03Z",
+    "pushed_at": "2026-06-18T10:47:56Z",
+    "git_url": "git://github.com/twhsi/skills.git",
+    "homepage": null,
+    "size": 1194,
+    "stargazers_count": 79,
+    "watchers_count": 79,
+    "language": "Python",
+    "forks_count": 13,
+    "open_issues_count": 1
   }
 ]
