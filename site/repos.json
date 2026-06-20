@@ -54071,5 +54071,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1243053620,
+    "name": "openai-plus-vxt",
+    "owner": {
+      "id": 24966534,
+      "url": "https://api.github.com/users/suyancc",
+      "html_url": "https://github.com/suyancc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24966534?v=4"
+    },
+    "html_url": "https://github.com/suyancc/openai-plus-vxt",
+    "description": "一个基于 WXT 的浏览器插件，用于辅助 ChatGPT 注册、Checkout 链接提取、随机地址资料生成，以及 OpenAI/PayPal 支付页资料自动填写。",
+    "created_at": "2026-05-19T02:24:31Z",
+    "updated_at": "2026-06-18T14:00:04Z",
+    "pushed_at": "2026-06-05T11:21:38Z",
+    "git_url": "git://github.com/suyancc/openai-plus-vxt.git",
+    "homepage": "",
+    "size": 2085,
+    "stargazers_count": 493,
+    "watchers_count": 493,
+    "language": "TypeScript",
+    "forks_count": 133,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1271479215,
+    "name": "CVE-2026-41940-PoC",
+    "owner": {
+      "id": 58261397,
+      "url": "https://api.github.com/users/clsmight",
+      "html_url": "https://github.com/clsmight",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58261397?v=4"
+    },
+    "html_url": "https://github.com/clsmight/CVE-2026-41940-PoC",
+    "description": "CVE-2026-41940 exploitation proof-of-concept project",
+    "created_at": "2026-06-16T17:49:03Z",
+    "updated_at": "2026-06-19T16:04:56Z",
+    "pushed_at": "2026-06-16T17:50:00Z",
+    "git_url": "git://github.com/clsmight/CVE-2026-41940-PoC.git",
+    "homepage": "",
+    "size": 11,
+    "stargazers_count": 62,
+    "watchers_count": 62,
+    "language": "Python",
+    "forks_count": 8,
+    "open_issues_count": 0
   }
 ]
