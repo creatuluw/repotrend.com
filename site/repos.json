@@ -54025,5 +54025,51 @@
     "language": "JavaScript",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1266125334,
+    "name": "testsprite-cli",
+    "owner": {
+      "id": 170984515,
+      "url": "https://api.github.com/users/TestSprite",
+      "html_url": "https://github.com/TestSprite",
+      "avatar_url": "https://avatars.githubusercontent.com/u/170984515?v=4"
+    },
+    "html_url": "https://github.com/TestSprite/testsprite-cli",
+    "description": "Official TestSprite CLI — AI-powered automated testing from your terminal",
+    "created_at": "2026-06-11T10:44:15Z",
+    "updated_at": "2026-06-20T00:45:20Z",
+    "pushed_at": "2026-06-13T01:07:02Z",
+    "git_url": "git://github.com/TestSprite/testsprite-cli.git",
+    "homepage": "https://www.testsprite.com",
+    "size": 548,
+    "stargazers_count": 537,
+    "watchers_count": 537,
+    "language": "TypeScript",
+    "forks_count": 23,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1273491773,
+    "name": "Gothic1Remake_Trainer",
+    "owner": {
+      "id": 110494282,
+      "url": "https://api.github.com/users/EstebanGitPro",
+      "html_url": "https://github.com/EstebanGitPro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110494282?v=4"
+    },
+    "html_url": "https://github.com/EstebanGitPro/Gothic1Remake_Trainer",
+    "description": "Ultimate trainer and survival guide for Gothic 1 Remake: FPS fixes, best factions, Marvin Mode cheats, builds, optimization tweaks, and 20+ essential tips — all in one Python-powered tool.",
+    "created_at": "2026-06-18T15:17:49Z",
+    "updated_at": "2026-06-18T16:28:14Z",
+    "pushed_at": "2026-06-18T16:28:01Z",
+    "git_url": "git://github.com/EstebanGitPro/Gothic1Remake_Trainer.git",
+    "homepage": null,
+    "size": 20,
+    "stargazers_count": 72,
+    "watchers_count": 72,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
