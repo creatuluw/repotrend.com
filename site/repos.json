@@ -53933,5 +53933,51 @@
     "language": "Batchfile",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1256616890,
+    "name": "burner-agents",
+    "owner": {
+      "id": 156494645,
+      "url": "https://api.github.com/users/NotPBShaw",
+      "html_url": "https://github.com/NotPBShaw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/156494645?v=4"
+    },
+    "html_url": "https://github.com/NotPBShaw/burner-agents",
+    "description": "A swarm of disposable agents for unattributable web interaction. The user never acts on the web directly, delegating instead to agents that are destroyed on completion, leaving nothing that leads back.",
+    "created_at": "2026-06-02T00:17:34Z",
+    "updated_at": "2026-06-18T17:00:38Z",
+    "pushed_at": "2026-06-16T00:07:48Z",
+    "git_url": "git://github.com/NotPBShaw/burner-agents.git",
+    "homepage": "https://www.burneragents.com",
+    "size": 266,
+    "stargazers_count": 551,
+    "watchers_count": 551,
+    "language": "Python",
+    "forks_count": 21,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1271020987,
+    "name": "solana-copy-trading-bot",
+    "owner": {
+      "id": 293940140,
+      "url": "https://api.github.com/users/lescasinos",
+      "html_url": "https://github.com/lescasinos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/293940140?v=4"
+    },
+    "html_url": "https://github.com/lescasinos/solana-copy-trading-bot",
+    "description": "solana copy trading bot to track leader wallet with Geyser and MEV-aware submission",
+    "created_at": "2026-06-16T09:02:08Z",
+    "updated_at": "2026-06-18T21:40:25Z",
+    "pushed_at": "2026-06-17T15:32:12Z",
+    "git_url": "git://github.com/lescasinos/solana-copy-trading-bot.git",
+    "homepage": "",
+    "size": 300,
+    "stargazers_count": 93,
+    "watchers_count": 93,
+    "language": "TypeScript",
+    "forks_count": 1068,
+    "open_issues_count": 0
   }
 ]
