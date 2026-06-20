@@ -1,26 +1,26 @@
 [
   {
-    "id": 1272599472,
-    "name": "Silent-Crypto-Miner",
+    "id": 1272390456,
+    "name": "einvoice",
     "owner": {
-      "id": 244818349,
-      "url": "https://api.github.com/users/Verdi38",
-      "html_url": "https://github.com/Verdi38",
-      "avatar_url": "https://avatars.githubusercontent.com/u/244818349?v=4"
+      "id": 256482458,
+      "url": "https://api.github.com/users/paid-tw",
+      "html_url": "https://github.com/paid-tw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/256482458?v=4"
     },
-    "html_url": "https://github.com/Verdi38/Silent-Crypto-Miner",
-    "description": "Cryptocurrency mining toolkit with multi-algorithm CPU/GPU support, resource management, thermal throttling, activity-based pausing, scheduled mining, pool failover, hashrate optimization, real-time monitoring, and cross-platform builds for Windows, Linux, and macOS. Supports XMR, ETC, KAS, RVN, ERG, and BTG mining workflows.",
-    "created_at": "2026-06-17T19:10:00Z",
-    "updated_at": "2026-06-19T09:54:32Z",
-    "pushed_at": "2026-06-17T19:16:27Z",
-    "git_url": "git://github.com/Verdi38/Silent-Crypto-Miner.git",
-    "homepage": "",
-    "size": 11022,
+    "html_url": "https://github.com/paid-tw/einvoice",
+    "description": "台灣電子發票統一 SDK：一套與供應商無關的介面，支援 Amego、ECPay 綠界、ezPay 藍新與財政部平台。Unified e-invoice (電子發票) SDK for Taiwan — one interface, multiple providers.",
+    "created_at": "2026-06-17T15:04:51Z",
+    "updated_at": "2026-06-20T06:30:33Z",
+    "pushed_at": "2026-06-18T22:23:56Z",
+    "git_url": "git://github.com/paid-tw/einvoice.git",
+    "homepage": "https://www.npmjs.com/package/@paid-tw/einvoice",
+    "size": 1101,
     "stargazers_count": 96,
     "watchers_count": 96,
-    "language": "Python",
-    "forks_count": 22,
-    "open_issues_count": 1
+    "language": "TypeScript",
+    "forks_count": 13,
+    "open_issues_count": 0
   },
   {
     "id": 1272639331,
@@ -88,30 +88,7 @@
     "stargazers_count": 93,
     "watchers_count": 93,
     "language": "TypeScript",
-    "forks_count": 845,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1272390456,
-    "name": "einvoice",
-    "owner": {
-      "id": 256482458,
-      "url": "https://api.github.com/users/paid-tw",
-      "html_url": "https://github.com/paid-tw",
-      "avatar_url": "https://avatars.githubusercontent.com/u/256482458?v=4"
-    },
-    "html_url": "https://github.com/paid-tw/einvoice",
-    "description": "台灣電子發票統一 SDK：一套與供應商無關的介面，支援 Amego、ECPay 綠界、ezPay 藍新與財政部平台。Unified e-invoice (電子發票) SDK for Taiwan — one interface, multiple providers.",
-    "created_at": "2026-06-17T15:04:51Z",
-    "updated_at": "2026-06-19T22:06:45Z",
-    "pushed_at": "2026-06-18T22:23:56Z",
-    "git_url": "git://github.com/paid-tw/einvoice.git",
-    "homepage": "https://www.npmjs.com/package/@paid-tw/einvoice",
-    "size": 1101,
-    "stargazers_count": 92,
-    "watchers_count": 92,
-    "language": "TypeScript",
-    "forks_count": 12,
+    "forks_count": 932,
     "open_issues_count": 0
   },
   {
@@ -157,29 +134,6 @@
     "stargazers_count": 91,
     "watchers_count": 91,
     "language": null,
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1271847688,
-    "name": "Phoebe-Hub",
-    "owner": {
-      "id": 184828103,
-      "url": "https://api.github.com/users/Kato-Shoko705",
-      "html_url": "https://github.com/Kato-Shoko705",
-      "avatar_url": "https://avatars.githubusercontent.com/u/184828103?v=4"
-    },
-    "html_url": "https://github.com/Kato-Shoko705/Phoebe-Hub",
-    "description": "全球最可爱的鸣潮角色菲比表情包收集站",
-    "created_at": "2026-06-17T04:16:05Z",
-    "updated_at": "2026-06-19T22:29:49Z",
-    "pushed_at": "2026-06-18T04:53:18Z",
-    "git_url": "git://github.com/Kato-Shoko705/Phoebe-Hub.git",
-    "homepage": null,
-    "size": 1371,
-    "stargazers_count": 91,
-    "watchers_count": 91,
-    "language": "JavaScript",
     "forks_count": 0,
     "open_issues_count": 0
   },
@@ -253,6 +207,29 @@
     "open_issues_count": 0
   },
   {
+    "id": 1271972411,
+    "name": "2FA",
+    "owner": {
+      "id": 17766736,
+      "url": "https://api.github.com/users/zeropl",
+      "html_url": "https://github.com/zeropl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17766736?v=4"
+    },
+    "html_url": "https://github.com/zeropl/2FA",
+    "description": "Easy2FA turns a 2FA secret into its live 6-digit code, entirely in your browser. There's no server, no sign-up, and no database — each \"account\" is just a bookmarkable URL with the secret in its #fragment (which browsers never send over the network).",
+    "created_at": "2026-06-17T07:08:24Z",
+    "updated_at": "2026-06-20T07:25:20Z",
+    "pushed_at": "2026-06-20T01:34:10Z",
+    "git_url": "git://github.com/zeropl/2FA.git",
+    "homepage": "",
+    "size": 2941,
+    "stargazers_count": 89,
+    "watchers_count": 89,
+    "language": "HTML",
+    "forks_count": 7,
+    "open_issues_count": 1
+  },
+  {
     "id": 1273632258,
     "name": "ExitLag-2026",
     "owner": {
@@ -319,6 +296,29 @@
     "watchers_count": 89,
     "language": null,
     "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1271954774,
+    "name": "public-apis-live",
+    "owner": {
+      "id": 144777973,
+      "url": "https://api.github.com/users/Manavarya09",
+      "html_url": "https://github.com/Manavarya09",
+      "avatar_url": "https://avatars.githubusercontent.com/u/144777973?v=4"
+    },
+    "html_url": "https://github.com/Manavarya09/public-apis-live",
+    "description": "Every public API in one place — aggregated, deduped, and auto-checked for reachability. Refreshed daily. npm + Claude plugin + live search.",
+    "created_at": "2026-06-17T06:47:04Z",
+    "updated_at": "2026-06-20T05:26:44Z",
+    "pushed_at": "2026-06-19T16:34:53Z",
+    "git_url": "git://github.com/Manavarya09/public-apis-live.git",
+    "homepage": "https://manavarya09.github.io/public-apis-live/",
+    "size": 2883,
+    "stargazers_count": 88,
+    "watchers_count": 88,
+    "language": "TypeScript",
+    "forks_count": 7,
     "open_issues_count": 0
   },
   {
@@ -690,29 +690,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1271954774,
-    "name": "public-apis-live",
-    "owner": {
-      "id": 144777973,
-      "url": "https://api.github.com/users/Manavarya09",
-      "html_url": "https://github.com/Manavarya09",
-      "avatar_url": "https://avatars.githubusercontent.com/u/144777973?v=4"
-    },
-    "html_url": "https://github.com/Manavarya09/public-apis-live",
-    "description": "Every public API in one place — aggregated, deduped, and auto-checked for reachability. Refreshed daily. npm + Claude plugin + live search.",
-    "created_at": "2026-06-17T06:47:04Z",
-    "updated_at": "2026-06-20T00:52:20Z",
-    "pushed_at": "2026-06-19T16:34:53Z",
-    "git_url": "git://github.com/Manavarya09/public-apis-live.git",
-    "homepage": "https://manavarya09.github.io/public-apis-live/",
-    "size": 2883,
-    "stargazers_count": 84,
-    "watchers_count": 84,
-    "language": "TypeScript",
-    "forks_count": 7,
-    "open_issues_count": 0
-  },
-  {
     "id": 1273631948,
     "name": "Disk-Drill-2026",
     "owner": {
@@ -897,29 +874,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1271972411,
-    "name": "2FA",
-    "owner": {
-      "id": 17766736,
-      "url": "https://api.github.com/users/zeropl",
-      "html_url": "https://github.com/zeropl",
-      "avatar_url": "https://avatars.githubusercontent.com/u/17766736?v=4"
-    },
-    "html_url": "https://github.com/zeropl/2FA",
-    "description": "Easy2FA turns a 2FA secret into its live 6-digit code, entirely in your browser. There's no server, no sign-up, and no database — each \"account\" is just a bookmarkable URL with the secret in its #fragment (which browsers never send over the network).",
-    "created_at": "2026-06-17T07:08:24Z",
-    "updated_at": "2026-06-20T00:09:25Z",
-    "pushed_at": "2026-06-17T10:26:59Z",
-    "git_url": "git://github.com/zeropl/2FA.git",
-    "homepage": "",
-    "size": 2926,
-    "stargazers_count": 81,
-    "watchers_count": 81,
-    "language": "HTML",
-    "forks_count": 7,
-    "open_issues_count": 1
-  },
-  {
     "id": 1272567231,
     "name": "zm-auto",
     "owner": {
@@ -931,16 +885,62 @@
     "html_url": "https://github.com/dikar97/zm-auto",
     "description": null,
     "created_at": "2026-06-17T18:27:55Z",
-    "updated_at": "2026-06-19T18:11:53Z",
+    "updated_at": "2026-06-20T03:59:29Z",
     "pushed_at": "2026-06-18T15:08:52Z",
     "git_url": "git://github.com/dikar97/zm-auto.git",
     "homepage": null,
     "size": 36,
+    "stargazers_count": 81,
+    "watchers_count": 81,
+    "language": "Python",
+    "forks_count": 40,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1272443375,
+    "name": "warashi",
+    "owner": {
+      "id": 76087819,
+      "url": "https://api.github.com/users/inni918",
+      "html_url": "https://github.com/inni918",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76087819?v=4"
+    },
+    "html_url": "https://github.com/inni918/warashi",
+    "description": "Warashi — a free, open-source desktop AI companion with a Live2D avatar, voice chat, long-term memory, and proactive conversation.",
+    "created_at": "2026-06-17T16:02:43Z",
+    "updated_at": "2026-06-20T05:33:11Z",
+    "pushed_at": "2026-06-19T19:31:13Z",
+    "git_url": "git://github.com/inni918/warashi.git",
+    "homepage": null,
+    "size": 47409,
+    "stargazers_count": 80,
+    "watchers_count": 80,
+    "language": "Python",
+    "forks_count": 11,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1273379460,
+    "name": "awesome-images",
+    "owner": {
+      "id": 294825184,
+      "url": "https://api.github.com/users/flatkey-ai",
+      "html_url": "https://github.com/flatkey-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/294825184?v=4"
+    },
+    "html_url": "https://github.com/flatkey-ai/awesome-images",
+    "description": "Try flatkey.ai for 40% saving! Generate practical images ready for all your work needs!!!",
+    "created_at": "2026-06-18T13:17:13Z",
+    "updated_at": "2026-06-20T06:06:18Z",
+    "pushed_at": "2026-06-19T08:52:08Z",
+    "git_url": "git://github.com/flatkey-ai/awesome-images.git",
+    "homepage": "https://flatkey.ai?utm_source=github&utm_medium=awesome_images",
+    "size": 14442,
     "stargazers_count": 79,
     "watchers_count": 79,
-    "language": "Python",
-    "forks_count": 39,
-    "open_issues_count": 0
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 1
   },
   {
     "id": 1273639662,
@@ -966,27 +966,27 @@
     "open_issues_count": 0
   },
   {
-    "id": 1273379460,
-    "name": "awesome-images",
+    "id": 1273700123,
+    "name": "StikPair",
     "owner": {
-      "id": 294825184,
-      "url": "https://api.github.com/users/flatkey-ai",
-      "html_url": "https://github.com/flatkey-ai",
-      "avatar_url": "https://avatars.githubusercontent.com/u/294825184?v=4"
+      "id": 158498287,
+      "url": "https://api.github.com/users/StephenDev0",
+      "html_url": "https://github.com/StephenDev0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/158498287?v=4"
     },
-    "html_url": "https://github.com/flatkey-ai/awesome-images",
-    "description": "Try flatkey.ai for 40% saving! Generate practical images ready for all your work needs!!!",
-    "created_at": "2026-06-18T13:17:13Z",
-    "updated_at": "2026-06-19T17:49:12Z",
-    "pushed_at": "2026-06-19T08:52:08Z",
-    "git_url": "git://github.com/flatkey-ai/awesome-images.git",
-    "homepage": "https://flatkey.ai?utm_source=github&utm_medium=awesome_images",
-    "size": 14442,
-    "stargazers_count": 76,
-    "watchers_count": 76,
-    "language": "JavaScript",
-    "forks_count": 0,
-    "open_issues_count": 0
+    "html_url": "https://github.com/StephenDev0/StikPair",
+    "description": "A simple SwiftUI iOS app that creates a pairing file on-device.",
+    "created_at": "2026-06-18T19:33:48Z",
+    "updated_at": "2026-06-20T06:27:28Z",
+    "pushed_at": "2026-06-19T13:11:21Z",
+    "git_url": "git://github.com/StephenDev0/StikPair.git",
+    "homepage": null,
+    "size": 2802,
+    "stargazers_count": 79,
+    "watchers_count": 79,
+    "language": "Swift",
+    "forks_count": 2,
+    "open_issues_count": 2
   },
   {
     "id": 1273505316,
@@ -1058,29 +1058,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1272443375,
-    "name": "warashi",
-    "owner": {
-      "id": 76087819,
-      "url": "https://api.github.com/users/inni918",
-      "html_url": "https://github.com/inni918",
-      "avatar_url": "https://avatars.githubusercontent.com/u/76087819?v=4"
-    },
-    "html_url": "https://github.com/inni918/warashi",
-    "description": "Warashi — a free, open-source desktop AI companion with a Live2D avatar, voice chat, long-term memory, and proactive conversation.",
-    "created_at": "2026-06-17T16:02:43Z",
-    "updated_at": "2026-06-20T00:37:55Z",
-    "pushed_at": "2026-06-19T19:31:13Z",
-    "git_url": "git://github.com/inni918/warashi.git",
-    "homepage": null,
-    "size": 47409,
-    "stargazers_count": 73,
-    "watchers_count": 73,
-    "language": "Python",
-    "forks_count": 10,
-    "open_issues_count": 0
-  },
-  {
     "id": 1273585047,
     "name": "auto-2026",
     "owner": {
@@ -1125,29 +1102,6 @@
     "language": "C#",
     "forks_count": 0,
     "open_issues_count": 0
-  },
-  {
-    "id": 1273700123,
-    "name": "StikPair",
-    "owner": {
-      "id": 158498287,
-      "url": "https://api.github.com/users/StephenDev0",
-      "html_url": "https://github.com/StephenDev0",
-      "avatar_url": "https://avatars.githubusercontent.com/u/158498287?v=4"
-    },
-    "html_url": "https://github.com/StephenDev0/StikPair",
-    "description": "A simple SwiftUI iOS app that creates a pairing file on-device.",
-    "created_at": "2026-06-18T19:33:48Z",
-    "updated_at": "2026-06-20T00:54:31Z",
-    "pushed_at": "2026-06-19T13:11:21Z",
-    "git_url": "git://github.com/StephenDev0/StikPair.git",
-    "homepage": null,
-    "size": 2802,
-    "stargazers_count": 73,
-    "watchers_count": 73,
-    "language": "Swift",
-    "forks_count": 2,
-    "open_issues_count": 2
   },
   {
     "id": 1273491773,
@@ -1334,6 +1288,29 @@
     "open_issues_count": 0
   },
   {
+    "id": 1273707469,
+    "name": "looper",
+    "owner": {
+      "id": 16635828,
+      "url": "https://api.github.com/users/ksimback",
+      "html_url": "https://github.com/ksimback",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16635828?v=4"
+    },
+    "html_url": "https://github.com/ksimback/looper",
+    "description": "Design visual, review-gated agent loops for Claude Code before you run them.",
+    "created_at": "2026-06-18T19:44:20Z",
+    "updated_at": "2026-06-20T06:14:24Z",
+    "pushed_at": "2026-06-19T07:30:10Z",
+    "git_url": "git://github.com/ksimback/looper.git",
+    "homepage": null,
+    "size": 191,
+    "stargazers_count": 70,
+    "watchers_count": 70,
+    "language": "Python",
+    "forks_count": 8,
+    "open_issues_count": 0
+  },
+  {
     "id": 1273505274,
     "name": "Gothic1Remake_Trainer_v1",
     "owner": {
@@ -1400,6 +1377,75 @@
     "watchers_count": 70,
     "language": null,
     "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1273427276,
+    "name": "security-audit-skill",
+    "owner": {
+      "id": 314135,
+      "url": "https://api.github.com/users/cloudflare",
+      "html_url": "https://github.com/cloudflare",
+      "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
+    },
+    "html_url": "https://github.com/cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "created_at": "2026-06-18T14:08:44Z",
+    "updated_at": "2026-06-20T07:10:46Z",
+    "pushed_at": "2026-06-18T16:21:39Z",
+    "git_url": "git://github.com/cloudflare/security-audit-skill.git",
+    "homepage": "",
+    "size": 24,
+    "stargazers_count": 68,
+    "watchers_count": 68,
+    "language": "JavaScript",
+    "forks_count": 3,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1274233254,
+    "name": "HackRFOneSegTuner",
+    "owner": {
+      "id": 40730787,
+      "url": "https://api.github.com/users/Iwancof",
+      "html_url": "https://github.com/Iwancof",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40730787?v=4"
+    },
+    "html_url": "https://github.com/Iwancof/HackRFOneSegTuner",
+    "description": null,
+    "created_at": "2026-06-19T09:59:57Z",
+    "updated_at": "2026-06-20T07:24:09Z",
+    "pushed_at": "2026-06-19T10:02:38Z",
+    "git_url": "git://github.com/Iwancof/HackRFOneSegTuner.git",
+    "homepage": null,
+    "size": 265,
+    "stargazers_count": 67,
+    "watchers_count": 67,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1271859897,
+    "name": "-Football-Match-Deep-Analysis-Skillv2",
+    "owner": {
+      "id": 153257708,
+      "url": "https://api.github.com/users/timepatience",
+      "html_url": "https://github.com/timepatience",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153257708?v=4"
+    },
+    "html_url": "https://github.com/timepatience/-Football-Match-Deep-Analysis-Skillv2",
+    "description": null,
+    "created_at": "2026-06-17T04:34:27Z",
+    "updated_at": "2026-06-20T07:21:49Z",
+    "pushed_at": "2026-06-17T11:38:02Z",
+    "git_url": "git://github.com/timepatience/-Football-Match-Deep-Analysis-Skillv2.git",
+    "homepage": null,
+    "size": 32,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": null,
+    "forks_count": 6,
     "open_issues_count": 0
   },
   {
@@ -1481,7 +1527,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/282475405?v=4"
     },
     "html_url": "https://github.com/frtghyujkiolsas-lab/ai-sdd",
-    "description": "AI智能工牌生成系统：上传生活照，自动标准化证件照并��成企业工牌 PNG。",
+    "description": "AI智能工牌生成系统：上传生活照，自动标准化证件照并合成企业工牌 PNG。",
     "created_at": "2026-06-17T15:17:17Z",
     "updated_at": "2026-06-19T21:44:50Z",
     "pushed_at": "2026-06-19T14:03:13Z",
@@ -1552,13 +1598,13 @@
     "html_url": "https://github.com/joeseesun/poster-studio",
     "description": "乔木画布：小红书封面、知识卡片和社媒海报设计工作台 | Browser poster studio for Xiaohongshu covers and social graphics.",
     "created_at": "2026-06-17T17:18:35Z",
-    "updated_at": "2026-06-19T21:21:13Z",
+    "updated_at": "2026-06-20T04:32:38Z",
     "pushed_at": "2026-06-18T07:29:54Z",
     "git_url": "git://github.com/joeseesun/poster-studio.git",
     "homepage": "https://ps.qiaomu.ai",
     "size": 15936,
-    "stargazers_count": 63,
-    "watchers_count": 63,
+    "stargazers_count": 64,
+    "watchers_count": 64,
     "language": "TypeScript",
     "forks_count": 28,
     "open_issues_count": 5
@@ -1575,13 +1621,13 @@
     "html_url": "https://github.com/nzaki-dev/dialog",
     "description": "the dialog.org website plain html of 16 Jun 2026",
     "created_at": "2026-06-17T05:40:04Z",
-    "updated_at": "2026-06-19T23:17:31Z",
+    "updated_at": "2026-06-20T02:23:25Z",
     "pushed_at": "2026-06-17T21:19:23Z",
     "git_url": "git://github.com/nzaki-dev/dialog.git",
     "homepage": null,
     "size": 27,
-    "stargazers_count": 60,
-    "watchers_count": 60,
+    "stargazers_count": 62,
+    "watchers_count": 62,
     "language": "HTML",
     "forks_count": 15,
     "open_issues_count": 1
@@ -1633,26 +1679,49 @@
     "open_issues_count": 0
   },
   {
-    "id": 1271859897,
-    "name": "-Football-Match-Deep-Analysis-Skillv2",
+    "id": 1272942359,
+    "name": "sonic-topography",
     "owner": {
-      "id": 153257708,
-      "url": "https://api.github.com/users/timepatience",
-      "html_url": "https://github.com/timepatience",
-      "avatar_url": "https://avatars.githubusercontent.com/u/153257708?v=4"
+      "id": 236021157,
+      "url": "https://api.github.com/users/yin-yizhen",
+      "html_url": "https://github.com/yin-yizhen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/236021157?v=4"
     },
-    "html_url": "https://github.com/timepatience/-Football-Match-Deep-Analysis-Skillv2",
-    "description": null,
-    "created_at": "2026-06-17T04:34:27Z",
-    "updated_at": "2026-06-19T18:23:43Z",
-    "pushed_at": "2026-06-17T11:38:02Z",
-    "git_url": "git://github.com/timepatience/-Football-Match-Deep-Analysis-Skillv2.git",
+    "html_url": "https://github.com/yin-yizhen/sonic-topography",
+    "description": "随音乐产生交互的棋盘式海浪，支持网易云搜索",
+    "created_at": "2026-06-18T04:26:20Z",
+    "updated_at": "2026-06-20T06:47:43Z",
+    "pushed_at": "2026-06-18T05:17:02Z",
+    "git_url": "git://github.com/yin-yizhen/sonic-topography.git",
     "homepage": null,
-    "size": 32,
-    "stargazers_count": 56,
-    "watchers_count": 56,
-    "language": null,
-    "forks_count": 4,
+    "size": 8195,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "TypeScript",
+    "forks_count": 13,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1273116225,
+    "name": "mcp-trust-plane",
+    "owner": {
+      "id": 121275274,
+      "url": "https://api.github.com/users/abluva-research",
+      "html_url": "https://github.com/abluva-research",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121275274?v=4"
+    },
+    "html_url": "https://github.com/abluva-research/mcp-trust-plane",
+    "description": null,
+    "created_at": "2026-06-18T08:14:29Z",
+    "updated_at": "2026-06-20T06:41:19Z",
+    "pushed_at": "2026-06-19T14:25:55Z",
+    "git_url": "git://github.com/abluva-research/mcp-trust-plane.git",
+    "homepage": null,
+    "size": 151,
+    "stargazers_count": 55,
+    "watchers_count": 55,
+    "language": "JavaScript",
+    "forks_count": 11,
     "open_issues_count": 0
   },
   {
@@ -1679,29 +1748,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1273707469,
-    "name": "looper",
-    "owner": {
-      "id": 16635828,
-      "url": "https://api.github.com/users/ksimback",
-      "html_url": "https://github.com/ksimback",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16635828?v=4"
-    },
-    "html_url": "https://github.com/ksimback/looper",
-    "description": "Design visual, review-gated agent loops for Claude Code before you run them.",
-    "created_at": "2026-06-18T19:44:20Z",
-    "updated_at": "2026-06-20T00:53:17Z",
-    "pushed_at": "2026-06-19T07:30:10Z",
-    "git_url": "git://github.com/ksimback/looper.git",
-    "homepage": null,
-    "size": 191,
-    "stargazers_count": 54,
-    "watchers_count": 54,
-    "language": "Python",
-    "forks_count": 4,
-    "open_issues_count": 0
-  },
-  {
     "id": 1272899616,
     "name": "cde-dotnetcc",
     "owner": {
@@ -1725,26 +1771,26 @@
     "open_issues_count": 0
   },
   {
-    "id": 1273116225,
-    "name": "mcp-trust-plane",
+    "id": 1273397750,
+    "name": "tafeng",
     "owner": {
-      "id": 121275274,
-      "url": "https://api.github.com/users/abluva-research",
-      "html_url": "https://github.com/abluva-research",
-      "avatar_url": "https://avatars.githubusercontent.com/u/121275274?v=4"
+      "id": 86543624,
+      "url": "https://api.github.com/users/619dev",
+      "html_url": "https://github.com/619dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86543624?v=4"
     },
-    "html_url": "https://github.com/abluva-research/mcp-trust-plane",
-    "description": null,
-    "created_at": "2026-06-18T08:14:29Z",
-    "updated_at": "2026-06-19T22:53:04Z",
-    "pushed_at": "2026-06-19T14:25:55Z",
-    "git_url": "git://github.com/abluva-research/mcp-trust-plane.git",
+    "html_url": "https://github.com/619dev/tafeng",
+    "description": "一个WebSSH，可以部署在Cloudflare woker。",
+    "created_at": "2026-06-18T13:37:41Z",
+    "updated_at": "2026-06-20T06:38:39Z",
+    "pushed_at": "2026-06-19T08:06:43Z",
+    "git_url": "git://github.com/619dev/tafeng.git",
     "homepage": null,
-    "size": 151,
-    "stargazers_count": 53,
-    "watchers_count": 53,
-    "language": "JavaScript",
-    "forks_count": 10,
+    "size": 193,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": "TypeScript",
+    "forks_count": 17,
     "open_issues_count": 0
   },
   {
@@ -1768,6 +1814,52 @@
     "watchers_count": 51,
     "language": "Python",
     "forks_count": 10,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1272887430,
+    "name": "hermes-gpt",
+    "owner": {
+      "id": 214744153,
+      "url": "https://api.github.com/users/asimons81",
+      "html_url": "https://github.com/asimons81",
+      "avatar_url": "https://avatars.githubusercontent.com/u/214744153?v=4"
+    },
+    "html_url": "https://github.com/asimons81/hermes-gpt",
+    "description": null,
+    "created_at": "2026-06-18T02:54:54Z",
+    "updated_at": "2026-06-20T03:56:27Z",
+    "pushed_at": "2026-06-18T05:05:12Z",
+    "git_url": "git://github.com/asimons81/hermes-gpt.git",
+    "homepage": null,
+    "size": 210,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1272504332,
+    "name": "git-malware-finder",
+    "owner": {
+      "id": 266830218,
+      "url": "https://api.github.com/users/orchidfiles",
+      "html_url": "https://github.com/orchidfiles",
+      "avatar_url": "https://avatars.githubusercontent.com/u/266830218?v=4"
+    },
+    "html_url": "https://github.com/orchidfiles/git-malware-finder",
+    "description": "A script that searches GitHub repositories distributing malware.",
+    "created_at": "2026-06-17T17:11:04Z",
+    "updated_at": "2026-06-20T05:55:56Z",
+    "pushed_at": "2026-06-18T08:06:43Z",
+    "git_url": "git://github.com/orchidfiles/git-malware-finder.git",
+    "homepage": null,
+    "size": 239,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": "TypeScript",
+    "forks_count": 3,
     "open_issues_count": 0
   },
   {
