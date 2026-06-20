@@ -53864,5 +53864,74 @@
     "language": "Python",
     "forks_count": 9,
     "open_issues_count": 0
+  },
+  {
+    "id": 1204415882,
+    "name": "Webwright",
+    "owner": {
+      "id": 6154722,
+      "url": "https://api.github.com/users/microsoft",
+      "html_url": "https://github.com/microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+    },
+    "html_url": "https://github.com/microsoft/Webwright",
+    "description": "A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks. ",
+    "created_at": "2026-04-08T01:48:09Z",
+    "updated_at": "2026-06-19T15:25:26Z",
+    "pushed_at": "2026-06-03T22:29:25Z",
+    "git_url": "git://github.com/microsoft/Webwright.git",
+    "homepage": "",
+    "size": 116952,
+    "stargazers_count": 5513,
+    "watchers_count": 5513,
+    "language": "Python",
+    "forks_count": 344,
+    "open_issues_count": 34
+  },
+  {
+    "id": 1263269573,
+    "name": "NuvioDesktop",
+    "owner": {
+      "id": 267417830,
+      "url": "https://api.github.com/users/NuvioMedia",
+      "html_url": "https://github.com/NuvioMedia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/267417830?v=4"
+    },
+    "html_url": "https://github.com/NuvioMedia/NuvioDesktop",
+    "description": "Official Nuvio Desktop Repository",
+    "created_at": "2026-06-08T19:41:04Z",
+    "updated_at": "2026-06-19T18:27:58Z",
+    "pushed_at": "2026-06-19T15:05:09Z",
+    "git_url": "git://github.com/NuvioMedia/NuvioDesktop.git",
+    "homepage": "https://nuvio.tv",
+    "size": 306663,
+    "stargazers_count": 531,
+    "watchers_count": 531,
+    "language": "Kotlin",
+    "forks_count": 33,
+    "open_issues_count": 30
+  },
+  {
+    "id": 1274495410,
+    "name": "zapret-discord-youtube-1.9.9c",
+    "owner": {
+      "id": 279819567,
+      "url": "https://api.github.com/users/Routeplabastion",
+      "html_url": "https://github.com/Routeplabastion",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279819567?v=4"
+    },
+    "html_url": "https://github.com/Routeplabastion/zapret-discord-youtube-1.9.9c",
+    "description": "НОВЫЙ ОБХОД ДИСКОРДА (19.06.2026) ",
+    "created_at": "2026-06-19T15:15:24Z",
+    "updated_at": "2026-06-19T15:31:25Z",
+    "pushed_at": "2026-06-19T15:16:47Z",
+    "git_url": "git://github.com/Routeplabastion/zapret-discord-youtube-1.9.9c.git",
+    "homepage": null,
+    "size": 1600,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": "Batchfile",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
