@@ -54347,5 +54347,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1260901078,
+    "name": "handbook",
+    "owner": {
+      "id": 261740341,
+      "url": "https://api.github.com/users/unicity-astrid",
+      "html_url": "https://github.com/unicity-astrid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/261740341?v=4"
+    },
+    "html_url": "https://github.com/unicity-astrid/handbook",
+    "description": "How to work on Astrid: the polyrepo, the kernel-is-dumb law, the RFC trigger, contribution tiers, and the release process.",
+    "created_at": "2026-06-06T02:16:56Z",
+    "updated_at": "2026-06-19T15:20:20Z",
+    "pushed_at": "2026-06-06T02:46:02Z",
+    "git_url": "git://github.com/unicity-astrid/handbook.git",
+    "homepage": null,
+    "size": 36,
+    "stargazers_count": 990,
+    "watchers_count": 990,
+    "language": null,
+    "forks_count": 5,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1273636371,
+    "name": "QuickBooks-Desktop-2026",
+    "owner": {
+      "id": 292286086,
+      "url": "https://api.github.com/users/ManacleBat38",
+      "html_url": "https://github.com/ManacleBat38",
+      "avatar_url": "https://avatars.githubusercontent.com/u/292286086?v=4"
+    },
+    "html_url": "https://github.com/ManacleBat38/QuickBooks-Desktop-2026",
+    "description": "QuickBooks Desktop workflow — company files, reconciliations and backup schedules on Windows.",
+    "created_at": "2026-06-18T18:07:56Z",
+    "updated_at": "2026-06-19T21:40:30Z",
+    "pushed_at": "2026-06-18T18:08:10Z",
+    "git_url": "git://github.com/ManacleBat38/QuickBooks-Desktop-2026.git",
+    "homepage": null,
+    "size": 1,
+    "stargazers_count": 92,
+    "watchers_count": 92,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
