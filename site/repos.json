@@ -54439,5 +54439,51 @@
     "language": "Vue",
     "forks_count": 16,
     "open_issues_count": 1
+  },
+  {
+    "id": 1268068714,
+    "name": "fable-mode",
+    "owner": {
+      "id": 106916790,
+      "url": "https://api.github.com/users/mrtooher",
+      "html_url": "https://github.com/mrtooher",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106916790?v=4"
+    },
+    "html_url": "https://github.com/mrtooher/fable-mode",
+    "description": "A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
+    "created_at": "2026-06-13T05:33:14Z",
+    "updated_at": "2026-06-20T17:53:31Z",
+    "pushed_at": "2026-06-19T22:54:05Z",
+    "git_url": "git://github.com/mrtooher/fable-mode.git",
+    "homepage": null,
+    "size": 30,
+    "stargazers_count": 524,
+    "watchers_count": 524,
+    "language": null,
+    "forks_count": 58,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1275029868,
+    "name": "Fluxus-Exec-PC-v3.3",
+    "owner": {
+      "id": 15978030,
+      "url": "https://api.github.com/users/iiyumewo",
+      "html_url": "https://github.com/iiyumewo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15978030?v=4"
+    },
+    "html_url": "https://github.com/iiyumewo/Fluxus-Exec-PC-v3.3",
+    "description": "Fluxus Executor PC v3.3 ? #1 Roblox Script Hub for Windows. Instant execution, Blox Fruits & Adopt Me scripts, free auto-update.",
+    "created_at": "2026-06-20T06:53:44Z",
+    "updated_at": "2026-06-20T17:15:28Z",
+    "pushed_at": "2026-06-20T17:15:24Z",
+    "git_url": "git://github.com/iiyumewo/Fluxus-Exec-PC-v3.3.git",
+    "homepage": "",
+    "size": 10,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
