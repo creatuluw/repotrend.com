@@ -54209,5 +54209,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1259081986,
+    "name": "meatshell",
+    "owner": {
+      "id": 44336086,
+      "url": "https://api.github.com/users/jeff141",
+      "html_url": "https://github.com/jeff141",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44336086?v=4"
+    },
+    "html_url": "https://github.com/jeff141/meatshell",
+    "description": "一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）",
+    "created_at": "2026-06-04T07:13:39Z",
+    "updated_at": "2026-06-20T16:41:54Z",
+    "pushed_at": "2026-06-20T16:04:52Z",
+    "git_url": "git://github.com/jeff141/meatshell.git",
+    "homepage": "",
+    "size": 1574,
+    "stargazers_count": 749,
+    "watchers_count": 749,
+    "language": "Rust",
+    "forks_count": 83,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1273628634,
+    "name": "Autodesk-Revit-2026",
+    "owner": {
+      "id": 292285666,
+      "url": "https://api.github.com/users/Thorntrorefinery",
+      "html_url": "https://github.com/Thorntrorefinery",
+      "avatar_url": "https://avatars.githubusercontent.com/u/292285666?v=4"
+    },
+    "html_url": "https://github.com/Thorntrorefinery/Autodesk-Revit-2026",
+    "description": "Autodesk Revit 2026 workflow — BIM models, sheets and coordination packages on Windows.",
+    "created_at": "2026-06-18T17:58:06Z",
+    "updated_at": "2026-06-19T21:40:39Z",
+    "pushed_at": "2026-06-18T17:58:21Z",
+    "git_url": "git://github.com/Thorntrorefinery/Autodesk-Revit-2026.git",
+    "homepage": null,
+    "size": 1,
+    "stargazers_count": 82,
+    "watchers_count": 82,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
