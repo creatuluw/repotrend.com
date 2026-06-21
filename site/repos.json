@@ -54301,5 +54301,51 @@
     "language": "JavaScript",
     "forks_count": 0,
     "open_issues_count": 1
+  },
+  {
+    "id": 1271627791,
+    "name": "codexpro",
+    "owner": {
+      "id": 126284057,
+      "url": "https://api.github.com/users/rebel0789",
+      "html_url": "https://github.com/rebel0789",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126284057?v=4"
+    },
+    "html_url": "https://github.com/rebel0789/codexpro",
+    "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+    "created_at": "2026-06-16T21:22:43Z",
+    "updated_at": "2026-06-20T18:35:21Z",
+    "pushed_at": "2026-06-20T14:34:15Z",
+    "git_url": "git://github.com/rebel0789/codexpro.git",
+    "homepage": "https://rebel0789.github.io/codexpro/",
+    "size": 349,
+    "stargazers_count": 528,
+    "watchers_count": 528,
+    "language": "JavaScript",
+    "forks_count": 45,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1273627154,
+    "name": "Adobe-Lightroom-Classic-2026",
+    "owner": {
+      "id": 292285718,
+      "url": "https://api.github.com/users/FrequencyMedic",
+      "html_url": "https://github.com/FrequencyMedic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/292285718?v=4"
+    },
+    "html_url": "https://github.com/FrequencyMedic/Adobe-Lightroom-Classic-2026",
+    "description": "Adobe Lightroom Classic workflow — catalog setup, develop presets and export profiles on Windows.",
+    "created_at": "2026-06-18T17:56:15Z",
+    "updated_at": "2026-06-19T21:40:39Z",
+    "pushed_at": "2026-06-18T17:56:27Z",
+    "git_url": "git://github.com/FrequencyMedic/Adobe-Lightroom-Classic-2026.git",
+    "homepage": null,
+    "size": 1,
+    "stargazers_count": 86,
+    "watchers_count": 86,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
