@@ -54393,5 +54393,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1253138201,
+    "name": "PixelRAG",
+    "owner": {
+      "id": 288858980,
+      "url": "https://api.github.com/users/StarTrail-org",
+      "html_url": "https://github.com/StarTrail-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/288858980?v=4"
+    },
+    "html_url": "https://github.com/StarTrail-org/PixelRAG",
+    "description": "The end of web parsing. The beginning of scalable pixel-native search.",
+    "created_at": "2026-05-29T07:25:40Z",
+    "updated_at": "2026-06-20T18:36:50Z",
+    "pushed_at": "2026-06-20T18:15:46Z",
+    "git_url": "git://github.com/StarTrail-org/PixelRAG.git",
+    "homepage": "https://pixelrag.ai/",
+    "size": 44736,
+    "stargazers_count": 947,
+    "watchers_count": 947,
+    "language": "Python",
+    "forks_count": 91,
+    "open_issues_count": 9
+  },
+  {
+    "id": 1272859739,
+    "name": "databuff",
+    "owner": {
+      "id": 184463508,
+      "url": "https://api.github.com/users/databufflabs",
+      "html_url": "https://github.com/databufflabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/184463508?v=4"
+    },
+    "html_url": "https://github.com/databufflabs/databuff",
+    "description": "AI Native 的 OpenTelemetry APM",
+    "created_at": "2026-06-18T02:06:27Z",
+    "updated_at": "2026-06-21T04:53:15Z",
+    "pushed_at": "2026-06-20T13:27:05Z",
+    "git_url": "git://github.com/databufflabs/databuff.git",
+    "homepage": "https://databuff.ai/",
+    "size": 10018,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "Vue",
+    "forks_count": 16,
+    "open_issues_count": 1
   }
 ]
