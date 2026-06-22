@@ -54945,5 +54945,51 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1266832037,
+    "name": "architect-loop",
+    "owner": {
+      "id": 1813669,
+      "url": "https://api.github.com/users/DanMcInerney",
+      "html_url": "https://github.com/DanMcInerney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1813669?v=4"
+    },
+    "html_url": "https://github.com/DanMcInerney/architect-loop",
+    "description": "Claude Fable 5 as architect, GPT-5.5 Codex as builder, the repo as memory - a research-backed Claude Code skill for the cross-vendor agent loop",
+    "created_at": "2026-06-12T01:54:12Z",
+    "updated_at": "2026-06-22T09:39:23Z",
+    "pushed_at": "2026-06-13T01:53:20Z",
+    "git_url": "git://github.com/DanMcInerney/architect-loop.git",
+    "homepage": null,
+    "size": 789,
+    "stargazers_count": 531,
+    "watchers_count": 531,
+    "language": "HTML",
+    "forks_count": 50,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1276326263,
+    "name": "007-First-Light-Trainer-And-Optimizer",
+    "owner": {
+      "id": 112704148,
+      "url": "https://api.github.com/users/seh4835",
+      "html_url": "https://github.com/seh4835",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112704148?v=4"
+    },
+    "html_url": "https://github.com/seh4835/007-First-Light-Trainer-And-Optimizer",
+    "description": "Advanced trainer and performance utility for 007 First Light. Features God Mode, stealth mechanics, instant gadget/outfit unlocks, map intel reveal, and deep FPS/stutter optimization.",
+    "created_at": "2026-06-21T20:52:26Z",
+    "updated_at": "2026-06-22T17:04:19Z",
+    "pushed_at": "2026-06-21T20:53:01Z",
+    "git_url": "git://github.com/seh4835/007-First-Light-Trainer-And-Optimizer.git",
+    "homepage": null,
+    "size": 22,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
