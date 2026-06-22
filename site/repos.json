@@ -54531,5 +54531,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1259071744,
+    "name": "edulab",
+    "owner": {
+      "id": 253894366,
+      "url": "https://api.github.com/users/wy51ai",
+      "html_url": "https://github.com/wy51ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/253894366?v=4"
+    },
+    "html_url": "https://github.com/wy51ai/edulab",
+    "description": null,
+    "created_at": "2026-06-04T07:02:45Z",
+    "updated_at": "2026-06-21T03:43:17Z",
+    "pushed_at": "2026-06-07T11:42:30Z",
+    "git_url": "git://github.com/wy51ai/edulab.git",
+    "homepage": null,
+    "size": 15920,
+    "stargazers_count": 533,
+    "watchers_count": 533,
+    "language": "HTML",
+    "forks_count": 106,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1275414217,
+    "name": "ember-hackernews",
+    "owner": {
+      "id": 6614616,
+      "url": "https://api.github.com/users/DatanoiseTV",
+      "html_url": "https://github.com/DatanoiseTV",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6614616?v=4"
+    },
+    "html_url": "https://github.com/DatanoiseTV/ember-hackernews",
+    "description": "Ember — a native, accessible Hacker News reader for iOS, built in SwiftUI with no third-party dependencies.",
+    "created_at": "2026-06-20T16:52:36Z",
+    "updated_at": "2026-06-21T17:15:30Z",
+    "pushed_at": "2026-06-21T08:34:44Z",
+    "git_url": "git://github.com/DatanoiseTV/ember-hackernews.git",
+    "homepage": null,
+    "size": 7048,
+    "stargazers_count": 86,
+    "watchers_count": 86,
+    "language": "Swift",
+    "forks_count": 5,
+    "open_issues_count": 7
   }
 ]
