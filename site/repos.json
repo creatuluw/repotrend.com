@@ -54830,5 +54830,74 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1246010662,
+    "name": "lore",
+    "owner": {
+      "id": 6615685,
+      "url": "https://api.github.com/users/EpicGames",
+      "html_url": "https://github.com/EpicGames",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6615685?v=4"
+    },
+    "html_url": "https://github.com/EpicGames/lore",
+    "description": "Lore is a next-generation, open source version control system",
+    "created_at": "2026-05-21T19:32:07Z",
+    "updated_at": "2026-06-22T13:43:02Z",
+    "pushed_at": "2026-06-22T11:48:15Z",
+    "git_url": "git://github.com/EpicGames/lore.git",
+    "homepage": "https://lore.org",
+    "size": 4709,
+    "stargazers_count": 5629,
+    "watchers_count": 5629,
+    "language": "Rust",
+    "forks_count": 221,
+    "open_issues_count": 39
+  },
+  {
+    "id": 1264560911,
+    "name": "boo",
+    "owner": {
+      "id": 95932066,
+      "url": "https://api.github.com/users/coder",
+      "html_url": "https://github.com/coder",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95932066?v=4"
+    },
+    "html_url": "https://github.com/coder/boo",
+    "description": "A GNU screen style terminal multiplexer built on libghostty.",
+    "created_at": "2026-06-10T01:53:01Z",
+    "updated_at": "2026-06-21T16:53:26Z",
+    "pushed_at": "2026-06-18T05:32:02Z",
+    "git_url": "git://github.com/coder/boo.git",
+    "homepage": "",
+    "size": 299,
+    "stargazers_count": 690,
+    "watchers_count": 690,
+    "language": "Zig",
+    "forks_count": 20,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1273637139,
+    "name": "SketchUp-Pro-2026",
+    "owner": {
+      "id": 292286313,
+      "url": "https://api.github.com/users/gasguardianarouse",
+      "html_url": "https://github.com/gasguardianarouse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/292286313?v=4"
+    },
+    "html_url": "https://github.com/gasguardianarouse/SketchUp-Pro-2026",
+    "description": "SketchUp Pro 2026 workflow — components, scenes, materials and LayOut documentation on Windows.",
+    "created_at": "2026-06-18T18:08:55Z",
+    "updated_at": "2026-06-21T15:58:01Z",
+    "pushed_at": "2026-06-18T18:09:09Z",
+    "git_url": "git://github.com/gasguardianarouse/SketchUp-Pro-2026.git",
+    "homepage": null,
+    "size": 1,
+    "stargazers_count": 85,
+    "watchers_count": 85,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
