@@ -54669,5 +54669,51 @@
     "language": "Swift",
     "forks_count": 3,
     "open_issues_count": 1
+  },
+  {
+    "id": 1263268212,
+    "name": "secret-tool",
+    "owner": {
+      "id": 291887145,
+      "url": "https://api.github.com/users/secret-tools",
+      "html_url": "https://github.com/secret-tools",
+      "avatar_url": "https://avatars.githubusercontent.com/u/291887145?v=4"
+    },
+    "html_url": "https://github.com/secret-tools/secret-tool",
+    "description": "Secret-Tools — classified discord utilities. Star the repo.",
+    "created_at": "2026-06-08T19:39:09Z",
+    "updated_at": "2026-06-22T08:01:59Z",
+    "pushed_at": "2026-06-08T19:58:27Z",
+    "git_url": "git://github.com/secret-tools/secret-tool.git",
+    "homepage": null,
+    "size": 175,
+    "stargazers_count": 617,
+    "watchers_count": 617,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1272942359,
+    "name": "sonic-topography",
+    "owner": {
+      "id": 236021157,
+      "url": "https://api.github.com/users/yin-yizhen",
+      "html_url": "https://github.com/yin-yizhen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/236021157?v=4"
+    },
+    "html_url": "https://github.com/yin-yizhen/sonic-topography",
+    "description": "随音乐产生交互的棋盘式海浪，支持网易云搜索",
+    "created_at": "2026-06-18T04:26:20Z",
+    "updated_at": "2026-06-21T18:14:16Z",
+    "pushed_at": "2026-06-18T05:17:02Z",
+    "git_url": "git://github.com/yin-yizhen/sonic-topography.git",
+    "homepage": null,
+    "size": 8195,
+    "stargazers_count": 86,
+    "watchers_count": 86,
+    "language": "TypeScript",
+    "forks_count": 15,
+    "open_issues_count": 3
   }
 ]
