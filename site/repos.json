@@ -54577,5 +54577,51 @@
     "language": "Swift",
     "forks_count": 5,
     "open_issues_count": 7
+  },
+  {
+    "id": 1262387849,
+    "name": "CapCut-Pro-26",
+    "owner": {
+      "id": 291629604,
+      "url": "https://api.github.com/users/EpicCatbirdHub",
+      "html_url": "https://github.com/EpicCatbirdHub",
+      "avatar_url": "https://avatars.githubusercontent.com/u/291629604?v=4"
+    },
+    "html_url": "https://github.com/EpicCatbirdHub/CapCut-Pro-26",
+    "description": "CapCut Pro - All-in-one video editor with trending effects, templates, and social media optimization. Comprehensive guide with setup instructions, feature highlights, and system requirements.",
+    "created_at": "2026-06-07T23:52:06Z",
+    "updated_at": "2026-06-21T22:58:43Z",
+    "pushed_at": "2026-06-17T14:04:07Z",
+    "git_url": "git://github.com/EpicCatbirdHub/CapCut-Pro-26.git",
+    "homepage": null,
+    "size": 3,
+    "stargazers_count": 473,
+    "watchers_count": 473,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1276326270,
+    "name": "007-First-Light-Trainer-And-Optimizer",
+    "owner": {
+      "id": 79476685,
+      "url": "https://api.github.com/users/Edouard-LARROCHE",
+      "html_url": "https://github.com/Edouard-LARROCHE",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79476685?v=4"
+    },
+    "html_url": "https://github.com/Edouard-LARROCHE/007-First-Light-Trainer-And-Optimizer",
+    "description": "Advanced trainer and performance utility for 007 First Light. Features God Mode, stealth mechanics, instant gadget/outfit unlocks, map intel reveal, and deep FPS/stutter optimization.",
+    "created_at": "2026-06-21T20:52:27Z",
+    "updated_at": "2026-06-21T23:04:25Z",
+    "pushed_at": "2026-06-21T20:53:05Z",
+    "git_url": "git://github.com/Edouard-LARROCHE/007-First-Light-Trainer-And-Optimizer.git",
+    "homepage": null,
+    "size": 22,
+    "stargazers_count": 60,
+    "watchers_count": 60,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
