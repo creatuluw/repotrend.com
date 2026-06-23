@@ -55037,5 +55037,51 @@
     "language": "JavaScript",
     "forks_count": 7,
     "open_issues_count": 0
+  },
+  {
+    "id": 1256082863,
+    "name": "ORG2",
+    "owner": {
+      "id": 132798821,
+      "url": "https://api.github.com/users/yorgai",
+      "html_url": "https://github.com/yorgai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/132798821?v=4"
+    },
+    "html_url": "https://github.com/yorgai/ORG2",
+    "description": "Open-source Cursor-style agent IDE — but built for reviewability and control. Built-in rust harness; supports 10+ CLIs.",
+    "created_at": "2026-06-01T12:52:57Z",
+    "updated_at": "2026-06-22T18:54:50Z",
+    "pushed_at": "2026-06-22T19:00:52Z",
+    "git_url": "git://github.com/yorgai/ORG2.git",
+    "homepage": "",
+    "size": 47651,
+    "stargazers_count": 929,
+    "watchers_count": 929,
+    "language": "TypeScript",
+    "forks_count": 65,
+    "open_issues_count": 36
+  },
+  {
+    "id": 1277264207,
+    "name": "claude-code-fable-5-free-app",
+    "owner": {
+      "id": 228006020,
+      "url": "https://api.github.com/users/FieldofStrawberries",
+      "html_url": "https://github.com/FieldofStrawberries",
+      "avatar_url": "https://avatars.githubusercontent.com/u/228006020?v=4"
+    },
+    "html_url": "https://github.com/FieldofStrawberries/claude-code-fable-5-free-app",
+    "description": "claude fable 5 free api ai chatbot anthropic model chat online web api github download desktop client  access premium account login trial alternative prompt generative text ui version beta assistant",
+    "created_at": "2026-06-22T18:27:43Z",
+    "updated_at": "2026-06-23T00:56:42Z",
+    "pushed_at": "2026-06-22T18:35:21Z",
+    "git_url": "git://github.com/FieldofStrawberries/claude-code-fable-5-free-app.git",
+    "homepage": "",
+    "size": 100,
+    "stargazers_count": 73,
+    "watchers_count": 73,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
