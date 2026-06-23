@@ -55221,5 +55221,51 @@
     "language": "Rust",
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1266794943,
+    "name": "gorest-2d-animation-spritesheet-generator",
+    "owner": {
+      "id": 61722330,
+      "url": "https://api.github.com/users/NO6KIKO",
+      "html_url": "https://github.com/NO6KIKO",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61722330?v=4"
+    },
+    "html_url": "https://github.com/NO6KIKO/gorest-2d-animation-spritesheet-generator",
+    "description": "Codex-assisted local 2D animation spritesheet generator and scene compositing workspace.",
+    "created_at": "2026-06-12T00:46:23Z",
+    "updated_at": "2026-06-22T17:55:08Z",
+    "pushed_at": "2026-06-21T18:40:50Z",
+    "git_url": "git://github.com/NO6KIKO/gorest-2d-animation-spritesheet-generator.git",
+    "homepage": "",
+    "size": 125141,
+    "stargazers_count": 861,
+    "watchers_count": 861,
+    "language": "TypeScript",
+    "forks_count": 125,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1275718468,
+    "name": "nova-image-studio",
+    "owner": {
+      "id": 36837690,
+      "url": "https://api.github.com/users/tianjiangqiji",
+      "html_url": "https://github.com/tianjiangqiji",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36837690?v=4"
+    },
+    "html_url": "https://github.com/tianjiangqiji/nova-image-studio",
+    "description": "自托管的 AI 图像生成工作台 · 自定义模型 · 多模式 · PWA · 实时任务 支持Agent模式，工作台模式，无限画布，反推提示词，提示词广场，GIF生成。前后端任务机制轻量后端；三端兼容 UI：桌面端、平板端、移动端自适应布局",
+    "created_at": "2026-06-21T03:50:26Z",
+    "updated_at": "2026-06-22T18:34:08Z",
+    "pushed_at": "2026-06-22T08:41:10Z",
+    "git_url": "git://github.com/tianjiangqiji/nova-image-studio.git",
+    "homepage": "https://image.ccode.vip",
+    "size": 11027,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "TypeScript",
+    "forks_count": 14,
+    "open_issues_count": 1
   }
 ]
