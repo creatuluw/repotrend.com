@@ -55175,5 +55175,51 @@
     "language": "Python",
     "forks_count": 26,
     "open_issues_count": 0
+  },
+  {
+    "id": 1268946118,
+    "name": "fablize",
+    "owner": {
+      "id": 65525458,
+      "url": "https://api.github.com/users/fivetaku",
+      "html_url": "https://github.com/fivetaku",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65525458?v=4"
+    },
+    "html_url": "https://github.com/fivetaku/fablize",
+    "description": "A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable.",
+    "created_at": "2026-06-14T05:49:06Z",
+    "updated_at": "2026-06-23T06:37:37Z",
+    "pushed_at": "2026-06-19T09:41:18Z",
+    "git_url": "git://github.com/fivetaku/fablize.git",
+    "homepage": null,
+    "size": 59,
+    "stargazers_count": 608,
+    "watchers_count": 608,
+    "language": "Python",
+    "forks_count": 81,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1274999314,
+    "name": "ioscpy",
+    "owner": {
+      "id": 31430049,
+      "url": "https://api.github.com/users/lautarovculic",
+      "html_url": "https://github.com/lautarovculic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31430049?v=4"
+    },
+    "html_url": "https://github.com/lautarovculic/ioscpy",
+    "description": "A macOS CLI that mirrors and controls a jailbroken iPhone over USB.",
+    "created_at": "2026-06-20T06:02:35Z",
+    "updated_at": "2026-06-23T07:20:32Z",
+    "pushed_at": "2026-06-20T08:26:18Z",
+    "git_url": "git://github.com/lautarovculic/ioscpy.git",
+    "homepage": "https://lautarovculic.com",
+    "size": 9082,
+    "stargazers_count": 62,
+    "watchers_count": 62,
+    "language": "Rust",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
