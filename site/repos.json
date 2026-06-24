@@ -55405,5 +55405,74 @@
     "language": "Python",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1248194723,
+    "name": "OpenLogi",
+    "owner": {
+      "id": 37977109,
+      "url": "https://api.github.com/users/AprilNEA",
+      "html_url": "https://github.com/AprilNEA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37977109?v=4"
+    },
+    "html_url": "https://github.com/AprilNEA/OpenLogi",
+    "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+    "created_at": "2026-05-24T10:10:36Z",
+    "updated_at": "2026-06-24T07:02:55Z",
+    "pushed_at": "2026-06-24T06:16:04Z",
+    "git_url": "git://github.com/AprilNEA/OpenLogi.git",
+    "homepage": "https://openlogi.org",
+    "size": 6744,
+    "stargazers_count": 5270,
+    "watchers_count": 5270,
+    "language": "Rust",
+    "forks_count": 101,
+    "open_issues_count": 79
+  },
+  {
+    "id": 1263648864,
+    "name": "loop-engineering",
+    "owner": {
+      "id": 7868717,
+      "url": "https://api.github.com/users/cobusgreyling",
+      "html_url": "https://github.com/cobusgreyling",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7868717?v=4"
+    },
+    "html_url": "https://github.com/cobusgreyling/loop-engineering",
+    "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
+    "created_at": "2026-06-09T06:28:20Z",
+    "updated_at": "2026-06-24T07:02:06Z",
+    "pushed_at": "2026-06-23T19:54:14Z",
+    "git_url": "git://github.com/cobusgreyling/loop-engineering.git",
+    "homepage": "https://cobusgreyling.github.io/loop-engineering/",
+    "size": 1318,
+    "stargazers_count": 781,
+    "watchers_count": 781,
+    "language": "JavaScript",
+    "forks_count": 102,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1275642440,
+    "name": "LiveCaption",
+    "owner": {
+      "id": 166812737,
+      "url": "https://api.github.com/users/begin0808",
+      "html_url": "https://github.com/begin0808",
+      "avatar_url": "https://avatars.githubusercontent.com/u/166812737?v=4"
+    },
+    "html_url": "https://github.com/begin0808/LiveCaption",
+    "description": " 即時影音雙語字幕翻譯系統。本機離線 AI 語音辨識與翻譯，支援 SenseVoice、Ollama 與 DeepSeek。 | Real-time tab audio bilingual subtitle translation system using local ASR (SenseVoice) and LLMs (Ollama / DeepSeek). 100% offline & private.",
+    "created_at": "2026-06-21T00:55:25Z",
+    "updated_at": "2026-06-24T05:29:14Z",
+    "pushed_at": "2026-06-24T03:20:19Z",
+    "git_url": "git://github.com/begin0808/LiveCaption.git",
+    "homepage": "",
+    "size": 115,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "HTML",
+    "forks_count": 14,
+    "open_issues_count": 1
   }
 ]
