@@ -55359,5 +55359,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1257953142,
+    "name": "produck-skills",
+    "owner": {
+      "id": 290306746,
+      "url": "https://api.github.com/users/tryproduck",
+      "html_url": "https://github.com/tryproduck",
+      "avatar_url": "https://avatars.githubusercontent.com/u/290306746?v=4"
+    },
+    "html_url": "https://github.com/tryproduck/produck-skills",
+    "description": "Agent skills to help you build products your users love.",
+    "created_at": "2026-06-03T06:34:10Z",
+    "updated_at": "2026-06-22T16:11:29Z",
+    "pushed_at": "2026-06-22T05:42:16Z",
+    "git_url": "git://github.com/tryproduck/produck-skills.git",
+    "homepage": "https://tryproduck.com",
+    "size": 72,
+    "stargazers_count": 483,
+    "watchers_count": 483,
+    "language": null,
+    "forks_count": 7,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1275948123,
+    "name": "WaterPaper",
+    "owner": {
+      "id": 174880437,
+      "url": "https://api.github.com/users/ThisIsLittleSky",
+      "html_url": "https://github.com/ThisIsLittleSky",
+      "avatar_url": "https://avatars.githubusercontent.com/u/174880437?v=4"
+    },
+    "html_url": "https://github.com/ThisIsLittleSky/WaterPaper",
+    "description": "水论文skill一句话出论文：多角度选题、真实文献采集、大纲写作、降低AIGC率、降低重复率、绘制图表、DOCX交付",
+    "created_at": "2026-06-21T10:52:41Z",
+    "updated_at": "2026-06-23T03:14:12Z",
+    "pushed_at": "2026-06-23T03:14:08Z",
+    "git_url": "git://github.com/ThisIsLittleSky/WaterPaper.git",
+    "homepage": "",
+    "size": 627,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
