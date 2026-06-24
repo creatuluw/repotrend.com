@@ -55313,5 +55313,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1268429667,
+    "name": "bazi-ziwei-skill",
+    "owner": {
+      "id": 255071717,
+      "url": "https://api.github.com/users/dzcmemory-web",
+      "html_url": "https://github.com/dzcmemory-web",
+      "avatar_url": "https://avatars.githubusercontent.com/u/255071717?v=4"
+    },
+    "html_url": "https://github.com/dzcmemory-web/bazi-ziwei-skill",
+    "description": "AI 八字 + 紫微斗数排盘与综合印证 Skill：算法精准排盘（不靠 LLM 猜），三种分析模式，一键生成水墨风 HTML 命盘海报。兼容 Claude / Codex / Cursor / Workbuddy 等 SKILL.md Agent。",
+    "created_at": "2026-06-13T14:22:28Z",
+    "updated_at": "2026-06-23T09:17:49Z",
+    "pushed_at": "2026-06-14T03:53:54Z",
+    "git_url": "git://github.com/dzcmemory-web/bazi-ziwei-skill.git",
+    "homepage": "",
+    "size": 1869,
+    "stargazers_count": 485,
+    "watchers_count": 485,
+    "language": "TypeScript",
+    "forks_count": 64,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1277239390,
+    "name": "pro-dc-reader-pdf-editor",
+    "owner": {
+      "id": 137421544,
+      "url": "https://api.github.com/users/pipilikam",
+      "html_url": "https://github.com/pipilikam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137421544?v=4"
+    },
+    "html_url": "https://github.com/pipilikam/pro-dc-reader-pdf-editor",
+    "description": " pro reader pdf editor converter merge split sign fill document ocr compress page extract form stamp comment tools creator software suite application desktop print scan digital secure web",
+    "created_at": "2026-06-22T17:58:21Z",
+    "updated_at": "2026-06-23T03:50:40Z",
+    "pushed_at": "2026-06-22T18:05:37Z",
+    "git_url": "git://github.com/pipilikam/pro-dc-reader-pdf-editor.git",
+    "homepage": "",
+    "size": 3,
+    "stargazers_count": 82,
+    "watchers_count": 82,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
