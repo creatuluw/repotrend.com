@@ -55543,5 +55543,51 @@
     "language": "TypeScript",
     "forks_count": 7,
     "open_issues_count": 0
+  },
+  {
+    "id": 1274399536,
+    "name": "Windows-Copilot-API",
+    "owner": {
+      "id": 44167398,
+      "url": "https://api.github.com/users/sums001",
+      "html_url": "https://github.com/sums001",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44167398?v=4"
+    },
+    "html_url": "https://github.com/sums001/Windows-Copilot-API",
+    "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
+    "created_at": "2026-06-19T13:24:44Z",
+    "updated_at": "2026-06-23T18:42:19Z",
+    "pushed_at": "2026-06-23T18:27:51Z",
+    "git_url": "git://github.com/sums001/Windows-Copilot-API.git",
+    "homepage": "",
+    "size": 732,
+    "stargazers_count": 508,
+    "watchers_count": 508,
+    "language": "Python",
+    "forks_count": 191,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1278033266,
+    "name": "Software-Microsoft-365",
+    "owner": {
+      "id": 271275086,
+      "url": "https://api.github.com/users/Thunderseorder",
+      "html_url": "https://github.com/Thunderseorder",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271275086?v=4"
+    },
+    "html_url": "https://github.com/Thunderseorder/Software-Microsoft-365",
+    "description": "SoftwareHub is a simple, lightweight and convenient Windows utility that helps users quickly install Microsoft 365. The program provides clear step-by-step guidance, automates some installation steps and makes the whole process much easier and faster.",
+    "created_at": "2026-06-23T11:59:46Z",
+    "updated_at": "2026-06-23T18:38:03Z",
+    "pushed_at": "2026-06-23T12:00:00Z",
+    "git_url": "git://github.com/Thunderseorder/Software-Microsoft-365.git",
+    "homepage": "",
+    "size": 4,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
