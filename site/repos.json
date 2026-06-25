@@ -55681,5 +55681,51 @@
     "language": "Python",
     "forks_count": 17,
     "open_issues_count": 0
+  },
+  {
+    "id": 1269257700,
+    "name": "skills",
+    "owner": {
+      "id": 295799259,
+      "url": "https://api.github.com/users/AI-Builder-Club",
+      "html_url": "https://github.com/AI-Builder-Club",
+      "avatar_url": "https://avatars.githubusercontent.com/u/295799259?v=4"
+    },
+    "html_url": "https://github.com/AI-Builder-Club/skills",
+    "description": "Codebase harness + loop engineer",
+    "created_at": "2026-06-14T13:47:44Z",
+    "updated_at": "2026-06-25T06:08:31Z",
+    "pushed_at": "2026-06-23T12:54:13Z",
+    "git_url": "git://github.com/AI-Builder-Club/skills.git",
+    "homepage": "https://www.aibuilderclub.com/",
+    "size": 1354,
+    "stargazers_count": 546,
+    "watchers_count": 546,
+    "language": "JavaScript",
+    "forks_count": 90,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1275942797,
+    "name": "open_oura",
+    "owner": {
+      "id": 41830259,
+      "url": "https://api.github.com/users/Th0rgal",
+      "html_url": "https://github.com/Th0rgal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41830259?v=4"
+    },
+    "html_url": "https://github.com/Th0rgal/open_oura",
+    "description": "Reverse-engineering notes and tooling for Oura Ring 3, 4, 5 BLE protocol",
+    "created_at": "2026-06-21T10:43:18Z",
+    "updated_at": "2026-06-24T18:37:36Z",
+    "pushed_at": "2026-06-24T14:28:08Z",
+    "git_url": "git://github.com/Th0rgal/open_oura.git",
+    "homepage": "",
+    "size": 1121,
+    "stargazers_count": 68,
+    "watchers_count": 68,
+    "language": "Rust",
+    "forks_count": 9,
+    "open_issues_count": 0
   }
 ]
