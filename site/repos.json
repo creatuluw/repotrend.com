@@ -55474,5 +55474,74 @@
     "language": "HTML",
     "forks_count": 14,
     "open_issues_count": 1
+  },
+  {
+    "id": 1273138090,
+    "name": "Unlimited-OCR",
+    "owner": {
+      "id": 13245940,
+      "url": "https://api.github.com/users/baidu",
+      "html_url": "https://github.com/baidu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13245940?v=4"
+    },
+    "html_url": "https://github.com/baidu/Unlimited-OCR",
+    "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+    "created_at": "2026-06-18T08:40:15Z",
+    "updated_at": "2026-06-24T18:40:50Z",
+    "pushed_at": "2026-06-24T12:50:42Z",
+    "git_url": "git://github.com/baidu/Unlimited-OCR.git",
+    "homepage": null,
+    "size": 91733,
+    "stargazers_count": 6085,
+    "watchers_count": 6085,
+    "language": "Python",
+    "forks_count": 469,
+    "open_issues_count": 18
+  },
+  {
+    "id": 1259939911,
+    "name": "oh-my-taiyiforge",
+    "owner": {
+      "id": 9442734,
+      "url": "https://api.github.com/users/Dong90",
+      "html_url": "https://github.com/Dong90",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9442734?v=4"
+    },
+    "html_url": "https://github.com/Dong90/oh-my-taiyiforge",
+    "description": "AI workflow automation plugin for intelligent code generation with Claude/Codex",
+    "created_at": "2026-06-05T02:25:33Z",
+    "updated_at": "2026-06-24T18:29:16Z",
+    "pushed_at": "2026-06-24T05:17:51Z",
+    "git_url": "git://github.com/Dong90/oh-my-taiyiforge.git",
+    "homepage": "",
+    "size": 68840,
+    "stargazers_count": 506,
+    "watchers_count": 506,
+    "language": "TypeScript",
+    "forks_count": 11,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1277079624,
+    "name": "Nara-AI-Dashboard",
+    "owner": {
+      "id": 132826055,
+      "url": "https://api.github.com/users/ahmedyahia01",
+      "html_url": "https://github.com/ahmedyahia01",
+      "avatar_url": "https://avatars.githubusercontent.com/u/132826055?v=4"
+    },
+    "html_url": "https://github.com/ahmedyahia01/Nara-AI-Dashboard",
+    "description": "A comprehensive AI dashboard featuring PDF analysis, presentation generation, and smart chat, powered by the NaraRouter API.",
+    "created_at": "2026-06-22T15:02:56Z",
+    "updated_at": "2026-06-24T18:00:28Z",
+    "pushed_at": "2026-06-24T11:54:57Z",
+    "git_url": "git://github.com/ahmedyahia01/Nara-AI-Dashboard.git",
+    "homepage": "https://nara-ai-dashboard.vercel.app",
+    "size": 290,
+    "stargazers_count": 73,
+    "watchers_count": 73,
+    "language": "TypeScript",
+    "forks_count": 7,
+    "open_issues_count": 0
   }
 ]
