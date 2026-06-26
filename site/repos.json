@@ -55911,5 +55911,74 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1254038692,
+    "name": "chinese-buy-us-stock-guide",
+    "owner": {
+      "id": 6014068,
+      "url": "https://api.github.com/users/zgwl",
+      "html_url": "https://github.com/zgwl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6014068?v=4"
+    },
+    "html_url": "https://github.com/zgwl/chinese-buy-us-stock-guide",
+    "description": "美股指南",
+    "created_at": "2026-05-30T04:27:25Z",
+    "updated_at": "2026-06-26T07:23:41Z",
+    "pushed_at": "2026-06-25T00:21:34Z",
+    "git_url": "git://github.com/zgwl/chinese-buy-us-stock-guide.git",
+    "homepage": null,
+    "size": 648,
+    "stargazers_count": 5281,
+    "watchers_count": 5281,
+    "language": null,
+    "forks_count": 790,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1274697585,
+    "name": "cnfast",
+    "owner": {
+      "id": 38025074,
+      "url": "https://api.github.com/users/aidenybai",
+      "html_url": "https://github.com/aidenybai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38025074?v=4"
+    },
+    "html_url": "https://github.com/aidenybai/cnfast",
+    "description": "Fast drop in replacement for `cn`",
+    "created_at": "2026-06-19T19:46:29Z",
+    "updated_at": "2026-06-26T06:20:20Z",
+    "pushed_at": "2026-06-22T06:22:08Z",
+    "git_url": "git://github.com/aidenybai/cnfast.git",
+    "homepage": "",
+    "size": 2320,
+    "stargazers_count": 936,
+    "watchers_count": 936,
+    "language": "TypeScript",
+    "forks_count": 9,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1280603766,
+    "name": "Nihon-Execut",
+    "owner": {
+      "id": 203402280,
+      "url": "https://api.github.com/users/SytanizedMain",
+      "html_url": "https://github.com/SytanizedMain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/203402280?v=4"
+    },
+    "html_url": "https://github.com/SytanizedMain/Nihon-Execut",
+    "description": "Nihon - Best Free Roblox Script Executor for Windows 2026. Instant Lua injection, 500+ scripts, auto-update, no key required.",
+    "created_at": "2026-06-25T18:51:05Z",
+    "updated_at": "2026-06-26T05:57:00Z",
+    "pushed_at": "2026-06-26T05:10:43Z",
+    "git_url": "git://github.com/SytanizedMain/Nihon-Execut.git",
+    "homepage": "",
+    "size": 9,
+    "stargazers_count": 79,
+    "watchers_count": 79,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
