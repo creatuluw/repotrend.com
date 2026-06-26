@@ -55865,5 +55865,51 @@
     "language": "C++",
     "forks_count": 11,
     "open_issues_count": 0
+  },
+  {
+    "id": 1266009367,
+    "name": "luban-skill",
+    "owner": {
+      "id": 131418633,
+      "url": "https://api.github.com/users/LearnPrompt",
+      "html_url": "https://github.com/LearnPrompt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131418633?v=4"
+    },
+    "html_url": "https://github.com/LearnPrompt/luban-skill",
+    "description": "鲁班 | Luban — 把'能用的Skill'打磨成'能被装、能传播、能验证、能进化'的公共资产。Agent skill-polishing workshop: 验料·访行·过尺·慢刨·回炉",
+    "created_at": "2026-06-11T08:49:42Z",
+    "updated_at": "2026-06-24T16:51:12Z",
+    "pushed_at": "2026-06-12T18:49:09Z",
+    "git_url": "git://github.com/LearnPrompt/luban-skill.git",
+    "homepage": null,
+    "size": 191,
+    "stargazers_count": 503,
+    "watchers_count": 503,
+    "language": "Shell",
+    "forks_count": 90,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1277476916,
+    "name": "pulse-system-tutorial",
+    "owner": {
+      "id": 245899688,
+      "url": "https://api.github.com/users/dankefox",
+      "html_url": "https://github.com/dankefox",
+      "avatar_url": "https://avatars.githubusercontent.com/u/245899688?v=4"
+    },
+    "html_url": "https://github.com/dankefox/pulse-system-tutorial",
+    "description": "脉 · Pulse — 给 AI 一个真的在跑��身体 · 架构教程",
+    "created_at": "2026-06-22T23:47:52Z",
+    "updated_at": "2026-06-25T02:26:38Z",
+    "pushed_at": "2026-06-23T03:03:27Z",
+    "git_url": "git://github.com/dankefox/pulse-system-tutorial.git",
+    "homepage": null,
+    "size": 8592,
+    "stargazers_count": 62,
+    "watchers_count": 62,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
