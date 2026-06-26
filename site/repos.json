@@ -55727,5 +55727,51 @@
     "language": "Rust",
     "forks_count": 9,
     "open_issues_count": 0
+  },
+  {
+    "id": 1274547830,
+    "name": "agent-apprenticeship",
+    "owner": {
+      "id": 273874842,
+      "url": "https://api.github.com/users/Forsy-AI",
+      "html_url": "https://github.com/Forsy-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273874842?v=4"
+    },
+    "html_url": "https://github.com/Forsy-AI/agent-apprenticeship",
+    "description": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
+    "created_at": "2026-06-19T16:19:37Z",
+    "updated_at": "2026-06-23T18:49:47Z",
+    "pushed_at": "2026-06-23T15:40:17Z",
+    "git_url": "git://github.com/Forsy-AI/agent-apprenticeship.git",
+    "homepage": "https://agentapprenticeship.org/",
+    "size": 18271,
+    "stargazers_count": 821,
+    "watchers_count": 821,
+    "language": null,
+    "forks_count": 46,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1278930298,
+    "name": "HearYourVOICE",
+    "owner": {
+      "id": 12683618,
+      "url": "https://api.github.com/users/killernay",
+      "html_url": "https://github.com/killernay",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12683618?v=4"
+    },
+    "html_url": "https://github.com/killernay/HearYourVOICE",
+    "description": null,
+    "created_at": "2026-06-24T08:10:00Z",
+    "updated_at": "2026-06-25T16:53:01Z",
+    "pushed_at": "2026-06-24T08:46:02Z",
+    "git_url": "git://github.com/killernay/HearYourVOICE.git",
+    "homepage": null,
+    "size": 92,
+    "stargazers_count": 85,
+    "watchers_count": 85,
+    "language": "JavaScript",
+    "forks_count": 14,
+    "open_issues_count": 0
   }
 ]
