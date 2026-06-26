@@ -55819,5 +55819,51 @@
     "language": null,
     "forks_count": 6,
     "open_issues_count": 0
+  },
+  {
+    "id": 1250860168,
+    "name": "biomate-bioconductor-kb",
+    "owner": {
+      "id": 225787057,
+      "url": "https://api.github.com/users/bioMate-AI",
+      "html_url": "https://github.com/bioMate-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/225787057?v=4"
+    },
+    "html_url": "https://github.com/bioMate-AI/biomate-bioconductor-kb",
+    "description": "BioMate-KB Bioconductor Skills — 200 packages (top 100 by downloads + 100 rising stars) as vignette-grounded Claude/agent skills, with per-package workflow recipes",
+    "created_at": "2026-05-27T03:10:25Z",
+    "updated_at": "2026-06-25T14:18:12Z",
+    "pushed_at": "2026-06-20T19:51:00Z",
+    "git_url": "git://github.com/bioMate-AI/biomate-bioconductor-kb.git",
+    "homepage": "",
+    "size": 1233,
+    "stargazers_count": 533,
+    "watchers_count": 533,
+    "language": "Python",
+    "forks_count": 60,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1278232589,
+    "name": "NTForge",
+    "owner": {
+      "id": 246671938,
+      "url": "https://api.github.com/users/kernelstub",
+      "html_url": "https://github.com/kernelstub",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246671938?v=4"
+    },
+    "html_url": "https://github.com/kernelstub/NTForge",
+    "description": "Toolkit for Windows internals, vulnerability analysis, and reproducible security research workflows.",
+    "created_at": "2026-06-23T15:37:34Z",
+    "updated_at": "2026-06-25T10:55:57Z",
+    "pushed_at": "2026-06-23T17:35:49Z",
+    "git_url": "git://github.com/kernelstub/NTForge.git",
+    "homepage": "",
+    "size": 93,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": "C++",
+    "forks_count": 11,
+    "open_issues_count": 0
   }
 ]
