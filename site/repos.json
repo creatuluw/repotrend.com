@@ -55773,5 +55773,51 @@
     "language": "JavaScript",
     "forks_count": 14,
     "open_issues_count": 0
+  },
+  {
+    "id": 1252434124,
+    "name": "parakeet.cpp",
+    "owner": {
+      "id": 2420543,
+      "url": "https://api.github.com/users/mudler",
+      "html_url": "https://github.com/mudler",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2420543?v=4"
+    },
+    "html_url": "https://github.com/mudler/parakeet.cpp",
+    "description": "Parakeet implementation in C++ with ggml",
+    "created_at": "2026-05-28T14:13:27Z",
+    "updated_at": "2026-06-26T00:56:40Z",
+    "pushed_at": "2026-06-23T11:26:17Z",
+    "git_url": "git://github.com/mudler/parakeet.cpp.git",
+    "homepage": null,
+    "size": 9696,
+    "stargazers_count": 576,
+    "watchers_count": 576,
+    "language": "C++",
+    "forks_count": 54,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1277222022,
+    "name": "CVIL",
+    "owner": {
+      "id": 137376090,
+      "url": "https://api.github.com/users/David-Magdy",
+      "html_url": "https://github.com/David-Magdy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137376090?v=4"
+    },
+    "html_url": "https://github.com/David-Magdy/CVIL",
+    "description": "Practical CV/ML interview checklist used to land a computer vision internship. Phases + specialization tracks. Keep it CVIL.",
+    "created_at": "2026-06-22T17:38:47Z",
+    "updated_at": "2026-06-25T18:03:07Z",
+    "pushed_at": "2026-06-22T17:39:36Z",
+    "git_url": "git://github.com/David-Magdy/CVIL.git",
+    "homepage": null,
+    "size": 342,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": null,
+    "forks_count": 6,
+    "open_issues_count": 0
   }
 ]
