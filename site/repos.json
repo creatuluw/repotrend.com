@@ -56072,5 +56072,51 @@
     "language": "HTML",
     "forks_count": 6,
     "open_issues_count": 0
+  },
+  {
+    "id": 1258203278,
+    "name": "open-knowledge",
+    "owner": {
+      "id": 123133689,
+      "url": "https://api.github.com/users/inkeep",
+      "html_url": "https://github.com/inkeep",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123133689?v=4"
+    },
+    "html_url": "https://github.com/inkeep/open-knowledge",
+    "description": "Beautiful, AI-native markdown editor and LLM Wiki",
+    "created_at": "2026-06-03T11:12:40Z",
+    "updated_at": "2026-06-26T18:40:43Z",
+    "pushed_at": "2026-06-26T18:35:53Z",
+    "git_url": "git://github.com/inkeep/open-knowledge.git",
+    "homepage": "https://openknowledge.ai",
+    "size": 27384,
+    "stargazers_count": 971,
+    "watchers_count": 971,
+    "language": "TypeScript",
+    "forks_count": 30,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1279175068,
+    "name": "tg-ws-proxy-1.7.3",
+    "owner": {
+      "id": 279824904,
+      "url": "https://api.github.com/users/Diskamongfall",
+      "html_url": "https://github.com/Diskamongfall",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279824904?v=4"
+    },
+    "html_url": "https://github.com/Diskamongfall/tg-ws-proxy-1.7.3",
+    "description": "ОБНОВЛЕННЫЙ ТЕЛЕГРАМ ФИКС (24.06.2026)",
+    "created_at": "2026-06-24T12:49:41Z",
+    "updated_at": "2026-06-26T21:59:54Z",
+    "pushed_at": "2026-06-24T13:03:29Z",
+    "git_url": "git://github.com/Diskamongfall/tg-ws-proxy-1.7.3.git",
+    "homepage": "",
+    "size": 1626,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
