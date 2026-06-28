@@ -56233,5 +56233,51 @@
     "language": "JavaScript",
     "forks_count": 16,
     "open_issues_count": 0
+  },
+  {
+    "id": 1256761750,
+    "name": "harbor",
+    "owner": {
+      "id": 282054969,
+      "url": "https://api.github.com/users/harborstremio",
+      "html_url": "https://github.com/harborstremio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/282054969?v=4"
+    },
+    "html_url": "https://github.com/harborstremio/harbor",
+    "description": "A Custom Stremio Client Built for Adventure!",
+    "created_at": "2026-06-02T04:20:05Z",
+    "updated_at": "2026-06-28T00:50:18Z",
+    "pushed_at": "2026-06-26T15:40:03Z",
+    "git_url": "git://github.com/harborstremio/harbor.git",
+    "homepage": null,
+    "size": 124857,
+    "stargazers_count": 656,
+    "watchers_count": 656,
+    "language": "TypeScript",
+    "forks_count": 35,
+    "open_issues_count": 48
+  },
+  {
+    "id": 1282238129,
+    "name": "meccha-chameleon-esp",
+    "owner": {
+      "id": 279543392,
+      "url": "https://api.github.com/users/BodyConductorYank",
+      "html_url": "https://github.com/BodyConductorYank",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279543392?v=4"
+    },
+    "html_url": "https://github.com/BodyConductorYank/meccha-chameleon-esp",
+    "description": "meccha-chameleon-esp ",
+    "created_at": "2026-06-27T14:02:44Z",
+    "updated_at": "2026-06-27T19:13:02Z",
+    "pushed_at": "2026-06-27T15:17:43Z",
+    "git_url": "git://github.com/BodyConductorYank/meccha-chameleon-esp.git",
+    "homepage": "",
+    "size": 4,
+    "stargazers_count": 91,
+    "watchers_count": 91,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
