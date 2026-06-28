@@ -56279,5 +56279,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1262740944,
+    "name": "chubbyskills",
+    "owner": {
+      "id": 291697539,
+      "url": "https://api.github.com/users/chubbyguan",
+      "html_url": "https://github.com/chubbyguan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/291697539?v=4"
+    },
+    "html_url": "https://github.com/chubbyguan/chubbyskills",
+    "description": "把中文全渠道内容（抖音 / B站 / 小红书 / 公众号 / X / 播客）采集进个人知识库的 13 个 AI Skill：图文存图、视频转文字稿、字幕优先免 GPU，附带知识库 MCP server。 ｜ Ingest Chinese content into your personal knowledge base — image/video routing, subtitle-first transcription, and a KB MCP server.",
+    "created_at": "2026-06-08T09:22:13Z",
+    "updated_at": "2026-06-27T03:44:10Z",
+    "pushed_at": "2026-06-16T08:05:33Z",
+    "git_url": "git://github.com/chubbyguan/chubbyskills.git",
+    "homepage": null,
+    "size": 226,
+    "stargazers_count": 472,
+    "watchers_count": 472,
+    "language": "Python",
+    "forks_count": 70,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1280256051,
+    "name": "WeLive-release",
+    "owner": {
+      "id": 98377878,
+      "url": "https://api.github.com/users/hicccc77",
+      "html_url": "https://github.com/hicccc77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98377878?v=4"
+    },
+    "html_url": "https://github.com/hicccc77/WeLive-release",
+    "description": "WeLive的发布仓库",
+    "created_at": "2026-06-25T12:11:10Z",
+    "updated_at": "2026-06-27T15:25:42Z",
+    "pushed_at": "2026-06-26T14:35:57Z",
+    "git_url": "git://github.com/hicccc77/WeLive-release.git",
+    "homepage": null,
+    "size": 11,
+    "stargazers_count": 68,
+    "watchers_count": 68,
+    "language": null,
+    "forks_count": 4,
+    "open_issues_count": 1
   }
 ]
