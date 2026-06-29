@@ -56555,5 +56555,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1255915820,
+    "name": "open-file-viewer",
+    "owner": {
+      "id": 35324963,
+      "url": "https://api.github.com/users/xushanpei",
+      "html_url": "https://github.com/xushanpei",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35324963?v=4"
+    },
+    "html_url": "https://github.com/xushanpei/open-file-viewer",
+    "description": "一个面向浏览器的文件预览库，支持原生 JavaScript、React、Vue 和 Svelte。核心目标���把文件预览嵌入到你自己的页面容器里，而不是跳转到新窗口。",
+    "created_at": "2026-06-01T09:38:02Z",
+    "updated_at": "2026-06-28T15:03:36Z",
+    "pushed_at": "2026-06-25T09:20:19Z",
+    "git_url": "git://github.com/xushanpei/open-file-viewer.git",
+    "homepage": "https://open-file-viewer-workspace.void.app/",
+    "size": 3764,
+    "stargazers_count": 597,
+    "watchers_count": 597,
+    "language": "TypeScript",
+    "forks_count": 62,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1282835463,
+    "name": "ai-learning-coach",
+    "owner": {
+      "id": 274725680,
+      "url": "https://api.github.com/users/chrichuang218",
+      "html_url": "https://github.com/chrichuang218",
+      "avatar_url": "https://avatars.githubusercontent.com/u/274725680?v=4"
+    },
+    "html_url": "https://github.com/chrichuang218/ai-learning-coach",
+    "description": "项目牵引式 AI 学习教练技能合集：把学习目标压进真实项目、源码切片和作品交付，用 30-90 分钟练习闭环推进。",
+    "created_at": "2026-06-28T08:47:16Z",
+    "updated_at": "2026-06-29T01:03:00Z",
+    "pushed_at": "2026-06-28T16:56:48Z",
+    "git_url": "git://github.com/chrichuang218/ai-learning-coach.git",
+    "homepage": "",
+    "size": 41,
+    "stargazers_count": 73,
+    "watchers_count": 73,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
