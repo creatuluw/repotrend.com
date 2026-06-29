@@ -56785,5 +56785,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1280019559,
+    "name": "theeleven",
+    "owner": {
+      "id": 68760559,
+      "url": "https://api.github.com/users/winsznx",
+      "html_url": "https://github.com/winsznx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68760559?v=4"
+    },
+    "html_url": "https://github.com/winsznx/theeleven",
+    "description": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
+    "created_at": "2026-06-25T07:42:50Z",
+    "updated_at": "2026-06-29T07:06:38Z",
+    "pushed_at": "2026-06-25T08:33:06Z",
+    "git_url": "git://github.com/winsznx/theeleven.git",
+    "homepage": "https://regista11.xyz",
+    "size": 6665,
+    "stargazers_count": 708,
+    "watchers_count": 708,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1282783768,
+    "name": "TBH-Task-Bar-Hero-Auto-Farm-Trainer-2026-Deluxe",
+    "owner": {
+      "id": 18191123,
+      "url": "https://api.github.com/users/alex-carneiro",
+      "html_url": "https://github.com/alex-carneiro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18191123?v=4"
+    },
+    "html_url": "https://github.com/alex-carneiro/TBH-Task-Bar-Hero-Auto-Farm-Trainer-2026-Deluxe",
+    "description": "Ultimate TBH Task Bar Hero automation utility -Deluxe with auto-farm, infinite gold, god mode, EXP multiplier, and item collector - the complete idle RPG enhancement tool. Free download, undetected, updated for June 9, 2026 meta.",
+    "created_at": "2026-06-28T07:28:16Z",
+    "updated_at": "2026-06-28T18:28:58Z",
+    "pushed_at": "2026-06-28T07:28:32Z",
+    "git_url": "git://github.com/alex-carneiro/TBH-Task-Bar-Hero-Auto-Farm-Trainer-2026-Deluxe.git",
+    "homepage": null,
+    "size": 16,
+    "stargazers_count": 73,
+    "watchers_count": 73,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
