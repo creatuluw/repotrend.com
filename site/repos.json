@@ -56716,5 +56716,74 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1239996076,
+    "name": "zerolang",
+    "owner": {
+      "id": 108547162,
+      "url": "https://api.github.com/users/vercel-labs",
+      "html_url": "https://github.com/vercel-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+    },
+    "html_url": "https://github.com/vercel-labs/zerolang",
+    "description": "The Programming Language for Agents",
+    "created_at": "2026-05-15T16:55:16Z",
+    "updated_at": "2026-06-29T07:32:34Z",
+    "pushed_at": "2026-06-28T00:24:59Z",
+    "git_url": "git://github.com/vercel-labs/zerolang.git",
+    "homepage": "https://zerolang.ai",
+    "size": 74974,
+    "stargazers_count": 5141,
+    "watchers_count": 5141,
+    "language": "C",
+    "forks_count": 339,
+    "open_issues_count": 134
+  },
+  {
+    "id": 1276527666,
+    "name": "AgentSpace",
+    "owner": {
+      "id": 118165258,
+      "url": "https://api.github.com/users/HKUDS",
+      "html_url": "https://github.com/HKUDS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+    },
+    "html_url": "https://github.com/HKUDS/AgentSpace",
+    "description": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
+    "created_at": "2026-06-22T04:08:03Z",
+    "updated_at": "2026-06-29T07:29:04Z",
+    "pushed_at": "2026-06-27T13:32:36Z",
+    "git_url": "git://github.com/HKUDS/AgentSpace.git",
+    "homepage": "https://hire-an-agent.online/",
+    "size": 15778,
+    "stargazers_count": 534,
+    "watchers_count": 534,
+    "language": "TypeScript",
+    "forks_count": 63,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1282784671,
+    "name": "SailorPiece-AutoFarm-ESP-Trainer-2026-Premium",
+    "owner": {
+      "id": 279211327,
+      "url": "https://api.github.com/users/deltabarbershopofficial-cloud",
+      "html_url": "https://github.com/deltabarbershopofficial-cloud",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279211327?v=4"
+    },
+    "html_url": "https://github.com/deltabarbershopofficial-cloud/SailorPiece-AutoFarm-ESP-Trainer-2026-Premium",
+    "description": "Fully undetected all-in-one Sailor Piece tool featuring auto farm, ESP, teleport, dungeon automation, and PvP aids for the latest Anti-Magic & Ghoul patch.",
+    "created_at": "2026-06-28T07:29:40Z",
+    "updated_at": "2026-06-28T18:26:52Z",
+    "pushed_at": "2026-06-28T07:29:53Z",
+    "git_url": "git://github.com/deltabarbershopofficial-cloud/SailorPiece-AutoFarm-ESP-Trainer-2026-Premium.git",
+    "homepage": null,
+    "size": 12,
+    "stargazers_count": 69,
+    "watchers_count": 69,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
