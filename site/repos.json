@@ -56417,5 +56417,74 @@
     "language": null,
     "forks_count": 6,
     "open_issues_count": 0
+  },
+  {
+    "id": 1266212515,
+    "name": "omnigent",
+    "owner": {
+      "id": 292215228,
+      "url": "https://api.github.com/users/omnigent-ai",
+      "html_url": "https://github.com/omnigent-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/292215228?v=4"
+    },
+    "html_url": "https://github.com/omnigent-ai/omnigent",
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+    "created_at": "2026-06-11T12:18:13Z",
+    "updated_at": "2026-06-29T00:54:39Z",
+    "pushed_at": "2026-06-28T21:46:08Z",
+    "git_url": "git://github.com/omnigent-ai/omnigent.git",
+    "homepage": "https://omnigent.ai",
+    "size": 60049,
+    "stargazers_count": 5304,
+    "watchers_count": 5304,
+    "language": "Python",
+    "forks_count": 672,
+    "open_issues_count": 384
+  },
+  {
+    "id": 1262707453,
+    "name": "Nubase",
+    "owner": {
+      "id": 131834193,
+      "url": "https://api.github.com/users/OtterMind",
+      "html_url": "https://github.com/OtterMind",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131834193?v=4"
+    },
+    "html_url": "https://github.com/OtterMind/Nubase",
+    "description": "🔥🔥🔥 Turn AI-written code into real apps. Nubase is an open-source, AI-native backend platform for AI Coding, agentic applications, and modern product teams: Memory, Database, Storage, and Auth in one self-hostable service.",
+    "created_at": "2026-06-08T08:42:51Z",
+    "updated_at": "2026-06-27T17:08:57Z",
+    "pushed_at": "2026-06-26T03:59:37Z",
+    "git_url": "git://github.com/OtterMind/Nubase.git",
+    "homepage": "https://nubase.ai",
+    "size": 6055,
+    "stargazers_count": 451,
+    "watchers_count": 451,
+    "language": "Java",
+    "forks_count": 40,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1281361780,
+    "name": "liangmai",
+    "owner": {
+      "id": 253664692,
+      "url": "https://api.github.com/users/liangmai-sdk",
+      "html_url": "https://github.com/liangmai-sdk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/253664692?v=4"
+    },
+    "html_url": "https://github.com/liangmai-sdk/liangmai",
+    "description": null,
+    "created_at": "2026-06-26T13:32:11Z",
+    "updated_at": "2026-06-27T17:11:33Z",
+    "pushed_at": "2026-06-26T16:33:11Z",
+    "git_url": "git://github.com/liangmai-sdk/liangmai.git",
+    "homepage": null,
+    "size": 45,
+    "stargazers_count": 69,
+    "watchers_count": 69,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
