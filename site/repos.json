@@ -56670,5 +56670,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1264568215,
+    "name": "zod-compiler",
+    "owner": {
+      "id": 973543,
+      "url": "https://api.github.com/users/gajus",
+      "html_url": "https://github.com/gajus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/973543?v=4"
+    },
+    "html_url": "https://github.com/gajus/zod-compiler",
+    "description": "Compile Zod schemas into zero-overhead validation functions at build time. Works with Vite, webpack, esbuild, Rollup, etc",
+    "created_at": "2026-06-10T02:05:05Z",
+    "updated_at": "2026-06-28T17:02:38Z",
+    "pushed_at": "2026-06-18T20:21:57Z",
+    "git_url": "git://github.com/gajus/zod-compiler.git",
+    "homepage": "",
+    "size": 767,
+    "stargazers_count": 477,
+    "watchers_count": 477,
+    "language": "TypeScript",
+    "forks_count": 6,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1282784847,
+    "name": "SailorPiece-AutoFarm-ESP-Trainer-2026-Premium",
+    "owner": {
+      "id": 259592458,
+      "url": "https://api.github.com/users/raheelshakeel953-a11y",
+      "html_url": "https://github.com/raheelshakeel953-a11y",
+      "avatar_url": "https://avatars.githubusercontent.com/u/259592458?v=4"
+    },
+    "html_url": "https://github.com/raheelshakeel953-a11y/SailorPiece-AutoFarm-ESP-Trainer-2026-Premium",
+    "description": "Fully undetected all-in-one Sailor Piece tool featuring auto farm, ESP, teleport, dungeon automation, and PvP aids for the latest Anti-Magic & Ghoul patch.",
+    "created_at": "2026-06-28T07:29:56Z",
+    "updated_at": "2026-06-28T20:42:27Z",
+    "pushed_at": "2026-06-28T07:30:14Z",
+    "git_url": "git://github.com/raheelshakeel953-a11y/SailorPiece-AutoFarm-ESP-Trainer-2026-Premium.git",
+    "homepage": null,
+    "size": 12,
+    "stargazers_count": 86,
+    "watchers_count": 86,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
