@@ -56601,5 +56601,74 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1203777920,
+    "name": "ai-berkshire",
+    "owner": {
+      "id": 6993203,
+      "url": "https://api.github.com/users/xbtlin",
+      "html_url": "https://github.com/xbtlin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6993203?v=4"
+    },
+    "html_url": "https://github.com/xbtlin/ai-berkshire",
+    "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+    "created_at": "2026-04-07T11:19:51Z",
+    "updated_at": "2026-06-29T01:06:16Z",
+    "pushed_at": "2026-06-28T16:26:57Z",
+    "git_url": "git://github.com/xbtlin/ai-berkshire.git",
+    "homepage": "https://github.com/xbtlin/ai-berkshire#readme",
+    "size": 19697,
+    "stargazers_count": 5320,
+    "watchers_count": 5320,
+    "language": "Python",
+    "forks_count": 721,
+    "open_issues_count": 20
+  },
+  {
+    "id": 1269836503,
+    "name": "compass-skills",
+    "owner": {
+      "id": 17682201,
+      "url": "https://api.github.com/users/dongshuyan",
+      "html_url": "https://github.com/dongshuyan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17682201?v=4"
+    },
+    "html_url": "https://github.com/dongshuyan/compass-skills",
+    "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+    "created_at": "2026-06-15T06:28:04Z",
+    "updated_at": "2026-06-28T16:18:40Z",
+    "pushed_at": "2026-06-21T20:05:33Z",
+    "git_url": "git://github.com/dongshuyan/compass-skills.git",
+    "homepage": "",
+    "size": 55089,
+    "stargazers_count": 502,
+    "watchers_count": 502,
+    "language": "Python",
+    "forks_count": 39,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1282783548,
+    "name": "SailorPiece-AutoFarm-ESP-Trainer-2026-Premium",
+    "owner": {
+      "id": 203718247,
+      "url": "https://api.github.com/users/XFaltixX",
+      "html_url": "https://github.com/XFaltixX",
+      "avatar_url": "https://avatars.githubusercontent.com/u/203718247?v=4"
+    },
+    "html_url": "https://github.com/XFaltixX/SailorPiece-AutoFarm-ESP-Trainer-2026-Premium",
+    "description": "Fully undetected all-in-one Sailor Piece tool featuring auto farm, ESP, teleport, dungeon automation, and PvP aids for the latest Anti-Magic & Ghoul patch.",
+    "created_at": "2026-06-28T07:27:59Z",
+    "updated_at": "2026-06-28T18:28:23Z",
+    "pushed_at": "2026-06-28T07:28:16Z",
+    "git_url": "git://github.com/XFaltixX/SailorPiece-AutoFarm-ESP-Trainer-2026-Premium.git",
+    "homepage": null,
+    "size": 12,
+    "stargazers_count": 74,
+    "watchers_count": 74,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
