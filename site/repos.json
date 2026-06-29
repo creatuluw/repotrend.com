@@ -56831,5 +56831,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1273015953,
+    "name": "tickflow-stock-panel",
+    "owner": {
+      "id": 6329373,
+      "url": "https://api.github.com/users/shy3130",
+      "html_url": "https://github.com/shy3130",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6329373?v=4"
+    },
+    "html_url": "https://github.com/shy3130/tickflow-stock-panel",
+    "description": "自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方个性化扩展数据",
+    "created_at": "2026-06-18T06:18:29Z",
+    "updated_at": "2026-06-28T16:24:24Z",
+    "pushed_at": "2026-06-28T14:15:58Z",
+    "git_url": "git://github.com/shy3130/tickflow-stock-panel.git",
+    "homepage": "",
+    "size": 8158,
+    "stargazers_count": 542,
+    "watchers_count": 542,
+    "language": "TypeScript",
+    "forks_count": 108,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1282784516,
+    "name": "Pet-Simulator-99-Auto-Farm-Trainer-2026",
+    "owner": {
+      "id": 90974742,
+      "url": "https://api.github.com/users/arenaasd",
+      "html_url": "https://github.com/arenaasd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90974742?v=4"
+    },
+    "html_url": "https://github.com/arenaasd/Pet-Simulator-99-Auto-Farm-Trainer-2026",
+    "description": "Ultimate auto farm trainer for Pet Simulator 99 - automate coin collection, egg hatching, and Backrooms League grinding with a powerful GUI. Updated for June 2026, undetected, and easy to use.",
+    "created_at": "2026-06-28T07:29:24Z",
+    "updated_at": "2026-06-28T20:41:17Z",
+    "pushed_at": "2026-06-28T07:29:39Z",
+    "git_url": "git://github.com/arenaasd/Pet-Simulator-99-Auto-Farm-Trainer-2026.git",
+    "homepage": null,
+    "size": 11,
+    "stargazers_count": 86,
+    "watchers_count": 86,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
