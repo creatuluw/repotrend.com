@@ -56486,5 +56486,74 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1200798950,
+    "name": "coral",
+    "owner": {
+      "id": 269147539,
+      "url": "https://api.github.com/users/withcoral",
+      "html_url": "https://github.com/withcoral",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269147539?v=4"
+    },
+    "html_url": "https://github.com/withcoral/coral",
+    "description": "One SQL interface over APIs, files, and live sources — built for agents.",
+    "created_at": "2026-04-03T20:56:07Z",
+    "updated_at": "2026-06-28T20:00:19Z",
+    "pushed_at": "2026-06-28T01:08:46Z",
+    "git_url": "git://github.com/withcoral/coral.git",
+    "homepage": "https://withcoral.com",
+    "size": 17717,
+    "stargazers_count": 5087,
+    "watchers_count": 5087,
+    "language": "Rust",
+    "forks_count": 209,
+    "open_issues_count": 313
+  },
+  {
+    "id": 1263158313,
+    "name": "SiliconScope",
+    "owner": {
+      "id": 77983942,
+      "url": "https://api.github.com/users/kennss",
+      "html_url": "https://github.com/kennss",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77983942?v=4"
+    },
+    "html_url": "https://github.com/kennss/SiliconScope",
+    "description": "Sudoless Apple Silicon system monitor (native SwiftUI GUI) with ANE / Media Engine / memory-bandwidth tracking",
+    "created_at": "2026-06-08T17:19:50Z",
+    "updated_at": "2026-06-28T12:34:04Z",
+    "pushed_at": "2026-06-26T09:01:53Z",
+    "git_url": "git://github.com/kennss/SiliconScope.git",
+    "homepage": "https://siliconscope.calidalab.ai/",
+    "size": 11789,
+    "stargazers_count": 582,
+    "watchers_count": 582,
+    "language": "Swift",
+    "forks_count": 38,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1282783649,
+    "name": "MECCHA-CHAMELEON-Ultimate-Trainer-2026",
+    "owner": {
+      "id": 77618589,
+      "url": "https://api.github.com/users/Rohim616",
+      "html_url": "https://github.com/Rohim616",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77618589?v=4"
+    },
+    "html_url": "https://github.com/Rohim616/MECCHA-CHAMELEON-Ultimate-Trainer-2026",
+    "description": "Dominating trainer for MECCHA CHAMELEON with ESP wallhack, aimbot, fly hack, teleport, and infinite paint. Become the ultimate hider or seeker with our undetected 2026 external tool.",
+    "created_at": "2026-06-28T07:28:06Z",
+    "updated_at": "2026-06-28T18:29:09Z",
+    "pushed_at": "2026-06-28T07:28:34Z",
+    "git_url": "git://github.com/Rohim616/MECCHA-CHAMELEON-Ultimate-Trainer-2026.git",
+    "homepage": null,
+    "size": 26,
+    "stargazers_count": 73,
+    "watchers_count": 73,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
