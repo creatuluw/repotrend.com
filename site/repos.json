@@ -56946,5 +56946,74 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1244911834,
+    "name": "bumblebee",
+    "owner": {
+      "id": 185426709,
+      "url": "https://api.github.com/users/perplexityai",
+      "html_url": "https://github.com/perplexityai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/185426709?v=4"
+    },
+    "html_url": "https://github.com/perplexityai/bumblebee",
+    "description": "Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.",
+    "created_at": "2026-05-20T18:11:37Z",
+    "updated_at": "2026-06-30T00:38:56Z",
+    "pushed_at": "2026-06-25T21:00:58Z",
+    "git_url": "git://github.com/perplexityai/bumblebee.git",
+    "homepage": "",
+    "size": 128,
+    "stargazers_count": 4668,
+    "watchers_count": 4668,
+    "language": "Go",
+    "forks_count": 420,
+    "open_issues_count": 32
+  },
+  {
+    "id": 1256868358,
+    "name": "paperjury",
+    "owner": {
+      "id": 63005381,
+      "url": "https://api.github.com/users/u7079256",
+      "html_url": "https://github.com/u7079256",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63005381?v=4"
+    },
+    "html_url": "https://github.com/u7079256/paperjury",
+    "description": "Pre-submission AI review stress-test for research papers. A Claude Code skill: review, verdict, revise, verify.",
+    "created_at": "2026-06-02T06:45:10Z",
+    "updated_at": "2026-06-29T22:22:28Z",
+    "pushed_at": "2026-06-19T06:00:25Z",
+    "git_url": "git://github.com/u7079256/paperjury.git",
+    "homepage": "https://u7079256.github.io/paperjury/",
+    "size": 13235,
+    "stargazers_count": 497,
+    "watchers_count": 497,
+    "language": "JavaScript",
+    "forks_count": 35,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1283838733,
+    "name": "Hades-II-Trainer",
+    "owner": {
+      "id": 279544308,
+      "url": "https://api.github.com/users/Pulseliwatch",
+      "html_url": "https://github.com/Pulseliwatch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279544308?v=4"
+    },
+    "html_url": "https://github.com/Pulseliwatch/Hades-II-Trainer",
+    "description": "🛡️ Hades-II-Trainer is a powerful trainer for Hades II that lets you customize your gameplay experience. Features include God Mode, infinite health, unlimited mana, one-hit kill, speed hack, resource editing (Darkness, Keys, Nectar, Ambrosia), and more. Supports latest version on Steam and Epic Games Store. For educational purposes only.",
+    "created_at": "2026-06-29T09:31:57Z",
+    "updated_at": "2026-06-29T21:11:00Z",
+    "pushed_at": "2026-06-29T09:43:56Z",
+    "git_url": "git://github.com/Pulseliwatch/Hades-II-Trainer.git",
+    "homepage": "",
+    "size": 10,
+    "stargazers_count": 75,
+    "watchers_count": 75,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
