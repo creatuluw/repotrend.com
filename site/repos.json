@@ -57084,5 +57084,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1280278993,
+    "name": "torlink",
+    "owner": {
+      "id": 97924486,
+      "url": "https://api.github.com/users/baairon",
+      "html_url": "https://github.com/baairon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97924486?v=4"
+    },
+    "html_url": "https://github.com/baairon/torlink",
+    "description": "A sleek, zero-setup torrent finder and downloader that lives right in your terminal.",
+    "created_at": "2026-06-25T12:37:15Z",
+    "updated_at": "2026-06-30T07:28:01Z",
+    "pushed_at": "2026-06-30T04:15:38Z",
+    "git_url": "git://github.com/baairon/torlink.git",
+    "homepage": "https://www.npmjs.com/package/torlnk",
+    "size": 245,
+    "stargazers_count": 822,
+    "watchers_count": 822,
+    "language": "TypeScript",
+    "forks_count": 48,
+    "open_issues_count": 11
+  },
+  {
+    "id": 1282783944,
+    "name": "TBH-Task-Bar-Hero-Auto-Farm-Trainer-2026-Deluxe",
+    "owner": {
+      "id": 206817620,
+      "url": "https://api.github.com/users/Selva-rc",
+      "html_url": "https://github.com/Selva-rc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/206817620?v=4"
+    },
+    "html_url": "https://github.com/Selva-rc/TBH-Task-Bar-Hero-Auto-Farm-Trainer-2026-Deluxe",
+    "description": "Ultimate TBH Task Bar Hero automation utility -Deluxe with auto-farm, infinite gold, god mode, EXP multiplier, and item collector - the complete idle RPG enhancement tool. Free download, undetected, updated for June 9, 2026 meta.",
+    "created_at": "2026-06-28T07:28:32Z",
+    "updated_at": "2026-06-28T18:29:27Z",
+    "pushed_at": "2026-06-28T07:28:49Z",
+    "git_url": "git://github.com/Selva-rc/TBH-Task-Bar-Hero-Auto-Farm-Trainer-2026-Deluxe.git",
+    "homepage": null,
+    "size": 16,
+    "stargazers_count": 70,
+    "watchers_count": 70,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
