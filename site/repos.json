@@ -57015,5 +57015,74 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1216542069,
+    "name": "image-blaster",
+    "owner": {
+      "id": 7606952,
+      "url": "https://api.github.com/users/neilsonnn",
+      "html_url": "https://github.com/neilsonnn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7606952?v=4"
+    },
+    "html_url": "https://github.com/neilsonnn/image-blaster",
+    "description": "An image-to-world skillset for Claude.",
+    "created_at": "2026-04-21T02:24:55Z",
+    "updated_at": "2026-06-29T19:44:53Z",
+    "pushed_at": "2026-05-15T01:36:10Z",
+    "git_url": "git://github.com/neilsonnn/image-blaster.git",
+    "homepage": "",
+    "size": 19969,
+    "stargazers_count": 4651,
+    "watchers_count": 4651,
+    "language": "TypeScript",
+    "forks_count": 472,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1277004822,
+    "name": "Qwen-AgentWorld",
+    "owner": {
+      "id": 141221163,
+      "url": "https://api.github.com/users/QwenLM",
+      "html_url": "https://github.com/QwenLM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141221163?v=4"
+    },
+    "html_url": "https://github.com/QwenLM/Qwen-AgentWorld",
+    "description": "Qwen-AgentWorld: Language World Models for General Agents",
+    "created_at": "2026-06-22T13:48:37Z",
+    "updated_at": "2026-06-30T00:44:25Z",
+    "pushed_at": "2026-06-25T06:57:43Z",
+    "git_url": "git://github.com/QwenLM/Qwen-AgentWorld.git",
+    "homepage": "https://arxiv.org/abs/2606.24597",
+    "size": 3940,
+    "stargazers_count": 663,
+    "watchers_count": 663,
+    "language": "Python",
+    "forks_count": 59,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1282783496,
+    "name": "SailorPiece-AutoFarm-ESP-Trainer-2026",
+    "owner": {
+      "id": 137040904,
+      "url": "https://api.github.com/users/AdilMir1433",
+      "html_url": "https://github.com/AdilMir1433",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137040904?v=4"
+    },
+    "html_url": "https://github.com/AdilMir1433/SailorPiece-AutoFarm-ESP-Trainer-2026",
+    "description": "Undetected Sailor Piece script with auto farm, ESP, teleport, dungeon automation, and PvP hacks for the June 2026 Anti-Magic & Ghoul updates. Dominate the seas with this keyless Roblox executor trainer.",
+    "created_at": "2026-06-28T07:27:55Z",
+    "updated_at": "2026-06-28T18:28:28Z",
+    "pushed_at": "2026-06-28T07:28:19Z",
+    "git_url": "git://github.com/AdilMir1433/SailorPiece-AutoFarm-ESP-Trainer-2026.git",
+    "homepage": null,
+    "size": 15,
+    "stargazers_count": 74,
+    "watchers_count": 74,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
