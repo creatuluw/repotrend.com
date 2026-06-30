@@ -56877,5 +56877,74 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1232237440,
+    "name": "dirtyfrag",
+    "owner": {
+      "id": 42788779,
+      "url": "https://api.github.com/users/V4bel",
+      "html_url": "https://github.com/V4bel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42788779?v=4"
+    },
+    "html_url": "https://github.com/V4bel/dirtyfrag",
+    "description": null,
+    "created_at": "2026-05-07T18:18:28Z",
+    "updated_at": "2026-06-29T12:28:41Z",
+    "pushed_at": "2026-05-10T17:29:21Z",
+    "git_url": "git://github.com/V4bel/dirtyfrag.git",
+    "homepage": null,
+    "size": 5934,
+    "stargazers_count": 4869,
+    "watchers_count": 4869,
+    "language": "C",
+    "forks_count": 773,
+    "open_issues_count": 61
+  },
+  {
+    "id": 1260580223,
+    "name": "vibe-check",
+    "owner": {
+      "id": 130515091,
+      "url": "https://api.github.com/users/TexasBedouin",
+      "html_url": "https://github.com/TexasBedouin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130515091?v=4"
+    },
+    "html_url": "https://github.com/TexasBedouin/vibe-check",
+    "description": "By a 12-year product manager who builds 0-to-1: takes a beginner from a vague idea to a buildable plan, then guides the build (GitHub basics, clean-code habits, a verify-and-iterate loop, a checkup for the mess). For Claude Code, Codex, and Antigravity. grill-me is for engineers, vibe-check is for everyone else.",
+    "created_at": "2026-06-05T16:38:57Z",
+    "updated_at": "2026-06-28T15:09:10Z",
+    "pushed_at": "2026-06-20T19:36:40Z",
+    "git_url": "git://github.com/TexasBedouin/vibe-check.git",
+    "homepage": "",
+    "size": 649,
+    "stargazers_count": 455,
+    "watchers_count": 455,
+    "language": "HTML",
+    "forks_count": 50,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1282784645,
+    "name": "TBH-Task-Bar-Hero-Auto-Farm-Trainer-2026-Plus",
+    "owner": {
+      "id": 18319554,
+      "url": "https://api.github.com/users/khwarij",
+      "html_url": "https://github.com/khwarij",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18319554?v=4"
+    },
+    "html_url": "https://github.com/khwarij/TBH-Task-Bar-Hero-Auto-Farm-Trainer-2026-Plus",
+    "description": "Ultimate TBH Task Bar Hero automation utility -Plus with auto-farm, infinite gold, god mode, EXP multiplier, and item collector - the complete idle RPG enhancement tool. Free download, undetected, updated for June 1, 2026 meta.",
+    "created_at": "2026-06-28T07:29:38Z",
+    "updated_at": "2026-06-28T20:41:52Z",
+    "pushed_at": "2026-06-28T07:29:54Z",
+    "git_url": "git://github.com/khwarij/TBH-Task-Bar-Hero-Auto-Farm-Trainer-2026-Plus.git",
+    "homepage": null,
+    "size": 16,
+    "stargazers_count": 86,
+    "watchers_count": 86,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
