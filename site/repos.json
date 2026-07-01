@@ -57337,5 +57337,74 @@
     "language": "HTML",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1241257629,
+    "name": "Agent-Learning-Hub",
+    "owner": {
+      "id": 46047812,
+      "url": "https://api.github.com/users/datawhalechina",
+      "html_url": "https://github.com/datawhalechina",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46047812?v=4"
+    },
+    "html_url": "https://github.com/datawhalechina/Agent-Learning-Hub",
+    "description": "AI Agent 学习路线与资料库收集",
+    "created_at": "2026-05-17T06:41:12Z",
+    "updated_at": "2026-07-01T07:37:12Z",
+    "pushed_at": "2026-06-05T08:28:50Z",
+    "git_url": "git://github.com/datawhalechina/Agent-Learning-Hub.git",
+    "homepage": "https://datawhalechina.github.io/Agent-Learning-Hub/",
+    "size": 54,
+    "stargazers_count": 4604,
+    "watchers_count": 4604,
+    "language": "HTML",
+    "forks_count": 496,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1267008278,
+    "name": "Solar-Wanderer",
+    "owner": {
+      "id": 45085763,
+      "url": "https://api.github.com/users/hyqzz",
+      "html_url": "https://github.com/hyqzz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45085763?v=4"
+    },
+    "html_url": "https://github.com/hyqzz/Solar-Wanderer",
+    "description": "Solar Wanderer / 遨游太阳系 - 1:1 Real-Time Solar System Explorer in the Browser. NASA JPL ephemeris, WebGL2, Three.js. From solar surface to 100,000 AU Oort Cloud.",
+    "created_at": "2026-06-12T06:25:23Z",
+    "updated_at": "2026-07-01T07:21:25Z",
+    "pushed_at": "2026-06-26T06:24:01Z",
+    "git_url": "git://github.com/hyqzz/Solar-Wanderer.git",
+    "homepage": "https://sw.icodestar.net",
+    "size": 427293,
+    "stargazers_count": 521,
+    "watchers_count": 521,
+    "language": "JavaScript",
+    "forks_count": 29,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1284998861,
+    "name": "Synapse-Execute-New-Update",
+    "owner": {
+      "id": 20904298,
+      "url": "https://api.github.com/users/henrywww255",
+      "html_url": "https://github.com/henrywww255",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20904298?v=4"
+    },
+    "html_url": "https://github.com/henrywww255/Synapse-Execute-New-Update",
+    "description": "Synapse - Best Free Roblox Script Executor for Windows 2026. Instant Lua injection, 500+ scripts, no key required.",
+    "created_at": "2026-06-30T11:40:52Z",
+    "updated_at": "2026-07-01T05:22:59Z",
+    "pushed_at": "2026-07-01T05:22:55Z",
+    "git_url": "git://github.com/henrywww255/Synapse-Execute-New-Update.git",
+    "homepage": "",
+    "size": 10,
+    "stargazers_count": 89,
+    "watchers_count": 89,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
