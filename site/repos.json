@@ -57268,5 +57268,74 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1257186289,
+    "name": "Mineradio",
+    "owner": {
+      "id": 281847693,
+      "url": "https://api.github.com/users/XxHuberrr",
+      "html_url": "https://github.com/XxHuberrr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/281847693?v=4"
+    },
+    "html_url": "https://github.com/XxHuberrr/Mineradio",
+    "description": "一款以电影镜头、粒子视觉和歌词舞台为核心的沉浸式音乐播放器。",
+    "created_at": "2026-06-02T12:50:48Z",
+    "updated_at": "2026-07-01T07:40:25Z",
+    "pushed_at": "2026-06-27T06:05:29Z",
+    "git_url": "git://github.com/XxHuberrr/Mineradio.git",
+    "homepage": null,
+    "size": 2496,
+    "stargazers_count": 6117,
+    "watchers_count": 6117,
+    "language": "HTML",
+    "forks_count": 466,
+    "open_issues_count": 206
+  },
+  {
+    "id": 1262952180,
+    "name": "cheat-on-money",
+    "owner": {
+      "id": 280592915,
+      "url": "https://api.github.com/users/XBuilderLAB",
+      "html_url": "https://github.com/XBuilderLAB",
+      "avatar_url": "https://avatars.githubusercontent.com/u/280592915?v=4"
+    },
+    "html_url": "https://github.com/XBuilderLAB/cheat-on-money",
+    "description": "AI 时代靠谱兼职发现 + 反诈验证 skill：需��信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
+    "created_at": "2026-06-08T13:30:36Z",
+    "updated_at": "2026-07-01T05:41:37Z",
+    "pushed_at": "2026-06-12T01:21:53Z",
+    "git_url": "git://github.com/XBuilderLAB/cheat-on-money.git",
+    "homepage": null,
+    "size": 53,
+    "stargazers_count": 622,
+    "watchers_count": 622,
+    "language": "JavaScript",
+    "forks_count": 69,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1284998864,
+    "name": "Zorara-Execute-New-Update",
+    "owner": {
+      "id": 15225580,
+      "url": "https://api.github.com/users/truszaza",
+      "html_url": "https://github.com/truszaza",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15225580?v=4"
+    },
+    "html_url": "https://github.com/truszaza/Zorara-Execute-New-Update",
+    "description": "Zorara - Best Free Roblox Script Executor for Windows 2026. Instant Lua injection, 500+ scripts, no key required.",
+    "created_at": "2026-06-30T11:40:52Z",
+    "updated_at": "2026-06-30T18:26:21Z",
+    "pushed_at": "2026-06-30T18:26:17Z",
+    "git_url": "git://github.com/truszaza/Zorara-Execute-New-Update.git",
+    "homepage": "",
+    "size": 8,
+    "stargazers_count": 89,
+    "watchers_count": 89,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
