@@ -57199,5 +57199,74 @@
     "language": "HTML",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1239459981,
+    "name": "coreutils",
+    "owner": {
+      "id": 6154722,
+      "url": "https://api.github.com/users/microsoft",
+      "html_url": "https://github.com/microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+    },
+    "html_url": "https://github.com/microsoft/coreutils",
+    "description": "Coreutils for Windows: Installer & Packaging",
+    "created_at": "2026-05-15T05:42:32Z",
+    "updated_at": "2026-06-30T22:29:51Z",
+    "pushed_at": "2026-06-17T11:30:15Z",
+    "git_url": "git://github.com/microsoft/coreutils.git",
+    "homepage": "",
+    "size": 152,
+    "stargazers_count": 4563,
+    "watchers_count": 4563,
+    "language": "Rust",
+    "forks_count": 80,
+    "open_issues_count": 61
+  },
+  {
+    "id": 1259058888,
+    "name": "CCFA-Skills",
+    "owner": {
+      "id": 129048682,
+      "url": "https://api.github.com/users/mikubaka88",
+      "html_url": "https://github.com/mikubaka88",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129048682?v=4"
+    },
+    "html_url": "https://github.com/mikubaka88/CCFA-Skills",
+    "description": "A skill family for shaping the research storyline of CCF-A papers.",
+    "created_at": "2026-06-04T06:47:10Z",
+    "updated_at": "2026-07-01T00:55:46Z",
+    "pushed_at": "2026-06-09T07:20:03Z",
+    "git_url": "git://github.com/mikubaka88/CCFA-Skills.git",
+    "homepage": "",
+    "size": 272031,
+    "stargazers_count": 633,
+    "watchers_count": 633,
+    "language": "TeX",
+    "forks_count": 39,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1282785009,
+    "name": "TBH-Task-Bar-Hero-Auto-Farm-Trainer-2026-Max",
+    "owner": {
+      "id": 18191123,
+      "url": "https://api.github.com/users/alex-carneiro",
+      "html_url": "https://github.com/alex-carneiro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18191123?v=4"
+    },
+    "html_url": "https://github.com/alex-carneiro/TBH-Task-Bar-Hero-Auto-Farm-Trainer-2026-Max",
+    "description": "Ultimate TBH Task Bar Hero automation utility -Max with auto-farm, infinite gold, god mode, EXP multiplier, and item collector - the complete idle RPG enhancement tool. Free download, undetected, updated for June 8, 2026 meta.",
+    "created_at": "2026-06-28T07:30:11Z",
+    "updated_at": "2026-06-28T20:42:59Z",
+    "pushed_at": "2026-06-28T07:30:27Z",
+    "git_url": "git://github.com/alex-carneiro/TBH-Task-Bar-Hero-Auto-Farm-Trainer-2026-Max.git",
+    "homepage": null,
+    "size": 16,
+    "stargazers_count": 86,
+    "watchers_count": 86,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
