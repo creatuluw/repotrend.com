@@ -57590,5 +57590,51 @@
     "language": "HTML",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1259204096,
+    "name": "brain2qwerty",
+    "owner": {
+      "id": 16943930,
+      "url": "https://api.github.com/users/facebookresearch",
+      "html_url": "https://github.com/facebookresearch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16943930?v=4"
+    },
+    "html_url": "https://github.com/facebookresearch/brain2qwerty",
+    "description": "Non-invasive decoding of typed sentences from MEG and EEG brain recordings using a convolutional encoder, transformer, and character-level language model. ",
+    "created_at": "2026-06-04T09:33:14Z",
+    "updated_at": "2026-07-02T07:16:17Z",
+    "pushed_at": "2026-06-30T07:44:27Z",
+    "git_url": "git://github.com/facebookresearch/brain2qwerty.git",
+    "homepage": "",
+    "size": 9518,
+    "stargazers_count": 625,
+    "watchers_count": 625,
+    "language": "Python",
+    "forks_count": 89,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1284996538,
+    "name": "Valex-Execute-New-Update",
+    "owner": {
+      "id": 216062755,
+      "url": "https://api.github.com/users/yanek1233794",
+      "html_url": "https://github.com/yanek1233794",
+      "avatar_url": "https://avatars.githubusercontent.com/u/216062755?v=4"
+    },
+    "html_url": "https://github.com/yanek1233794/Valex-Execute-New-Update",
+    "description": "Valex - Best Free Roblox Script Executor for Windows 2026. Instant Lua injection, 500+ scripts, no key required.",
+    "created_at": "2026-06-30T11:38:24Z",
+    "updated_at": "2026-07-02T06:38:15Z",
+    "pushed_at": "2026-07-02T06:38:11Z",
+    "git_url": "git://github.com/yanek1233794/Valex-Execute-New-Update.git",
+    "homepage": "",
+    "size": 13,
+    "stargazers_count": 89,
+    "watchers_count": 89,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
