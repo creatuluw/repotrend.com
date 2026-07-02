@@ -57452,5 +57452,74 @@
     "language": "HTML",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1281315781,
+    "name": "DeepSpec",
+    "owner": {
+      "id": 148330874,
+      "url": "https://api.github.com/users/deepseek-ai",
+      "html_url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "html_url": "https://github.com/deepseek-ai/DeepSpec",
+    "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
+    "created_at": "2026-06-26T12:36:05Z",
+    "updated_at": "2026-07-02T01:00:27Z",
+    "pushed_at": "2026-06-30T06:42:21Z",
+    "git_url": "git://github.com/deepseek-ai/DeepSpec.git",
+    "homepage": null,
+    "size": 4043,
+    "stargazers_count": 5748,
+    "watchers_count": 5748,
+    "language": "Python",
+    "forks_count": 461,
+    "open_issues_count": 31
+  },
+  {
+    "id": 1275653543,
+    "name": "mediary-scout",
+    "owner": {
+      "id": 165763919,
+      "url": "https://api.github.com/users/fancydirty",
+      "html_url": "https://github.com/fancydirty",
+      "avatar_url": "https://avatars.githubusercontent.com/u/165763919?v=4"
+    },
+    "html_url": "https://github.com/fancydirty/mediary-scout",
+    "description": "Agent-driven media library for your cloud drives (115 / Quark / 光鸭 GuangYaPan).",
+    "created_at": "2026-06-21T01:25:20Z",
+    "updated_at": "2026-07-02T00:51:25Z",
+    "pushed_at": "2026-07-01T15:54:31Z",
+    "git_url": "git://github.com/fancydirty/mediary-scout.git",
+    "homepage": "https://mediary.dirtyfancy.sbs",
+    "size": 11486,
+    "stargazers_count": 862,
+    "watchers_count": 862,
+    "language": "TypeScript",
+    "forks_count": 44,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1284996337,
+    "name": "Phoenix-Execute-New-Update",
+    "owner": {
+      "id": 189175672,
+      "url": "https://api.github.com/users/CosmosJake",
+      "html_url": "https://github.com/CosmosJake",
+      "avatar_url": "https://avatars.githubusercontent.com/u/189175672?v=4"
+    },
+    "html_url": "https://github.com/CosmosJake/Phoenix-Execute-New-Update",
+    "description": "Phoenix - Best Free Roblox Script Executor for Windows 2026. Instant Lua injection, 500+ scripts, no key required.",
+    "created_at": "2026-06-30T11:38:11Z",
+    "updated_at": "2026-07-01T17:58:13Z",
+    "pushed_at": "2026-07-01T17:58:08Z",
+    "git_url": "git://github.com/CosmosJake/Phoenix-Execute-New-Update.git",
+    "homepage": "",
+    "size": 11,
+    "stargazers_count": 89,
+    "watchers_count": 89,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
