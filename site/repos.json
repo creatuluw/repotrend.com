@@ -57636,5 +57636,51 @@
     "language": "HTML",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1263681504,
+    "name": "xquant-beginner",
+    "owner": {
+      "id": 4848411,
+      "url": "https://api.github.com/users/xingwudao",
+      "html_url": "https://github.com/xingwudao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4848411?v=4"
+    },
+    "html_url": "https://github.com/xingwudao/xquant-beginner",
+    "description": "《XQuant：人人都是量化交易员》开源书稿",
+    "created_at": "2026-06-09T07:08:36Z",
+    "updated_at": "2026-07-01T16:29:49Z",
+    "pushed_at": "2026-06-21T15:17:28Z",
+    "git_url": "git://github.com/xingwudao/xquant-beginner.git",
+    "homepage": "https://xingwudao.github.io/xquant-beginner/",
+    "size": 10381,
+    "stargazers_count": 505,
+    "watchers_count": 505,
+    "language": "TypeScript",
+    "forks_count": 83,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1284996876,
+    "name": "Wave-Execute-New-Update",
+    "owner": {
+      "id": 224211372,
+      "url": "https://api.github.com/users/hmoda91200-bot",
+      "html_url": "https://github.com/hmoda91200-bot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/224211372?v=4"
+    },
+    "html_url": "https://github.com/hmoda91200-bot/Wave-Execute-New-Update",
+    "description": "Wave - Best Free Roblox Script Executor for Windows 2026. Instant Lua injection, 500+ scripts, no key required.",
+    "created_at": "2026-06-30T11:38:46Z",
+    "updated_at": "2026-07-02T06:33:03Z",
+    "pushed_at": "2026-07-02T06:32:59Z",
+    "git_url": "git://github.com/hmoda91200-bot/Wave-Execute-New-Update.git",
+    "homepage": "",
+    "size": 13,
+    "stargazers_count": 88,
+    "watchers_count": 88,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
