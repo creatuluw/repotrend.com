@@ -57682,5 +57682,51 @@
     "language": "HTML",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1271618207,
+    "name": "tabfm",
+    "owner": {
+      "id": 43830688,
+      "url": "https://api.github.com/users/google-research",
+      "html_url": "https://github.com/google-research",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43830688?v=4"
+    },
+    "html_url": "https://github.com/google-research/tabfm",
+    "description": null,
+    "created_at": "2026-06-16T21:06:19Z",
+    "updated_at": "2026-07-02T14:05:21Z",
+    "pushed_at": "2026-07-02T02:54:46Z",
+    "git_url": "git://github.com/google-research/tabfm.git",
+    "homepage": null,
+    "size": 188,
+    "stargazers_count": 728,
+    "watchers_count": 728,
+    "language": "Python",
+    "forks_count": 66,
+    "open_issues_count": 10
+  },
+  {
+    "id": 1285105864,
+    "name": "IDM-Patch-LT-Pro-2026",
+    "owner": {
+      "id": 295218088,
+      "url": "https://api.github.com/users/fastjackkreelan884",
+      "html_url": "https://github.com/fastjackkreelan884",
+      "avatar_url": "https://avatars.githubusercontent.com/u/295218088?v=4"
+    },
+    "html_url": "https://github.com/fastjackkreelan884/IDM-Patch-LT-Pro-2026",
+    "description": "High-speed internet download manager featuring multi-threaded segment fetching, dynamic file segmentation algorithms, and seamless browser integration.",
+    "created_at": "2026-06-30T13:38:51Z",
+    "updated_at": "2026-07-02T11:45:21Z",
+    "pushed_at": "2026-06-30T13:40:02Z",
+    "git_url": "git://github.com/fastjackkreelan884/IDM-Patch-LT-Pro-2026.git",
+    "homepage": "",
+    "size": 5,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
