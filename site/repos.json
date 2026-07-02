@@ -57521,5 +57521,74 @@
     "language": "HTML",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1222975902,
+    "name": "mhr-cfw",
+    "owner": {
+      "id": 279854002,
+      "url": "https://api.github.com/users/denuitt1",
+      "html_url": "https://github.com/denuitt1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279854002?v=4"
+    },
+    "html_url": "https://github.com/denuitt1/mhr-cfw",
+    "description": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
+    "created_at": "2026-04-27T22:26:16Z",
+    "updated_at": "2026-07-01T10:23:19Z",
+    "pushed_at": "2026-05-10T20:40:46Z",
+    "git_url": "git://github.com/denuitt1/mhr-cfw.git",
+    "homepage": "",
+    "size": 154,
+    "stargazers_count": 4378,
+    "watchers_count": 4378,
+    "language": "Python",
+    "forks_count": 426,
+    "open_issues_count": 127
+  },
+  {
+    "id": 1258646291,
+    "name": "lift",
+    "owner": {
+      "id": 176631703,
+      "url": "https://api.github.com/users/datalab-to",
+      "html_url": "https://github.com/datalab-to",
+      "avatar_url": "https://avatars.githubusercontent.com/u/176631703?v=4"
+    },
+    "html_url": "https://github.com/datalab-to/lift",
+    "description": "Extract structured data from documents quickly and accurately.",
+    "created_at": "2026-06-03T19:28:14Z",
+    "updated_at": "2026-07-02T07:07:18Z",
+    "pushed_at": "2026-06-19T11:26:51Z",
+    "git_url": "git://github.com/datalab-to/lift.git",
+    "homepage": "https://www.datalab.to",
+    "size": 1408,
+    "stargazers_count": 695,
+    "watchers_count": 695,
+    "language": "Python",
+    "forks_count": 62,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1284996174,
+    "name": "Swift-Execute-New-Update",
+    "owner": {
+      "id": 175308069,
+      "url": "https://api.github.com/users/2211-09-dev",
+      "html_url": "https://github.com/2211-09-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/175308069?v=4"
+    },
+    "html_url": "https://github.com/2211-09-dev/Swift-Execute-New-Update",
+    "description": "Swift - Best Free Roblox Script Executor for Windows 2026. Instant Lua injection, 500+ scripts, no key required.",
+    "created_at": "2026-06-30T11:38:00Z",
+    "updated_at": "2026-07-01T17:12:27Z",
+    "pushed_at": "2026-07-01T17:12:19Z",
+    "git_url": "git://github.com/2211-09-dev/Swift-Execute-New-Update.git",
+    "homepage": "",
+    "size": 12,
+    "stargazers_count": 89,
+    "watchers_count": 89,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
