@@ -57981,5 +57981,74 @@
     "language": "HTML",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1259415257,
+    "name": "lottie",
+    "owner": {
+      "id": 135729001,
+      "url": "https://api.github.com/users/diffusionstudio",
+      "html_url": "https://github.com/diffusionstudio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135729001?v=4"
+    },
+    "html_url": "https://github.com/diffusionstudio/lottie",
+    "description": "Generate production-ready Lottie animations with Claude Code or Codex",
+    "created_at": "2026-06-04T13:39:32Z",
+    "updated_at": "2026-07-03T09:15:04Z",
+    "pushed_at": "2026-07-02T05:10:31Z",
+    "git_url": "git://github.com/diffusionstudio/lottie.git",
+    "homepage": "https://diffusion.studio",
+    "size": 5035,
+    "stargazers_count": 4391,
+    "watchers_count": 4391,
+    "language": "TypeScript",
+    "forks_count": 233,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1271972411,
+    "name": "2FA",
+    "owner": {
+      "id": 17766736,
+      "url": "https://api.github.com/users/zeropl",
+      "html_url": "https://github.com/zeropl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17766736?v=4"
+    },
+    "html_url": "https://github.com/zeropl/2FA",
+    "description": "2FA 在你的浏览器里把一个 2FA 密钥算成实时的 6 位验证码。没有服务器、不用注册、没有数据库——每个\"账号\"就是一条可收藏的网址，密钥藏在它的 # 片段里（浏览器永远不会把 # 片段发到网络上）。",
+    "created_at": "2026-06-17T07:08:24Z",
+    "updated_at": "2026-07-02T15:54:44Z",
+    "pushed_at": "2026-07-02T15:54:33Z",
+    "git_url": "git://github.com/zeropl/2FA.git",
+    "homepage": "",
+    "size": 3045,
+    "stargazers_count": 472,
+    "watchers_count": 472,
+    "language": "HTML",
+    "forks_count": 51,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1284997184,
+    "name": "Phoenix-Execute-New-Update",
+    "owner": {
+      "id": 96847603,
+      "url": "https://api.github.com/users/raulrama",
+      "html_url": "https://github.com/raulrama",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96847603?v=4"
+    },
+    "html_url": "https://github.com/raulrama/Phoenix-Execute-New-Update",
+    "description": "Phoenix - Best Free Roblox Script Executor for Windows 2026. Instant Lua injection, 500+ scripts, no key required.",
+    "created_at": "2026-06-30T11:39:04Z",
+    "updated_at": "2026-07-02T19:17:51Z",
+    "pushed_at": "2026-07-02T19:17:46Z",
+    "git_url": "git://github.com/raulrama/Phoenix-Execute-New-Update.git",
+    "homepage": "",
+    "size": 16,
+    "stargazers_count": 89,
+    "watchers_count": 89,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
