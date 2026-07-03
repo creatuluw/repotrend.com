@@ -5164,5 +5164,11 @@
     "name": "T2HASH-CORE",
     "html_url": "https://github.com/T2HASH/T2HASH-CORE",
     "posted_at": "2026-07-03T03:48:10.477Z"
+  },
+  {
+    "id": 1207117472,
+    "name": "go-libghostty",
+    "html_url": "https://github.com/mitchellh/go-libghostty",
+    "posted_at": "2026-07-03T07:35:18.667Z"
   }
 ]
