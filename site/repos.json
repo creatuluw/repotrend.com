@@ -58050,5 +58050,51 @@
     "language": "HTML",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1268441659,
+    "name": "ku",
+    "owner": {
+      "id": 1419214,
+      "url": "https://api.github.com/users/bjarneo",
+      "html_url": "https://github.com/bjarneo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1419214?v=4"
+    },
+    "html_url": "https://github.com/bjarneo/ku",
+    "description": "A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. ",
+    "created_at": "2026-06-13T14:38:25Z",
+    "updated_at": "2026-07-02T17:05:46Z",
+    "pushed_at": "2026-06-25T07:46:43Z",
+    "git_url": "git://github.com/bjarneo/ku.git",
+    "homepage": "",
+    "size": 447,
+    "stargazers_count": 469,
+    "watchers_count": 469,
+    "language": "Go",
+    "forks_count": 17,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1285066153,
+    "name": "onklaud-5",
+    "owner": {
+      "id": 290513763,
+      "url": "https://api.github.com/users/KorroAi",
+      "html_url": "https://github.com/KorroAi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/290513763?v=4"
+    },
+    "html_url": "https://github.com/KorroAi/onklaud-5",
+    "description": "Pipelines beat models. A multi-model verification pipeline for code quality. 57% of tasks resolved at /usr/bin/bash.",
+    "created_at": "2026-06-30T12:56:28Z",
+    "updated_at": "2026-07-02T19:34:04Z",
+    "pushed_at": "2026-06-30T17:30:59Z",
+    "git_url": "git://github.com/KorroAi/onklaud-5.git",
+    "homepage": null,
+    "size": 5149,
+    "stargazers_count": 80,
+    "watchers_count": 80,
+    "language": "Python",
+    "forks_count": 8,
+    "open_issues_count": 0
   }
 ]
