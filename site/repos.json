@@ -57820,5 +57820,51 @@
     "language": "HTML",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1259424581,
+    "name": "ai-shortVideo-pipeline",
+    "owner": {
+      "id": 94903442,
+      "url": "https://api.github.com/users/myccarl",
+      "html_url": "https://github.com/myccarl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94903442?v=4"
+    },
+    "html_url": "https://github.com/myccarl/ai-shortVideo-pipeline",
+    "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
+    "created_at": "2026-06-04T13:49:51Z",
+    "updated_at": "2026-07-03T03:33:27Z",
+    "pushed_at": "2026-06-15T14:24:59Z",
+    "git_url": "git://github.com/myccarl/ai-shortVideo-pipeline.git",
+    "homepage": "",
+    "size": 13076,
+    "stargazers_count": 571,
+    "watchers_count": 571,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1284996184,
+    "name": "Fluxus-Execute-New-Update",
+    "owner": {
+      "id": 159476934,
+      "url": "https://api.github.com/users/ramosoficial",
+      "html_url": "https://github.com/ramosoficial",
+      "avatar_url": "https://avatars.githubusercontent.com/u/159476934?v=4"
+    },
+    "html_url": "https://github.com/ramosoficial/Fluxus-Execute-New-Update",
+    "description": "Fluxus - Best Free Roblox Script Executor for Windows 2026. Instant Lua injection, 500+ scripts, no key required.",
+    "created_at": "2026-06-30T11:38:01Z",
+    "updated_at": "2026-07-03T01:43:47Z",
+    "pushed_at": "2026-07-03T01:43:43Z",
+    "git_url": "git://github.com/ramosoficial/Fluxus-Execute-New-Update.git",
+    "homepage": "",
+    "size": 26,
+    "stargazers_count": 89,
+    "watchers_count": 89,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
