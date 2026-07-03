@@ -5170,5 +5170,11 @@
     "name": "go-libghostty",
     "html_url": "https://github.com/mitchellh/go-libghostty",
     "posted_at": "2026-07-03T07:35:18.667Z"
+  },
+  {
+    "id": 1210579186,
+    "name": "wterm",
+    "html_url": "https://github.com/vercel-labs/wterm",
+    "posted_at": "2026-07-03T10:49:05.199Z"
   }
 ]
