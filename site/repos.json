@@ -57774,5 +57774,51 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1277477208,
+    "name": "openwiki",
+    "owner": {
+      "id": 126733545,
+      "url": "https://api.github.com/users/langchain-ai",
+      "html_url": "https://github.com/langchain-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126733545?v=4"
+    },
+    "html_url": "https://github.com/langchain-ai/openwiki",
+    "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
+    "created_at": "2026-06-22T23:48:26Z",
+    "updated_at": "2026-07-02T19:33:25Z",
+    "pushed_at": "2026-07-02T09:06:05Z",
+    "git_url": "git://github.com/langchain-ai/openwiki.git",
+    "homepage": "",
+    "size": 439,
+    "stargazers_count": 977,
+    "watchers_count": 977,
+    "language": "TypeScript",
+    "forks_count": 69,
+    "open_issues_count": 24
+  },
+  {
+    "id": 1284998093,
+    "name": "Celery-Execute-New-Update",
+    "owner": {
+      "id": 100323758,
+      "url": "https://api.github.com/users/musana011",
+      "html_url": "https://github.com/musana011",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100323758?v=4"
+    },
+    "html_url": "https://github.com/musana011/Celery-Execute-New-Update",
+    "description": "Celery - Best Free Roblox Script Executor for Windows 2026. Instant Lua injection, 500+ scripts, no key required.",
+    "created_at": "2026-06-30T11:40:02Z",
+    "updated_at": "2026-07-01T17:55:58Z",
+    "pushed_at": "2026-07-01T17:55:50Z",
+    "git_url": "git://github.com/musana011/Celery-Execute-New-Update.git",
+    "homepage": "",
+    "size": 11,
+    "stargazers_count": 89,
+    "watchers_count": 89,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
