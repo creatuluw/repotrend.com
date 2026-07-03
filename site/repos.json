@@ -57912,5 +57912,74 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1203185600,
+    "name": "awesome-persona-distill-skills",
+    "owner": {
+      "id": 109734945,
+      "url": "https://api.github.com/users/xixu-me",
+      "html_url": "https://github.com/xixu-me",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109734945?v=4"
+    },
+    "html_url": "https://github.com/xixu-me/awesome-persona-distill-skills",
+    "description": "Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives",
+    "created_at": "2026-04-06T20:02:21Z",
+    "updated_at": "2026-07-03T06:17:50Z",
+    "pushed_at": "2026-06-14T18:01:18Z",
+    "git_url": "git://github.com/xixu-me/awesome-persona-distill-skills.git",
+    "homepage": "",
+    "size": 348,
+    "stargazers_count": 4512,
+    "watchers_count": 4512,
+    "language": "JavaScript",
+    "forks_count": 497,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1256982192,
+    "name": "mingli-master",
+    "owner": {
+      "id": 7369848,
+      "url": "https://api.github.com/users/learnwithu",
+      "html_url": "https://github.com/learnwithu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7369848?v=4"
+    },
+    "html_url": "https://github.com/learnwithu/mingli-master",
+    "description": "紫微斗数命盘解读 skill · 基于 iztro-py 精确排盘，生成可视化命盘 HTML",
+    "created_at": "2026-06-02T08:56:29Z",
+    "updated_at": "2026-07-02T09:49:20Z",
+    "pushed_at": "2026-06-02T09:46:33Z",
+    "git_url": "git://github.com/learnwithu/mingli-master.git",
+    "homepage": null,
+    "size": 20726,
+    "stargazers_count": 530,
+    "watchers_count": 530,
+    "language": "Python",
+    "forks_count": 73,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1284997376,
+    "name": "Solara-Execute-New-Update",
+    "owner": {
+      "id": 213719773,
+      "url": "https://api.github.com/users/reviornot",
+      "html_url": "https://github.com/reviornot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/213719773?v=4"
+    },
+    "html_url": "https://github.com/reviornot/Solara-Execute-New-Update",
+    "description": "Solara - Best Free Roblox Script Executor for Windows 2026. Instant Lua injection, 500+ scripts, no key required.",
+    "created_at": "2026-06-30T11:39:15Z",
+    "updated_at": "2026-07-02T19:07:39Z",
+    "pushed_at": "2026-07-02T19:07:35Z",
+    "git_url": "git://github.com/reviornot/Solara-Execute-New-Update.git",
+    "homepage": "",
+    "size": 16,
+    "stargazers_count": 89,
+    "watchers_count": 89,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
