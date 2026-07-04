@@ -58188,5 +58188,51 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1262261093,
+    "name": "Your-Self-Improving-AI-Brain",
+    "owner": {
+      "id": 107759287,
+      "url": "https://api.github.com/users/Harlihm",
+      "html_url": "https://github.com/Harlihm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/107759287?v=4"
+    },
+    "html_url": "https://github.com/Harlihm/Your-Self-Improving-AI-Brain",
+    "description": null,
+    "created_at": "2026-06-07T19:21:25Z",
+    "updated_at": "2026-07-02T19:33:11Z",
+    "pushed_at": "2026-06-11T07:04:40Z",
+    "git_url": "git://github.com/Harlihm/Your-Self-Improving-AI-Brain.git",
+    "homepage": null,
+    "size": 563,
+    "stargazers_count": 931,
+    "watchers_count": 931,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1286046639,
+    "name": "Tonkeeper-Fake-Balance",
+    "owner": {
+      "id": 244619020,
+      "url": "https://api.github.com/users/mangel951",
+      "html_url": "https://github.com/mangel951",
+      "avatar_url": "https://avatars.githubusercontent.com/u/244619020?v=4"
+    },
+    "html_url": "https://github.com/mangel951/Tonkeeper-Fake-Balance",
+    "description": "Tonkeeper Fake Balance — TON wallet balance spoofing tool with real-time overlay for Tonkeeper mobile & desktop, custom TON & Jetton balance injection, transaction history forging, and screenshot-safe persistent display",
+    "created_at": "2026-07-01T11:46:21Z",
+    "updated_at": "2026-07-02T19:21:03Z",
+    "pushed_at": "2026-07-01T12:00:09Z",
+    "git_url": "git://github.com/mangel951/Tonkeeper-Fake-Balance.git",
+    "homepage": "",
+    "size": 11011,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "Python",
+    "forks_count": 10,
+    "open_issues_count": 0
   }
 ]
