@@ -58142,5 +58142,51 @@
     "language": "HTML",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1280984042,
+    "name": "video-production-skills",
+    "owner": {
+      "id": 94058511,
+      "url": "https://api.github.com/users/Pluviobyte",
+      "html_url": "https://github.com/Pluviobyte",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94058511?v=4"
+    },
+    "html_url": "https://github.com/Pluviobyte/video-production-skills",
+    "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
+    "created_at": "2026-06-26T05:50:51Z",
+    "updated_at": "2026-07-03T15:35:30Z",
+    "pushed_at": "2026-06-30T09:25:01Z",
+    "git_url": "git://github.com/Pluviobyte/video-production-skills.git",
+    "homepage": null,
+    "size": 10063,
+    "stargazers_count": 501,
+    "watchers_count": 501,
+    "language": "Python",
+    "forks_count": 61,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1285115536,
+    "name": "Rust-Internal-Version-2026",
+    "owner": {
+      "id": 295219002,
+      "url": "https://api.github.com/users/rednightmareley53",
+      "html_url": "https://github.com/rednightmareley53",
+      "avatar_url": "https://avatars.githubusercontent.com/u/295219002?v=4"
+    },
+    "html_url": "https://github.com/rednightmareley53/Rust-Internal-Version-2026",
+    "description": "High-performance external utility for Rust. Features include advanced ESP, projectile aim correction, and no-recoil scripts.",
+    "created_at": "2026-06-30T13:48:31Z",
+    "updated_at": "2026-07-02T11:46:44Z",
+    "pushed_at": "2026-06-30T13:49:44Z",
+    "git_url": "git://github.com/rednightmareley53/Rust-Internal-Version-2026.git",
+    "homepage": "",
+    "size": 4,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
