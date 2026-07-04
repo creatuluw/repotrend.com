@@ -58234,5 +58234,51 @@
     "language": "Python",
     "forks_count": 10,
     "open_issues_count": 0
+  },
+  {
+    "id": 1283308335,
+    "name": "self-learning-skills",
+    "owner": {
+      "id": 47082676,
+      "url": "https://api.github.com/users/Kulaxyz",
+      "html_url": "https://github.com/Kulaxyz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47082676?v=4"
+    },
+    "html_url": "https://github.com/Kulaxyz/self-learning-skills",
+    "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
+    "created_at": "2026-06-28T19:30:36Z",
+    "updated_at": "2026-07-02T19:10:48Z",
+    "pushed_at": "2026-07-01T03:41:29Z",
+    "git_url": "git://github.com/Kulaxyz/self-learning-skills.git",
+    "homepage": null,
+    "size": 28,
+    "stargazers_count": 887,
+    "watchers_count": 887,
+    "language": null,
+    "forks_count": 13,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1286531185,
+    "name": "MECCHA-CHAMELEON-ESP-UPDATE",
+    "owner": {
+      "id": 270966626,
+      "url": "https://api.github.com/users/InnerBeatIntroduce99",
+      "html_url": "https://github.com/InnerBeatIntroduce99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270966626?v=4"
+    },
+    "html_url": "https://github.com/InnerBeatIntroduce99/MECCHA-CHAMELEON-ESP-UPDATE",
+    "description": "🦎 MECCHA-CHAMELEON-ESP-UPDATE – visual enhancement tool with advanced player tracking, ESP wallhack, target locking, and movement features. Regular updates for latest game version.",
+    "created_at": "2026-07-01T21:57:26Z",
+    "updated_at": "2026-07-03T17:48:34Z",
+    "pushed_at": "2026-07-02T16:03:36Z",
+    "git_url": "git://github.com/InnerBeatIntroduce99/MECCHA-CHAMELEON-ESP-UPDATE.git",
+    "homepage": "",
+    "size": 13,
+    "stargazers_count": 73,
+    "watchers_count": 73,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
