@@ -58441,5 +58441,51 @@
     "language": "HTML",
     "forks_count": 9,
     "open_issues_count": 17
+  },
+  {
+    "id": 1280990105,
+    "name": "sim-use",
+    "owner": {
+      "id": 132046583,
+      "url": "https://api.github.com/users/lycorp-jp",
+      "html_url": "https://github.com/lycorp-jp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/132046583?v=4"
+    },
+    "html_url": "https://github.com/lycorp-jp/sim-use",
+    "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
+    "created_at": "2026-06-26T05:59:56Z",
+    "updated_at": "2026-07-04T16:29:04Z",
+    "pushed_at": "2026-07-03T14:20:31Z",
+    "git_url": "git://github.com/lycorp-jp/sim-use.git",
+    "homepage": "",
+    "size": 989,
+    "stargazers_count": 551,
+    "watchers_count": 551,
+    "language": "Swift",
+    "forks_count": 32,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1285497406,
+    "name": "Meccha-Vision-Pro",
+    "owner": {
+      "id": 210458287,
+      "url": "https://api.github.com/users/personalplace",
+      "html_url": "https://github.com/personalplace",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210458287?v=4"
+    },
+    "html_url": "https://github.com/personalplace/Meccha-Vision-Pro",
+    "description": "🦎 Meccha-Vision-Pro – visual enhancement tool with advanced player tracking, ESP wallhack, target locking, and movement features. Dominate the hide-and-seek battlefield!",
+    "created_at": "2026-06-30T21:38:52Z",
+    "updated_at": "2026-07-03T17:47:58Z",
+    "pushed_at": "2026-07-02T15:59:57Z",
+    "git_url": "git://github.com/personalplace/Meccha-Vision-Pro.git",
+    "homepage": "",
+    "size": 19,
+    "stargazers_count": 55,
+    "watchers_count": 55,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
