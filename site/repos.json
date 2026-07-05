@@ -58671,5 +58671,51 @@
     "language": "Python",
     "forks_count": 19,
     "open_issues_count": 0
+  },
+  {
+    "id": 1284959612,
+    "name": "claude-real-video",
+    "owner": {
+      "id": 207666334,
+      "url": "https://api.github.com/users/HUANGCHIHHUNGLeo",
+      "html_url": "https://github.com/HUANGCHIHHUNGLeo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/207666334?v=4"
+    },
+    "html_url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+    "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+    "created_at": "2026-06-30T10:55:02Z",
+    "updated_at": "2026-07-05T08:55:46Z",
+    "pushed_at": "2026-07-05T07:18:45Z",
+    "git_url": "git://github.com/HUANGCHIHHUNGLeo/claude-real-video.git",
+    "homepage": null,
+    "size": 650,
+    "stargazers_count": 827,
+    "watchers_count": 827,
+    "language": "Python",
+    "forks_count": 40,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1284549202,
+    "name": "Hephaestus",
+    "owner": {
+      "id": 213990518,
+      "url": "https://api.github.com/users/Ellian-Eorwyn",
+      "html_url": "https://github.com/Ellian-Eorwyn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/213990518?v=4"
+    },
+    "html_url": "https://github.com/Ellian-Eorwyn/Hephaestus",
+    "description": null,
+    "created_at": "2026-06-30T01:24:47Z",
+    "updated_at": "2026-07-03T18:08:29Z",
+    "pushed_at": "2026-07-01T17:12:19Z",
+    "git_url": "git://github.com/Ellian-Eorwyn/Hephaestus.git",
+    "homepage": null,
+    "size": 1839,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
