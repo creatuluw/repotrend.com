@@ -58487,5 +58487,74 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1233290067,
+    "name": "zero-native",
+    "owner": {
+      "id": 108547162,
+      "url": "https://api.github.com/users/vercel-labs",
+      "html_url": "https://github.com/vercel-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+    },
+    "html_url": "https://github.com/vercel-labs/zero-native",
+    "description": "Build desktop + mobile apps with Zig and web UI",
+    "created_at": "2026-05-08T19:53:41Z",
+    "updated_at": "2026-07-05T00:32:18Z",
+    "pushed_at": "2026-07-03T04:34:42Z",
+    "git_url": "git://github.com/vercel-labs/zero-native.git",
+    "homepage": "https://zero-native.dev",
+    "size": 4507,
+    "stargazers_count": 4265,
+    "watchers_count": 4265,
+    "language": "Zig",
+    "forks_count": 183,
+    "open_issues_count": 44
+  },
+  {
+    "id": 1288292418,
+    "name": "local-llm",
+    "owner": {
+      "id": 73197,
+      "url": "https://api.github.com/users/jamesob",
+      "html_url": "https://github.com/jamesob",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73197?v=4"
+    },
+    "html_url": "https://github.com/jamesob/local-llm",
+    "description": "Everything I know about running LLMs locally",
+    "created_at": "2026-07-03T13:06:03Z",
+    "updated_at": "2026-07-05T03:32:51Z",
+    "pushed_at": "2026-07-03T20:12:00Z",
+    "git_url": "git://github.com/jamesob/local-llm.git",
+    "homepage": "",
+    "size": 10790,
+    "stargazers_count": 773,
+    "watchers_count": 773,
+    "language": "Shell",
+    "forks_count": 35,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1288033238,
+    "name": "bryl-minimal-design",
+    "owner": {
+      "id": 37092544,
+      "url": "https://api.github.com/users/bryllim",
+      "html_url": "https://github.com/bryllim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37092544?v=4"
+    },
+    "html_url": "https://github.com/bryllim/bryl-minimal-design",
+    "description": null,
+    "created_at": "2026-07-03T08:04:44Z",
+    "updated_at": "2026-07-04T17:06:58Z",
+    "pushed_at": "2026-07-03T08:04:47Z",
+    "git_url": "git://github.com/bryllim/bryl-minimal-design.git",
+    "homepage": null,
+    "size": 9,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": null,
+    "forks_count": 13,
+    "open_issues_count": 0
   }
 ]
