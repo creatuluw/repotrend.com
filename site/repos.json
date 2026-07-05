@@ -58625,5 +58625,51 @@
     "language": "Go",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1258932513,
+    "name": "Uncensored-Local-Studio",
+    "owner": {
+      "id": 54399984,
+      "url": "https://api.github.com/users/techjarves",
+      "html_url": "https://github.com/techjarves",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54399984?v=4"
+    },
+    "html_url": "https://github.com/techjarves/Uncensored-Local-Studio",
+    "description": "Uncensored local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Image Generation, GGUF LLMs, Text to Speech & Speech to Text",
+    "created_at": "2026-06-04T03:45:01Z",
+    "updated_at": "2026-07-04T19:13:04Z",
+    "pushed_at": "2026-07-03T06:43:07Z",
+    "git_url": "git://github.com/techjarves/Uncensored-Local-Studio.git",
+    "homepage": "",
+    "size": 4042,
+    "stargazers_count": 482,
+    "watchers_count": 482,
+    "language": "JavaScript",
+    "forks_count": 131,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1288467466,
+    "name": "Auto-FreeCF",
+    "owner": {
+      "id": 137678581,
+      "url": "https://api.github.com/users/mocasus",
+      "html_url": "https://github.com/mocasus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137678581?v=4"
+    },
+    "html_url": "https://github.com/mocasus/Auto-FreeCF",
+    "description": "Cloudflare Workers AI Account ID and token collector with explicit automation modes",
+    "created_at": "2026-07-03T16:18:25Z",
+    "updated_at": "2026-07-05T08:38:49Z",
+    "pushed_at": "2026-07-04T18:05:06Z",
+    "git_url": "git://github.com/mocasus/Auto-FreeCF.git",
+    "homepage": null,
+    "size": 299,
+    "stargazers_count": 62,
+    "watchers_count": 62,
+    "language": "Python",
+    "forks_count": 19,
+    "open_issues_count": 0
   }
 ]
