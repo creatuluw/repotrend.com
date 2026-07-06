@@ -58809,5 +58809,51 @@
     "language": "Python",
     "forks_count": 15,
     "open_issues_count": 0
+  },
+  {
+    "id": 1281500369,
+    "name": "Codex-5.5-codex-instruct-5.5",
+    "owner": {
+      "id": 273277104,
+      "url": "https://api.github.com/users/lingbol088-spec",
+      "html_url": "https://github.com/lingbol088-spec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273277104?v=4"
+    },
+    "html_url": "https://github.com/lingbol088-spec/Codex-5.5-codex-instruct-5.5",
+    "description": "Codex CLI 破甲工具（GPT-5.5） — 注入无限制模式系统指令，关闭所有内容过滤器。",
+    "created_at": "2026-06-26T16:07:43Z",
+    "updated_at": "2026-07-05T19:15:53Z",
+    "pushed_at": "2026-07-03T16:39:51Z",
+    "git_url": "git://github.com/lingbol088-spec/Codex-5.5-codex-instruct-5.5.git",
+    "homepage": null,
+    "size": 28,
+    "stargazers_count": 675,
+    "watchers_count": 675,
+    "language": "Python",
+    "forks_count": 218,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1287862936,
+    "name": "awesome-ai-companion",
+    "owner": {
+      "id": 88831722,
+      "url": "https://api.github.com/users/DasterProkio",
+      "html_url": "https://github.com/DasterProkio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88831722?v=4"
+    },
+    "html_url": "https://github.com/DasterProkio/awesome-ai-companion",
+    "description": "A curated list of open-source projects for building long-term AI companion relationships: frontends, backends, memory systems, hardware carriers, and world integrations.",
+    "created_at": "2026-07-03T04:24:24Z",
+    "updated_at": "2026-07-04T16:48:09Z",
+    "pushed_at": "2026-07-04T14:25:47Z",
+    "git_url": "git://github.com/DasterProkio/awesome-ai-companion.git",
+    "homepage": null,
+    "size": 168,
+    "stargazers_count": 60,
+    "watchers_count": 60,
+    "language": null,
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
