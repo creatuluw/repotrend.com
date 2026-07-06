@@ -58855,5 +58855,74 @@
     "language": null,
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1254681752,
+    "name": "Void-Tools-v2.0",
+    "owner": {
+      "id": 121522213,
+      "url": "https://api.github.com/users/V0id-v2",
+      "html_url": "https://github.com/V0id-v2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121522213?v=4"
+    },
+    "html_url": "https://github.com/V0id-v2/Void-Tools-v2.0",
+    "description": "Python terminal multitool — OSINT, Discord, web & network utilities. Rich TUI, 13 themes, remote updates. Educational use only.",
+    "created_at": "2026-05-30T21:57:30Z",
+    "updated_at": "2026-07-06T03:12:00Z",
+    "pushed_at": "2026-06-20T22:51:37Z",
+    "git_url": "git://github.com/V0id-v2/Void-Tools-v2.0.git",
+    "homepage": null,
+    "size": 1157,
+    "stargazers_count": 4007,
+    "watchers_count": 4007,
+    "language": "Python",
+    "forks_count": 50,
+    "open_issues_count": 11
+  },
+  {
+    "id": 1278668528,
+    "name": "hermes-browser-extension",
+    "owner": {
+      "id": 222723615,
+      "url": "https://api.github.com/users/abundantbeing",
+      "html_url": "https://github.com/abundantbeing",
+      "avatar_url": "https://avatars.githubusercontent.com/u/222723615?v=4"
+    },
+    "html_url": "https://github.com/abundantbeing/hermes-browser-extension",
+    "description": "Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
+    "created_at": "2026-06-24T02:20:56Z",
+    "updated_at": "2026-07-06T03:51:20Z",
+    "pushed_at": "2026-07-06T02:26:06Z",
+    "git_url": "git://github.com/abundantbeing/hermes-browser-extension.git",
+    "homepage": null,
+    "size": 23123,
+    "stargazers_count": 523,
+    "watchers_count": 523,
+    "language": "JavaScript",
+    "forks_count": 45,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1289285148,
+    "name": "BareMetal-RAM-Dumper",
+    "owner": {
+      "id": 118443791,
+      "url": "https://api.github.com/users/pIat0n",
+      "html_url": "https://github.com/pIat0n",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118443791?v=4"
+    },
+    "html_url": "https://github.com/pIat0n/BareMetal-RAM-Dumper",
+    "description": "A bare-metal x86 utility to dump physical RAM directly to disk. Built and tested for Cold Boot Attack experiments on frozen memory.",
+    "created_at": "2026-07-04T14:54:08Z",
+    "updated_at": "2026-07-06T02:25:42Z",
+    "pushed_at": "2026-07-04T14:56:08Z",
+    "git_url": "git://github.com/pIat0n/BareMetal-RAM-Dumper.git",
+    "homepage": null,
+    "size": 21,
+    "stargazers_count": 78,
+    "watchers_count": 78,
+    "language": "Assembly",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
