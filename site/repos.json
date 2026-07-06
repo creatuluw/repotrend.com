@@ -58763,5 +58763,51 @@
     "language": "Python",
     "forks_count": 7,
     "open_issues_count": 0
+  },
+  {
+    "id": 1282277298,
+    "name": "cdk-redeem-only-extension",
+    "owner": {
+      "id": 170342099,
+      "url": "https://api.github.com/users/kui123456789",
+      "html_url": "https://github.com/kui123456789",
+      "avatar_url": "https://avatars.githubusercontent.com/u/170342099?v=4"
+    },
+    "html_url": "https://github.com/kui123456789/cdk-redeem-only-extension",
+    "description": "UPI redeem only extension",
+    "created_at": "2026-06-27T15:00:12Z",
+    "updated_at": "2026-07-04T18:57:59Z",
+    "pushed_at": "2026-07-03T10:38:24Z",
+    "git_url": "git://github.com/kui123456789/cdk-redeem-only-extension.git",
+    "homepage": null,
+    "size": 8164,
+    "stargazers_count": 493,
+    "watchers_count": 493,
+    "language": "JavaScript",
+    "forks_count": 185,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1286924435,
+    "name": "FrciblyK12",
+    "owner": {
+      "id": 199654071,
+      "url": "https://api.github.com/users/sky3100",
+      "html_url": "https://github.com/sky3100",
+      "avatar_url": "https://avatars.githubusercontent.com/u/199654071?v=4"
+    },
+    "html_url": "https://github.com/sky3100/FrciblyK12",
+    "description": "ChatGPT free 账号注册机，强拉K12team",
+    "created_at": "2026-07-02T08:10:37Z",
+    "updated_at": "2026-07-05T15:09:11Z",
+    "pushed_at": "2026-07-02T08:15:17Z",
+    "git_url": "git://github.com/sky3100/FrciblyK12.git",
+    "homepage": "https://t.me/laogou_365",
+    "size": 12642,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": "Python",
+    "forks_count": 15,
+    "open_issues_count": 0
   }
 ]
