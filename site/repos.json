@@ -59269,5 +59269,74 @@
     "language": "Python",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1244617222,
+    "name": "pxpipe",
+    "owner": {
+      "id": 25894545,
+      "url": "https://api.github.com/users/teamchong",
+      "html_url": "https://github.com/teamchong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25894545?v=4"
+    },
+    "html_url": "https://github.com/teamchong/pxpipe",
+    "description": "cut Fable 5 token usage by rendering text context as images",
+    "created_at": "2026-05-20T12:39:42Z",
+    "updated_at": "2026-07-07T09:45:14Z",
+    "pushed_at": "2026-07-05T18:34:25Z",
+    "git_url": "git://github.com/teamchong/pxpipe.git",
+    "homepage": "",
+    "size": 20157,
+    "stargazers_count": 4409,
+    "watchers_count": 4409,
+    "language": "TypeScript",
+    "forks_count": 332,
+    "open_issues_count": 45
+  },
+  {
+    "id": 1280725695,
+    "name": "contained-app",
+    "owner": {
+      "id": 44447832,
+      "url": "https://api.github.com/users/tdeverx",
+      "html_url": "https://github.com/tdeverx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44447832?v=4"
+    },
+    "html_url": "https://github.com/tdeverx/contained-app",
+    "description": "A native macOS app for Apple's Container CLI",
+    "created_at": "2026-06-25T22:02:07Z",
+    "updated_at": "2026-07-07T04:58:06Z",
+    "pushed_at": "2026-07-06T08:36:33Z",
+    "git_url": "git://github.com/tdeverx/contained-app.git",
+    "homepage": "https://github.com/tdeverx/contained-app/wiki",
+    "size": 14604,
+    "stargazers_count": 507,
+    "watchers_count": 507,
+    "language": "Swift",
+    "forks_count": 20,
+    "open_issues_count": 25
+  },
+  {
+    "id": 1291490166,
+    "name": "Autonomous-Forge",
+    "owner": {
+      "id": 202321152,
+      "url": "https://api.github.com/users/OmarH-creator",
+      "html_url": "https://github.com/OmarH-creator",
+      "avatar_url": "https://avatars.githubusercontent.com/u/202321152?v=4"
+    },
+    "html_url": "https://github.com/OmarH-creator/Autonomous-Forge",
+    "description": "This repo is automated and is fully AI-built and AI-maintained project that continuously plans, codes, tests, and improves itself.",
+    "created_at": "2026-07-06T21:12:03Z",
+    "updated_at": "2026-07-07T09:42:52Z",
+    "pushed_at": "2026-07-07T09:05:22Z",
+    "git_url": "git://github.com/OmarH-creator/Autonomous-Forge.git",
+    "homepage": null,
+    "size": 111,
+    "stargazers_count": 59,
+    "watchers_count": 59,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 1
   }
 ]
