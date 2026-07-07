@@ -59177,5 +59177,51 @@
     "language": "Python",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1279161472,
+    "name": "pdfx",
+    "owner": {
+      "id": 41209538,
+      "url": "https://api.github.com/users/AlexandrosGounis",
+      "html_url": "https://github.com/AlexandrosGounis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41209538?v=4"
+    },
+    "html_url": "https://github.com/AlexandrosGounis/pdfx",
+    "description": "An extension of the traditional PDF standard, allowing multiple files to be stored in a single file via metadata",
+    "created_at": "2026-06-24T12:34:36Z",
+    "updated_at": "2026-07-06T15:39:50Z",
+    "pushed_at": "2026-07-02T10:47:34Z",
+    "git_url": "git://github.com/AlexandrosGounis/pdfx.git",
+    "homepage": "",
+    "size": 3224,
+    "stargazers_count": 719,
+    "watchers_count": 719,
+    "language": "TypeScript",
+    "forks_count": 84,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1289821124,
+    "name": "mira",
+    "owner": {
+      "id": 300056798,
+      "url": "https://api.github.com/users/mira-wm",
+      "html_url": "https://github.com/mira-wm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/300056798?v=4"
+    },
+    "html_url": "https://github.com/mira-wm/mira",
+    "description": "Code for MIRA: Multiplayer Interactive World Models with Representation Autoencoders",
+    "created_at": "2026-07-05T08:41:59Z",
+    "updated_at": "2026-07-06T19:58:53Z",
+    "pushed_at": "2026-07-06T16:28:57Z",
+    "git_url": "git://github.com/mira-wm/mira.git",
+    "homepage": "https://mira-wm.com/",
+    "size": 910,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 0
   }
 ]
