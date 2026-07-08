@@ -59499,5 +59499,74 @@
     "language": "Python",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1264722786,
+    "name": "oomwoo",
+    "owner": {
+      "id": 143911662,
+      "url": "https://api.github.com/users/makerspet",
+      "html_url": "https://github.com/makerspet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143911662?v=4"
+    },
+    "html_url": "https://github.com/makerspet/oomwoo",
+    "description": "Open-source vacuum robot cleaner",
+    "created_at": "2026-06-10T06:03:33Z",
+    "updated_at": "2026-07-08T02:54:20Z",
+    "pushed_at": "2026-07-08T00:09:39Z",
+    "git_url": "git://github.com/makerspet/oomwoo.git",
+    "homepage": "",
+    "size": 3932,
+    "stargazers_count": 3891,
+    "watchers_count": 3891,
+    "language": "Python",
+    "forks_count": 178,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1273878424,
+    "name": "dory",
+    "owner": {
+      "id": 13237525,
+      "url": "https://api.github.com/users/Augani",
+      "html_url": "https://github.com/Augani",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13237525?v=4"
+    },
+    "html_url": "https://github.com/Augani/dory",
+    "description": "A free, open-source native macOS app for Docker & Linux containers, an alternative to OrbStack and Docker Desktop. Universal for Intel and Apple silicon.",
+    "created_at": "2026-06-19T00:54:29Z",
+    "updated_at": "2026-07-07T19:41:43Z",
+    "pushed_at": "2026-07-05T03:53:09Z",
+    "git_url": "git://github.com/Augani/dory.git",
+    "homepage": "https://augani.github.io/dory",
+    "size": 5487,
+    "stargazers_count": 879,
+    "watchers_count": 879,
+    "language": "Swift",
+    "forks_count": 20,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1292197111,
+    "name": "claude-antigravity-agents",
+    "owner": {
+      "id": 28750,
+      "url": "https://api.github.com/users/markfulton",
+      "html_url": "https://github.com/markfulton",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28750?v=4"
+    },
+    "html_url": "https://github.com/markfulton/claude-antigravity-agents",
+    "description": "A Claude Code skill that delegates coding, review, analysis, and research jobs to Google Antigravity CLI (agy) sub-agents — save tokens, use a second model, work in parallel.",
+    "created_at": "2026-07-07T11:02:47Z",
+    "updated_at": "2026-07-07T19:31:35Z",
+    "pushed_at": "2026-07-07T13:38:20Z",
+    "git_url": "git://github.com/markfulton/claude-antigravity-agents.git",
+    "homepage": null,
+    "size": 20,
+    "stargazers_count": 64,
+    "watchers_count": 64,
+    "language": null,
+    "forks_count": 22,
+    "open_issues_count": 0
   }
 ]
