@@ -59568,5 +59568,51 @@
     "language": null,
     "forks_count": 22,
     "open_issues_count": 0
+  },
+  {
+    "id": 1273580359,
+    "name": "dianxing",
+    "owner": {
+      "id": 294868198,
+      "url": "https://api.github.com/users/tianchong-zerotemp",
+      "html_url": "https://github.com/tianchong-zerotemp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/294868198?v=4"
+    },
+    "html_url": "https://github.com/tianchong-zerotemp/dianxing",
+    "description": "DianXing - AI-Driven End-to-End Code Security Auditing",
+    "created_at": "2026-06-18T17:00:17Z",
+    "updated_at": "2026-07-07T18:32:11Z",
+    "pushed_at": "2026-06-24T07:29:28Z",
+    "git_url": "git://github.com/tianchong-zerotemp/dianxing.git",
+    "homepage": null,
+    "size": 545,
+    "stargazers_count": 534,
+    "watchers_count": 534,
+    "language": null,
+    "forks_count": 48,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1289715391,
+    "name": "Firestone2Green",
+    "owner": {
+      "id": 122072519,
+      "url": "https://api.github.com/users/Mer3y1338",
+      "html_url": "https://github.com/Mer3y1338",
+      "avatar_url": "https://avatars.githubusercontent.com/u/122072519?v=4"
+    },
+    "html_url": "https://github.com/Mer3y1338/Firestone2Green",
+    "description": "🟢 Firestone2Green — Windows one-click Firestone / Overwolf local recovery tool with authorization repair, avatar fix, network restore and silent scheduled-task maintenance.",
+    "created_at": "2026-07-05T05:32:38Z",
+    "updated_at": "2026-07-07T16:55:57Z",
+    "pushed_at": "2026-07-07T16:57:38Z",
+    "git_url": "git://github.com/Mer3y1338/Firestone2Green.git",
+    "homepage": "https://github.com/Mer3y1338/Firestone2Green/releases/latest",
+    "size": 434,
+    "stargazers_count": 62,
+    "watchers_count": 62,
+    "language": "PowerShell",
+    "forks_count": 8,
+    "open_issues_count": 1
   }
 ]
