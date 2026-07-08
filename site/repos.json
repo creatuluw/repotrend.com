@@ -59706,5 +59706,51 @@
     "language": "Metal",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1288952336,
+    "name": "X4G",
+    "owner": {
+      "id": 298382259,
+      "url": "https://api.github.com/users/x4gKing",
+      "html_url": "https://github.com/x4gKing",
+      "avatar_url": "https://avatars.githubusercontent.com/u/298382259?v=4"
+    },
+    "html_url": "https://github.com/x4gKing/X4G",
+    "description": null,
+    "created_at": "2026-07-04T06:43:51Z",
+    "updated_at": "2026-07-07T19:59:19Z",
+    "pushed_at": "2026-07-04T21:17:32Z",
+    "git_url": "git://github.com/x4gKing/X4G.git",
+    "homepage": null,
+    "size": 93,
+    "stargazers_count": 647,
+    "watchers_count": 647,
+    "language": "Python",
+    "forks_count": 1573,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1289876891,
+    "name": "ternssh",
+    "owner": {
+      "id": 144478607,
+      "url": "https://api.github.com/users/HaradaKashiwa",
+      "html_url": "https://github.com/HaradaKashiwa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/144478607?v=4"
+    },
+    "html_url": "https://github.com/HaradaKashiwa/ternssh",
+    "description": "A web-based SSH solution that can be deployed on Cloudflare Workers.",
+    "created_at": "2026-07-05T10:07:00Z",
+    "updated_at": "2026-07-07T13:01:19Z",
+    "pushed_at": "2026-07-07T09:24:38Z",
+    "git_url": "git://github.com/HaradaKashiwa/ternssh.git",
+    "homepage": null,
+    "size": 1263,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "TypeScript",
+    "forks_count": 14,
+    "open_issues_count": 0
   }
 ]
