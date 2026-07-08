@@ -59384,5 +59384,74 @@
     "language": "YARA",
     "forks_count": 8,
     "open_issues_count": 0
+  },
+  {
+    "id": 1273536446,
+    "name": "Cowart",
+    "owner": {
+      "id": 8215057,
+      "url": "https://api.github.com/users/zhongerxin",
+      "html_url": "https://github.com/zhongerxin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8215057?v=4"
+    },
+    "html_url": "https://github.com/zhongerxin/Cowart",
+    "description": null,
+    "created_at": "2026-06-18T16:08:30Z",
+    "updated_at": "2026-07-07T19:31:33Z",
+    "pushed_at": "2026-07-05T07:24:00Z",
+    "git_url": "git://github.com/zhongerxin/Cowart.git",
+    "homepage": null,
+    "size": 7661,
+    "stargazers_count": 4067,
+    "watchers_count": 4067,
+    "language": "JavaScript",
+    "forks_count": 323,
+    "open_issues_count": 10
+  },
+  {
+    "id": 1285974683,
+    "name": "OpenOPC",
+    "owner": {
+      "id": 118165258,
+      "url": "https://api.github.com/users/HKUDS",
+      "html_url": "https://github.com/HKUDS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118165258?v=4"
+    },
+    "html_url": "https://github.com/HKUDS/OpenOPC",
+    "description": "OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown",
+    "created_at": "2026-07-01T10:17:37Z",
+    "updated_at": "2026-07-07T19:13:18Z",
+    "pushed_at": "2026-07-07T03:47:33Z",
+    "git_url": "git://github.com/HKUDS/OpenOPC.git",
+    "homepage": "",
+    "size": 9224,
+    "stargazers_count": 565,
+    "watchers_count": 565,
+    "language": "Python",
+    "forks_count": 76,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1288853677,
+    "name": "HashPay",
+    "owner": {
+      "id": 219221999,
+      "url": "https://api.github.com/users/TGDash",
+      "html_url": "https://github.com/TGDash",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219221999?v=4"
+    },
+    "html_url": "https://github.com/TGDash/HashPay",
+    "description": null,
+    "created_at": "2026-07-04T03:38:59Z",
+    "updated_at": "2026-07-07T13:14:37Z",
+    "pushed_at": "2026-07-06T13:49:21Z",
+    "git_url": "git://github.com/TGDash/HashPay.git",
+    "homepage": null,
+    "size": 2348,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": "TypeScript",
+    "forks_count": 21,
+    "open_issues_count": 0
   }
 ]
