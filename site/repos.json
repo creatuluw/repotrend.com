@@ -59660,5 +59660,51 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1288848940,
+    "name": "Codex-X",
+    "owner": {
+      "id": 139136586,
+      "url": "https://api.github.com/users/yynxxxxx",
+      "html_url": "https://github.com/yynxxxxx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139136586?v=4"
+    },
+    "html_url": "https://github.com/yynxxxxx/Codex-X",
+    "description": "Codex Switch & Instruct desktop manager",
+    "created_at": "2026-07-04T03:28:35Z",
+    "updated_at": "2026-07-08T14:13:19Z",
+    "pushed_at": "2026-07-08T13:50:20Z",
+    "git_url": "git://github.com/yynxxxxx/Codex-X.git",
+    "homepage": "https://github.com/yynxxxxx/Codex-X",
+    "size": 5837,
+    "stargazers_count": 570,
+    "watchers_count": 570,
+    "language": "Rust",
+    "forks_count": 90,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1289591133,
+    "name": "liquid-glass-screensaver",
+    "owner": {
+      "id": 7717963,
+      "url": "https://api.github.com/users/destefanis",
+      "html_url": "https://github.com/destefanis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7717963?v=4"
+    },
+    "html_url": "https://github.com/destefanis/liquid-glass-screensaver",
+    "description": null,
+    "created_at": "2026-07-05T00:29:07Z",
+    "updated_at": "2026-07-07T14:59:23Z",
+    "pushed_at": "2026-07-05T14:27:29Z",
+    "git_url": "git://github.com/destefanis/liquid-glass-screensaver.git",
+    "homepage": null,
+    "size": 131,
+    "stargazers_count": 80,
+    "watchers_count": 80,
+    "language": "Metal",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
