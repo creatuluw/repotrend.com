@@ -59453,5 +59453,51 @@
     "language": "TypeScript",
     "forks_count": 21,
     "open_issues_count": 0
+  },
+  {
+    "id": 1267899050,
+    "name": "cliare",
+    "owner": {
+      "id": 172510440,
+      "url": "https://api.github.com/users/modiqo",
+      "html_url": "https://github.com/modiqo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/172510440?v=4"
+    },
+    "html_url": "https://github.com/modiqo/cliare",
+    "description": "CLI agent-readiness measurement, command-shape inference, and CI scorecards",
+    "created_at": "2026-06-13T00:38:35Z",
+    "updated_at": "2026-07-07T17:57:55Z",
+    "pushed_at": "2026-07-05T00:30:50Z",
+    "git_url": "git://github.com/modiqo/cliare.git",
+    "homepage": "https://cliare.sh",
+    "size": 19921,
+    "stargazers_count": 713,
+    "watchers_count": 713,
+    "language": "Rust",
+    "forks_count": 42,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1289307857,
+    "name": "digital-finance-factor-pricing",
+    "owner": {
+      "id": 270312934,
+      "url": "https://api.github.com/users/lgz20061024-cmyk",
+      "html_url": "https://github.com/lgz20061024-cmyk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270312934?v=4"
+    },
+    "html_url": "https://github.com/lgz20061024-cmyk/digital-finance-factor-pricing",
+    "description": null,
+    "created_at": "2026-07-04T15:27:05Z",
+    "updated_at": "2026-07-06T23:22:46Z",
+    "pushed_at": "2026-07-05T11:59:11Z",
+    "git_url": "git://github.com/lgz20061024-cmyk/digital-finance-factor-pricing.git",
+    "homepage": null,
+    "size": 14251,
+    "stargazers_count": 62,
+    "watchers_count": 62,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
