@@ -59844,5 +59844,51 @@
     "language": "TypeScript",
     "forks_count": 7,
     "open_issues_count": 0
+  },
+  {
+    "id": 1289743790,
+    "name": "Vibe-Research",
+    "owner": {
+      "id": 166034225,
+      "url": "https://api.github.com/users/simonlin1212",
+      "html_url": "https://github.com/simonlin1212",
+      "avatar_url": "https://avatars.githubusercontent.com/u/166034225?v=4"
+    },
+    "html_url": "https://github.com/simonlin1212/Vibe-Research",
+    "description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
+    "created_at": "2026-07-05T06:30:55Z",
+    "updated_at": "2026-07-08T17:35:20Z",
+    "pushed_at": "2026-07-07T13:14:31Z",
+    "git_url": "git://github.com/simonlin1212/Vibe-Research.git",
+    "homepage": "https://viberesearch.wiki",
+    "size": 2353,
+    "stargazers_count": 543,
+    "watchers_count": 543,
+    "language": "TypeScript",
+    "forks_count": 104,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1290185701,
+    "name": "canvas-flow",
+    "owner": {
+      "id": 180160775,
+      "url": "https://api.github.com/users/fernandomenuk",
+      "html_url": "https://github.com/fernandomenuk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/180160775?v=4"
+    },
+    "html_url": "https://github.com/fernandomenuk/canvas-flow",
+    "description": "Local HTML-artifact review tool for coding agents — render a plan as HTML, annotate it in the browser, send feedback back to the agent. Installable as an agent skill.",
+    "created_at": "2026-07-05T17:15:32Z",
+    "updated_at": "2026-07-08T07:39:38Z",
+    "pushed_at": "2026-07-08T03:22:42Z",
+    "git_url": "git://github.com/fernandomenuk/canvas-flow.git",
+    "homepage": "https://github.com/fernandomenuk/canvas-flow",
+    "size": 223,
+    "stargazers_count": 64,
+    "watchers_count": 64,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 1
   }
 ]
