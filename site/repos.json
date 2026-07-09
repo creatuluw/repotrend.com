@@ -60097,5 +60097,51 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1266985960,
+    "name": "compose-nav-graph",
+    "owner": {
+      "id": 24237865,
+      "url": "https://api.github.com/users/skydoves",
+      "html_url": "https://github.com/skydoves",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24237865?v=4"
+    },
+    "html_url": "https://github.com/skydoves/compose-nav-graph",
+    "description": "⛵️ Compose Navigation Graph plugin for Android Studio that visualizes your entire app flow as an interactive map of rendered previews, typed arguments, and transitions.",
+    "created_at": "2026-06-12T05:58:40Z",
+    "updated_at": "2026-07-09T11:12:07Z",
+    "pushed_at": "2026-07-04T05:07:26Z",
+    "git_url": "git://github.com/skydoves/compose-nav-graph.git",
+    "homepage": "https://skydoves.github.io/compose-nav-graph/",
+    "size": 50329,
+    "stargazers_count": 478,
+    "watchers_count": 478,
+    "language": "Kotlin",
+    "forks_count": 21,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1295568084,
+    "name": "Blox-Fruits-Script-Auto-Farm-2026-Mobile",
+    "owner": {
+      "id": 140064306,
+      "url": "https://api.github.com/users/KINGSAM868",
+      "html_url": "https://github.com/KINGSAM868",
+      "avatar_url": "https://avatars.githubusercontent.com/u/140064306?v=4"
+    },
+    "html_url": "https://github.com/KINGSAM868/Blox-Fruits-Script-Auto-Farm-2026-Mobile",
+    "description": "Blox Fruits auto farm script for mobile 2026. Auto level, boss farm, fruit finder, and quest automation features.",
+    "created_at": "2026-07-09T17:01:01Z",
+    "updated_at": "2026-07-09T18:20:23Z",
+    "pushed_at": "2026-07-09T17:01:27Z",
+    "git_url": "git://github.com/KINGSAM868/Blox-Fruits-Script-Auto-Farm-2026-Mobile.git",
+    "homepage": "",
+    "size": 24,
+    "stargazers_count": 93,
+    "watchers_count": 93,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
