@@ -60005,5 +60005,51 @@
     "language": null,
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1275767680,
+    "name": "zeus",
+    "owner": {
+      "id": 281800807,
+      "url": "https://api.github.com/users/IR-NETLIFY",
+      "html_url": "https://github.com/IR-NETLIFY",
+      "avatar_url": "https://avatars.githubusercontent.com/u/281800807?v=4"
+    },
+    "html_url": "https://github.com/IR-NETLIFY/zeus",
+    "description": "⚡️ پنل کلودفلر زئوس (Zeus Panel) https://t.me/ZEUS_PANEL_BOT",
+    "created_at": "2026-06-21T05:35:21Z",
+    "updated_at": "2026-07-07T19:55:52Z",
+    "pushed_at": "2026-07-07T16:18:00Z",
+    "git_url": "git://github.com/IR-NETLIFY/zeus.git",
+    "homepage": "https://zeus-panel.ir-netlify.workers.dev",
+    "size": 19902,
+    "stargazers_count": 688,
+    "watchers_count": 688,
+    "language": "JavaScript",
+    "forks_count": 94,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1289951235,
+    "name": "dotfiles",
+    "owner": {
+      "id": 3233006,
+      "url": "https://api.github.com/users/kunchenguid",
+      "html_url": "https://github.com/kunchenguid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3233006?v=4"
+    },
+    "html_url": "https://github.com/kunchenguid/dotfiles",
+    "description": null,
+    "created_at": "2026-07-05T12:05:39Z",
+    "updated_at": "2026-07-08T19:17:24Z",
+    "pushed_at": "2026-07-08T19:25:24Z",
+    "git_url": "git://github.com/kunchenguid/dotfiles.git",
+    "homepage": null,
+    "size": 49,
+    "stargazers_count": 92,
+    "watchers_count": 92,
+    "language": "Nix",
+    "forks_count": 41,
+    "open_issues_count": 1
   }
 ]
