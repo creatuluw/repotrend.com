@@ -60442,5 +60442,51 @@
     "language": "HTML",
     "forks_count": 9,
     "open_issues_count": 0
+  },
+  {
+    "id": 1286800347,
+    "name": "FuckClaude",
+    "owner": {
+      "id": 19836925,
+      "url": "https://api.github.com/users/LinXiaoTao",
+      "html_url": "https://github.com/LinXiaoTao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19836925?v=4"
+    },
+    "html_url": "https://github.com/LinXiaoTao/FuckClaude",
+    "description": null,
+    "created_at": "2026-07-02T05:36:45Z",
+    "updated_at": "2026-07-10T14:07:03Z",
+    "pushed_at": "2026-07-07T10:56:44Z",
+    "git_url": "git://github.com/LinXiaoTao/FuckClaude.git",
+    "homepage": "https://fuck-claude.vercel.app",
+    "size": 754,
+    "stargazers_count": 732,
+    "watchers_count": 732,
+    "language": "TypeScript",
+    "forks_count": 71,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1293047359,
+    "name": "openclaw-voice-call-realtime",
+    "owner": {
+      "id": 78862,
+      "url": "https://api.github.com/users/TristanBrotherton",
+      "html_url": "https://github.com/TristanBrotherton",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78862?v=4"
+    },
+    "html_url": "https://github.com/TristanBrotherton/openclaw-voice-call-realtime",
+    "description": "Give your AI assistant a phone — OpenClaw plugin for real phone calls via Twilio + OpenAI Realtime, with in-call tools, transcripts, and call screening",
+    "created_at": "2026-07-08T04:22:37Z",
+    "updated_at": "2026-07-10T13:01:20Z",
+    "pushed_at": "2026-07-08T21:14:16Z",
+    "git_url": "git://github.com/TristanBrotherton/openclaw-voice-call-realtime.git",
+    "homepage": null,
+    "size": 835,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
