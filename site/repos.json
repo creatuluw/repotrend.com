@@ -60143,5 +60143,74 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1287460663,
+    "name": "T3MP3ST",
+    "owner": {
+      "id": 133052465,
+      "url": "https://api.github.com/users/elder-plinius",
+      "html_url": "https://github.com/elder-plinius",
+      "avatar_url": "https://avatars.githubusercontent.com/u/133052465?v=4"
+    },
+    "html_url": "https://github.com/elder-plinius/T3MP3ST",
+    "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
+    "created_at": "2026-07-02T17:53:55Z",
+    "updated_at": "2026-07-09T19:49:56Z",
+    "pushed_at": "2026-07-09T12:51:34Z",
+    "git_url": "git://github.com/elder-plinius/T3MP3ST.git",
+    "homepage": "",
+    "size": 1835,
+    "stargazers_count": 4130,
+    "watchers_count": 4130,
+    "language": "TypeScript",
+    "forks_count": 887,
+    "open_issues_count": 36
+  },
+  {
+    "id": 1288102626,
+    "name": "open-science",
+    "owner": {
+      "id": 297363890,
+      "url": "https://api.github.com/users/ai4s-research",
+      "html_url": "https://github.com/ai4s-research",
+      "avatar_url": "https://avatars.githubusercontent.com/u/297363890?v=4"
+    },
+    "html_url": "https://github.com/ai4s-research/open-science",
+    "description": "Open Science Desktop — local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
+    "created_at": "2026-07-03T09:22:31Z",
+    "updated_at": "2026-07-09T19:30:54Z",
+    "pushed_at": "2026-07-09T19:30:45Z",
+    "git_url": "git://github.com/ai4s-research/open-science.git",
+    "homepage": "https://openedscience.com/",
+    "size": 6292,
+    "stargazers_count": 489,
+    "watchers_count": 489,
+    "language": "TypeScript",
+    "forks_count": 53,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1295571218,
+    "name": "Logitech-No-Recoil-Macro-Universal-2026",
+    "owner": {
+      "id": 205632403,
+      "url": "https://api.github.com/users/M12-john",
+      "html_url": "https://github.com/M12-john",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205632403?v=4"
+    },
+    "html_url": "https://github.com/M12-john/Logitech-No-Recoil-Macro-Universal-2026",
+    "description": "Logitech no recoil macro universal 2026. Works with G-Hub for all FPS games recoil control.",
+    "created_at": "2026-07-09T17:04:17Z",
+    "updated_at": "2026-07-09T18:25:20Z",
+    "pushed_at": "2026-07-09T17:04:18Z",
+    "git_url": "git://github.com/M12-john/Logitech-No-Recoil-Macro-Universal-2026.git",
+    "homepage": "",
+    "size": 1,
+    "stargazers_count": 93,
+    "watchers_count": 93,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
