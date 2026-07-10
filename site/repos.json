@@ -60373,5 +60373,74 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1212004868,
+    "name": "wx-cli",
+    "owner": {
+      "id": 30525741,
+      "url": "https://api.github.com/users/jackwener",
+      "html_url": "https://github.com/jackwener",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30525741?v=4"
+    },
+    "html_url": "https://github.com/jackwener/wx-cli",
+    "description": "WeChat local data CLI with daemon architecture",
+    "created_at": "2026-04-16T01:08:18Z",
+    "updated_at": "2026-07-10T09:08:08Z",
+    "pushed_at": "2026-06-11T12:13:30Z",
+    "git_url": "git://github.com/jackwener/wx-cli.git",
+    "homepage": null,
+    "size": 458,
+    "stargazers_count": 3875,
+    "watchers_count": 3875,
+    "language": "Rust",
+    "forks_count": 1453,
+    "open_issues_count": 62
+  },
+  {
+    "id": 1285906429,
+    "name": "CyberMeowfia",
+    "owner": {
+      "id": 263135446,
+      "url": "https://api.github.com/users/NebuSec",
+      "html_url": "https://github.com/NebuSec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/263135446?v=4"
+    },
+    "html_url": "https://github.com/NebuSec/CyberMeowfia",
+    "description": "PoCs and exploits for CVEs discovered by VEGA. ",
+    "created_at": "2026-07-01T08:55:52Z",
+    "updated_at": "2026-07-10T09:37:04Z",
+    "pushed_at": "2026-07-09T09:43:53Z",
+    "git_url": "git://github.com/NebuSec/CyberMeowfia.git",
+    "homepage": null,
+    "size": 136,
+    "stargazers_count": 589,
+    "watchers_count": 589,
+    "language": "C",
+    "forks_count": 181,
+    "open_issues_count": 22
+  },
+  {
+    "id": 1292354210,
+    "name": "fox-ai-roundtable",
+    "owner": {
+      "id": 132487906,
+      "url": "https://api.github.com/users/PeterPanSwift",
+      "html_url": "https://github.com/PeterPanSwift",
+      "avatar_url": "https://avatars.githubusercontent.com/u/132487906?v=4"
+    },
+    "html_url": "https://github.com/PeterPanSwift/fox-ai-roundtable",
+    "description": "🦊 Ask once, get three answers — same prompt to Claude / Codex (GPT) / Antigravity (Gemini) via their local CLIs",
+    "created_at": "2026-07-07T13:14:52Z",
+    "updated_at": "2026-07-09T07:54:10Z",
+    "pushed_at": "2026-07-07T15:06:27Z",
+    "git_url": "git://github.com/PeterPanSwift/fox-ai-roundtable.git",
+    "homepage": null,
+    "size": 1487,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": "HTML",
+    "forks_count": 9,
+    "open_issues_count": 0
   }
 ]
