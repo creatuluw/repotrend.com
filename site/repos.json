@@ -60258,5 +60258,51 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1293372051,
+    "name": "lingbot-world-v2",
+    "owner": {
+      "id": 212647524,
+      "url": "https://api.github.com/users/Robbyant",
+      "html_url": "https://github.com/Robbyant",
+      "avatar_url": "https://avatars.githubusercontent.com/u/212647524?v=4"
+    },
+    "html_url": "https://github.com/Robbyant/lingbot-world-v2",
+    "description": "Infinite Worlds with Versatile Interactions",
+    "created_at": "2026-07-08T09:24:50Z",
+    "updated_at": "2026-07-10T03:35:13Z",
+    "pushed_at": "2026-07-09T02:26:36Z",
+    "git_url": "git://github.com/Robbyant/lingbot-world-v2.git",
+    "homepage": "https://technology.robbyant.com/lingbot-world-v2",
+    "size": 9925,
+    "stargazers_count": 607,
+    "watchers_count": 607,
+    "language": "Python",
+    "forks_count": 12,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1295873222,
+    "name": "Windows-11-Debloater-2026-GitHub",
+    "owner": {
+      "id": 233357953,
+      "url": "https://api.github.com/users/Loko1973",
+      "html_url": "https://github.com/Loko1973",
+      "avatar_url": "https://avatars.githubusercontent.com/u/233357953?v=4"
+    },
+    "html_url": "https://github.com/Loko1973/Windows-11-Debloater-2026-GitHub",
+    "description": "Windows 11 Debloater Github - remove bloatware and optimize Windows 11 performance.",
+    "created_at": "2026-07-09T23:46:26Z",
+    "updated_at": "2026-07-10T03:26:34Z",
+    "pushed_at": "2026-07-09T23:46:48Z",
+    "git_url": "git://github.com/Loko1973/Windows-11-Debloater-2026-GitHub.git",
+    "homepage": "",
+    "size": 22,
+    "stargazers_count": 98,
+    "watchers_count": 98,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
