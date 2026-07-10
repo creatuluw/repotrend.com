@@ -60534,5 +60534,51 @@
     "language": "TypeScript",
     "forks_count": 5,
     "open_issues_count": 1
+  },
+  {
+    "id": 1289364610,
+    "name": "davit",
+    "owner": {
+      "id": 172038,
+      "url": "https://api.github.com/users/wouterdebie",
+      "html_url": "https://github.com/wouterdebie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/172038?v=4"
+    },
+    "html_url": "https://github.com/wouterdebie/davit",
+    "description": "A native macOS UI for Apple's platform",
+    "created_at": "2026-07-04T16:50:17Z",
+    "updated_at": "2026-07-09T19:19:39Z",
+    "pushed_at": "2026-07-09T15:29:53Z",
+    "git_url": "git://github.com/wouterdebie/davit.git",
+    "homepage": null,
+    "size": 7150,
+    "stargazers_count": 702,
+    "watchers_count": 702,
+    "language": "Swift",
+    "forks_count": 9,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1292853726,
+    "name": "FlockCamRE",
+    "owner": {
+      "id": 246671938,
+      "url": "https://api.github.com/users/kernelstub",
+      "html_url": "https://github.com/kernelstub",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246671938?v=4"
+    },
+    "html_url": "https://github.com/kernelstub/FlockCamRE",
+    "description": "Reverse engineering and technical documentation of Flock Safety camera hardware, firmware, networking, and embedded systems.",
+    "created_at": "2026-07-07T22:57:40Z",
+    "updated_at": "2026-07-09T04:18:23Z",
+    "pushed_at": "2026-07-07T23:59:11Z",
+    "git_url": "git://github.com/kernelstub/FlockCamRE.git",
+    "homepage": null,
+    "size": 1593,
+    "stargazers_count": 56,
+    "watchers_count": 56,
+    "language": null,
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
