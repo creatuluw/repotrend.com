@@ -60488,5 +60488,51 @@
     "language": "TypeScript",
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1281163724,
+    "name": "lanshu-animated-architecture-diagram",
+    "owner": {
+      "id": 29557585,
+      "url": "https://api.github.com/users/cclank",
+      "html_url": "https://github.com/cclank",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29557585?v=4"
+    },
+    "html_url": "https://github.com/cclank/lanshu-animated-architecture-diagram",
+    "description": "Premium hand-drawn animated architecture diagram Codex skill",
+    "created_at": "2026-06-26T09:29:51Z",
+    "updated_at": "2026-07-10T14:34:28Z",
+    "pushed_at": "2026-06-26T15:12:14Z",
+    "git_url": "git://github.com/cclank/lanshu-animated-architecture-diagram.git",
+    "homepage": null,
+    "size": 37034,
+    "stargazers_count": 676,
+    "watchers_count": 676,
+    "language": "Python",
+    "forks_count": 74,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1294906179,
+    "name": "quota-float",
+    "owner": {
+      "id": 285651948,
+      "url": "https://api.github.com/users/change-42-yhmm",
+      "html_url": "https://github.com/change-42-yhmm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/285651948?v=4"
+    },
+    "html_url": "https://github.com/change-42-yhmm/quota-float",
+    "description": "A plug-in for easy viewing of credit limits",
+    "created_at": "2026-07-09T08:33:45Z",
+    "updated_at": "2026-07-10T14:12:18Z",
+    "pushed_at": "2026-07-10T14:29:45Z",
+    "git_url": "git://github.com/change-42-yhmm/quota-float.git",
+    "homepage": null,
+    "size": 913,
+    "stargazers_count": 59,
+    "watchers_count": 59,
+    "language": "TypeScript",
+    "forks_count": 5,
+    "open_issues_count": 1
   }
 ]
