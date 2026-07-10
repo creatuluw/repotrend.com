@@ -60304,5 +60304,74 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1277675818,
+    "name": "exploitarium",
+    "owner": {
+      "id": 63224111,
+      "url": "https://api.github.com/users/bikini",
+      "html_url": "https://github.com/bikini",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63224111?v=4"
+    },
+    "html_url": "https://github.com/bikini/exploitarium",
+    "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+    "created_at": "2026-06-23T05:14:11Z",
+    "updated_at": "2026-07-10T03:01:34Z",
+    "pushed_at": "2026-07-04T06:27:26Z",
+    "git_url": "git://github.com/bikini/exploitarium.git",
+    "homepage": "",
+    "size": 363,
+    "stargazers_count": 3837,
+    "watchers_count": 3837,
+    "language": "Python",
+    "forks_count": 1104,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1285512939,
+    "name": "reverse-flow-skill",
+    "owner": {
+      "id": 273277104,
+      "url": "https://api.github.com/users/lingbol088-spec",
+      "html_url": "https://github.com/lingbol088-spec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273277104?v=4"
+    },
+    "html_url": "https://github.com/lingbol088-spec/reverse-flow-skill",
+    "description": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
+    "created_at": "2026-06-30T22:08:31Z",
+    "updated_at": "2026-07-10T02:19:22Z",
+    "pushed_at": "2026-07-03T16:40:16Z",
+    "git_url": "git://github.com/lingbol088-spec/reverse-flow-skill.git",
+    "homepage": null,
+    "size": 45,
+    "stargazers_count": 477,
+    "watchers_count": 477,
+    "language": "Python",
+    "forks_count": 228,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1295571972,
+    "name": "PDF-Watermark-Remover-2026-Batch",
+    "owner": {
+      "id": 227567962,
+      "url": "https://api.github.com/users/was-x",
+      "html_url": "https://github.com/was-x",
+      "avatar_url": "https://avatars.githubusercontent.com/u/227567962?v=4"
+    },
+    "html_url": "https://github.com/was-x/PDF-Watermark-Remover-2026-Batch",
+    "description": "PDF watermark remover batch tool 2026. Remove watermarks from multiple PDF files simultaneously.",
+    "created_at": "2026-07-09T17:05:02Z",
+    "updated_at": "2026-07-09T18:27:20Z",
+    "pushed_at": "2026-07-09T17:05:26Z",
+    "git_url": "git://github.com/was-x/PDF-Watermark-Remover-2026-Batch.git",
+    "homepage": "",
+    "size": 24,
+    "stargazers_count": 98,
+    "watchers_count": 98,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
