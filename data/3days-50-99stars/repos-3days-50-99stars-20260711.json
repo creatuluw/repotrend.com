@@ -1,51 +1,5 @@
 [
   {
-    "id": 1293528352,
-    "name": "ditto",
-    "owner": {
-      "id": 190882507,
-      "url": "https://api.github.com/users/ohad6k",
-      "html_url": "https://github.com/ohad6k",
-      "avatar_url": "https://avatars.githubusercontent.com/u/190882507?v=4"
-    },
-    "html_url": "https://github.com/ohad6k/ditto",
-    "description": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
-    "created_at": "2026-07-08T11:42:32Z",
-    "updated_at": "2026-07-11T11:38:05Z",
-    "pushed_at": "2026-07-10T22:15:48Z",
-    "git_url": "git://github.com/ohad6k/ditto.git",
-    "homepage": null,
-    "size": 6959,
-    "stargazers_count": 97,
-    "watchers_count": 97,
-    "language": "Python",
-    "forks_count": 11,
-    "open_issues_count": 6
-  },
-  {
-    "id": 1296593066,
-    "name": "grok-auto-register",
-    "owner": {
-      "id": 21236162,
-      "url": "https://api.github.com/users/maxucheng0",
-      "html_url": "https://github.com/maxucheng0",
-      "avatar_url": "https://avatars.githubusercontent.com/u/21236162?v=4"
-    },
-    "html_url": "https://github.com/maxucheng0/grok-auto-register",
-    "description": null,
-    "created_at": "2026-07-10T14:34:50Z",
-    "updated_at": "2026-07-11T13:19:12Z",
-    "pushed_at": "2026-07-11T05:12:48Z",
-    "git_url": "git://github.com/maxucheng0/grok-auto-register.git",
-    "homepage": null,
-    "size": 2354,
-    "stargazers_count": 94,
-    "watchers_count": 94,
-    "language": "Python",
-    "forks_count": 37,
-    "open_issues_count": 0
-  },
-  {
     "id": 1295864070,
     "name": "grokbuild-proxy",
     "owner": {
@@ -57,15 +11,15 @@
     "html_url": "https://github.com/GreyGunG/grokbuild-proxy",
     "description": "本地自托管的 Grok Build → Claude Code / OpenAI 兼容代理 | Local self-hosted Grok Build compatibility proxy",
     "created_at": "2026-07-09T23:28:51Z",
-    "updated_at": "2026-07-11T13:15:39Z",
+    "updated_at": "2026-07-11T16:51:09Z",
     "pushed_at": "2026-07-11T12:36:02Z",
     "git_url": "git://github.com/GreyGunG/grokbuild-proxy.git",
     "homepage": null,
     "size": 367,
-    "stargazers_count": 93,
-    "watchers_count": 93,
+    "stargazers_count": 99,
+    "watchers_count": 99,
     "language": "Go",
-    "forks_count": 27,
+    "forks_count": 33,
     "open_issues_count": 0
   },
   {
@@ -80,15 +34,38 @@
     "html_url": "https://github.com/jcranokc/app-monitor",
     "description": "Local-first macOS app usage, storage, cleanup, update, and uninstall monitor.",
     "created_at": "2026-07-09T01:57:43Z",
-    "updated_at": "2026-07-11T12:59:35Z",
+    "updated_at": "2026-07-11T18:51:36Z",
     "pushed_at": "2026-07-10T14:04:24Z",
     "git_url": "git://github.com/jcranokc/app-monitor.git",
     "homepage": null,
     "size": 12029,
-    "stargazers_count": 92,
-    "watchers_count": 92,
+    "stargazers_count": 94,
+    "watchers_count": 94,
     "language": "Swift",
     "forks_count": 1,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1293965946,
+    "name": "DevAgent-Studio",
+    "owner": {
+      "id": 177602930,
+      "url": "https://api.github.com/users/biheto",
+      "html_url": "https://github.com/biheto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/177602930?v=4"
+    },
+    "html_url": "https://github.com/biheto/DevAgent-Studio",
+    "description": "面向开发者的多智能体任务工作站",
+    "created_at": "2026-07-08T17:32:13Z",
+    "updated_at": "2026-07-11T18:25:33Z",
+    "pushed_at": "2026-07-09T06:21:44Z",
+    "git_url": "git://github.com/biheto/DevAgent-Studio.git",
+    "homepage": null,
+    "size": 3425,
+    "stargazers_count": 90,
+    "watchers_count": 90,
+    "language": "Python",
+    "forks_count": 7,
     "open_issues_count": 0
   },
   {
@@ -138,26 +115,26 @@
     "open_issues_count": 0
   },
   {
-    "id": 1293600712,
-    "name": "neverclick",
+    "id": 1294974964,
+    "name": "local-vuln-research-pipeline",
     "owner": {
-      "id": 22990491,
-      "url": "https://api.github.com/users/LazoVelko",
-      "html_url": "https://github.com/LazoVelko",
-      "avatar_url": "https://avatars.githubusercontent.com/u/22990491?v=4"
+      "id": 92990925,
+      "url": "https://api.github.com/users/theteatoast",
+      "html_url": "https://github.com/theteatoast",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92990925?v=4"
     },
-    "html_url": "https://github.com/LazoVelko/neverclick",
-    "description": "Never use a mouse again.",
-    "created_at": "2026-07-08T12:54:36Z",
-    "updated_at": "2026-07-11T12:37:15Z",
-    "pushed_at": "2026-07-09T11:31:10Z",
-    "git_url": "git://github.com/LazoVelko/neverclick.git",
-    "homepage": "https://www.neverclick.com/",
-    "size": 687,
-    "stargazers_count": 78,
-    "watchers_count": 78,
-    "language": "C++",
-    "forks_count": 3,
+    "html_url": "https://github.com/theteatoast/local-vuln-research-pipeline",
+    "description": "Fully local vulnerability research pipeline - 14B code-specialized LLM reviews every source file exhaustively.",
+    "created_at": "2026-07-09T09:18:05Z",
+    "updated_at": "2026-07-11T18:31:56Z",
+    "pushed_at": "2026-07-11T18:14:59Z",
+    "git_url": "git://github.com/theteatoast/local-vuln-research-pipeline.git",
+    "homepage": "",
+    "size": 637,
+    "stargazers_count": 80,
+    "watchers_count": 80,
+    "language": "Python",
+    "forks_count": 6,
     "open_issues_count": 0
   },
   {
@@ -172,16 +149,39 @@
     "html_url": "https://github.com/thecodedose/kdashboard",
     "description": null,
     "created_at": "2026-07-08T06:12:09Z",
-    "updated_at": "2026-07-11T13:04:00Z",
+    "updated_at": "2026-07-11T17:04:08Z",
     "pushed_at": "2026-07-09T07:23:42Z",
     "git_url": "git://github.com/thecodedose/kdashboard.git",
     "homepage": null,
     "size": 858,
-    "stargazers_count": 76,
-    "watchers_count": 76,
+    "stargazers_count": 79,
+    "watchers_count": 79,
     "language": "C++",
     "forks_count": 8,
     "open_issues_count": 1
+  },
+  {
+    "id": 1293600712,
+    "name": "neverclick",
+    "owner": {
+      "id": 22990491,
+      "url": "https://api.github.com/users/LazoVelko",
+      "html_url": "https://github.com/LazoVelko",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22990491?v=4"
+    },
+    "html_url": "https://github.com/LazoVelko/neverclick",
+    "description": "Never use a mouse again.",
+    "created_at": "2026-07-08T12:54:36Z",
+    "updated_at": "2026-07-11T15:16:37Z",
+    "pushed_at": "2026-07-09T11:31:10Z",
+    "git_url": "git://github.com/LazoVelko/neverclick.git",
+    "homepage": "https://www.neverclick.com/",
+    "size": 687,
+    "stargazers_count": 79,
+    "watchers_count": 79,
+    "language": "C++",
+    "forks_count": 3,
+    "open_issues_count": 0
   },
   {
     "id": 1296302822,
@@ -195,16 +195,16 @@
     "html_url": "https://github.com/myfanhua/turb-gpt-free-register",
     "description": "纯协议+指纹浏览器自动GPT FREE注册机+Codex自动接码授权",
     "created_at": "2026-07-10T09:00:58Z",
-    "updated_at": "2026-07-11T12:20:37Z",
-    "pushed_at": "2026-07-11T08:14:05Z",
+    "updated_at": "2026-07-11T16:14:07Z",
+    "pushed_at": "2026-07-11T13:40:09Z",
     "git_url": "git://github.com/myfanhua/turb-gpt-free-register.git",
     "homepage": null,
-    "size": 243,
-    "stargazers_count": 76,
-    "watchers_count": 76,
+    "size": 272,
+    "stargazers_count": 78,
+    "watchers_count": 78,
     "language": "Python",
     "forks_count": 32,
-    "open_issues_count": 1
+    "open_issues_count": 0
   },
   {
     "id": 1293597225,
@@ -230,6 +230,52 @@
     "open_issues_count": 3
   },
   {
+    "id": 1295723439,
+    "name": "NetworkMaster",
+    "owner": {
+      "id": 301876518,
+      "url": "https://api.github.com/users/ZenoSoftwareDev",
+      "html_url": "https://github.com/ZenoSoftwareDev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/301876518?v=4"
+    },
+    "html_url": "https://github.com/ZenoSoftwareDev/NetworkMaster",
+    "description": null,
+    "created_at": "2026-07-09T19:47:49Z",
+    "updated_at": "2026-07-11T14:28:43Z",
+    "pushed_at": "2026-07-10T10:23:48Z",
+    "git_url": "git://github.com/ZenoSoftwareDev/NetworkMaster.git",
+    "homepage": null,
+    "size": 2427,
+    "stargazers_count": 73,
+    "watchers_count": 73,
+    "language": "Python",
+    "forks_count": 14,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1296647613,
+    "name": "vox-director",
+    "owner": {
+      "id": 68321694,
+      "url": "https://api.github.com/users/Alisa0808",
+      "html_url": "https://github.com/Alisa0808",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68321694?v=4"
+    },
+    "html_url": "https://github.com/Alisa0808/vox-director",
+    "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
+    "created_at": "2026-07-10T15:32:05Z",
+    "updated_at": "2026-07-11T14:58:14Z",
+    "pushed_at": "2026-07-11T04:17:36Z",
+    "git_url": "git://github.com/Alisa0808/vox-director.git",
+    "homepage": null,
+    "size": 39412,
+    "stargazers_count": 71,
+    "watchers_count": 71,
+    "language": "Python",
+    "forks_count": 9,
+    "open_issues_count": 0
+  },
+  {
     "id": 1295707009,
     "name": "ExitLag-5.18-Free",
     "owner": {
@@ -250,29 +296,6 @@
     "watchers_count": 71,
     "language": null,
     "forks_count": 9,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1295723439,
-    "name": "NetworkMaster",
-    "owner": {
-      "id": 301876518,
-      "url": "https://api.github.com/users/ZenoSoftwareDev",
-      "html_url": "https://github.com/ZenoSoftwareDev",
-      "avatar_url": "https://avatars.githubusercontent.com/u/301876518?v=4"
-    },
-    "html_url": "https://github.com/ZenoSoftwareDev/NetworkMaster",
-    "description": null,
-    "created_at": "2026-07-09T19:47:49Z",
-    "updated_at": "2026-07-11T09:57:57Z",
-    "pushed_at": "2026-07-10T10:23:48Z",
-    "git_url": "git://github.com/ZenoSoftwareDev/NetworkMaster.git",
-    "homepage": null,
-    "size": 2427,
-    "stargazers_count": 71,
-    "watchers_count": 71,
-    "language": "Python",
-    "forks_count": 14,
     "open_issues_count": 0
   },
   {
@@ -299,29 +322,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1296647613,
-    "name": "vox-director",
-    "owner": {
-      "id": 68321694,
-      "url": "https://api.github.com/users/Alisa0808",
-      "html_url": "https://github.com/Alisa0808",
-      "avatar_url": "https://avatars.githubusercontent.com/u/68321694?v=4"
-    },
-    "html_url": "https://github.com/Alisa0808/vox-director",
-    "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
-    "created_at": "2026-07-10T15:32:05Z",
-    "updated_at": "2026-07-11T13:13:14Z",
-    "pushed_at": "2026-07-11T04:17:36Z",
-    "git_url": "git://github.com/Alisa0808/vox-director.git",
-    "homepage": null,
-    "size": 39412,
-    "stargazers_count": 69,
-    "watchers_count": 69,
-    "language": "Python",
-    "forks_count": 9,
-    "open_issues_count": 0
-  },
-  {
     "id": 1294022895,
     "name": "GPT-5.6-Sol-Free-Desktop-App",
     "owner": {
@@ -342,29 +342,6 @@
     "watchers_count": 69,
     "language": "TypeScript",
     "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1293965946,
-    "name": "DevAgent-Studio",
-    "owner": {
-      "id": 177602930,
-      "url": "https://api.github.com/users/biheto",
-      "html_url": "https://github.com/biheto",
-      "avatar_url": "https://avatars.githubusercontent.com/u/177602930?v=4"
-    },
-    "html_url": "https://github.com/biheto/DevAgent-Studio",
-    "description": "面向开发者的多智能体任务工作站",
-    "created_at": "2026-07-08T17:32:13Z",
-    "updated_at": "2026-07-11T13:13:14Z",
-    "pushed_at": "2026-07-09T06:21:44Z",
-    "git_url": "git://github.com/biheto/DevAgent-Studio.git",
-    "homepage": null,
-    "size": 3425,
-    "stargazers_count": 68,
-    "watchers_count": 68,
-    "language": "Python",
-    "forks_count": 5,
     "open_issues_count": 0
   },
   {
@@ -437,6 +414,29 @@
     "open_issues_count": 0
   },
   {
+    "id": 1293485856,
+    "name": "icloud-hme",
+    "owner": {
+      "id": 122727418,
+      "url": "https://api.github.com/users/xiaozhou26",
+      "html_url": "https://github.com/xiaozhou26",
+      "avatar_url": "https://avatars.githubusercontent.com/u/122727418?v=4"
+    },
+    "html_url": "https://github.com/xiaozhou26/icloud-hme",
+    "description": null,
+    "created_at": "2026-07-08T11:04:56Z",
+    "updated_at": "2026-07-11T18:49:27Z",
+    "pushed_at": "2026-07-11T09:33:39Z",
+    "git_url": "git://github.com/xiaozhou26/icloud-hme.git",
+    "homepage": null,
+    "size": 79,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": "Go",
+    "forks_count": 25,
+    "open_issues_count": 0
+  },
+  {
     "id": 1294045555,
     "name": "FIFA-Editing-Toolsuite",
     "owner": {
@@ -460,6 +460,52 @@
     "open_issues_count": 0
   },
   {
+    "id": 1295688807,
+    "name": "Xault-Wallet",
+    "owner": {
+      "id": 3201245,
+      "url": "https://api.github.com/users/dboudreau00",
+      "html_url": "https://github.com/dboudreau00",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3201245?v=4"
+    },
+    "html_url": "https://github.com/dboudreau00/Xault-Wallet",
+    "description": "XMR Desktop Wallet built for Duress and privacy-first usage.",
+    "created_at": "2026-07-09T19:08:29Z",
+    "updated_at": "2026-07-11T17:38:02Z",
+    "pushed_at": "2026-07-10T01:09:13Z",
+    "git_url": "git://github.com/dboudreau00/Xault-Wallet.git",
+    "homepage": null,
+    "size": 72,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1294939035,
+    "name": "adversarial-panel",
+    "owner": {
+      "id": 973734,
+      "url": "https://api.github.com/users/makinux",
+      "html_url": "https://github.com/makinux",
+      "avatar_url": "https://avatars.githubusercontent.com/u/973734?v=4"
+    },
+    "html_url": "https://github.com/makinux/adversarial-panel",
+    "description": null,
+    "created_at": "2026-07-09T08:57:16Z",
+    "updated_at": "2026-07-11T14:00:23Z",
+    "pushed_at": "2026-07-09T09:17:18Z",
+    "git_url": "git://github.com/makinux/adversarial-panel.git",
+    "homepage": null,
+    "size": 338,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": "Mermaid",
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
     "id": 1296370469,
     "name": "ClaudeX",
     "owner": {
@@ -479,7 +525,30 @@
     "stargazers_count": 64,
     "watchers_count": 64,
     "language": "Python",
-    "forks_count": 38,
+    "forks_count": 39,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1295931100,
+    "name": "Process-Shield-EDR-Framework",
+    "owner": {
+      "id": 3201245,
+      "url": "https://api.github.com/users/dboudreau00",
+      "html_url": "https://github.com/dboudreau00",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3201245?v=4"
+    },
+    "html_url": "https://github.com/dboudreau00/Process-Shield-EDR-Framework",
+    "description": "Open Source EDR framework for new development - CLI without GUI",
+    "created_at": "2026-07-10T01:28:14Z",
+    "updated_at": "2026-07-11T17:38:41Z",
+    "pushed_at": "2026-07-10T01:31:52Z",
+    "git_url": "git://github.com/dboudreau00/Process-Shield-EDR-Framework.git",
+    "homepage": null,
+    "size": 71,
+    "stargazers_count": 64,
+    "watchers_count": 64,
+    "language": "C#",
+    "forks_count": 0,
     "open_issues_count": 0
   },
   {
@@ -506,98 +575,6 @@
     "open_issues_count": 1
   },
   {
-    "id": 1294939035,
-    "name": "adversarial-panel",
-    "owner": {
-      "id": 973734,
-      "url": "https://api.github.com/users/makinux",
-      "html_url": "https://github.com/makinux",
-      "avatar_url": "https://avatars.githubusercontent.com/u/973734?v=4"
-    },
-    "html_url": "https://github.com/makinux/adversarial-panel",
-    "description": null,
-    "created_at": "2026-07-09T08:57:16Z",
-    "updated_at": "2026-07-11T05:56:06Z",
-    "pushed_at": "2026-07-09T09:17:18Z",
-    "git_url": "git://github.com/makinux/adversarial-panel.git",
-    "homepage": null,
-    "size": 338,
-    "stargazers_count": 64,
-    "watchers_count": 64,
-    "language": "Mermaid",
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1295931100,
-    "name": "Process-Shield-EDR-Framework",
-    "owner": {
-      "id": 3201245,
-      "url": "https://api.github.com/users/dboudreau00",
-      "html_url": "https://github.com/dboudreau00",
-      "avatar_url": "https://avatars.githubusercontent.com/u/3201245?v=4"
-    },
-    "html_url": "https://github.com/dboudreau00/Process-Shield-EDR-Framework",
-    "description": "Open Source EDR framework for new development - CLI without GUI",
-    "created_at": "2026-07-10T01:28:14Z",
-    "updated_at": "2026-07-11T11:47:23Z",
-    "pushed_at": "2026-07-10T01:31:52Z",
-    "git_url": "git://github.com/dboudreau00/Process-Shield-EDR-Framework.git",
-    "homepage": null,
-    "size": 71,
-    "stargazers_count": 61,
-    "watchers_count": 61,
-    "language": "C#",
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1295688807,
-    "name": "Xault-Wallet",
-    "owner": {
-      "id": 3201245,
-      "url": "https://api.github.com/users/dboudreau00",
-      "html_url": "https://github.com/dboudreau00",
-      "avatar_url": "https://avatars.githubusercontent.com/u/3201245?v=4"
-    },
-    "html_url": "https://github.com/dboudreau00/Xault-Wallet",
-    "description": "XMR Desktop Wallet built for Duress and privacy-first usage.",
-    "created_at": "2026-07-09T19:08:29Z",
-    "updated_at": "2026-07-11T11:46:19Z",
-    "pushed_at": "2026-07-10T01:09:13Z",
-    "git_url": "git://github.com/dboudreau00/Xault-Wallet.git",
-    "homepage": null,
-    "size": 72,
-    "stargazers_count": 61,
-    "watchers_count": 61,
-    "language": "C#",
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1293047359,
-    "name": "openclaw-voice-call-realtime",
-    "owner": {
-      "id": 78862,
-      "url": "https://api.github.com/users/TristanBrotherton",
-      "html_url": "https://github.com/TristanBrotherton",
-      "avatar_url": "https://avatars.githubusercontent.com/u/78862?v=4"
-    },
-    "html_url": "https://github.com/TristanBrotherton/openclaw-voice-call-realtime",
-    "description": "Give your AI assistant a phone — OpenClaw plugin for real phone calls via Twilio + OpenAI Realtime, with in-call tools, transcripts, and call screening",
-    "created_at": "2026-07-08T04:22:37Z",
-    "updated_at": "2026-07-11T12:29:42Z",
-    "pushed_at": "2026-07-11T06:08:30Z",
-    "git_url": "git://github.com/TristanBrotherton/openclaw-voice-call-realtime.git",
-    "homepage": null,
-    "size": 849,
-    "stargazers_count": 59,
-    "watchers_count": 59,
-    "language": "TypeScript",
-    "forks_count": 3,
-    "open_issues_count": 0
-  },
-  {
     "id": 1295937847,
     "name": "Countersign-RFP-RFI-RFQ-Studio-for-AI-assisted-Workflows",
     "owner": {
@@ -609,39 +586,16 @@
     "html_url": "https://github.com/dboudreau00/Countersign-RFP-RFI-RFQ-Studio-for-AI-assisted-Workflows",
     "description": "Countersign RFP/RFI/RFQ Studio for organizing documentation, hosting internally, including js + PHP proxy for hosting on panel.",
     "created_at": "2026-07-10T01:38:40Z",
-    "updated_at": "2026-07-11T12:08:11Z",
+    "updated_at": "2026-07-11T17:39:49Z",
     "pushed_at": "2026-07-10T02:55:06Z",
     "git_url": "git://github.com/dboudreau00/Countersign-RFP-RFI-RFQ-Studio-for-AI-assisted-Workflows.git",
     "homepage": null,
     "size": 84,
-    "stargazers_count": 59,
-    "watchers_count": 59,
+    "stargazers_count": 62,
+    "watchers_count": 62,
     "language": "HTML",
     "forks_count": 0,
     "open_issues_count": 0
-  },
-  {
-    "id": 1293740568,
-    "name": "no-gdid",
-    "owner": {
-      "id": 775494,
-      "url": "https://api.github.com/users/Korben00",
-      "html_url": "https://github.com/Korben00",
-      "avatar_url": "https://avatars.githubusercontent.com/u/775494?v=4"
-    },
-    "html_url": "https://github.com/Korben00/no-gdid",
-    "description": "Read, understand and silence the Windows GDID device identifier (the ID that tracked a hacker through a VPN). Verified on a real Win11 VM. Honest: it silences reporting, it does not make you anonymous.",
-    "created_at": "2026-07-08T14:48:55Z",
-    "updated_at": "2026-07-11T13:18:58Z",
-    "pushed_at": "2026-07-08T15:55:00Z",
-    "git_url": "git://github.com/Korben00/no-gdid.git",
-    "homepage": null,
-    "size": 35,
-    "stargazers_count": 57,
-    "watchers_count": 57,
-    "language": "PowerShell",
-    "forks_count": 6,
-    "open_issues_count": 2
   },
   {
     "id": 1295708862,
@@ -655,39 +609,131 @@
     "html_url": "https://github.com/HM2899/grokcli-2api",
     "description": null,
     "created_at": "2026-07-09T19:29:39Z",
-    "updated_at": "2026-07-11T12:13:26Z",
-    "pushed_at": "2026-07-11T12:13:18Z",
+    "updated_at": "2026-07-11T19:04:17Z",
+    "pushed_at": "2026-07-11T17:26:47Z",
     "git_url": "git://github.com/HM2899/grokcli-2api.git",
     "homepage": null,
-    "size": 368,
-    "stargazers_count": 56,
-    "watchers_count": 56,
+    "size": 570,
+    "stargazers_count": 62,
+    "watchers_count": 62,
     "language": "Python",
-    "forks_count": 19,
+    "forks_count": 21,
     "open_issues_count": 1
   },
   {
-    "id": 1294974964,
-    "name": "local-vuln-research-pipeline",
+    "id": 1293740568,
+    "name": "no-gdid",
     "owner": {
-      "id": 92990925,
-      "url": "https://api.github.com/users/theteatoast",
-      "html_url": "https://github.com/theteatoast",
-      "avatar_url": "https://avatars.githubusercontent.com/u/92990925?v=4"
+      "id": 775494,
+      "url": "https://api.github.com/users/Korben00",
+      "html_url": "https://github.com/Korben00",
+      "avatar_url": "https://avatars.githubusercontent.com/u/775494?v=4"
     },
-    "html_url": "https://github.com/theteatoast/local-vuln-research-pipeline",
-    "description": "Fully local vulnerability research pipeline - 14B code-specialized LLM reviews every source file exhaustively.",
-    "created_at": "2026-07-09T09:18:05Z",
-    "updated_at": "2026-07-11T13:23:50Z",
-    "pushed_at": "2026-07-11T12:26:32Z",
-    "git_url": "git://github.com/theteatoast/local-vuln-research-pipeline.git",
-    "homepage": "",
-    "size": 622,
+    "html_url": "https://github.com/Korben00/no-gdid",
+    "description": "Read, understand and silence the Windows GDID device identifier (the ID that tracked a hacker through a VPN). Verified on a real Win11 VM. Honest: it silences reporting, it does not make you anonymous.",
+    "created_at": "2026-07-08T14:48:55Z",
+    "updated_at": "2026-07-11T18:25:06Z",
+    "pushed_at": "2026-07-11T18:24:58Z",
+    "git_url": "git://github.com/Korben00/no-gdid.git",
+    "homepage": null,
+    "size": 35,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "PowerShell",
+    "forks_count": 7,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1293047359,
+    "name": "openclaw-voice-call-realtime",
+    "owner": {
+      "id": 78862,
+      "url": "https://api.github.com/users/TristanBrotherton",
+      "html_url": "https://github.com/TristanBrotherton",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78862?v=4"
+    },
+    "html_url": "https://github.com/TristanBrotherton/openclaw-voice-call-realtime",
+    "description": "Give your AI assistant a phone — OpenClaw plugin for real phone calls via Twilio + OpenAI Realtime, with in-call tools, transcripts, and call screening",
+    "created_at": "2026-07-08T04:22:37Z",
+    "updated_at": "2026-07-11T14:28:26Z",
+    "pushed_at": "2026-07-11T06:08:30Z",
+    "git_url": "git://github.com/TristanBrotherton/openclaw-voice-call-realtime.git",
+    "homepage": null,
+    "size": 849,
+    "stargazers_count": 60,
+    "watchers_count": 60,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1297022212,
+    "name": "ai-content-kb",
+    "owner": {
+      "id": 163845883,
+      "url": "https://api.github.com/users/mrbear1024",
+      "html_url": "https://github.com/mrbear1024",
+      "avatar_url": "https://avatars.githubusercontent.com/u/163845883?v=4"
+    },
+    "html_url": "https://github.com/mrbear1024/ai-content-kb",
+    "description": "A review-first reference architecture for AI-assisted personal content knowledge systems",
+    "created_at": "2026-07-11T01:07:01Z",
+    "updated_at": "2026-07-11T18:17:07Z",
+    "pushed_at": "2026-07-11T02:22:08Z",
+    "git_url": "git://github.com/mrbear1024/ai-content-kb.git",
+    "homepage": null,
+    "size": 693,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": null,
+    "forks_count": 3,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1297317864,
+    "name": "grokRegister-cpa",
+    "owner": {
+      "id": 202784495,
+      "url": "https://api.github.com/users/Git-creat7",
+      "html_url": "https://github.com/Git-creat7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/202784495?v=4"
+    },
+    "html_url": "https://github.com/Git-creat7/grokRegister-cpa",
+    "description": "Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传",
+    "created_at": "2026-07-11T09:46:31Z",
+    "updated_at": "2026-07-11T18:07:42Z",
+    "pushed_at": "2026-07-11T12:17:54Z",
+    "git_url": "git://github.com/Git-creat7/grokRegister-cpa.git",
+    "homepage": null,
+    "size": 4162,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "Python",
+    "forks_count": 32,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1293895131,
+    "name": "noop",
+    "owner": {
+      "id": 42001064,
+      "url": "https://api.github.com/users/ParthJadhav",
+      "html_url": "https://github.com/ParthJadhav",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42001064?v=4"
+    },
+    "html_url": "https://github.com/ParthJadhav/noop",
+    "description": "Continuity mirror for the recovered NOOP source and release artifacts",
+    "created_at": "2026-07-08T16:40:48Z",
+    "updated_at": "2026-07-11T14:35:04Z",
+    "pushed_at": "2026-07-08T18:23:55Z",
+    "git_url": "git://github.com/ParthJadhav/noop.git",
+    "homepage": null,
+    "size": 130296,
     "stargazers_count": 54,
     "watchers_count": 54,
-    "language": "Python",
-    "forks_count": 5,
-    "open_issues_count": 0
+    "language": "Swift",
+    "forks_count": 63,
+    "open_issues_count": 1
   },
   {
     "id": 1295596797,
@@ -736,26 +782,49 @@
     "open_issues_count": 0
   },
   {
-    "id": 1293895131,
-    "name": "noop",
+    "id": 1295584258,
+    "name": "exitchatcontrol.org",
     "owner": {
-      "id": 42001064,
-      "url": "https://api.github.com/users/ParthJadhav",
-      "html_url": "https://github.com/ParthJadhav",
-      "avatar_url": "https://avatars.githubusercontent.com/u/42001064?v=4"
+      "id": 220354117,
+      "url": "https://api.github.com/users/Aurealibe",
+      "html_url": "https://github.com/Aurealibe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/220354117?v=4"
     },
-    "html_url": "https://github.com/ParthJadhav/noop",
-    "description": "Continuity mirror for the recovered NOOP source and release artifacts",
-    "created_at": "2026-07-08T16:40:48Z",
-    "updated_at": "2026-07-11T12:12:37Z",
-    "pushed_at": "2026-07-08T18:23:55Z",
-    "git_url": "git://github.com/ParthJadhav/noop.git",
-    "homepage": null,
-    "size": 130296,
+    "html_url": "https://github.com/Aurealibe/exitchatcontrol.org",
+    "description": "A free, multilingual field guide to escape Chat Control and take back control of your digital privacy.",
+    "created_at": "2026-07-09T17:18:34Z",
+    "updated_at": "2026-07-11T17:12:46Z",
+    "pushed_at": "2026-07-10T21:07:55Z",
+    "git_url": "git://github.com/Aurealibe/exitchatcontrol.org.git",
+    "homepage": "https://exitchatcontrol.org/",
+    "size": 825,
     "stargazers_count": 52,
     "watchers_count": 52,
-    "language": "Swift",
-    "forks_count": 63,
+    "language": "MDX",
+    "forks_count": 10,
+    "open_issues_count": 13
+  },
+  {
+    "id": 1296841294,
+    "name": "lgtm",
+    "owner": {
+      "id": 53315310,
+      "url": "https://api.github.com/users/ellie",
+      "html_url": "https://github.com/ellie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53315310?v=4"
+    },
+    "html_url": "https://github.com/ellie/lgtm",
+    "description": null,
+    "created_at": "2026-07-10T19:29:42Z",
+    "updated_at": "2026-07-11T16:09:08Z",
+    "pushed_at": "2026-07-10T22:22:00Z",
+    "git_url": "git://github.com/ellie/lgtm.git",
+    "homepage": null,
+    "size": 785,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "Rust",
+    "forks_count": 4,
     "open_issues_count": 1
   },
   {
@@ -779,6 +848,52 @@
     "watchers_count": 51,
     "language": "Python",
     "forks_count": 4,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1296250451,
+    "name": "marketing-studio",
+    "owner": {
+      "id": 128239567,
+      "url": "https://api.github.com/users/ucsandman",
+      "html_url": "https://github.com/ucsandman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/128239567?v=4"
+    },
+    "html_url": "https://github.com/ucsandman/marketing-studio",
+    "description": "Agent-driven marketing studio for Claude Code: one /marketing command renders your product's full launch asset suite (logo reveal, demo, launch video, social clips, OG assets)",
+    "created_at": "2026-07-10T08:00:22Z",
+    "updated_at": "2026-07-11T19:06:48Z",
+    "pushed_at": "2026-07-10T19:39:34Z",
+    "git_url": "git://github.com/ucsandman/marketing-studio.git",
+    "homepage": "",
+    "size": 54828,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "JavaScript",
+    "forks_count": 7,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1293451909,
+    "name": "AMDL",
+    "owner": {
+      "id": 61926895,
+      "url": "https://api.github.com/users/DerekH-233",
+      "html_url": "https://github.com/DerekH-233",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61926895?v=4"
+    },
+    "html_url": "https://github.com/DerekH-233/AMDL",
+    "description": "一个美观的 Apple Music 下载桌面工具，基于 gamdl 构建。支持歌曲、专辑、歌单、MV 下载。",
+    "created_at": "2026-07-08T10:33:45Z",
+    "updated_at": "2026-07-11T17:28:14Z",
+    "pushed_at": "2026-07-09T06:57:40Z",
+    "git_url": "git://github.com/DerekH-233/AMDL.git",
+    "homepage": null,
+    "size": 54432,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "Python",
+    "forks_count": 3,
     "open_issues_count": 0
   },
   {
@@ -828,6 +943,29 @@
     "open_issues_count": 0
   },
   {
+    "id": 1294567068,
+    "name": "laowangba-pmprototype-skill",
+    "owner": {
+      "id": 252726419,
+      "url": "https://api.github.com/users/pmlaowangba-lab",
+      "html_url": "https://github.com/pmlaowangba-lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/252726419?v=4"
+    },
+    "html_url": "https://github.com/pmlaowangba-lab/laowangba-pmprototype-skill",
+    "description": "Codex skill for product prototype generation with IA, design gates, page UI YAML, and Figma workflow.",
+    "created_at": "2026-07-09T02:47:49Z",
+    "updated_at": "2026-07-11T15:18:51Z",
+    "pushed_at": "2026-07-09T10:41:18Z",
+    "git_url": "git://github.com/pmlaowangba-lab/laowangba-pmprototype-skill.git",
+    "homepage": null,
+    "size": 340,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": null,
+    "forks_count": 9,
+    "open_issues_count": 0
+  },
+  {
     "id": 1296948284,
     "name": "claudefreemodel",
     "owner": {
@@ -848,29 +986,6 @@
     "watchers_count": 50,
     "language": "Python",
     "forks_count": 10,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1293451909,
-    "name": "AMDL",
-    "owner": {
-      "id": 61926895,
-      "url": "https://api.github.com/users/DerekH-233",
-      "html_url": "https://github.com/DerekH-233",
-      "avatar_url": "https://avatars.githubusercontent.com/u/61926895?v=4"
-    },
-    "html_url": "https://github.com/DerekH-233/AMDL",
-    "description": "一个美观的 Apple Music 下载桌面工具，基于 gamdl 构建。支持歌曲、专辑、歌单、MV 下载。",
-    "created_at": "2026-07-08T10:33:45Z",
-    "updated_at": "2026-07-11T12:15:45Z",
-    "pushed_at": "2026-07-09T06:57:40Z",
-    "git_url": "git://github.com/DerekH-233/AMDL.git",
-    "homepage": null,
-    "size": 54432,
-    "stargazers_count": 50,
-    "watchers_count": 50,
-    "language": "Python",
-    "forks_count": 3,
     "open_issues_count": 0
   },
   {
@@ -931,7 +1046,7 @@
     "html_url": "https://github.com/FabledExecutor/discord-fix-2026-1.9.9d",
     "description": "НОВЫЙ ОБХОД ДИСКОРД (09.07.2026)",
     "created_at": "2026-07-09T12:27:34Z",
-    "updated_at": "2026-07-11T11:42:29Z",
+    "updated_at": "2026-07-11T15:42:44Z",
     "pushed_at": "2026-07-09T12:29:17Z",
     "git_url": "git://github.com/FabledExecutor/discord-fix-2026-1.9.9d.git",
     "homepage": null,
@@ -939,6 +1054,29 @@
     "stargazers_count": 50,
     "watchers_count": 50,
     "language": "Batchfile",
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1294035782,
+    "name": "Yandex-Govno-Blocker",
+    "owner": {
+      "id": 114960117,
+      "url": "https://api.github.com/users/ElonMaks1",
+      "html_url": "https://github.com/ElonMaks1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/114960117?v=4"
+    },
+    "html_url": "https://github.com/ElonMaks1/Yandex-Govno-Blocker",
+    "description": "Расширение для браузера, которое убирает навязчивую рекламу Яндекс Браузера в поисковой выдаче Яндекса.",
+    "created_at": "2026-07-08T18:19:21Z",
+    "updated_at": "2026-07-11T13:31:16Z",
+    "pushed_at": "2026-07-08T18:22:25Z",
+    "git_url": "git://github.com/ElonMaks1/Yandex-Govno-Blocker.git",
+    "homepage": null,
+    "size": 10,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": "CSS",
     "forks_count": 0,
     "open_issues_count": 0
   },
