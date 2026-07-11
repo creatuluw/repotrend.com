@@ -60672,5 +60672,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1288001931,
+    "name": "pocketjs",
+    "owner": {
+      "id": 299849304,
+      "url": "https://api.github.com/users/pocket-stack",
+      "html_url": "https://github.com/pocket-stack",
+      "avatar_url": "https://avatars.githubusercontent.com/u/299849304?v=4"
+    },
+    "html_url": "https://github.com/pocket-stack/pocketjs",
+    "description": "High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget.",
+    "created_at": "2026-07-03T07:28:28Z",
+    "updated_at": "2026-07-11T02:25:26Z",
+    "pushed_at": "2026-07-11T02:38:16Z",
+    "git_url": "git://github.com/pocket-stack/pocketjs.git",
+    "homepage": "https://pocketjs.dev",
+    "size": 34173,
+    "stargazers_count": 513,
+    "watchers_count": 513,
+    "language": "TypeScript",
+    "forks_count": 18,
+    "open_issues_count": 14
+  },
+  {
+    "id": 1294939035,
+    "name": "adversarial-panel",
+    "owner": {
+      "id": 973734,
+      "url": "https://api.github.com/users/makinux",
+      "html_url": "https://github.com/makinux",
+      "avatar_url": "https://avatars.githubusercontent.com/u/973734?v=4"
+    },
+    "html_url": "https://github.com/makinux/adversarial-panel",
+    "description": null,
+    "created_at": "2026-07-09T08:57:16Z",
+    "updated_at": "2026-07-10T23:46:10Z",
+    "pushed_at": "2026-07-09T09:17:18Z",
+    "git_url": "git://github.com/makinux/adversarial-panel.git",
+    "homepage": null,
+    "size": 338,
+    "stargazers_count": 62,
+    "watchers_count": 62,
+    "language": "Mermaid",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
