@@ -60810,5 +60810,51 @@
     "language": "JavaScript",
     "forks_count": 7,
     "open_issues_count": 1
+  },
+  {
+    "id": 1287282432,
+    "name": "Talos",
+    "owner": {
+      "id": 164396066,
+      "url": "https://api.github.com/users/jmerelnyc",
+      "html_url": "https://github.com/jmerelnyc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/164396066?v=4"
+    },
+    "html_url": "https://github.com/jmerelnyc/Talos",
+    "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+    "created_at": "2026-07-02T14:43:11Z",
+    "updated_at": "2026-07-12T00:21:43Z",
+    "pushed_at": "2026-07-08T09:18:17Z",
+    "git_url": "git://github.com/jmerelnyc/Talos.git",
+    "homepage": "https://usetalos.xyz",
+    "size": 95,
+    "stargazers_count": 973,
+    "watchers_count": 973,
+    "language": "Python",
+    "forks_count": 16,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1296302822,
+    "name": "turb-gpt-free-register",
+    "owner": {
+      "id": 22782462,
+      "url": "https://api.github.com/users/myfanhua",
+      "html_url": "https://github.com/myfanhua",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22782462?v=4"
+    },
+    "html_url": "https://github.com/myfanhua/turb-gpt-free-register",
+    "description": "纯协议+指纹浏览器自动GPT FREE注册机+Codex自动接码授权",
+    "created_at": "2026-07-10T09:00:58Z",
+    "updated_at": "2026-07-12T03:03:59Z",
+    "pushed_at": "2026-07-11T13:40:09Z",
+    "git_url": "git://github.com/myfanhua/turb-gpt-free-register.git",
+    "homepage": null,
+    "size": 272,
+    "stargazers_count": 86,
+    "watchers_count": 86,
+    "language": "Python",
+    "forks_count": 33,
+    "open_issues_count": 0
   }
 ]
