@@ -60902,5 +60902,74 @@
     "language": "Python",
     "forks_count": 14,
     "open_issues_count": 0
+  },
+  {
+    "id": 1278830624,
+    "name": "wloc",
+    "owner": {
+      "id": 132221547,
+      "url": "https://api.github.com/users/Yu9191",
+      "html_url": "https://github.com/Yu9191",
+      "avatar_url": "https://avatars.githubusercontent.com/u/132221547?v=4"
+    },
+    "html_url": "https://github.com/Yu9191/wloc",
+    "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
+    "created_at": "2026-06-24T06:15:30Z",
+    "updated_at": "2026-07-12T13:25:59Z",
+    "pushed_at": "2026-06-27T23:50:57Z",
+    "git_url": "git://github.com/Yu9191/wloc.git",
+    "homepage": "https://wloc-pages.pages.dev/",
+    "size": 77,
+    "stargazers_count": 3981,
+    "watchers_count": 3981,
+    "language": "JavaScript",
+    "forks_count": 715,
+    "open_issues_count": 31
+  },
+  {
+    "id": 1267121662,
+    "name": "fable5-world-demo",
+    "owner": {
+      "id": 7544836,
+      "url": "https://api.github.com/users/Braffolk",
+      "html_url": "https://github.com/Braffolk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7544836?v=4"
+    },
+    "html_url": "https://github.com/Braffolk/fable5-world-demo",
+    "description": "Laas: 3D world built by Claude Fable 5 to test its capabilities using three.js",
+    "created_at": "2026-06-12T08:37:32Z",
+    "updated_at": "2026-07-12T04:15:14Z",
+    "pushed_at": "2026-07-12T08:10:10Z",
+    "git_url": "git://github.com/Braffolk/fable5-world-demo.git",
+    "homepage": "https://dc5fzrbo8ssfx.cloudfront.net/laas/",
+    "size": 186634,
+    "stargazers_count": 597,
+    "watchers_count": 597,
+    "language": "TypeScript",
+    "forks_count": 91,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1295282888,
+    "name": "Awesome-seedream-5-pro-prompts-and-skills",
+    "owner": {
+      "id": 275584240,
+      "url": "https://api.github.com/users/imaginevid-ai",
+      "html_url": "https://github.com/imaginevid-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/275584240?v=4"
+    },
+    "html_url": "https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills",
+    "description": "About  World's largest Seedream 5.0 Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Dreamina Seeream AI image generation. Free & open source.",
+    "created_at": "2026-07-09T13:26:21Z",
+    "updated_at": "2026-07-12T13:07:14Z",
+    "pushed_at": "2026-07-12T13:07:02Z",
+    "git_url": "git://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills.git",
+    "homepage": "https://imaginevid.io/seedream-5-pro",
+    "size": 70303,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
