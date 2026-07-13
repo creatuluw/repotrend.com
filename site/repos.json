@@ -61017,5 +61017,51 @@
     "language": null,
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1283642247,
+    "name": "ds.css",
+    "owner": {
+      "id": 132454615,
+      "url": "https://api.github.com/users/spiritov",
+      "html_url": "https://github.com/spiritov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/132454615?v=4"
+    },
+    "html_url": "https://github.com/spiritov/ds.css",
+    "description": "A css framework recreating the DS / DS Lite's UI",
+    "created_at": "2026-06-29T05:33:18Z",
+    "updated_at": "2026-07-12T18:24:00Z",
+    "pushed_at": "2026-07-11T22:31:47Z",
+    "git_url": "git://github.com/spiritov/ds.css.git",
+    "homepage": "https://css.ds.dreamyard.xyz",
+    "size": 1307,
+    "stargazers_count": 540,
+    "watchers_count": 540,
+    "language": "CSS",
+    "forks_count": 6,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1296784279,
+    "name": "Geode-Geometry-Dash",
+    "owner": {
+      "id": 285545233,
+      "url": "https://api.github.com/users/geode-gd",
+      "html_url": "https://github.com/geode-gd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/285545233?v=4"
+    },
+    "html_url": "https://github.com/geode-gd/Geode-Geometry-Dash",
+    "description": "geode geometry dash geode download mod loader geometry dash modding gd geode framework mods index custom textures installer download link windows 11 macos android desktop utility setup guide installation tutorial troubleshooting crash fix performance optimization steam integration",
+    "created_at": "2026-07-10T18:13:14Z",
+    "updated_at": "2026-07-12T02:09:01Z",
+    "pushed_at": "2026-07-10T18:27:50Z",
+    "git_url": "git://github.com/geode-gd/Geode-Geometry-Dash.git",
+    "homepage": "",
+    "size": 59,
+    "stargazers_count": 64,
+    "watchers_count": 64,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
