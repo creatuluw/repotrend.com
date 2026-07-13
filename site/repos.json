@@ -61132,5 +61132,51 @@
     "language": "HTML",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1287168491,
+    "name": "hermex",
+    "owner": {
+      "id": 179570281,
+      "url": "https://api.github.com/users/uzairansaruzi",
+      "html_url": "https://github.com/uzairansaruzi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/179570281?v=4"
+    },
+    "html_url": "https://github.com/uzairansaruzi/hermex",
+    "description": "Native iPhone app for your Hermes agent",
+    "created_at": "2026-07-02T12:47:31Z",
+    "updated_at": "2026-07-12T17:30:21Z",
+    "pushed_at": "2026-07-12T18:53:20Z",
+    "git_url": "git://github.com/uzairansaruzi/hermex.git",
+    "homepage": "https://hermexapp.com/",
+    "size": 9837,
+    "stargazers_count": 741,
+    "watchers_count": 741,
+    "language": "Swift",
+    "forks_count": 79,
+    "open_issues_count": 27
+  },
+  {
+    "id": 1297953833,
+    "name": "lan-file-transfer",
+    "owner": {
+      "id": 50872062,
+      "url": "https://api.github.com/users/NextWeb4",
+      "html_url": "https://github.com/NextWeb4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50872062?v=4"
+    },
+    "html_url": "https://github.com/NextWeb4/lan-file-transfer",
+    "description": "Local LAN file transfer desktop app with user/group permissions and audit logs.",
+    "created_at": "2026-07-12T03:39:55Z",
+    "updated_at": "2026-07-12T18:52:47Z",
+    "pushed_at": "2026-07-12T04:05:04Z",
+    "git_url": "git://github.com/NextWeb4/lan-file-transfer.git",
+    "homepage": "https://nextweb4.github.io/",
+    "size": 104,
+    "stargazers_count": 68,
+    "watchers_count": 68,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
