@@ -61247,5 +61247,74 @@
     "language": "Go",
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1211139949,
+    "name": "archify",
+    "owner": {
+      "id": 53142663,
+      "url": "https://api.github.com/users/tt-a1i",
+      "html_url": "https://github.com/tt-a1i",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53142663?v=4"
+    },
+    "html_url": "https://github.com/tt-a1i/archify",
+    "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
+    "created_at": "2026-04-15T05:27:37Z",
+    "updated_at": "2026-07-13T09:29:36Z",
+    "pushed_at": "2026-07-09T23:49:02Z",
+    "git_url": "git://github.com/tt-a1i/archify.git",
+    "homepage": "https://tt-a1i.github.io/archify/",
+    "size": 7260,
+    "stargazers_count": 4046,
+    "watchers_count": 4046,
+    "language": "JavaScript",
+    "forks_count": 384,
+    "open_issues_count": 13
+  },
+  {
+    "id": 1275781569,
+    "name": "Foundry",
+    "owner": {
+      "id": 294432157,
+      "url": "https://api.github.com/users/axislab-top",
+      "html_url": "https://github.com/axislab-top",
+      "avatar_url": "https://avatars.githubusercontent.com/u/294432157?v=4"
+    },
+    "html_url": "https://github.com/axislab-top/Foundry",
+    "description": "Transform any idea into a running AI-powered company",
+    "created_at": "2026-06-21T05:59:33Z",
+    "updated_at": "2026-07-13T08:47:54Z",
+    "pushed_at": "2026-06-30T09:47:36Z",
+    "git_url": "git://github.com/axislab-top/Foundry.git",
+    "homepage": "https://www.axislab.top",
+    "size": 14715,
+    "stargazers_count": 506,
+    "watchers_count": 506,
+    "language": "TypeScript",
+    "forks_count": 5,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1297569157,
+    "name": "Amnezia-VPN-Config",
+    "owner": {
+      "id": 298382259,
+      "url": "https://api.github.com/users/x4gKing",
+      "html_url": "https://github.com/x4gKing",
+      "avatar_url": "https://avatars.githubusercontent.com/u/298382259?v=4"
+    },
+    "html_url": "https://github.com/x4gKing/Amnezia-VPN-Config",
+    "description": null,
+    "created_at": "2026-07-11T15:40:31Z",
+    "updated_at": "2026-07-12T18:38:09Z",
+    "pushed_at": "2026-07-11T15:54:05Z",
+    "git_url": "git://github.com/x4gKing/Amnezia-VPN-Config.git",
+    "homepage": "https://x4gking.github.io/Amnezia-VPN-Config/",
+    "size": 44,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "HTML",
+    "forks_count": 33,
+    "open_issues_count": 0
   }
 ]
