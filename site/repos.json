@@ -61178,5 +61178,74 @@
     "language": "Python",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1286080397,
+    "name": "colibri",
+    "owner": {
+      "id": 13022503,
+      "url": "https://api.github.com/users/JustVugg",
+      "html_url": "https://github.com/JustVugg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13022503?v=4"
+    },
+    "html_url": "https://github.com/JustVugg/colibri",
+    "description": "Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+    "created_at": "2026-07-01T12:27:49Z",
+    "updated_at": "2026-07-13T09:33:26Z",
+    "pushed_at": "2026-07-13T07:10:21Z",
+    "git_url": "git://github.com/JustVugg/colibri.git",
+    "homepage": "",
+    "size": 327,
+    "stargazers_count": 7753,
+    "watchers_count": 7753,
+    "language": "C",
+    "forks_count": 632,
+    "open_issues_count": 41
+  },
+  {
+    "id": 1270503221,
+    "name": "subboost",
+    "owner": {
+      "id": 290633868,
+      "url": "https://api.github.com/users/SubBoost",
+      "html_url": "https://github.com/SubBoost",
+      "avatar_url": "https://avatars.githubusercontent.com/u/290633868?v=4"
+    },
+    "html_url": "https://github.com/SubBoost/subboost",
+    "description": "Clash/Mihomo subscription conversion, enhancement, and management tool. Clash/Mihomo 订阅转换、增强和管理工具。通过 UI 可视化，一键实现链式代理、精确分流、防 DNS 泄露和多订阅聚合等高级功能。",
+    "created_at": "2026-06-15T19:22:32Z",
+    "updated_at": "2026-07-13T08:58:30Z",
+    "pushed_at": "2026-07-11T18:24:02Z",
+    "git_url": "git://github.com/SubBoost/subboost.git",
+    "homepage": "https://subboost.org",
+    "size": 2993,
+    "stargazers_count": 507,
+    "watchers_count": 507,
+    "language": "TypeScript",
+    "forks_count": 96,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1296445045,
+    "name": "gorm-d1-adapter",
+    "owner": {
+      "id": 38103855,
+      "url": "https://api.github.com/users/intmian",
+      "html_url": "https://github.com/intmian",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38103855?v=4"
+    },
+    "html_url": "https://github.com/intmian/gorm-d1-adapter",
+    "description": "Make your Go-to-D1 connection 2–18× faster.",
+    "created_at": "2026-07-10T11:49:55Z",
+    "updated_at": "2026-07-13T01:02:25Z",
+    "pushed_at": "2026-07-11T09:15:28Z",
+    "git_url": "git://github.com/intmian/gorm-d1-adapter.git",
+    "homepage": "",
+    "size": 101,
+    "stargazers_count": 70,
+    "watchers_count": 70,
+    "language": "Go",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
