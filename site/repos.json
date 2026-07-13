@@ -60971,5 +60971,51 @@
     "language": "TypeScript",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1282278996,
+    "name": "dji-4g-vohive-mac",
+    "owner": {
+      "id": 16777756,
+      "url": "https://api.github.com/users/wlzh",
+      "html_url": "https://github.com/wlzh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16777756?v=4"
+    },
+    "html_url": "https://github.com/wlzh/dji-4g-vohive-mac",
+    "description": "在 Mac（Apple Silicon / Intel）上用 UTM 跑 Linux 虚拟机，把大疆 4G 模块（EG25-G）伪装成移远 Quectel EC25 并部署 vohive 平台的完整步骤",
+    "created_at": "2026-06-27T15:02:46Z",
+    "updated_at": "2026-07-11T18:26:54Z",
+    "pushed_at": "2026-07-06T06:38:09Z",
+    "git_url": "git://github.com/wlzh/dji-4g-vohive-mac.git",
+    "homepage": null,
+    "size": 13359,
+    "stargazers_count": 628,
+    "watchers_count": 628,
+    "language": null,
+    "forks_count": 251,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1297022212,
+    "name": "ai-content-kb",
+    "owner": {
+      "id": 163845883,
+      "url": "https://api.github.com/users/mrbear1024",
+      "html_url": "https://github.com/mrbear1024",
+      "avatar_url": "https://avatars.githubusercontent.com/u/163845883?v=4"
+    },
+    "html_url": "https://github.com/mrbear1024/ai-content-kb",
+    "description": "A review-first reference architecture for AI-assisted personal content knowledge systems",
+    "created_at": "2026-07-11T01:07:01Z",
+    "updated_at": "2026-07-11T18:17:07Z",
+    "pushed_at": "2026-07-11T02:22:08Z",
+    "git_url": "git://github.com/mrbear1024/ai-content-kb.git",
+    "homepage": null,
+    "size": 693,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": null,
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
