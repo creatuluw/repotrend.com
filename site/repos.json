@@ -61661,5 +61661,51 @@
     "language": "Rust",
     "forks_count": 6,
     "open_issues_count": 0
+  },
+  {
+    "id": 1298660286,
+    "name": "Marzban-Panel",
+    "owner": {
+      "id": 298382259,
+      "url": "https://api.github.com/users/x4gKing",
+      "html_url": "https://github.com/x4gKing",
+      "avatar_url": "https://avatars.githubusercontent.com/u/298382259?v=4"
+    },
+    "html_url": "https://github.com/x4gKing/Marzban-Panel",
+    "description": null,
+    "created_at": "2026-07-12T22:22:09Z",
+    "updated_at": "2026-07-14T13:45:28Z",
+    "pushed_at": "2026-07-13T09:15:15Z",
+    "git_url": "git://github.com/x4gKing/Marzban-Panel.git",
+    "homepage": null,
+    "size": 7,
+    "stargazers_count": 570,
+    "watchers_count": 570,
+    "language": "Dockerfile",
+    "forks_count": 1008,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1298803579,
+    "name": "BeavisUltrasound",
+    "owner": {
+      "id": 1458118,
+      "url": "https://api.github.com/users/schlae",
+      "html_url": "https://github.com/schlae",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1458118?v=4"
+    },
+    "html_url": "https://github.com/schlae/BeavisUltrasound",
+    "description": "Open source clone of the Gravis Ultrasound PnP",
+    "created_at": "2026-07-13T02:55:50Z",
+    "updated_at": "2026-07-14T09:09:12Z",
+    "pushed_at": "2026-07-13T02:59:30Z",
+    "git_url": "git://github.com/schlae/BeavisUltrasound.git",
+    "homepage": null,
+    "size": 6992,
+    "stargazers_count": 62,
+    "watchers_count": 62,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
