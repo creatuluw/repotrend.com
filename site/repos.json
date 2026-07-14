@@ -61615,5 +61615,51 @@
     "language": "Python",
     "forks_count": 66,
     "open_issues_count": 0
+  },
+  {
+    "id": 1296107475,
+    "name": "LuxyAI",
+    "owner": {
+      "id": 66623266,
+      "url": "https://api.github.com/users/William-Lu-stack",
+      "html_url": "https://github.com/William-Lu-stack",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66623266?v=4"
+    },
+    "html_url": "https://github.com/William-Lu-stack/LuxyAI",
+    "description": "AgenticOps for Kubernetes and cloud infrastructure.",
+    "created_at": "2026-07-10T05:57:02Z",
+    "updated_at": "2026-07-14T08:08:48Z",
+    "pushed_at": "2026-07-14T01:58:28Z",
+    "git_url": "git://github.com/William-Lu-stack/LuxyAI.git",
+    "homepage": null,
+    "size": 3863,
+    "stargazers_count": 595,
+    "watchers_count": 595,
+    "language": "Python",
+    "forks_count": 90,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1297691747,
+    "name": "grok-go",
+    "owner": {
+      "id": 15684751,
+      "url": "https://api.github.com/users/RongleCat",
+      "html_url": "https://github.com/RongleCat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15684751?v=4"
+    },
+    "html_url": "https://github.com/RongleCat/grok-go",
+    "description": "Local multi-account Grok gateway for Codex (API + MCP). 本地多账号 Grok 网关，面向 Codex。",
+    "created_at": "2026-07-11T18:30:24Z",
+    "updated_at": "2026-07-14T08:08:28Z",
+    "pushed_at": "2026-07-13T17:38:30Z",
+    "git_url": "git://github.com/RongleCat/grok-go.git",
+    "homepage": null,
+    "size": 3154,
+    "stargazers_count": 68,
+    "watchers_count": 68,
+    "language": "Rust",
+    "forks_count": 6,
+    "open_issues_count": 0
   }
 ]
