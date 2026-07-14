@@ -61431,5 +61431,51 @@
     "language": "C#",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1271239690,
+    "name": "internet-court-skill",
+    "owner": {
+      "id": 292523741,
+      "url": "https://api.github.com/users/internet-court",
+      "html_url": "https://github.com/internet-court",
+      "avatar_url": "https://avatars.githubusercontent.com/u/292523741?v=4"
+    },
+    "html_url": "https://github.com/internet-court/internet-court-skill",
+    "description": "The trust layer for agent-to-agent commerce — natural-language mandates, ERC-7710 delegated permissions, x402 payments, escrow, and dispute resolution as one open, catch-all Agent Skill / Claude Code plugin.",
+    "created_at": "2026-06-16T13:20:01Z",
+    "updated_at": "2026-07-13T19:22:59Z",
+    "pushed_at": "2026-07-10T04:27:35Z",
+    "git_url": "git://github.com/internet-court/internet-court-skill.git",
+    "homepage": null,
+    "size": 922,
+    "stargazers_count": 630,
+    "watchers_count": 630,
+    "language": "TypeScript",
+    "forks_count": 14,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1297902282,
+    "name": "jlens-gguf",
+    "owner": {
+      "id": 96874929,
+      "url": "https://api.github.com/users/igorbarshteyn",
+      "html_url": "https://github.com/igorbarshteyn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96874929?v=4"
+    },
+    "html_url": "https://github.com/igorbarshteyn/jlens-gguf",
+    "description": "Interactive Jacobian-Lens visualizer and live steerer for GGUF models on llama.cpp",
+    "created_at": "2026-07-12T01:41:34Z",
+    "updated_at": "2026-07-13T17:50:37Z",
+    "pushed_at": "2026-07-12T02:04:43Z",
+    "git_url": "git://github.com/igorbarshteyn/jlens-gguf.git",
+    "homepage": null,
+    "size": 1169,
+    "stargazers_count": 60,
+    "watchers_count": 60,
+    "language": "Python",
+    "forks_count": 7,
+    "open_issues_count": 0
   }
 ]
