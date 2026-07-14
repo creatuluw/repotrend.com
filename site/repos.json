@@ -61385,5 +61385,51 @@
     "language": "C",
     "forks_count": 37,
     "open_issues_count": 1
+  },
+  {
+    "id": 1298890549,
+    "name": "mimic",
+    "owner": {
+      "id": 34997667,
+      "url": "https://api.github.com/users/littledivy",
+      "html_url": "https://github.com/littledivy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34997667?v=4"
+    },
+    "html_url": "https://github.com/littledivy/mimic",
+    "description": "Intercept any app, then call it from Python like a library",
+    "created_at": "2026-07-13T05:13:00Z",
+    "updated_at": "2026-07-13T19:26:14Z",
+    "pushed_at": "2026-07-13T12:29:03Z",
+    "git_url": "git://github.com/littledivy/mimic.git",
+    "homepage": "",
+    "size": 28,
+    "stargazers_count": 528,
+    "watchers_count": 528,
+    "language": "Python",
+    "forks_count": 17,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1295931100,
+    "name": "Process-Shield-EDR-Framework",
+    "owner": {
+      "id": 3201245,
+      "url": "https://api.github.com/users/dboudreau00",
+      "html_url": "https://github.com/dboudreau00",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3201245?v=4"
+    },
+    "html_url": "https://github.com/dboudreau00/Process-Shield-EDR-Framework",
+    "description": "Open Source EDR framework for new development - CLI without GUI",
+    "created_at": "2026-07-10T01:28:14Z",
+    "updated_at": "2026-07-12T19:00:22Z",
+    "pushed_at": "2026-07-10T01:31:52Z",
+    "git_url": "git://github.com/dboudreau00/Process-Shield-EDR-Framework.git",
+    "homepage": null,
+    "size": 71,
+    "stargazers_count": 74,
+    "watchers_count": 74,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
