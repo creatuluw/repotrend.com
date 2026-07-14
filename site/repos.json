@@ -61523,5 +61523,51 @@
     "language": "TypeScript",
     "forks_count": 101,
     "open_issues_count": 0
+  },
+  {
+    "id": 1274967178,
+    "name": "sumatrapdf-plus",
+    "owner": {
+      "id": 27134606,
+      "url": "https://api.github.com/users/dengxibo",
+      "html_url": "https://github.com/dengxibo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/27134606?v=4"
+    },
+    "html_url": "https://github.com/dengxibo/sumatrapdf-plus",
+    "description": null,
+    "created_at": "2026-06-20T05:02:36Z",
+    "updated_at": "2026-07-14T02:28:37Z",
+    "pushed_at": "2026-07-14T00:20:06Z",
+    "git_url": "git://github.com/dengxibo/sumatrapdf-plus.git",
+    "homepage": null,
+    "size": 334152,
+    "stargazers_count": 497,
+    "watchers_count": 497,
+    "language": "C",
+    "forks_count": 18,
+    "open_issues_count": 12
+  },
+  {
+    "id": 1296602376,
+    "name": "at-maker",
+    "owner": {
+      "id": 79531840,
+      "url": "https://api.github.com/users/akihitohyh",
+      "html_url": "https://github.com/akihitohyh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79531840?v=4"
+    },
+    "html_url": "https://github.com/akihitohyh/at-maker",
+    "description": null,
+    "created_at": "2026-07-10T14:43:57Z",
+    "updated_at": "2026-07-12T14:53:25Z",
+    "pushed_at": "2026-07-12T10:13:49Z",
+    "git_url": "git://github.com/akihitohyh/at-maker.git",
+    "homepage": null,
+    "size": 157,
+    "stargazers_count": 59,
+    "watchers_count": 59,
+    "language": "TypeScript",
+    "forks_count": 27,
+    "open_issues_count": 0
   }
 ]
