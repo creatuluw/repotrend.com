@@ -61707,5 +61707,51 @@
     "language": "Python",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1282680810,
+    "name": "codex-keysmith",
+    "owner": {
+      "id": 271507930,
+      "url": "https://api.github.com/users/Jia-Ethan",
+      "html_url": "https://github.com/Jia-Ethan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271507930?v=4"
+    },
+    "html_url": "https://github.com/Jia-Ethan/codex-keysmith",
+    "description": "Version-independent Codex instruction deployment with dry-run, backups, hook isolation, and recovery.",
+    "created_at": "2026-06-28T04:38:07Z",
+    "updated_at": "2026-07-14T12:50:21Z",
+    "pushed_at": "2026-07-14T12:02:30Z",
+    "git_url": "git://github.com/Jia-Ethan/codex-keysmith.git",
+    "homepage": null,
+    "size": 189,
+    "stargazers_count": 571,
+    "watchers_count": 571,
+    "language": "Python",
+    "forks_count": 90,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1297093333,
+    "name": "Shader-Core",
+    "owner": {
+      "id": 74490257,
+      "url": "https://api.github.com/users/lilxyzw",
+      "html_url": "https://github.com/lilxyzw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74490257?v=4"
+    },
+    "html_url": "https://github.com/lilxyzw/Shader-Core",
+    "description": null,
+    "created_at": "2026-07-11T03:32:24Z",
+    "updated_at": "2026-07-14T13:02:30Z",
+    "pushed_at": "2026-07-14T13:03:19Z",
+    "git_url": "git://github.com/lilxyzw/Shader-Core.git",
+    "homepage": null,
+    "size": 129,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "C#",
+    "forks_count": 3,
+    "open_issues_count": 3
   }
 ]
