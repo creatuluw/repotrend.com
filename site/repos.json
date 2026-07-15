@@ -61983,5 +61983,51 @@
     "language": "TypeScript",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1287012056,
+    "name": "muscriptor",
+    "owner": {
+      "id": 279577597,
+      "url": "https://api.github.com/users/muscriptor",
+      "html_url": "https://github.com/muscriptor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279577597?v=4"
+    },
+    "html_url": "https://github.com/muscriptor/muscriptor",
+    "description": "MuScriptor is a multi-instrument music transcription model developed by Kyutai and Mirelo.",
+    "created_at": "2026-07-02T09:47:11Z",
+    "updated_at": "2026-07-15T08:06:04Z",
+    "pushed_at": "2026-07-13T15:43:45Z",
+    "git_url": "git://github.com/muscriptor/muscriptor.git",
+    "homepage": "",
+    "size": 5311,
+    "stargazers_count": 548,
+    "watchers_count": 548,
+    "language": "Python",
+    "forks_count": 54,
+    "open_issues_count": 13
+  },
+  {
+    "id": 1298394175,
+    "name": "3xx-wangge",
+    "owner": {
+      "id": 173913356,
+      "url": "https://api.github.com/users/ZAIJIN88",
+      "html_url": "https://github.com/ZAIJIN88",
+      "avatar_url": "https://avatars.githubusercontent.com/u/173913356?v=4"
+    },
+    "html_url": "https://github.com/ZAIJIN88/3xx-wangge",
+    "description": null,
+    "created_at": "2026-07-12T15:26:44Z",
+    "updated_at": "2026-07-15T04:42:22Z",
+    "pushed_at": "2026-07-12T16:31:56Z",
+    "git_url": "git://github.com/ZAIJIN88/3xx-wangge.git",
+    "homepage": null,
+    "size": 169,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": null,
+    "forks_count": 24,
+    "open_issues_count": 0
   }
 ]
