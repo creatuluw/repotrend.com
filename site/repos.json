@@ -61937,5 +61937,51 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1275378979,
+    "name": "agent-as-a-router",
+    "owner": {
+      "id": 46399368,
+      "url": "https://api.github.com/users/LanceZPF",
+      "html_url": "https://github.com/LanceZPF",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46399368?v=4"
+    },
+    "html_url": "https://github.com/LanceZPF/agent-as-a-router",
+    "description": "The official implementations of Agent-as-a-Router: Agentic Model Routing for Coding Tasks.",
+    "created_at": "2026-06-20T16:00:51Z",
+    "updated_at": "2026-07-15T08:00:35Z",
+    "pushed_at": "2026-06-29T09:45:39Z",
+    "git_url": "git://github.com/LanceZPF/agent-as-a-router.git",
+    "homepage": null,
+    "size": 97597,
+    "stargazers_count": 572,
+    "watchers_count": 572,
+    "language": "TypeScript",
+    "forks_count": 14,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1298393795,
+    "name": "cover-flow-showcase",
+    "owner": {
+      "id": 249858329,
+      "url": "https://api.github.com/users/opc8838-hub",
+      "html_url": "https://github.com/opc8838-hub",
+      "avatar_url": "https://avatars.githubusercontent.com/u/249858329?v=4"
+    },
+    "html_url": "https://github.com/opc8838-hub/cover-flow-showcase",
+    "description": null,
+    "created_at": "2026-07-12T15:26:17Z",
+    "updated_at": "2026-07-15T02:47:30Z",
+    "pushed_at": "2026-07-12T15:39:24Z",
+    "git_url": "git://github.com/opc8838-hub/cover-flow-showcase.git",
+    "homepage": null,
+    "size": 11022,
+    "stargazers_count": 55,
+    "watchers_count": 55,
+    "language": "TypeScript",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
