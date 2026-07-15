@@ -61753,5 +61753,51 @@
     "language": "C#",
     "forks_count": 3,
     "open_issues_count": 3
+  },
+  {
+    "id": 1295531254,
+    "name": "Three.js-Object-Sculptor-Codex-Plugin",
+    "owner": {
+      "id": 38987783,
+      "url": "https://api.github.com/users/vinhhien112",
+      "html_url": "https://github.com/vinhhien112",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38987783?v=4"
+    },
+    "html_url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+    "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
+    "created_at": "2026-07-09T16:23:29Z",
+    "updated_at": "2026-07-14T19:10:08Z",
+    "pushed_at": "2026-07-11T08:43:59Z",
+    "git_url": "git://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin.git",
+    "homepage": null,
+    "size": 5419,
+    "stargazers_count": 961,
+    "watchers_count": 961,
+    "language": "Python",
+    "forks_count": 112,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1299842585,
+    "name": "MecchaChameleon-MecchaCipher",
+    "owner": {
+      "id": 297741289,
+      "url": "https://api.github.com/users/restraintparakeetbay",
+      "html_url": "https://github.com/restraintparakeetbay",
+      "avatar_url": "https://avatars.githubusercontent.com/u/297741289?v=4"
+    },
+    "html_url": "https://github.com/restraintparakeetbay/MecchaChameleon-MecchaCipher",
+    "description": "MecchaCipher decodes Meccha Chameleon with ESP, silent aim, flight, teleport, god mode, and unlimited paint. See what others can't. Reach where others can't. Survive what others don't. Rewrite every match in your favor.",
+    "created_at": "2026-07-14T00:14:12Z",
+    "updated_at": "2026-07-14T13:51:21Z",
+    "pushed_at": "2026-07-14T13:42:10Z",
+    "git_url": "git://github.com/restraintparakeetbay/MecchaChameleon-MecchaCipher.git",
+    "homepage": "",
+    "size": 7,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": null,
+    "forks_count": 24,
+    "open_issues_count": 0
   }
 ]
