@@ -61891,5 +61891,51 @@
     "language": "Go",
     "forks_count": 9,
     "open_issues_count": 0
+  },
+  {
+    "id": 1298660599,
+    "name": "Marzban-Node",
+    "owner": {
+      "id": 298382259,
+      "url": "https://api.github.com/users/x4gKing",
+      "html_url": "https://github.com/x4gKing",
+      "avatar_url": "https://avatars.githubusercontent.com/u/298382259?v=4"
+    },
+    "html_url": "https://github.com/x4gKing/Marzban-Node",
+    "description": null,
+    "created_at": "2026-07-12T22:22:51Z",
+    "updated_at": "2026-07-15T02:20:26Z",
+    "pushed_at": "2026-07-13T09:15:52Z",
+    "git_url": "git://github.com/x4gKing/Marzban-Node.git",
+    "homepage": null,
+    "size": 7,
+    "stargazers_count": 567,
+    "watchers_count": 567,
+    "language": "Dockerfile",
+    "forks_count": 1055,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1298493678,
+    "name": "Gemini-3.5-Pro-Free",
+    "owner": {
+      "id": 297705388,
+      "url": "https://api.github.com/users/gemini-pro-3-5",
+      "html_url": "https://github.com/gemini-pro-3-5",
+      "avatar_url": "https://avatars.githubusercontent.com/u/297705388?v=4"
+    },
+    "html_url": "https://github.com/gemini-pro-3-5/Gemini-3.5-Pro-Free",
+    "description": "google gemini 3.5 pro free desktop ai app gemini 3.5 flash reasoning engine coding model advanced benchmarks token efficiency ai studio api key direct access developer console free tier context window multi agent orchestration setup guide tutorial troubleshooting bypass limits",
+    "created_at": "2026-07-12T17:39:07Z",
+    "updated_at": "2026-07-15T01:04:13Z",
+    "pushed_at": "2026-07-12T18:40:08Z",
+    "git_url": "git://github.com/gemini-pro-3-5/Gemini-3.5-Pro-Free.git",
+    "homepage": "",
+    "size": 10,
+    "stargazers_count": 64,
+    "watchers_count": 64,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
