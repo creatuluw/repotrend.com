@@ -62121,5 +62121,51 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1292588083,
+    "name": "lingbot-vla-v2",
+    "owner": {
+      "id": 212647524,
+      "url": "https://api.github.com/users/Robbyant",
+      "html_url": "https://github.com/Robbyant",
+      "avatar_url": "https://avatars.githubusercontent.com/u/212647524?v=4"
+    },
+    "html_url": "https://github.com/Robbyant/lingbot-vla-v2",
+    "description": "From Foundation to Application",
+    "created_at": "2026-07-07T16:48:56Z",
+    "updated_at": "2026-07-15T16:43:20Z",
+    "pushed_at": "2026-07-10T08:11:39Z",
+    "git_url": "git://github.com/Robbyant/lingbot-vla-v2.git",
+    "homepage": "",
+    "size": 31773,
+    "stargazers_count": 548,
+    "watchers_count": 548,
+    "language": "Python",
+    "forks_count": 39,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1298369158,
+    "name": "weflow-releases",
+    "owner": {
+      "id": 98377878,
+      "url": "https://api.github.com/users/hicccc77",
+      "html_url": "https://github.com/hicccc77",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98377878?v=4"
+    },
+    "html_url": "https://github.com/hicccc77/weflow-releases",
+    "description": null,
+    "created_at": "2026-07-12T14:54:12Z",
+    "updated_at": "2026-07-15T17:38:29Z",
+    "pushed_at": "2026-07-13T15:57:15Z",
+    "git_url": "git://github.com/hicccc77/weflow-releases.git",
+    "homepage": null,
+    "size": 6,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": null,
+    "forks_count": 13,
+    "open_issues_count": 0
   }
 ]
