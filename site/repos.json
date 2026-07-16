@@ -62305,5 +62305,74 @@
     "language": "C",
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1300902838,
+    "name": "grok-build",
+    "owner": {
+      "id": 130314967,
+      "url": "https://api.github.com/users/xai-org",
+      "html_url": "https://github.com/xai-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130314967?v=4"
+    },
+    "html_url": "https://github.com/xai-org/grok-build",
+    "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+    "created_at": "2026-07-14T20:04:23Z",
+    "updated_at": "2026-07-16T14:00:23Z",
+    "pushed_at": "2026-07-16T05:46:12Z",
+    "git_url": "git://github.com/xai-org/grok-build.git",
+    "homepage": null,
+    "size": 7770,
+    "stargazers_count": 9928,
+    "watchers_count": 9928,
+    "language": "Rust",
+    "forks_count": 1599,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1293371220,
+    "name": "speak-human-tw",
+    "owner": {
+      "id": 14795468,
+      "url": "https://api.github.com/users/Raymondhou0917",
+      "html_url": "https://github.com/Raymondhou0917",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14795468?v=4"
+    },
+    "html_url": "https://github.com/Raymondhou0917/speak-human-tw",
+    "description": "「說人話」：繁體中文的去 AI 味改寫 skill。抓 38 種 AI 寫作痕跡，順手校正中國用語與半形標點，給 Claude Code / Codex / Cursor 用。",
+    "created_at": "2026-07-08T09:23:53Z",
+    "updated_at": "2026-07-16T12:52:42Z",
+    "pushed_at": "2026-07-14T11:08:59Z",
+    "git_url": "git://github.com/Raymondhou0917/speak-human-tw.git",
+    "homepage": null,
+    "size": 1556,
+    "stargazers_count": 542,
+    "watchers_count": 542,
+    "language": null,
+    "forks_count": 63,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1299958518,
+    "name": "ENCORE",
+    "owner": {
+      "id": 18360463,
+      "url": "https://api.github.com/users/wowitsjack",
+      "html_url": "https://github.com/wowitsjack",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18360463?v=4"
+    },
+    "html_url": "https://github.com/wowitsjack/ENCORE",
+    "description": "Experimental loader for Ableton Live 12+ on Linux using WINE",
+    "created_at": "2026-07-14T03:21:14Z",
+    "updated_at": "2026-07-15T17:55:55Z",
+    "pushed_at": "2026-07-15T01:51:02Z",
+    "git_url": "git://github.com/wowitsjack/ENCORE.git",
+    "homepage": null,
+    "size": 1036,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": "Shell",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
