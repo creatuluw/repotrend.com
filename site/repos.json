@@ -62374,5 +62374,74 @@
     "language": "Shell",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1221429772,
+    "name": "codex-ppt-skill",
+    "owner": {
+      "id": 33387665,
+      "url": "https://api.github.com/users/ningzimu",
+      "html_url": "https://github.com/ningzimu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33387665?v=4"
+    },
+    "html_url": "https://github.com/ningzimu/codex-ppt-skill",
+    "description": "GPT-Image-2 PPT Generator Skill for Creating Image-Based PowerPoint Presentations in Codex and Other Skill-Compatible Agents",
+    "created_at": "2026-04-26T07:34:32Z",
+    "updated_at": "2026-07-15T17:53:13Z",
+    "pushed_at": "2026-07-14T02:50:14Z",
+    "git_url": "git://github.com/ningzimu/codex-ppt-skill.git",
+    "homepage": "https://ppt-skill.ningzimu.vip",
+    "size": 45308,
+    "stargazers_count": 3696,
+    "watchers_count": 3696,
+    "language": "Python",
+    "forks_count": 176,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1291502015,
+    "name": "clawk",
+    "owner": {
+      "id": 261616134,
+      "url": "https://api.github.com/users/clawkwork",
+      "html_url": "https://github.com/clawkwork",
+      "avatar_url": "https://avatars.githubusercontent.com/u/261616134?v=4"
+    },
+    "html_url": "https://github.com/clawkwork/clawk",
+    "description": "Give coding agents a disposable Linux VM, not your laptop",
+    "created_at": "2026-07-06T21:30:38Z",
+    "updated_at": "2026-07-15T19:14:03Z",
+    "pushed_at": "2026-07-13T13:45:23Z",
+    "git_url": "git://github.com/clawkwork/clawk.git",
+    "homepage": "",
+    "size": 1664,
+    "stargazers_count": 528,
+    "watchers_count": 528,
+    "language": "Go",
+    "forks_count": 13,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1298946124,
+    "name": "TV-AutoBuild",
+    "owner": {
+      "id": 283625033,
+      "url": "https://api.github.com/users/iptvorganization",
+      "html_url": "https://github.com/iptvorganization",
+      "avatar_url": "https://avatars.githubusercontent.com/u/283625033?v=4"
+    },
+    "html_url": "https://github.com/iptvorganization/TV-AutoBuild",
+    "description": "Monitored public GitHub Actions builds for iptvorganization TV Mobile and Leanback APKs",
+    "created_at": "2026-07-13T06:30:09Z",
+    "updated_at": "2026-07-14T18:13:48Z",
+    "pushed_at": "2026-07-14T17:56:46Z",
+    "git_url": "git://github.com/iptvorganization/TV-AutoBuild.git",
+    "homepage": null,
+    "size": 27,
+    "stargazers_count": 93,
+    "watchers_count": 93,
+    "language": "Shell",
+    "forks_count": 118,
+    "open_issues_count": 0
   }
 ]
