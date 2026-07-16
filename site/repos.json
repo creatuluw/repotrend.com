@@ -62167,5 +62167,51 @@
     "language": null,
     "forks_count": 13,
     "open_issues_count": 0
+  },
+  {
+    "id": 1277989451,
+    "name": "MTPROTO_FIX_By_MEKO",
+    "owner": {
+      "id": 137619369,
+      "url": "https://api.github.com/users/Mekotofeuka",
+      "html_url": "https://github.com/Mekotofeuka",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137619369?v=4"
+    },
+    "html_url": "https://github.com/Mekotofeuka/MTPROTO_FIX_By_MEKO",
+    "description": "Universal MTProto proxy installer & fix – one‑click setup of Telemt, MTG, and MTProtoZig. Solves iOS/Android/Desktop connection issues, includes SNI checker, Panels installer and config editor.",
+    "created_at": "2026-06-23T11:12:12Z",
+    "updated_at": "2026-07-15T16:30:46Z",
+    "pushed_at": "2026-07-15T15:08:36Z",
+    "git_url": "git://github.com/Mekotofeuka/MTPROTO_FIX_By_MEKO.git",
+    "homepage": "",
+    "size": 1009,
+    "stargazers_count": 637,
+    "watchers_count": 637,
+    "language": "Shell",
+    "forks_count": 15,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1298209029,
+    "name": "better-auth-referral",
+    "owner": {
+      "id": 302087654,
+      "url": "https://api.github.com/users/marinedotsh",
+      "html_url": "https://github.com/marinedotsh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/302087654?v=4"
+    },
+    "html_url": "https://github.com/marinedotsh/better-auth-referral",
+    "description": "A Better Auth plugin for adding user referrals to your app.",
+    "created_at": "2026-07-12T11:07:21Z",
+    "updated_at": "2026-07-15T13:33:02Z",
+    "pushed_at": "2026-07-14T18:51:23Z",
+    "git_url": "git://github.com/marinedotsh/better-auth-referral.git",
+    "homepage": "https://npmjs.com/package/@marinedotsh/better-auth-referral",
+    "size": 2098,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "TypeScript",
+    "forks_count": 6,
+    "open_issues_count": 0
   }
 ]
