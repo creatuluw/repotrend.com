@@ -62029,5 +62029,51 @@
     "language": null,
     "forks_count": 24,
     "open_issues_count": 0
+  },
+  {
+    "id": 1293054306,
+    "name": "waggle",
+    "owner": {
+      "id": 172510440,
+      "url": "https://api.github.com/users/modiqo",
+      "html_url": "https://github.com/modiqo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/172510440?v=4"
+    },
+    "html_url": "https://github.com/modiqo/waggle",
+    "description": "Attributed, resolvable artifact references for agent handoffs — a ~30-byte token instead of pasted context. MCP-native; the reference layer for the agent-harness world.",
+    "created_at": "2026-07-08T04:33:09Z",
+    "updated_at": "2026-07-15T19:14:40Z",
+    "pushed_at": "2026-07-14T14:33:37Z",
+    "git_url": "git://github.com/modiqo/waggle.git",
+    "homepage": "https://waggle.sh",
+    "size": 4696,
+    "stargazers_count": 738,
+    "watchers_count": 738,
+    "language": "Rust",
+    "forks_count": 138,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1299109556,
+    "name": "codex-model-routing-team",
+    "owner": {
+      "id": 180519975,
+      "url": "https://api.github.com/users/zjp1997720",
+      "html_url": "https://github.com/zjp1997720",
+      "avatar_url": "https://avatars.githubusercontent.com/u/180519975?v=4"
+    },
+    "html_url": "https://github.com/zjp1997720/codex-model-routing-team",
+    "description": "Route complex Codex tasks to model-specific background workers with bounded concurrency and lead-agent verification.",
+    "created_at": "2026-07-13T09:34:56Z",
+    "updated_at": "2026-07-14T19:18:05Z",
+    "pushed_at": "2026-07-14T01:49:08Z",
+    "git_url": "git://github.com/zjp1997720/codex-model-routing-team.git",
+    "homepage": null,
+    "size": 22,
+    "stargazers_count": 56,
+    "watchers_count": 56,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
