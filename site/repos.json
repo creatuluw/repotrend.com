@@ -62719,5 +62719,51 @@
     "language": "TypeScript",
     "forks_count": 8,
     "open_issues_count": 0
+  },
+  {
+    "id": 1272487463,
+    "name": "drawio-ai-kit",
+    "owner": {
+      "id": 290769292,
+      "url": "https://api.github.com/users/sparklabx",
+      "html_url": "https://github.com/sparklabx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/290769292?v=4"
+    },
+    "html_url": "https://github.com/sparklabx/drawio-ai-kit",
+    "description": "Teach your AI to draw correct, beautiful draw.io diagrams — declarative layout engine, ground-truth stencils, structural validator, vision self-check. AWS · Azure · GCP · Databricks · BPMN. Zero dependencies.",
+    "created_at": "2026-06-17T16:51:20Z",
+    "updated_at": "2026-07-16T18:38:58Z",
+    "pushed_at": "2026-07-15T14:23:02Z",
+    "git_url": "git://github.com/sparklabx/drawio-ai-kit.git",
+    "homepage": null,
+    "size": 19410,
+    "stargazers_count": 571,
+    "watchers_count": 571,
+    "language": "JavaScript",
+    "forks_count": 100,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1300575020,
+    "name": "UAC-SNI-Spoofer-Windows",
+    "owner": {
+      "id": 86294787,
+      "url": "https://api.github.com/users/Floxu1",
+      "html_url": "https://github.com/Floxu1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86294787?v=4"
+    },
+    "html_url": "https://github.com/Floxu1/UAC-SNI-Spoofer-Windows",
+    "description": null,
+    "created_at": "2026-07-14T14:12:16Z",
+    "updated_at": "2026-07-17T11:10:54Z",
+    "pushed_at": "2026-07-15T19:37:02Z",
+    "git_url": "git://github.com/Floxu1/UAC-SNI-Spoofer-Windows.git",
+    "homepage": null,
+    "size": 3517,
+    "stargazers_count": 87,
+    "watchers_count": 87,
+    "language": "HTML",
+    "forks_count": 6,
+    "open_issues_count": 1
   }
 ]
