@@ -62558,5 +62558,51 @@
     "language": "Solidity",
     "forks_count": 22,
     "open_issues_count": 0
+  },
+  {
+    "id": 1281772914,
+    "name": "RAMDAQ",
+    "owner": {
+      "id": 6333631,
+      "url": "https://api.github.com/users/tryRAMDAQ",
+      "html_url": "https://github.com/tryRAMDAQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6333631?v=4"
+    },
+    "html_url": "https://github.com/tryRAMDAQ/RAMDAQ",
+    "description": "The NASDAQ of compute. Rent GPUs by the hour, call 139+ models, and long/short the price of an H100. Paid in ETH, powered by $RAMDAQ.",
+    "created_at": "2026-06-26T22:59:46Z",
+    "updated_at": "2026-07-15T20:04:28Z",
+    "pushed_at": "2026-07-13T23:06:03Z",
+    "git_url": "git://github.com/tryRAMDAQ/RAMDAQ.git",
+    "homepage": "https://www.tryramdaq.com/",
+    "size": 398,
+    "stargazers_count": 520,
+    "watchers_count": 520,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1301827233,
+    "name": "Aethery",
+    "owner": {
+      "id": 284843906,
+      "url": "https://api.github.com/users/ZethRise",
+      "html_url": "https://github.com/ZethRise",
+      "avatar_url": "https://avatars.githubusercontent.com/u/284843906?v=4"
+    },
+    "html_url": "https://github.com/ZethRise/Aethery",
+    "description": "One-click mobile GUI for the Aether censorship-circumvention tunnel — Kotlin & Rust",
+    "created_at": "2026-07-15T16:30:13Z",
+    "updated_at": "2026-07-16T17:43:57Z",
+    "pushed_at": "2026-07-16T16:26:19Z",
+    "git_url": "git://github.com/ZethRise/Aethery.git",
+    "homepage": "",
+    "size": 2671,
+    "stargazers_count": 96,
+    "watchers_count": 96,
+    "language": "Rust",
+    "forks_count": 5,
+    "open_issues_count": 0
   }
 ]
