@@ -62443,5 +62443,74 @@
     "language": "Shell",
     "forks_count": 118,
     "open_issues_count": 0
+  },
+  {
+    "id": 1301597356,
+    "name": "Codex-Dream-Skin",
+    "owner": {
+      "id": 100042407,
+      "url": "https://api.github.com/users/Fei-Away",
+      "html_url": "https://github.com/Fei-Away",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100042407?v=4"
+    },
+    "html_url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+    "description": "Codex Dream Skin",
+    "created_at": "2026-07-15T12:34:51Z",
+    "updated_at": "2026-07-16T19:15:23Z",
+    "pushed_at": "2026-07-16T10:27:35Z",
+    "git_url": "git://github.com/Fei-Away/Codex-Dream-Skin.git",
+    "homepage": null,
+    "size": 13608,
+    "stargazers_count": 5181,
+    "watchers_count": 5181,
+    "language": "PowerShell",
+    "forks_count": 604,
+    "open_issues_count": 38
+  },
+  {
+    "id": 1298189234,
+    "name": "clodex-ide",
+    "owner": {
+      "id": 234955825,
+      "url": "https://api.github.com/users/mereyabdenbekuly-ctrl",
+      "html_url": "https://github.com/mereyabdenbekuly-ctrl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/234955825?v=4"
+    },
+    "html_url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+    "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+    "created_at": "2026-07-12T10:35:44Z",
+    "updated_at": "2026-07-15T18:37:14Z",
+    "pushed_at": "2026-07-15T18:57:22Z",
+    "git_url": "git://github.com/mereyabdenbekuly-ctrl/clodex-ide.git",
+    "homepage": "https://ide.clodex.xyz",
+    "size": 38468,
+    "stargazers_count": 810,
+    "watchers_count": 810,
+    "language": "TypeScript",
+    "forks_count": 148,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1298349812,
+    "name": "Party_OS",
+    "owner": {
+      "id": 210536682,
+      "url": "https://api.github.com/users/Roboparty",
+      "html_url": "https://github.com/Roboparty",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210536682?v=4"
+    },
+    "html_url": "https://github.com/Roboparty/Party_OS",
+    "description": "A Humanoid System build by RoboParty_Lab",
+    "created_at": "2026-07-12T14:28:36Z",
+    "updated_at": "2026-07-15T16:03:20Z",
+    "pushed_at": "2026-07-14T08:54:02Z",
+    "git_url": "git://github.com/Roboparty/Party_OS.git",
+    "homepage": null,
+    "size": 174,
+    "stargazers_count": 89,
+    "watchers_count": 89,
+    "language": null,
+    "forks_count": 7,
+    "open_issues_count": 0
   }
 ]
