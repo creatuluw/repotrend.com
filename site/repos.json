@@ -62880,5 +62880,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1290873619,
+    "name": "Audar-ASR-V1",
+    "owner": {
+      "id": 203841595,
+      "url": "https://api.github.com/users/AudarAI",
+      "html_url": "https://github.com/AudarAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/203841595?v=4"
+    },
+    "html_url": "https://github.com/AudarAI/Audar-ASR-V1",
+    "description": "Arabic-first generative speech recognition — Audar-ASR-V1 (Flash + Turbo). #1 on the Open Universal Arabic ASR Leaderboard. Model cards, benchmarks & inference.",
+    "created_at": "2026-07-06T09:57:28Z",
+    "updated_at": "2026-07-18T12:17:18Z",
+    "pushed_at": "2026-07-17T17:12:57Z",
+    "git_url": "git://github.com/AudarAI/Audar-ASR-V1.git",
+    "homepage": "https://www.audarai.com",
+    "size": 377,
+    "stargazers_count": 551,
+    "watchers_count": 551,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1303253010,
+    "name": "IMO2026",
+    "owner": {
+      "id": 216763904,
+      "url": "https://api.github.com/users/AxiomMath",
+      "html_url": "https://github.com/AxiomMath",
+      "avatar_url": "https://avatars.githubusercontent.com/u/216763904?v=4"
+    },
+    "html_url": "https://github.com/AxiomMath/IMO2026",
+    "description": null,
+    "created_at": "2026-07-16T21:14:42Z",
+    "updated_at": "2026-07-18T16:01:59Z",
+    "pushed_at": "2026-07-17T17:22:11Z",
+    "git_url": "git://github.com/AxiomMath/IMO2026.git",
+    "homepage": null,
+    "size": 104,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "Lean",
+    "forks_count": 6,
+    "open_issues_count": 0
   }
 ]
