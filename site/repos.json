@@ -62972,5 +62972,51 @@
     "language": null,
     "forks_count": 10,
     "open_issues_count": 0
+  },
+  {
+    "id": 1296627757,
+    "name": "jzsub",
+    "owner": {
+      "id": 16513318,
+      "url": "https://api.github.com/users/pengchujin",
+      "html_url": "https://github.com/pengchujin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16513318?v=4"
+    },
+    "html_url": "https://github.com/pengchujin/jzsub",
+    "description": "JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
+    "created_at": "2026-07-10T15:10:00Z",
+    "updated_at": "2026-07-18T19:05:28Z",
+    "pushed_at": "2026-07-14T02:13:30Z",
+    "git_url": "git://github.com/pengchujin/jzsub.git",
+    "homepage": null,
+    "size": 802,
+    "stargazers_count": 750,
+    "watchers_count": 750,
+    "language": "Python",
+    "forks_count": 83,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1301808951,
+    "name": "rust_pdb",
+    "owner": {
+      "id": 304688363,
+      "url": "https://api.github.com/users/vmx7",
+      "html_url": "https://github.com/vmx7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/304688363?v=4"
+    },
+    "html_url": "https://github.com/vmx7/rust_pdb",
+    "description": "self-contained il2cpp to windows pdb generator (rust, x64, metadata v39)",
+    "created_at": "2026-07-15T16:11:08Z",
+    "updated_at": "2026-07-17T12:28:17Z",
+    "pushed_at": "2026-07-15T16:41:28Z",
+    "git_url": "git://github.com/vmx7/rust_pdb.git",
+    "homepage": "",
+    "size": 63,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
