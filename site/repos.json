@@ -63018,5 +63018,74 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1291501023,
+    "name": "scroll-world",
+    "owner": {
+      "id": 86410452,
+      "url": "https://api.github.com/users/oso95",
+      "html_url": "https://github.com/oso95",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86410452?v=4"
+    },
+    "html_url": "https://github.com/oso95/scroll-world",
+    "description": "A skill that turn any brand into a scrollable 3D world",
+    "created_at": "2026-07-06T21:28:58Z",
+    "updated_at": "2026-07-19T03:12:59Z",
+    "pushed_at": "2026-07-16T01:23:39Z",
+    "git_url": "git://github.com/oso95/scroll-world.git",
+    "homepage": "",
+    "size": 103,
+    "stargazers_count": 3623,
+    "watchers_count": 3623,
+    "language": "JavaScript",
+    "forks_count": 451,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1279781303,
+    "name": "quantskills",
+    "owner": {
+      "id": 289961514,
+      "url": "https://api.github.com/users/quantskills",
+      "html_url": "https://github.com/quantskills",
+      "avatar_url": "https://avatars.githubusercontent.com/u/289961514?v=4"
+    },
+    "html_url": "https://github.com/quantskills/quantskills",
+    "description": "QuantSkills组织的全景��航 ——Panoramic navigator for the QuantSkills organization",
+    "created_at": "2026-06-25T02:28:37Z",
+    "updated_at": "2026-07-19T03:01:04Z",
+    "pushed_at": "2026-07-19T02:11:42Z",
+    "git_url": "git://github.com/quantskills/quantskills.git",
+    "homepage": "",
+    "size": 67075,
+    "stargazers_count": 557,
+    "watchers_count": 557,
+    "language": "JavaScript",
+    "forks_count": 23,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1303995065,
+    "name": "Palworld-God-Tool",
+    "owner": {
+      "id": 136429037,
+      "url": "https://api.github.com/users/yaswanth-sri-naga-sai",
+      "html_url": "https://github.com/yaswanth-sri-naga-sai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136429037?v=4"
+    },
+    "html_url": "https://github.com/yaswanth-sri-naga-sai/Palworld-God-Tool",
+    "description": "Ultimate god tool for Palworld with God Mode, Fly Hack, Teleport, Item Spawner, Pal Spawner & more!",
+    "created_at": "2026-07-17T12:56:17Z",
+    "updated_at": "2026-07-17T18:58:34Z",
+    "pushed_at": "2026-07-17T18:58:30Z",
+    "git_url": "git://github.com/yaswanth-sri-naga-sai/Palworld-God-Tool.git",
+    "homepage": null,
+    "size": 39,
+    "stargazers_count": 70,
+    "watchers_count": 70,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
