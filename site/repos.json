@@ -62926,5 +62926,51 @@
     "language": "Lean",
     "forks_count": 6,
     "open_issues_count": 0
+  },
+  {
+    "id": 1303576851,
+    "name": "conversation-steganography",
+    "owner": {
+      "id": 79095297,
+      "url": "https://api.github.com/users/nethical6",
+      "html_url": "https://github.com/nethical6",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79095297?v=4"
+    },
+    "html_url": "https://github.com/nethical6/conversation-steganography",
+    "description": "Use LLMs to hide messages inside normal looking conversations",
+    "created_at": "2026-07-17T04:58:22Z",
+    "updated_at": "2026-07-18T19:07:46Z",
+    "pushed_at": "2026-07-18T13:20:49Z",
+    "git_url": "git://github.com/nethical6/conversation-steganography.git",
+    "homepage": "",
+    "size": 10124,
+    "stargazers_count": 649,
+    "watchers_count": 649,
+    "language": "Go",
+    "forks_count": 33,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1301653337,
+    "name": "gbro-cover-design",
+    "owner": {
+      "id": 176493563,
+      "url": "https://api.github.com/users/pyang5166",
+      "html_url": "https://github.com/pyang5166",
+      "avatar_url": "https://avatars.githubusercontent.com/u/176493563?v=4"
+    },
+    "html_url": "https://github.com/pyang5166/gbro-cover-design",
+    "description": "公众号/小红书封面提示词生成 skill：3:4 竖版、10 种构图风格、三轮提问、真人出镜人脸一致性",
+    "created_at": "2026-07-15T13:33:33Z",
+    "updated_at": "2026-07-17T18:18:48Z",
+    "pushed_at": "2026-07-15T13:36:54Z",
+    "git_url": "git://github.com/pyang5166/gbro-cover-design.git",
+    "homepage": null,
+    "size": 2121,
+    "stargazers_count": 84,
+    "watchers_count": 84,
+    "language": null,
+    "forks_count": 10,
+    "open_issues_count": 0
   }
 ]
