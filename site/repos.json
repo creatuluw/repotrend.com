@@ -63363,5 +63363,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1278235302,
+    "name": "audio.cpp",
+    "owner": {
+      "id": 231717474,
+      "url": "https://api.github.com/users/0xShug0",
+      "html_url": "https://github.com/0xShug0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/231717474?v=4"
+    },
+    "html_url": "https://github.com/0xShug0/audio.cpp",
+    "description": "An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency.",
+    "created_at": "2026-06-23T15:40:46Z",
+    "updated_at": "2026-07-19T18:53:36Z",
+    "pushed_at": "2026-07-19T14:10:38Z",
+    "git_url": "git://github.com/0xShug0/audio.cpp.git",
+    "homepage": null,
+    "size": 85794,
+    "stargazers_count": 782,
+    "watchers_count": 782,
+    "language": "C++",
+    "forks_count": 87,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1304233782,
+    "name": "FIFA-Audio-Editor-Tool",
+    "owner": {
+      "id": 300005602,
+      "url": "https://api.github.com/users/BricklayerBolt54",
+      "html_url": "https://github.com/BricklayerBolt54",
+      "avatar_url": "https://avatars.githubusercontent.com/u/300005602?v=4"
+    },
+    "html_url": "https://github.com/BricklayerBolt54/FIFA-Audio-Editor-Tool",
+    "description": "Audio editing tool for EA Sports FC / FIFA with commentary, chants, and sound effects import/export capabilities.",
+    "created_at": "2026-07-17T17:26:06Z",
+    "updated_at": "2026-07-19T15:43:05Z",
+    "pushed_at": "2026-07-18T08:55:30Z",
+    "git_url": "git://github.com/BricklayerBolt54/FIFA-Audio-Editor-Tool.git",
+    "homepage": "",
+    "size": 158,
+    "stargazers_count": 71,
+    "watchers_count": 71,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
