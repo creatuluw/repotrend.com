@@ -63271,5 +63271,51 @@
     "language": "TypeScript",
     "forks_count": 10,
     "open_issues_count": 0
+  },
+  {
+    "id": 1276866547,
+    "name": "cfnew-deployer",
+    "owner": {
+      "id": 36790372,
+      "url": "https://api.github.com/users/byJoey",
+      "html_url": "https://github.com/byJoey",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36790372?v=4"
+    },
+    "html_url": "https://github.com/byJoey/cfnew-deployer",
+    "description": null,
+    "created_at": "2026-06-22T11:13:55Z",
+    "updated_at": "2026-07-20T02:16:33Z",
+    "pushed_at": "2026-06-24T08:05:31Z",
+    "git_url": "git://github.com/byJoey/cfnew-deployer.git",
+    "homepage": null,
+    "size": 257,
+    "stargazers_count": 622,
+    "watchers_count": 622,
+    "language": "JavaScript",
+    "forks_count": 287,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1303994909,
+    "name": "FC26-Mod-Editor-X",
+    "owner": {
+      "id": 229504841,
+      "url": "https://api.github.com/users/syuaib0724-dot",
+      "html_url": "https://github.com/syuaib0724-dot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/229504841?v=4"
+    },
+    "html_url": "https://github.com/syuaib0724-dot/FC26-Mod-Editor-X",
+    "description": "Advanced mod editor for EA Sports FC 26 with career mode tools, database editor, and live editing.",
+    "created_at": "2026-07-17T12:56:05Z",
+    "updated_at": "2026-07-19T15:44:25Z",
+    "pushed_at": "2026-07-17T18:58:38Z",
+    "git_url": "git://github.com/syuaib0724-dot/FC26-Mod-Editor-X.git",
+    "homepage": "",
+    "size": 34,
+    "stargazers_count": 71,
+    "watchers_count": 71,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
