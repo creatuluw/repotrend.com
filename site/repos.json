@@ -63087,5 +63087,74 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1265265111,
+    "name": "skills",
+    "owner": {
+      "id": 35700027,
+      "url": "https://api.github.com/users/BuilderIO",
+      "html_url": "https://github.com/BuilderIO",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35700027?v=4"
+    },
+    "html_url": "https://github.com/BuilderIO/skills",
+    "description": "Skills for coding agents",
+    "created_at": "2026-06-10T16:04:20Z",
+    "updated_at": "2026-07-19T19:10:06Z",
+    "pushed_at": "2026-07-18T19:14:19Z",
+    "git_url": "git://github.com/BuilderIO/skills.git",
+    "homepage": "https://www.agent-native.com/",
+    "size": 4354,
+    "stargazers_count": 3701,
+    "watchers_count": 3701,
+    "language": "JavaScript",
+    "forks_count": 190,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1276479597,
+    "name": "wandao",
+    "owner": {
+      "id": 188217009,
+      "url": "https://api.github.com/users/tllovesxs",
+      "html_url": "https://github.com/tllovesxs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188217009?v=4"
+    },
+    "html_url": "https://github.com/tllovesxs/wandao",
+    "description": "万能导：多平台知识库 Markdown 全项目一键导入导出工具(导入导出效果最好)，用自动化代替手动复制粘贴(有道云,飞书,语雀,阿里云知识库,知识星球,印象笔记,ima,onenote,为之笔记导出导入).(可保留目录结构,图片,项目格式) 关键词:语雀导出导入,飞书导出导入,ima导出导入.阿里云文档导出,印象笔记导出导入,有道云导出,知识星球导出,为之笔记导出,onenote导出,钉钉文档,息流导出,Obsidian 导出",
+    "created_at": "2026-06-22T02:43:25Z",
+    "updated_at": "2026-07-19T17:29:22Z",
+    "pushed_at": "2026-07-19T14:51:38Z",
+    "git_url": "git://github.com/tllovesxs/wandao.git",
+    "homepage": "",
+    "size": 19977,
+    "stargazers_count": 524,
+    "watchers_count": 524,
+    "language": "Python",
+    "forks_count": 57,
+    "open_issues_count": 17
+  },
+  {
+    "id": 1304229261,
+    "name": "Codex-QQ-Skin",
+    "owner": {
+      "id": 714896,
+      "url": "https://api.github.com/users/zhulin025",
+      "html_url": "https://github.com/zhulin025",
+      "avatar_url": "https://avatars.githubusercontent.com/u/714896?v=4"
+    },
+    "html_url": "https://github.com/zhulin025/Codex-QQ-Skin",
+    "description": "一个复古QQ风格的 Codex 皮肤",
+    "created_at": "2026-07-17T17:21:35Z",
+    "updated_at": "2026-07-19T18:11:46Z",
+    "pushed_at": "2026-07-19T18:11:42Z",
+    "git_url": "git://github.com/zhulin025/Codex-QQ-Skin.git",
+    "homepage": "https://qodex.liuwa.xyz/",
+    "size": 7516,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": "JavaScript",
+    "forks_count": 5,
+    "open_issues_count": 0
   }
 ]
