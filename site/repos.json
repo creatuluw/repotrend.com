@@ -63409,5 +63409,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1287398535,
+    "name": "pon",
+    "owner": {
+      "id": 11807264,
+      "url": "https://api.github.com/users/can1357",
+      "html_url": "https://github.com/can1357",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11807264?v=4"
+    },
+    "html_url": "https://github.com/can1357/pon",
+    "description": "Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.",
+    "created_at": "2026-07-02T16:44:07Z",
+    "updated_at": "2026-07-19T17:49:08Z",
+    "pushed_at": "2026-07-07T08:12:09Z",
+    "git_url": "git://github.com/can1357/pon.git",
+    "homepage": null,
+    "size": 27599,
+    "stargazers_count": 525,
+    "watchers_count": 525,
+    "language": "Rust",
+    "forks_count": 16,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1304421298,
+    "name": "wp2shell-poc",
+    "owner": {
+      "id": 209842043,
+      "url": "https://api.github.com/users/sergiointel",
+      "html_url": "https://github.com/sergiointel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/209842043?v=4"
+    },
+    "html_url": "https://github.com/sergiointel/wp2shell-poc",
+    "description": "Stock vulnerable wordpress RCE poc for wp2shell.",
+    "created_at": "2026-07-17T22:05:28Z",
+    "updated_at": "2026-07-20T12:03:35Z",
+    "pushed_at": "2026-07-18T15:59:28Z",
+    "git_url": "git://github.com/sergiointel/wp2shell-poc.git",
+    "homepage": "",
+    "size": 16,
+    "stargazers_count": 83,
+    "watchers_count": 83,
+    "language": "Python",
+    "forks_count": 20,
+    "open_issues_count": 0
   }
 ]
