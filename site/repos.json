@@ -63777,5 +63777,74 @@
     "language": "Python",
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1298696137,
+    "name": "aos-ce",
+    "owner": {
+      "id": 261740341,
+      "url": "https://api.github.com/users/unicity-aos",
+      "html_url": "https://github.com/unicity-aos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/261740341?v=4"
+    },
+    "html_url": "https://github.com/unicity-aos/aos-ce",
+    "description": "AOS Community Edition: the open agent operating system.",
+    "created_at": "2026-07-12T23:39:52Z",
+    "updated_at": "2026-07-21T08:34:01Z",
+    "pushed_at": "2026-07-21T01:17:10Z",
+    "git_url": "git://github.com/unicity-aos/aos-ce.git",
+    "homepage": null,
+    "size": 8521,
+    "stargazers_count": 4272,
+    "watchers_count": 4272,
+    "language": "Rust",
+    "forks_count": 3,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1298346646,
+    "name": "codex-first-customer-finder-skill",
+    "owner": {
+      "id": 203409268,
+      "url": "https://api.github.com/users/Kappaemme-git",
+      "html_url": "https://github.com/Kappaemme-git",
+      "avatar_url": "https://avatars.githubusercontent.com/u/203409268?v=4"
+    },
+    "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
+    "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
+    "created_at": "2026-07-12T14:24:33Z",
+    "updated_at": "2026-07-20T17:50:04Z",
+    "pushed_at": "2026-07-13T22:12:12Z",
+    "git_url": "git://github.com/Kappaemme-git/codex-first-customer-finder-skill.git",
+    "homepage": null,
+    "size": 32,
+    "stargazers_count": 858,
+    "watchers_count": 858,
+    "language": "Python",
+    "forks_count": 97,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1306674258,
+    "name": "protestchat",
+    "owner": {
+      "id": 45588772,
+      "url": "https://api.github.com/users/ni5arga",
+      "html_url": "https://github.com/ni5arga",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45588772?v=4"
+    },
+    "html_url": "https://github.com/ni5arga/protestchat",
+    "description": "Encrypted messaging with no internet, no cell tower, and no server. Phones relay for each other over Bluetooth mesh, so it keeps working during internet shutdowns and inside cellular jammers",
+    "created_at": "2026-07-20T14:07:55Z",
+    "updated_at": "2026-07-21T08:32:03Z",
+    "pushed_at": "2026-07-20T23:09:42Z",
+    "git_url": "git://github.com/ni5arga/protestchat.git",
+    "homepage": "",
+    "size": 3465,
+    "stargazers_count": 98,
+    "watchers_count": 98,
+    "language": "TypeScript",
+    "forks_count": 15,
+    "open_issues_count": 15
   }
 ]
