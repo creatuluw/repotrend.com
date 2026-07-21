@@ -63501,5 +63501,51 @@
     "language": null,
     "forks_count": 10,
     "open_issues_count": 0
+  },
+  {
+    "id": 1305243497,
+    "name": "harness-engineering",
+    "owner": {
+      "id": 860434,
+      "url": "https://api.github.com/users/lopopolo",
+      "html_url": "https://github.com/lopopolo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/860434?v=4"
+    },
+    "html_url": "https://github.com/lopopolo/harness-engineering",
+    "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+    "created_at": "2026-07-18T21:42:28Z",
+    "updated_at": "2026-07-19T19:08:14Z",
+    "pushed_at": "2026-07-18T21:55:49Z",
+    "git_url": "git://github.com/lopopolo/harness-engineering.git",
+    "homepage": "https://openai.com/index/harness-engineering/",
+    "size": 595,
+    "stargazers_count": 522,
+    "watchers_count": 522,
+    "language": "Python",
+    "forks_count": 23,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1305058794,
+    "name": "novel-to-game",
+    "owner": {
+      "id": 49583093,
+      "url": "https://api.github.com/users/worldwonderer",
+      "html_url": "https://github.com/worldwonderer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49583093?v=4"
+    },
+    "html_url": "https://github.com/worldwonderer/novel-to-game",
+    "description": "把任何小说变成可玩的游戏 · Turn any novel into a playable game — a 7-skill adaptation pipeline for Claude Code, Codex & Kimi Code(k3)",
+    "created_at": "2026-07-18T16:29:56Z",
+    "updated_at": "2026-07-20T15:46:22Z",
+    "pushed_at": "2026-07-19T13:49:13Z",
+    "git_url": "git://github.com/worldwonderer/novel-to-game.git",
+    "homepage": "",
+    "size": 22176,
+    "stargazers_count": 75,
+    "watchers_count": 75,
+    "language": "Python",
+    "forks_count": 12,
+    "open_issues_count": 0
   }
 ]
