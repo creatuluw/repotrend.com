@@ -63846,5 +63846,74 @@
     "language": "TypeScript",
     "forks_count": 15,
     "open_issues_count": 15
+  },
+  {
+    "id": 1225753223,
+    "name": "Instatic",
+    "owner": {
+      "id": 200088650,
+      "url": "https://api.github.com/users/CoreBunch",
+      "html_url": "https://github.com/CoreBunch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/200088650?v=4"
+    },
+    "html_url": "https://github.com/CoreBunch/Instatic",
+    "description": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
+    "created_at": "2026-04-30T15:48:54Z",
+    "updated_at": "2026-07-21T13:43:08Z",
+    "pushed_at": "2026-07-13T18:37:42Z",
+    "git_url": "git://github.com/CoreBunch/Instatic.git",
+    "homepage": "https://instatic.com",
+    "size": 193302,
+    "stargazers_count": 3565,
+    "watchers_count": 3565,
+    "language": "TypeScript",
+    "forks_count": 311,
+    "open_issues_count": 32
+  },
+  {
+    "id": 1281033762,
+    "name": "edgeever",
+    "owner": {
+      "id": 5895871,
+      "url": "https://api.github.com/users/tianma-if",
+      "html_url": "https://github.com/tianma-if",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5895871?v=4"
+    },
+    "html_url": "https://github.com/tianma-if/edgeever",
+    "description": "Serverless, 100% free, and open-source Evernote alternative on Cloudflare with native MCP | 无需服务器、0费用、原生支持 AI Agent 的开源自托管『印象笔记』",
+    "created_at": "2026-06-26T06:59:58Z",
+    "updated_at": "2026-07-20T17:40:13Z",
+    "pushed_at": "2026-07-20T17:39:23Z",
+    "git_url": "git://github.com/tianma-if/edgeever.git",
+    "homepage": "https://edgeever.org",
+    "size": 7816,
+    "stargazers_count": 559,
+    "watchers_count": 559,
+    "language": "TypeScript",
+    "forks_count": 217,
+    "open_issues_count": 10
+  },
+  {
+    "id": 1304838006,
+    "name": "MecchaChameleon-AutoPaintTool",
+    "owner": {
+      "id": 95925810,
+      "url": "https://api.github.com/users/sanjayragavendra",
+      "html_url": "https://github.com/sanjayragavendra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95925810?v=4"
+    },
+    "html_url": "https://github.com/sanjayragavendra/MecchaChameleon-AutoPaintTool",
+    "description": "Instant camouflage tool for Meccha Chameleon. Auto-detects surface color and paints you instantly.",
+    "created_at": "2026-07-18T11:11:06Z",
+    "updated_at": "2026-07-19T10:50:45Z",
+    "pushed_at": "2026-07-18T12:17:19Z",
+    "git_url": "git://github.com/sanjayragavendra/MecchaChameleon-AutoPaintTool.git",
+    "homepage": "",
+    "size": 11,
+    "stargazers_count": 77,
+    "watchers_count": 77,
+    "language": "Python",
+    "forks_count": 17,
+    "open_issues_count": 0
   }
 ]
