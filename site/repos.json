@@ -63639,5 +63639,74 @@
     "language": "TypeScript",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1293375068,
+    "name": "os-taxonomy",
+    "owner": {
+      "id": 233045934,
+      "url": "https://api.github.com/users/withmarbleapp",
+      "html_url": "https://github.com/withmarbleapp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/233045934?v=4"
+    },
+    "html_url": "https://github.com/withmarbleapp/os-taxonomy",
+    "description": null,
+    "created_at": "2026-07-08T09:27:48Z",
+    "updated_at": "2026-07-21T02:53:32Z",
+    "pushed_at": "2026-07-08T14:18:23Z",
+    "git_url": "git://github.com/withmarbleapp/os-taxonomy.git",
+    "homepage": null,
+    "size": 5629,
+    "stargazers_count": 3485,
+    "watchers_count": 3485,
+    "language": "JavaScript",
+    "forks_count": 597,
+    "open_issues_count": 13
+  },
+  {
+    "id": 1287168990,
+    "name": "Hy3",
+    "owner": {
+      "id": 210980732,
+      "url": "https://api.github.com/users/Tencent-Hunyuan",
+      "html_url": "https://github.com/Tencent-Hunyuan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210980732?v=4"
+    },
+    "html_url": "https://github.com/Tencent-Hunyuan/Hy3",
+    "description": "Hy3 (295B A21B), a leading reasoning and agent model in its size, with great cost efficiency.",
+    "created_at": "2026-07-02T12:48:04Z",
+    "updated_at": "2026-07-20T19:06:39Z",
+    "pushed_at": "2026-07-17T10:11:52Z",
+    "git_url": "git://github.com/Tencent-Hunyuan/Hy3.git",
+    "homepage": "",
+    "size": 4861,
+    "stargazers_count": 524,
+    "watchers_count": 524,
+    "language": "Python",
+    "forks_count": 116,
+    "open_issues_count": 98
+  },
+  {
+    "id": 1307065438,
+    "name": "agents-council",
+    "owner": {
+      "id": 155918204,
+      "url": "https://api.github.com/users/0xwilliamortiz",
+      "html_url": "https://github.com/0xwilliamortiz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/155918204?v=4"
+    },
+    "html_url": "https://github.com/0xwilliamortiz/agents-council",
+    "description": "Multi-agents collaboration plugin for Claude Code - orchestrate multiple AI agents (Codex CLI, Gemini CLI, etc.) for diverse perspectives",
+    "created_at": "2026-07-20T22:34:45Z",
+    "updated_at": "2026-07-21T00:19:54Z",
+    "pushed_at": "2026-07-21T00:03:36Z",
+    "git_url": "git://github.com/0xwilliamortiz/agents-council.git",
+    "homepage": "",
+    "size": 972,
+    "stargazers_count": 90,
+    "watchers_count": 90,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 1
   }
 ]
