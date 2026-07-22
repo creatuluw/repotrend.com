@@ -64260,5 +64260,51 @@
     "language": "Python",
     "forks_count": 11,
     "open_issues_count": 0
+  },
+  {
+    "id": 1304673796,
+    "name": "handdraw-story-video",
+    "owner": {
+      "id": 128920834,
+      "url": "https://api.github.com/users/xiejunjie524",
+      "html_url": "https://github.com/xiejunjie524",
+      "avatar_url": "https://avatars.githubusercontent.com/u/128920834?v=4"
+    },
+    "html_url": "https://github.com/xiejunjie524/handdraw-story-video",
+    "description": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
+    "created_at": "2026-07-18T06:51:05Z",
+    "updated_at": "2026-07-22T18:32:58Z",
+    "pushed_at": "2026-07-18T09:43:19Z",
+    "git_url": "git://github.com/xiejunjie524/handdraw-story-video.git",
+    "homepage": null,
+    "size": 6322,
+    "stargazers_count": 619,
+    "watchers_count": 619,
+    "language": "Python",
+    "forks_count": 94,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1307084846,
+    "name": "VibeGamer",
+    "owner": {
+      "id": 1567626,
+      "url": "https://api.github.com/users/karminski",
+      "html_url": "https://github.com/karminski",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1567626?v=4"
+    },
+    "html_url": "https://github.com/karminski/VibeGamer",
+    "description": "用 AI Agent 自动游玩《Turmoil》（石油大亨）并不断积累经验进化的实验项目. ",
+    "created_at": "2026-07-20T23:16:12Z",
+    "updated_at": "2026-07-22T15:35:48Z",
+    "pushed_at": "2026-07-20T23:17:38Z",
+    "git_url": "git://github.com/karminski/VibeGamer.git",
+    "homepage": null,
+    "size": 934,
+    "stargazers_count": 55,
+    "watchers_count": 55,
+    "language": "TypeScript",
+    "forks_count": 7,
+    "open_issues_count": 0
   }
 ]
