@@ -63961,5 +63961,51 @@
     "language": "JavaScript",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1302077273,
+    "name": "cue",
+    "owner": {
+      "id": 114044325,
+      "url": "https://api.github.com/users/Blueturboguy07",
+      "html_url": "https://github.com/Blueturboguy07",
+      "avatar_url": "https://avatars.githubusercontent.com/u/114044325?v=4"
+    },
+    "html_url": "https://github.com/Blueturboguy07/cue",
+    "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+    "created_at": "2026-07-15T22:17:25Z",
+    "updated_at": "2026-07-21T18:05:55Z",
+    "pushed_at": "2026-07-21T10:37:07Z",
+    "git_url": "git://github.com/Blueturboguy07/cue.git",
+    "homepage": null,
+    "size": 1145,
+    "stargazers_count": 697,
+    "watchers_count": 697,
+    "language": "JavaScript",
+    "forks_count": 145,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1307252454,
+    "name": "pi-textbook",
+    "owner": {
+      "id": 55630163,
+      "url": "https://api.github.com/users/hahhforest",
+      "html_url": "https://github.com/hahhforest",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55630163?v=4"
+    },
+    "html_url": "https://github.com/hahhforest/pi-textbook",
+    "description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+    "created_at": "2026-07-21T04:17:35Z",
+    "updated_at": "2026-07-21T17:31:16Z",
+    "pushed_at": "2026-07-21T17:17:24Z",
+    "git_url": "git://github.com/hahhforest/pi-textbook.git",
+    "homepage": "https://build-your-own-pi-cn.enochzhang.chatgpt.site",
+    "size": 5561,
+    "stargazers_count": 79,
+    "watchers_count": 79,
+    "language": "TypeScript",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
