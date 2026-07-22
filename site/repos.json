@@ -64145,5 +64145,51 @@
     "language": "Python",
     "forks_count": 19,
     "open_issues_count": 2
+  },
+  {
+    "id": 1289755707,
+    "name": "dg-ai-notes",
+    "owner": {
+      "id": 31760283,
+      "url": "https://api.github.com/users/buchidonggua",
+      "html_url": "https://github.com/buchidonggua",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31760283?v=4"
+    },
+    "html_url": "https://github.com/buchidonggua/dg-ai-notes",
+    "description": null,
+    "created_at": "2026-07-05T06:52:55Z",
+    "updated_at": "2026-07-21T19:08:00Z",
+    "pushed_at": "2026-07-21T17:21:46Z",
+    "git_url": "git://github.com/buchidonggua/dg-ai-notes.git",
+    "homepage": "https://dg-ai-notes.pages.dev/",
+    "size": 953,
+    "stargazers_count": 559,
+    "watchers_count": 559,
+    "language": "MDX",
+    "forks_count": 36,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1304775452,
+    "name": "esse",
+    "owner": {
+      "id": 7235980,
+      "url": "https://api.github.com/users/renoir1220",
+      "html_url": "https://github.com/renoir1220",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7235980?v=4"
+    },
+    "html_url": "https://github.com/renoir1220/esse",
+    "description": "面��� Codex 和 ChatGPT Work 的本地图片生成与编辑工作台 · Local image generation and editing workspace",
+    "created_at": "2026-07-18T09:35:41Z",
+    "updated_at": "2026-07-21T07:14:08Z",
+    "pushed_at": "2026-07-21T09:35:14Z",
+    "git_url": "git://github.com/renoir1220/esse.git",
+    "homepage": "https://github.com/renoir1220/esse/releases/latest",
+    "size": 4306,
+    "stargazers_count": 85,
+    "watchers_count": 85,
+    "language": "TypeScript",
+    "forks_count": 8,
+    "open_issues_count": 6
   }
 ]
