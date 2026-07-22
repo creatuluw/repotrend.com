@@ -64099,5 +64099,51 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1282025633,
+    "name": "OpenTag",
+    "owner": {
+      "id": 264921177,
+      "url": "https://api.github.com/users/linxidnju",
+      "html_url": "https://github.com/linxidnju",
+      "avatar_url": "https://avatars.githubusercontent.com/u/264921177?v=4"
+    },
+    "html_url": "https://github.com/linxidnju/OpenTag",
+    "description": "Open-source, channel-native agent gateway for Slack. Route team threads to Claude Code, Codex, OpenCode, Docker, HTTP agents, and custom CLIs with policy, approvals, memory, audit logs, and artifacts.",
+    "created_at": "2026-06-27T08:10:47Z",
+    "updated_at": "2026-07-22T07:32:56Z",
+    "pushed_at": "2026-07-10T06:39:50Z",
+    "git_url": "git://github.com/linxidnju/OpenTag.git",
+    "homepage": "",
+    "size": 4356,
+    "stargazers_count": 563,
+    "watchers_count": 563,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1305391575,
+    "name": "textbook-to-note",
+    "owner": {
+      "id": 55537221,
+      "url": "https://api.github.com/users/drpwchen",
+      "html_url": "https://github.com/drpwchen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55537221?v=4"
+    },
+    "html_url": "https://github.com/drpwchen/textbook-to-note",
+    "description": "Turn your own PDF textbooks into an AI-searchable knowledge base and structured, fully-cited notes — figures included. Local-first, token-frugal.",
+    "created_at": "2026-07-19T03:33:46Z",
+    "updated_at": "2026-07-22T08:06:37Z",
+    "pushed_at": "2026-07-22T07:58:09Z",
+    "git_url": "git://github.com/drpwchen/textbook-to-note.git",
+    "homepage": null,
+    "size": 1211,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": "Python",
+    "forks_count": 19,
+    "open_issues_count": 2
   }
 ]
