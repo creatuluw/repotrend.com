@@ -64007,5 +64007,51 @@
     "language": "TypeScript",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1286657505,
+    "name": "sony-head-tracker",
+    "owner": {
+      "id": 143557939,
+      "url": "https://api.github.com/users/NicholasSlattery",
+      "html_url": "https://github.com/NicholasSlattery",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143557939?v=4"
+    },
+    "html_url": "https://github.com/NicholasSlattery/sony-head-tracker",
+    "description": "Use the motion sensors inside Sony headphones as a low-latency Windows and MacOS head tracker for OpenTrack and simulator games.",
+    "created_at": "2026-07-02T01:50:03Z",
+    "updated_at": "2026-07-22T02:11:44Z",
+    "pushed_at": "2026-07-13T19:14:25Z",
+    "git_url": "git://github.com/NicholasSlattery/sony-head-tracker.git",
+    "homepage": "",
+    "size": 302,
+    "stargazers_count": 521,
+    "watchers_count": 521,
+    "language": "C++",
+    "forks_count": 22,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1306503677,
+    "name": "caspian-sdk",
+    "owner": {
+      "id": 256783915,
+      "url": "https://api.github.com/users/TryCaspian",
+      "html_url": "https://github.com/TryCaspian",
+      "avatar_url": "https://avatars.githubusercontent.com/u/256783915?v=4"
+    },
+    "html_url": "https://github.com/TryCaspian/caspian-sdk",
+    "description": "One identity for your AI agent across every channel humans use: Slack, Discord, Telegram, Instagram, email, X, behind a single on_message handler. Channel adapters + SDK + CLI.",
+    "created_at": "2026-07-20T10:47:56Z",
+    "updated_at": "2026-07-21T19:20:45Z",
+    "pushed_at": "2026-07-21T18:04:03Z",
+    "git_url": "git://github.com/TryCaspian/caspian-sdk.git",
+    "homepage": "https://trycaspianai.com",
+    "size": 547,
+    "stargazers_count": 84,
+    "watchers_count": 84,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 1
   }
 ]
