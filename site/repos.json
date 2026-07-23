@@ -64398,5 +64398,74 @@
     "language": "C++",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1273824907,
+    "name": "opencodex",
+    "owner": {
+      "id": 243035832,
+      "url": "https://api.github.com/users/lidge-jun",
+      "html_url": "https://github.com/lidge-jun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/243035832?v=4"
+    },
+    "html_url": "https://github.com/lidge-jun/opencodex",
+    "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code",
+    "created_at": "2026-06-18T23:03:18Z",
+    "updated_at": "2026-07-23T03:12:41Z",
+    "pushed_at": "2026-07-22T23:36:45Z",
+    "git_url": "git://github.com/lidge-jun/opencodex.git",
+    "homepage": "https://lidge-jun.github.io/opencodex/",
+    "size": 33951,
+    "stargazers_count": 3690,
+    "watchers_count": 3690,
+    "language": "TypeScript",
+    "forks_count": 256,
+    "open_issues_count": 22
+  },
+  {
+    "id": 1291198433,
+    "name": "Januscape",
+    "owner": {
+      "id": 42788779,
+      "url": "https://api.github.com/users/V4bel",
+      "html_url": "https://github.com/V4bel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42788779?v=4"
+    },
+    "html_url": "https://github.com/V4bel/Januscape",
+    "description": null,
+    "created_at": "2026-07-06T15:35:00Z",
+    "updated_at": "2026-07-22T22:04:57Z",
+    "pushed_at": "2026-07-06T15:37:40Z",
+    "git_url": "git://github.com/V4bel/Januscape.git",
+    "homepage": null,
+    "size": 6274,
+    "stargazers_count": 508,
+    "watchers_count": 508,
+    "language": "C",
+    "forks_count": 69,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1306949843,
+    "name": "bashumerate",
+    "owner": {
+      "id": 74608380,
+      "url": "https://api.github.com/users/wallach-game",
+      "html_url": "https://github.com/wallach-game",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74608380?v=4"
+    },
+    "html_url": "https://github.com/wallach-game/bashumerate",
+    "description": null,
+    "created_at": "2026-07-20T19:29:04Z",
+    "updated_at": "2026-07-22T17:39:25Z",
+    "pushed_at": "2026-07-22T11:28:46Z",
+    "git_url": "git://github.com/wallach-game/bashumerate.git",
+    "homepage": null,
+    "size": 26,
+    "stargazers_count": 72,
+    "watchers_count": 72,
+    "language": "Shell",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
