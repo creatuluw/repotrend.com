@@ -64467,5 +64467,51 @@
     "language": "Shell",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1304129036,
+    "name": "pohuy",
+    "owner": {
+      "id": 32239508,
+      "url": "https://api.github.com/users/smixs",
+      "html_url": "https://github.com/smixs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32239508?v=4"
+    },
+    "html_url": "https://github.com/smixs/pohuy",
+    "description": "Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+",
+    "created_at": "2026-07-17T15:22:53Z",
+    "updated_at": "2026-07-22T23:14:59Z",
+    "pushed_at": "2026-07-22T18:24:08Z",
+    "git_url": "git://github.com/smixs/pohuy.git",
+    "homepage": "",
+    "size": 252,
+    "stargazers_count": 538,
+    "watchers_count": 538,
+    "language": null,
+    "forks_count": 9,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1306543174,
+    "name": "ZEUS-PANEL",
+    "owner": {
+      "id": 307096617,
+      "url": "https://api.github.com/users/zeus-panel",
+      "html_url": "https://github.com/zeus-panel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/307096617?v=4"
+    },
+    "html_url": "https://github.com/zeus-panel/ZEUS-PANEL",
+    "description": "A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
+    "created_at": "2026-07-20T11:37:49Z",
+    "updated_at": "2026-07-23T03:10:09Z",
+    "pushed_at": "2026-07-22T21:54:44Z",
+    "git_url": "git://github.com/zeus-panel/ZEUS-PANEL.git",
+    "homepage": "https://zeus-panel.ir-netlify.workers.dev/paneI",
+    "size": 4697,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": "JavaScript",
+    "forks_count": 11,
+    "open_issues_count": 0
   }
 ]
