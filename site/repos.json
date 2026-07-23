@@ -64559,5 +64559,51 @@
     "language": "Python",
     "forks_count": 10,
     "open_issues_count": 0
+  },
+  {
+    "id": 1290854596,
+    "name": "ax",
+    "owner": {
+      "id": 10682,
+      "url": "https://api.github.com/users/yusukebe",
+      "html_url": "https://github.com/yusukebe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10682?v=4"
+    },
+    "html_url": "https://github.com/yusukebe/ax",
+    "description": "The AI-era curl",
+    "created_at": "2026-07-06T09:39:01Z",
+    "updated_at": "2026-07-23T13:37:41Z",
+    "pushed_at": "2026-07-23T13:37:05Z",
+    "git_url": "git://github.com/yusukebe/ax.git",
+    "homepage": "https://ax.yusuke.run/",
+    "size": 428,
+    "stargazers_count": 585,
+    "watchers_count": 585,
+    "language": "TypeScript",
+    "forks_count": 13,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1305428722,
+    "name": "FlowBlock",
+    "owner": {
+      "id": 278403490,
+      "url": "https://api.github.com/users/Red-EAD",
+      "html_url": "https://github.com/Red-EAD",
+      "avatar_url": "https://avatars.githubusercontent.com/u/278403490?v=4"
+    },
+    "html_url": "https://github.com/Red-EAD/FlowBlock",
+    "description": "FlowBlock: Wavefront-Parallel Decoding Framework for Self-Correcting Diffusion Language Models",
+    "created_at": "2026-07-19T04:54:50Z",
+    "updated_at": "2026-07-21T17:15:34Z",
+    "pushed_at": "2026-07-21T03:22:11Z",
+    "git_url": "git://github.com/Red-EAD/FlowBlock.git",
+    "homepage": "",
+    "size": 709,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
