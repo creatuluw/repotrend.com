@@ -64858,5 +64858,74 @@
     "language": "Jupyter Notebook",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1231135337,
+    "name": "mirage",
+    "owner": {
+      "id": 248286111,
+      "url": "https://api.github.com/users/strukto-ai",
+      "html_url": "https://github.com/strukto-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/248286111?v=4"
+    },
+    "html_url": "https://github.com/strukto-ai/mirage",
+    "description": "The World's First Unified Virtual Filesystem For AI Agents",
+    "created_at": "2026-05-06T17:00:48Z",
+    "updated_at": "2026-07-24T13:06:50Z",
+    "pushed_at": "2026-07-24T12:31:53Z",
+    "git_url": "git://github.com/strukto-ai/mirage.git",
+    "homepage": "https://www.strukto.ai/mirage",
+    "size": 24180,
+    "stargazers_count": 3357,
+    "watchers_count": 3357,
+    "language": "TypeScript",
+    "forks_count": 243,
+    "open_issues_count": 130
+  },
+  {
+    "id": 1288802563,
+    "name": "k12-reg",
+    "owner": {
+      "id": 57002321,
+      "url": "https://api.github.com/users/lxh77721",
+      "html_url": "https://github.com/lxh77721",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57002321?v=4"
+    },
+    "html_url": "https://github.com/lxh77721/k12-reg",
+    "description": "多线程全自动注册free 强上K12空间 gmail版",
+    "created_at": "2026-07-04T01:47:38Z",
+    "updated_at": "2026-07-24T11:04:41Z",
+    "pushed_at": "2026-07-04T10:14:11Z",
+    "git_url": "git://github.com/lxh77721/k12-reg.git",
+    "homepage": "",
+    "size": 541,
+    "stargazers_count": 573,
+    "watchers_count": 573,
+    "language": "TypeScript",
+    "forks_count": 76,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1307733763,
+    "name": "AIGuardSIEM",
+    "owner": {
+      "id": 208038094,
+      "url": "https://api.github.com/users/itshamzabendelladj",
+      "html_url": "https://github.com/itshamzabendelladj",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208038094?v=4"
+    },
+    "html_url": "https://github.com/itshamzabendelladj/AIGuardSIEM",
+    "description": "A production-grade SIEM/XDR platform for 1M+ EPS ingestion with sub-15ms detection latency. Built with C++, Go, and Python. Features DPDK capture, ONNX ML inference, Sigma rules, eBPF monitoring, and SOAR.",
+    "created_at": "2026-07-21T13:28:34Z",
+    "updated_at": "2026-07-23T16:30:17Z",
+    "pushed_at": "2026-07-23T00:46:43Z",
+    "git_url": "git://github.com/itshamzabendelladj/AIGuardSIEM.git",
+    "homepage": "",
+    "size": 257,
+    "stargazers_count": 62,
+    "watchers_count": 62,
+    "language": "C++",
+    "forks_count": 6,
+    "open_issues_count": 0
   }
 ]
