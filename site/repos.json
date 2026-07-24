@@ -64674,5 +64674,51 @@
     "language": "Python",
     "forks_count": 6,
     "open_issues_count": 0
+  },
+  {
+    "id": 1292611271,
+    "name": "AlayaWorld",
+    "owner": {
+      "id": 220945292,
+      "url": "https://api.github.com/users/AlayaLab",
+      "html_url": "https://github.com/AlayaLab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/220945292?v=4"
+    },
+    "html_url": "https://github.com/AlayaLab/AlayaWorld",
+    "description": "Full-stack open-source interactive long-horizon world model.",
+    "created_at": "2026-07-07T17:15:20Z",
+    "updated_at": "2026-07-22T19:21:04Z",
+    "pushed_at": "2026-07-21T03:41:15Z",
+    "git_url": "git://github.com/AlayaLab/AlayaWorld.git",
+    "homepage": null,
+    "size": 35899,
+    "stargazers_count": 601,
+    "watchers_count": 601,
+    "language": "Python",
+    "forks_count": 25,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1304618751,
+    "name": "go-tg-api",
+    "owner": {
+      "id": 175501983,
+      "url": "https://api.github.com/users/iluvx",
+      "html_url": "https://github.com/iluvx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/175501983?v=4"
+    },
+    "html_url": "https://github.com/iluvx/go-tg-api",
+    "description": "Build Telegram bots and user clients in Go — without wrestling MTProto.",
+    "created_at": "2026-07-18T05:13:20Z",
+    "updated_at": "2026-07-18T07:48:50Z",
+    "pushed_at": "2026-07-18T06:18:12Z",
+    "git_url": "git://github.com/iluvx/go-tg-api.git",
+    "homepage": null,
+    "size": 155,
+    "stargazers_count": 60,
+    "watchers_count": 60,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 1
   }
 ]
