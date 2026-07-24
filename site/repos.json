@@ -64766,5 +64766,51 @@
     "language": null,
     "forks_count": 31,
     "open_issues_count": 0
+  },
+  {
+    "id": 1302449868,
+    "name": "MovieBox-Tui",
+    "owner": {
+      "id": 73069638,
+      "url": "https://api.github.com/users/mesamirh",
+      "html_url": "https://github.com/mesamirh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73069638?v=4"
+    },
+    "html_url": "https://github.com/mesamirh/MovieBox-Tui",
+    "description": "A modern Rust based terminal user interface for MovieBox. Fast, lightweight, keyboard first, and cross-platform.",
+    "created_at": "2026-07-16T07:09:47Z",
+    "updated_at": "2026-07-24T02:46:38Z",
+    "pushed_at": "2026-07-23T12:33:15Z",
+    "git_url": "git://github.com/mesamirh/MovieBox-Tui.git",
+    "homepage": "",
+    "size": 26589,
+    "stargazers_count": 677,
+    "watchers_count": 677,
+    "language": "Rust",
+    "forks_count": 54,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1307379556,
+    "name": "pgContext",
+    "owner": {
+      "id": 230713053,
+      "url": "https://api.github.com/users/Evokoa",
+      "html_url": "https://github.com/Evokoa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/230713053?v=4"
+    },
+    "html_url": "https://github.com/Evokoa/pgContext",
+    "description": "A full AI search engine, built into Postgres.",
+    "created_at": "2026-07-21T06:57:38Z",
+    "updated_at": "2026-07-23T18:43:21Z",
+    "pushed_at": "2026-07-23T12:09:10Z",
+    "git_url": "git://github.com/Evokoa/pgContext.git",
+    "homepage": null,
+    "size": 4170,
+    "stargazers_count": 82,
+    "watchers_count": 82,
+    "language": "Rust",
+    "forks_count": 5,
+    "open_issues_count": 0
   }
 ]
