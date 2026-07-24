@@ -64812,5 +64812,51 @@
     "language": "Rust",
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1290260182,
+    "name": "PasarGuard",
+    "owner": {
+      "id": 298382259,
+      "url": "https://api.github.com/users/x4gKing",
+      "html_url": "https://github.com/x4gKing",
+      "avatar_url": "https://avatars.githubusercontent.com/u/298382259?v=4"
+    },
+    "html_url": "https://github.com/x4gKing/PasarGuard",
+    "description": null,
+    "created_at": "2026-07-05T18:55:14Z",
+    "updated_at": "2026-07-24T07:58:07Z",
+    "pushed_at": "2026-07-23T14:38:06Z",
+    "git_url": "git://github.com/x4gKing/PasarGuard.git",
+    "homepage": null,
+    "size": 15,
+    "stargazers_count": 827,
+    "watchers_count": 827,
+    "language": "Dockerfile",
+    "forks_count": 1664,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1307987666,
+    "name": "AIS3-2026-Material",
+    "owner": {
+      "id": 50062014,
+      "url": "https://api.github.com/users/stwater20",
+      "html_url": "https://github.com/stwater20",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50062014?v=4"
+    },
+    "html_url": "https://github.com/stwater20/AIS3-2026-Material",
+    "description": "AIS3 2026 - AI 資安應用實作與模型安全",
+    "created_at": "2026-07-21T18:00:50Z",
+    "updated_at": "2026-07-24T05:45:48Z",
+    "pushed_at": "2026-07-24T05:45:28Z",
+    "git_url": "git://github.com/stwater20/AIS3-2026-Material.git",
+    "homepage": "http://ais3-2026.sectools.tw/",
+    "size": 2536,
+    "stargazers_count": 55,
+    "watchers_count": 55,
+    "language": "Jupyter Notebook",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
