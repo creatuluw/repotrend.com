@@ -64605,5 +64605,74 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1256690992,
+    "name": "codex-auth-helper",
+    "owner": {
+      "id": 46481080,
+      "url": "https://api.github.com/users/zhishile",
+      "html_url": "https://github.com/zhishile",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46481080?v=4"
+    },
+    "html_url": "https://github.com/zhishile/codex-auth-helper",
+    "description": "Codex登陆助手：安全地在本地导出您的已登录 ChatGPT 会话配置，生成符合 Codex 规范的 auth.json 本地备份文件。",
+    "created_at": "2026-06-02T02:23:56Z",
+    "updated_at": "2026-07-23T19:21:31Z",
+    "pushed_at": "2026-06-07T07:58:54Z",
+    "git_url": "git://github.com/zhishile/codex-auth-helper.git",
+    "homepage": "https://codex.afione.com",
+    "size": 67,
+    "stargazers_count": 3435,
+    "watchers_count": 3435,
+    "language": "CSS",
+    "forks_count": 153,
+    "open_issues_count": 30
+  },
+  {
+    "id": 1307383231,
+    "name": "thinking-orbs",
+    "owner": {
+      "id": 14873517,
+      "url": "https://api.github.com/users/Jakubantalik",
+      "html_url": "https://github.com/Jakubantalik",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14873517?v=4"
+    },
+    "html_url": "https://github.com/Jakubantalik/thinking-orbs",
+    "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+    "created_at": "2026-07-21T07:01:53Z",
+    "updated_at": "2026-07-23T19:13:50Z",
+    "pushed_at": "2026-07-21T21:33:07Z",
+    "git_url": "git://github.com/Jakubantalik/thinking-orbs.git",
+    "homepage": null,
+    "size": 133,
+    "stargazers_count": 807,
+    "watchers_count": 807,
+    "language": "TypeScript",
+    "forks_count": 53,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1307104496,
+    "name": "codex-build",
+    "owner": {
+      "id": 50469282,
+      "url": "https://api.github.com/users/cathrynlavery",
+      "html_url": "https://github.com/cathrynlavery",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50469282?v=4"
+    },
+    "html_url": "https://github.com/cathrynlavery/codex-build",
+    "description": "Orchestrator drives, Codex codes — execute an approved plan one task at a time with a test gate before every commit and exactly one PR at the end",
+    "created_at": "2026-07-20T23:55:43Z",
+    "updated_at": "2026-07-23T19:03:29Z",
+    "pushed_at": "2026-07-21T05:04:03Z",
+    "git_url": "git://github.com/cathrynlavery/codex-build.git",
+    "homepage": null,
+    "size": 26,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 0
   }
 ]
