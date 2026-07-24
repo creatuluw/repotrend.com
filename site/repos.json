@@ -64720,5 +64720,51 @@
     "language": "Go",
     "forks_count": 0,
     "open_issues_count": 1
+  },
+  {
+    "id": 1298164130,
+    "name": "gc-minimal-zine-poster",
+    "owner": {
+      "id": 62235808,
+      "url": "https://api.github.com/users/LiamGvchi",
+      "html_url": "https://github.com/LiamGvchi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62235808?v=4"
+    },
+    "html_url": "https://github.com/LiamGvchi/gc-minimal-zine-poster",
+    "description": "Codex skill for generating quiet minimal zine-style editorial poster prompts and images.",
+    "created_at": "2026-07-12T09:54:51Z",
+    "updated_at": "2026-07-23T19:27:07Z",
+    "pushed_at": "2026-07-13T15:49:51Z",
+    "git_url": "git://github.com/LiamGvchi/gc-minimal-zine-poster.git",
+    "homepage": null,
+    "size": 1140,
+    "stargazers_count": 700,
+    "watchers_count": 700,
+    "language": null,
+    "forks_count": 25,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1308592681,
+    "name": "Enterprise-Windows-Infrastructure-Security",
+    "owner": {
+      "id": 118471684,
+      "url": "https://api.github.com/users/armourinfosec",
+      "html_url": "https://github.com/armourinfosec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118471684?v=4"
+    },
+    "html_url": "https://github.com/armourinfosec/Enterprise-Windows-Infrastructure-Security",
+    "description": "An Obsidian-based knowledge base for Windows Server administration and defensive hardening.",
+    "created_at": "2026-07-22T08:49:02Z",
+    "updated_at": "2026-07-23T16:52:19Z",
+    "pushed_at": "2026-07-22T09:01:58Z",
+    "git_url": "git://github.com/armourinfosec/Enterprise-Windows-Infrastructure-Security.git",
+    "homepage": "https://www.armourinfosec.com",
+    "size": 2868,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": null,
+    "forks_count": 31,
+    "open_issues_count": 0
   }
 ]
