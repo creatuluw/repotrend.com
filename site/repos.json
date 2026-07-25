@@ -64996,5 +64996,51 @@
     "language": "JavaScript",
     "forks_count": 11,
     "open_issues_count": 1
+  },
+  {
+    "id": 1301607598,
+    "name": "gbro-collage-broll",
+    "owner": {
+      "id": 176493563,
+      "url": "https://api.github.com/users/pyang5166",
+      "html_url": "https://github.com/pyang5166",
+      "avatar_url": "https://avatars.githubusercontent.com/u/176493563?v=4"
+    },
+    "html_url": "https://github.com/pyang5166/gbro-collage-broll",
+    "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
+    "created_at": "2026-07-15T12:45:47Z",
+    "updated_at": "2026-07-24T19:15:26Z",
+    "pushed_at": "2026-07-15T12:50:50Z",
+    "git_url": "git://github.com/pyang5166/gbro-collage-broll.git",
+    "homepage": null,
+    "size": 6749,
+    "stargazers_count": 758,
+    "watchers_count": 758,
+    "language": "Python",
+    "forks_count": 73,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1308645980,
+    "name": "pi-review-loop",
+    "owner": {
+      "id": 207902832,
+      "url": "https://api.github.com/users/earendil-works",
+      "html_url": "https://github.com/earendil-works",
+      "avatar_url": "https://avatars.githubusercontent.com/u/207902832?v=4"
+    },
+    "html_url": "https://github.com/earendil-works/pi-review-loop",
+    "description": "A persistent incremental diff review loop for pi",
+    "created_at": "2026-07-22T09:44:36Z",
+    "updated_at": "2026-07-23T16:24:31Z",
+    "pushed_at": "2026-07-22T20:54:55Z",
+    "git_url": "git://github.com/earendil-works/pi-review-loop.git",
+    "homepage": null,
+    "size": 6471,
+    "stargazers_count": 80,
+    "watchers_count": 80,
+    "language": "TypeScript",
+    "forks_count": 9,
+    "open_issues_count": 3
   }
 ]
