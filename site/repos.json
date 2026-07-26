@@ -65295,5 +65295,74 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1244486617,
+    "name": "MisoTTS",
+    "owner": {
+      "id": 276445684,
+      "url": "https://api.github.com/users/MisoLabsAI",
+      "html_url": "https://github.com/MisoLabsAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/276445684?v=4"
+    },
+    "html_url": "https://github.com/MisoLabsAI/MisoTTS",
+    "description": "Miso TTS is an 8 billion, highly emotive text-to-speech model",
+    "created_at": "2026-05-20T10:04:01Z",
+    "updated_at": "2026-07-25T18:59:39Z",
+    "pushed_at": "2026-06-09T20:41:00Z",
+    "git_url": "git://github.com/MisoLabsAI/MisoTTS.git",
+    "homepage": null,
+    "size": 15,
+    "stargazers_count": 3169,
+    "watchers_count": 3169,
+    "language": "Python",
+    "forks_count": 321,
+    "open_issues_count": 18
+  },
+  {
+    "id": 1311384232,
+    "name": "ai-copywriter",
+    "owner": {
+      "id": 1715109,
+      "url": "https://api.github.com/users/mikiarlo3",
+      "html_url": "https://github.com/mikiarlo3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1715109?v=4"
+    },
+    "html_url": "https://github.com/mikiarlo3/ai-copywriter",
+    "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+    "created_at": "2026-07-24T19:52:13Z",
+    "updated_at": "2026-07-26T03:18:59Z",
+    "pushed_at": "2026-07-25T11:08:41Z",
+    "git_url": "git://github.com/mikiarlo3/ai-copywriter.git",
+    "homepage": null,
+    "size": 207,
+    "stargazers_count": 603,
+    "watchers_count": 603,
+    "language": "Python",
+    "forks_count": 7,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1310443366,
+    "name": "awesome-4dgs",
+    "owner": {
+      "id": 308834636,
+      "url": "https://api.github.com/users/awesome-4dgs",
+      "html_url": "https://github.com/awesome-4dgs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/308834636?v=4"
+    },
+    "html_url": "https://github.com/awesome-4dgs/awesome-4dgs",
+    "description": "A curated list of papers, projects, code, and datasets for 4D Gaussian Splatting",
+    "created_at": "2026-07-23T23:12:44Z",
+    "updated_at": "2026-07-26T02:15:24Z",
+    "pushed_at": "2026-07-25T18:20:04Z",
+    "git_url": "git://github.com/awesome-4dgs/awesome-4dgs.git",
+    "homepage": null,
+    "size": 2271,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": null,
+    "forks_count": 2,
+    "open_issues_count": 1
   }
 ]
