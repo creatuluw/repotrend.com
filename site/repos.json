@@ -65249,5 +65249,51 @@
     "language": "C++",
     "forks_count": 3,
     "open_issues_count": 3
+  },
+  {
+    "id": 1285161033,
+    "name": "Orkas-VideoStudio",
+    "owner": {
+      "id": 217779447,
+      "url": "https://api.github.com/users/Orkas-AI",
+      "html_url": "https://github.com/Orkas-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217779447?v=4"
+    },
+    "html_url": "https://github.com/Orkas-AI/Orkas-VideoStudio",
+    "description": "Turn your coding agent into a video studio: describe a video in plain language, and your agent writes the timeline and produces the file.",
+    "created_at": "2026-06-30T14:34:58Z",
+    "updated_at": "2026-07-24T09:02:40Z",
+    "pushed_at": "2026-07-23T02:59:36Z",
+    "git_url": "git://github.com/Orkas-AI/Orkas-VideoStudio.git",
+    "homepage": "https://orkas.ai?source=github",
+    "size": 505,
+    "stargazers_count": 530,
+    "watchers_count": 530,
+    "language": "TypeScript",
+    "forks_count": 20,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1309617936,
+    "name": "STT-MCP",
+    "owner": {
+      "id": 64564447,
+      "url": "https://api.github.com/users/sm18lr88",
+      "html_url": "https://github.com/sm18lr88",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64564447?v=4"
+    },
+    "html_url": "https://github.com/sm18lr88/STT-MCP",
+    "description": "Fast, local speech-to-text MCP server",
+    "created_at": "2026-07-23T06:46:12Z",
+    "updated_at": "2026-07-25T18:08:13Z",
+    "pushed_at": "2026-07-25T16:52:36Z",
+    "git_url": "git://github.com/sm18lr88/STT-MCP.git",
+    "homepage": "",
+    "size": 4171,
+    "stargazers_count": 55,
+    "watchers_count": 55,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
