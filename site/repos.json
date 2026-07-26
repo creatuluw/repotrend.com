@@ -65364,5 +65364,51 @@
     "language": null,
     "forks_count": 2,
     "open_issues_count": 1
+  },
+  {
+    "id": 1300825775,
+    "name": "bolt-slides",
+    "owner": {
+      "id": 28635252,
+      "url": "https://api.github.com/users/stackblitz",
+      "html_url": "https://github.com/stackblitz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28635252?v=4"
+    },
+    "html_url": "https://github.com/stackblitz/bolt-slides",
+    "description": "Use any agent to create stunning, interactive presentations",
+    "created_at": "2026-07-14T18:23:27Z",
+    "updated_at": "2026-07-25T15:01:14Z",
+    "pushed_at": "2026-07-16T15:02:22Z",
+    "git_url": "git://github.com/stackblitz/bolt-slides.git",
+    "homepage": "",
+    "size": 9220,
+    "stargazers_count": 641,
+    "watchers_count": 641,
+    "language": "TypeScript",
+    "forks_count": 71,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1311096964,
+    "name": "travel-roamradar",
+    "owner": {
+      "id": 13395849,
+      "url": "https://api.github.com/users/giovannibrees",
+      "html_url": "https://github.com/giovannibrees",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13395849?v=4"
+    },
+    "html_url": "https://github.com/giovannibrees/travel-roamradar",
+    "description": "Open-source, self-hosted personal travel app by Giovanni Brees - keep every flight, hotel, ride and trip on one living timeline. Built with AI agents, runs on Cloudflare Workers.",
+    "created_at": "2026-07-24T14:01:18Z",
+    "updated_at": "2026-07-24T16:58:57Z",
+    "pushed_at": "2026-07-24T15:08:50Z",
+    "git_url": "git://github.com/giovannibrees/travel-roamradar.git",
+    "homepage": "roamradar.app",
+    "size": 1662,
+    "stargazers_count": 59,
+    "watchers_count": 59,
+    "language": "HTML",
+    "forks_count": 7,
+    "open_issues_count": 0
   }
 ]
