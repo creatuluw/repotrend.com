@@ -65640,5 +65640,51 @@
     "language": "Python",
     "forks_count": 5,
     "open_issues_count": 6
+  },
+  {
+    "id": 1294964139,
+    "name": "nimbus",
+    "owner": {
+      "id": 314135,
+      "url": "https://api.github.com/users/cloudflare",
+      "html_url": "https://github.com/cloudflare",
+      "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
+    },
+    "html_url": "https://github.com/cloudflare/nimbus",
+    "description": "Docs for humans and agents, built on Astro",
+    "created_at": "2026-07-09T09:10:53Z",
+    "updated_at": "2026-07-27T03:27:44Z",
+    "pushed_at": "2026-07-26T19:32:45Z",
+    "git_url": "git://github.com/cloudflare/nimbus.git",
+    "homepage": "",
+    "size": 1957,
+    "stargazers_count": 665,
+    "watchers_count": 665,
+    "language": "TypeScript",
+    "forks_count": 22,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1310594307,
+    "name": "slide-meme-inserter",
+    "owner": {
+      "id": 197346426,
+      "url": "https://api.github.com/users/amnotyoung",
+      "html_url": "https://github.com/amnotyoung",
+      "avatar_url": "https://avatars.githubusercontent.com/u/197346426?v=4"
+    },
+    "html_url": "https://github.com/amnotyoung/slide-meme-inserter",
+    "description": "Plan, source, and insert recognizable memes into HTML slide decks for Claude Code and Codex.",
+    "created_at": "2026-07-24T03:40:51Z",
+    "updated_at": "2026-07-26T15:31:55Z",
+    "pushed_at": "2026-07-25T08:37:04Z",
+    "git_url": "git://github.com/amnotyoung/slide-meme-inserter.git",
+    "homepage": null,
+    "size": 442,
+    "stargazers_count": 69,
+    "watchers_count": 69,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
