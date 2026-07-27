@@ -65686,5 +65686,74 @@
     "language": "Python",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1297316519,
+    "name": "gpt-5.6-instruct",
+    "owner": {
+      "id": 6468993,
+      "url": "https://api.github.com/users/MDX-Tom",
+      "html_url": "https://github.com/MDX-Tom",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6468993?v=4"
+    },
+    "html_url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
+    "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
+    "created_at": "2026-07-11T09:44:24Z",
+    "updated_at": "2026-07-27T09:52:00Z",
+    "pushed_at": "2026-07-27T01:03:12Z",
+    "git_url": "git://github.com/MDX-Tom/gpt-5.6-instruct.git",
+    "homepage": "https://mdx-tom.github.io/gpt-5.6-instruct/",
+    "size": 9034,
+    "stargazers_count": 3172,
+    "watchers_count": 3172,
+    "language": "Python",
+    "forks_count": 525,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1287804060,
+    "name": "open-science",
+    "owner": {
+      "id": 243506841,
+      "url": "https://api.github.com/users/aipoch",
+      "html_url": "https://github.com/aipoch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/243506841?v=4"
+    },
+    "html_url": "https://github.com/aipoch/open-science",
+    "description": "An open-source, model-agnostic AI workbench for scientific discovery.",
+    "created_at": "2026-07-03T02:50:10Z",
+    "updated_at": "2026-07-27T09:37:22Z",
+    "pushed_at": "2026-07-27T09:53:14Z",
+    "git_url": "git://github.com/aipoch/open-science.git",
+    "homepage": "https://www.aipoch.com/open-science",
+    "size": 8387,
+    "stargazers_count": 761,
+    "watchers_count": 761,
+    "language": "TypeScript",
+    "forks_count": 79,
+    "open_issues_count": 16
+  },
+  {
+    "id": 1313588271,
+    "name": "zapret-discord-youtube-1.10.0.",
+    "owner": {
+      "id": 236752586,
+      "url": "https://api.github.com/users/EKMATRA1",
+      "html_url": "https://github.com/EKMATRA1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/236752586?v=4"
+    },
+    "html_url": "https://github.com/EKMATRA1/zapret-discord-youtube-1.10.0.",
+    "description": "Новая версия с поддержкой работы Discord в текущих условиях. Быстрее, стабильнее, надежнее.",
+    "created_at": "2026-07-27T08:15:11Z",
+    "updated_at": "2026-07-27T09:43:36Z",
+    "pushed_at": "2026-07-27T08:47:29Z",
+    "git_url": "git://github.com/EKMATRA1/zapret-discord-youtube-1.10.0..git",
+    "homepage": null,
+    "size": 5361,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "Batchfile",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
