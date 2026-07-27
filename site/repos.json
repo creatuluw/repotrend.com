@@ -65801,5 +65801,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1302409680,
+    "name": "awesome-OpenPrice",
+    "owner": {
+      "id": 250773670,
+      "url": "https://api.github.com/users/bytedoger",
+      "html_url": "https://github.com/bytedoger",
+      "avatar_url": "https://avatars.githubusercontent.com/u/250773670?v=4"
+    },
+    "html_url": "https://github.com/bytedoger/awesome-OpenPrice",
+    "description": "open price ,一个开源的收录全网卡网渠道各种AI订阅价格的项目。打破信息茧房，一站式获取各个渠道的 Claude、GPT、gemini 、cursor产品的最新价格",
+    "created_at": "2026-07-16T06:28:46Z",
+    "updated_at": "2026-07-27T13:58:22Z",
+    "pushed_at": "2026-07-26T14:19:25Z",
+    "git_url": "git://github.com/bytedoger/awesome-OpenPrice.git",
+    "homepage": "https://openprice.cc",
+    "size": 1593,
+    "stargazers_count": 552,
+    "watchers_count": 552,
+    "language": "TypeScript",
+    "forks_count": 24,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1312199032,
+    "name": "qiaokelei",
+    "owner": {
+      "id": 309169858,
+      "url": "https://api.github.com/users/qiaokeleilei",
+      "html_url": "https://github.com/qiaokeleilei",
+      "avatar_url": "https://avatars.githubusercontent.com/u/309169858?v=4"
+    },
+    "html_url": "https://github.com/qiaokeleilei/qiaokelei",
+    "description": "关于巧克蕾的瓜条和证据链",
+    "created_at": "2026-07-25T17:56:05Z",
+    "updated_at": "2026-07-27T14:21:08Z",
+    "pushed_at": "2026-07-26T15:56:19Z",
+    "git_url": "git://github.com/qiaokeleilei/qiaokelei.git",
+    "homepage": null,
+    "size": 9391,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 1
   }
 ]
