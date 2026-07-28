@@ -66077,5 +66077,51 @@
     "language": "TypeScript",
     "forks_count": 8,
     "open_issues_count": 0
+  },
+  {
+    "id": 1301135370,
+    "name": "OpenChatCut",
+    "owner": {
+      "id": 151105947,
+      "url": "https://api.github.com/users/0xsline",
+      "html_url": "https://github.com/0xsline",
+      "avatar_url": "https://avatars.githubusercontent.com/u/151105947?v=4"
+    },
+    "html_url": "https://github.com/0xsline/OpenChatCut",
+    "description": "Local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion-powered rendering.",
+    "created_at": "2026-07-15T02:49:42Z",
+    "updated_at": "2026-07-27T18:34:34Z",
+    "pushed_at": "2026-07-27T12:58:28Z",
+    "git_url": "git://github.com/0xsline/OpenChatCut.git",
+    "homepage": "https://openchatcut.com",
+    "size": 51775,
+    "stargazers_count": 556,
+    "watchers_count": 556,
+    "language": "TypeScript",
+    "forks_count": 61,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1310590503,
+    "name": "Nodes",
+    "owner": {
+      "id": 53939603,
+      "url": "https://api.github.com/users/kingenbomb",
+      "html_url": "https://github.com/kingenbomb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53939603?v=4"
+    },
+    "html_url": "https://github.com/kingenbomb/Nodes",
+    "description": "节点注册机",
+    "created_at": "2026-07-24T03:34:18Z",
+    "updated_at": "2026-07-27T07:57:45Z",
+    "pushed_at": "2026-07-25T10:17:01Z",
+    "git_url": "git://github.com/kingenbomb/Nodes.git",
+    "homepage": null,
+    "size": 57,
+    "stargazers_count": 74,
+    "watchers_count": 74,
+    "language": "Python",
+    "forks_count": 54,
+    "open_issues_count": 0
   }
 ]
