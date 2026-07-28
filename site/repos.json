@@ -65985,5 +65985,51 @@
     "language": "JavaScript",
     "forks_count": 10,
     "open_issues_count": 0
+  },
+  {
+    "id": 1296301313,
+    "name": "kill-ai-slop",
+    "owner": {
+      "id": 1206493,
+      "url": "https://api.github.com/users/yetone",
+      "html_url": "https://github.com/yetone",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1206493?v=4"
+    },
+    "html_url": "https://github.com/yetone/kill-ai-slop",
+    "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+    "created_at": "2026-07-10T08:59:16Z",
+    "updated_at": "2026-07-27T23:36:51Z",
+    "pushed_at": "2026-07-26T14:12:11Z",
+    "git_url": "git://github.com/yetone/kill-ai-slop.git",
+    "homepage": null,
+    "size": 662,
+    "stargazers_count": 795,
+    "watchers_count": 795,
+    "language": "TypeScript",
+    "forks_count": 31,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1311854354,
+    "name": "pi-config",
+    "owner": {
+      "id": 166703864,
+      "url": "https://api.github.com/users/realchendahuang",
+      "html_url": "https://github.com/realchendahuang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/166703864?v=4"
+    },
+    "html_url": "https://github.com/realchendahuang/pi-config",
+    "description": "My Pi coding agent setup: 17 plugins + 18 global skills + 2 MCP servers, with a one-line installer and tutorial README.",
+    "created_at": "2026-07-25T09:35:04Z",
+    "updated_at": "2026-07-27T17:30:29Z",
+    "pushed_at": "2026-07-25T10:17:36Z",
+    "git_url": "git://github.com/realchendahuang/pi-config.git",
+    "homepage": null,
+    "size": 23,
+    "stargazers_count": 99,
+    "watchers_count": 99,
+    "language": "Shell",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
