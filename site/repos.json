@@ -66123,5 +66123,51 @@
     "language": "Python",
     "forks_count": 54,
     "open_issues_count": 0
+  },
+  {
+    "id": 1309102418,
+    "name": "cindy",
+    "owner": {
+      "id": 306974279,
+      "url": "https://api.github.com/users/makecindy",
+      "html_url": "https://github.com/makecindy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/306974279?v=4"
+    },
+    "html_url": "https://github.com/makecindy/cindy",
+    "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+    "created_at": "2026-07-22T17:49:34Z",
+    "updated_at": "2026-07-27T19:38:54Z",
+    "pushed_at": "2026-07-27T19:38:32Z",
+    "git_url": "git://github.com/makecindy/cindy.git",
+    "homepage": "https://cindy.app",
+    "size": 57217,
+    "stargazers_count": 825,
+    "watchers_count": 825,
+    "language": "TypeScript",
+    "forks_count": 104,
+    "open_issues_count": 227
+  },
+  {
+    "id": 1313358017,
+    "name": "teach-yourself-skill",
+    "owner": {
+      "id": 8554143,
+      "url": "https://api.github.com/users/chokcoco",
+      "html_url": "https://github.com/chokcoco",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8554143?v=4"
+    },
+    "html_url": "https://github.com/chokcoco/teach-yourself-skill",
+    "description": "快速创建一门自学课程",
+    "created_at": "2026-07-27T02:56:45Z",
+    "updated_at": "2026-07-27T15:07:27Z",
+    "pushed_at": "2026-07-27T03:50:17Z",
+    "git_url": "git://github.com/chokcoco/teach-yourself-skill.git",
+    "homepage": null,
+    "size": 623,
+    "stargazers_count": 89,
+    "watchers_count": 89,
+    "language": "JavaScript",
+    "forks_count": 6,
+    "open_issues_count": 0
   }
 ]
