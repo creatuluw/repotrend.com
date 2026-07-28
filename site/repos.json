@@ -65939,5 +65939,51 @@
     "language": "Shell",
     "forks_count": 19,
     "open_issues_count": 0
+  },
+  {
+    "id": 1296050346,
+    "name": "Codex-Orchestration",
+    "owner": {
+      "id": 181146259,
+      "url": "https://api.github.com/users/Cjbuilds",
+      "html_url": "https://github.com/Cjbuilds",
+      "avatar_url": "https://avatars.githubusercontent.com/u/181146259?v=4"
+    },
+    "html_url": "https://github.com/Cjbuilds/Codex-Orchestration",
+    "description": "Bring any model to Codex, assign them any role, use them in /goal or any workflow.",
+    "created_at": "2026-07-10T04:33:07Z",
+    "updated_at": "2026-07-27T18:09:32Z",
+    "pushed_at": "2026-07-26T03:04:42Z",
+    "git_url": "git://github.com/Cjbuilds/Codex-Orchestration.git",
+    "homepage": "https://github.com/Cjbuilds/Codex-Orchestration",
+    "size": 556,
+    "stargazers_count": 547,
+    "watchers_count": 547,
+    "language": "Python",
+    "forks_count": 55,
+    "open_issues_count": 12
+  },
+  {
+    "id": 1312576754,
+    "name": "Meow-Generator",
+    "owner": {
+      "id": 63448697,
+      "url": "https://api.github.com/users/ringhyacinth",
+      "html_url": "https://github.com/ringhyacinth",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63448697?v=4"
+    },
+    "html_url": "https://github.com/ringhyacinth/Meow-Generator",
+    "description": "A playful procedural 3D kitten generator built with Three.js.",
+    "created_at": "2026-07-26T07:05:15Z",
+    "updated_at": "2026-07-27T19:07:49Z",
+    "pushed_at": "2026-07-27T13:39:00Z",
+    "git_url": "git://github.com/ringhyacinth/Meow-Generator.git",
+    "homepage": "https://ringhyacinth.github.io/Meow-Generator/",
+    "size": 31892,
+    "stargazers_count": 82,
+    "watchers_count": 82,
+    "language": "JavaScript",
+    "forks_count": 10,
+    "open_issues_count": 0
   }
 ]
