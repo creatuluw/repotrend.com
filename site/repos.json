@@ -66284,5 +66284,74 @@
     "language": "HTML",
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1267314128,
+    "name": "tutti",
+    "owner": {
+      "id": 286539603,
+      "url": "https://api.github.com/users/tutti-os",
+      "html_url": "https://github.com/tutti-os",
+      "avatar_url": "https://avatars.githubusercontent.com/u/286539603?v=4"
+    },
+    "html_url": "https://github.com/tutti-os/tutti",
+    "description": "Where people and agents build in tune.",
+    "created_at": "2026-06-12T12:29:05Z",
+    "updated_at": "2026-07-28T19:37:08Z",
+    "pushed_at": "2026-07-28T19:15:16Z",
+    "git_url": "git://github.com/tutti-os/tutti.git",
+    "homepage": "https://tutti.sh/",
+    "size": 217194,
+    "stargazers_count": 3189,
+    "watchers_count": 3189,
+    "language": "TypeScript",
+    "forks_count": 312,
+    "open_issues_count": 145
+  },
+  {
+    "id": 1312410567,
+    "name": "Shared-Claude-Chats",
+    "owner": {
+      "id": 6284270,
+      "url": "https://api.github.com/users/fuadmefleh",
+      "html_url": "https://github.com/fuadmefleh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6284270?v=4"
+    },
+    "html_url": "https://github.com/fuadmefleh/Shared-Claude-Chats",
+    "description": "An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
+    "created_at": "2026-07-26T01:14:17Z",
+    "updated_at": "2026-07-28T19:39:39Z",
+    "pushed_at": "2026-07-28T17:50:51Z",
+    "git_url": "git://github.com/fuadmefleh/Shared-Claude-Chats.git",
+    "homepage": null,
+    "size": 13552,
+    "stargazers_count": 556,
+    "watchers_count": 556,
+    "language": "Python",
+    "forks_count": 103,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1310896408,
+    "name": "Secure-WordPress-Administration",
+    "owner": {
+      "id": 118471684,
+      "url": "https://api.github.com/users/armourinfosec",
+      "html_url": "https://github.com/armourinfosec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118471684?v=4"
+    },
+    "html_url": "https://github.com/armourinfosec/Secure-WordPress-Administration",
+    "description": "Open-source, lab-driven study notes for building, administering, hardening, and operating WordPress at scale — 28 modules across install, content, security, performance, and DevOps (CC BY 4.0).",
+    "created_at": "2026-07-24T10:04:12Z",
+    "updated_at": "2026-07-27T10:47:15Z",
+    "pushed_at": "2026-07-24T10:16:46Z",
+    "git_url": "git://github.com/armourinfosec/Secure-WordPress-Administration.git",
+    "homepage": "https://www.armourinfosec.com/",
+    "size": 1519,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": null,
+    "forks_count": 13,
+    "open_issues_count": 0
   }
 ]
