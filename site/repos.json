@@ -66560,5 +66560,74 @@
     "language": "C#",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1299769220,
+    "name": "codex-security",
+    "owner": {
+      "id": 14957082,
+      "url": "https://api.github.com/users/openai",
+      "html_url": "https://github.com/openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "html_url": "https://github.com/openai/codex-security",
+    "description": "SDKs and CLI for Codex Security",
+    "created_at": "2026-07-13T22:00:13Z",
+    "updated_at": "2026-07-29T08:44:38Z",
+    "pushed_at": "2026-07-29T06:41:49Z",
+    "git_url": "git://github.com/openai/codex-security.git",
+    "homepage": "",
+    "size": 6420,
+    "stargazers_count": 3212,
+    "watchers_count": 3212,
+    "language": "TypeScript",
+    "forks_count": 171,
+    "open_issues_count": 44
+  },
+  {
+    "id": 1308175488,
+    "name": "andrej-karpathy-skills",
+    "owner": {
+      "id": 155918204,
+      "url": "https://api.github.com/users/0xwilliamortiz",
+      "html_url": "https://github.com/0xwilliamortiz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/155918204?v=4"
+    },
+    "html_url": "https://github.com/0xwilliamortiz/andrej-karpathy-skills",
+    "description": "Behavioral guardrails for Claude Code, distilled from Andrej Karpathy's field notes on where LLMs go wrong when they write software.",
+    "created_at": "2026-07-21T22:34:47Z",
+    "updated_at": "2026-07-28T17:50:13Z",
+    "pushed_at": "2026-07-27T00:05:28Z",
+    "git_url": "git://github.com/0xwilliamortiz/andrej-karpathy-skills.git",
+    "homepage": "",
+    "size": 1477,
+    "stargazers_count": 576,
+    "watchers_count": 576,
+    "language": null,
+    "forks_count": 99,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1312616170,
+    "name": "stars",
+    "owner": {
+      "id": 209247451,
+      "url": "https://api.github.com/users/MinhSangGDVN",
+      "html_url": "https://github.com/MinhSangGDVN",
+      "avatar_url": "https://avatars.githubusercontent.com/u/209247451?v=4"
+    },
+    "html_url": "https://github.com/MinhSangGDVN/stars",
+    "description": "an empty repository still receives stars? ",
+    "created_at": "2026-07-26T08:08:47Z",
+    "updated_at": "2026-07-27T11:28:06Z",
+    "pushed_at": "2026-07-26T08:46:51Z",
+    "git_url": "git://github.com/MinhSangGDVN/stars.git",
+    "homepage": null,
+    "size": 14,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": null,
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
