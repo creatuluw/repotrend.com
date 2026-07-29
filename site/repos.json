@@ -66514,5 +66514,51 @@
     "language": "Vim Script",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1307698112,
+    "name": "GodotHub",
+    "owner": {
+      "id": 92097566,
+      "url": "https://api.github.com/users/RykoTheDev",
+      "html_url": "https://github.com/RykoTheDev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92097566?v=4"
+    },
+    "html_url": "https://github.com/RykoTheDev/GodotHub",
+    "description": "What if Unity Hub and Github Desktop had a Baby but its Adopted? Yeah.. ",
+    "created_at": "2026-07-21T12:50:49Z",
+    "updated_at": "2026-07-29T08:43:52Z",
+    "pushed_at": "2026-07-28T21:07:22Z",
+    "git_url": "git://github.com/RykoTheDev/GodotHub.git",
+    "homepage": "",
+    "size": 1437,
+    "stargazers_count": 535,
+    "watchers_count": 535,
+    "language": "TypeScript",
+    "forks_count": 18,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1313206991,
+    "name": "playfront",
+    "owner": {
+      "id": 284770632,
+      "url": "https://api.github.com/users/AdriBuho",
+      "html_url": "https://github.com/AdriBuho",
+      "avatar_url": "https://avatars.githubusercontent.com/u/284770632?v=4"
+    },
+    "html_url": "https://github.com/AdriBuho/playfront",
+    "description": "A console-style shell for Windows handhelds, built for the ASUS ROG Xbox Ally.",
+    "created_at": "2026-07-26T22:27:23Z",
+    "updated_at": "2026-07-27T19:01:09Z",
+    "pushed_at": "2026-07-27T01:16:15Z",
+    "git_url": "git://github.com/AdriBuho/playfront.git",
+    "homepage": null,
+    "size": 1477,
+    "stargazers_count": 83,
+    "watchers_count": 83,
+    "language": "C#",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
