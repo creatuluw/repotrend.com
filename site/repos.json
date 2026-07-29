@@ -66399,5 +66399,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1303494416,
+    "name": "fastctx",
+    "owner": {
+      "id": 205539026,
+      "url": "https://api.github.com/users/yc-duan",
+      "html_url": "https://github.com/yc-duan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205539026?v=4"
+    },
+    "html_url": "https://github.com/yc-duan/fastctx",
+    "description": "Fast, context-efficient repository tools for AI agents (MCP)",
+    "created_at": "2026-07-17T03:05:57Z",
+    "updated_at": "2026-07-28T18:26:56Z",
+    "pushed_at": "2026-07-25T20:27:08Z",
+    "git_url": "git://github.com/yc-duan/fastctx.git",
+    "homepage": null,
+    "size": 1595,
+    "stargazers_count": 594,
+    "watchers_count": 594,
+    "language": "Rust",
+    "forks_count": 20,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1312224999,
+    "name": "Lineage2Elbera",
+    "owner": {
+      "id": 32277553,
+      "url": "https://api.github.com/users/elberacasa",
+      "html_url": "https://github.com/elberacasa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32277553?v=4"
+    },
+    "html_url": "https://github.com/elberacasa/Lineage2Elbera",
+    "description": "Lineage 2 Interlude in the browser — real server, real protocol, real assets. Complete AI-built toolchain: protocol gateway, format parsers, model/terrain pipelines, web client.",
+    "created_at": "2026-07-25T18:37:24Z",
+    "updated_at": "2026-07-27T18:41:31Z",
+    "pushed_at": "2026-07-27T18:39:42Z",
+    "git_url": "git://github.com/elberacasa/Lineage2Elbera.git",
+    "homepage": null,
+    "size": 5282,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
