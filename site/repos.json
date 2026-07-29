@@ -66215,5 +66215,74 @@
     "language": "Python",
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1313576395,
+    "name": "Kimi-K3",
+    "owner": {
+      "id": 129152888,
+      "url": "https://api.github.com/users/MoonshotAI",
+      "html_url": "https://github.com/MoonshotAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129152888?v=4"
+    },
+    "html_url": "https://github.com/MoonshotAI/Kimi-K3",
+    "description": "Open Frontier Intelligence",
+    "created_at": "2026-07-27T08:01:37Z",
+    "updated_at": "2026-07-28T19:39:28Z",
+    "pushed_at": "2026-07-28T11:48:27Z",
+    "git_url": "git://github.com/MoonshotAI/Kimi-K3.git",
+    "homepage": null,
+    "size": 5017,
+    "stargazers_count": 3276,
+    "watchers_count": 3276,
+    "language": null,
+    "forks_count": 263,
+    "open_issues_count": 10
+  },
+  {
+    "id": 1295708862,
+    "name": "grokcli-2api",
+    "owner": {
+      "id": 33340456,
+      "url": "https://api.github.com/users/HM2899",
+      "html_url": "https://github.com/HM2899",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33340456?v=4"
+    },
+    "html_url": "https://github.com/HM2899/grokcli-2api",
+    "description": null,
+    "created_at": "2026-07-09T19:29:39Z",
+    "updated_at": "2026-07-28T14:47:28Z",
+    "pushed_at": "2026-07-25T05:35:59Z",
+    "git_url": "git://github.com/HM2899/grokcli-2api.git",
+    "homepage": null,
+    "size": 1403,
+    "stargazers_count": 548,
+    "watchers_count": 548,
+    "language": "Go",
+    "forks_count": 161,
+    "open_issues_count": 12
+  },
+  {
+    "id": 1312546480,
+    "name": "operation-ironhold",
+    "owner": {
+      "id": 92244026,
+      "url": "https://api.github.com/users/StarKnightt",
+      "html_url": "https://github.com/StarKnightt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92244026?v=4"
+    },
+    "html_url": "https://github.com/StarKnightt/operation-ironhold",
+    "description": "A complete first-person shooter in a single 290 KB HTML file. No build step, no assets, no dependencies beyond three.js from a CDN.",
+    "created_at": "2026-07-26T06:13:21Z",
+    "updated_at": "2026-07-28T18:01:29Z",
+    "pushed_at": "2026-07-26T11:01:12Z",
+    "git_url": "git://github.com/StarKnightt/operation-ironhold.git",
+    "homepage": "https://starknightt.github.io/operation-ironhold/",
+    "size": 1190,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": "HTML",
+    "forks_count": 5,
+    "open_issues_count": 0
   }
 ]
