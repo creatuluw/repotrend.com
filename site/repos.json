@@ -66353,5 +66353,51 @@
     "language": null,
     "forks_count": 13,
     "open_issues_count": 0
+  },
+  {
+    "id": 1292758637,
+    "name": "Pekingman",
+    "owner": {
+      "id": 182401335,
+      "url": "https://api.github.com/users/osama-fawad",
+      "html_url": "https://github.com/osama-fawad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/182401335?v=4"
+    },
+    "html_url": "https://github.com/osama-fawad/Pekingman",
+    "description": null,
+    "created_at": "2026-07-07T20:28:43Z",
+    "updated_at": "2026-07-28T15:43:44Z",
+    "pushed_at": "2026-07-07T21:03:27Z",
+    "git_url": "git://github.com/osama-fawad/Pekingman.git",
+    "homepage": "https://osama-fawad.github.io/Pekingman/",
+    "size": 15812,
+    "stargazers_count": 934,
+    "watchers_count": 934,
+    "language": "HTML",
+    "forks_count": 44,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1312738375,
+    "name": "lianghua",
+    "owner": {
+      "id": 110238653,
+      "url": "https://api.github.com/users/anderson6666",
+      "html_url": "https://github.com/anderson6666",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110238653?v=4"
+    },
+    "html_url": "https://github.com/anderson6666/lianghua",
+    "description": null,
+    "created_at": "2026-07-26T11:22:07Z",
+    "updated_at": "2026-07-28T16:05:37Z",
+    "pushed_at": "2026-07-28T03:02:12Z",
+    "git_url": "git://github.com/anderson6666/lianghua.git",
+    "homepage": null,
+    "size": 43,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
