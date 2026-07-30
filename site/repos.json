@@ -66629,5 +66629,51 @@
     "language": null,
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1311225763,
+    "name": "agentacct",
+    "owner": {
+      "id": 91774998,
+      "url": "https://api.github.com/users/mikehasa",
+      "html_url": "https://github.com/mikehasa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91774998?v=4"
+    },
+    "html_url": "https://github.com/mikehasa/agentacct",
+    "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
+    "created_at": "2026-07-24T16:28:06Z",
+    "updated_at": "2026-07-29T17:46:26Z",
+    "pushed_at": "2026-07-29T19:18:23Z",
+    "git_url": "git://github.com/mikehasa/agentacct.git",
+    "homepage": null,
+    "size": 2759,
+    "stargazers_count": 524,
+    "watchers_count": 524,
+    "language": "Python",
+    "forks_count": 53,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1313843554,
+    "name": "bullshit-detector",
+    "owner": {
+      "id": 95961352,
+      "url": "https://api.github.com/users/SerhiiKorniienko",
+      "html_url": "https://github.com/SerhiiKorniienko",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95961352?v=4"
+    },
+    "html_url": "https://github.com/SerhiiKorniienko/bullshit-detector",
+    "description": "Agent skills that fact-check the internet: claim-by-claim verification with sources and a 0-10 BS score for any YouTube video, article, tweet, or PDF",
+    "created_at": "2026-07-27T12:54:30Z",
+    "updated_at": "2026-07-29T19:09:42Z",
+    "pushed_at": "2026-07-29T14:35:43Z",
+    "git_url": "git://github.com/SerhiiKorniienko/bullshit-detector.git",
+    "homepage": "https://korniienko.dev/newsletter",
+    "size": 62,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 8
   }
 ]
