@@ -66859,5 +66859,51 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1290597550,
+    "name": "gdid-reversal",
+    "owner": {
+      "id": 246008461,
+      "url": "https://api.github.com/users/SmtimesIWndr",
+      "html_url": "https://github.com/SmtimesIWndr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246008461?v=4"
+    },
+    "html_url": "https://github.com/SmtimesIWndr/gdid-reversal",
+    "description": null,
+    "created_at": "2026-07-06T04:42:54Z",
+    "updated_at": "2026-07-29T11:29:06Z",
+    "pushed_at": "2026-07-06T21:03:27Z",
+    "git_url": "git://github.com/SmtimesIWndr/gdid-reversal.git",
+    "homepage": null,
+    "size": 65,
+    "stargazers_count": 684,
+    "watchers_count": 684,
+    "language": null,
+    "forks_count": 41,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1316451942,
+    "name": "awplanet",
+    "owner": {
+      "id": 131151351,
+      "url": "https://api.github.com/users/awplanets",
+      "html_url": "https://github.com/awplanets",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131151351?v=4"
+    },
+    "html_url": "https://github.com/awplanets/awplanet",
+    "description": "AI 原生 3D 导演工作台与场景创作工具 / AI-native 3D direction and scene creation studio",
+    "created_at": "2026-07-29T18:26:10Z",
+    "updated_at": "2026-07-30T08:21:10Z",
+    "pushed_at": "2026-07-30T06:22:12Z",
+    "git_url": "git://github.com/awplanets/awplanet.git",
+    "homepage": "https://awplanet.cc",
+    "size": 84464,
+    "stargazers_count": 60,
+    "watchers_count": 60,
+    "language": "JavaScript",
+    "forks_count": 5,
+    "open_issues_count": 0
   }
 ]
