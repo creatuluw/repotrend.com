@@ -66721,5 +66721,74 @@
     "language": "Kotlin",
     "forks_count": 7,
     "open_issues_count": 0
+  },
+  {
+    "id": 1291783779,
+    "name": "no-ai-slop",
+    "owner": {
+      "id": 2383268,
+      "url": "https://api.github.com/users/petergyang",
+      "html_url": "https://github.com/petergyang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2383268?v=4"
+    },
+    "html_url": "https://github.com/petergyang/no-ai-slop",
+    "description": "Removes 20+ patterns of AI slop from any piece of writing.",
+    "created_at": "2026-07-07T05:05:58Z",
+    "updated_at": "2026-07-30T02:27:04Z",
+    "pushed_at": "2026-07-27T01:45:22Z",
+    "git_url": "git://github.com/petergyang/no-ai-slop.git",
+    "homepage": "https://creatoreconomy.so/p/use-my-no-ai-slop-skill-to-remove-20-ai-slop-patterns",
+    "size": 557,
+    "stargazers_count": 3455,
+    "watchers_count": 3455,
+    "language": "Python",
+    "forks_count": 272,
+    "open_issues_count": 17
+  },
+  {
+    "id": 1304159264,
+    "name": "turbo-fieldfare",
+    "owner": {
+      "id": 8088294,
+      "url": "https://api.github.com/users/drumih",
+      "html_url": "https://github.com/drumih",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8088294?v=4"
+    },
+    "html_url": "https://github.com/drumih/turbo-fieldfare",
+    "description": "Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook",
+    "created_at": "2026-07-17T15:57:54Z",
+    "updated_at": "2026-07-29T19:20:56Z",
+    "pushed_at": "2026-07-29T14:48:48Z",
+    "git_url": "git://github.com/drumih/turbo-fieldfare.git",
+    "homepage": "",
+    "size": 1995,
+    "stargazers_count": 690,
+    "watchers_count": 690,
+    "language": "Swift",
+    "forks_count": 20,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1311576115,
+    "name": "missile-command",
+    "owner": {
+      "id": 36901,
+      "url": "https://api.github.com/users/unclebob",
+      "html_url": "https://github.com/unclebob",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36901?v=4"
+    },
+    "html_url": "https://github.com/unclebob/missile-command",
+    "description": "Dual-platform Missile Command remake (Clojure/ClojureScript)",
+    "created_at": "2026-07-25T01:52:30Z",
+    "updated_at": "2026-07-28T17:47:59Z",
+    "pushed_at": "2026-07-28T12:27:27Z",
+    "git_url": "git://github.com/unclebob/missile-command.git",
+    "homepage": null,
+    "size": 4267,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "Clojure",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
