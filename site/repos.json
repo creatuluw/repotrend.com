@@ -66974,5 +66974,51 @@
     "language": "Python",
     "forks_count": 5,
     "open_issues_count": 1
+  },
+  {
+    "id": 1290897156,
+    "name": "expression-trainer",
+    "owner": {
+      "id": 247942544,
+      "url": "https://api.github.com/users/fxy2311-youyou",
+      "html_url": "https://github.com/fxy2311-youyou",
+      "avatar_url": "https://avatars.githubusercontent.com/u/247942544?v=4"
+    },
+    "html_url": "https://github.com/fxy2311-youyou/expression-trainer",
+    "description": "宇宙无敌表达训练系统 — 实时语音转文字 + 27000词情感词库 + AI表达分析报告。离线运行，对着它说话，它帮你看见自己的表达问题。",
+    "created_at": "2026-07-06T10:22:32Z",
+    "updated_at": "2026-07-30T13:41:05Z",
+    "pushed_at": "2026-07-18T10:03:37Z",
+    "git_url": "git://github.com/fxy2311-youyou/expression-trainer.git",
+    "homepage": null,
+    "size": 84,
+    "stargazers_count": 661,
+    "watchers_count": 661,
+    "language": "JavaScript",
+    "forks_count": 133,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1314293620,
+    "name": "openderm",
+    "owner": {
+      "id": 26951136,
+      "url": "https://api.github.com/users/MarionLepert",
+      "html_url": "https://github.com/MarionLepert",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26951136?v=4"
+    },
+    "html_url": "https://github.com/MarionLepert/openderm",
+    "description": null,
+    "created_at": "2026-07-27T21:31:42Z",
+    "updated_at": "2026-07-30T14:05:16Z",
+    "pushed_at": "2026-07-27T21:34:36Z",
+    "git_url": "git://github.com/MarionLepert/openderm.git",
+    "homepage": null,
+    "size": 13076,
+    "stargazers_count": 73,
+    "watchers_count": 73,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
