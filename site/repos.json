@@ -66675,5 +66675,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 8
+  },
+  {
+    "id": 1312158335,
+    "name": "OptMem",
+    "owner": {
+      "id": 13090166,
+      "url": "https://api.github.com/users/VictorTaelin",
+      "html_url": "https://github.com/VictorTaelin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13090166?v=4"
+    },
+    "html_url": "https://github.com/VictorTaelin/OptMem",
+    "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+    "created_at": "2026-07-25T16:58:43Z",
+    "updated_at": "2026-07-29T19:17:19Z",
+    "pushed_at": "2026-07-29T14:25:39Z",
+    "git_url": "git://github.com/VictorTaelin/OptMem.git",
+    "homepage": null,
+    "size": 11249,
+    "stargazers_count": 862,
+    "watchers_count": 862,
+    "language": "Python",
+    "forks_count": 50,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1312158011,
+    "name": "Burp-MCP-Unrestricted",
+    "owner": {
+      "id": 59205153,
+      "url": "https://api.github.com/users/RamanMG",
+      "html_url": "https://github.com/RamanMG",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59205153?v=4"
+    },
+    "html_url": "https://github.com/RamanMG/Burp-MCP-Unrestricted",
+    "description": null,
+    "created_at": "2026-07-25T16:58:15Z",
+    "updated_at": "2026-07-28T09:18:00Z",
+    "pushed_at": "2026-07-25T17:13:10Z",
+    "git_url": "git://github.com/RamanMG/Burp-MCP-Unrestricted.git",
+    "homepage": null,
+    "size": 11816,
+    "stargazers_count": 56,
+    "watchers_count": 56,
+    "language": "Kotlin",
+    "forks_count": 7,
+    "open_issues_count": 0
   }
 ]
