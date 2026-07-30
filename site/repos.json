@@ -66790,5 +66790,74 @@
     "language": "Clojure",
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1304207622,
+    "name": "bento",
+    "owner": {
+      "id": 306268465,
+      "url": "https://api.github.com/users/nyblnet",
+      "html_url": "https://github.com/nyblnet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/306268465?v=4"
+    },
+    "html_url": "https://github.com/nyblnet/bento",
+    "description": "Bento, the office suite that fits in a file",
+    "created_at": "2026-07-17T16:55:09Z",
+    "updated_at": "2026-07-30T08:23:21Z",
+    "pushed_at": "2026-07-28T18:09:26Z",
+    "git_url": "git://github.com/nyblnet/bento.git",
+    "homepage": "https://bento.page",
+    "size": 22285,
+    "stargazers_count": 3084,
+    "watchers_count": 3084,
+    "language": "TypeScript",
+    "forks_count": 196,
+    "open_issues_count": 23
+  },
+  {
+    "id": 1293936298,
+    "name": "uninstally",
+    "owner": {
+      "id": 281001366,
+      "url": "https://api.github.com/users/gostonx",
+      "html_url": "https://github.com/gostonx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/281001366?v=4"
+    },
+    "html_url": "https://github.com/gostonx/uninstally",
+    "description": "A clean, native macOS uninstaller. Completely removes apps and every file they leave behind using smart bundle-identifier detection. SwiftUI + Finder extension.",
+    "created_at": "2026-07-08T17:08:34Z",
+    "updated_at": "2026-07-30T08:04:26Z",
+    "pushed_at": "2026-07-13T00:57:38Z",
+    "git_url": "git://github.com/gostonx/uninstally.git",
+    "homepage": null,
+    "size": 133274,
+    "stargazers_count": 639,
+    "watchers_count": 639,
+    "language": "Swift",
+    "forks_count": 24,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1315202731,
+    "name": "Pi-App",
+    "owner": {
+      "id": 281789377,
+      "url": "https://api.github.com/users/AJSubrizi",
+      "html_url": "https://github.com/AJSubrizi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/281789377?v=4"
+    },
+    "html_url": "https://github.com/AJSubrizi/Pi-App",
+    "description": "A desktop GUI for Pi",
+    "created_at": "2026-07-28T16:35:47Z",
+    "updated_at": "2026-07-30T05:58:02Z",
+    "pushed_at": "2026-07-30T05:57:57Z",
+    "git_url": "git://github.com/AJSubrizi/Pi-App.git",
+    "homepage": "",
+    "size": 5214,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
