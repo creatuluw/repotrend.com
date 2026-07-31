@@ -67020,5 +67020,51 @@
     "language": "Python",
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1285643489,
+    "name": "fractal",
+    "owner": {
+      "id": 298477127,
+      "url": "https://api.github.com/users/plasma-ai",
+      "html_url": "https://github.com/plasma-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/298477127?v=4"
+    },
+    "html_url": "https://github.com/plasma-ai/fractal",
+    "description": "Hierarchical agent loops with recursive self-organization.",
+    "created_at": "2026-07-01T02:34:56Z",
+    "updated_at": "2026-07-30T18:10:18Z",
+    "pushed_at": "2026-07-29T06:00:28Z",
+    "git_url": "git://github.com/plasma-ai/fractal.git",
+    "homepage": "",
+    "size": 2655,
+    "stargazers_count": 649,
+    "watchers_count": 649,
+    "language": "Python",
+    "forks_count": 46,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1313426843,
+    "name": "Hybrid-Motion-Imitation",
+    "owner": {
+      "id": 51504170,
+      "url": "https://api.github.com/users/jiashunwang",
+      "html_url": "https://github.com/jiashunwang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51504170?v=4"
+    },
+    "html_url": "https://github.com/jiashunwang/Hybrid-Motion-Imitation",
+    "description": "Unofficial implementation and extension of GfR (RSS 2026) and HIL (TOG 2026)",
+    "created_at": "2026-07-27T04:49:59Z",
+    "updated_at": "2026-07-30T19:03:49Z",
+    "pushed_at": "2026-07-27T06:44:02Z",
+    "git_url": "git://github.com/jiashunwang/Hybrid-Motion-Imitation.git",
+    "homepage": "",
+    "size": 114525,
+    "stargazers_count": 59,
+    "watchers_count": 59,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
