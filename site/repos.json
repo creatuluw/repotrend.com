@@ -67227,5 +67227,51 @@
     "language": "Python",
     "forks_count": 6,
     "open_issues_count": 0
+  },
+  {
+    "id": 1292603082,
+    "name": "optim-agent",
+    "owner": {
+      "id": 300860711,
+      "url": "https://api.github.com/users/Optim-Agent",
+      "html_url": "https://github.com/Optim-Agent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/300860711?v=4"
+    },
+    "html_url": "https://github.com/Optim-Agent/optim-agent",
+    "description": "LLM agents as your hyperparameter optimizer.",
+    "created_at": "2026-07-07T17:05:54Z",
+    "updated_at": "2026-07-30T19:33:29Z",
+    "pushed_at": "2026-07-27T09:31:33Z",
+    "git_url": "git://github.com/Optim-Agent/optim-agent.git",
+    "homepage": "https://optim-agent.github.io/optim-agent/",
+    "size": 3253,
+    "stargazers_count": 627,
+    "watchers_count": 627,
+    "language": "Python",
+    "forks_count": 31,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1316398516,
+    "name": "Prospector",
+    "owner": {
+      "id": 4311814,
+      "url": "https://api.github.com/users/christianselig",
+      "html_url": "https://github.com/christianselig",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4311814?v=4"
+    },
+    "html_url": "https://github.com/christianselig/Prospector",
+    "description": "A visionOS app to preview large scale models in real life (like housing plans!)",
+    "created_at": "2026-07-29T17:25:44Z",
+    "updated_at": "2026-07-30T19:10:16Z",
+    "pushed_at": "2026-07-29T17:25:57Z",
+    "git_url": "git://github.com/christianselig/Prospector.git",
+    "homepage": null,
+    "size": 22523,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "Swift",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
