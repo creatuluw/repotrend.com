@@ -67181,5 +67181,51 @@
     "language": "TypeScript",
     "forks_count": 11,
     "open_issues_count": 0
+  },
+  {
+    "id": 1294544128,
+    "name": "Awesome-Long-Horizon-Agents",
+    "owner": {
+      "id": 139615285,
+      "url": "https://api.github.com/users/RUC-NLPIR",
+      "html_url": "https://github.com/RUC-NLPIR",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139615285?v=4"
+    },
+    "html_url": "https://github.com/RUC-NLPIR/Awesome-Long-Horizon-Agents",
+    "description": "The roadmap of long-horizon agents",
+    "created_at": "2026-07-09T02:13:19Z",
+    "updated_at": "2026-07-30T14:22:47Z",
+    "pushed_at": "2026-07-27T13:10:45Z",
+    "git_url": "git://github.com/RUC-NLPIR/Awesome-Long-Horizon-Agents.git",
+    "homepage": null,
+    "size": 69138,
+    "stargazers_count": 736,
+    "watchers_count": 736,
+    "language": null,
+    "forks_count": 26,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1315570619,
+    "name": "puzzle-vision-simulator",
+    "owner": {
+      "id": 126400625,
+      "url": "https://api.github.com/users/lvreng",
+      "html_url": "https://github.com/lvreng",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126400625?v=4"
+    },
+    "html_url": "https://github.com/lvreng/puzzle-vision-simulator",
+    "description": "适配 2026 年全国大学生电子设计竞赛 E 题：1～4 片拼图视觉识别、矩形还原、位姿矩阵与可视化仿真",
+    "created_at": "2026-07-29T01:21:48Z",
+    "updated_at": "2026-07-30T18:18:52Z",
+    "pushed_at": "2026-07-30T18:16:28Z",
+    "git_url": "git://github.com/lvreng/puzzle-vision-simulator.git",
+    "homepage": null,
+    "size": 16161,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 0
   }
 ]
