@@ -67319,5 +67319,51 @@
     "language": "TypeScript",
     "forks_count": 15,
     "open_issues_count": 1
+  },
+  {
+    "id": 1315061605,
+    "name": "ponytail-improved",
+    "owner": {
+      "id": 155918204,
+      "url": "https://api.github.com/users/0xwilliamortiz",
+      "html_url": "https://github.com/0xwilliamortiz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/155918204?v=4"
+    },
+    "html_url": "https://github.com/0xwilliamortiz/ponytail-improved",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "created_at": "2026-07-28T14:16:19Z",
+    "updated_at": "2026-07-30T17:29:19Z",
+    "pushed_at": "2026-07-28T14:41:07Z",
+    "git_url": "git://github.com/0xwilliamortiz/ponytail-improved.git",
+    "homepage": "",
+    "size": 1965,
+    "stargazers_count": 561,
+    "watchers_count": 561,
+    "language": "JavaScript",
+    "forks_count": 125,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1313831120,
+    "name": "AetherST",
+    "owner": {
+      "id": 134220446,
+      "url": "https://api.github.com/users/immaghzbad",
+      "html_url": "https://github.com/immaghzbad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/134220446?v=4"
+    },
+    "html_url": "https://github.com/immaghzbad/AetherST",
+    "description": "Advanced Multi-Protocol VPN Client for Android (MASQUE, WireGuard, Gool) powered by Aether Core and HEV SOCKS5 engine. High performance, DPI circumvention, and modern UI.",
+    "created_at": "2026-07-27T12:41:37Z",
+    "updated_at": "2026-07-30T13:10:15Z",
+    "pushed_at": "2026-07-28T18:50:46Z",
+    "git_url": "git://github.com/immaghzbad/AetherST.git",
+    "homepage": "",
+    "size": 11463,
+    "stargazers_count": 67,
+    "watchers_count": 67,
+    "language": "Kotlin",
+    "forks_count": 1,
+    "open_issues_count": 2
   }
 ]
