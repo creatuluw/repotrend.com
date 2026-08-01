@@ -67365,5 +67365,74 @@
     "language": "Kotlin",
     "forks_count": 1,
     "open_issues_count": 2
+  },
+  {
+    "id": 1311510441,
+    "name": "quill",
+    "owner": {
+      "id": 247467537,
+      "url": "https://api.github.com/users/digimata",
+      "html_url": "https://github.com/digimata",
+      "avatar_url": "https://avatars.githubusercontent.com/u/247467537?v=4"
+    },
+    "html_url": "https://github.com/digimata/quill",
+    "description": "Ultra-minimalist macOS recording + transcription.",
+    "created_at": "2026-07-24T23:31:27Z",
+    "updated_at": "2026-08-01T03:15:00Z",
+    "pushed_at": "2026-07-30T08:11:29Z",
+    "git_url": "git://github.com/digimata/quill.git",
+    "homepage": "",
+    "size": 22,
+    "stargazers_count": 3296,
+    "watchers_count": 3296,
+    "language": "Swift",
+    "forks_count": 197,
+    "open_issues_count": 21
+  },
+  {
+    "id": 1291242597,
+    "name": "FableCut",
+    "owner": {
+      "id": 84374383,
+      "url": "https://api.github.com/users/ronak-create",
+      "html_url": "https://github.com/ronak-create",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84374383?v=4"
+    },
+    "html_url": "https://github.com/ronak-create/FableCut",
+    "description": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
+    "created_at": "2026-07-06T16:18:57Z",
+    "updated_at": "2026-07-31T14:00:55Z",
+    "pushed_at": "2026-07-28T21:48:13Z",
+    "git_url": "git://github.com/ronak-create/FableCut.git",
+    "homepage": "https://ronak-create.github.io/FableCut/",
+    "size": 1537,
+    "stargazers_count": 567,
+    "watchers_count": 567,
+    "language": "JavaScript",
+    "forks_count": 56,
+    "open_issues_count": 14
+  },
+  {
+    "id": 1316474873,
+    "name": "de-ai-tone",
+    "owner": {
+      "id": 8461727,
+      "url": "https://api.github.com/users/allenloves",
+      "html_url": "https://github.com/allenloves",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8461727?v=4"
+    },
+    "html_url": "https://github.com/allenloves/de-ai-tone",
+    "description": "去 AI 味：繁體中文寫作與翻譯的風格規範（Claude Code skill）",
+    "created_at": "2026-07-29T18:54:29Z",
+    "updated_at": "2026-07-31T05:20:58Z",
+    "pushed_at": "2026-07-29T19:38:35Z",
+    "git_url": "git://github.com/allenloves/de-ai-tone.git",
+    "homepage": null,
+    "size": 25,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": null,
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
