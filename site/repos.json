@@ -67434,5 +67434,74 @@
     "language": null,
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1305663861,
+    "name": "video-shotcraft",
+    "owner": {
+      "id": 18239147,
+      "url": "https://api.github.com/users/Vincentwei1021",
+      "html_url": "https://github.com/Vincentwei1021",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18239147?v=4"
+    },
+    "html_url": "https://github.com/Vincentwei1021/video-shotcraft",
+    "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+    "created_at": "2026-07-19T11:44:41Z",
+    "updated_at": "2026-08-01T03:05:35Z",
+    "pushed_at": "2026-07-28T07:18:42Z",
+    "git_url": "git://github.com/Vincentwei1021/video-shotcraft.git",
+    "homepage": "https://vincentwei1021.github.io/video-shotcraft/",
+    "size": 185695,
+    "stargazers_count": 3045,
+    "watchers_count": 3045,
+    "language": "TypeScript",
+    "forks_count": 259,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1297317864,
+    "name": "grokRegister-cpa",
+    "owner": {
+      "id": 202784495,
+      "url": "https://api.github.com/users/Git-creat7",
+      "html_url": "https://github.com/Git-creat7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/202784495?v=4"
+    },
+    "html_url": "https://github.com/Git-creat7/grokRegister-cpa",
+    "description": "Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传",
+    "created_at": "2026-07-11T09:46:31Z",
+    "updated_at": "2026-07-30T13:32:45Z",
+    "pushed_at": "2026-07-23T09:15:26Z",
+    "git_url": "git://github.com/Git-creat7/grokRegister-cpa.git",
+    "homepage": null,
+    "size": 4407,
+    "stargazers_count": 571,
+    "watchers_count": 571,
+    "language": "Python",
+    "forks_count": 179,
+    "open_issues_count": 20
+  },
+  {
+    "id": 1313773465,
+    "name": "TG-Polymarket-bot",
+    "owner": {
+      "id": 309707997,
+      "url": "https://api.github.com/users/mothparkzo6249",
+      "html_url": "https://github.com/mothparkzo6249",
+      "avatar_url": "https://avatars.githubusercontent.com/u/309707997?v=4"
+    },
+    "html_url": "https://github.com/mothparkzo6249/TG-Polymarket-bot",
+    "description": "Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel.",
+    "created_at": "2026-07-27T11:39:02Z",
+    "updated_at": "2026-07-30T19:36:26Z",
+    "pushed_at": "2026-07-30T19:36:18Z",
+    "git_url": "git://github.com/mothparkzo6249/TG-Polymarket-bot.git",
+    "homepage": "https://t.me/polyprediction1_bot",
+    "size": 529,
+    "stargazers_count": 88,
+    "watchers_count": 88,
+    "language": "JavaScript",
+    "forks_count": 49,
+    "open_issues_count": 0
   }
 ]
