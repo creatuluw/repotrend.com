@@ -67595,5 +67595,74 @@
     "language": "Rust",
     "forks_count": 1,
     "open_issues_count": 1
+  },
+  {
+    "id": 1316527318,
+    "name": "qm",
+    "owner": {
+      "id": 153323858,
+      "url": "https://api.github.com/users/yc-software",
+      "html_url": "https://github.com/yc-software",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153323858?v=4"
+    },
+    "html_url": "https://github.com/yc-software/qm",
+    "description": "Multiplayer agent harness for work",
+    "created_at": "2026-07-29T20:03:08Z",
+    "updated_at": "2026-08-01T19:12:41Z",
+    "pushed_at": "2026-08-01T01:30:53Z",
+    "git_url": "git://github.com/yc-software/qm.git",
+    "homepage": "https://qm.ycombinator.com",
+    "size": 5605,
+    "stargazers_count": 4555,
+    "watchers_count": 4555,
+    "language": "TypeScript",
+    "forks_count": 436,
+    "open_issues_count": 58
+  },
+  {
+    "id": 1302672207,
+    "name": "rachel-digital-human-production",
+    "owner": {
+      "id": 81918445,
+      "url": "https://api.github.com/users/Jingyi-Wu-Richael",
+      "html_url": "https://github.com/Jingyi-Wu-Richael",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81918445?v=4"
+    },
+    "html_url": "https://github.com/Jingyi-Wu-Richael/rachel-digital-human-production",
+    "description": null,
+    "created_at": "2026-07-16T10:58:56Z",
+    "updated_at": "2026-08-01T18:59:49Z",
+    "pushed_at": "2026-07-16T11:03:38Z",
+    "git_url": "git://github.com/Jingyi-Wu-Richael/rachel-digital-human-production.git",
+    "homepage": null,
+    "size": 11,
+    "stargazers_count": 741,
+    "watchers_count": 741,
+    "language": "Python",
+    "forks_count": 105,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1316553733,
+    "name": "canivibecodeit",
+    "owner": {
+      "id": 310745720,
+      "url": "https://api.github.com/users/canivibecodeit",
+      "html_url": "https://github.com/canivibecodeit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/310745720?v=4"
+    },
+    "html_url": "https://github.com/canivibecodeit/canivibecodeit",
+    "description": "Find out which subscriptions are one prompt away from free. caniuse.com, but for replacing SaaS with one AI prompt.",
+    "created_at": "2026-07-29T20:44:29Z",
+    "updated_at": "2026-08-01T19:07:12Z",
+    "pushed_at": "2026-08-01T19:07:08Z",
+    "git_url": "git://github.com/canivibecodeit/canivibecodeit.git",
+    "homepage": null,
+    "size": 853852,
+    "stargazers_count": 72,
+    "watchers_count": 72,
+    "language": "JavaScript",
+    "forks_count": 63,
+    "open_issues_count": 8
   }
 ]
