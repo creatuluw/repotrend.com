@@ -67503,5 +67503,51 @@
     "language": "JavaScript",
     "forks_count": 49,
     "open_issues_count": 0
+  },
+  {
+    "id": 1309585508,
+    "name": "axrl",
+    "owner": {
+      "id": 308220153,
+      "url": "https://api.github.com/users/XYZ-AI-Lab",
+      "html_url": "https://github.com/XYZ-AI-Lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/308220153?v=4"
+    },
+    "html_url": "https://github.com/XYZ-AI-Lab/axrl",
+    "description": "AxisRL is an agentic RL post-training framework built on SGLang rollout, Megatron training, and real-world agent workflows.",
+    "created_at": "2026-07-23T06:07:23Z",
+    "updated_at": "2026-08-01T02:26:07Z",
+    "pushed_at": "2026-07-31T14:55:18Z",
+    "git_url": "git://github.com/XYZ-AI-Lab/axrl.git",
+    "homepage": "https://xyz-lab.ai/",
+    "size": 2275,
+    "stargazers_count": 883,
+    "watchers_count": 883,
+    "language": "Python",
+    "forks_count": 22,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1315555252,
+    "name": "zhixin-companion",
+    "owner": {
+      "id": 182838759,
+      "url": "https://api.github.com/users/LotusDecoder",
+      "html_url": "https://github.com/LotusDecoder",
+      "avatar_url": "https://avatars.githubusercontent.com/u/182838759?v=4"
+    },
+    "html_url": "https://github.com/LotusDecoder/zhixin-companion",
+    "description": "面向个人自我记录、复盘和认知梳理的伙伴型-提示词及agent配置文件：从具体线索出发，区分事实、感受和解释，在共情的同时保留现实检验。",
+    "created_at": "2026-07-29T00:53:53Z",
+    "updated_at": "2026-08-01T13:53:44Z",
+    "pushed_at": "2026-07-31T00:44:08Z",
+    "git_url": "git://github.com/LotusDecoder/zhixin-companion.git",
+    "homepage": "",
+    "size": 25,
+    "stargazers_count": 70,
+    "watchers_count": 70,
+    "language": null,
+    "forks_count": 9,
+    "open_issues_count": 0
   }
 ]
