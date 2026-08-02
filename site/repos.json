@@ -67710,5 +67710,74 @@
     "language": "Python",
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1317563975,
+    "name": "decimen-optical-transfer",
+    "owner": {
+      "id": 311128416,
+      "url": "https://api.github.com/users/bashalarmistalt",
+      "html_url": "https://github.com/bashalarmistalt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/311128416?v=4"
+    },
+    "html_url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+    "description": null,
+    "created_at": "2026-07-30T18:17:54Z",
+    "updated_at": "2026-08-02T08:24:35Z",
+    "pushed_at": "2026-08-02T01:34:36Z",
+    "git_url": "git://github.com/bashalarmistalt/decimen-optical-transfer.git",
+    "homepage": "https://decimen.app/",
+    "size": 2984,
+    "stargazers_count": 3201,
+    "watchers_count": 3201,
+    "language": "TypeScript",
+    "forks_count": 376,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1315854686,
+    "name": "talivia",
+    "owner": {
+      "id": 309602203,
+      "url": "https://api.github.com/users/talivia-group",
+      "html_url": "https://github.com/talivia-group",
+      "avatar_url": "https://avatars.githubusercontent.com/u/309602203?v=4"
+    },
+    "html_url": "https://github.com/talivia-group/talivia",
+    "description": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
+    "created_at": "2026-07-29T07:56:49Z",
+    "updated_at": "2026-08-01T18:05:49Z",
+    "pushed_at": "2026-07-29T07:57:14Z",
+    "git_url": "git://github.com/talivia-group/talivia.git",
+    "homepage": "https://talivia.com",
+    "size": 1412,
+    "stargazers_count": 582,
+    "watchers_count": 582,
+    "language": "TypeScript",
+    "forks_count": 43,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1319378448,
+    "name": "wechat-miniprogram-builder",
+    "owner": {
+      "id": 284923258,
+      "url": "https://api.github.com/users/chenjin-cmd",
+      "html_url": "https://github.com/chenjin-cmd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/284923258?v=4"
+    },
+    "html_url": "https://github.com/chenjin-cmd/wechat-miniprogram-builder",
+    "description": "wechat-miniprogram-builder",
+    "created_at": "2026-08-01T14:54:34Z",
+    "updated_at": "2026-08-02T08:28:03Z",
+    "pushed_at": "2026-08-01T15:58:29Z",
+    "git_url": "git://github.com/chenjin-cmd/wechat-miniprogram-builder.git",
+    "homepage": null,
+    "size": 32,
+    "stargazers_count": 80,
+    "watchers_count": 80,
+    "language": null,
+    "forks_count": 9,
+    "open_issues_count": 0
   }
 ]
