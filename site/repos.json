@@ -67825,5 +67825,51 @@
     "language": "TypeScript",
     "forks_count": 14,
     "open_issues_count": 0
+  },
+  {
+    "id": 1291255325,
+    "name": "terminal-browser",
+    "owner": {
+      "id": 276775852,
+      "url": "https://api.github.com/users/zenbu-labs",
+      "html_url": "https://github.com/zenbu-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/276775852?v=4"
+    },
+    "html_url": "https://github.com/zenbu-labs/terminal-browser",
+    "description": "A browser that runs directly inside your existing terminal",
+    "created_at": "2026-07-06T16:31:11Z",
+    "updated_at": "2026-08-02T18:46:55Z",
+    "pushed_at": "2026-08-02T18:41:51Z",
+    "git_url": "git://github.com/zenbu-labs/terminal-browser.git",
+    "homepage": "https://terminal-browser.com",
+    "size": 1701,
+    "stargazers_count": 706,
+    "watchers_count": 706,
+    "language": "Rust",
+    "forks_count": 28,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1317837433,
+    "name": "FaceLogin",
+    "owner": {
+      "id": 88578567,
+      "url": "https://api.github.com/users/EthanZer0",
+      "html_url": "https://github.com/EthanZer0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88578567?v=4"
+    },
+    "html_url": "https://github.com/EthanZer0/FaceLogin",
+    "description": "基于 Windows Credential Provider 框架的摄像头人脸识别登录系统。让不支持Windows Hello的的电脑也能够体验“人脸登录”无需额外操作，看一眼即可解锁你的电脑 — 支持本地账户与微软在线账户，内置眨眼与静默反欺诈双重活体检测。",
+    "created_at": "2026-07-31T02:10:19Z",
+    "updated_at": "2026-08-02T15:48:55Z",
+    "pushed_at": "2026-08-02T15:48:51Z",
+    "git_url": "git://github.com/EthanZer0/FaceLogin.git",
+    "homepage": "",
+    "size": 119298,
+    "stargazers_count": 71,
+    "watchers_count": 71,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 1
   }
 ]
