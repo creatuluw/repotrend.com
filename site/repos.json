@@ -68032,5 +68032,51 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1291034571,
+    "name": "tty7",
+    "owner": {
+      "id": 24760907,
+      "url": "https://api.github.com/users/l0ng-ai",
+      "html_url": "https://github.com/l0ng-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24760907?v=4"
+    },
+    "html_url": "https://github.com/l0ng-ai/tty7",
+    "description": "A terminal workbench in pure Rust: shells, persistent sessions, SSH, coding agents. GPU-rendered on Zed's gpui, VT core from Alacritty.",
+    "created_at": "2026-07-06T12:51:10Z",
+    "updated_at": "2026-08-03T10:37:43Z",
+    "pushed_at": "2026-08-03T09:34:44Z",
+    "git_url": "git://github.com/l0ng-ai/tty7.git",
+    "homepage": "https://github.com/l0ng-ai/tty7/releases/latest",
+    "size": 7870,
+    "stargazers_count": 573,
+    "watchers_count": 573,
+    "language": "Rust",
+    "forks_count": 39,
+    "open_issues_count": 28
+  },
+  {
+    "id": 1317434942,
+    "name": "Cline-proxy",
+    "owner": {
+      "id": 188421097,
+      "url": "https://api.github.com/users/YuJunZhiXue",
+      "html_url": "https://github.com/YuJunZhiXue",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188421097?v=4"
+    },
+    "html_url": "https://github.com/YuJunZhiXue/Cline-proxy",
+    "description": "一个使用go写的简略的反代CLine的网关",
+    "created_at": "2026-07-30T15:48:40Z",
+    "updated_at": "2026-08-02T16:46:31Z",
+    "pushed_at": "2026-07-30T16:29:18Z",
+    "git_url": "git://github.com/YuJunZhiXue/Cline-proxy.git",
+    "homepage": null,
+    "size": 34,
+    "stargazers_count": 86,
+    "watchers_count": 86,
+    "language": "Go",
+    "forks_count": 33,
+    "open_issues_count": 0
   }
 ]
