@@ -67779,5 +67779,51 @@
     "language": null,
     "forks_count": 9,
     "open_issues_count": 0
+  },
+  {
+    "id": 1316443307,
+    "name": "skill-recorder",
+    "owner": {
+      "id": 6154722,
+      "url": "https://api.github.com/users/microsoft",
+      "html_url": "https://github.com/microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+    },
+    "html_url": "https://github.com/microsoft/skill-recorder",
+    "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
+    "created_at": "2026-07-29T18:16:14Z",
+    "updated_at": "2026-08-02T19:14:47Z",
+    "pushed_at": "2026-08-02T18:54:28Z",
+    "git_url": "git://github.com/microsoft/skill-recorder.git",
+    "homepage": null,
+    "size": 5774,
+    "stargazers_count": 691,
+    "watchers_count": 691,
+    "language": "TypeScript",
+    "forks_count": 71,
+    "open_issues_count": 28
+  },
+  {
+    "id": 1317455790,
+    "name": "pallet-town-3d",
+    "owner": {
+      "id": 36967319,
+      "url": "https://api.github.com/users/PauliusOS",
+      "html_url": "https://github.com/PauliusOS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36967319?v=4"
+    },
+    "html_url": "https://github.com/PauliusOS/pallet-town-3d",
+    "description": "Pallet Town — a first-person, modern 3D cartoon reimagining of the opening of Pokemon LeafGreen, built in Three.js with zero binary art assets",
+    "created_at": "2026-07-30T16:11:17Z",
+    "updated_at": "2026-08-01T14:09:47Z",
+    "pushed_at": "2026-07-31T21:47:45Z",
+    "git_url": "git://github.com/PauliusOS/pallet-town-3d.git",
+    "homepage": "https://pallet-town-3d-one.vercel.app",
+    "size": 360,
+    "stargazers_count": 88,
+    "watchers_count": 88,
+    "language": "TypeScript",
+    "forks_count": 14,
+    "open_issues_count": 0
   }
 ]
