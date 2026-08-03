@@ -67940,5 +67940,51 @@
     "language": "HTML",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1300303659,
+    "name": "All-Project",
+    "owner": {
+      "id": 298382259,
+      "url": "https://api.github.com/users/x4gKing",
+      "html_url": "https://github.com/x4gKing",
+      "avatar_url": "https://avatars.githubusercontent.com/u/298382259?v=4"
+    },
+    "html_url": "https://github.com/x4gKing/All-Project",
+    "description": null,
+    "created_at": "2026-07-14T09:53:58Z",
+    "updated_at": "2026-08-02T18:50:27Z",
+    "pushed_at": "2026-08-01T21:21:50Z",
+    "git_url": "git://github.com/x4gKing/All-Project.git",
+    "homepage": null,
+    "size": 8,
+    "stargazers_count": 668,
+    "watchers_count": 668,
+    "language": null,
+    "forks_count": 154,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1317306275,
+    "name": "InferSync",
+    "owner": {
+      "id": 121629422,
+      "url": "https://api.github.com/users/jayamurka",
+      "html_url": "https://github.com/jayamurka",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121629422?v=4"
+    },
+    "html_url": "https://github.com/jayamurka/InferSync",
+    "description": "Edge-Enhanced InferSync Analytics-Platform implementing Real-Time Predictive Analytics with enterprise-grade Machine Learning Integration capabilities",
+    "created_at": "2026-07-30T13:35:39Z",
+    "updated_at": "2026-08-01T16:00:18Z",
+    "pushed_at": "2026-07-30T13:36:57Z",
+    "git_url": "git://github.com/jayamurka/InferSync.git",
+    "homepage": null,
+    "size": 9,
+    "stargazers_count": 70,
+    "watchers_count": 70,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
