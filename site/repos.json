@@ -67871,5 +67871,74 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 1
+  },
+  {
+    "id": 1237164513,
+    "name": "flint-chart",
+    "owner": {
+      "id": 6154722,
+      "url": "https://api.github.com/users/microsoft",
+      "html_url": "https://github.com/microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+    },
+    "html_url": "https://github.com/microsoft/flint-chart",
+    "description": "🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs.",
+    "created_at": "2026-05-13T00:00:28Z",
+    "updated_at": "2026-08-02T19:10:05Z",
+    "pushed_at": "2026-08-02T18:14:53Z",
+    "git_url": "git://github.com/microsoft/flint-chart.git",
+    "homepage": "https://microsoft.github.io/flint-chart/",
+    "size": 22340,
+    "stargazers_count": 3143,
+    "watchers_count": 3143,
+    "language": "TypeScript",
+    "forks_count": 156,
+    "open_issues_count": 24
+  },
+  {
+    "id": 1308648534,
+    "name": "draw-your-font",
+    "owner": {
+      "id": 31888918,
+      "url": "https://api.github.com/users/danilo-znamerovszkij",
+      "html_url": "https://github.com/danilo-znamerovszkij",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31888918?v=4"
+    },
+    "html_url": "https://github.com/danilo-znamerovszkij/draw-your-font",
+    "description": "Turn a photo of your handwriting into a real font (TTF/WOFF/WOFF2) - free, open source, no uploads. Node CLI + Claude Code skill.",
+    "created_at": "2026-07-22T09:47:19Z",
+    "updated_at": "2026-08-02T16:59:23Z",
+    "pushed_at": "2026-07-27T12:38:29Z",
+    "git_url": "git://github.com/danilo-znamerovszkij/draw-your-font.git",
+    "homepage": "https://drawyourfont.com/",
+    "size": 3990,
+    "stargazers_count": 534,
+    "watchers_count": 534,
+    "language": "JavaScript",
+    "forks_count": 54,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1318837166,
+    "name": "3d-print-tools-editor",
+    "owner": {
+      "id": 311603555,
+      "url": "https://api.github.com/users/danielmillersr2593",
+      "html_url": "https://github.com/danielmillersr2593",
+      "avatar_url": "https://avatars.githubusercontent.com/u/311603555?v=4"
+    },
+    "html_url": "https://github.com/danielmillersr2593/3d-print-tools-editor",
+    "description": "Client-side browser toolkit for viewing, editing, inspecting, and preparing common 3D-printing files, with support generation and toolpath visualization. Use the hosted version or serve a local checkout.",
+    "created_at": "2026-08-01T00:03:03Z",
+    "updated_at": "2026-08-03T01:26:41Z",
+    "pushed_at": "2026-08-03T01:26:38Z",
+    "git_url": "git://github.com/danielmillersr2593/3d-print-tools-editor.git",
+    "homepage": null,
+    "size": 24,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
