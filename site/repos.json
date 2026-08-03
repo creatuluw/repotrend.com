@@ -67986,5 +67986,51 @@
     "language": "JavaScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1320101490,
+    "name": "anatomy",
+    "owner": {
+      "id": 228721029,
+      "url": "https://api.github.com/users/thebuggeddev",
+      "html_url": "https://github.com/thebuggeddev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/228721029?v=4"
+    },
+    "html_url": "https://github.com/thebuggeddev/anatomy",
+    "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+    "created_at": "2026-08-02T11:15:16Z",
+    "updated_at": "2026-08-03T09:49:09Z",
+    "pushed_at": "2026-08-02T11:29:29Z",
+    "git_url": "git://github.com/thebuggeddev/anatomy.git",
+    "homepage": "https://anatomy-livid.vercel.app",
+    "size": 215322,
+    "stargazers_count": 510,
+    "watchers_count": 510,
+    "language": "TypeScript",
+    "forks_count": 147,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1317584210,
+    "name": "apexcli",
+    "owner": {
+      "id": 311151370,
+      "url": "https://api.github.com/users/Apex-Accelerator",
+      "html_url": "https://github.com/Apex-Accelerator",
+      "avatar_url": "https://avatars.githubusercontent.com/u/311151370?v=4"
+    },
+    "html_url": "https://github.com/Apex-Accelerator/apexcli",
+    "description": "Apex Foundation is a Web3 accelerator and investor.  200+ portfolio companies. $100K–$500K direct checks. This is where  we share what we learn screening projects, what separates funded  from rejected, and what's actually happening in Web3 infrastructure,  DeFi, and AI on-chain. No hype, no price talk.",
+    "created_at": "2026-07-30T18:43:54Z",
+    "updated_at": "2026-08-02T17:21:06Z",
+    "pushed_at": "2026-08-02T17:20:56Z",
+    "git_url": "git://github.com/Apex-Accelerator/apexcli.git",
+    "homepage": null,
+    "size": 350314,
+    "stargazers_count": 80,
+    "watchers_count": 80,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
