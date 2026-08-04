@@ -68308,5 +68308,74 @@
     "language": null,
     "forks_count": 10,
     "open_issues_count": 0
+  },
+  {
+    "id": 1310057619,
+    "name": "esp32-ai",
+    "owner": {
+      "id": 15254847,
+      "url": "https://api.github.com/users/slvDev",
+      "html_url": "https://github.com/slvDev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15254847?v=4"
+    },
+    "html_url": "https://github.com/slvDev/esp32-ai",
+    "description": null,
+    "created_at": "2026-07-23T14:53:51Z",
+    "updated_at": "2026-08-03T19:37:17Z",
+    "pushed_at": "2026-08-03T15:28:28Z",
+    "git_url": "git://github.com/slvDev/esp32-ai.git",
+    "homepage": null,
+    "size": 1183,
+    "stargazers_count": 3238,
+    "watchers_count": 3238,
+    "language": "Python",
+    "forks_count": 401,
+    "open_issues_count": 12
+  },
+  {
+    "id": 1292260588,
+    "name": "vibe-mouse",
+    "owner": {
+      "id": 18033809,
+      "url": "https://api.github.com/users/CSCB",
+      "html_url": "https://github.com/CSCB",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18033809?v=4"
+    },
+    "html_url": "https://github.com/CSCB/vibe-mouse",
+    "description": "Core open-source Vibecoding interactive mouse project, belonging to a self-developed open-source system including the nation's first open-source robot actuator and stepless mobile intelligent monitoring solution.",
+    "created_at": "2026-07-07T11:53:39Z",
+    "updated_at": "2026-08-03T18:10:59Z",
+    "pushed_at": "2026-07-24T03:22:47Z",
+    "git_url": "git://github.com/CSCB/vibe-mouse.git",
+    "homepage": null,
+    "size": 245,
+    "stargazers_count": 613,
+    "watchers_count": 613,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1319325765,
+    "name": "ContextX",
+    "owner": {
+      "id": 148060537,
+      "url": "https://api.github.com/users/KayanoLiam",
+      "html_url": "https://github.com/KayanoLiam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148060537?v=4"
+    },
+    "html_url": "https://github.com/KayanoLiam/ContextX",
+    "description": null,
+    "created_at": "2026-08-01T13:42:14Z",
+    "updated_at": "2026-08-04T07:46:27Z",
+    "pushed_at": "2026-08-02T15:55:12Z",
+    "git_url": "git://github.com/KayanoLiam/ContextX.git",
+    "homepage": null,
+    "size": 34,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": "Rust",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
