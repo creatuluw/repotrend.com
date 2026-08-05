@@ -68653,5 +68653,51 @@
     "language": "Python",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1296649839,
+    "name": "undress-design",
+    "owner": {
+      "id": 270956653,
+      "url": "https://api.github.com/users/chordswallowthrust",
+      "html_url": "https://github.com/chordswallowthrust",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270956653?v=4"
+    },
+    "html_url": "https://github.com/chordswallowthrust/undress-design",
+    "description": "AI-powered fashion visualization and virtual try-on toolkit for consent-based garment editing, outfit prototyping, and creative design workflows. https://undress.design/edit?utm_source=gist.github.com/chordswallowthrust/undress-design",
+    "created_at": "2026-07-10T15:34:39Z",
+    "updated_at": "2026-08-05T08:30:01Z",
+    "pushed_at": "2026-07-12T12:05:14Z",
+    "git_url": "git://github.com/chordswallowthrust/undress-design.git",
+    "homepage": "https://undress.design/edit?utm_source=gist.github.com/chordswallowthrust/undress-design",
+    "size": 19,
+    "stargazers_count": 659,
+    "watchers_count": 659,
+    "language": null,
+    "forks_count": 2,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1320010935,
+    "name": "agent",
+    "owner": {
+      "id": 309602203,
+      "url": "https://api.github.com/users/talivia-group",
+      "html_url": "https://github.com/talivia-group",
+      "avatar_url": "https://avatars.githubusercontent.com/u/309602203?v=4"
+    },
+    "html_url": "https://github.com/talivia-group/agent",
+    "description": "Revenue-first website analytics installed and verified by AI agents through MCP",
+    "created_at": "2026-08-02T09:32:39Z",
+    "updated_at": "2026-08-03T08:56:15Z",
+    "pushed_at": "2026-08-02T14:20:25Z",
+    "git_url": "git://github.com/talivia-group/agent.git",
+    "homepage": "https://talivia.com/ai-agent-kit",
+    "size": 247,
+    "stargazers_count": 72,
+    "watchers_count": 72,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 1
   }
 ]
