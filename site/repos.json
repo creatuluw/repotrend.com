@@ -68492,5 +68492,51 @@
     "language": "TypeScript",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1306768200,
+    "name": "labs-OO-Agents",
+    "owner": {
+      "id": 213689629,
+      "url": "https://api.github.com/users/NVIDIA-NeMo",
+      "html_url": "https://github.com/NVIDIA-NeMo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/213689629?v=4"
+    },
+    "html_url": "https://github.com/NVIDIA-NeMo/labs-OO-Agents",
+    "description": "NVIDIA Object Oriented Agents",
+    "created_at": "2026-07-20T15:48:25Z",
+    "updated_at": "2026-08-04T19:07:49Z",
+    "pushed_at": "2026-08-04T14:20:23Z",
+    "git_url": "git://github.com/NVIDIA-NeMo/labs-OO-Agents.git",
+    "homepage": "",
+    "size": 3091,
+    "stargazers_count": 819,
+    "watchers_count": 819,
+    "language": "Python",
+    "forks_count": 114,
+    "open_issues_count": 23
+  },
+  {
+    "id": 1318837142,
+    "name": "abay-bot-workflow-tools",
+    "owner": {
+      "id": 311604427,
+      "url": "https://api.github.com/users/gabefishercb508",
+      "html_url": "https://github.com/gabefishercb508",
+      "avatar_url": "https://avatars.githubusercontent.com/u/311604427?v=4"
+    },
+    "html_url": "https://github.com/gabefishercb508/abay-bot-workflow-tools",
+    "description": "Telegram automation project for coordinating workflow tasks in the currently available 2026 build, with a compact HTML-oriented source structure, configurable settings, startup guidance, and an outlined update process.",
+    "created_at": "2026-08-01T00:02:59Z",
+    "updated_at": "2026-08-03T15:23:49Z",
+    "pushed_at": "2026-08-03T15:17:58Z",
+    "git_url": "git://github.com/gabefishercb508/abay-bot-workflow-tools.git",
+    "homepage": null,
+    "size": 25,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
