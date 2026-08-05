@@ -68745,5 +68745,74 @@
     "language": "JavaScript",
     "forks_count": 11,
     "open_issues_count": 0
+  },
+  {
+    "id": 1322012299,
+    "name": "anydoc",
+    "owner": {
+      "id": 135057108,
+      "url": "https://api.github.com/users/firecrawl",
+      "html_url": "https://github.com/firecrawl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/135057108?v=4"
+    },
+    "html_url": "https://github.com/firecrawl/anydoc",
+    "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+    "created_at": "2026-08-03T16:36:14Z",
+    "updated_at": "2026-08-05T14:15:41Z",
+    "pushed_at": "2026-08-05T13:55:36Z",
+    "git_url": "git://github.com/firecrawl/anydoc.git",
+    "homepage": "https://firecrawl.github.io/anydoc/",
+    "size": 813,
+    "stargazers_count": 3353,
+    "watchers_count": 3353,
+    "language": "Rust",
+    "forks_count": 144,
+    "open_issues_count": 16
+  },
+  {
+    "id": 1312338644,
+    "name": "PGSimCity",
+    "owner": {
+      "id": 1345402,
+      "url": "https://api.github.com/users/NikolayS",
+      "html_url": "https://github.com/NikolayS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1345402?v=4"
+    },
+    "html_url": "https://github.com/NikolayS/PGSimCity",
+    "description": "An explorable 3D city that shows how Postgres actually works",
+    "created_at": "2026-07-25T22:15:09Z",
+    "updated_at": "2026-08-04T18:50:43Z",
+    "pushed_at": "2026-08-04T18:50:18Z",
+    "git_url": "git://github.com/NikolayS/PGSimCity.git",
+    "homepage": "https://nikolays.github.io/PGSimCity/",
+    "size": 30625,
+    "stargazers_count": 539,
+    "watchers_count": 539,
+    "language": "TypeScript",
+    "forks_count": 38,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1319780465,
+    "name": "humanpen-skill",
+    "owner": {
+      "id": 311816651,
+      "url": "https://api.github.com/users/humanpen",
+      "html_url": "https://github.com/humanpen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/311816651?v=4"
+    },
+    "html_url": "https://github.com/humanpen/humanpen-skill",
+    "description": null,
+    "created_at": "2026-08-02T03:25:04Z",
+    "updated_at": "2026-08-04T08:33:49Z",
+    "pushed_at": "2026-08-02T15:02:15Z",
+    "git_url": "git://github.com/humanpen/humanpen-skill.git",
+    "homepage": null,
+    "size": 29,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
