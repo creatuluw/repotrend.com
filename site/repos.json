@@ -68538,5 +68538,74 @@
     "language": "HTML",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1287845516,
+    "name": "investing-for-beginners",
+    "owner": {
+      "id": 34959353,
+      "url": "https://api.github.com/users/xuchonglang",
+      "html_url": "https://github.com/xuchonglang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34959353?v=4"
+    },
+    "html_url": "https://github.com/xuchonglang/investing-for-beginners",
+    "description": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
+    "created_at": "2026-07-03T03:56:00Z",
+    "updated_at": "2026-08-05T02:39:49Z",
+    "pushed_at": "2026-07-28T09:04:59Z",
+    "git_url": "git://github.com/xuchonglang/investing-for-beginners.git",
+    "homepage": "https://xiaoyinsi.com/wiki",
+    "size": 665,
+    "stargazers_count": 3117,
+    "watchers_count": 3117,
+    "language": null,
+    "forks_count": 198,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1302690078,
+    "name": "lieflat-charts",
+    "owner": {
+      "id": 260030037,
+      "url": "https://api.github.com/users/larashero3-dotcom",
+      "html_url": "https://github.com/larashero3-dotcom",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260030037?v=4"
+    },
+    "html_url": "https://github.com/larashero3-dotcom/lieflat-charts",
+    "description": "面向 AI Agents 的单色数据可视化 Skill，将数据快速生成精致、可交互的 HTML 图表",
+    "created_at": "2026-07-16T11:17:49Z",
+    "updated_at": "2026-08-05T02:45:08Z",
+    "pushed_at": "2026-07-24T11:19:04Z",
+    "git_url": "git://github.com/larashero3-dotcom/lieflat-charts.git",
+    "homepage": null,
+    "size": 9572,
+    "stargazers_count": 540,
+    "watchers_count": 540,
+    "language": "HTML",
+    "forks_count": 42,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1319600255,
+    "name": "wraith",
+    "owner": {
+      "id": 171357548,
+      "url": "https://api.github.com/users/Arcanum-Sec",
+      "html_url": "https://github.com/Arcanum-Sec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/171357548?v=4"
+    },
+    "html_url": "https://github.com/Arcanum-Sec/wraith",
+    "description": "WRAITH — a modern browser-hooking framework (BeEF + blind-XSS successor) for red teams, researchers, and educators. For authorized security testing, research & education only.",
+    "created_at": "2026-08-01T20:18:50Z",
+    "updated_at": "2026-08-04T19:09:22Z",
+    "pushed_at": "2026-08-01T20:36:48Z",
+    "git_url": "git://github.com/Arcanum-Sec/wraith.git",
+    "homepage": "https://arcanum-sec.com",
+    "size": 1006,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": "JavaScript",
+    "forks_count": 10,
+    "open_issues_count": 0
   }
 ]
