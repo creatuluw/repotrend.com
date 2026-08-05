@@ -5788,5 +5788,11 @@
     "name": "claude-code-rebuilt",
     "html_url": "https://github.com/weikma/claude-code-rebuilt",
     "posted_at": "2026-08-04T08:28:51.150Z"
+  },
+  {
+    "id": 1266212515,
+    "name": "omnigent",
+    "html_url": "https://github.com/omnigent-ai/omnigent",
+    "posted_at": "2026-08-05T07:13:14.064Z"
   }
 ]
