@@ -68883,5 +68883,51 @@
     "language": "TypeScript",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1319103484,
+    "name": "morphicons",
+    "owner": {
+      "id": 85084558,
+      "url": "https://api.github.com/users/guillermolg00",
+      "html_url": "https://github.com/guillermolg00",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85084558?v=4"
+    },
+    "html_url": "https://github.com/guillermolg00/morphicons",
+    "description": "Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip.",
+    "created_at": "2026-08-01T08:15:09Z",
+    "updated_at": "2026-08-05T19:11:52Z",
+    "pushed_at": "2026-08-04T19:21:58Z",
+    "git_url": "git://github.com/guillermolg00/morphicons.git",
+    "homepage": "https://www.morphicons.com",
+    "size": 619,
+    "stargazers_count": 675,
+    "watchers_count": 675,
+    "language": "TypeScript",
+    "forks_count": 12,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1320271414,
+    "name": "lecture-to-notes",
+    "owner": {
+      "id": 55537221,
+      "url": "https://api.github.com/users/drpwchen",
+      "html_url": "https://github.com/drpwchen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55537221?v=4"
+    },
+    "html_url": "https://github.com/drpwchen/lecture-to-notes",
+    "description": "Lecture recordings → structured grounded notes + a synced HTML viewer: video, timestamped transcript and curated summary on one page. Local GPU pipeline (Whisper ASR · slide extraction · OCR · VLM signals · capture-time alignment). Claude Code skill + plain CLI.",
+    "created_at": "2026-08-02T14:38:46Z",
+    "updated_at": "2026-08-04T19:40:27Z",
+    "pushed_at": "2026-08-04T19:40:25Z",
+    "git_url": "git://github.com/drpwchen/lecture-to-notes.git",
+    "homepage": "https://drpwchen.com/posts/lecture-to-notes/",
+    "size": 3180,
+    "stargazers_count": 72,
+    "watchers_count": 72,
+    "language": "Python",
+    "forks_count": 18,
+    "open_issues_count": 0
   }
 ]
