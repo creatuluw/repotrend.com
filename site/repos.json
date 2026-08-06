@@ -69021,5 +69021,51 @@
     "language": "Python",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1323511527,
+    "name": "human-writing",
+    "owner": {
+      "id": 239590580,
+      "url": "https://api.github.com/users/KKKKhazix",
+      "html_url": "https://github.com/KKKKhazix",
+      "avatar_url": "https://avatars.githubusercontent.com/u/239590580?v=4"
+    },
+    "html_url": "https://github.com/KKKKhazix/human-writing",
+    "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+    "created_at": "2026-08-05T01:19:41Z",
+    "updated_at": "2026-08-05T19:22:28Z",
+    "pushed_at": "2026-08-05T10:38:38Z",
+    "git_url": "git://github.com/KKKKhazix/human-writing.git",
+    "homepage": null,
+    "size": 67,
+    "stargazers_count": 997,
+    "watchers_count": 997,
+    "language": "Python",
+    "forks_count": 95,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1321943369,
+    "name": "codexbot",
+    "owner": {
+      "id": 158067205,
+      "url": "https://api.github.com/users/LeaningLearner",
+      "html_url": "https://github.com/LeaningLearner",
+      "avatar_url": "https://avatars.githubusercontent.com/u/158067205?v=4"
+    },
+    "html_url": "https://github.com/LeaningLearner/codexbot",
+    "description": "CodexBot lifecycle notifications through QQ",
+    "created_at": "2026-08-03T15:32:05Z",
+    "updated_at": "2026-08-06T08:33:04Z",
+    "pushed_at": "2026-08-04T11:53:11Z",
+    "git_url": "git://github.com/LeaningLearner/codexbot.git",
+    "homepage": null,
+    "size": 2241,
+    "stargazers_count": 67,
+    "watchers_count": 67,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
