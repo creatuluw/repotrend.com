@@ -68975,5 +68975,51 @@
     "language": "Kotlin",
     "forks_count": 18,
     "open_issues_count": 8
+  },
+  {
+    "id": 1313215450,
+    "name": "rescript",
+    "owner": {
+      "id": 591655,
+      "url": "https://api.github.com/users/wassgha",
+      "html_url": "https://github.com/wassgha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/591655?v=4"
+    },
+    "html_url": "https://github.com/wassgha/rescript",
+    "description": "🎬 Open source, transcript-based video/audio editor that lives in the browser.",
+    "created_at": "2026-07-26T22:43:11Z",
+    "updated_at": "2026-08-05T09:56:08Z",
+    "pushed_at": "2026-08-05T09:55:51Z",
+    "git_url": "git://github.com/wassgha/rescript.git",
+    "homepage": "https://getrescript.com",
+    "size": 6891,
+    "stargazers_count": 622,
+    "watchers_count": 622,
+    "language": "TypeScript",
+    "forks_count": 71,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1322640431,
+    "name": "wai-play",
+    "owner": {
+      "id": 269487945,
+      "url": "https://api.github.com/users/waiterve",
+      "html_url": "https://github.com/waiterve",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269487945?v=4"
+    },
+    "html_url": "https://github.com/waiterve/wai-play",
+    "description": "WAI Play - AI web game testing and quality evaluation platform",
+    "created_at": "2026-08-04T07:20:22Z",
+    "updated_at": "2026-08-06T01:22:44Z",
+    "pushed_at": "2026-08-04T09:03:05Z",
+    "git_url": "git://github.com/waiterve/wai-play.git",
+    "homepage": "",
+    "size": 2098,
+    "stargazers_count": 77,
+    "watchers_count": 77,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
