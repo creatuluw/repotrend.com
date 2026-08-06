@@ -68929,5 +68929,51 @@
     "language": "Python",
     "forks_count": 18,
     "open_issues_count": 0
+  },
+  {
+    "id": 1319399540,
+    "name": "flashloan-scalper-bot",
+    "owner": {
+      "id": 308380480,
+      "url": "https://api.github.com/users/brookfacehe2421",
+      "html_url": "https://github.com/brookfacehe2421",
+      "avatar_url": "https://avatars.githubusercontent.com/u/308380480?v=4"
+    },
+    "html_url": "https://github.com/brookfacehe2421/flashloan-scalper-bot",
+    "description": "Quick profit scalper using flashloan mechanics",
+    "created_at": "2026-08-01T15:22:27Z",
+    "updated_at": "2026-08-06T02:47:52Z",
+    "pushed_at": "2026-08-06T02:47:46Z",
+    "git_url": "git://github.com/brookfacehe2421/flashloan-scalper-bot.git",
+    "homepage": null,
+    "size": 550,
+    "stargazers_count": 555,
+    "watchers_count": 555,
+    "language": "JavaScript",
+    "forks_count": 400,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1320437175,
+    "name": "Root-My-Pixel",
+    "owner": {
+      "id": 8174240,
+      "url": "https://api.github.com/users/alex193a",
+      "html_url": "https://github.com/alex193a",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8174240?v=4"
+    },
+    "html_url": "https://github.com/alex193a/Root-My-Pixel",
+    "description": "Jailbreak supported Google Pixel phones with CVE-2026-43499",
+    "created_at": "2026-08-02T17:34:45Z",
+    "updated_at": "2026-08-05T18:37:20Z",
+    "pushed_at": "2026-08-05T10:11:39Z",
+    "git_url": "git://github.com/alex193a/Root-My-Pixel.git",
+    "homepage": "",
+    "size": 3723,
+    "stargazers_count": 93,
+    "watchers_count": 93,
+    "language": "Kotlin",
+    "forks_count": 18,
+    "open_issues_count": 8
   }
 ]
