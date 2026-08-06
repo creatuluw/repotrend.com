@@ -68814,5 +68814,74 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1316875788,
+    "name": "FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+    "owner": {
+      "id": 1618833,
+      "url": "https://api.github.com/users/xdash",
+      "html_url": "https://github.com/xdash",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1618833?v=4"
+    },
+    "html_url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+    "description": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
+    "created_at": "2026-07-30T05:39:38Z",
+    "updated_at": "2026-08-05T18:40:07Z",
+    "pushed_at": "2026-08-04T14:56:51Z",
+    "git_url": "git://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer.git",
+    "homepage": null,
+    "size": 18096,
+    "stargazers_count": 3373,
+    "watchers_count": 3373,
+    "language": null,
+    "forks_count": 410,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1300173275,
+    "name": "deja-vu",
+    "owner": {
+      "id": 99616188,
+      "url": "https://api.github.com/users/vshulcz",
+      "html_url": "https://github.com/vshulcz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99616188?v=4"
+    },
+    "html_url": "https://github.com/vshulcz/deja-vu",
+    "description": "Your agents already solved this. deja finds it — it indexes the sessions your coding agents already wrote to disk, months of history from before you installed it, and recalls them automatically at session start across seventeen harnesses. 84.9% hit@1 on LongMemEval-S, no LLM, no embeddings. One zero-dep binary, fully local.",
+    "created_at": "2026-07-14T07:45:44Z",
+    "updated_at": "2026-08-05T19:29:49Z",
+    "pushed_at": "2026-08-05T14:44:54Z",
+    "git_url": "git://github.com/vshulcz/deja-vu.git",
+    "homepage": "https://vshulcz.github.io/deja-vu/",
+    "size": 12181,
+    "stargazers_count": 571,
+    "watchers_count": 571,
+    "language": "Go",
+    "forks_count": 40,
+    "open_issues_count": 54
+  },
+  {
+    "id": 1320478712,
+    "name": "rangi",
+    "owner": {
+      "id": 5158436,
+      "url": "https://api.github.com/users/pi0",
+      "html_url": "https://github.com/pi0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5158436?v=4"
+    },
+    "html_url": "https://github.com/pi0/rangi",
+    "description": "🎨 Tiny Syntax Highlighter",
+    "created_at": "2026-08-02T18:26:38Z",
+    "updated_at": "2026-08-05T19:06:56Z",
+    "pushed_at": "2026-08-05T14:11:48Z",
+    "git_url": "git://github.com/pi0/rangi.git",
+    "homepage": "",
+    "size": 3730,
+    "stargazers_count": 86,
+    "watchers_count": 86,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
