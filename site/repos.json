@@ -69228,5 +69228,51 @@
     "language": "Python",
     "forks_count": 4,
     "open_issues_count": 3
+  },
+  {
+    "id": 1299227072,
+    "name": "oh-my-cli",
+    "owner": {
+      "id": 269191875,
+      "url": "https://api.github.com/users/qwen-code-dev-bot",
+      "html_url": "https://github.com/qwen-code-dev-bot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269191875?v=4"
+    },
+    "html_url": "https://github.com/qwen-code-dev-bot/oh-my-cli",
+    "description": "A minimal autonomous code-agent CLI built with Qwen Code",
+    "created_at": "2026-07-13T11:43:52Z",
+    "updated_at": "2026-08-06T12:51:58Z",
+    "pushed_at": "2026-08-06T04:47:38Z",
+    "git_url": "git://github.com/qwen-code-dev-bot/oh-my-cli.git",
+    "homepage": null,
+    "size": 3099,
+    "stargazers_count": 640,
+    "watchers_count": 640,
+    "language": "TypeScript",
+    "forks_count": 57,
+    "open_issues_count": 58
+  },
+  {
+    "id": 1322224172,
+    "name": "react-native-nitro-theme-transition",
+    "owner": {
+      "id": 92924350,
+      "url": "https://api.github.com/users/saleh2001k",
+      "html_url": "https://github.com/saleh2001k",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92924350?v=4"
+    },
+    "html_url": "https://github.com/saleh2001k/react-native-nitro-theme-transition",
+    "description": "Native theme transitions for React Native with Nitro Modules",
+    "created_at": "2026-08-03T20:48:01Z",
+    "updated_at": "2026-08-06T14:02:25Z",
+    "pushed_at": "2026-08-06T14:19:31Z",
+    "git_url": "git://github.com/saleh2001k/react-native-nitro-theme-transition.git",
+    "homepage": null,
+    "size": 20277,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": "Kotlin",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
