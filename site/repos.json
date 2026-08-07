@@ -69136,5 +69136,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1308919753,
+    "name": "Crisp",
+    "owner": {
+      "id": 17567687,
+      "url": "https://api.github.com/users/didriksg",
+      "html_url": "https://github.com/didriksg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17567687?v=4"
+    },
+    "html_url": "https://github.com/didriksg/Crisp",
+    "description": "Free, open-source external monitor control for macOS: a lightweight menu bar app with sharp HiDPI/Retina scaling (no more blurry or tiny text), DDC brightness, presets, and virtual displays. A free alternative to BetterDisplay and Lunar, including features they charge for.",
+    "created_at": "2026-07-22T14:30:56Z",
+    "updated_at": "2026-08-06T13:15:36Z",
+    "pushed_at": "2026-08-06T14:12:10Z",
+    "git_url": "git://github.com/didriksg/Crisp.git",
+    "homepage": "https://didriksg.github.io/Crisp/",
+    "size": 12928,
+    "stargazers_count": 609,
+    "watchers_count": 609,
+    "language": "Swift",
+    "forks_count": 23,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1321770621,
+    "name": "MiniMax-H3-FineTuning",
+    "owner": {
+      "id": 54802802,
+      "url": "https://api.github.com/users/IAmIronMan42",
+      "html_url": "https://github.com/IAmIronMan42",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54802802?v=4"
+    },
+    "html_url": "https://github.com/IAmIronMan42/MiniMax-H3-FineTuning",
+    "description": null,
+    "created_at": "2026-08-03T12:43:01Z",
+    "updated_at": "2026-08-05T14:08:55Z",
+    "pushed_at": "2026-08-03T16:51:32Z",
+    "git_url": "git://github.com/IAmIronMan42/MiniMax-H3-FineTuning.git",
+    "homepage": null,
+    "size": 8501,
+    "stargazers_count": 73,
+    "watchers_count": 73,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
