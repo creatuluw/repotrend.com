@@ -69458,5 +69458,51 @@
     "language": "HTML",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1324578069,
+    "name": "asm-hall-of-shame",
+    "owner": {
+      "id": 12904366,
+      "url": "https://api.github.com/users/xoreaxeaxeax",
+      "html_url": "https://github.com/xoreaxeaxeax",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12904366?v=4"
+    },
+    "html_url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+    "description": "Racing to the bottom of CPU performance",
+    "created_at": "2026-08-06T00:08:06Z",
+    "updated_at": "2026-08-09T18:37:59Z",
+    "pushed_at": "2026-08-06T19:05:17Z",
+    "git_url": "git://github.com/xoreaxeaxeax/asm-hall-of-shame.git",
+    "homepage": null,
+    "size": 241,
+    "stargazers_count": 641,
+    "watchers_count": 641,
+    "language": "C",
+    "forks_count": 6,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1325206693,
+    "name": "juror",
+    "owner": {
+      "id": 314188773,
+      "url": "https://api.github.com/users/Juror-AI",
+      "html_url": "https://github.com/Juror-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/314188773?v=4"
+    },
+    "html_url": "https://github.com/Juror-AI/juror",
+    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
+    "created_at": "2026-08-06T12:24:49Z",
+    "updated_at": "2026-08-09T15:51:08Z",
+    "pushed_at": "2026-08-09T09:17:26Z",
+    "git_url": "git://github.com/Juror-AI/juror.git",
+    "homepage": "https://github.com/juror-ai/juror",
+    "size": 565,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": "TypeScript",
+    "forks_count": 9,
+    "open_issues_count": 7
   }
 ]
