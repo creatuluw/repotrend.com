@@ -69504,5 +69504,51 @@
     "language": "TypeScript",
     "forks_count": 9,
     "open_issues_count": 7
+  },
+  {
+    "id": 1309505221,
+    "name": "Auto-BenchMax",
+    "owner": {
+      "id": 308224278,
+      "url": "https://api.github.com/users/sunny-glow",
+      "html_url": "https://github.com/sunny-glow",
+      "avatar_url": "https://avatars.githubusercontent.com/u/308224278?v=4"
+    },
+    "html_url": "https://github.com/sunny-glow/Auto-BenchMax",
+    "description": null,
+    "created_at": "2026-07-23T04:13:21Z",
+    "updated_at": "2026-08-10T01:48:08Z",
+    "pushed_at": "2026-07-24T03:52:24Z",
+    "git_url": "git://github.com/sunny-glow/Auto-BenchMax.git",
+    "homepage": null,
+    "size": 75580,
+    "stargazers_count": 931,
+    "watchers_count": 931,
+    "language": "Python",
+    "forks_count": 28,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1327925844,
+    "name": "DouJi",
+    "owner": {
+      "id": 305864123,
+      "url": "https://api.github.com/users/17512520835",
+      "html_url": "https://github.com/17512520835",
+      "avatar_url": "https://avatars.githubusercontent.com/u/305864123?v=4"
+    },
+    "html_url": "https://github.com/17512520835/DouJi",
+    "description": "用作电子桌游-斗鸡-一技之长 及相关迭代版本与电子素材存放处",
+    "created_at": "2026-08-08T16:03:45Z",
+    "updated_at": "2026-08-09T20:35:25Z",
+    "pushed_at": "2026-08-09T05:49:31Z",
+    "git_url": "git://github.com/17512520835/DouJi.git",
+    "homepage": null,
+    "size": 33567,
+    "stargazers_count": 59,
+    "watchers_count": 59,
+    "language": "HTML",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
