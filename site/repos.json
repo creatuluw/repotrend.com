@@ -69412,5 +69412,51 @@
     "language": "Batchfile",
     "forks_count": 3,
     "open_issues_count": 2
+  },
+  {
+    "id": 1320242285,
+    "name": "doc7",
+    "owner": {
+      "id": 266043650,
+      "url": "https://api.github.com/users/magicrew",
+      "html_url": "https://github.com/magicrew",
+      "avatar_url": "https://avatars.githubusercontent.com/u/266043650?v=4"
+    },
+    "html_url": "https://github.com/magicrew/doc7",
+    "description": "Turn documents into AI-ready Markdown with visual understanding",
+    "created_at": "2026-08-02T14:03:55Z",
+    "updated_at": "2026-08-08T18:40:32Z",
+    "pushed_at": "2026-08-07T12:08:40Z",
+    "git_url": "git://github.com/magicrew/doc7.git",
+    "homepage": null,
+    "size": 508,
+    "stargazers_count": 724,
+    "watchers_count": 724,
+    "language": "Go",
+    "forks_count": 26,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1327939014,
+    "name": "irl-vision-script-executor",
+    "owner": {
+      "id": 314102493,
+      "url": "https://api.github.com/users/felixr1984",
+      "html_url": "https://github.com/felixr1984",
+      "avatar_url": "https://avatars.githubusercontent.com/u/314102493?v=4"
+    },
+    "html_url": "https://github.com/felixr1984/irl-vision-script-executor",
+    "description": "An efficient vision overlay system for PC gaming environments designed to enhance spatial perception and situational clarity. Offers dependable execution, streamlined configuration, and support for 2026 PC gaming setups.",
+    "created_at": "2026-08-08T16:17:46Z",
+    "updated_at": "2026-08-09T18:08:06Z",
+    "pushed_at": "2026-08-09T18:07:52Z",
+    "git_url": "git://github.com/felixr1984/irl-vision-script-executor.git",
+    "homepage": null,
+    "size": 28,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
