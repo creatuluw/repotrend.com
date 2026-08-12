@@ -69711,5 +69711,74 @@
     "language": "Python",
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1309331155,
+    "name": "scriptc",
+    "owner": {
+      "id": 108547162,
+      "url": "https://api.github.com/users/vercel-labs",
+      "html_url": "https://github.com/vercel-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+    },
+    "html_url": "https://github.com/vercel-labs/scriptc",
+    "description": "TypeScript-to-Native Compiler",
+    "created_at": "2026-07-22T23:04:54Z",
+    "updated_at": "2026-08-11T19:13:57Z",
+    "pushed_at": "2026-08-11T19:12:59Z",
+    "git_url": "git://github.com/vercel-labs/scriptc.git",
+    "homepage": "https://scriptc.dev",
+    "size": 14700,
+    "stargazers_count": 3362,
+    "watchers_count": 3362,
+    "language": "TypeScript",
+    "forks_count": 78,
+    "open_issues_count": 35
+  },
+  {
+    "id": 1324208491,
+    "name": "comfyui-minimax-h3-audio-T8",
+    "owner": {
+      "id": 96167788,
+      "url": "https://api.github.com/users/T8mars",
+      "html_url": "https://github.com/T8mars",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96167788?v=4"
+    },
+    "html_url": "https://github.com/T8mars/comfyui-minimax-h3-audio-T8",
+    "description": null,
+    "created_at": "2026-08-05T15:30:15Z",
+    "updated_at": "2026-08-10T17:02:24Z",
+    "pushed_at": "2026-08-10T04:15:21Z",
+    "git_url": "git://github.com/T8mars/comfyui-minimax-h3-audio-T8.git",
+    "homepage": null,
+    "size": 725,
+    "stargazers_count": 584,
+    "watchers_count": 584,
+    "language": "Python",
+    "forks_count": 30,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1329477354,
+    "name": "korean-report-skills",
+    "owner": {
+      "id": 177508648,
+      "url": "https://api.github.com/users/JangHyun-bin",
+      "html_url": "https://github.com/JangHyun-bin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/177508648?v=4"
+    },
+    "html_url": "https://github.com/JangHyun-bin/korean-report-skills",
+    "description": "Claude가 만든 한국어 문서가 어딘가 이상할 때 — 문장 표현과 디자인을 보완하는 Agent Skills",
+    "created_at": "2026-08-10T05:59:19Z",
+    "updated_at": "2026-08-11T17:01:02Z",
+    "pushed_at": "2026-08-11T09:20:54Z",
+    "git_url": "git://github.com/JangHyun-bin/korean-report-skills.git",
+    "homepage": "",
+    "size": 2042,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 0
   }
 ]
