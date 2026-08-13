@@ -69964,5 +69964,74 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1331135699,
+    "name": "watermarks-remover",
+    "owner": {
+      "id": 1385518,
+      "url": "https://api.github.com/users/guillaumemeyer",
+      "html_url": "https://github.com/guillaumemeyer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1385518?v=4"
+    },
+    "html_url": "https://github.com/guillaumemeyer/watermarks-remover",
+    "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+    "created_at": "2026-08-11T16:32:38Z",
+    "updated_at": "2026-08-13T07:37:58Z",
+    "pushed_at": "2026-08-13T04:32:11Z",
+    "git_url": "git://github.com/guillaumemeyer/watermarks-remover.git",
+    "homepage": "https://github.com/guillaumemeyer/watermarks-remover",
+    "size": 217,
+    "stargazers_count": 3229,
+    "watchers_count": 3229,
+    "language": "Python",
+    "forks_count": 313,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1320444346,
+    "name": "super-simple-software-factory",
+    "owner": {
+      "id": 7570811,
+      "url": "https://api.github.com/users/disler",
+      "html_url": "https://github.com/disler",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7570811?v=4"
+    },
+    "html_url": "https://github.com/disler/super-simple-software-factory",
+    "description": "Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
+    "created_at": "2026-08-02T17:41:00Z",
+    "updated_at": "2026-08-12T18:29:04Z",
+    "pushed_at": "2026-08-04T13:43:58Z",
+    "git_url": "git://github.com/disler/super-simple-software-factory.git",
+    "homepage": "https://youtu.be/haUfb1ievTE",
+    "size": 10005,
+    "stargazers_count": 610,
+    "watchers_count": 610,
+    "language": "Python",
+    "forks_count": 144,
+    "open_issues_count": 11
+  },
+  {
+    "id": 1328035329,
+    "name": "surreal-pop-collage",
+    "owner": {
+      "id": 314663920,
+      "url": "https://api.github.com/users/2998980-hue",
+      "html_url": "https://github.com/2998980-hue",
+      "avatar_url": "https://avatars.githubusercontent.com/u/314663920?v=4"
+    },
+    "html_url": "https://github.com/2998980-hue/surreal-pop-collage",
+    "description": "把照片变成超现实波普拼贴的 AI agent skill：黑白现实锚点 + 平涂色形 + 全图只有一个不可能的巨物。An agent skill that turns photos into surreal pop collages.",
+    "created_at": "2026-08-08T18:11:15Z",
+    "updated_at": "2026-08-11T18:27:04Z",
+    "pushed_at": "2026-08-08T18:11:19Z",
+    "git_url": "git://github.com/2998980-hue/surreal-pop-collage.git",
+    "homepage": null,
+    "size": 6,
+    "stargazers_count": 74,
+    "watchers_count": 74,
+    "language": null,
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
