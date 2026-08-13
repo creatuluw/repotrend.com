@@ -69780,5 +69780,74 @@
     "language": "Python",
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1288402762,
+    "name": "openscience",
+    "owner": {
+      "id": 220546587,
+      "url": "https://api.github.com/users/synthetic-sciences",
+      "html_url": "https://github.com/synthetic-sciences",
+      "avatar_url": "https://avatars.githubusercontent.com/u/220546587?v=4"
+    },
+    "html_url": "https://github.com/synthetic-sciences/openscience",
+    "description": "The open-source AI workbench for scientific research",
+    "created_at": "2026-07-03T15:06:45Z",
+    "updated_at": "2026-08-12T19:14:01Z",
+    "pushed_at": "2026-08-12T16:09:29Z",
+    "git_url": "git://github.com/synthetic-sciences/openscience.git",
+    "homepage": "https://openscience.sh",
+    "size": 59266,
+    "stargazers_count": 3220,
+    "watchers_count": 3220,
+    "language": "TypeScript",
+    "forks_count": 441,
+    "open_issues_count": 13
+  },
+  {
+    "id": 1327502931,
+    "name": "kage",
+    "owner": {
+      "id": 1065452,
+      "url": "https://api.github.com/users/MengTo",
+      "html_url": "https://github.com/MengTo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1065452?v=4"
+    },
+    "html_url": "https://github.com/MengTo/kage",
+    "description": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
+    "created_at": "2026-08-08T07:05:07Z",
+    "updated_at": "2026-08-12T18:30:45Z",
+    "pushed_at": "2026-08-09T04:46:45Z",
+    "git_url": "git://github.com/MengTo/kage.git",
+    "homepage": "https://mengto.github.io/kage/",
+    "size": 23703,
+    "stargazers_count": 850,
+    "watchers_count": 850,
+    "language": "HTML",
+    "forks_count": 153,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1328071703,
+    "name": "MiniMax-H3-ComfyUI",
+    "owner": {
+      "id": 97532292,
+      "url": "https://api.github.com/users/MiniMaxH3ComfyUI",
+      "html_url": "https://github.com/MiniMaxH3ComfyUI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97532292?v=4"
+    },
+    "html_url": "https://github.com/MiniMaxH3ComfyUI/MiniMax-H3-ComfyUI",
+    "description": "MiniMax H3 ComfyUI - Run MiniMax turbo lora H3 33B omni-modal AI model locally with ComfyUI workflow. Text-to-video, image-to-video, reference-to-video generation with native stereo audio. ComfyUI custom nodes, workflow templates (T2V, I2V, R2V), H3-VisualVAE and H3-AudioVAE decoders. ComfyUI v0.31.0 support. 4-15s video at 768p. github",
+    "created_at": "2026-08-08T18:56:53Z",
+    "updated_at": "2026-08-11T15:43:15Z",
+    "pushed_at": "2026-08-08T19:46:08Z",
+    "git_url": "git://github.com/MiniMaxH3ComfyUI/MiniMax-H3-ComfyUI.git",
+    "homepage": "",
+    "size": 67,
+    "stargazers_count": 76,
+    "watchers_count": 76,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
