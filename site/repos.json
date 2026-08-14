@@ -70125,5 +70125,51 @@
     "language": null,
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1323076116,
+    "name": "prehistoric-animal-museum",
+    "owner": {
+      "id": 8357465,
+      "url": "https://api.github.com/users/s010s",
+      "html_url": "https://github.com/s010s",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8357465?v=4"
+    },
+    "html_url": "https://github.com/s010s/prehistoric-animal-museum",
+    "description": "A calm, parent-and-child 3D prehistoric animal museum.",
+    "created_at": "2026-08-04T15:01:54Z",
+    "updated_at": "2026-08-12T17:34:37Z",
+    "pushed_at": "2026-08-10T05:28:40Z",
+    "git_url": "git://github.com/s010s/prehistoric-animal-museum.git",
+    "homepage": null,
+    "size": 187939,
+    "stargazers_count": 516,
+    "watchers_count": 516,
+    "language": "TypeScript",
+    "forks_count": 74,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1328961343,
+    "name": "MINDTECH",
+    "owner": {
+      "id": 315038854,
+      "url": "https://api.github.com/users/MINDTECH-Industries",
+      "html_url": "https://github.com/MINDTECH-Industries",
+      "avatar_url": "https://avatars.githubusercontent.com/u/315038854?v=4"
+    },
+    "html_url": "https://github.com/MINDTECH-Industries/MINDTECH",
+    "description": "Industrial warfare, realistic processing, vehicles, and payload logistics for Mindustry v8.",
+    "created_at": "2026-08-09T15:54:47Z",
+    "updated_at": "2026-08-12T18:16:56Z",
+    "pushed_at": "2026-08-11T06:16:49Z",
+    "git_url": "git://github.com/MINDTECH-Industries/MINDTECH.git",
+    "homepage": null,
+    "size": 4257,
+    "stargazers_count": 71,
+    "watchers_count": 71,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
