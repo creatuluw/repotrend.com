@@ -70033,5 +70033,51 @@
     "language": null,
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1326574350,
+    "name": "mcp-server",
+    "owner": {
+      "id": 299902966,
+      "url": "https://api.github.com/users/sv-number",
+      "html_url": "https://github.com/sv-number",
+      "avatar_url": "https://avatars.githubusercontent.com/u/299902966?v=4"
+    },
+    "html_url": "https://github.com/sv-number/mcp-server",
+    "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
+    "created_at": "2026-08-07T11:13:26Z",
+    "updated_at": "2026-08-11T19:05:55Z",
+    "pushed_at": "2026-08-10T18:55:24Z",
+    "git_url": "git://github.com/sv-number/mcp-server.git",
+    "homepage": "https://sms-verification-number.com/en/number-for-ai-agents/",
+    "size": 84,
+    "stargazers_count": 604,
+    "watchers_count": 604,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1329008682,
+    "name": "systematic-etf-relative-strength-alpha-attribution",
+    "owner": {
+      "id": 233188238,
+      "url": "https://api.github.com/users/wenqi9115-glitch",
+      "html_url": "https://github.com/wenqi9115-glitch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/233188238?v=4"
+    },
+    "html_url": "https://github.com/wenqi9115-glitch/systematic-etf-relative-strength-alpha-attribution",
+    "description": "Systematic ETF relative-strength research, overlapping-sleeve portfolio construction, LEAN implementation, and factor attribution.",
+    "created_at": "2026-08-09T16:52:20Z",
+    "updated_at": "2026-08-11T10:56:25Z",
+    "pushed_at": "2026-08-10T06:44:54Z",
+    "git_url": "git://github.com/wenqi9115-glitch/systematic-etf-relative-strength-alpha-attribution.git",
+    "homepage": null,
+    "size": 121,
+    "stargazers_count": 75,
+    "watchers_count": 75,
+    "language": "Jupyter Notebook",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
