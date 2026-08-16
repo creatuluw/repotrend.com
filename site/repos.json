@@ -70171,5 +70171,74 @@
     "language": "JavaScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1319419492,
+    "name": "gathered-scenes-zine-skill",
+    "owner": {
+      "id": 308046376,
+      "url": "https://api.github.com/users/Zeejay0",
+      "html_url": "https://github.com/Zeejay0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/308046376?v=4"
+    },
+    "html_url": "https://github.com/Zeejay0/gathered-scenes-zine-skill",
+    "description": null,
+    "created_at": "2026-08-01T15:50:05Z",
+    "updated_at": "2026-08-15T17:57:11Z",
+    "pushed_at": "2026-08-11T18:47:10Z",
+    "git_url": "git://github.com/Zeejay0/gathered-scenes-zine-skill.git",
+    "homepage": null,
+    "size": 4398,
+    "stargazers_count": 3635,
+    "watchers_count": 3635,
+    "language": null,
+    "forks_count": 409,
+    "open_issues_count": 10
+  },
+  {
+    "id": 1319174653,
+    "name": "agent-vision-toolkit",
+    "owner": {
+      "id": 123177548,
+      "url": "https://api.github.com/users/Anionex",
+      "html_url": "https://github.com/Anionex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123177548?v=4"
+    },
+    "html_url": "https://github.com/Anionex/agent-vision-toolkit",
+    "description": "为纯文本模型\"看图“设计更好的视觉工具箱和技能，支持多图理解，图片问答，前端UI还原、GUI 自动化等，并可选无缝接入多个主流agent，直接识别粘贴图片｜ A vision toolkit and skill designed for text-only llms — image Q&A, long-screenshot OCR, frontend UI restoration, and GUI automation, with optional seamless integration for Codex, Claude Code, Pi, Oh My Pi, and OpenCode",
+    "created_at": "2026-08-01T10:00:13Z",
+    "updated_at": "2026-08-14T18:48:26Z",
+    "pushed_at": "2026-08-14T15:03:42Z",
+    "git_url": "git://github.com/Anionex/agent-vision-toolkit.git",
+    "homepage": "https://agent-vision.anionex.me",
+    "size": 27338,
+    "stargazers_count": 829,
+    "watchers_count": 829,
+    "language": "Python",
+    "forks_count": 29,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1334051605,
+    "name": "k8s-cpu-limits-analyzed",
+    "owner": {
+      "id": 53948000,
+      "url": "https://api.github.com/users/inevolin",
+      "html_url": "https://github.com/inevolin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53948000?v=4"
+    },
+    "html_url": "https://github.com/inevolin/k8s-cpu-limits-analyzed",
+    "description": "Kubernetes CPU limits make your apps (very) slow and costly",
+    "created_at": "2026-08-14T10:13:52Z",
+    "updated_at": "2026-08-15T16:39:11Z",
+    "pushed_at": "2026-08-14T10:39:37Z",
+    "git_url": "git://github.com/inevolin/k8s-cpu-limits-analyzed.git",
+    "homepage": "",
+    "size": 446,
+    "stargazers_count": 55,
+    "watchers_count": 55,
+    "language": "Shell",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
