@@ -70240,5 +70240,74 @@
     "language": "Shell",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1304486109,
+    "name": "gen1recomp",
+    "owner": {
+      "id": 116906279,
+      "url": "https://api.github.com/users/bryanthaboi",
+      "html_url": "https://github.com/bryanthaboi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/116906279?v=4"
+    },
+    "html_url": "https://github.com/bryanthaboi/gen1recomp",
+    "description": "Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1 Poke ",
+    "created_at": "2026-07-18T00:29:27Z",
+    "updated_at": "2026-08-20T18:03:52Z",
+    "pushed_at": "2026-08-20T17:16:06Z",
+    "git_url": "git://github.com/bryanthaboi/gen1recomp.git",
+    "homepage": "",
+    "size": 68358,
+    "stargazers_count": 3260,
+    "watchers_count": 3260,
+    "language": "C",
+    "forks_count": 286,
+    "open_issues_count": 83
+  },
+  {
+    "id": 1322825368,
+    "name": "ComfyUI_MiniMaxH3_Director",
+    "owner": {
+      "id": 201197786,
+      "url": "https://api.github.com/users/huangserva",
+      "html_url": "https://github.com/huangserva",
+      "avatar_url": "https://avatars.githubusercontent.com/u/201197786?v=4"
+    },
+    "html_url": "https://github.com/huangserva/ComfyUI_MiniMaxH3_Director",
+    "description": "ComfyUI MiniMax H3 Director workflow",
+    "created_at": "2026-08-04T10:39:02Z",
+    "updated_at": "2026-08-19T14:19:20Z",
+    "pushed_at": "2026-08-04T10:45:16Z",
+    "git_url": "git://github.com/huangserva/ComfyUI_MiniMaxH3_Director.git",
+    "homepage": null,
+    "size": 10,
+    "stargazers_count": 699,
+    "watchers_count": 699,
+    "language": null,
+    "forks_count": 72,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1337169305,
+    "name": "The-Choicer-Voicer",
+    "owner": {
+      "id": 279131417,
+      "url": "https://api.github.com/users/YeahMaybeee",
+      "html_url": "https://github.com/YeahMaybeee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279131417?v=4"
+    },
+    "html_url": "https://github.com/YeahMaybeee/The-Choicer-Voicer",
+    "description": "The Choicer Voicer, a game show where your voice is the star!",
+    "created_at": "2026-08-17T12:54:48Z",
+    "updated_at": "2026-08-20T17:17:56Z",
+    "pushed_at": "2026-08-20T11:05:07Z",
+    "git_url": "git://github.com/YeahMaybeee/The-Choicer-Voicer.git",
+    "homepage": "",
+    "size": 15,
+    "stargazers_count": 75,
+    "watchers_count": 75,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
