@@ -1,51 +1,5 @@
 [
   {
-    "id": 1340203885,
-    "name": "Multiroblox-extension-2026",
-    "owner": {
-      "id": 196663580,
-      "url": "https://api.github.com/users/kich2",
-      "html_url": "https://github.com/kich2",
-      "avatar_url": "https://avatars.githubusercontent.com/u/196663580?v=4"
-    },
-    "html_url": "https://github.com/kich2/Multiroblox-extension-2026",
-    "description": "MultiRoblox is a powerful Chrome extension that lets you manage multiple Roblox accounts quickly and securely — all from one place.",
-    "created_at": "2026-08-20T02:27:47Z",
-    "updated_at": "2026-08-22T09:31:09Z",
-    "pushed_at": "2026-08-22T09:29:51Z",
-    "git_url": "git://github.com/kich2/Multiroblox-extension-2026.git",
-    "homepage": "",
-    "size": 807,
-    "stargazers_count": 96,
-    "watchers_count": 96,
-    "language": null,
-    "forks_count": 33,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1339934566,
-    "name": "DoveVannoINostriSoldi",
-    "owner": {
-      "id": 293428248,
-      "url": "https://api.github.com/users/Italian-Builders-Org",
-      "html_url": "https://github.com/Italian-Builders-Org",
-      "avatar_url": "https://avatars.githubusercontent.com/u/293428248?v=4"
-    },
-    "html_url": "https://github.com/Italian-Builders-Org/DoveVannoINostriSoldi",
-    "description": "Raccogliamo e analizziamo i dati sulla spesa pubblica italiana per individuare, grazie all’AI, dove è possibile migliorare l’efficienza e l’utilizzo delle risorse pubbliche.",
-    "created_at": "2026-08-19T19:03:40Z",
-    "updated_at": "2026-08-22T12:34:33Z",
-    "pushed_at": "2026-08-22T07:11:12Z",
-    "git_url": "git://github.com/Italian-Builders-Org/DoveVannoINostriSoldi.git",
-    "homepage": "https://www.dovevannoinostrisoldi.com/",
-    "size": 4409,
-    "stargazers_count": 95,
-    "watchers_count": 95,
-    "language": "TypeScript",
-    "forks_count": 10,
-    "open_issues_count": 5
-  },
-  {
     "id": 1339814945,
     "name": "hanji",
     "owner": {
@@ -57,39 +11,16 @@
     "html_url": "https://github.com/sxzz/hanji",
     "description": "探索中国大陆、香港、台湾、日本、韩国的常用汉字",
     "created_at": "2026-08-19T16:48:39Z",
-    "updated_at": "2026-08-22T12:28:42Z",
-    "pushed_at": "2026-08-21T07:26:16Z",
+    "updated_at": "2026-08-22T18:07:20Z",
+    "pushed_at": "2026-08-22T18:06:35Z",
     "git_url": "git://github.com/sxzz/hanji.git",
     "homepage": "https://hanji.sxzz.moe",
-    "size": 1438,
+    "size": 1505,
     "stargazers_count": 94,
     "watchers_count": 94,
     "language": "TypeScript",
     "forks_count": 5,
     "open_issues_count": 2
-  },
-  {
-    "id": 1341264609,
-    "name": "cs-board",
-    "owner": {
-      "id": 220584709,
-      "url": "https://api.github.com/users/ChenShuo2004",
-      "html_url": "https://github.com/ChenShuo2004",
-      "avatar_url": "https://avatars.githubusercontent.com/u/220584709?v=4"
-    },
-    "html_url": "https://github.com/ChenShuo2004/cs-board",
-    "description": "将参考声音和中文文案自动生成白板动画视频的本地 AI 工具。",
-    "created_at": "2026-08-21T00:50:30Z",
-    "updated_at": "2026-08-22T11:53:30Z",
-    "pushed_at": "2026-08-22T00:31:30Z",
-    "git_url": "git://github.com/ChenShuo2004/cs-board.git",
-    "homepage": null,
-    "size": 33940,
-    "stargazers_count": 87,
-    "watchers_count": 87,
-    "language": "Python",
-    "forks_count": 17,
-    "open_issues_count": 0
   },
   {
     "id": 1340437754,
@@ -103,15 +34,15 @@
     "html_url": "https://github.com/kunchenguid/grok-ship",
     "description": "Turn your Grok Bot into a software factory.",
     "created_at": "2026-08-20T07:58:23Z",
-    "updated_at": "2026-08-22T12:01:24Z",
+    "updated_at": "2026-08-22T18:08:47Z",
     "pushed_at": "2026-08-20T18:06:40Z",
     "git_url": "git://github.com/kunchenguid/grok-ship.git",
     "homepage": "",
     "size": 23,
-    "stargazers_count": 87,
-    "watchers_count": 87,
+    "stargazers_count": 89,
+    "watchers_count": 89,
     "language": null,
-    "forks_count": 5,
+    "forks_count": 6,
     "open_issues_count": 0
   },
   {
@@ -126,11 +57,11 @@
     "html_url": "https://github.com/AinxietyLab/VidScribe",
     "description": null,
     "created_at": "2026-08-19T08:50:49Z",
-    "updated_at": "2026-08-21T19:55:54Z",
-    "pushed_at": "2026-08-20T16:20:41Z",
+    "updated_at": "2026-08-22T14:08:43Z",
+    "pushed_at": "2026-08-22T14:08:37Z",
     "git_url": "git://github.com/AinxietyLab/VidScribe.git",
     "homepage": null,
-    "size": 780,
+    "size": 973,
     "stargazers_count": 87,
     "watchers_count": 87,
     "language": "TypeScript",
@@ -161,6 +92,29 @@
     "open_issues_count": 0
   },
   {
+    "id": 1341050308,
+    "name": "seed",
+    "owner": {
+      "id": 34522,
+      "url": "https://api.github.com/users/vivekhaldar",
+      "html_url": "https://github.com/vivekhaldar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34522?v=4"
+    },
+    "html_url": "https://github.com/vivekhaldar/seed",
+    "description": "A seed agent: the smallest starting point from which an agent can grow",
+    "created_at": "2026-08-20T18:53:51Z",
+    "updated_at": "2026-08-22T18:31:22Z",
+    "pushed_at": "2026-08-21T15:52:53Z",
+    "git_url": "git://github.com/vivekhaldar/seed.git",
+    "homepage": null,
+    "size": 27,
+    "stargazers_count": 84,
+    "watchers_count": 84,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0
+  },
+  {
     "id": 1339923788,
     "name": "ELVET",
     "owner": {
@@ -184,29 +138,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1341050308,
-    "name": "seed",
-    "owner": {
-      "id": 34522,
-      "url": "https://api.github.com/users/vivekhaldar",
-      "html_url": "https://github.com/vivekhaldar",
-      "avatar_url": "https://avatars.githubusercontent.com/u/34522?v=4"
-    },
-    "html_url": "https://github.com/vivekhaldar/seed",
-    "description": "A seed agent: the smallest starting point from which an agent can grow",
-    "created_at": "2026-08-20T18:53:51Z",
-    "updated_at": "2026-08-22T12:24:28Z",
-    "pushed_at": "2026-08-21T15:52:53Z",
-    "git_url": "git://github.com/vivekhaldar/seed.git",
-    "homepage": null,
-    "size": 27,
-    "stargazers_count": 82,
-    "watchers_count": 82,
-    "language": "Python",
-    "forks_count": 4,
-    "open_issues_count": 0
-  },
-  {
     "id": 1339626588,
     "name": "polymarket-arbitrage-bot-60s-twap",
     "owner": {
@@ -218,13 +149,13 @@
     "html_url": "https://github.com/cryptomoonday/polymarket-arbitrage-bot-60s-twap",
     "description": "polymarket arbitrage bot version 2 - 60s twap implementation",
     "created_at": "2026-08-19T13:37:51Z",
-    "updated_at": "2026-08-22T10:07:31Z",
+    "updated_at": "2026-08-22T13:25:56Z",
     "pushed_at": "2026-08-19T13:55:58Z",
     "git_url": "git://github.com/cryptomoonday/polymarket-arbitrage-bot-60s-twap.git",
     "homepage": "https://polymarket.com/@moond",
     "size": 16299,
-    "stargazers_count": 82,
-    "watchers_count": 82,
+    "stargazers_count": 83,
+    "watchers_count": 83,
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
@@ -249,7 +180,7 @@
     "stargazers_count": 80,
     "watchers_count": 80,
     "language": "Python",
-    "forks_count": 1,
+    "forks_count": 2,
     "open_issues_count": 0
   },
   {
@@ -276,6 +207,29 @@
     "open_issues_count": 2
   },
   {
+    "id": 1341487334,
+    "name": "c-road",
+    "owner": {
+      "id": 177131499,
+      "url": "https://api.github.com/users/Nour-yahyaoui",
+      "html_url": "https://github.com/Nour-yahyaoui",
+      "avatar_url": "https://avatars.githubusercontent.com/u/177131499?v=4"
+    },
+    "html_url": "https://github.com/Nour-yahyaoui/c-road",
+    "description": "Learn c lang using this repi",
+    "created_at": "2026-08-21T06:40:10Z",
+    "updated_at": "2026-08-22T16:25:33Z",
+    "pushed_at": "2026-08-22T03:30:40Z",
+    "git_url": "git://github.com/Nour-yahyaoui/c-road.git",
+    "homepage": "https://c-road-nu.vercel.app",
+    "size": 99,
+    "stargazers_count": 77,
+    "watchers_count": 77,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
     "id": 1339459045,
     "name": "omamail",
     "owner": {
@@ -285,18 +239,110 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/5518?v=4"
     },
     "html_url": "https://github.com/huacnlee/omamail",
-    "description": "Gmail and IMAP email client for Omarchy — read, triage, and reply to mail in a native Omarchy window instead of a browser tab. A Quickshell plugin: Gmail API, IMAP/SMTP, Fastmail, iCloud, Outlook, Zoho, Proton Bridge.",
+    "description": "Omarchy mail plugin with Gmail, HEY and IMAP supports.",
     "created_at": "2026-08-19T10:54:40Z",
-    "updated_at": "2026-08-21T19:11:11Z",
-    "pushed_at": "2026-08-21T16:37:15Z",
+    "updated_at": "2026-08-22T17:10:41Z",
+    "pushed_at": "2026-08-22T16:16:13Z",
     "git_url": "git://github.com/huacnlee/omamail.git",
     "homepage": "",
-    "size": 848,
-    "stargazers_count": 69,
-    "watchers_count": 69,
+    "size": 907,
+    "stargazers_count": 73,
+    "watchers_count": 73,
     "language": "JavaScript",
-    "forks_count": 10,
+    "forks_count": 12,
     "open_issues_count": 8
+  },
+  {
+    "id": 1341805689,
+    "name": "dsh-android",
+    "owner": {
+      "id": 218180147,
+      "url": "https://api.github.com/users/ZSeven-W",
+      "html_url": "https://github.com/ZSeven-W",
+      "avatar_url": "https://avatars.githubusercontent.com/u/218180147?v=4"
+    },
+    "html_url": "https://github.com/ZSeven-W/dsh-android",
+    "description": "DeepSeek Harness plugin for Android — build, run, and interact with a live emulator or USB device stream inside a conversation, driven entirely through adb.",
+    "created_at": "2026-08-21T12:48:38Z",
+    "updated_at": "2026-08-22T17:56:42Z",
+    "pushed_at": "2026-08-21T23:26:27Z",
+    "git_url": "git://github.com/ZSeven-W/dsh-android.git",
+    "homepage": null,
+    "size": 2826,
+    "stargazers_count": 72,
+    "watchers_count": 72,
+    "language": "TypeScript",
+    "forks_count": 6,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1342018006,
+    "name": "SU_IMD",
+    "owner": {
+      "id": 123844024,
+      "url": "https://api.github.com/users/soul-99",
+      "html_url": "https://github.com/soul-99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123844024?v=4"
+    },
+    "html_url": "https://github.com/soul-99/SU_IMD",
+    "description": null,
+    "created_at": "2026-08-21T16:34:08Z",
+    "updated_at": "2026-08-22T18:23:56Z",
+    "pushed_at": "2026-08-22T13:15:03Z",
+    "git_url": "git://github.com/soul-99/SU_IMD.git",
+    "homepage": null,
+    "size": 2344,
+    "stargazers_count": 72,
+    "watchers_count": 72,
+    "language": "Kotlin",
+    "forks_count": 2,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1340087390,
+    "name": "FL-Studio-Studio",
+    "owner": {
+      "id": 297632654,
+      "url": "https://api.github.com/users/FuelArchitect",
+      "html_url": "https://github.com/FuelArchitect",
+      "avatar_url": "https://avatars.githubusercontent.com/u/297632654?v=4"
+    },
+    "html_url": "https://github.com/FuelArchitect/FL-Studio-Studio",
+    "description": null,
+    "created_at": "2026-08-19T22:52:37Z",
+    "updated_at": "2026-08-22T18:02:27Z",
+    "pushed_at": "2026-08-19T22:53:03Z",
+    "git_url": "git://github.com/FuelArchitect/FL-Studio-Studio.git",
+    "homepage": "",
+    "size": 7,
+    "stargazers_count": 70,
+    "watchers_count": 70,
+    "language": null,
+    "forks_count": 28,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1340097602,
+    "name": "Trading-View-Pro-Suite-2026",
+    "owner": {
+      "id": 297631587,
+      "url": "https://api.github.com/users/FeelingDetective",
+      "html_url": "https://github.com/FeelingDetective",
+      "avatar_url": "https://avatars.githubusercontent.com/u/297631587?v=4"
+    },
+    "html_url": "https://github.com/FeelingDetective/Trading-View-Pro-Suite-2026",
+    "description": "Worldwide / Весь мир hub for TradingView Pro 2026 — tutorials and setup resources.",
+    "created_at": "2026-08-19T23:11:14Z",
+    "updated_at": "2026-08-22T18:04:40Z",
+    "pushed_at": "2026-08-19T23:11:39Z",
+    "git_url": "git://github.com/FeelingDetective/Trading-View-Pro-Suite-2026.git",
+    "homepage": "",
+    "size": 7,
+    "stargazers_count": 70,
+    "watchers_count": 70,
+    "language": null,
+    "forks_count": 35,
+    "open_issues_count": 0
   },
   {
     "id": 1338985108,
@@ -333,13 +379,13 @@
     "html_url": "https://github.com/patterniha/Free-Configs",
     "description": null,
     "created_at": "2026-08-20T11:11:56Z",
-    "updated_at": "2026-08-22T12:09:14Z",
+    "updated_at": "2026-08-22T14:50:32Z",
     "pushed_at": "2026-08-22T06:20:43Z",
     "git_url": "git://github.com/patterniha/Free-Configs.git",
     "homepage": null,
     "size": 875,
-    "stargazers_count": 68,
-    "watchers_count": 68,
+    "stargazers_count": 69,
+    "watchers_count": 69,
     "language": "Python",
     "forks_count": 7,
     "open_issues_count": 0
@@ -391,6 +437,29 @@
     "open_issues_count": 0
   },
   {
+    "id": 1338973223,
+    "name": "iudsim",
+    "owner": {
+      "id": 316136678,
+      "url": "https://api.github.com/users/THU-iUWLab",
+      "html_url": "https://github.com/THU-iUWLab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316136678?v=4"
+    },
+    "html_url": "https://github.com/THU-iUWLab/iudsim",
+    "description": null,
+    "created_at": "2026-08-19T01:13:58Z",
+    "updated_at": "2026-08-22T17:48:48Z",
+    "pushed_at": "2026-08-19T01:15:23Z",
+    "git_url": "git://github.com/THU-iUWLab/iudsim.git",
+    "homepage": null,
+    "size": 171709,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": null,
+    "forks_count": 1,
+    "open_issues_count": 0
+  },
+  {
     "id": 1341668491,
     "name": "links-onion-for-tor",
     "owner": {
@@ -437,26 +506,141 @@
     "open_issues_count": 1
   },
   {
-    "id": 1338973223,
-    "name": "iudsim",
+    "id": 1339021256,
+    "name": "TabTin",
     "owner": {
-      "id": 316136678,
-      "url": "https://api.github.com/users/THU-iUWLab",
-      "html_url": "https://github.com/THU-iUWLab",
-      "avatar_url": "https://avatars.githubusercontent.com/u/316136678?v=4"
+      "id": 318455733,
+      "url": "https://api.github.com/users/tabtin-ai",
+      "html_url": "https://github.com/tabtin-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/318455733?v=4"
     },
-    "html_url": "https://github.com/THU-iUWLab/iudsim",
+    "html_url": "https://github.com/tabtin-ai/TabTin",
+    "description": "A workspace where people and multiple AI agents work together.",
+    "created_at": "2026-08-19T02:36:25Z",
+    "updated_at": "2026-08-22T17:28:21Z",
+    "pushed_at": "2026-08-22T13:27:35Z",
+    "git_url": "git://github.com/tabtin-ai/TabTin.git",
+    "homepage": "https://www.tabtin.com/",
+    "size": 74323,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": "TypeScript",
+    "forks_count": 16,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1342654340,
+    "name": "AI-Glossary-Handbook",
+    "owner": {
+      "id": 61054142,
+      "url": "https://api.github.com/users/h9-tec",
+      "html_url": "https://github.com/h9-tec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61054142?v=4"
+    },
+    "html_url": "https://github.com/h9-tec/AI-Glossary-Handbook",
     "description": null,
-    "created_at": "2026-08-19T01:13:58Z",
-    "updated_at": "2026-08-22T12:26:55Z",
-    "pushed_at": "2026-08-19T01:15:23Z",
-    "git_url": "git://github.com/THU-iUWLab/iudsim.git",
+    "created_at": "2026-08-22T09:28:39Z",
+    "updated_at": "2026-08-22T18:33:35Z",
+    "pushed_at": "2026-08-22T09:31:08Z",
+    "git_url": "git://github.com/h9-tec/AI-Glossary-Handbook.git",
     "homepage": null,
-    "size": 171709,
+    "size": 74,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": null,
+    "forks_count": 5,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1340501779,
+    "name": "lieflat-less-ai-tone",
+    "owner": {
+      "id": 260030037,
+      "url": "https://api.github.com/users/larashero3-dotcom",
+      "html_url": "https://github.com/larashero3-dotcom",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260030037?v=4"
+    },
+    "html_url": "https://github.com/larashero3-dotcom/lieflat-less-ai-tone",
+    "description": "一个基于 283 万字语料统计的去 AI 味 skill · An AI-tone removal skill grounded in a 2.83-million-character corpus study",
+    "created_at": "2026-08-20T09:07:59Z",
+    "updated_at": "2026-08-22T18:21:35Z",
+    "pushed_at": "2026-08-21T03:16:56Z",
+    "git_url": "git://github.com/larashero3-dotcom/lieflat-less-ai-tone.git",
+    "homepage": null,
+    "size": 285,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1340923535,
+    "name": "tsundoku-psp",
+    "owner": {
+      "id": 319115686,
+      "url": "https://api.github.com/users/hash-asterisk",
+      "html_url": "https://github.com/hash-asterisk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/319115686?v=4"
+    },
+    "html_url": "https://github.com/hash-asterisk/tsundoku-psp",
+    "description": "manga reader for psp ",
+    "created_at": "2026-08-20T16:45:25Z",
+    "updated_at": "2026-08-22T17:05:13Z",
+    "pushed_at": "2026-08-21T12:54:56Z",
+    "git_url": "git://github.com/hash-asterisk/tsundoku-psp.git",
+    "homepage": "",
+    "size": 663,
     "stargazers_count": 60,
     "watchers_count": 60,
-    "language": null,
+    "language": "C++",
     "forks_count": 1,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1340508826,
+    "name": "monocode",
+    "owner": {
+      "id": 60738984,
+      "url": "https://api.github.com/users/hardbeat920",
+      "html_url": "https://github.com/hardbeat920",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60738984?v=4"
+    },
+    "html_url": "https://github.com/hardbeat920/monocode",
+    "description": "A GUI for your coding agents",
+    "created_at": "2026-08-20T09:16:02Z",
+    "updated_at": "2026-08-22T17:46:52Z",
+    "pushed_at": "2026-08-22T11:02:14Z",
+    "git_url": "git://github.com/hardbeat920/monocode.git",
+    "homepage": "https://usemono.dev",
+    "size": 6741,
+    "stargazers_count": 60,
+    "watchers_count": 60,
+    "language": "TypeScript",
+    "forks_count": 6,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1339286962,
+    "name": "dsh-memory",
+    "owner": {
+      "id": 275876067,
+      "url": "https://api.github.com/users/seriousz158",
+      "html_url": "https://github.com/seriousz158",
+      "avatar_url": "https://avatars.githubusercontent.com/u/275876067?v=4"
+    },
+    "html_url": "https://github.com/seriousz158/dsh-memory",
+    "description": null,
+    "created_at": "2026-08-19T08:13:12Z",
+    "updated_at": "2026-08-22T17:14:15Z",
+    "pushed_at": "2026-08-21T09:03:23Z",
+    "git_url": "git://github.com/seriousz158/dsh-memory.git",
+    "homepage": null,
+    "size": 597,
+    "stargazers_count": 60,
+    "watchers_count": 60,
+    "language": "JavaScript",
+    "forks_count": 3,
     "open_issues_count": 0
   },
   {
@@ -483,95 +667,26 @@
     "open_issues_count": 0
   },
   {
-    "id": 1341805689,
-    "name": "dsh-android",
+    "id": 1339007318,
+    "name": "hcmut-report-template",
     "owner": {
-      "id": 218180147,
-      "url": "https://api.github.com/users/ZSeven-W",
-      "html_url": "https://github.com/ZSeven-W",
-      "avatar_url": "https://avatars.githubusercontent.com/u/218180147?v=4"
+      "id": 244627160,
+      "url": "https://api.github.com/users/thuanmazda",
+      "html_url": "https://github.com/thuanmazda",
+      "avatar_url": "https://avatars.githubusercontent.com/u/244627160?v=4"
     },
-    "html_url": "https://github.com/ZSeven-W/dsh-android",
-    "description": "DeepSeek Harness plugin for Android — build, run, and interact with a live emulator or USB device stream inside a conversation, driven entirely through adb.",
-    "created_at": "2026-08-21T12:48:38Z",
-    "updated_at": "2026-08-22T12:19:56Z",
-    "pushed_at": "2026-08-21T23:26:27Z",
-    "git_url": "git://github.com/ZSeven-W/dsh-android.git",
+    "html_url": "https://github.com/thuanmazda/hcmut-report-template",
+    "description": "LaTeX report template for Ho Chi Minh University of Technology (HCMUT-VNU)",
+    "created_at": "2026-08-19T02:12:40Z",
+    "updated_at": "2026-08-22T16:27:28Z",
+    "pushed_at": "2026-08-19T03:35:51Z",
+    "git_url": "git://github.com/thuanmazda/hcmut-report-template.git",
     "homepage": null,
-    "size": 2826,
-    "stargazers_count": 59,
-    "watchers_count": 59,
-    "language": "TypeScript",
-    "forks_count": 3,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1342018006,
-    "name": "SU_IMD",
-    "owner": {
-      "id": 123844024,
-      "url": "https://api.github.com/users/soul-99",
-      "html_url": "https://github.com/soul-99",
-      "avatar_url": "https://avatars.githubusercontent.com/u/123844024?v=4"
-    },
-    "html_url": "https://github.com/soul-99/SU_IMD",
-    "description": null,
-    "created_at": "2026-08-21T16:34:08Z",
-    "updated_at": "2026-08-22T12:43:40Z",
-    "pushed_at": "2026-08-22T00:04:42Z",
-    "git_url": "git://github.com/soul-99/SU_IMD.git",
-    "homepage": null,
-    "size": 2302,
-    "stargazers_count": 58,
-    "watchers_count": 58,
-    "language": "Kotlin",
-    "forks_count": 2,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1339286962,
-    "name": "dsh-memory",
-    "owner": {
-      "id": 275876067,
-      "url": "https://api.github.com/users/seriousz158",
-      "html_url": "https://github.com/seriousz158",
-      "avatar_url": "https://avatars.githubusercontent.com/u/275876067?v=4"
-    },
-    "html_url": "https://github.com/seriousz158/dsh-memory",
-    "description": null,
-    "created_at": "2026-08-19T08:13:12Z",
-    "updated_at": "2026-08-22T12:12:50Z",
-    "pushed_at": "2026-08-21T09:03:23Z",
-    "git_url": "git://github.com/seriousz158/dsh-memory.git",
-    "homepage": null,
-    "size": 597,
-    "stargazers_count": 58,
-    "watchers_count": 58,
-    "language": "JavaScript",
-    "forks_count": 3,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1340923535,
-    "name": "tsundoku-psp",
-    "owner": {
-      "id": 319115686,
-      "url": "https://api.github.com/users/hash-asterisk",
-      "html_url": "https://github.com/hash-asterisk",
-      "avatar_url": "https://avatars.githubusercontent.com/u/319115686?v=4"
-    },
-    "html_url": "https://github.com/hash-asterisk/tsundoku-psp",
-    "description": "manga reader for psp ",
-    "created_at": "2026-08-20T16:45:25Z",
-    "updated_at": "2026-08-21T21:20:23Z",
-    "pushed_at": "2026-08-21T12:54:56Z",
-    "git_url": "git://github.com/hash-asterisk/tsundoku-psp.git",
-    "homepage": "",
-    "size": 663,
+    "size": 199,
     "stargazers_count": 57,
     "watchers_count": 57,
-    "language": "C++",
-    "forks_count": 1,
+    "language": "TeX",
+    "forks_count": 3,
     "open_issues_count": 0
   },
   {
@@ -621,29 +736,6 @@
     "open_issues_count": 1
   },
   {
-    "id": 1339007318,
-    "name": "hcmut-report-template",
-    "owner": {
-      "id": 244627160,
-      "url": "https://api.github.com/users/thuanmazda",
-      "html_url": "https://github.com/thuanmazda",
-      "avatar_url": "https://avatars.githubusercontent.com/u/244627160?v=4"
-    },
-    "html_url": "https://github.com/thuanmazda/hcmut-report-template",
-    "description": "LaTeX report template for Ho Chi Minh University of Technology (HCMUT-VNU)",
-    "created_at": "2026-08-19T02:12:40Z",
-    "updated_at": "2026-08-21T11:09:33Z",
-    "pushed_at": "2026-08-19T03:35:51Z",
-    "git_url": "git://github.com/thuanmazda/hcmut-report-template.git",
-    "homepage": null,
-    "size": 199,
-    "stargazers_count": 56,
-    "watchers_count": 56,
-    "language": "TeX",
-    "forks_count": 3,
-    "open_issues_count": 0
-  },
-  {
     "id": 1341689440,
     "name": "10-dark-marketplaces-web-top",
     "owner": {
@@ -664,6 +756,29 @@
     "watchers_count": 55,
     "language": null,
     "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1339813167,
+    "name": "awesome-grok-bot",
+    "owner": {
+      "id": 15684751,
+      "url": "https://api.github.com/users/RongleCat",
+      "html_url": "https://github.com/RongleCat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15684751?v=4"
+    },
+    "html_url": "https://github.com/RongleCat/awesome-grok-bot",
+    "description": "Curated bilingual list of Grok Bot resources — always-on AI teammates with their own cloud computer.",
+    "created_at": "2026-08-19T16:46:48Z",
+    "updated_at": "2026-08-22T17:58:47Z",
+    "pushed_at": "2026-08-22T00:37:59Z",
+    "git_url": "git://github.com/RongleCat/awesome-grok-bot.git",
+    "homepage": null,
+    "size": 9603,
+    "stargazers_count": 55,
+    "watchers_count": 55,
+    "language": "Python",
+    "forks_count": 4,
     "open_issues_count": 0
   },
   {
@@ -690,6 +805,29 @@
     "open_issues_count": 0
   },
   {
+    "id": 1339204821,
+    "name": "planar-wayline",
+    "owner": {
+      "id": 119919952,
+      "url": "https://api.github.com/users/Tao-tao520",
+      "html_url": "https://github.com/Tao-tao520",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119919952?v=4"
+    },
+    "html_url": "https://github.com/Tao-tao520/planar-wayline",
+    "description": "纯前端大疆面状航线规划：正射/倾斜、仿地，导出 KMZ（WPMZ）兼容司空 2",
+    "created_at": "2026-08-19T06:51:41Z",
+    "updated_at": "2026-08-22T14:23:25Z",
+    "pushed_at": "2026-08-21T06:27:28Z",
+    "git_url": "git://github.com/Tao-tao520/planar-wayline.git",
+    "homepage": "",
+    "size": 523,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": "TypeScript",
+    "forks_count": 4,
+    "open_issues_count": 1
+  },
+  {
     "id": 1340433069,
     "name": "uma-cn-post-race-events",
     "owner": {
@@ -713,52 +851,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1339204821,
-    "name": "planar-wayline",
-    "owner": {
-      "id": 119919952,
-      "url": "https://api.github.com/users/Tao-tao520",
-      "html_url": "https://github.com/Tao-tao520",
-      "avatar_url": "https://avatars.githubusercontent.com/u/119919952?v=4"
-    },
-    "html_url": "https://github.com/Tao-tao520/planar-wayline",
-    "description": "纯前端大疆面状航线规划：正射/倾斜、仿地，导出 KMZ（WPMZ）兼容司空 2",
-    "created_at": "2026-08-19T06:51:41Z",
-    "updated_at": "2026-08-21T06:29:15Z",
-    "pushed_at": "2026-08-21T06:27:28Z",
-    "git_url": "git://github.com/Tao-tao520/planar-wayline.git",
-    "homepage": "",
-    "size": 523,
-    "stargazers_count": 52,
-    "watchers_count": 52,
-    "language": "TypeScript",
-    "forks_count": 4,
-    "open_issues_count": 1
-  },
-  {
-    "id": 1340087390,
-    "name": "FL-Studio-Studio",
-    "owner": {
-      "id": 297632654,
-      "url": "https://api.github.com/users/FuelArchitect",
-      "html_url": "https://github.com/FuelArchitect",
-      "avatar_url": "https://avatars.githubusercontent.com/u/297632654?v=4"
-    },
-    "html_url": "https://github.com/FuelArchitect/FL-Studio-Studio",
-    "description": null,
-    "created_at": "2026-08-19T22:52:37Z",
-    "updated_at": "2026-08-22T08:20:20Z",
-    "pushed_at": "2026-08-19T22:53:03Z",
-    "git_url": "git://github.com/FuelArchitect/FL-Studio-Studio.git",
-    "homepage": "",
-    "size": 7,
-    "stargazers_count": 50,
-    "watchers_count": 50,
-    "language": null,
-    "forks_count": 28,
-    "open_issues_count": 0
-  },
-  {
     "id": 1341337369,
     "name": "sorry-google",
     "owner": {
@@ -770,16 +862,85 @@
     "html_url": "https://github.com/rushiranpise/sorry-google",
     "description": "Minimal stub APKs that block Google from automatically installing or updating unwanted system apps. Each stub declares the same package name as the target app but is signed with a different key, causing a signature mismatch that prevents the original from being pushed.",
     "created_at": "2026-08-21T02:52:24Z",
-    "updated_at": "2026-08-22T11:52:45Z",
+    "updated_at": "2026-08-22T13:00:36Z",
     "pushed_at": "2026-08-21T08:44:11Z",
     "git_url": "git://github.com/rushiranpise/sorry-google.git",
     "homepage": "",
     "size": 2087,
-    "stargazers_count": 50,
-    "watchers_count": 50,
+    "stargazers_count": 52,
+    "watchers_count": 52,
     "language": null,
     "forks_count": 1,
     "open_issues_count": 1
+  },
+  {
+    "id": 1342195520,
+    "name": "chatflare",
+    "owner": {
+      "id": 16190825,
+      "url": "https://api.github.com/users/beescuit",
+      "html_url": "https://github.com/beescuit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16190825?v=4"
+    },
+    "html_url": "https://github.com/beescuit/chatflare",
+    "description": "Chat with your friends via Cloudflare cache hits",
+    "created_at": "2026-08-21T20:24:35Z",
+    "updated_at": "2026-08-22T18:27:23Z",
+    "pushed_at": "2026-08-21T20:35:33Z",
+    "git_url": "git://github.com/beescuit/chatflare.git",
+    "homepage": null,
+    "size": 309,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": "Rust",
+    "forks_count": 1,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1338998777,
+    "name": "stargate-command",
+    "owner": {
+      "id": 113872145,
+      "url": "https://api.github.com/users/IAmMcNuggets",
+      "html_url": "https://github.com/IAmMcNuggets",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113872145?v=4"
+    },
+    "html_url": "https://github.com/IAmMcNuggets/stargate-command",
+    "description": "An app launcher for Windows and Linux that dials your programs like the SG-1 Stargate",
+    "created_at": "2026-08-19T01:58:03Z",
+    "updated_at": "2026-08-22T15:49:01Z",
+    "pushed_at": "2026-08-21T18:07:55Z",
+    "git_url": "git://github.com/IAmMcNuggets/stargate-command.git",
+    "homepage": "",
+    "size": 2023,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "JavaScript",
+    "forks_count": 6,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1341777694,
+    "name": "modelprint",
+    "owner": {
+      "id": 12494079,
+      "url": "https://api.github.com/users/unclecode",
+      "html_url": "https://github.com/unclecode",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12494079?v=4"
+    },
+    "html_url": "https://github.com/unclecode/modelprint",
+    "description": "Who is really behind that API? Fingerprint any OpenAI-compatible endpoint in the browser: 9 infrastructure probes, side-by-side comparison, community-extensible.",
+    "created_at": "2026-08-21T12:16:56Z",
+    "updated_at": "2026-08-22T15:21:25Z",
+    "pushed_at": "2026-08-22T14:15:16Z",
+    "git_url": "git://github.com/unclecode/modelprint.git",
+    "homepage": null,
+    "size": 165,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "JavaScript",
+    "forks_count": 6,
+    "open_issues_count": 2
   },
   {
     "id": 1340229469,
@@ -805,52 +966,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1339813167,
-    "name": "awesome-grok-bot",
-    "owner": {
-      "id": 15684751,
-      "url": "https://api.github.com/users/RongleCat",
-      "html_url": "https://github.com/RongleCat",
-      "avatar_url": "https://avatars.githubusercontent.com/u/15684751?v=4"
-    },
-    "html_url": "https://github.com/RongleCat/awesome-grok-bot",
-    "description": "Curated bilingual list of Grok Bot resources — always-on AI teammates with their own cloud computer.",
-    "created_at": "2026-08-19T16:46:48Z",
-    "updated_at": "2026-08-22T09:46:45Z",
-    "pushed_at": "2026-08-22T00:37:59Z",
-    "git_url": "git://github.com/RongleCat/awesome-grok-bot.git",
-    "homepage": null,
-    "size": 9603,
-    "stargazers_count": 50,
-    "watchers_count": 50,
-    "language": "Python",
-    "forks_count": 2,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1340097602,
-    "name": "Trading-View-Pro-Suite-2026",
-    "owner": {
-      "id": 297631587,
-      "url": "https://api.github.com/users/FeelingDetective",
-      "html_url": "https://github.com/FeelingDetective",
-      "avatar_url": "https://avatars.githubusercontent.com/u/297631587?v=4"
-    },
-    "html_url": "https://github.com/FeelingDetective/Trading-View-Pro-Suite-2026",
-    "description": "Worldwide / Весь мир hub for TradingView Pro 2026 — tutorials and setup resources.",
-    "created_at": "2026-08-19T23:11:14Z",
-    "updated_at": "2026-08-22T08:26:10Z",
-    "pushed_at": "2026-08-19T23:11:39Z",
-    "git_url": "git://github.com/FeelingDetective/Trading-View-Pro-Suite-2026.git",
-    "homepage": "",
-    "size": 7,
-    "stargazers_count": 50,
-    "watchers_count": 50,
-    "language": null,
-    "forks_count": 35,
-    "open_issues_count": 0
-  },
-  {
     "id": 1341129518,
     "name": "neurocursor-ai",
     "owner": {
@@ -871,29 +986,6 @@
     "watchers_count": 50,
     "language": "C++",
     "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1341777694,
-    "name": "modelprint",
-    "owner": {
-      "id": 12494079,
-      "url": "https://api.github.com/users/unclecode",
-      "html_url": "https://github.com/unclecode",
-      "avatar_url": "https://avatars.githubusercontent.com/u/12494079?v=4"
-    },
-    "html_url": "https://github.com/unclecode/modelprint",
-    "description": "Who is really behind that API? Fingerprint any OpenAI-compatible endpoint in the browser: 9 infrastructure probes, side-by-side comparison, community-extensible.",
-    "created_at": "2026-08-21T12:16:56Z",
-    "updated_at": "2026-08-22T11:36:42Z",
-    "pushed_at": "2026-08-22T10:49:34Z",
-    "git_url": "git://github.com/unclecode/modelprint.git",
-    "homepage": null,
-    "size": 164,
-    "stargazers_count": 50,
-    "watchers_count": 50,
-    "language": "JavaScript",
-    "forks_count": 5,
     "open_issues_count": 0
   }
 ]
