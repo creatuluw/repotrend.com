@@ -70309,5 +70309,74 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1333175049,
+    "name": "awesome-dsh-plugin",
+    "owner": {
+      "id": 316603077,
+      "url": "https://api.github.com/users/awesome-dsh-plugin",
+      "html_url": "https://github.com/awesome-dsh-plugin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316603077?v=4"
+    },
+    "html_url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+    "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+    "created_at": "2026-08-13T13:55:31Z",
+    "updated_at": "2026-08-23T18:27:50Z",
+    "pushed_at": "2026-08-23T17:27:19Z",
+    "git_url": "git://github.com/awesome-dsh-plugin/awesome-dsh-plugin.git",
+    "homepage": "https://awesome-dsh-plugin.com",
+    "size": 59703,
+    "stargazers_count": 11854,
+    "watchers_count": 11854,
+    "language": "Python",
+    "forks_count": 1873,
+    "open_issues_count": 360
+  },
+  {
+    "id": 1315939217,
+    "name": "grok-register-panel",
+    "owner": {
+      "id": 265844445,
+      "url": "https://api.github.com/users/lij768423-svg",
+      "html_url": "https://github.com/lij768423-svg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/265844445?v=4"
+    },
+    "html_url": "https://github.com/lij768423-svg/grok-register-panel",
+    "description": "Grok 批量注册 (Camoufox) + 实时 Web 监控面板 | Batch Grok registration engine with live panel — concurrency · ASN blacklist · proxy pool · token auth",
+    "created_at": "2026-07-29T09:25:01Z",
+    "updated_at": "2026-08-23T17:02:25Z",
+    "pushed_at": "2026-08-23T03:59:20Z",
+    "git_url": "git://github.com/lij768423-svg/grok-register-panel.git",
+    "homepage": "https://lij768423-svg.github.io/grok-register-panel/",
+    "size": 1586,
+    "stargazers_count": 834,
+    "watchers_count": 834,
+    "language": "Python",
+    "forks_count": 259,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1343320043,
+    "name": "source-reading-methodology",
+    "owner": {
+      "id": 3339564,
+      "url": "https://api.github.com/users/itshen",
+      "html_url": "https://github.com/itshen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3339564?v=4"
+    },
+    "html_url": "https://github.com/itshen/source-reading-methodology",
+    "description": "带 AI 精读大型开源仓库的方法论：四阶段流程、可复用模板、28 条踩坑清单，核心是让每个技术论断都可回溯到源码具体行",
+    "created_at": "2026-08-23T02:51:45Z",
+    "updated_at": "2026-08-23T18:26:43Z",
+    "pushed_at": "2026-08-23T08:44:23Z",
+    "git_url": "git://github.com/itshen/source-reading-methodology.git",
+    "homepage": "https://xueai.app/?from=source-reading-methodology",
+    "size": 4558,
+    "stargazers_count": 55,
+    "watchers_count": 55,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
