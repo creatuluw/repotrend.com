@@ -70378,5 +70378,74 @@
     "language": "Python",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1267280589,
+    "name": "RVG",
+    "owner": {
+      "id": 283218368,
+      "url": "https://api.github.com/users/arvin341az-glitch",
+      "html_url": "https://github.com/arvin341az-glitch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/283218368?v=4"
+    },
+    "html_url": "https://github.com/arvin341az-glitch/RVG",
+    "description": "Multi-protocol proxy management panel built with Python & FastAPI, deployable on Railway.",
+    "created_at": "2026-06-12T11:49:06Z",
+    "updated_at": "2026-08-25T18:41:51Z",
+    "pushed_at": "2026-08-24T22:27:39Z",
+    "git_url": "git://github.com/arvin341az-glitch/RVG.git",
+    "homepage": null,
+    "size": 143,
+    "stargazers_count": 3644,
+    "watchers_count": 3644,
+    "language": "Python",
+    "forks_count": 10932,
+    "open_issues_count": 9
+  },
+  {
+    "id": 1337733621,
+    "name": "autoprompt-skill",
+    "owner": {
+      "id": 77499101,
+      "url": "https://api.github.com/users/Spielewoy",
+      "html_url": "https://github.com/Spielewoy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77499101?v=4"
+    },
+    "html_url": "https://github.com/Spielewoy/autoprompt-skill",
+    "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
+    "created_at": "2026-08-17T22:40:47Z",
+    "updated_at": "2026-08-25T18:29:43Z",
+    "pushed_at": "2026-08-25T16:48:52Z",
+    "git_url": "git://github.com/Spielewoy/autoprompt-skill.git",
+    "homepage": "https://www.npmjs.com/package/autoprompt-skill",
+    "size": 4687,
+    "stargazers_count": 863,
+    "watchers_count": 863,
+    "language": "JavaScript",
+    "forks_count": 55,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1341893887,
+    "name": "scenebox",
+    "owner": {
+      "id": 10787211,
+      "url": "https://api.github.com/users/donbytyqi",
+      "html_url": "https://github.com/donbytyqi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10787211?v=4"
+    },
+    "html_url": "https://github.com/donbytyqi/scenebox",
+    "description": null,
+    "created_at": "2026-08-21T14:23:46Z",
+    "updated_at": "2026-08-24T16:25:44Z",
+    "pushed_at": "2026-08-24T17:54:26Z",
+    "git_url": "git://github.com/donbytyqi/scenebox.git",
+    "homepage": null,
+    "size": 18676,
+    "stargazers_count": 62,
+    "watchers_count": 62,
+    "language": "Swift",
+    "forks_count": 1,
+    "open_issues_count": 1
   }
 ]
