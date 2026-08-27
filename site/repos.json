@@ -70654,5 +70654,74 @@
     "language": "Java",
     "forks_count": 4,
     "open_issues_count": 1
+  },
+  {
+    "id": 1332080070,
+    "name": "anti-slop",
+    "owner": {
+      "id": 2755722,
+      "url": "https://api.github.com/users/dmmulroy",
+      "html_url": "https://github.com/dmmulroy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2755722?v=4"
+    },
+    "html_url": "https://github.com/dmmulroy/anti-slop",
+    "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+    "created_at": "2026-08-12T13:48:50Z",
+    "updated_at": "2026-08-26T19:23:36Z",
+    "pushed_at": "2026-08-18T13:21:06Z",
+    "git_url": "git://github.com/dmmulroy/anti-slop.git",
+    "homepage": null,
+    "size": 62,
+    "stargazers_count": 3747,
+    "watchers_count": 3747,
+    "language": "TypeScript",
+    "forks_count": 78,
+    "open_issues_count": 19
+  },
+  {
+    "id": 1325173762,
+    "name": "insect-world",
+    "owner": {
+      "id": 137012659,
+      "url": "https://api.github.com/users/xr843",
+      "html_url": "https://github.com/xr843",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137012659?v=4"
+    },
+    "html_url": "https://github.com/xr843/insect-world",
+    "description": "Interactive 3D insect field guide: 63 species across 14 orders, every body procedurally generated in the browser with TypeScript + Three.js — no model or texture files in the repo. Eight species step through a full life cycle; the hoverers beat their wings.",
+    "created_at": "2026-08-06T11:54:34Z",
+    "updated_at": "2026-08-26T17:20:00Z",
+    "pushed_at": "2026-08-26T12:35:51Z",
+    "git_url": "git://github.com/xr843/insect-world.git",
+    "homepage": "https://insect-world.pages.dev",
+    "size": 13853,
+    "stargazers_count": 646,
+    "watchers_count": 646,
+    "language": "TypeScript",
+    "forks_count": 54,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1347884887,
+    "name": "client",
+    "owner": {
+      "id": 98775309,
+      "url": "https://api.github.com/users/farcasterxyz",
+      "html_url": "https://github.com/farcasterxyz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98775309?v=4"
+    },
+    "html_url": "https://github.com/farcasterxyz/client",
+    "description": "Snapshot of the Farcaster client monorepo (mobile + web), without the Farcaster Wallet implementation",
+    "created_at": "2026-08-26T23:35:59Z",
+    "updated_at": "2026-08-27T08:08:10Z",
+    "pushed_at": "2026-08-27T00:40:43Z",
+    "git_url": "git://github.com/farcasterxyz/client.git",
+    "homepage": null,
+    "size": 27878,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": "TypeScript",
+    "forks_count": 26,
+    "open_issues_count": 0
   }
 ]
