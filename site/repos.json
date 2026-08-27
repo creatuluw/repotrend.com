@@ -70585,5 +70585,74 @@
     "language": "TypeScript",
     "forks_count": 19,
     "open_issues_count": 1
+  },
+  {
+    "id": 1338470635,
+    "name": "ip-as-logo-skill",
+    "owner": {
+      "id": 129982137,
+      "url": "https://api.github.com/users/s1dashu",
+      "html_url": "https://github.com/s1dashu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129982137?v=4"
+    },
+    "html_url": "https://github.com/s1dashu/ip-as-logo-skill",
+    "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+    "created_at": "2026-08-18T13:59:23Z",
+    "updated_at": "2026-08-26T19:33:15Z",
+    "pushed_at": "2026-08-22T16:48:59Z",
+    "git_url": "git://github.com/s1dashu/ip-as-logo-skill.git",
+    "homepage": "https://ipaslogo.com",
+    "size": 29787,
+    "stargazers_count": 4370,
+    "watchers_count": 4370,
+    "language": null,
+    "forks_count": 221,
+    "open_issues_count": 9
+  },
+  {
+    "id": 1321688525,
+    "name": "awesome-free-ai-course-notes",
+    "owner": {
+      "id": 161395376,
+      "url": "https://api.github.com/users/MarcosSete",
+      "html_url": "https://github.com/MarcosSete",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161395376?v=4"
+    },
+    "html_url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
+    "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
+    "created_at": "2026-08-03T11:36:49Z",
+    "updated_at": "2026-08-24T18:23:55Z",
+    "pushed_at": "2026-08-03T12:09:38Z",
+    "git_url": "git://github.com/MarcosSete/awesome-free-ai-course-notes.git",
+    "homepage": null,
+    "size": 18,
+    "stargazers_count": 628,
+    "watchers_count": 628,
+    "language": null,
+    "forks_count": 53,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1341509295,
+    "name": "Kof4j",
+    "owner": {
+      "id": 319364937,
+      "url": "https://api.github.com/users/KofLang",
+      "html_url": "https://github.com/KofLang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/319364937?v=4"
+    },
+    "html_url": "https://github.com/KofLang/Kof4j",
+    "description": null,
+    "created_at": "2026-08-21T07:07:01Z",
+    "updated_at": "2026-08-24T17:05:50Z",
+    "pushed_at": "2026-08-24T17:16:41Z",
+    "git_url": "git://github.com/KofLang/Kof4j.git",
+    "homepage": null,
+    "size": 1329,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": "Java",
+    "forks_count": 4,
+    "open_issues_count": 1
   }
 ]
