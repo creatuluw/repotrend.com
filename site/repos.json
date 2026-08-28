@@ -70723,5 +70723,74 @@
     "language": "TypeScript",
     "forks_count": 26,
     "open_issues_count": 0
+  },
+  {
+    "id": 1322768766,
+    "name": "photo-abstract-editorial",
+    "owner": {
+      "id": 207724921,
+      "url": "https://api.github.com/users/ZzzLc0405",
+      "html_url": "https://github.com/ZzzLc0405",
+      "avatar_url": "https://avatars.githubusercontent.com/u/207724921?v=4"
+    },
+    "html_url": "https://github.com/ZzzLc0405/photo-abstract-editorial",
+    "description": null,
+    "created_at": "2026-08-04T09:35:31Z",
+    "updated_at": "2026-08-27T19:43:07Z",
+    "pushed_at": "2026-08-19T03:31:31Z",
+    "git_url": "git://github.com/ZzzLc0405/photo-abstract-editorial.git",
+    "homepage": null,
+    "size": 12419,
+    "stargazers_count": 4949,
+    "watchers_count": 4949,
+    "language": null,
+    "forks_count": 316,
+    "open_issues_count": 10
+  },
+  {
+    "id": 1321016011,
+    "name": "location-spoofer",
+    "owner": {
+      "id": 24520686,
+      "url": "https://api.github.com/users/xweiba",
+      "html_url": "https://github.com/xweiba",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24520686?v=4"
+    },
+    "html_url": "https://github.com/xweiba/location-spoofer",
+    "description": "面向 iOS 定位服务行为研究和开发测试的虚拟定位工具，支持地图选点、本地与第三方代理、WGS-84 / GCJ-02 双坐标、环境检测和问题诊断。",
+    "created_at": "2026-08-03T00:16:56Z",
+    "updated_at": "2026-08-25T17:23:56Z",
+    "pushed_at": "2026-08-10T08:23:04Z",
+    "git_url": "git://github.com/xweiba/location-spoofer.git",
+    "homepage": null,
+    "size": 4594,
+    "stargazers_count": 729,
+    "watchers_count": 729,
+    "language": "Swift",
+    "forks_count": 155,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1346521284,
+    "name": "discordzapret",
+    "owner": {
+      "id": 301593054,
+      "url": "https://api.github.com/users/BlizzardStonemason",
+      "html_url": "https://github.com/BlizzardStonemason",
+      "avatar_url": "https://avatars.githubusercontent.com/u/301593054?v=4"
+    },
+    "html_url": "https://github.com/BlizzardStonemason/discordzapret",
+    "description": "Актуальная версия с поддержкой обхода Discord в текущих условиях. Стабильнее, быстрее, надежнее (свежая версия) 📦",
+    "created_at": "2026-08-25T18:58:43Z",
+    "updated_at": "2026-08-26T12:41:41Z",
+    "pushed_at": "2026-08-25T18:59:21Z",
+    "git_url": "git://github.com/BlizzardStonemason/discordzapret.git",
+    "homepage": null,
+    "size": 9987,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": "Batchfile",
+    "forks_count": 100,
+    "open_issues_count": 0
   }
 ]
