@@ -70792,5 +70792,74 @@
     "language": "Batchfile",
     "forks_count": 100,
     "open_issues_count": 0
+  },
+  {
+    "id": 1285705904,
+    "name": "gzh-design-skill",
+    "owner": {
+      "id": 30619280,
+      "url": "https://api.github.com/users/isjiamu",
+      "html_url": "https://github.com/isjiamu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30619280?v=4"
+    },
+    "html_url": "https://github.com/isjiamu/gzh-design-skill",
+    "description": "把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.",
+    "created_at": "2026-07-01T04:28:03Z",
+    "updated_at": "2026-08-26T16:57:03Z",
+    "pushed_at": "2026-07-08T13:32:08Z",
+    "git_url": "git://github.com/isjiamu/gzh-design-skill.git",
+    "homepage": "https://github.com/AlephMuYe",
+    "size": 289,
+    "stargazers_count": 3330,
+    "watchers_count": 3330,
+    "language": "HTML",
+    "forks_count": 385,
+    "open_issues_count": 13
+  },
+  {
+    "id": 1331441014,
+    "name": "pgbot",
+    "owner": {
+      "id": 300654937,
+      "url": "https://api.github.com/users/pgrundev",
+      "html_url": "https://github.com/pgrundev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/300654937?v=4"
+    },
+    "html_url": "https://github.com/pgrundev/pgbot",
+    "description": "Postgres intelligence for ai agents & apps",
+    "created_at": "2026-08-11T23:41:52Z",
+    "updated_at": "2026-08-27T20:12:44Z",
+    "pushed_at": "2026-08-25T21:44:00Z",
+    "git_url": "git://github.com/pgrundev/pgbot.git",
+    "homepage": "https://pgbot.dev",
+    "size": 12146,
+    "stargazers_count": 785,
+    "watchers_count": 785,
+    "language": "Go",
+    "forks_count": 35,
+    "open_issues_count": 10
+  },
+  {
+    "id": 1342735006,
+    "name": "neuromesh",
+    "owner": {
+      "id": 33606797,
+      "url": "https://api.github.com/users/pinoox",
+      "html_url": "https://github.com/pinoox",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33606797?v=4"
+    },
+    "html_url": "https://github.com/pinoox/neuromesh",
+    "description": "The Biomimetic Context Engine & Neural Runtime for AI Coding Assistants",
+    "created_at": "2026-08-22T11:14:43Z",
+    "updated_at": "2026-08-25T16:20:45Z",
+    "pushed_at": "2026-08-24T21:05:56Z",
+    "git_url": "git://github.com/pinoox/neuromesh.git",
+    "homepage": null,
+    "size": 766,
+    "stargazers_count": 68,
+    "watchers_count": 68,
+    "language": "Rust",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
