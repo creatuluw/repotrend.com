@@ -70930,5 +70930,74 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 1
+  },
+  {
+    "id": 1334586481,
+    "name": "dsh-routing-suite",
+    "owner": {
+      "id": 195255374,
+      "url": "https://api.github.com/users/yjh051108",
+      "html_url": "https://github.com/yjh051108",
+      "avatar_url": "https://avatars.githubusercontent.com/u/195255374?v=4"
+    },
+    "html_url": "https://github.com/yjh051108/dsh-routing-suite",
+    "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
+    "created_at": "2026-08-14T21:20:55Z",
+    "updated_at": "2026-08-27T20:54:39Z",
+    "pushed_at": "2026-08-24T23:56:40Z",
+    "git_url": "git://github.com/yjh051108/dsh-routing-suite.git",
+    "homepage": null,
+    "size": 344,
+    "stargazers_count": 6900,
+    "watchers_count": 6900,
+    "language": "JavaScript",
+    "forks_count": 137,
+    "open_issues_count": 57
+  },
+  {
+    "id": 1326063290,
+    "name": "ComfyUI-H3-Motion-Context",
+    "owner": {
+      "id": 262659861,
+      "url": "https://api.github.com/users/NikoDemon80",
+      "html_url": "https://github.com/NikoDemon80",
+      "avatar_url": "https://avatars.githubusercontent.com/u/262659861?v=4"
+    },
+    "html_url": "https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context",
+    "description": "Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins",
+    "created_at": "2026-08-07T01:18:37Z",
+    "updated_at": "2026-08-28T13:40:18Z",
+    "pushed_at": "2026-08-26T18:21:40Z",
+    "git_url": "git://github.com/NikoDemon80/ComfyUI-H3-Motion-Context.git",
+    "homepage": null,
+    "size": 78,
+    "stargazers_count": 770,
+    "watchers_count": 770,
+    "language": "Python",
+    "forks_count": 91,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1348839569,
+    "name": "mikrotik-chr-7.21.5",
+    "owner": {
+      "id": 20447407,
+      "url": "https://api.github.com/users/anakkampung-BD",
+      "html_url": "https://github.com/anakkampung-BD",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20447407?v=4"
+    },
+    "html_url": "https://github.com/anakkampung-BD/mikrotik-chr-7.21.5",
+    "description": "Mikrotik CHR Container",
+    "created_at": "2026-08-27T18:47:36Z",
+    "updated_at": "2026-08-29T02:59:43Z",
+    "pushed_at": "2026-08-28T03:16:31Z",
+    "git_url": "git://github.com/anakkampung-BD/mikrotik-chr-7.21.5.git",
+    "homepage": null,
+    "size": 17,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "Python",
+    "forks_count": 11,
+    "open_issues_count": 0
   }
 ]
