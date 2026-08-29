@@ -71068,5 +71068,74 @@
     "language": "PowerShell",
     "forks_count": 6,
     "open_issues_count": 0
+  },
+  {
+    "id": 1344208527,
+    "name": "grok-bot-0.18-reconstructed",
+    "owner": {
+      "id": 62760393,
+      "url": "https://api.github.com/users/b-nnett",
+      "html_url": "https://github.com/b-nnett",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62760393?v=4"
+    },
+    "html_url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
+    "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+    "created_at": "2026-08-23T20:53:01Z",
+    "updated_at": "2026-08-29T16:20:45Z",
+    "pushed_at": "2026-08-23T20:53:35Z",
+    "git_url": "git://github.com/b-nnett/grok-bot-0.18-reconstructed.git",
+    "homepage": null,
+    "size": 5559,
+    "stargazers_count": 3425,
+    "watchers_count": 3425,
+    "language": "TypeScript",
+    "forks_count": 3361,
+    "open_issues_count": 14
+  },
+  {
+    "id": 1340743476,
+    "name": "lanshu-create-ai-presenter-video",
+    "owner": {
+      "id": 29557585,
+      "url": "https://api.github.com/users/cclank",
+      "html_url": "https://github.com/cclank",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29557585?v=4"
+    },
+    "html_url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
+    "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+    "created_at": "2026-08-20T13:40:06Z",
+    "updated_at": "2026-08-29T15:38:20Z",
+    "pushed_at": "2026-08-20T13:40:14Z",
+    "git_url": "git://github.com/cclank/lanshu-create-ai-presenter-video.git",
+    "homepage": null,
+    "size": 21,
+    "stargazers_count": 971,
+    "watchers_count": 971,
+    "language": "Python",
+    "forks_count": 177,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1349833482,
+    "name": "hwid-activator",
+    "owner": {
+      "id": 93331493,
+      "url": "https://api.github.com/users/lucasbpc2002",
+      "html_url": "https://github.com/lucasbpc2002",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93331493?v=4"
+    },
+    "html_url": "https://github.com/lucasbpc2002/hwid-activator",
+    "description": "Activate Windows 10 & 11 permanently with one PowerShell command. HWID digital license activation, KMS38, Office activator. Free, open-source.",
+    "created_at": "2026-08-28T16:47:09Z",
+    "updated_at": "2026-08-29T13:34:19Z",
+    "pushed_at": "2026-08-28T16:47:17Z",
+    "git_url": "git://github.com/lucasbpc2002/hwid-activator.git",
+    "homepage": null,
+    "size": 175,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 2
   }
 ]
