@@ -70999,5 +70999,74 @@
     "language": "Python",
     "forks_count": 11,
     "open_issues_count": 0
+  },
+  {
+    "id": 1277471539,
+    "name": "gods-eye-view",
+    "owner": {
+      "id": 106619546,
+      "url": "https://api.github.com/users/bilawalsidhu",
+      "html_url": "https://github.com/bilawalsidhu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106619546?v=4"
+    },
+    "html_url": "https://github.com/bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "created_at": "2026-06-22T23:37:22Z",
+    "updated_at": "2026-08-29T06:19:20Z",
+    "pushed_at": "2026-08-28T00:46:30Z",
+    "git_url": "git://github.com/bilawalsidhu/gods-eye-view.git",
+    "homepage": "https://maptheworld.ai/",
+    "size": 82508,
+    "stargazers_count": 11414,
+    "watchers_count": 11414,
+    "language": "JavaScript",
+    "forks_count": 2304,
+    "open_issues_count": 88
+  },
+  {
+    "id": 1335095892,
+    "name": "deepseek-design",
+    "owner": {
+      "id": 228423313,
+      "url": "https://api.github.com/users/Devin-AXIS",
+      "html_url": "https://github.com/Devin-AXIS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/228423313?v=4"
+    },
+    "html_url": "https://github.com/Devin-AXIS/deepseek-design",
+    "description": "DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.",
+    "created_at": "2026-08-15T13:08:53Z",
+    "updated_at": "2026-08-29T03:13:37Z",
+    "pushed_at": "2026-08-28T07:12:44Z",
+    "git_url": "git://github.com/Devin-AXIS/deepseek-design.git",
+    "homepage": "https://github.com/Devin-AXIS/iPolloWork",
+    "size": 37342,
+    "stargazers_count": 607,
+    "watchers_count": 607,
+    "language": "JavaScript",
+    "forks_count": 140,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1347032814,
+    "name": "Ronnier-skill",
+    "owner": {
+      "id": 110663656,
+      "url": "https://api.github.com/users/Ayueh0102",
+      "html_url": "https://github.com/Ayueh0102",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110663656?v=4"
+    },
+    "html_url": "https://github.com/Ayueh0102/Ronnier-skill",
+    "description": "色彩科學／色度學完整中文學習筆記，包裝成 Claude Code skill，也支援 Codex。涵蓋 CIE 色度學、CIEDE2000、CIECAM02、色適應與演色性。",
+    "created_at": "2026-08-26T07:18:38Z",
+    "updated_at": "2026-08-28T07:01:32Z",
+    "pushed_at": "2026-08-26T09:02:00Z",
+    "git_url": "git://github.com/Ayueh0102/Ronnier-skill.git",
+    "homepage": "",
+    "size": 474,
+    "stargazers_count": 87,
+    "watchers_count": 87,
+    "language": "PowerShell",
+    "forks_count": 6,
+    "open_issues_count": 0
   }
 ]
