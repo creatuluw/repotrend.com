@@ -71551,5 +71551,74 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1348410551,
+    "name": "my-girlfriend-jingtian-latex",
+    "owner": {
+      "id": 320896847,
+      "url": "https://api.github.com/users/HEJustinSun",
+      "html_url": "https://github.com/HEJustinSun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320896847?v=4"
+    },
+    "html_url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
+    "description": null,
+    "created_at": "2026-08-27T11:28:44Z",
+    "updated_at": "2026-08-29T20:37:58Z",
+    "pushed_at": "2026-08-27T12:23:45Z",
+    "git_url": "git://github.com/HEJustinSun/my-girlfriend-jingtian-latex.git",
+    "homepage": null,
+    "size": 17163,
+    "stargazers_count": 3883,
+    "watchers_count": 3883,
+    "language": "TeX",
+    "forks_count": 620,
+    "open_issues_count": 511
+  },
+  {
+    "id": 1330867309,
+    "name": "pdfcn",
+    "owner": {
+      "id": 278042933,
+      "url": "https://api.github.com/users/shadcn-labs",
+      "html_url": "https://github.com/shadcn-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/278042933?v=4"
+    },
+    "html_url": "https://github.com/shadcn-labs/pdfcn",
+    "description": "Beautiful pdf components, built on Takumi and Forme. 100% Free, Zero config, one command setup.",
+    "created_at": "2026-08-11T11:55:41Z",
+    "updated_at": "2026-08-30T19:30:26Z",
+    "pushed_at": "2026-08-30T12:28:26Z",
+    "git_url": "git://github.com/shadcn-labs/pdfcn.git",
+    "homepage": "https://pdfcn.dev",
+    "size": 3816,
+    "stargazers_count": 901,
+    "watchers_count": 901,
+    "language": "TypeScript",
+    "forks_count": 38,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1347416745,
+    "name": "CreatPPT",
+    "owner": {
+      "id": 148623946,
+      "url": "https://api.github.com/users/seekskyworld",
+      "html_url": "https://github.com/seekskyworld",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148623946?v=4"
+    },
+    "html_url": "https://github.com/seekskyworld/CreatPPT",
+    "description": "Agent-first web presentation workspace: turn briefs into editable slide decks and export native PPTX on demand.",
+    "created_at": "2026-08-26T14:11:03Z",
+    "updated_at": "2026-08-28T11:54:46Z",
+    "pushed_at": "2026-08-27T11:08:16Z",
+    "git_url": "git://github.com/seekskyworld/CreatPPT.git",
+    "homepage": "https://github.com/seekskyworld/CreatPPT",
+    "size": 9776,
+    "stargazers_count": 95,
+    "watchers_count": 95,
+    "language": "TypeScript",
+    "forks_count": 17,
+    "open_issues_count": 0
   }
 ]
