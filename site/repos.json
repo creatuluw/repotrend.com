@@ -71206,5 +71206,74 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 2
+  },
+  {
+    "id": 1288325627,
+    "name": "Graft",
+    "owner": {
+      "id": 320742148,
+      "url": "https://api.github.com/users/trailhq",
+      "html_url": "https://github.com/trailhq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320742148?v=4"
+    },
+    "html_url": "https://github.com/trailhq/Graft",
+    "description": "Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase.",
+    "created_at": "2026-07-03T13:44:21Z",
+    "updated_at": "2026-08-29T18:58:38Z",
+    "pushed_at": "2026-08-29T20:29:41Z",
+    "git_url": "git://github.com/trailhq/Graft.git",
+    "homepage": "https://graft.nanonets.ai",
+    "size": 67259,
+    "stargazers_count": 5088,
+    "watchers_count": 5088,
+    "language": "TypeScript",
+    "forks_count": 462,
+    "open_issues_count": 72
+  },
+  {
+    "id": 1334561781,
+    "name": "dsh-im",
+    "owner": {
+      "id": 4094054,
+      "url": "https://api.github.com/users/xmanrui",
+      "html_url": "https://github.com/xmanrui",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4094054?v=4"
+    },
+    "html_url": "https://github.com/xmanrui/dsh-im",
+    "description": "通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).",
+    "created_at": "2026-08-14T20:40:06Z",
+    "updated_at": "2026-08-29T17:38:17Z",
+    "pushed_at": "2026-08-29T12:26:09Z",
+    "git_url": "git://github.com/xmanrui/dsh-im.git",
+    "homepage": null,
+    "size": 42058,
+    "stargazers_count": 982,
+    "watchers_count": 982,
+    "language": "JavaScript",
+    "forks_count": 100,
+    "open_issues_count": 17
+  },
+  {
+    "id": 1348254931,
+    "name": "HopfProblem",
+    "owner": {
+      "id": 6070000,
+      "url": "https://api.github.com/users/plby",
+      "html_url": "https://github.com/plby",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6070000?v=4"
+    },
+    "html_url": "https://github.com/plby/HopfProblem",
+    "description": "A formalization of the resolution of the Hopf problem: the six-sphere admits a complex manifold structure compatible with its standard topology",
+    "created_at": "2026-08-27T08:33:37Z",
+    "updated_at": "2026-08-29T18:49:39Z",
+    "pushed_at": "2026-08-28T22:40:06Z",
+    "git_url": "git://github.com/plby/HopfProblem.git",
+    "homepage": null,
+    "size": 18353,
+    "stargazers_count": 67,
+    "watchers_count": 67,
+    "language": "Lean",
+    "forks_count": 4,
+    "open_issues_count": 2
   }
 ]
