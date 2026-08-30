@@ -71413,5 +71413,74 @@
     "language": "TypeScript",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1336502227,
+    "name": "OpenBot",
+    "owner": {
+      "id": 131273140,
+      "url": "https://api.github.com/users/CopilotKit",
+      "html_url": "https://github.com/CopilotKit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131273140?v=4"
+    },
+    "html_url": "https://github.com/CopilotKit/OpenBot",
+    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+    "created_at": "2026-08-17T00:44:59Z",
+    "updated_at": "2026-08-30T11:31:35Z",
+    "pushed_at": "2026-08-28T20:00:10Z",
+    "git_url": "git://github.com/CopilotKit/OpenBot.git",
+    "homepage": "https://www.copilotkit.ai/openbot",
+    "size": 2800,
+    "stargazers_count": 3485,
+    "watchers_count": 3485,
+    "language": "TypeScript",
+    "forks_count": 435,
+    "open_issues_count": 11
+  },
+  {
+    "id": 1333000741,
+    "name": "dsh-desktop",
+    "owner": {
+      "id": 8122332,
+      "url": "https://api.github.com/users/vibeinging",
+      "html_url": "https://github.com/vibeinging",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8122332?v=4"
+    },
+    "html_url": "https://github.com/vibeinging/dsh-desktop",
+    "description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
+    "created_at": "2026-08-13T10:41:33Z",
+    "updated_at": "2026-08-30T03:18:52Z",
+    "pushed_at": "2026-08-27T03:37:01Z",
+    "git_url": "git://github.com/vibeinging/dsh-desktop.git",
+    "homepage": null,
+    "size": 26294,
+    "stargazers_count": 635,
+    "watchers_count": 635,
+    "language": "JavaScript",
+    "forks_count": 35,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1348498387,
+    "name": "RK3588-Dual-Camera-AI-Perception-System",
+    "owner": {
+      "id": 186377189,
+      "url": "https://api.github.com/users/MUJI0807",
+      "html_url": "https://github.com/MUJI0807",
+      "avatar_url": "https://avatars.githubusercontent.com/u/186377189?v=4"
+    },
+    "html_url": "https://github.com/MUJI0807/RK3588-Dual-Camera-AI-Perception-System",
+    "description": "Real-time YOLOv5s + UNet on RK3588 with OpenCL GPU-accelerated lens undistortion. Dual-camera AI perception system for autonomous driving assistance.",
+    "created_at": "2026-08-27T13:01:18Z",
+    "updated_at": "2026-08-28T07:38:30Z",
+    "pushed_at": "2026-08-28T07:37:12Z",
+    "git_url": "git://github.com/MUJI0807/RK3588-Dual-Camera-AI-Perception-System.git",
+    "homepage": null,
+    "size": 138,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": "C++",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
