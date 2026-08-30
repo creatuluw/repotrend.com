@@ -71344,5 +71344,74 @@
     "language": "Python",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1309451980,
+    "name": "AgentENV",
+    "owner": {
+      "id": 170996193,
+      "url": "https://api.github.com/users/kvcache-ai",
+      "html_url": "https://github.com/kvcache-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/170996193?v=4"
+    },
+    "html_url": "https://github.com/kvcache-ai/AgentENV",
+    "description": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
+    "created_at": "2026-07-23T02:48:07Z",
+    "updated_at": "2026-08-30T03:50:17Z",
+    "pushed_at": "2026-08-28T02:02:57Z",
+    "git_url": "git://github.com/kvcache-ai/AgentENV.git",
+    "homepage": null,
+    "size": 6416,
+    "stargazers_count": 3348,
+    "watchers_count": 3348,
+    "language": "Rust",
+    "forks_count": 297,
+    "open_issues_count": 60
+  },
+  {
+    "id": 1338237504,
+    "name": "Wake",
+    "owner": {
+      "id": 33424334,
+      "url": "https://api.github.com/users/iAmCorey",
+      "html_url": "https://github.com/iAmCorey",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33424334?v=4"
+    },
+    "html_url": "https://github.com/iAmCorey/Wake",
+    "description": "All your AI agent sessions in one place — browse, search, resume. Rust + GPUI.",
+    "created_at": "2026-08-18T09:46:23Z",
+    "updated_at": "2026-08-30T02:44:36Z",
+    "pushed_at": "2026-08-29T16:25:50Z",
+    "git_url": "git://github.com/iAmCorey/Wake.git",
+    "homepage": "",
+    "size": 1128,
+    "stargazers_count": 698,
+    "watchers_count": 698,
+    "language": "Rust",
+    "forks_count": 43,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1347406690,
+    "name": "jean-claude",
+    "owner": {
+      "id": 11411695,
+      "url": "https://api.github.com/users/EtiennePasteur",
+      "html_url": "https://github.com/EtiennePasteur",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11411695?v=4"
+    },
+    "html_url": "https://github.com/EtiennePasteur/jean-claude",
+    "description": null,
+    "created_at": "2026-08-26T14:01:25Z",
+    "updated_at": "2026-08-29T18:52:45Z",
+    "pushed_at": "2026-08-29T06:38:16Z",
+    "git_url": "git://github.com/EtiennePasteur/jean-claude.git",
+    "homepage": null,
+    "size": 155,
+    "stargazers_count": 73,
+    "watchers_count": 73,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
