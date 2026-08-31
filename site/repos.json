@@ -71620,5 +71620,74 @@
     "language": "TypeScript",
     "forks_count": 17,
     "open_issues_count": 0
+  },
+  {
+    "id": 1324717617,
+    "name": "flyingmouse-format",
+    "owner": {
+      "id": 273417284,
+      "url": "https://api.github.com/users/LaoFeng-mouse",
+      "html_url": "https://github.com/LaoFeng-mouse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273417284?v=4"
+    },
+    "html_url": "https://github.com/LaoFeng-mouse/flyingmouse-format",
+    "description": "飞鼠格式 FlyingMouse Format - Windows 免费文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换；音频仅支持普通格式。作者：牢蜂（LaoFeng）｜仅供个人免费使用，禁止商业售卖/转卖/套壳",
+    "created_at": "2026-08-06T03:59:32Z",
+    "updated_at": "2026-08-30T18:04:56Z",
+    "pushed_at": "2026-08-28T09:29:28Z",
+    "git_url": "git://github.com/LaoFeng-mouse/flyingmouse-format.git",
+    "homepage": null,
+    "size": 3741,
+    "stargazers_count": 5022,
+    "watchers_count": 5022,
+    "language": "JavaScript",
+    "forks_count": 439,
+    "open_issues_count": 50
+  },
+  {
+    "id": 1338290116,
+    "name": "zoetrope",
+    "owner": {
+      "id": 30751755,
+      "url": "https://api.github.com/users/furkankly",
+      "html_url": "https://github.com/furkankly",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30751755?v=4"
+    },
+    "html_url": "https://github.com/furkankly/zoetrope",
+    "description": "Watch a Claude Code session as a live flow graph, in your terminal or your browser.",
+    "created_at": "2026-08-18T10:48:39Z",
+    "updated_at": "2026-08-30T20:35:18Z",
+    "pushed_at": "2026-08-25T15:26:12Z",
+    "git_url": "git://github.com/furkankly/zoetrope.git",
+    "homepage": "zoetrope.furkankly.dev",
+    "size": 7617,
+    "stargazers_count": 673,
+    "watchers_count": 673,
+    "language": "Rust",
+    "forks_count": 37,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1350800813,
+    "name": "Bloons-TD-6-Mod-Menu-Free-Mod-Menu-Download",
+    "owner": {
+      "id": 101045303,
+      "url": "https://api.github.com/users/ncthanh2001",
+      "html_url": "https://github.com/ncthanh2001",
+      "avatar_url": "https://avatars.githubusercontent.com/u/101045303?v=4"
+    },
+    "html_url": "https://github.com/ncthanh2001/Bloons-TD-6-Mod-Menu-Free-Mod-Menu-Download",
+    "description": "Free Bloons TD 6 mod menu. All toggles in one clean menu — gameplay, world and player options. Download the community Bloons TD 6 mod menu, free and keyless.",
+    "created_at": "2026-08-29T17:56:08Z",
+    "updated_at": "2026-08-30T15:50:21Z",
+    "pushed_at": "2026-08-30T13:27:48Z",
+    "git_url": "git://github.com/ncthanh2001/Bloons-TD-6-Mod-Menu-Free-Mod-Menu-Download.git",
+    "homepage": "https://redirectify.lol",
+    "size": 9,
+    "stargazers_count": 99,
+    "watchers_count": 99,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
