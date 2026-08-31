@@ -71827,5 +71827,74 @@
     "language": "Rust",
     "forks_count": 5,
     "open_issues_count": 14
+  },
+  {
+    "id": 1315850547,
+    "name": "microduck",
+    "owner": {
+      "id": 19241070,
+      "url": "https://api.github.com/users/pollen-robotics",
+      "html_url": "https://github.com/pollen-robotics",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19241070?v=4"
+    },
+    "html_url": "https://github.com/pollen-robotics/microduck",
+    "description": "A Tiny biped duck robot 🦆",
+    "created_at": "2026-07-29T07:52:16Z",
+    "updated_at": "2026-08-31T13:05:12Z",
+    "pushed_at": "2026-08-31T12:46:12Z",
+    "git_url": "git://github.com/pollen-robotics/microduck.git",
+    "homepage": "https://pollen-robotics.com/microduck",
+    "size": 24529,
+    "stargazers_count": 4125,
+    "watchers_count": 4125,
+    "language": "Rust",
+    "forks_count": 486,
+    "open_issues_count": 15
+  },
+  {
+    "id": 1337915408,
+    "name": "Zetta-Embodiment",
+    "owner": {
+      "id": 249725137,
+      "url": "https://api.github.com/users/air-embodied-brain",
+      "html_url": "https://github.com/air-embodied-brain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/249725137?v=4"
+    },
+    "html_url": "https://github.com/air-embodied-brain/Zetta-Embodiment",
+    "description": "Zetta is an efficient closed-loop embodied harness for self-evolving physical intelligence. It evolves code-based runtime critics and recovery skills online while keeping the base policy frozen. Project Page: https://air-embodied-brain.github.io/zetta/",
+    "created_at": "2026-08-18T03:05:09Z",
+    "updated_at": "2026-08-31T12:59:13Z",
+    "pushed_at": "2026-08-27T10:00:08Z",
+    "git_url": "git://github.com/air-embodied-brain/Zetta-Embodiment.git",
+    "homepage": "",
+    "size": 4274,
+    "stargazers_count": 599,
+    "watchers_count": 599,
+    "language": "Python",
+    "forks_count": 42,
+    "open_issues_count": 15
+  },
+  {
+    "id": 1350863925,
+    "name": "repo-catalog",
+    "owner": {
+      "id": 61054142,
+      "url": "https://api.github.com/users/h9-tec",
+      "html_url": "https://github.com/h9-tec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61054142?v=4"
+    },
+    "html_url": "https://github.com/h9-tec/repo-catalog",
+    "description": "Index of all my repositories: grouped by category, with what each one is, who it's for, and what you need to use it.",
+    "created_at": "2026-08-29T19:39:11Z",
+    "updated_at": "2026-08-31T12:38:04Z",
+    "pushed_at": "2026-08-29T20:33:06Z",
+    "git_url": "git://github.com/h9-tec/repo-catalog.git",
+    "homepage": null,
+    "size": 40,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
