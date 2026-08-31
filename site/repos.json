@@ -71758,5 +71758,74 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1333165619,
+    "name": "dsh-desktop",
+    "owner": {
+      "id": 103249391,
+      "url": "https://api.github.com/users/dataelement",
+      "html_url": "https://github.com/dataelement",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103249391?v=4"
+    },
+    "html_url": "https://github.com/dataelement/dsh-desktop",
+    "description": "DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版",
+    "created_at": "2026-08-13T13:45:50Z",
+    "updated_at": "2026-08-31T13:04:23Z",
+    "pushed_at": "2026-08-31T10:01:03Z",
+    "git_url": "git://github.com/dataelement/dsh-desktop.git",
+    "homepage": "https://dshdesktop.com",
+    "size": 14258,
+    "stargazers_count": 3517,
+    "watchers_count": 3517,
+    "language": "TypeScript",
+    "forks_count": 192,
+    "open_issues_count": 57
+  },
+  {
+    "id": 1344939825,
+    "name": "goldie",
+    "owner": {
+      "id": 39658211,
+      "url": "https://api.github.com/users/kacperkapusciak",
+      "html_url": "https://github.com/kacperkapusciak",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39658211?v=4"
+    },
+    "html_url": "https://github.com/kacperkapusciak/goldie",
+    "description": "✨ agentic app store previews and screenshots",
+    "created_at": "2026-08-24T12:36:59Z",
+    "updated_at": "2026-08-31T12:59:36Z",
+    "pushed_at": "2026-08-31T11:36:17Z",
+    "git_url": "git://github.com/kacperkapusciak/goldie.git",
+    "homepage": "",
+    "size": 3448,
+    "stargazers_count": 932,
+    "watchers_count": 932,
+    "language": "TypeScript",
+    "forks_count": 63,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1350091249,
+    "name": "strata",
+    "owner": {
+      "id": 17118095,
+      "url": "https://api.github.com/users/lgse",
+      "html_url": "https://github.com/lgse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17118095?v=4"
+    },
+    "html_url": "https://github.com/lgse/strata",
+    "description": "A fast, keyboard-first file manager for Linux",
+    "created_at": "2026-08-28T22:41:07Z",
+    "updated_at": "2026-08-31T13:04:59Z",
+    "pushed_at": "2026-08-31T12:47:49Z",
+    "git_url": "git://github.com/lgse/strata.git",
+    "homepage": null,
+    "size": 4665,
+    "stargazers_count": 88,
+    "watchers_count": 88,
+    "language": "Rust",
+    "forks_count": 5,
+    "open_issues_count": 14
   }
 ]
