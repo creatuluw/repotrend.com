@@ -71965,5 +71965,74 @@
     "language": "Batchfile",
     "forks_count": 45,
     "open_issues_count": 36
+  },
+  {
+    "id": 1331636953,
+    "name": "dsh-web",
+    "owner": {
+      "id": 46916148,
+      "url": "https://api.github.com/users/zhu1090093659",
+      "html_url": "https://github.com/zhu1090093659",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46916148?v=4"
+    },
+    "html_url": "https://github.com/zhu1090093659/dsh-web",
+    "description": "DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop",
+    "created_at": "2026-08-12T05:15:20Z",
+    "updated_at": "2026-08-31T18:33:21Z",
+    "pushed_at": "2026-08-31T17:07:54Z",
+    "git_url": "git://github.com/zhu1090093659/dsh-web.git",
+    "homepage": "https://dsh-market.com",
+    "size": 442674,
+    "stargazers_count": 6591,
+    "watchers_count": 6591,
+    "language": "TypeScript",
+    "forks_count": 440,
+    "open_issues_count": 9
+  },
+  {
+    "id": 1320827273,
+    "name": "finger-frame-effect-ai",
+    "owner": {
+      "id": 39501859,
+      "url": "https://api.github.com/users/sophiamyang",
+      "html_url": "https://github.com/sophiamyang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39501859?v=4"
+    },
+    "html_url": "https://github.com/sophiamyang/finger-frame-effect-ai",
+    "description": null,
+    "created_at": "2026-08-02T21:58:43Z",
+    "updated_at": "2026-09-01T04:12:40Z",
+    "pushed_at": "2026-08-07T15:27:32Z",
+    "git_url": "git://github.com/sophiamyang/finger-frame-effect-ai.git",
+    "homepage": null,
+    "size": 29309,
+    "stargazers_count": 991,
+    "watchers_count": 991,
+    "language": "JavaScript",
+    "forks_count": 124,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1351417776,
+    "name": "ontology-driven-dev",
+    "owner": {
+      "id": 16699853,
+      "url": "https://api.github.com/users/sharptoolbox",
+      "html_url": "https://github.com/sharptoolbox",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16699853?v=4"
+    },
+    "html_url": "https://github.com/sharptoolbox/ontology-driven-dev",
+    "description": "本体驱动业务系统开发技能：需求探索→本体建模→应用构建三步法，基于七模型本体 YAML 与 code-paas 技术底座。支持 WorkBuddy / Claude Code / Codex。",
+    "created_at": "2026-08-30T13:25:41Z",
+    "updated_at": "2026-08-31T22:33:13Z",
+    "pushed_at": "2026-08-30T13:28:07Z",
+    "git_url": "git://github.com/sharptoolbox/ontology-driven-dev.git",
+    "homepage": null,
+    "size": 234,
+    "stargazers_count": 82,
+    "watchers_count": 82,
+    "language": "TypeScript",
+    "forks_count": 35,
+    "open_issues_count": 0
   }
 ]
