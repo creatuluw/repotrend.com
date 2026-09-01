@@ -72172,5 +72172,74 @@
     "language": "TypeScript",
     "forks_count": 74,
     "open_issues_count": 0
+  },
+  {
+    "id": 1312807575,
+    "name": "codex-chatgpt-web",
+    "owner": {
+      "id": 147659719,
+      "url": "https://api.github.com/users/miuuyy",
+      "html_url": "https://github.com/miuuyy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147659719?v=4"
+    },
+    "html_url": "https://github.com/miuuyy/codex-chatgpt-web",
+    "description": "Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits.",
+    "created_at": "2026-07-26T13:04:44Z",
+    "updated_at": "2026-09-01T11:19:39Z",
+    "pushed_at": "2026-08-31T21:02:51Z",
+    "git_url": "git://github.com/miuuyy/codex-chatgpt-web.git",
+    "homepage": "",
+    "size": 19989,
+    "stargazers_count": 3628,
+    "watchers_count": 3628,
+    "language": "TypeScript",
+    "forks_count": 340,
+    "open_issues_count": 19
+  },
+  {
+    "id": 1343441436,
+    "name": "breakscale",
+    "owner": {
+      "id": 77008538,
+      "url": "https://api.github.com/users/xevrion",
+      "html_url": "https://github.com/xevrion",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77008538?v=4"
+    },
+    "html_url": "https://github.com/xevrion/breakscale",
+    "description": "Build a system, load it until it breaks, and watch why. A system design simulator for learning distributed systems.",
+    "created_at": "2026-08-23T06:21:21Z",
+    "updated_at": "2026-09-01T11:12:31Z",
+    "pushed_at": "2026-08-31T23:08:48Z",
+    "git_url": "git://github.com/xevrion/breakscale.git",
+    "homepage": "https://breakscale.tech",
+    "size": 1865,
+    "stargazers_count": 821,
+    "watchers_count": 821,
+    "language": "TypeScript",
+    "forks_count": 77,
+    "open_issues_count": 15
+  },
+  {
+    "id": 1350442575,
+    "name": "xxd-panel-100",
+    "owner": {
+      "id": 166048,
+      "url": "https://api.github.com/users/nevertoday",
+      "html_url": "https://github.com/nevertoday",
+      "avatar_url": "https://avatars.githubusercontent.com/u/166048?v=4"
+    },
+    "html_url": "https://github.com/nevertoday/xxd-panel-100",
+    "description": "XXD Panel 100 — naïve folk-inspired narrative illustration Soldier Skill",
+    "created_at": "2026-08-29T09:16:50Z",
+    "updated_at": "2026-09-01T07:52:34Z",
+    "pushed_at": "2026-09-01T07:08:45Z",
+    "git_url": "git://github.com/nevertoday/xxd-panel-100.git",
+    "homepage": null,
+    "size": 42109,
+    "stargazers_count": 70,
+    "watchers_count": 70,
+    "language": "Python",
+    "forks_count": 8,
+    "open_issues_count": 0
   }
 ]
