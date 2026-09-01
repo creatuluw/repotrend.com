@@ -72103,5 +72103,74 @@
     "language": "Python",
     "forks_count": 22,
     "open_issues_count": 0
+  },
+  {
+    "id": 1334245678,
+    "name": "dsh-anchored-standard",
+    "owner": {
+      "id": 104243166,
+      "url": "https://api.github.com/users/xiaobright",
+      "html_url": "https://github.com/xiaobright",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104243166?v=4"
+    },
+    "html_url": "https://github.com/xiaobright/dsh-anchored-standard",
+    "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+    "created_at": "2026-08-14T14:06:39Z",
+    "updated_at": "2026-09-01T10:28:54Z",
+    "pushed_at": "2026-08-28T03:10:01Z",
+    "git_url": "git://github.com/xiaobright/dsh-anchored-standard.git",
+    "homepage": "https://github.com/xiaobright/modeltest",
+    "size": 443,
+    "stargazers_count": 3821,
+    "watchers_count": 3821,
+    "language": "JavaScript",
+    "forks_count": 117,
+    "open_issues_count": 20
+  },
+  {
+    "id": 1339208118,
+    "name": "herdrm",
+    "owner": {
+      "id": 55200481,
+      "url": "https://api.github.com/users/missuo",
+      "html_url": "https://github.com/missuo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55200481?v=4"
+    },
+    "html_url": "https://github.com/missuo/herdrm",
+    "description": "Native macOS console for herdr — all your coding agents and their live terminals, across devices",
+    "created_at": "2026-08-19T06:55:39Z",
+    "updated_at": "2026-09-01T07:38:14Z",
+    "pushed_at": "2026-08-29T15:34:34Z",
+    "git_url": "git://github.com/missuo/herdrm.git",
+    "homepage": null,
+    "size": 11785,
+    "stargazers_count": 644,
+    "watchers_count": 644,
+    "language": "C",
+    "forks_count": 48,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1352443439,
+    "name": "jarvis-frontend",
+    "owner": {
+      "id": 184503269,
+      "url": "https://api.github.com/users/Chandrabhanu-Prusty",
+      "html_url": "https://github.com/Chandrabhanu-Prusty",
+      "avatar_url": "https://avatars.githubusercontent.com/u/184503269?v=4"
+    },
+    "html_url": "https://github.com/Chandrabhanu-Prusty/jarvis-frontend",
+    "description": null,
+    "created_at": "2026-08-31T13:26:24Z",
+    "updated_at": "2026-09-01T10:50:40Z",
+    "pushed_at": "2026-08-31T15:49:28Z",
+    "git_url": "git://github.com/Chandrabhanu-Prusty/jarvis-frontend.git",
+    "homepage": null,
+    "size": 4568,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": "TypeScript",
+    "forks_count": 74,
+    "open_issues_count": 0
   }
 ]
