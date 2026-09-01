@@ -72034,5 +72034,74 @@
     "language": "TypeScript",
     "forks_count": 35,
     "open_issues_count": 0
+  },
+  {
+    "id": 1348577064,
+    "name": "PRAXIST",
+    "owner": {
+      "id": 188930505,
+      "url": "https://api.github.com/users/sapientinc",
+      "html_url": "https://github.com/sapientinc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188930505?v=4"
+    },
+    "html_url": "https://github.com/sapientinc/PRAXIST",
+    "description": "Autonomous research system for measurable, computer-executable research.",
+    "created_at": "2026-08-27T14:20:58Z",
+    "updated_at": "2026-09-01T03:42:01Z",
+    "pushed_at": "2026-08-31T06:44:10Z",
+    "git_url": "git://github.com/sapientinc/PRAXIST.git",
+    "homepage": "https://praxist.sapient.inc/en/docs",
+    "size": 15252,
+    "stargazers_count": 5462,
+    "watchers_count": 5462,
+    "language": "Python",
+    "forks_count": 475,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1344223757,
+    "name": "watermark-remover",
+    "owner": {
+      "id": 311792326,
+      "url": "https://api.github.com/users/ShadowAqueduct",
+      "html_url": "https://github.com/ShadowAqueduct",
+      "avatar_url": "https://avatars.githubusercontent.com/u/311792326?v=4"
+    },
+    "html_url": "https://github.com/ShadowAqueduct/watermark-remover",
+    "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+    "created_at": "2026-08-23T21:14:28Z",
+    "updated_at": "2026-09-01T03:41:38Z",
+    "pushed_at": "2026-08-31T12:46:58Z",
+    "git_url": "git://github.com/ShadowAqueduct/watermark-remover.git",
+    "homepage": "",
+    "size": 1812,
+    "stargazers_count": 837,
+    "watchers_count": 837,
+    "language": "Python",
+    "forks_count": 79,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1350932288,
+    "name": "lizheng-open-context",
+    "owner": {
+      "id": 8778475,
+      "url": "https://api.github.com/users/sunyuzheng",
+      "html_url": "https://github.com/sunyuzheng",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8778475?v=4"
+    },
+    "html_url": "https://github.com/sunyuzheng/lizheng-open-context",
+    "description": "Source-grounded public context for 立正: Superlinear posts, selected comments, YouTube, Public Axioms V1, and 《真本事》.",
+    "created_at": "2026-08-29T21:50:20Z",
+    "updated_at": "2026-09-01T04:08:07Z",
+    "pushed_at": "2026-08-31T14:15:57Z",
+    "git_url": "git://github.com/sunyuzheng/lizheng-open-context.git",
+    "homepage": "https://www.superlinear.academy/community",
+    "size": 3211,
+    "stargazers_count": 72,
+    "watchers_count": 72,
+    "language": "Python",
+    "forks_count": 22,
+    "open_issues_count": 0
   }
 ]
