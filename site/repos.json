@@ -72494,5 +72494,51 @@
     "language": "Python",
     "forks_count": 17,
     "open_issues_count": 1
+  },
+  {
+    "id": 1345177309,
+    "name": "personal-edge-proxy",
+    "owner": {
+      "id": 266737355,
+      "url": "https://api.github.com/users/yding-git",
+      "html_url": "https://github.com/yding-git",
+      "avatar_url": "https://avatars.githubusercontent.com/u/266737355?v=4"
+    },
+    "html_url": "https://github.com/yding-git/personal-edge-proxy",
+    "description": "A practical multi-inbound, multi-outbound personal proxy setup with Xray, Hysteria2, REALITY Vision, WARP and optional static SOCKS5 routing.",
+    "created_at": "2026-08-24T16:35:49Z",
+    "updated_at": "2026-09-02T06:47:20Z",
+    "pushed_at": "2026-08-25T01:56:18Z",
+    "git_url": "git://github.com/yding-git/personal-edge-proxy.git",
+    "homepage": null,
+    "size": 90,
+    "stargazers_count": 720,
+    "watchers_count": 720,
+    "language": null,
+    "forks_count": 82,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1351035404,
+    "name": "tatr",
+    "owner": {
+      "id": 18597647,
+      "url": "https://api.github.com/users/tsoding",
+      "html_url": "https://github.com/tsoding",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18597647?v=4"
+    },
+    "html_url": "https://github.com/tsoding/tatr",
+    "description": "Task Tracker",
+    "created_at": "2026-08-30T02:01:19Z",
+    "updated_at": "2026-09-02T09:48:37Z",
+    "pushed_at": "2026-09-01T09:34:30Z",
+    "git_url": "git://github.com/tsoding/tatr.git",
+    "homepage": null,
+    "size": 493,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": "C++",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
