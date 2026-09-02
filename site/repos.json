@@ -72310,5 +72310,51 @@
     "language": "Rust",
     "forks_count": 3,
     "open_issues_count": 1
+  },
+  {
+    "id": 1349765459,
+    "name": "boop",
+    "owner": {
+      "id": 5280429,
+      "url": "https://api.github.com/users/chrisgreg",
+      "html_url": "https://github.com/chrisgreg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5280429?v=4"
+    },
+    "html_url": "https://github.com/chrisgreg/boop",
+    "description": "A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
+    "created_at": "2026-08-28T15:38:33Z",
+    "updated_at": "2026-08-31T20:18:22Z",
+    "pushed_at": "2026-08-30T11:34:44Z",
+    "git_url": "git://github.com/chrisgreg/boop.git",
+    "homepage": null,
+    "size": 695,
+    "stargazers_count": 665,
+    "watchers_count": 665,
+    "language": "Go",
+    "forks_count": 31,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1351007885,
+    "name": "strafe",
+    "owner": {
+      "id": 129792581,
+      "url": "https://api.github.com/users/rileycx",
+      "html_url": "https://github.com/rileycx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129792581?v=4"
+    },
+    "html_url": "https://github.com/rileycx/strafe",
+    "description": "Instant macOS Space switching. No animation delay, interactive immediately. Source-only, zero dependencies, ~1k lines.",
+    "created_at": "2026-08-30T00:52:17Z",
+    "updated_at": "2026-08-31T12:09:30Z",
+    "pushed_at": "2026-08-30T10:46:03Z",
+    "git_url": "git://github.com/rileycx/strafe.git",
+    "homepage": null,
+    "size": 1642,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "Swift",
+    "forks_count": 1,
+    "open_issues_count": 1
   }
 ]
