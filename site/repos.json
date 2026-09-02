@@ -72425,5 +72425,74 @@
     "language": null,
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1336933337,
+    "name": "cumora",
+    "owner": {
+      "id": 1206493,
+      "url": "https://api.github.com/users/yetone",
+      "html_url": "https://github.com/yetone",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1206493?v=4"
+    },
+    "html_url": "https://github.com/yetone/cumora",
+    "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+    "created_at": "2026-08-17T09:13:52Z",
+    "updated_at": "2026-09-02T10:54:01Z",
+    "pushed_at": "2026-09-02T10:26:09Z",
+    "git_url": "git://github.com/yetone/cumora.git",
+    "homepage": "https://cumora.ai",
+    "size": 27681,
+    "stargazers_count": 3412,
+    "watchers_count": 3412,
+    "language": "TypeScript",
+    "forks_count": 425,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1326329875,
+    "name": "my_ai_town",
+    "owner": {
+      "id": 128780054,
+      "url": "https://api.github.com/users/mewamew",
+      "html_url": "https://github.com/mewamew",
+      "avatar_url": "https://avatars.githubusercontent.com/u/128780054?v=4"
+    },
+    "html_url": "https://github.com/mewamew/my_ai_town",
+    "description": "我的AI小镇",
+    "created_at": "2026-08-07T07:10:40Z",
+    "updated_at": "2026-09-02T10:43:56Z",
+    "pushed_at": "2026-09-02T10:43:50Z",
+    "git_url": "git://github.com/mewamew/my_ai_town.git",
+    "homepage": null,
+    "size": 599648,
+    "stargazers_count": 743,
+    "watchers_count": 743,
+    "language": "GDScript",
+    "forks_count": 173,
+    "open_issues_count": 13
+  },
+  {
+    "id": 1351469027,
+    "name": "r20-quantum-trader",
+    "owner": {
+      "id": 14028094,
+      "url": "https://api.github.com/users/555cute",
+      "html_url": "https://github.com/555cute",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14028094?v=4"
+    },
+    "html_url": "https://github.com/555cute/r20-quantum-trader",
+    "description": "⚡ LLM-Native Self-Evolving Quantitative Trading Terminal & Execution Engine (Bloomberg-Style Dark Terminal + 6-Asset AI Brain)",
+    "created_at": "2026-08-30T14:34:10Z",
+    "updated_at": "2026-09-02T06:10:38Z",
+    "pushed_at": "2026-09-02T06:08:21Z",
+    "git_url": "git://github.com/555cute/r20-quantum-trader.git",
+    "homepage": "https://www.r20.cn",
+    "size": 7980,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": "Python",
+    "forks_count": 17,
+    "open_issues_count": 1
   }
 ]
