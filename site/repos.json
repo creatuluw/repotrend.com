@@ -72816,5 +72816,51 @@
     "language": "Python",
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1342227253,
+    "name": "agenttrail",
+    "owner": {
+      "id": 216979453,
+      "url": "https://api.github.com/users/sodiumsun",
+      "html_url": "https://github.com/sodiumsun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/216979453?v=4"
+    },
+    "html_url": "https://github.com/sodiumsun/agenttrail",
+    "description": "An infinite canvas for your AI coding agents. Every repo is a region on one zoomable live map - watch Claude Code, Codex, and Cursor sessions, plans, tool calls, and file changes in real time. Local, zero-dependency.",
+    "created_at": "2026-08-21T21:14:33Z",
+    "updated_at": "2026-09-03T09:04:35Z",
+    "pushed_at": "2026-08-31T17:25:02Z",
+    "git_url": "git://github.com/sodiumsun/agenttrail.git",
+    "homepage": null,
+    "size": 28006,
+    "stargazers_count": 636,
+    "watchers_count": 636,
+    "language": "HTML",
+    "forks_count": 43,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1352490697,
+    "name": "audit-mind",
+    "owner": {
+      "id": 3770596,
+      "url": "https://api.github.com/users/razr001",
+      "html_url": "https://github.com/razr001",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3770596?v=4"
+    },
+    "html_url": "https://github.com/razr001/audit-mind",
+    "description": "AuditMind 是一个面向法规合规与审计场景的 AI Agent 系统，支持法规知识管理、可追溯规则抽取、文档合规审计、审计任务管理和基于原文证据的智能问答",
+    "created_at": "2026-08-31T14:11:20Z",
+    "updated_at": "2026-09-02T16:07:13Z",
+    "pushed_at": "2026-09-01T17:14:00Z",
+    "git_url": "git://github.com/razr001/audit-mind.git",
+    "homepage": null,
+    "size": 5555,
+    "stargazers_count": 84,
+    "watchers_count": 84,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
