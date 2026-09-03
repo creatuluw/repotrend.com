@@ -72678,5 +72678,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1328517501,
+    "name": "VoCat",
+    "owner": {
+      "id": 227010654,
+      "url": "https://api.github.com/users/MengMengCode",
+      "html_url": "https://github.com/MengMengCode",
+      "avatar_url": "https://avatars.githubusercontent.com/u/227010654?v=4"
+    },
+    "html_url": "https://github.com/MengMengCode/VoCat",
+    "description": "Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service.",
+    "created_at": "2026-08-09T06:43:49Z",
+    "updated_at": "2026-09-02T14:28:38Z",
+    "pushed_at": "2026-09-02T14:05:51Z",
+    "git_url": "git://github.com/MengMengCode/VoCat.git",
+    "homepage": "",
+    "size": 4261,
+    "stargazers_count": 741,
+    "watchers_count": 741,
+    "language": "Go",
+    "forks_count": 236,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1353045656,
+    "name": "ComfyUI-DLSS5-NR",
+    "owner": {
+      "id": 203462701,
+      "url": "https://api.github.com/users/lisitskyaa",
+      "html_url": "https://github.com/lisitskyaa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/203462701?v=4"
+    },
+    "html_url": "https://github.com/lisitskyaa/ComfyUI-DLSS5-NR",
+    "description": "Experimental support of DLSS 5 in ComfyUI",
+    "created_at": "2026-09-01T02:20:51Z",
+    "updated_at": "2026-09-02T19:18:43Z",
+    "pushed_at": "2026-09-02T14:45:48Z",
+    "git_url": "git://github.com/lisitskyaa/ComfyUI-DLSS5-NR.git",
+    "homepage": null,
+    "size": 62,
+    "stargazers_count": 93,
+    "watchers_count": 93,
+    "language": "C++",
+    "forks_count": 14,
+    "open_issues_count": 1
   }
 ]
