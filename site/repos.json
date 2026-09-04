@@ -72908,5 +72908,74 @@
     "language": "Shell",
     "forks_count": 11,
     "open_issues_count": 0
+  },
+  {
+    "id": 1327088798,
+    "name": "utopia",
+    "owner": {
+      "id": 282846749,
+      "url": "https://api.github.com/users/deeplethe",
+      "html_url": "https://github.com/deeplethe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/282846749?v=4"
+    },
+    "html_url": "https://github.com/deeplethe/utopia",
+    "description": "World's first open-source enterprise world model.",
+    "created_at": "2026-08-07T19:33:17Z",
+    "updated_at": "2026-09-03T20:39:04Z",
+    "pushed_at": "2026-09-03T19:16:54Z",
+    "git_url": "git://github.com/deeplethe/utopia.git",
+    "homepage": null,
+    "size": 3820,
+    "stargazers_count": 3499,
+    "watchers_count": 3499,
+    "language": "Rust",
+    "forks_count": 299,
+    "open_issues_count": 10
+  },
+  {
+    "id": 1326099407,
+    "name": "Lody",
+    "owner": {
+      "id": 272439005,
+      "url": "https://api.github.com/users/LodyAI",
+      "html_url": "https://github.com/LodyAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272439005?v=4"
+    },
+    "html_url": "https://github.com/LodyAI/Lody",
+    "description": "Share coding agents with your team on phone and desktop",
+    "created_at": "2026-08-07T02:09:16Z",
+    "updated_at": "2026-09-03T16:31:42Z",
+    "pushed_at": "2026-09-03T17:34:20Z",
+    "git_url": "git://github.com/LodyAI/Lody.git",
+    "homepage": "https://lody.ai",
+    "size": 80007,
+    "stargazers_count": 869,
+    "watchers_count": 869,
+    "language": "TypeScript",
+    "forks_count": 101,
+    "open_issues_count": 98
+  },
+  {
+    "id": 1352419294,
+    "name": "SmartOpenMAIC",
+    "owner": {
+      "id": 319595299,
+      "url": "https://api.github.com/users/Tyche-MKR",
+      "html_url": "https://github.com/Tyche-MKR",
+      "avatar_url": "https://avatars.githubusercontent.com/u/319595299?v=4"
+    },
+    "html_url": "https://github.com/Tyche-MKR/SmartOpenMAIC",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+    "created_at": "2026-08-31T13:02:24Z",
+    "updated_at": "2026-09-02T23:18:07Z",
+    "pushed_at": "2026-08-31T13:04:51Z",
+    "git_url": "git://github.com/Tyche-MKR/SmartOpenMAIC.git",
+    "homepage": null,
+    "size": 100829,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "TypeScript",
+    "forks_count": 18,
+    "open_issues_count": 0
   }
 ]
