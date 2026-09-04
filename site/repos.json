@@ -73184,5 +73184,51 @@
     "language": "Go",
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1334886021,
+    "name": "barehands",
+    "owner": {
+      "id": 271634304,
+      "url": "https://api.github.com/users/jaredrhod",
+      "html_url": "https://github.com/jaredrhod",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271634304?v=4"
+    },
+    "html_url": "https://github.com/jaredrhod/barehands",
+    "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
+    "created_at": "2026-08-15T07:30:37Z",
+    "updated_at": "2026-09-04T18:59:02Z",
+    "pushed_at": "2026-08-30T13:38:03Z",
+    "git_url": "git://github.com/jaredrhod/barehands.git",
+    "homepage": "https://jaredrhod.com",
+    "size": 2690,
+    "stargazers_count": 868,
+    "watchers_count": 868,
+    "language": "HTML",
+    "forks_count": 188,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1353505702,
+    "name": "whiskerlink",
+    "owner": {
+      "id": 271374756,
+      "url": "https://api.github.com/users/DavidCarliez",
+      "html_url": "https://github.com/DavidCarliez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271374756?v=4"
+    },
+    "html_url": "https://github.com/DavidCarliez/whiskerlink",
+    "description": "Tailcat GUI for easy file & service sharing",
+    "created_at": "2026-09-01T11:43:14Z",
+    "updated_at": "2026-09-04T16:28:17Z",
+    "pushed_at": "2026-09-02T17:49:12Z",
+    "git_url": "git://github.com/DavidCarliez/whiskerlink.git",
+    "homepage": "",
+    "size": 8755,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "Java",
+    "forks_count": 2,
+    "open_issues_count": 1
   }
 ]
