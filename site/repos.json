@@ -73115,5 +73115,74 @@
     "language": "Python",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1337955304,
+    "name": "sprix-sage-router",
+    "owner": {
+      "id": 78741078,
+      "url": "https://api.github.com/users/wang2122",
+      "html_url": "https://github.com/wang2122",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78741078?v=4"
+    },
+    "html_url": "https://github.com/wang2122/sprix-sage-router",
+    "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+    "created_at": "2026-08-18T04:08:11Z",
+    "updated_at": "2026-09-04T15:07:11Z",
+    "pushed_at": "2026-08-28T09:12:08Z",
+    "git_url": "git://github.com/wang2122/sprix-sage-router.git",
+    "homepage": "",
+    "size": 350,
+    "stargazers_count": 3406,
+    "watchers_count": 3406,
+    "language": "Python",
+    "forks_count": 400,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1336663851,
+    "name": "apex-inference-chip",
+    "owner": {
+      "id": 219103514,
+      "url": "https://api.github.com/users/SigmanticAI",
+      "html_url": "https://github.com/SigmanticAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219103514?v=4"
+    },
+    "html_url": "https://github.com/SigmanticAI/apex-inference-chip",
+    "description": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
+    "created_at": "2026-08-17T04:25:26Z",
+    "updated_at": "2026-09-03T14:08:10Z",
+    "pushed_at": "2026-08-18T17:10:33Z",
+    "git_url": "git://github.com/SigmanticAI/apex-inference-chip.git",
+    "homepage": "https://www.sigmanticai.com",
+    "size": 7858,
+    "stargazers_count": 616,
+    "watchers_count": 616,
+    "language": "Python",
+    "forks_count": 10,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1354518773,
+    "name": "subpool",
+    "owner": {
+      "id": 304205673,
+      "url": "https://api.github.com/users/gesta-run",
+      "html_url": "https://github.com/gesta-run",
+      "avatar_url": "https://avatars.githubusercontent.com/u/304205673?v=4"
+    },
+    "html_url": "https://github.com/gesta-run/subpool",
+    "description": "  A lightweight, self-hosted AI subscription pool for teams.",
+    "created_at": "2026-09-02T08:27:21Z",
+    "updated_at": "2026-09-04T10:26:35Z",
+    "pushed_at": "2026-09-04T08:34:44Z",
+    "git_url": "git://github.com/gesta-run/subpool.git",
+    "homepage": "",
+    "size": 816,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "Go",
+    "forks_count": 5,
+    "open_issues_count": 0
   }
 ]
