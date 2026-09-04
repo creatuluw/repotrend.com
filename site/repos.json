@@ -72977,5 +72977,51 @@
     "language": "TypeScript",
     "forks_count": 18,
     "open_issues_count": 0
+  },
+  {
+    "id": 1339882795,
+    "name": "rewards-farmer",
+    "owner": {
+      "id": 78310305,
+      "url": "https://api.github.com/users/User0332",
+      "html_url": "https://github.com/User0332",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78310305?v=4"
+    },
+    "html_url": "https://github.com/User0332/rewards-farmer",
+    "description": "Automation for MS Rewards based on https://youtu.be/4qdPcMNaioA",
+    "created_at": "2026-08-19T18:03:19Z",
+    "updated_at": "2026-09-04T03:23:07Z",
+    "pushed_at": "2026-08-31T13:33:30Z",
+    "git_url": "git://github.com/User0332/rewards-farmer.git",
+    "homepage": "https://youtu.be/4qdPcMNaioA",
+    "size": 827,
+    "stargazers_count": 794,
+    "watchers_count": 794,
+    "language": "Python",
+    "forks_count": 128,
+    "open_issues_count": 40
+  },
+  {
+    "id": 1351477655,
+    "name": "mainline-guardian",
+    "owner": {
+      "id": 187192157,
+      "url": "https://api.github.com/users/givemeadc",
+      "html_url": "https://github.com/givemeadc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187192157?v=4"
+    },
+    "html_url": "https://github.com/givemeadc/mainline-guardian",
+    "description": "给 AI 装一个“别跑题、别自嗨、别忘记最初目标”的项目导航仪。让 AI 一直记得自己真正要完成什么：守住主线、管理支线、保留经验",
+    "created_at": "2026-08-30T14:45:13Z",
+    "updated_at": "2026-09-02T13:01:39Z",
+    "pushed_at": "2026-08-30T15:09:13Z",
+    "git_url": "git://github.com/givemeadc/mainline-guardian.git",
+    "homepage": null,
+    "size": 25,
+    "stargazers_count": 59,
+    "watchers_count": 59,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 1
   }
 ]
