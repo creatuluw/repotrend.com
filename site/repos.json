@@ -73069,5 +73069,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1330160336,
+    "name": "airship",
+    "owner": {
+      "id": 91504165,
+      "url": "https://api.github.com/users/0xnyn",
+      "html_url": "https://github.com/0xnyn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91504165?v=4"
+    },
+    "html_url": "https://github.com/0xnyn/airship",
+    "description": "Figma like visual editor built for Claude Code, Codex and OpenCode",
+    "created_at": "2026-08-10T19:03:10Z",
+    "updated_at": "2026-09-03T18:50:59Z",
+    "pushed_at": "2026-08-31T02:13:52Z",
+    "git_url": "git://github.com/0xnyn/airship.git",
+    "homepage": "https://airship.design",
+    "size": 6398,
+    "stargazers_count": 656,
+    "watchers_count": 656,
+    "language": "TypeScript",
+    "forks_count": 74,
+    "open_issues_count": 9
+  },
+  {
+    "id": 1354997816,
+    "name": "cloudflare-challenge-clearance",
+    "owner": {
+      "id": 306811885,
+      "url": "https://api.github.com/users/Maas6696",
+      "html_url": "https://github.com/Maas6696",
+      "avatar_url": "https://avatars.githubusercontent.com/u/306811885?v=4"
+    },
+    "html_url": "https://github.com/Maas6696/cloudflare-challenge-clearance",
+    "description": "Bypass the Cloudflare challenge (Just a moment / 5s) in Python and get a valid cf_clearance cookie via the Peak API - headless-friendly, proxy-aware.",
+    "created_at": "2026-09-02T16:39:22Z",
+    "updated_at": "2026-09-02T17:05:52Z",
+    "pushed_at": "2026-09-02T16:39:33Z",
+    "git_url": "git://github.com/Maas6696/cloudflare-challenge-clearance.git",
+    "homepage": null,
+    "size": 434,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
