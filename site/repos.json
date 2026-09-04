@@ -72862,5 +72862,51 @@
     "language": "Python",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1327095724,
+    "name": "keslr_connect",
+    "owner": {
+      "id": 260159120,
+      "url": "https://api.github.com/users/keslr",
+      "html_url": "https://github.com/keslr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260159120?v=4"
+    },
+    "html_url": "https://github.com/keslr/keslr_connect",
+    "description": "Connect your service to Keslr: sign in with Keslr and read the verification claim that proves a user is a real, vouched-for human — plus run services reachable only by Keslr members.",
+    "created_at": "2026-08-07T19:41:20Z",
+    "updated_at": "2026-09-02T19:30:06Z",
+    "pushed_at": "2026-08-07T20:13:28Z",
+    "git_url": "git://github.com/keslr/keslr_connect.git",
+    "homepage": null,
+    "size": 154,
+    "stargazers_count": 871,
+    "watchers_count": 871,
+    "language": "TypeScript",
+    "forks_count": 107,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1353421964,
+    "name": "God-minmax-H3",
+    "owner": {
+      "id": 238615551,
+      "url": "https://api.github.com/users/LIUFelix2004",
+      "html_url": "https://github.com/LIUFelix2004",
+      "avatar_url": "https://avatars.githubusercontent.com/u/238615551?v=4"
+    },
+    "html_url": "https://github.com/LIUFelix2004/God-minmax-H3",
+    "description": null,
+    "created_at": "2026-09-01T10:12:00Z",
+    "updated_at": "2026-09-02T15:03:28Z",
+    "pushed_at": "2026-09-01T10:43:37Z",
+    "git_url": "git://github.com/LIUFelix2004/God-minmax-H3.git",
+    "homepage": null,
+    "size": 302,
+    "stargazers_count": 85,
+    "watchers_count": 85,
+    "language": "Shell",
+    "forks_count": 11,
+    "open_issues_count": 0
   }
 ]
