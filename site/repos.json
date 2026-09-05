@@ -73391,5 +73391,51 @@
     "language": "C",
     "forks_count": 2,
     "open_issues_count": 1
+  },
+  {
+    "id": 1346800521,
+    "name": "shrimply",
+    "owner": {
+      "id": 133444309,
+      "url": "https://api.github.com/users/soirihiroka",
+      "html_url": "https://github.com/soirihiroka",
+      "avatar_url": "https://avatars.githubusercontent.com/u/133444309?v=4"
+    },
+    "html_url": "https://github.com/soirihiroka/shrimply",
+    "description": "you're telling me a shrimp made this video?",
+    "created_at": "2026-08-26T01:55:08Z",
+    "updated_at": "2026-09-04T20:28:30Z",
+    "pushed_at": "2026-09-04T16:01:13Z",
+    "git_url": "git://github.com/soirihiroka/shrimply.git",
+    "homepage": "shrimply.pages.dev",
+    "size": 169855,
+    "stargazers_count": 795,
+    "watchers_count": 795,
+    "language": "Rust",
+    "forks_count": 41,
+    "open_issues_count": 11
+  },
+  {
+    "id": 1355971692,
+    "name": "blade-ball-script-lab",
+    "owner": {
+      "id": 321923755,
+      "url": "https://api.github.com/users/jerestevens987",
+      "html_url": "https://github.com/jerestevens987",
+      "avatar_url": "https://avatars.githubusercontent.com/u/321923755?v=4"
+    },
+    "html_url": "https://github.com/jerestevens987/blade-ball-script-lab",
+    "description": "Blade Ball gameplay analysis lab focused on scripts, combat patterns, timing, movement, sword performance, match statistics and Roblox gameplay research",
+    "created_at": "2026-09-03T12:49:41Z",
+    "updated_at": "2026-09-03T16:57:34Z",
+    "pushed_at": "2026-09-03T12:50:47Z",
+    "git_url": "git://github.com/jerestevens987/blade-ball-script-lab.git",
+    "homepage": "",
+    "size": 4,
+    "stargazers_count": 56,
+    "watchers_count": 56,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
