@@ -73230,5 +73230,74 @@
     "language": "Java",
     "forks_count": 2,
     "open_issues_count": 1
+  },
+  {
+    "id": 1331728719,
+    "name": "ASu-skills",
+    "owner": {
+      "id": 212549348,
+      "url": "https://api.github.com/users/Hisn00w",
+      "html_url": "https://github.com/Hisn00w",
+      "avatar_url": "https://avatars.githubusercontent.com/u/212549348?v=4"
+    },
+    "html_url": "https://github.com/Hisn00w/ASu-skills",
+    "description": "🚀面向求职与开发场景的实用 AI Skills 集合，支持简历优化、岗位投递、面试准备与开发提效。",
+    "created_at": "2026-08-12T07:12:05Z",
+    "updated_at": "2026-09-04T20:16:26Z",
+    "pushed_at": "2026-09-04T14:34:01Z",
+    "git_url": "git://github.com/Hisn00w/ASu-skills.git",
+    "homepage": "",
+    "size": 14315,
+    "stargazers_count": 3508,
+    "watchers_count": 3508,
+    "language": "HTML",
+    "forks_count": 220,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1334903895,
+    "name": "Echo-Music",
+    "owner": {
+      "id": 258176326,
+      "url": "https://api.github.com/users/EchoMusicApp",
+      "html_url": "https://github.com/EchoMusicApp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/258176326?v=4"
+    },
+    "html_url": "https://github.com/EchoMusicApp/Echo-Music",
+    "description": "An YouTube Music Client",
+    "created_at": "2026-08-15T08:00:26Z",
+    "updated_at": "2026-09-04T18:59:11Z",
+    "pushed_at": "2026-09-04T05:27:03Z",
+    "git_url": "git://github.com/EchoMusicApp/Echo-Music.git",
+    "homepage": "https://echomusic.fun",
+    "size": 340295,
+    "stargazers_count": 897,
+    "watchers_count": 897,
+    "language": "Kotlin",
+    "forks_count": 96,
+    "open_issues_count": 28
+  },
+  {
+    "id": 1355451662,
+    "name": "nafkah",
+    "owner": {
+      "id": 4465236,
+      "url": "https://api.github.com/users/adenaufal",
+      "html_url": "https://github.com/adenaufal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4465236?v=4"
+    },
+    "html_url": "https://github.com/adenaufal/nafkah",
+    "description": "Peta interaktif kecukupan UMK/UMP terhadap biaya hidup di 514 kabupaten/kota Indonesia. Static Next.js, data CC BY 4.0.",
+    "created_at": "2026-09-03T03:01:49Z",
+    "updated_at": "2026-09-04T20:29:26Z",
+    "pushed_at": "2026-09-03T08:14:45Z",
+    "git_url": "git://github.com/adenaufal/nafkah.git",
+    "homepage": "https://nafkah.adenaufal.com",
+    "size": 1276,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": "TypeScript",
+    "forks_count": 5,
+    "open_issues_count": 0
   }
 ]
