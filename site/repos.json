@@ -73828,5 +73828,74 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1267145484,
+    "name": "magnitude",
+    "owner": {
+      "id": 199500616,
+      "url": "https://api.github.com/users/magnitudedev",
+      "html_url": "https://github.com/magnitudedev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/199500616?v=4"
+    },
+    "html_url": "https://github.com/magnitudedev/magnitude",
+    "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+    "created_at": "2026-06-12T09:06:26Z",
+    "updated_at": "2026-09-06T15:09:48Z",
+    "pushed_at": "2026-09-06T07:15:54Z",
+    "git_url": "git://github.com/magnitudedev/magnitude.git",
+    "homepage": "https://magnitude.dev",
+    "size": 31595,
+    "stargazers_count": 3505,
+    "watchers_count": 3505,
+    "language": "TypeScript",
+    "forks_count": 254,
+    "open_issues_count": 18
+  },
+  {
+    "id": 1348793218,
+    "name": "my-free-code",
+    "owner": {
+      "id": 153429021,
+      "url": "https://api.github.com/users/hkqr",
+      "html_url": "https://github.com/hkqr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153429021?v=4"
+    },
+    "html_url": "https://github.com/hkqr/my-free-code",
+    "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
+    "created_at": "2026-08-27T17:59:23Z",
+    "updated_at": "2026-09-04T00:07:59Z",
+    "pushed_at": "2026-08-28T09:02:17Z",
+    "git_url": "git://github.com/hkqr/my-free-code.git",
+    "homepage": "",
+    "size": 86,
+    "stargazers_count": 626,
+    "watchers_count": 626,
+    "language": "Python",
+    "forks_count": 211,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1358103117,
+    "name": "Discord-Token-Generator",
+    "owner": {
+      "id": 279273448,
+      "url": "https://api.github.com/users/johnj-eng96n9",
+      "html_url": "https://github.com/johnj-eng96n9",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279273448?v=4"
+    },
+    "html_url": "https://github.com/johnj-eng96n9/Discord-Token-Generator",
+    "description": "Discord Token Generator for Mass Discord bot token generator and manager. Create, manage, and export bot tokens in bulk.",
+    "created_at": "2026-09-05T11:01:57Z",
+    "updated_at": "2026-09-05T12:18:36Z",
+    "pushed_at": "2026-09-05T11:11:03Z",
+    "git_url": "git://github.com/johnj-eng96n9/Discord-Token-Generator.git",
+    "homepage": "",
+    "size": 5,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": "Python",
+    "forks_count": 27,
+    "open_issues_count": 0
   }
 ]
