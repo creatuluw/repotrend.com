@@ -73552,5 +73552,74 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1354310030,
+    "name": "m3e-canvas",
+    "owner": {
+      "id": 187016380,
+      "url": "https://api.github.com/users/lnkiai",
+      "html_url": "https://github.com/lnkiai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187016380?v=4"
+    },
+    "html_url": "https://github.com/lnkiai/m3e-canvas",
+    "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+    "created_at": "2026-09-02T04:36:34Z",
+    "updated_at": "2026-09-05T20:01:15Z",
+    "pushed_at": "2026-09-05T16:15:32Z",
+    "git_url": "git://github.com/lnkiai/m3e-canvas.git",
+    "homepage": "https://lnkiai.github.io/m3e-canvas/",
+    "size": 9213,
+    "stargazers_count": 3545,
+    "watchers_count": 3545,
+    "language": "TypeScript",
+    "forks_count": 289,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1334685457,
+    "name": "-AI-",
+    "owner": {
+      "id": 207336326,
+      "url": "https://api.github.com/users/gry67673905",
+      "html_url": "https://github.com/gry67673905",
+      "avatar_url": "https://avatars.githubusercontent.com/u/207336326?v=4"
+    },
+    "html_url": "https://github.com/gry67673905/-AI-",
+    "description": "软件实习项目作业",
+    "created_at": "2026-08-15T00:45:52Z",
+    "updated_at": "2026-09-04T20:07:51Z",
+    "pushed_at": "2026-09-02T13:23:20Z",
+    "git_url": "git://github.com/gry67673905/-AI-.git",
+    "homepage": null,
+    "size": 35551,
+    "stargazers_count": 781,
+    "watchers_count": 781,
+    "language": "Python",
+    "forks_count": 129,
+    "open_issues_count": 100
+  },
+  {
+    "id": 1355679277,
+    "name": "ai-native-sdlc-playbook",
+    "owner": {
+      "id": 365484,
+      "url": "https://api.github.com/users/yibie",
+      "html_url": "https://github.com/yibie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/365484?v=4"
+    },
+    "html_url": "https://github.com/yibie/ai-native-sdlc-playbook",
+    "description": "The AI-Native SDLC Playbook — Anthropic Claude Academy course as EPUB ebook",
+    "created_at": "2026-09-03T07:54:45Z",
+    "updated_at": "2026-09-05T17:07:20Z",
+    "pushed_at": "2026-09-03T08:54:01Z",
+    "git_url": "git://github.com/yibie/ai-native-sdlc-playbook.git",
+    "homepage": null,
+    "size": 476,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": null,
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
