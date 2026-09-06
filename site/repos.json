@@ -73736,5 +73736,51 @@
     "language": "Python",
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1343011496,
+    "name": "video-talkcraft",
+    "owner": {
+      "id": 18239147,
+      "url": "https://api.github.com/users/Vincentwei1021",
+      "html_url": "https://github.com/Vincentwei1021",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18239147?v=4"
+    },
+    "html_url": "https://github.com/Vincentwei1021/video-talkcraft",
+    "description": "Agent skill that turns Claude Code / Codex into a motion-design studio for voiceover-driven explainer videos — word-level voiceover sync, 78 motion recipe cards, an anti-slideshow camera system, Remotion rendering.",
+    "created_at": "2026-08-22T17:11:05Z",
+    "updated_at": "2026-09-06T10:27:02Z",
+    "pushed_at": "2026-09-06T10:26:58Z",
+    "git_url": "git://github.com/Vincentwei1021/video-talkcraft.git",
+    "homepage": "https://vincentwei1021.github.io/video-talkcraft/",
+    "size": 34822,
+    "stargazers_count": 759,
+    "watchers_count": 759,
+    "language": "HTML",
+    "forks_count": 67,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1358346534,
+    "name": "codex-astra-luna-orchestrator",
+    "owner": {
+      "id": 890270,
+      "url": "https://api.github.com/users/donvito",
+      "html_url": "https://github.com/donvito",
+      "avatar_url": "https://avatars.githubusercontent.com/u/890270?v=4"
+    },
+    "html_url": "https://github.com/donvito/codex-astra-luna-orchestrator",
+    "description": "Use Astra as orchestrator and Luna as implementor",
+    "created_at": "2026-09-05T16:03:06Z",
+    "updated_at": "2026-09-06T10:30:45Z",
+    "pushed_at": "2026-09-06T08:39:23Z",
+    "git_url": "git://github.com/donvito/codex-astra-luna-orchestrator.git",
+    "homepage": null,
+    "size": 20,
+    "stargazers_count": 99,
+    "watchers_count": 99,
+    "language": "PowerShell",
+    "forks_count": 5,
+    "open_issues_count": 0
   }
 ]
