@@ -73621,5 +73621,51 @@
     "language": null,
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1336643065,
+    "name": "fullstack-agent",
+    "owner": {
+      "id": 271634304,
+      "url": "https://api.github.com/users/jaredrhod",
+      "html_url": "https://github.com/jaredrhod",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271634304?v=4"
+    },
+    "html_url": "https://github.com/jaredrhod/fullstack-agent",
+    "description": "Give your AI a full stack: memory, voice, face, and hands. This is the \"I want an AI agent\" shortcut. It sets up the entire jaredrhod stack for you with an installation wizard. Select which pieces you want or do it all!",
+    "created_at": "2026-08-17T04:00:03Z",
+    "updated_at": "2026-09-04T20:02:28Z",
+    "pushed_at": "2026-08-30T13:48:31Z",
+    "git_url": "git://github.com/jaredrhod/fullstack-agent.git",
+    "homepage": null,
+    "size": 68,
+    "stargazers_count": 689,
+    "watchers_count": 689,
+    "language": "Batchfile",
+    "forks_count": 210,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1355823958,
+    "name": "plain-prose",
+    "owner": {
+      "id": 66335115,
+      "url": "https://api.github.com/users/dripips",
+      "html_url": "https://github.com/dripips",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66335115?v=4"
+    },
+    "html_url": "https://github.com/dripips/plain-prose",
+    "description": "Agent skill that removes AI writing patterns from English, Russian and German prose. Merges stop-slop and avoid-ai-writing, adds a zero-dependency checker.",
+    "created_at": "2026-09-03T10:23:13Z",
+    "updated_at": "2026-09-04T13:44:08Z",
+    "pushed_at": "2026-09-04T00:13:30Z",
+    "git_url": "git://github.com/dripips/plain-prose.git",
+    "homepage": null,
+    "size": 696,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
