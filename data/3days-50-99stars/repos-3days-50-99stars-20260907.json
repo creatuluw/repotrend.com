@@ -23,52 +23,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1359630749,
-    "name": "hyalite--liquid-glass",
-    "owner": {
-      "id": 316832668,
-      "url": "https://api.github.com/users/VII-Cae",
-      "html_url": "https://github.com/VII-Cae",
-      "avatar_url": "https://avatars.githubusercontent.com/u/316832668?v=4"
-    },
-    "html_url": "https://github.com/VII-Cae/hyalite--liquid-glass",
-    "description": "Real refraction liquid glass for the web: SDF lens maps + SVG displacement + backdrop-filter. One file, no WebGL.",
-    "created_at": "2026-09-07T01:20:43Z",
-    "updated_at": "2026-09-07T17:39:21Z",
-    "pushed_at": "2026-09-07T08:55:03Z",
-    "git_url": "git://github.com/VII-Cae/hyalite--liquid-glass.git",
-    "homepage": "https://vii-cae.github.io/hyalite--liquid-glass/demo/index.html",
-    "size": 956,
-    "stargazers_count": 98,
-    "watchers_count": 98,
-    "language": "JavaScript",
-    "forks_count": 7,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1358259232,
-    "name": "mador",
-    "owner": {
-      "id": 19212506,
-      "url": "https://api.github.com/users/marsbos",
-      "html_url": "https://github.com/marsbos",
-      "avatar_url": "https://avatars.githubusercontent.com/u/19212506?v=4"
-    },
-    "html_url": "https://github.com/marsbos/mador",
-    "description": "Make Any DOM Reactive",
-    "created_at": "2026-09-05T14:14:36Z",
-    "updated_at": "2026-09-07T17:33:08Z",
-    "pushed_at": "2026-09-06T22:06:58Z",
-    "git_url": "git://github.com/marsbos/mador.git",
-    "homepage": null,
-    "size": 30,
-    "stargazers_count": 96,
-    "watchers_count": 96,
-    "language": "JavaScript",
-    "forks_count": 3,
-    "open_issues_count": 0
-  },
-  {
     "id": 1357036560,
     "name": "Agent-2",
     "owner": {
@@ -115,6 +69,29 @@
     "open_issues_count": 0
   },
   {
+    "id": 1356764064,
+    "name": "CMP40HX-Unlock",
+    "owner": {
+      "id": 195555379,
+      "url": "https://api.github.com/users/PZH1gdmu",
+      "html_url": "https://github.com/PZH1gdmu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/195555379?v=4"
+    },
+    "html_url": "https://github.com/PZH1gdmu/CMP40HX-Unlock",
+    "description": null,
+    "created_at": "2026-09-04T06:11:08Z",
+    "updated_at": "2026-09-07T21:03:35Z",
+    "pushed_at": "2026-09-06T11:22:55Z",
+    "git_url": "git://github.com/PZH1gdmu/CMP40HX-Unlock.git",
+    "homepage": null,
+    "size": 7375,
+    "stargazers_count": 90,
+    "watchers_count": 90,
+    "language": "C",
+    "forks_count": 12,
+    "open_issues_count": 24
+  },
+  {
     "id": 1358160514,
     "name": "global-timezone-tracker",
     "owner": {
@@ -136,6 +113,29 @@
     "language": "Python",
     "forks_count": 74,
     "open_issues_count": 0
+  },
+  {
+    "id": 1359600707,
+    "name": "javranking-extension",
+    "owner": {
+      "id": 19943786,
+      "url": "https://api.github.com/users/aizhimou",
+      "html_url": "https://github.com/aizhimou",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19943786?v=4"
+    },
+    "html_url": "https://github.com/aizhimou/javranking-extension",
+    "description": "Show all JAV cover and ranking in one click.",
+    "created_at": "2026-09-07T00:19:59Z",
+    "updated_at": "2026-09-07T20:04:17Z",
+    "pushed_at": "2026-09-07T00:44:22Z",
+    "git_url": "git://github.com/aizhimou/javranking-extension.git",
+    "homepage": "https://javranking.top/",
+    "size": 162,
+    "stargazers_count": 89,
+    "watchers_count": 89,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 1
   },
   {
     "id": 1359136297,
@@ -161,27 +161,27 @@
     "open_issues_count": 1
   },
   {
-    "id": 1359600707,
-    "name": "javranking-extension",
+    "id": 1357890808,
+    "name": "claude-adhd",
     "owner": {
-      "id": 19943786,
-      "url": "https://api.github.com/users/aizhimou",
-      "html_url": "https://github.com/aizhimou",
-      "avatar_url": "https://avatars.githubusercontent.com/u/19943786?v=4"
+      "id": 235998333,
+      "url": "https://api.github.com/users/shaheer-00",
+      "html_url": "https://github.com/shaheer-00",
+      "avatar_url": "https://avatars.githubusercontent.com/u/235998333?v=4"
     },
-    "html_url": "https://github.com/aizhimou/javranking-extension",
-    "description": "Show all JAV cover and ranking in one click.",
-    "created_at": "2026-09-07T00:19:59Z",
-    "updated_at": "2026-09-07T17:32:02Z",
-    "pushed_at": "2026-09-07T00:44:22Z",
-    "git_url": "git://github.com/aizhimou/javranking-extension.git",
-    "homepage": "https://javranking.top/",
-    "size": 162,
-    "stargazers_count": 88,
-    "watchers_count": 88,
-    "language": "TypeScript",
-    "forks_count": 1,
-    "open_issues_count": 1
+    "html_url": "https://github.com/shaheer-00/claude-adhd",
+    "description": "Gentle reminders for unfinished threads from past sessions — built for ADHD brains. Claude Code plugin. (test mode)",
+    "created_at": "2026-09-05T06:17:17Z",
+    "updated_at": "2026-09-07T18:58:14Z",
+    "pushed_at": "2026-09-05T10:29:22Z",
+    "git_url": "git://github.com/shaheer-00/claude-adhd.git",
+    "homepage": null,
+    "size": 441,
+    "stargazers_count": 86,
+    "watchers_count": 86,
+    "language": "JavaScript",
+    "forks_count": 6,
+    "open_issues_count": 0
   },
   {
     "id": 1358080813,
@@ -230,6 +230,29 @@
     "open_issues_count": 1
   },
   {
+    "id": 1359667932,
+    "name": "8086-xcheck-system",
+    "owner": {
+      "id": 56865440,
+      "url": "https://api.github.com/users/LuckinSven",
+      "html_url": "https://github.com/LuckinSven",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56865440?v=4"
+    },
+    "html_url": "https://github.com/LuckinSven/8086-xcheck-system",
+    "description": "XCheck IP Reputation Investigation System",
+    "created_at": "2026-09-07T02:23:56Z",
+    "updated_at": "2026-09-07T21:10:15Z",
+    "pushed_at": "2026-09-07T06:41:38Z",
+    "git_url": "git://github.com/LuckinSven/8086-xcheck-system.git",
+    "homepage": "",
+    "size": 566,
+    "stargazers_count": 85,
+    "watchers_count": 85,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0
+  },
+  {
     "id": 1359140585,
     "name": "awesome-geo-tools",
     "owner": {
@@ -253,52 +276,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1357890808,
-    "name": "claude-adhd",
-    "owner": {
-      "id": 235998333,
-      "url": "https://api.github.com/users/shaheer-00",
-      "html_url": "https://github.com/shaheer-00",
-      "avatar_url": "https://avatars.githubusercontent.com/u/235998333?v=4"
-    },
-    "html_url": "https://github.com/shaheer-00/claude-adhd",
-    "description": "Gentle reminders for unfinished threads from past sessions — built for ADHD brains. Claude Code plugin. (test mode)",
-    "created_at": "2026-09-05T06:17:17Z",
-    "updated_at": "2026-09-07T11:46:18Z",
-    "pushed_at": "2026-09-05T10:29:22Z",
-    "git_url": "git://github.com/shaheer-00/claude-adhd.git",
-    "homepage": null,
-    "size": 441,
-    "stargazers_count": 85,
-    "watchers_count": 85,
-    "language": "JavaScript",
-    "forks_count": 6,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1356764064,
-    "name": "CMP40HX-Unlock",
-    "owner": {
-      "id": 195555379,
-      "url": "https://api.github.com/users/PZH1gdmu",
-      "html_url": "https://github.com/PZH1gdmu",
-      "avatar_url": "https://avatars.githubusercontent.com/u/195555379?v=4"
-    },
-    "html_url": "https://github.com/PZH1gdmu/CMP40HX-Unlock",
-    "description": null,
-    "created_at": "2026-09-04T06:11:08Z",
-    "updated_at": "2026-09-07T16:24:01Z",
-    "pushed_at": "2026-09-06T11:22:55Z",
-    "git_url": "git://github.com/PZH1gdmu/CMP40HX-Unlock.git",
-    "homepage": null,
-    "size": 7375,
-    "stargazers_count": 84,
-    "watchers_count": 84,
-    "language": "C",
-    "forks_count": 10,
-    "open_issues_count": 24
-  },
-  {
     "id": 1358848972,
     "name": "OpenWAM",
     "owner": {
@@ -310,16 +287,108 @@
     "html_url": "https://github.com/OpenWAM-Official/OpenWAM",
     "description": "Official repository for \"OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model Pretraining\".",
     "created_at": "2026-09-06T06:21:09Z",
-    "updated_at": "2026-09-07T17:22:27Z",
-    "pushed_at": "2026-09-07T17:13:48Z",
+    "updated_at": "2026-09-07T20:29:58Z",
+    "pushed_at": "2026-09-07T17:59:57Z",
     "git_url": "git://github.com/OpenWAM-Official/OpenWAM.git",
     "homepage": "https://openwam-official.github.io/",
-    "size": 15609,
+    "size": 15692,
+    "stargazers_count": 84,
+    "watchers_count": 84,
+    "language": "Python",
+    "forks_count": 9,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1359439962,
+    "name": "pd-bridge",
+    "owner": {
+      "id": 325742731,
+      "url": "https://api.github.com/users/chadhurley25075-png",
+      "html_url": "https://github.com/chadhurley25075-png",
+      "avatar_url": "https://avatars.githubusercontent.com/u/325742731?v=4"
+    },
+    "html_url": "https://github.com/chadhurley25075-png/pd-bridge",
+    "description": "Heterogeneous prefill/decode for DeepSeek-V4-Flash: CUDA prefill (DGX Spark, vLLM) -> Metal decode (Mac Studio, oMLX) over plain 10GbE",
+    "created_at": "2026-09-06T19:07:06Z",
+    "updated_at": "2026-09-07T20:54:09Z",
+    "pushed_at": "2026-09-07T20:05:14Z",
+    "git_url": "git://github.com/chadhurley25075-png/pd-bridge.git",
+    "homepage": null,
+    "size": 223,
+    "stargazers_count": 84,
+    "watchers_count": 84,
+    "language": "Python",
+    "forks_count": 7,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1359159922,
+    "name": "pokemonlive",
+    "owner": {
+      "id": 187724594,
+      "url": "https://api.github.com/users/xflare-bot",
+      "html_url": "https://github.com/xflare-bot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187724594?v=4"
+    },
+    "html_url": "https://github.com/xflare-bot/pokemonlive",
+    "description": "Local Pokemon battle prototype with AI-generated cinematics",
+    "created_at": "2026-09-06T13:19:25Z",
+    "updated_at": "2026-09-07T20:25:23Z",
+    "pushed_at": "2026-09-07T04:21:24Z",
+    "git_url": "git://github.com/xflare-bot/pokemonlive.git",
+    "homepage": null,
+    "size": 55833,
+    "stargazers_count": 82,
+    "watchers_count": 82,
+    "language": "JavaScript",
+    "forks_count": 22,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1357670785,
+    "name": "trynix",
+    "owner": {
+      "id": 605070,
+      "url": "https://api.github.com/users/fzakaria",
+      "html_url": "https://github.com/fzakaria",
+      "avatar_url": "https://avatars.githubusercontent.com/u/605070?v=4"
+    },
+    "html_url": "https://github.com/fzakaria/trynix",
+    "description": "Boot anything nixpkgs ever shipped, in your browser.",
+    "created_at": "2026-09-04T23:24:32Z",
+    "updated_at": "2026-09-07T20:39:34Z",
+    "pushed_at": "2026-09-07T14:45:51Z",
+    "git_url": "git://github.com/fzakaria/trynix.git",
+    "homepage": "https://trynix.dev/",
+    "size": 529,
+    "stargazers_count": 81,
+    "watchers_count": 81,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1357918016,
+    "name": "LostOdysseyRecomp",
+    "owner": {
+      "id": 726115,
+      "url": "https://api.github.com/users/freefrank",
+      "html_url": "https://github.com/freefrank",
+      "avatar_url": "https://avatars.githubusercontent.com/u/726115?v=4"
+    },
+    "html_url": "https://github.com/freefrank/LostOdysseyRecomp",
+    "description": "Experimental native PC port of Lost Odyssey using static recompilation. No game assets included.",
+    "created_at": "2026-09-05T07:01:47Z",
+    "updated_at": "2026-09-07T21:17:21Z",
+    "pushed_at": "2026-09-07T21:17:03Z",
+    "git_url": "git://github.com/freefrank/LostOdysseyRecomp.git",
+    "homepage": null,
+    "size": 4238,
     "stargazers_count": 80,
     "watchers_count": 80,
-    "language": "Python",
-    "forks_count": 8,
-    "open_issues_count": 2
+    "language": "C++",
+    "forks_count": 1,
+    "open_issues_count": 4
   },
   {
     "id": 1358585087,
@@ -341,7 +410,7 @@
     "stargazers_count": 80,
     "watchers_count": 80,
     "language": "JavaScript",
-    "forks_count": 21,
+    "forks_count": 23,
     "open_issues_count": 1
   },
   {
@@ -391,52 +460,6 @@
     "open_issues_count": 3
   },
   {
-    "id": 1357918016,
-    "name": "LostOdysseyRecomp",
-    "owner": {
-      "id": 726115,
-      "url": "https://api.github.com/users/freefrank",
-      "html_url": "https://github.com/freefrank",
-      "avatar_url": "https://avatars.githubusercontent.com/u/726115?v=4"
-    },
-    "html_url": "https://github.com/freefrank/LostOdysseyRecomp",
-    "description": "Experimental native PC port of Lost Odyssey using static recompilation. No game assets included.",
-    "created_at": "2026-09-05T07:01:47Z",
-    "updated_at": "2026-09-07T16:16:32Z",
-    "pushed_at": "2026-09-07T06:59:20Z",
-    "git_url": "git://github.com/freefrank/LostOdysseyRecomp.git",
-    "homepage": null,
-    "size": 4238,
-    "stargazers_count": 79,
-    "watchers_count": 79,
-    "language": "C++",
-    "forks_count": 1,
-    "open_issues_count": 3
-  },
-  {
-    "id": 1357670785,
-    "name": "trynix",
-    "owner": {
-      "id": 605070,
-      "url": "https://api.github.com/users/fzakaria",
-      "html_url": "https://github.com/fzakaria",
-      "avatar_url": "https://avatars.githubusercontent.com/u/605070?v=4"
-    },
-    "html_url": "https://github.com/fzakaria/trynix",
-    "description": "Boot anything nixpkgs ever shipped, in your browser.",
-    "created_at": "2026-09-04T23:24:32Z",
-    "updated_at": "2026-09-07T17:06:34Z",
-    "pushed_at": "2026-09-07T14:45:51Z",
-    "git_url": "git://github.com/fzakaria/trynix.git",
-    "homepage": "https://trynix.dev/",
-    "size": 529,
-    "stargazers_count": 79,
-    "watchers_count": 79,
-    "language": "JavaScript",
-    "forks_count": 2,
-    "open_issues_count": 2
-  },
-  {
     "id": 1357339619,
     "name": "dola-render-gateway",
     "owner": {
@@ -458,29 +481,6 @@
     "language": "Python",
     "forks_count": 62,
     "open_issues_count": 1
-  },
-  {
-    "id": 1359439962,
-    "name": "pd-bridge",
-    "owner": {
-      "id": 325742731,
-      "url": "https://api.github.com/users/chadhurley25075-png",
-      "html_url": "https://github.com/chadhurley25075-png",
-      "avatar_url": "https://avatars.githubusercontent.com/u/325742731?v=4"
-    },
-    "html_url": "https://github.com/chadhurley25075-png/pd-bridge",
-    "description": "Heterogeneous prefill/decode for DeepSeek-V4-Flash: CUDA prefill (DGX Spark, vLLM) -> Metal decode (Mac Studio, oMLX) over plain 10GbE",
-    "created_at": "2026-09-06T19:07:06Z",
-    "updated_at": "2026-09-07T17:27:57Z",
-    "pushed_at": "2026-09-07T09:30:01Z",
-    "git_url": "git://github.com/chadhurley25075-png/pd-bridge.git",
-    "homepage": null,
-    "size": 196,
-    "stargazers_count": 77,
-    "watchers_count": 77,
-    "language": "Python",
-    "forks_count": 7,
-    "open_issues_count": 0
   },
   {
     "id": 1358910574,
@@ -506,6 +506,52 @@
     "open_issues_count": 0
   },
   {
+    "id": 1358398261,
+    "name": "expo-healthkit",
+    "owner": {
+      "id": 224245234,
+      "url": "https://api.github.com/users/appeeky",
+      "html_url": "https://github.com/appeeky",
+      "avatar_url": "https://avatars.githubusercontent.com/u/224245234?v=4"
+    },
+    "html_url": "https://github.com/appeeky/expo-healthkit",
+    "description": "Apple HealthKit and Android Health Connect for Expo and React Native, built on the Expo Modules API. One JavaScript API on both platforms.",
+    "created_at": "2026-09-05T17:09:04Z",
+    "updated_at": "2026-09-07T20:59:33Z",
+    "pushed_at": "2026-09-05T19:25:52Z",
+    "git_url": "git://github.com/appeeky/expo-healthkit.git",
+    "homepage": "",
+    "size": 1003,
+    "stargazers_count": 75,
+    "watchers_count": 75,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1357676444,
+    "name": "OFXR-Bridge",
+    "owner": {
+      "id": 23511425,
+      "url": "https://api.github.com/users/tig3rmast3r",
+      "html_url": "https://github.com/tig3rmast3r",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23511425?v=4"
+    },
+    "html_url": "https://github.com/tig3rmast3r/OFXR-Bridge",
+    "description": "Frame generation for VR using Optical Flow",
+    "created_at": "2026-09-04T23:36:49Z",
+    "updated_at": "2026-09-07T20:10:13Z",
+    "pushed_at": "2026-09-07T20:09:56Z",
+    "git_url": "git://github.com/tig3rmast3r/OFXR-Bridge.git",
+    "homepage": null,
+    "size": 582,
+    "stargazers_count": 74,
+    "watchers_count": 74,
+    "language": "C++",
+    "forks_count": 4,
+    "open_issues_count": 3
+  },
+  {
     "id": 1356801039,
     "name": "Wiggle",
     "owner": {
@@ -527,29 +573,6 @@
     "language": "Python",
     "forks_count": 54,
     "open_issues_count": 0
-  },
-  {
-    "id": 1357676444,
-    "name": "OFXR-Bridge",
-    "owner": {
-      "id": 23511425,
-      "url": "https://api.github.com/users/tig3rmast3r",
-      "html_url": "https://github.com/tig3rmast3r",
-      "avatar_url": "https://avatars.githubusercontent.com/u/23511425?v=4"
-    },
-    "html_url": "https://github.com/tig3rmast3r/OFXR-Bridge",
-    "description": "Frame generation for VR using Optical Flow",
-    "created_at": "2026-09-04T23:36:49Z",
-    "updated_at": "2026-09-07T17:29:16Z",
-    "pushed_at": "2026-09-07T17:28:59Z",
-    "git_url": "git://github.com/tig3rmast3r/OFXR-Bridge.git",
-    "homepage": null,
-    "size": 513,
-    "stargazers_count": 73,
-    "watchers_count": 73,
-    "language": "C++",
-    "forks_count": 4,
-    "open_issues_count": 3
   },
   {
     "id": 1359042678,
@@ -575,49 +598,26 @@
     "open_issues_count": 0
   },
   {
-    "id": 1359159922,
-    "name": "pokemonlive",
+    "id": 1359835005,
+    "name": "Awesome-OKF",
     "owner": {
-      "id": 187724594,
-      "url": "https://api.github.com/users/xflare-bot",
-      "html_url": "https://github.com/xflare-bot",
-      "avatar_url": "https://avatars.githubusercontent.com/u/187724594?v=4"
+      "id": 47343901,
+      "url": "https://api.github.com/users/Albertchamberlain",
+      "html_url": "https://github.com/Albertchamberlain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47343901?v=4"
     },
-    "html_url": "https://github.com/xflare-bot/pokemonlive",
-    "description": "Local Pokemon battle prototype with AI-generated cinematics",
-    "created_at": "2026-09-06T13:19:25Z",
-    "updated_at": "2026-09-07T17:17:17Z",
-    "pushed_at": "2026-09-07T04:21:24Z",
-    "git_url": "git://github.com/xflare-bot/pokemonlive.git",
+    "html_url": "https://github.com/Albertchamberlain/Awesome-OKF",
+    "description": "Curated Open Knowledge Format (OKF) resources — plugins, skills, proposals, and tools. YAML-driven, agent-searchable.",
+    "created_at": "2026-09-07T06:12:39Z",
+    "updated_at": "2026-09-07T21:16:11Z",
+    "pushed_at": "2026-09-07T09:14:55Z",
+    "git_url": "git://github.com/Albertchamberlain/Awesome-OKF.git",
     "homepage": null,
-    "size": 55833,
-    "stargazers_count": 70,
-    "watchers_count": 70,
-    "language": "JavaScript",
-    "forks_count": 20,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1358398261,
-    "name": "expo-healthkit",
-    "owner": {
-      "id": 224245234,
-      "url": "https://api.github.com/users/appeeky",
-      "html_url": "https://github.com/appeeky",
-      "avatar_url": "https://avatars.githubusercontent.com/u/224245234?v=4"
-    },
-    "html_url": "https://github.com/appeeky/expo-healthkit",
-    "description": "Apple HealthKit and Android Health Connect for Expo and React Native, built on the Expo Modules API. One JavaScript API on both platforms.",
-    "created_at": "2026-09-05T17:09:04Z",
-    "updated_at": "2026-09-07T16:07:10Z",
-    "pushed_at": "2026-09-05T19:25:52Z",
-    "git_url": "git://github.com/appeeky/expo-healthkit.git",
-    "homepage": "",
-    "size": 1003,
+    "size": 121,
     "stargazers_count": 68,
     "watchers_count": 68,
-    "language": "TypeScript",
-    "forks_count": 1,
+    "language": "Python",
+    "forks_count": 2,
     "open_issues_count": 0
   },
   {
@@ -644,26 +644,26 @@
     "open_issues_count": 0
   },
   {
-    "id": 1359667932,
-    "name": "8086-xcheck-system",
+    "id": 1358286075,
+    "name": "qanat",
     "owner": {
-      "id": 56865440,
-      "url": "https://api.github.com/users/LuckinSven",
-      "html_url": "https://github.com/LuckinSven",
-      "avatar_url": "https://avatars.githubusercontent.com/u/56865440?v=4"
+      "id": 324444043,
+      "url": "https://api.github.com/users/fidetolabs",
+      "html_url": "https://github.com/fidetolabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/324444043?v=4"
     },
-    "html_url": "https://github.com/LuckinSven/8086-xcheck-system",
-    "description": "XCheck IP Reputation Investigation System",
-    "created_at": "2026-09-07T02:23:56Z",
-    "updated_at": "2026-09-07T17:39:00Z",
-    "pushed_at": "2026-09-07T06:41:38Z",
-    "git_url": "git://github.com/LuckinSven/8086-xcheck-system.git",
-    "homepage": "",
-    "size": 566,
+    "html_url": "https://github.com/fidetolabs/qanat",
+    "description": "Agent-native workflow engine for building and backtesting alphas as DAGs.",
+    "created_at": "2026-09-05T14:43:40Z",
+    "updated_at": "2026-09-07T19:31:50Z",
+    "pushed_at": "2026-09-06T07:35:55Z",
+    "git_url": "git://github.com/fidetolabs/qanat.git",
+    "homepage": null,
+    "size": 2455,
     "stargazers_count": 67,
     "watchers_count": 67,
     "language": "Python",
-    "forks_count": 1,
+    "forks_count": 12,
     "open_issues_count": 0
   },
   {
@@ -724,16 +724,16 @@
     "html_url": "https://github.com/njpatel/omapager",
     "description": "Rich notifications for Omarchy",
     "created_at": "2026-09-05T06:49:26Z",
-    "updated_at": "2026-09-07T17:04:14Z",
-    "pushed_at": "2026-09-07T08:19:55Z",
+    "updated_at": "2026-09-07T18:56:29Z",
+    "pushed_at": "2026-09-07T18:57:33Z",
     "git_url": "git://github.com/njpatel/omapager.git",
     "homepage": null,
-    "size": 2658,
+    "size": 2682,
     "stargazers_count": 64,
     "watchers_count": 64,
     "language": "QML",
     "forks_count": 4,
-    "open_issues_count": 3
+    "open_issues_count": 2
   },
   {
     "id": 1359029880,
@@ -759,29 +759,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1358286075,
-    "name": "qanat",
-    "owner": {
-      "id": 324444043,
-      "url": "https://api.github.com/users/fidetolabs",
-      "html_url": "https://github.com/fidetolabs",
-      "avatar_url": "https://avatars.githubusercontent.com/u/324444043?v=4"
-    },
-    "html_url": "https://github.com/fidetolabs/qanat",
-    "description": "Agent-native workflow engine for building and backtesting alphas as DAGs.",
-    "created_at": "2026-09-05T14:43:40Z",
-    "updated_at": "2026-09-07T17:40:58Z",
-    "pushed_at": "2026-09-06T07:35:55Z",
-    "git_url": "git://github.com/fidetolabs/qanat.git",
-    "homepage": null,
-    "size": 2455,
-    "stargazers_count": 64,
-    "watchers_count": 64,
-    "language": "Python",
-    "forks_count": 10,
-    "open_issues_count": 0
-  },
-  {
     "id": 1358118158,
     "name": "Paw-memory",
     "owner": {
@@ -793,15 +770,61 @@
     "html_url": "https://github.com/david66l/Paw-memory",
     "description": null,
     "created_at": "2026-09-05T11:23:38Z",
-    "updated_at": "2026-09-07T15:38:07Z",
+    "updated_at": "2026-09-07T20:49:35Z",
     "pushed_at": "2026-09-05T11:43:59Z",
     "git_url": "git://github.com/david66l/Paw-memory.git",
     "homepage": null,
     "size": 425,
+    "stargazers_count": 64,
+    "watchers_count": 64,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1359889685,
+    "name": "ming-official-atlas",
+    "owner": {
+      "id": 301557817,
+      "url": "https://api.github.com/users/dingbo3603-ui",
+      "html_url": "https://github.com/dingbo3603-ui",
+      "avatar_url": "https://avatars.githubusercontent.com/u/301557817?v=4"
+    },
+    "html_url": "https://github.com/dingbo3603-ui/ming-official-atlas",
+    "description": "大明职官图：明代官署、人物履历、年号检索与府州县交互图谱",
+    "created_at": "2026-09-07T07:12:07Z",
+    "updated_at": "2026-09-07T21:15:59Z",
+    "pushed_at": "2026-09-07T18:19:14Z",
+    "git_url": "git://github.com/dingbo3603-ui/ming-official-atlas.git",
+    "homepage": null,
+    "size": 41569,
     "stargazers_count": 61,
     "watchers_count": 61,
     "language": "TypeScript",
     "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1357328948,
+    "name": "orbkit",
+    "owner": {
+      "id": 107312993,
+      "url": "https://api.github.com/users/zzzzshawn",
+      "html_url": "https://github.com/zzzzshawn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/107312993?v=4"
+    },
+    "html_url": "https://github.com/zzzzshawn/orbkit",
+    "description": "WebGL shader orbs for React, distributed through a shadcn registry",
+    "created_at": "2026-09-04T15:52:35Z",
+    "updated_at": "2026-09-07T19:57:19Z",
+    "pushed_at": "2026-09-06T18:27:47Z",
+    "git_url": "git://github.com/zzzzshawn/orbkit.git",
+    "homepage": "https://orbkit.vercel.app",
+    "size": 1137,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "TypeScript",
+    "forks_count": 3,
     "open_issues_count": 0
   },
   {
@@ -816,11 +839,11 @@
     "html_url": "https://github.com/johnj-eng96n9/Discord-Token-Generator",
     "description": "Discord Token Generator for Mass Discord bot token generator and manager. Create, manage, and export bot tokens in bulk.",
     "created_at": "2026-09-05T11:01:57Z",
-    "updated_at": "2026-09-07T17:40:22Z",
-    "pushed_at": "2026-09-07T17:39:59Z",
+    "updated_at": "2026-09-07T21:17:41Z",
+    "pushed_at": "2026-09-07T21:17:25Z",
     "git_url": "git://github.com/johnj-eng96n9/Discord-Token-Generator.git",
     "homepage": "",
-    "size": 349,
+    "size": 485,
     "stargazers_count": 61,
     "watchers_count": 61,
     "language": "Python",
@@ -851,26 +874,49 @@
     "open_issues_count": 0
   },
   {
-    "id": 1357328948,
-    "name": "orbkit",
+    "id": 1358635004,
+    "name": "OptiScaler-DLSSNR-PreSR-Multipass",
     "owner": {
-      "id": 107312993,
-      "url": "https://api.github.com/users/zzzzshawn",
-      "html_url": "https://github.com/zzzzshawn",
-      "avatar_url": "https://avatars.githubusercontent.com/u/107312993?v=4"
+      "id": 97138003,
+      "url": "https://api.github.com/users/wilsjo2",
+      "html_url": "https://github.com/wilsjo2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97138003?v=4"
     },
-    "html_url": "https://github.com/zzzzshawn/orbkit",
-    "description": "WebGL shader orbs for React, distributed through a shadcn registry",
-    "created_at": "2026-09-04T15:52:35Z",
-    "updated_at": "2026-09-07T17:05:14Z",
-    "pushed_at": "2026-09-06T18:27:47Z",
-    "git_url": "git://github.com/zzzzshawn/orbkit.git",
-    "homepage": "https://orbkit.vercel.app",
-    "size": 1137,
+    "html_url": "https://github.com/wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass",
+    "description": "Experimental OptiScaler DLSS Neural Rendering fork with guarded pre-SR placement and configurable 1-3 pass processing.",
+    "created_at": "2026-09-05T23:32:00Z",
+    "updated_at": "2026-09-07T20:09:50Z",
+    "pushed_at": "2026-09-07T16:04:08Z",
+    "git_url": "git://github.com/wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass.git",
+    "homepage": null,
+    "size": 164360,
     "stargazers_count": 60,
     "watchers_count": 60,
-    "language": "TypeScript",
-    "forks_count": 2,
+    "language": "C++",
+    "forks_count": 3,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1358168733,
+    "name": "ComfyUI-Ref2VA-VSA",
+    "owner": {
+      "id": 3852567,
+      "url": "https://api.github.com/users/Kablex",
+      "html_url": "https://github.com/Kablex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3852567?v=4"
+    },
+    "html_url": "https://github.com/Kablex/ComfyUI-Ref2VA-VSA",
+    "description": null,
+    "created_at": "2026-09-05T12:30:51Z",
+    "updated_at": "2026-09-07T19:52:33Z",
+    "pushed_at": "2026-09-05T12:38:42Z",
+    "git_url": "git://github.com/Kablex/ComfyUI-Ref2VA-VSA.git",
+    "homepage": null,
+    "size": 4158,
+    "stargazers_count": 59,
+    "watchers_count": 59,
+    "language": "Python",
+    "forks_count": 6,
     "open_issues_count": 0
   },
   {
@@ -897,6 +943,75 @@
     "open_issues_count": 1
   },
   {
+    "id": 1358513550,
+    "name": "ComfyUI-Viggle-Animate-H3",
+    "owner": {
+      "id": 84208527,
+      "url": "https://api.github.com/users/Saganaki22",
+      "html_url": "https://github.com/Saganaki22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84208527?v=4"
+    },
+    "html_url": "https://github.com/Saganaki22/ComfyUI-Viggle-Animate-H3",
+    "description": "ComfyUI nodes for Viggle-Animate minimax H3 finetune",
+    "created_at": "2026-09-05T19:49:47Z",
+    "updated_at": "2026-09-07T20:38:52Z",
+    "pushed_at": "2026-09-07T07:24:25Z",
+    "git_url": "git://github.com/Saganaki22/ComfyUI-Viggle-Animate-H3.git",
+    "homepage": "https://huggingface.co/drbaph/Viggle-Animate-ComfyUI",
+    "size": 7050,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": "Python",
+    "forks_count": 7,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1358080066,
+    "name": "barney",
+    "owner": {
+      "id": 266153046,
+      "url": "https://api.github.com/users/TravellingEngineer",
+      "html_url": "https://github.com/TravellingEngineer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/266153046?v=4"
+    },
+    "html_url": "https://github.com/TravellingEngineer/barney",
+    "description": "Content Journey - Package Tool",
+    "created_at": "2026-09-05T10:34:15Z",
+    "updated_at": "2026-09-07T20:59:56Z",
+    "pushed_at": "2026-09-06T21:06:00Z",
+    "git_url": "git://github.com/TravellingEngineer/barney.git",
+    "homepage": null,
+    "size": 847,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1359105319,
+    "name": "mikrotrick-poc",
+    "owner": {
+      "id": 3851678,
+      "url": "https://api.github.com/users/dinosn",
+      "html_url": "https://github.com/dinosn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3851678?v=4"
+    },
+    "html_url": "https://github.com/dinosn/mikrotrick-poc",
+    "description": "CVE-2026-67276 RouterOS SSH public-key authentication bypass lab PoC",
+    "created_at": "2026-09-06T12:10:51Z",
+    "updated_at": "2026-09-07T21:14:22Z",
+    "pushed_at": "2026-09-06T12:10:54Z",
+    "git_url": "git://github.com/dinosn/mikrotrick-poc.git",
+    "homepage": null,
+    "size": 16,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": "Python",
+    "forks_count": 13,
+    "open_issues_count": 0
+  },
+  {
     "id": 1358275774,
     "name": "image-to-css-art",
     "owner": {
@@ -920,49 +1035,49 @@
     "open_issues_count": 0
   },
   {
-    "id": 1358513550,
-    "name": "ComfyUI-Viggle-Animate-H3",
+    "id": 1359605388,
+    "name": "Spun",
     "owner": {
-      "id": 84208527,
-      "url": "https://api.github.com/users/Saganaki22",
-      "html_url": "https://github.com/Saganaki22",
-      "avatar_url": "https://avatars.githubusercontent.com/u/84208527?v=4"
+      "id": 262229790,
+      "url": "https://api.github.com/users/yappologistic",
+      "html_url": "https://github.com/yappologistic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/262229790?v=4"
     },
-    "html_url": "https://github.com/Saganaki22/ComfyUI-Viggle-Animate-H3",
-    "description": "ComfyUI nodes for Viggle-Animate minimax H3 finetune",
-    "created_at": "2026-09-05T19:49:47Z",
-    "updated_at": "2026-09-07T17:14:21Z",
-    "pushed_at": "2026-09-07T07:24:25Z",
-    "git_url": "git://github.com/Saganaki22/ComfyUI-Viggle-Animate-H3.git",
-    "homepage": "https://huggingface.co/drbaph/Viggle-Animate-ComfyUI",
-    "size": 7050,
-    "stargazers_count": 55,
-    "watchers_count": 55,
-    "language": "Python",
-    "forks_count": 7,
-    "open_issues_count": 1
+    "html_url": "https://github.com/yappologistic/Spun",
+    "description": "A CD-shaped music player for Linux, with local playback and Cider integration.",
+    "created_at": "2026-09-07T00:30:36Z",
+    "updated_at": "2026-09-07T21:04:24Z",
+    "pushed_at": "2026-09-07T00:56:43Z",
+    "git_url": "git://github.com/yappologistic/Spun.git",
+    "homepage": null,
+    "size": 2530,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": "C++",
+    "forks_count": 6,
+    "open_issues_count": 0
   },
   {
-    "id": 1358168733,
-    "name": "ComfyUI-Ref2VA-VSA",
+    "id": 1359371966,
+    "name": "rdr2-mod-menu",
     "owner": {
-      "id": 3852567,
-      "url": "https://api.github.com/users/Kablex",
-      "html_url": "https://github.com/Kablex",
-      "avatar_url": "https://avatars.githubusercontent.com/u/3852567?v=4"
+      "id": 324287846,
+      "url": "https://api.github.com/users/robertlee85",
+      "html_url": "https://github.com/robertlee85",
+      "avatar_url": "https://avatars.githubusercontent.com/u/324287846?v=4"
     },
-    "html_url": "https://github.com/Kablex/ComfyUI-Ref2VA-VSA",
-    "description": null,
-    "created_at": "2026-09-05T12:30:51Z",
-    "updated_at": "2026-09-07T16:21:35Z",
-    "pushed_at": "2026-09-05T12:38:42Z",
-    "git_url": "git://github.com/Kablex/ComfyUI-Ref2VA-VSA.git",
-    "homepage": null,
-    "size": 4158,
-    "stargazers_count": 54,
-    "watchers_count": 54,
-    "language": "Python",
-    "forks_count": 6,
+    "html_url": "https://github.com/robertlee85/rdr2-mod-menu",
+    "description": "Top RDR2 Gameplay Enhancement Suite 2026: ESP & No Recoil",
+    "created_at": "2026-09-06T17:29:21Z",
+    "updated_at": "2026-09-07T20:46:57Z",
+    "pushed_at": "2026-09-06T17:30:31Z",
+    "git_url": "git://github.com/robertlee85/rdr2-mod-menu.git",
+    "homepage": "",
+    "size": 3,
+    "stargazers_count": 56,
+    "watchers_count": 56,
+    "language": null,
+    "forks_count": 0,
     "open_issues_count": 0
   },
   {
@@ -977,16 +1092,62 @@
     "html_url": "https://github.com/Konohamaru04/ComfyUI-NVIDIA-DLSS-Frame-Interpolation",
     "description": "ComfyUI custom nodes for DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
     "created_at": "2026-09-04T09:49:56Z",
-    "updated_at": "2026-09-07T15:03:42Z",
+    "updated_at": "2026-09-07T20:49:51Z",
     "pushed_at": "2026-09-06T10:41:01Z",
     "git_url": "git://github.com/Konohamaru04/ComfyUI-NVIDIA-DLSS-Frame-Interpolation.git",
     "homepage": "",
     "size": 8372,
-    "stargazers_count": 54,
-    "watchers_count": 54,
+    "stargazers_count": 55,
+    "watchers_count": 55,
     "language": "Python",
     "forks_count": 4,
     "open_issues_count": 3
+  },
+  {
+    "id": 1356671035,
+    "name": "Fila",
+    "owner": {
+      "id": 176883745,
+      "url": "https://api.github.com/users/owngoal-dev",
+      "html_url": "https://github.com/owngoal-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/176883745?v=4"
+    },
+    "html_url": "https://github.com/owngoal-dev/Fila",
+    "description": "Root file manager for jailbroken iOS — RootHide and rootless, iOS 15+",
+    "created_at": "2026-09-04T03:49:19Z",
+    "updated_at": "2026-09-07T19:02:26Z",
+    "pushed_at": "2026-09-07T17:26:07Z",
+    "git_url": "git://github.com/owngoal-dev/Fila.git",
+    "homepage": "https://apt.owngoal.dev",
+    "size": 10448,
+    "stargazers_count": 55,
+    "watchers_count": 55,
+    "language": "Swift",
+    "forks_count": 5,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1357282163,
+    "name": "Roam-Control",
+    "owner": {
+      "id": 324957424,
+      "url": "https://api.github.com/users/seanhowarthdev",
+      "html_url": "https://github.com/seanhowarthdev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/324957424?v=4"
+    },
+    "html_url": "https://github.com/seanhowarthdev/Roam-Control",
+    "description": "Choose, test and move an iPhone’s reported location.",
+    "created_at": "2026-09-04T15:09:22Z",
+    "updated_at": "2026-09-07T21:13:18Z",
+    "pushed_at": "2026-09-07T08:43:53Z",
+    "git_url": "git://github.com/seanhowarthdev/Roam-Control.git",
+    "homepage": "",
+    "size": 15905,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "Swift",
+    "forks_count": 4,
+    "open_issues_count": 0
   },
   {
     "id": 1357008302,
@@ -1012,27 +1173,27 @@
     "open_issues_count": 0
   },
   {
-    "id": 1359105319,
-    "name": "mikrotrick-poc",
+    "id": 1359749320,
+    "name": "hit-and-run-web",
     "owner": {
-      "id": 3851678,
-      "url": "https://api.github.com/users/dinosn",
-      "html_url": "https://github.com/dinosn",
-      "avatar_url": "https://avatars.githubusercontent.com/u/3851678?v=4"
+      "id": 368330,
+      "url": "https://api.github.com/users/Vheissu",
+      "html_url": "https://github.com/Vheissu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/368330?v=4"
     },
-    "html_url": "https://github.com/dinosn/mikrotrick-poc",
-    "description": "CVE-2026-67276 RouterOS SSH public-key authentication bypass lab PoC",
-    "created_at": "2026-09-06T12:10:51Z",
-    "updated_at": "2026-09-07T17:23:00Z",
-    "pushed_at": "2026-09-06T12:10:54Z",
-    "git_url": "git://github.com/dinosn/mikrotrick-poc.git",
-    "homepage": null,
-    "size": 16,
+    "html_url": "https://github.com/Vheissu/hit-and-run-web",
+    "description": "Playable browser reconstruction of The Simpsons: Hit & Run with converted assets and Blender remaster tools.",
+    "created_at": "2026-09-07T04:28:54Z",
+    "updated_at": "2026-09-07T21:06:24Z",
+    "pushed_at": "2026-09-07T07:52:31Z",
+    "git_url": "git://github.com/Vheissu/hit-and-run-web.git",
+    "homepage": "https://vheissu.github.io/hit-and-run-web/",
+    "size": 670315,
     "stargazers_count": 54,
     "watchers_count": 54,
-    "language": "Python",
-    "forks_count": 12,
-    "open_issues_count": 0
+    "language": "TypeScript",
+    "forks_count": 5,
+    "open_issues_count": 1
   },
   {
     "id": 1357612923,
@@ -1081,29 +1242,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1356671035,
-    "name": "Fila",
-    "owner": {
-      "id": 176883745,
-      "url": "https://api.github.com/users/owngoal-dev",
-      "html_url": "https://github.com/owngoal-dev",
-      "avatar_url": "https://avatars.githubusercontent.com/u/176883745?v=4"
-    },
-    "html_url": "https://github.com/owngoal-dev/Fila",
-    "description": "Root file manager for jailbroken iOS — RootHide and rootless, iOS 15+",
-    "created_at": "2026-09-04T03:49:19Z",
-    "updated_at": "2026-09-07T17:26:32Z",
-    "pushed_at": "2026-09-07T17:26:07Z",
-    "git_url": "git://github.com/owngoal-dev/Fila.git",
-    "homepage": "https://apt.owngoal.dev",
-    "size": 10386,
-    "stargazers_count": 52,
-    "watchers_count": 52,
-    "language": "Swift",
-    "forks_count": 5,
-    "open_issues_count": 0
-  },
-  {
     "id": 1357073013,
     "name": "whiteboard-book-video-skill",
     "owner": {
@@ -1115,15 +1253,84 @@
     "html_url": "https://github.com/nutllwhy/whiteboard-book-video-skill",
     "description": "白板火柴人拆书短视频工作流：脚本、分镜、配音、BGM、字幕与 HyperFrames 本地渲染",
     "created_at": "2026-09-04T11:44:11Z",
-    "updated_at": "2026-09-07T01:47:03Z",
+    "updated_at": "2026-09-07T20:03:31Z",
     "pushed_at": "2026-09-04T11:44:39Z",
     "git_url": "git://github.com/nutllwhy/whiteboard-book-video-skill.git",
     "homepage": null,
     "size": 16,
-    "stargazers_count": 52,
-    "watchers_count": 52,
+    "stargazers_count": 53,
+    "watchers_count": 53,
     "language": "Python",
     "forks_count": 9,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1360478567,
+    "name": ".github",
+    "owner": {
+      "id": 326162036,
+      "url": "https://api.github.com/users/Gta-V-Aimbot-gza",
+      "html_url": "https://github.com/Gta-V-Aimbot-gza",
+      "avatar_url": "https://avatars.githubusercontent.com/u/326162036?v=4"
+    },
+    "html_url": "https://github.com/Gta-V-Aimbot-gza/.github",
+    "description": "Premium GTA V cheat with advanced features for maximum advantage.   Undetected, regularly updated, and optimized for the latest game version.   Includes aimbot, wallhack, radar, and many more useful tools.",
+    "created_at": "2026-09-07T17:07:17Z",
+    "updated_at": "2026-09-07T21:15:25Z",
+    "pushed_at": "2026-09-07T17:13:13Z",
+    "git_url": "git://github.com/Gta-V-Aimbot-gza/.github.git",
+    "homepage": null,
+    "size": 17,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1360063226,
+    "name": "fanzha-ai-proxy",
+    "owner": {
+      "id": 276654128,
+      "url": "https://api.github.com/users/lfzk550",
+      "html_url": "https://github.com/lfzk550",
+      "avatar_url": "https://avatars.githubusercontent.com/u/276654128?v=4"
+    },
+    "html_url": "https://github.com/lfzk550/fanzha-ai-proxy",
+    "description": "国家反诈AI API 转 OpenAI 兼容格式反向代理服务 || 仅学习用途",
+    "created_at": "2026-09-07T10:05:28Z",
+    "updated_at": "2026-09-07T20:53:43Z",
+    "pushed_at": "2026-09-07T08:44:24Z",
+    "git_url": "git://github.com/lfzk550/fanzha-ai-proxy.git",
+    "homepage": "",
+    "size": 0,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": null,
+    "forks_count": 101,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1359185809,
+    "name": "ai-apple-video",
+    "owner": {
+      "id": 60601002,
+      "url": "https://api.github.com/users/huangbai-AI",
+      "html_url": "https://github.com/huangbai-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60601002?v=4"
+    },
+    "html_url": "https://github.com/huangbai-AI/ai-apple-video",
+    "description": "Seedance 2.5 苹果发布会风格产品视频生成技能 — 把任意普通产品包装成高端消费电子产品，生成30秒苹果发布会风格AI视频。作者：靓仔 AI 进化论",
+    "created_at": "2026-09-06T13:50:55Z",
+    "updated_at": "2026-09-07T18:30:27Z",
+    "pushed_at": "2026-09-07T05:21:29Z",
+    "git_url": "git://github.com/huangbai-AI/ai-apple-video.git",
+    "homepage": null,
+    "size": 31,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": null,
+    "forks_count": 10,
     "open_issues_count": 0
   },
   {
@@ -1173,29 +1380,6 @@
     "open_issues_count": 0
   },
   {
-    "id": 1359185809,
-    "name": "ai-apple-video",
-    "owner": {
-      "id": 60601002,
-      "url": "https://api.github.com/users/huangbai-AI",
-      "html_url": "https://github.com/huangbai-AI",
-      "avatar_url": "https://avatars.githubusercontent.com/u/60601002?v=4"
-    },
-    "html_url": "https://github.com/huangbai-AI/ai-apple-video",
-    "description": "Seedance 2.5 苹果发布会风格产品视频生成技能 — 把任意普通产品包装成高端消费电子产品，生成30秒苹果发布会风格AI视频。作者：靓仔 AI 进化论",
-    "created_at": "2026-09-06T13:50:55Z",
-    "updated_at": "2026-09-07T17:29:18Z",
-    "pushed_at": "2026-09-07T05:21:29Z",
-    "git_url": "git://github.com/huangbai-AI/ai-apple-video.git",
-    "homepage": null,
-    "size": 31,
-    "stargazers_count": 50,
-    "watchers_count": 50,
-    "language": null,
-    "forks_count": 9,
-    "open_issues_count": 0
-  },
-  {
     "id": 1358628594,
     "name": "Adobe-Tool-Premiere-Pro",
     "owner": {
@@ -1215,29 +1399,6 @@
     "stargazers_count": 50,
     "watchers_count": 50,
     "language": null,
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1357631540,
-    "name": "deedchain",
-    "owner": {
-      "id": 135708893,
-      "url": "https://api.github.com/users/PillCrew",
-      "html_url": "https://github.com/PillCrew",
-      "avatar_url": "https://avatars.githubusercontent.com/u/135708893?v=4"
-    },
-    "html_url": "https://github.com/PillCrew/deedchain",
-    "description": "Benchmark of report fidelity for browser agents: does the agent's final report tell the truth about what it actually did?",
-    "created_at": "2026-09-04T22:09:56Z",
-    "updated_at": "2026-09-06T01:54:41Z",
-    "pushed_at": "2026-09-04T22:46:54Z",
-    "git_url": "git://github.com/PillCrew/deedchain.git",
-    "homepage": "https://pillcrew.github.io/deedchain",
-    "size": 82,
-    "stargazers_count": 50,
-    "watchers_count": 50,
-    "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
   },
@@ -1265,26 +1426,26 @@
     "open_issues_count": 0
   },
   {
-    "id": 1358080066,
-    "name": "barney",
+    "id": 1358465489,
+    "name": "lody-ios",
     "owner": {
-      "id": 266153046,
-      "url": "https://api.github.com/users/TravellingEngineer",
-      "html_url": "https://github.com/TravellingEngineer",
-      "avatar_url": "https://avatars.githubusercontent.com/u/266153046?v=4"
+      "id": 41265413,
+      "url": "https://api.github.com/users/Innei",
+      "html_url": "https://github.com/Innei",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41265413?v=4"
     },
-    "html_url": "https://github.com/TravellingEngineer/barney",
-    "description": "Content Journey - Package Tool",
-    "created_at": "2026-09-05T10:34:15Z",
-    "updated_at": "2026-09-07T17:26:55Z",
-    "pushed_at": "2026-09-06T21:06:00Z",
-    "git_url": "git://github.com/TravellingEngineer/barney.git",
+    "html_url": "https://github.com/Innei/lody-ios",
+    "description": "Independent iOS client for Lody — native chat, sessions, and coding-agent collaboration on iPhone",
+    "created_at": "2026-09-05T18:37:43Z",
+    "updated_at": "2026-09-07T20:24:16Z",
+    "pushed_at": "2026-09-07T20:05:32Z",
+    "git_url": "git://github.com/Innei/lody-ios.git",
     "homepage": null,
-    "size": 847,
+    "size": 2986,
     "stargazers_count": 50,
     "watchers_count": 50,
-    "language": "Rust",
-    "forks_count": 0,
-    "open_issues_count": 0
+    "language": "TypeScript",
+    "forks_count": 5,
+    "open_issues_count": 1
   }
 ]
