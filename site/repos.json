@@ -73989,5 +73989,51 @@
     "language": "QML",
     "forks_count": 3,
     "open_issues_count": 4
+  },
+  {
+    "id": 1333142935,
+    "name": "dshcode",
+    "owner": {
+      "id": 88144095,
+      "url": "https://api.github.com/users/whitelonng",
+      "html_url": "https://github.com/whitelonng",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88144095?v=4"
+    },
+    "html_url": "https://github.com/whitelonng/dshcode",
+    "description": "Community desktop companion for DeepSeek Harness — one-click Electron app for macOS and Windows",
+    "created_at": "2026-08-13T13:23:11Z",
+    "updated_at": "2026-09-06T22:34:28Z",
+    "pushed_at": "2026-09-05T12:15:44Z",
+    "git_url": "git://github.com/whitelonng/dshcode.git",
+    "homepage": "",
+    "size": 141703,
+    "stargazers_count": 712,
+    "watchers_count": 712,
+    "language": "TypeScript",
+    "forks_count": 29,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1358160514,
+    "name": "global-timezone-tracker",
+    "owner": {
+      "id": 75214035,
+      "url": "https://api.github.com/users/ramazancetinkaya",
+      "html_url": "https://github.com/ramazancetinkaya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75214035?v=4"
+    },
+    "html_url": "https://github.com/ramazancetinkaya/global-timezone-tracker",
+    "description": "Automated world timezone and DST status tracker with ready-to-consume JSON datasets.",
+    "created_at": "2026-09-05T12:19:59Z",
+    "updated_at": "2026-09-06T16:37:31Z",
+    "pushed_at": "2026-09-06T03:30:29Z",
+    "git_url": "git://github.com/ramazancetinkaya/global-timezone-tracker.git",
+    "homepage": "https://github.com/ramazancetinkaya/global-timezone-tracker",
+    "size": 66,
+    "stargazers_count": 86,
+    "watchers_count": 86,
+    "language": "Python",
+    "forks_count": 74,
+    "open_issues_count": 0
   }
 ]
