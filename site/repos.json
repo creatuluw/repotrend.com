@@ -74081,5 +74081,74 @@
     "language": "Python",
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1266135511,
+    "name": "DeskBox",
+    "owner": {
+      "id": 122434621,
+      "url": "https://api.github.com/users/Tianyu199509",
+      "html_url": "https://github.com/Tianyu199509",
+      "avatar_url": "https://avatars.githubusercontent.com/u/122434621?v=4"
+    },
+    "html_url": "https://github.com/Tianyu199509/DeskBox",
+    "description": "A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.",
+    "created_at": "2026-06-11T10:55:22Z",
+    "updated_at": "2026-09-07T17:25:22Z",
+    "pushed_at": "2026-09-07T17:31:54Z",
+    "git_url": "git://github.com/Tianyu199509/DeskBox.git",
+    "homepage": "https://deskbox.fun",
+    "size": 136888,
+    "stargazers_count": 3503,
+    "watchers_count": 3503,
+    "language": "C#",
+    "forks_count": 195,
+    "open_issues_count": 44
+  },
+  {
+    "id": 1333100071,
+    "name": "dsh-vision-toolkit",
+    "owner": {
+      "id": 123177548,
+      "url": "https://api.github.com/users/Anionex",
+      "html_url": "https://github.com/Anionex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123177548?v=4"
+    },
+    "html_url": "https://github.com/Anionex/dsh-vision-toolkit",
+    "description": "[dsh]为纯文本模型设计更强大的视觉工具箱：一行安装使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
+    "created_at": "2026-08-13T12:36:34Z",
+    "updated_at": "2026-09-07T09:35:38Z",
+    "pushed_at": "2026-09-04T17:30:32Z",
+    "git_url": "git://github.com/Anionex/dsh-vision-toolkit.git",
+    "homepage": "https://agent-vision.anionex.me",
+    "size": 11147,
+    "stargazers_count": 856,
+    "watchers_count": 856,
+    "language": "TypeScript",
+    "forks_count": 43,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1358275774,
+    "name": "image-to-css-art",
+    "owner": {
+      "id": 205043051,
+      "url": "https://api.github.com/users/AvroraCL",
+      "html_url": "https://github.com/AvroraCL",
+      "avatar_url": "https://avatars.githubusercontent.com/u/205043051?v=4"
+    },
+    "html_url": "https://github.com/AvroraCL/image-to-css-art",
+    "description": "将参考图片离线描摹为纯 HTML + CSS 单文件插画的 Agent 插件，支持轮廓提取、局部渐变与输出审计。",
+    "created_at": "2026-09-05T14:32:15Z",
+    "updated_at": "2026-09-07T13:59:56Z",
+    "pushed_at": "2026-09-05T20:03:19Z",
+    "git_url": "git://github.com/AvroraCL/image-to-css-art.git",
+    "homepage": "https://gitcode.com/HelenaSG/image-to-css-art",
+    "size": 505,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
