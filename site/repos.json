@@ -74196,5 +74196,51 @@
     "language": "TypeScript",
     "forks_count": 1,
     "open_issues_count": 1
+  },
+  {
+    "id": 1329113397,
+    "name": "dsh-ads",
+    "owner": {
+      "id": 101612750,
+      "url": "https://api.github.com/users/Nagi-ovo",
+      "html_url": "https://github.com/Nagi-ovo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/101612750?v=4"
+    },
+    "html_url": "https://github.com/Nagi-ovo/dsh-ads",
+    "description": "把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups for the DSH Web UI",
+    "created_at": "2026-08-09T19:06:36Z",
+    "updated_at": "2026-09-07T10:16:51Z",
+    "pushed_at": "2026-08-27T21:32:38Z",
+    "git_url": "git://github.com/Nagi-ovo/dsh-ads.git",
+    "homepage": "",
+    "size": 96431,
+    "stargazers_count": 611,
+    "watchers_count": 611,
+    "language": "TypeScript",
+    "forks_count": 5,
+    "open_issues_count": 13
+  },
+  {
+    "id": 1356829113,
+    "name": "slide-report-studio",
+    "owner": {
+      "id": 113712266,
+      "url": "https://api.github.com/users/LuxUmbra697",
+      "html_url": "https://github.com/LuxUmbra697",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113712266?v=4"
+    },
+    "html_url": "https://github.com/LuxUmbra697/slide-report-studio",
+    "description": "AI PPT 演示文稿与动态 HTML 报告工作台｜AI workspace for editable PPTX decks and dynamic HTML reports.",
+    "created_at": "2026-09-04T07:19:55Z",
+    "updated_at": "2026-09-05T23:40:06Z",
+    "pushed_at": "2026-09-04T08:50:45Z",
+    "git_url": "git://github.com/LuxUmbra697/slide-report-studio.git",
+    "homepage": null,
+    "size": 117989,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
