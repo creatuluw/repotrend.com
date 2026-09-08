@@ -74288,5 +74288,74 @@
     "language": "C++",
     "forks_count": 7,
     "open_issues_count": 1
+  },
+  {
+    "id": 1348483831,
+    "name": "fastpotify",
+    "owner": {
+      "id": 106617,
+      "url": "https://api.github.com/users/crmne",
+      "html_url": "https://github.com/crmne",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106617?v=4"
+    },
+    "html_url": "https://github.com/crmne/fastpotify",
+    "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
+    "created_at": "2026-08-27T12:46:32Z",
+    "updated_at": "2026-09-08T10:49:25Z",
+    "pushed_at": "2026-09-07T21:31:17Z",
+    "git_url": "git://github.com/crmne/fastpotify.git",
+    "homepage": "https://fastpotify.rocks",
+    "size": 21008,
+    "stargazers_count": 3538,
+    "watchers_count": 3538,
+    "language": "Rust",
+    "forks_count": 157,
+    "open_issues_count": 75
+  },
+  {
+    "id": 1358295353,
+    "name": "codenotch",
+    "owner": {
+      "id": 199352226,
+      "url": "https://api.github.com/users/vinzdg",
+      "html_url": "https://github.com/vinzdg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/199352226?v=4"
+    },
+    "html_url": "https://github.com/vinzdg/codenotch",
+    "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+    "created_at": "2026-09-05T14:55:35Z",
+    "updated_at": "2026-09-08T10:43:38Z",
+    "pushed_at": "2026-09-08T10:16:53Z",
+    "git_url": "git://github.com/vinzdg/codenotch.git",
+    "homepage": null,
+    "size": 15410,
+    "stargazers_count": 987,
+    "watchers_count": 987,
+    "language": "Swift",
+    "forks_count": 159,
+    "open_issues_count": 15
+  },
+  {
+    "id": 1359648985,
+    "name": "HowToLiveBetter",
+    "owner": {
+      "id": 230156667,
+      "url": "https://api.github.com/users/eternity4719",
+      "html_url": "https://github.com/eternity4719",
+      "avatar_url": "https://avatars.githubusercontent.com/u/230156667?v=4"
+    },
+    "html_url": "https://github.com/eternity4719/HowToLiveBetter",
+    "description": "354 条循证建议，覆盖长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
+    "created_at": "2026-09-07T01:53:36Z",
+    "updated_at": "2026-09-08T10:52:22Z",
+    "pushed_at": "2026-09-08T10:53:13Z",
+    "git_url": "git://github.com/eternity4719/HowToLiveBetter.git",
+    "homepage": "https://eternity4719.github.io/HowToLiveBetter/",
+    "size": 5776,
+    "stargazers_count": 83,
+    "watchers_count": 83,
+    "language": "HTML",
+    "forks_count": 9,
+    "open_issues_count": 0
   }
 ]
