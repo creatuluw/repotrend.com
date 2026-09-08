@@ -74150,5 +74150,51 @@
     "language": "Python",
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1330652407,
+    "name": "MiniMax-Music3",
+    "owner": {
+      "id": 194880281,
+      "url": "https://api.github.com/users/MiniMax-AI",
+      "html_url": "https://github.com/MiniMax-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/194880281?v=4"
+    },
+    "html_url": "https://github.com/MiniMax-AI/MiniMax-Music3",
+    "description": null,
+    "created_at": "2026-08-11T08:01:03Z",
+    "updated_at": "2026-09-07T19:32:01Z",
+    "pushed_at": "2026-08-14T08:23:47Z",
+    "git_url": "git://github.com/MiniMax-AI/MiniMax-Music3.git",
+    "homepage": null,
+    "size": 36973,
+    "stargazers_count": 829,
+    "watchers_count": 829,
+    "language": null,
+    "forks_count": 75,
+    "open_issues_count": 9
+  },
+  {
+    "id": 1359600707,
+    "name": "javranking-extension",
+    "owner": {
+      "id": 19943786,
+      "url": "https://api.github.com/users/aizhimou",
+      "html_url": "https://github.com/aizhimou",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19943786?v=4"
+    },
+    "html_url": "https://github.com/aizhimou/javranking-extension",
+    "description": "Show all JAV cover and ranking in one click.",
+    "created_at": "2026-09-07T00:19:59Z",
+    "updated_at": "2026-09-07T20:04:17Z",
+    "pushed_at": "2026-09-07T00:44:22Z",
+    "git_url": "git://github.com/aizhimou/javranking-extension.git",
+    "homepage": "https://javranking.top/",
+    "size": 162,
+    "stargazers_count": 89,
+    "watchers_count": 89,
+    "language": "TypeScript",
+    "forks_count": 1,
+    "open_issues_count": 1
   }
 ]
