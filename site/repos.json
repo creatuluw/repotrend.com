@@ -74403,5 +74403,51 @@
     "language": "TypeScript",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1355833393,
+    "name": "camera-to-blender",
+    "owner": {
+      "id": 11807284,
+      "url": "https://api.github.com/users/ahujasid",
+      "html_url": "https://github.com/ahujasid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11807284?v=4"
+    },
+    "html_url": "https://github.com/ahujasid/camera-to-blender",
+    "description": "Take a photo of real objects, and paste them in Blender",
+    "created_at": "2026-09-03T10:34:30Z",
+    "updated_at": "2026-09-08T15:16:40Z",
+    "pushed_at": "2026-09-05T15:20:13Z",
+    "git_url": "git://github.com/ahujasid/camera-to-blender.git",
+    "homepage": null,
+    "size": 31,
+    "stargazers_count": 766,
+    "watchers_count": 766,
+    "language": "JavaScript",
+    "forks_count": 77,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1358357460,
+    "name": "chrome-web-mcp",
+    "owner": {
+      "id": 98832587,
+      "url": "https://api.github.com/users/kuraneko1",
+      "html_url": "https://github.com/kuraneko1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98832587?v=4"
+    },
+    "html_url": "https://github.com/kuraneko1/chrome-web-mcp",
+    "description": null,
+    "created_at": "2026-09-05T16:17:48Z",
+    "updated_at": "2026-09-08T15:47:51Z",
+    "pushed_at": "2026-09-07T16:48:03Z",
+    "git_url": "git://github.com/kuraneko1/chrome-web-mcp.git",
+    "homepage": null,
+    "size": 259,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 2
   }
 ]
