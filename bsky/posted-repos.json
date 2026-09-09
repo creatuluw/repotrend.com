@@ -6220,5 +6220,11 @@
     "name": "claude-doctor",
     "html_url": "https://github.com/millionco/claude-doctor",
     "posted_at": "2026-09-08T21:56:50.913Z"
+  },
+  {
+    "id": 1216704492,
+    "name": "polymarket-copy-trading-bot",
+    "html_url": "https://github.com/QuantBots-Collective/polymarket-copy-trading-bot",
+    "posted_at": "2026-09-09T00:26:03.311Z"
   }
 ]
