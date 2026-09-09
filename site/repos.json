@@ -74449,5 +74449,51 @@
     "language": "Python",
     "forks_count": 4,
     "open_issues_count": 2
+  },
+  {
+    "id": 1348796050,
+    "name": "shulihuazixuecongshu",
+    "owner": {
+      "id": 288998340,
+      "url": "https://api.github.com/users/tradecatlabs",
+      "html_url": "https://github.com/tradecatlabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/288998340?v=4"
+    },
+    "html_url": "https://github.com/tradecatlabs/shulihuazixuecongshu",
+    "description": null,
+    "created_at": "2026-08-27T18:02:35Z",
+    "updated_at": "2026-09-08T17:47:14Z",
+    "pushed_at": "2026-09-01T21:10:35Z",
+    "git_url": "git://github.com/tradecatlabs/shulihuazixuecongshu.git",
+    "homepage": null,
+    "size": 142963,
+    "stargazers_count": 872,
+    "watchers_count": 872,
+    "language": "Python",
+    "forks_count": 163,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1358040175,
+    "name": "Xiaobai-Skills",
+    "owner": {
+      "id": 163293171,
+      "url": "https://api.github.com/users/0x-IHRR",
+      "html_url": "https://github.com/0x-IHRR",
+      "avatar_url": "https://avatars.githubusercontent.com/u/163293171?v=4"
+    },
+    "html_url": "https://github.com/0x-IHRR/Xiaobai-Skills",
+    "description": " Open-source skill",
+    "created_at": "2026-09-05T09:45:19Z",
+    "updated_at": "2026-09-08T15:46:35Z",
+    "pushed_at": "2026-09-05T09:58:59Z",
+    "git_url": "git://github.com/0x-IHRR/Xiaobai-Skills.git",
+    "homepage": null,
+    "size": 154,
+    "stargazers_count": 98,
+    "watchers_count": 98,
+    "language": "Python",
+    "forks_count": 16,
+    "open_issues_count": 0
   }
 ]
