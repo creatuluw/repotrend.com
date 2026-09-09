@@ -74771,5 +74771,74 @@
     "language": "Python",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1279659344,
+    "name": "experiential",
+    "owner": {
+      "id": 233532581,
+      "url": "https://api.github.com/users/experientiallabs",
+      "html_url": "https://github.com/experientiallabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/233532581?v=4"
+    },
+    "html_url": "https://github.com/experientiallabs/experiential",
+    "description": "Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own.",
+    "created_at": "2026-06-24T22:40:57Z",
+    "updated_at": "2026-09-09T20:41:48Z",
+    "pushed_at": "2026-09-09T17:25:02Z",
+    "git_url": "git://github.com/experientiallabs/experiential.git",
+    "homepage": "https://experientiallabs.ai",
+    "size": 92045,
+    "stargazers_count": 3707,
+    "watchers_count": 3707,
+    "language": "Python",
+    "forks_count": 154,
+    "open_issues_count": 45
+  },
+  {
+    "id": 1347982389,
+    "name": "zero-to-sglang",
+    "owner": {
+      "id": 46047812,
+      "url": "https://api.github.com/users/datawhalechina",
+      "html_url": "https://github.com/datawhalechina",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46047812?v=4"
+    },
+    "html_url": "https://github.com/datawhalechina/zero-to-sglang",
+    "description": "Official SGLang × Datawhale course on LLM inference (中英双语): understand inference, build a mini-sglang from scratch, then read the real SGLang source and land your first PR. 《从零手搓SGLang》：读懂推理，手搓 mini-sglang，吃透 SGLang 源码。",
+    "created_at": "2026-08-27T02:24:12Z",
+    "updated_at": "2026-09-09T18:47:25Z",
+    "pushed_at": "2026-09-09T13:01:43Z",
+    "git_url": "git://github.com/datawhalechina/zero-to-sglang.git",
+    "homepage": "https://datawhalechina.github.io/zero-to-sglang/",
+    "size": 27082,
+    "stargazers_count": 627,
+    "watchers_count": 627,
+    "language": "Python",
+    "forks_count": 46,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1359539192,
+    "name": "openshaders",
+    "owner": {
+      "id": 325794384,
+      "url": "https://api.github.com/users/openshaders",
+      "html_url": "https://github.com/openshaders",
+      "avatar_url": "https://avatars.githubusercontent.com/u/325794384?v=4"
+    },
+    "html_url": "https://github.com/openshaders/openshaders",
+    "description": "The biggest open-source home for shaders on the web.",
+    "created_at": "2026-09-06T21:59:12Z",
+    "updated_at": "2026-09-09T20:41:51Z",
+    "pushed_at": "2026-09-09T17:06:05Z",
+    "git_url": "git://github.com/openshaders/openshaders.git",
+    "homepage": "https://openshaders.com",
+    "size": 473,
+    "stargazers_count": 69,
+    "watchers_count": 69,
+    "language": null,
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
