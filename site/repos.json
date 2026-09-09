@@ -74587,5 +74587,51 @@
     "language": "Python",
     "forks_count": 15,
     "open_issues_count": 0
+  },
+  {
+    "id": 1331592455,
+    "name": "enterprise-system-design",
+    "owner": {
+      "id": 24309945,
+      "url": "https://api.github.com/users/DrHazemAli",
+      "html_url": "https://github.com/DrHazemAli",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24309945?v=4"
+    },
+    "html_url": "https://github.com/DrHazemAli/enterprise-system-design",
+    "description": "A source-grounded course and architectural reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
+    "created_at": "2026-08-12T04:03:15Z",
+    "updated_at": "2026-09-09T03:41:48Z",
+    "pushed_at": "2026-08-22T01:27:12Z",
+    "git_url": "git://github.com/DrHazemAli/enterprise-system-design.git",
+    "homepage": "",
+    "size": 51836,
+    "stargazers_count": 595,
+    "watchers_count": 595,
+    "language": null,
+    "forks_count": 121,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1359452187,
+    "name": "KeySniper",
+    "owner": {
+      "id": 58443521,
+      "url": "https://api.github.com/users/ynsmroztas",
+      "html_url": "https://github.com/ynsmroztas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58443521?v=4"
+    },
+    "html_url": "https://github.com/ynsmroztas/KeySniper",
+    "description": "**CVE-2026-18963** — unauthenticated Keycloak account takeover via the reset-credentials flow.",
+    "created_at": "2026-09-06T19:25:47Z",
+    "updated_at": "2026-09-09T03:44:50Z",
+    "pushed_at": "2026-09-06T19:27:03Z",
+    "git_url": "git://github.com/ynsmroztas/KeySniper.git",
+    "homepage": null,
+    "size": 366,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": "Python",
+    "forks_count": 9,
+    "open_issues_count": 0
   }
 ]
