@@ -74495,5 +74495,51 @@
     "language": "Python",
     "forks_count": 16,
     "open_issues_count": 0
+  },
+  {
+    "id": 1331214301,
+    "name": "anti-defensive-writing-Skill",
+    "owner": {
+      "id": 169631528,
+      "url": "https://api.github.com/users/Adkid-Zephyr",
+      "html_url": "https://github.com/Adkid-Zephyr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/169631528?v=4"
+    },
+    "html_url": "https://github.com/Adkid-Zephyr/anti-defensive-writing-Skill",
+    "description": "极致轻量｜阻止论文的防御性写作 | Anti-defensive writing for academic papers — 学术写作原则 Skill + prompt pack (CN/EN)",
+    "created_at": "2026-08-11T18:02:07Z",
+    "updated_at": "2026-09-08T20:45:37Z",
+    "pushed_at": "2026-08-31T16:06:48Z",
+    "git_url": "git://github.com/Adkid-Zephyr/anti-defensive-writing-Skill.git",
+    "homepage": "",
+    "size": 26,
+    "stargazers_count": 673,
+    "watchers_count": 673,
+    "language": null,
+    "forks_count": 15,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1358585087,
+    "name": "cinematic-portofilo",
+    "owner": {
+      "id": 293643277,
+      "url": "https://api.github.com/users/gireeshkumarreddy",
+      "html_url": "https://github.com/gireeshkumarreddy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/293643277?v=4"
+    },
+    "html_url": "https://github.com/gireeshkumarreddy/cinematic-portofilo",
+    "description": null,
+    "created_at": "2026-09-05T21:50:00Z",
+    "updated_at": "2026-09-08T16:02:34Z",
+    "pushed_at": "2026-09-05T22:02:26Z",
+    "git_url": "git://github.com/gireeshkumarreddy/cinematic-portofilo.git",
+    "homepage": null,
+    "size": 23016,
+    "stargazers_count": 91,
+    "watchers_count": 91,
+    "language": "JavaScript",
+    "forks_count": 29,
+    "open_issues_count": 2
   }
 ]
