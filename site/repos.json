@@ -74633,5 +74633,74 @@
     "language": "Python",
     "forks_count": 9,
     "open_issues_count": 0
+  },
+  {
+    "id": 1326893710,
+    "name": "DSH-better-sidebar",
+    "owner": {
+      "id": 312905287,
+      "url": "https://api.github.com/users/omdsh-dev",
+      "html_url": "https://github.com/omdsh-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/312905287?v=4"
+    },
+    "html_url": "https://github.com/omdsh-dev/DSH-better-sidebar",
+    "description": "开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Open sidebar foundation, supports third-party extensions to register new sidebar pages. Built-in file rendering/editing, terminal, side chat, Git, and sub-agent pages.",
+    "created_at": "2026-08-07T16:04:00Z",
+    "updated_at": "2026-09-09T09:43:56Z",
+    "pushed_at": "2026-09-09T07:18:42Z",
+    "git_url": "git://github.com/omdsh-dev/DSH-better-sidebar.git",
+    "homepage": "",
+    "size": 3612,
+    "stargazers_count": 3454,
+    "watchers_count": 3454,
+    "language": "TypeScript",
+    "forks_count": 311,
+    "open_issues_count": 182
+  },
+  {
+    "id": 1333728741,
+    "name": "3105",
+    "owner": {
+      "id": 66435047,
+      "url": "https://api.github.com/users/YangJiiii",
+      "html_url": "https://github.com/YangJiiii",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66435047?v=4"
+    },
+    "html_url": "https://github.com/YangJiiii/3105",
+    "description": "Native iOS app-data browser, portable patch manager, limited cleaner, and PosterBoard wallpaper lab.",
+    "created_at": "2026-08-14T02:51:55Z",
+    "updated_at": "2026-09-09T03:42:34Z",
+    "pushed_at": "2026-08-25T14:46:06Z",
+    "git_url": "git://github.com/YangJiiii/3105.git",
+    "homepage": "https://x.com/duongduong0908",
+    "size": 2705,
+    "stargazers_count": 606,
+    "watchers_count": 606,
+    "language": "Swift",
+    "forks_count": 85,
+    "open_issues_count": 19
+  },
+  {
+    "id": 1359108765,
+    "name": "omarchy-plugin-security-skill",
+    "owner": {
+      "id": 204849768,
+      "url": "https://api.github.com/users/wbso-ai",
+      "html_url": "https://github.com/wbso-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/204849768?v=4"
+    },
+    "html_url": "https://github.com/wbso-ai/omarchy-plugin-security-skill",
+    "description": "Agent skill and field guide: the security pitfalls that block Omarchy plugins on the marketplace, from 5,000+ maintainer reviews",
+    "created_at": "2026-09-06T12:15:40Z",
+    "updated_at": "2026-09-08T23:24:56Z",
+    "pushed_at": "2026-09-07T06:51:21Z",
+    "git_url": "git://github.com/wbso-ai/omarchy-plugin-security-skill.git",
+    "homepage": null,
+    "size": 1994,
+    "stargazers_count": 68,
+    "watchers_count": 68,
+    "language": "HTML",
+    "forks_count": 2,
+    "open_issues_count": 1
   }
 ]
