@@ -74932,5 +74932,51 @@
     "language": "Python",
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1343746076,
+    "name": "StarPie",
+    "owner": {
+      "id": 170177708,
+      "url": "https://api.github.com/users/SoftBlack42",
+      "html_url": "https://github.com/SoftBlack42",
+      "avatar_url": "https://avatars.githubusercontent.com/u/170177708?v=4"
+    },
+    "html_url": "https://github.com/SoftBlack42/StarPie",
+    "description": "StarPie 现代化 Windows 鼠标轮盘手势系统 ",
+    "created_at": "2026-08-23T12:26:40Z",
+    "updated_at": "2026-09-10T03:20:45Z",
+    "pushed_at": "2026-09-09T17:08:25Z",
+    "git_url": "git://github.com/SoftBlack42/StarPie.git",
+    "homepage": "",
+    "size": 144100,
+    "stargazers_count": 645,
+    "watchers_count": 645,
+    "language": "C#",
+    "forks_count": 23,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1360846365,
+    "name": "Time_plottimeseries_CLI_tool",
+    "owner": {
+      "id": 33911999,
+      "url": "https://api.github.com/users/ashelygierisch",
+      "html_url": "https://github.com/ashelygierisch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33911999?v=4"
+    },
+    "html_url": "https://github.com/ashelygierisch/Time_plottimeseries_CLI_tool",
+    "description": null,
+    "created_at": "2026-09-08T02:37:19Z",
+    "updated_at": "2026-09-09T18:38:08Z",
+    "pushed_at": "2026-09-08T02:43:07Z",
+    "git_url": "git://github.com/ashelygierisch/Time_plottimeseries_CLI_tool.git",
+    "homepage": null,
+    "size": 1124,
+    "stargazers_count": 62,
+    "watchers_count": 62,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 3
   }
 ]
