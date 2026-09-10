@@ -75024,5 +75024,74 @@
     "language": "Kotlin",
     "forks_count": 8,
     "open_issues_count": 0
+  },
+  {
+    "id": 1339742577,
+    "name": "Amagine3D",
+    "owner": {
+      "id": 285729589,
+      "url": "https://api.github.com/users/amagine-ai",
+      "html_url": "https://github.com/amagine-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/285729589?v=4"
+    },
+    "html_url": "https://github.com/amagine-ai/Amagine3D",
+    "description": "Amagine3D: From hardware requirements to editable 3D designs",
+    "created_at": "2026-08-19T15:31:34Z",
+    "updated_at": "2026-09-10T16:01:35Z",
+    "pushed_at": "2026-09-10T00:39:15Z",
+    "git_url": "git://github.com/amagine-ai/Amagine3D.git",
+    "homepage": null,
+    "size": 6896,
+    "stargazers_count": 3469,
+    "watchers_count": 3469,
+    "language": "Python",
+    "forks_count": 108,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1350978527,
+    "name": "open-seo-mcp-skills",
+    "owner": {
+      "id": 239315082,
+      "url": "https://api.github.com/users/Ryze-AI-Adgent",
+      "html_url": "https://github.com/Ryze-AI-Adgent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/239315082?v=4"
+    },
+    "html_url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
+    "description": "Open-source SEO + GEO skills for Claude on your real GSC/GA4/ads data. Free MCP: claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp",
+    "created_at": "2026-08-29T23:37:01Z",
+    "updated_at": "2026-09-10T15:21:41Z",
+    "pushed_at": "2026-09-09T02:26:44Z",
+    "git_url": "git://github.com/Ryze-AI-Adgent/open-seo-mcp-skills.git",
+    "homepage": "https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp",
+    "size": 15837,
+    "stargazers_count": 738,
+    "watchers_count": 738,
+    "language": "Shell",
+    "forks_count": 11,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1361691839,
+    "name": "resume-portfolio-template",
+    "owner": {
+      "id": 281985360,
+      "url": "https://api.github.com/users/christiezhou1215-hue",
+      "html_url": "https://github.com/christiezhou1215-hue",
+      "avatar_url": "https://avatars.githubusercontent.com/u/281985360?v=4"
+    },
+    "html_url": "https://github.com/christiezhou1215-hue/resume-portfolio-template",
+    "description": null,
+    "created_at": "2026-09-08T17:18:11Z",
+    "updated_at": "2026-09-09T08:03:27Z",
+    "pushed_at": "2026-09-08T17:25:12Z",
+    "git_url": "git://github.com/christiezhou1215-hue/resume-portfolio-template.git",
+    "homepage": null,
+    "size": 33,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": "HTML",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
