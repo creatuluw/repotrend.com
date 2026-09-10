@@ -74840,5 +74840,51 @@
     "language": null,
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1334657231,
+    "name": "vibe-coding-toolkit",
+    "owner": {
+      "id": 11700039,
+      "url": "https://api.github.com/users/soumatheusgomes",
+      "html_url": "https://github.com/soumatheusgomes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11700039?v=4"
+    },
+    "html_url": "https://github.com/soumatheusgomes/vibe-coding-toolkit",
+    "description": "A curated, battle-tested AI-coding toolkit: Claude Code plugins, subagent orchestration, quality gates, and ready-to-copy prompts, extracted from real production use.",
+    "created_at": "2026-08-14T23:41:31Z",
+    "updated_at": "2026-09-09T19:10:04Z",
+    "pushed_at": "2026-09-03T20:38:31Z",
+    "git_url": "git://github.com/soumatheusgomes/vibe-coding-toolkit.git",
+    "homepage": null,
+    "size": 417,
+    "stargazers_count": 585,
+    "watchers_count": 585,
+    "language": "JavaScript",
+    "forks_count": 111,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1358878061,
+    "name": "vmodal_sdk_robotics",
+    "owner": {
+      "id": 286898453,
+      "url": "https://api.github.com/users/v-modal",
+      "html_url": "https://github.com/v-modal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/286898453?v=4"
+    },
+    "html_url": "https://github.com/v-modal/vmodal_sdk_robotics",
+    "description": "Robotics vision SDK",
+    "created_at": "2026-09-06T07:05:33Z",
+    "updated_at": "2026-09-08T20:51:09Z",
+    "pushed_at": "2026-09-06T13:25:30Z",
+    "git_url": "git://github.com/v-modal/vmodal_sdk_robotics.git",
+    "homepage": "",
+    "size": 48,
+    "stargazers_count": 77,
+    "watchers_count": 77,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1
   }
 ]
