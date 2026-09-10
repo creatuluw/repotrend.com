@@ -74978,5 +74978,51 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 3
+  },
+  {
+    "id": 1338671045,
+    "name": "desktop-fly",
+    "owner": {
+      "id": 2140110,
+      "url": "https://api.github.com/users/DenisSergeevitch",
+      "html_url": "https://github.com/DenisSergeevitch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2140110?v=4"
+    },
+    "html_url": "https://github.com/DenisSergeevitch/desktop-fly",
+    "description": "A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire connectome",
+    "created_at": "2026-08-18T17:29:17Z",
+    "updated_at": "2026-09-09T20:05:43Z",
+    "pushed_at": "2026-09-05T19:50:05Z",
+    "git_url": "git://github.com/DenisSergeevitch/desktop-fly.git",
+    "homepage": null,
+    "size": 854,
+    "stargazers_count": 798,
+    "watchers_count": 798,
+    "language": "Swift",
+    "forks_count": 55,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1362239367,
+    "name": "TLPE",
+    "owner": {
+      "id": 36431699,
+      "url": "https://api.github.com/users/Supersonic",
+      "html_url": "https://github.com/Supersonic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36431699?v=4"
+    },
+    "html_url": "https://github.com/Supersonic/TLPE",
+    "description": "CVE-2026-49881, a logic issue in the InCallController class in Android 17's Telecom service that allows an unprivileged app to gain arbitrary code execution as UID 1000 system_server",
+    "created_at": "2026-09-09T05:25:54Z",
+    "updated_at": "2026-09-10T08:59:23Z",
+    "pushed_at": "2026-09-09T05:39:14Z",
+    "git_url": "git://github.com/Supersonic/TLPE.git",
+    "homepage": "",
+    "size": 113,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": "Kotlin",
+    "forks_count": 8,
+    "open_issues_count": 0
   }
 ]
