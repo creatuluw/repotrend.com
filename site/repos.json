@@ -75208,5 +75208,51 @@
     "language": "Python",
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1331289843,
+    "name": "ShieldBreak",
+    "owner": {
+      "id": 291905677,
+      "url": "https://api.github.com/users/MSNightmare",
+      "html_url": "https://github.com/MSNightmare",
+      "avatar_url": "https://avatars.githubusercontent.com/u/291905677?v=4"
+    },
+    "html_url": "https://github.com/MSNightmare/ShieldBreak",
+    "description": "Windows Defender 0day vulnerability",
+    "created_at": "2026-08-11T19:35:37Z",
+    "updated_at": "2026-09-10T19:56:00Z",
+    "pushed_at": "2026-08-11T19:47:21Z",
+    "git_url": "git://github.com/MSNightmare/ShieldBreak.git",
+    "homepage": null,
+    "size": 414,
+    "stargazers_count": 722,
+    "watchers_count": 722,
+    "language": "C++",
+    "forks_count": 214,
+    "open_issues_count": 9
+  },
+  {
+    "id": 1361963944,
+    "name": "tui",
+    "owner": {
+      "id": 277024416,
+      "url": "https://api.github.com/users/ZenNotes",
+      "html_url": "https://github.com/ZenNotes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277024416?v=4"
+    },
+    "html_url": "https://github.com/ZenNotes/tui",
+    "description": null,
+    "created_at": "2026-09-08T22:27:40Z",
+    "updated_at": "2026-09-10T17:59:27Z",
+    "pushed_at": "2026-09-08T22:41:42Z",
+    "git_url": "git://github.com/ZenNotes/tui.git",
+    "homepage": null,
+    "size": 6155,
+    "stargazers_count": 56,
+    "watchers_count": 56,
+    "language": "Go",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
