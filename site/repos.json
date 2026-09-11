@@ -75254,5 +75254,51 @@
     "language": "Go",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1335823455,
+    "name": "native-subtitle-quote-image",
+    "owner": {
+      "id": 252342592,
+      "url": "https://api.github.com/users/chengyi-ai",
+      "html_url": "https://github.com/chengyi-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/252342592?v=4"
+    },
+    "html_url": "https://github.com/chengyi-ai/native-subtitle-quote-image",
+    "description": "保留视频内嵌字幕，精确取帧并生成 3:4 社交长图的 Agent Skill",
+    "created_at": "2026-08-16T10:35:30Z",
+    "updated_at": "2026-09-11T03:44:41Z",
+    "pushed_at": "2026-08-24T06:21:54Z",
+    "git_url": "git://github.com/chengyi-ai/native-subtitle-quote-image.git",
+    "homepage": null,
+    "size": 2189,
+    "stargazers_count": 605,
+    "watchers_count": 605,
+    "language": "Python",
+    "forks_count": 88,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1361228049,
+    "name": "refund-anything-ai-prompt",
+    "owner": {
+      "id": 29726248,
+      "url": "https://api.github.com/users/paveldevyatov",
+      "html_url": "https://github.com/paveldevyatov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29726248?v=4"
+    },
+    "html_url": "https://github.com/paveldevyatov/refund-anything-ai-prompt",
+    "description": "AI prompt that gets your money back — subscriptions, digital purchases, bookings. Polite letter first, legal escalation second. 30+ jurisdictions.",
+    "created_at": "2026-09-08T10:20:24Z",
+    "updated_at": "2026-09-10T16:25:22Z",
+    "pushed_at": "2026-09-08T10:58:14Z",
+    "git_url": "git://github.com/paveldevyatov/refund-anything-ai-prompt.git",
+    "homepage": null,
+    "size": 15,
+    "stargazers_count": 70,
+    "watchers_count": 70,
+    "language": null,
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
