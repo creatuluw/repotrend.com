@@ -75369,5 +75369,51 @@
     "language": "Shell",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1359120685,
+    "name": "screenwriting-skills",
+    "owner": {
+      "id": 860985,
+      "url": "https://api.github.com/users/jtydhr88",
+      "html_url": "https://github.com/jtydhr88",
+      "avatar_url": "https://avatars.githubusercontent.com/u/860985?v=4"
+    },
+    "html_url": "https://github.com/jtydhr88/screenwriting-skills",
+    "description": null,
+    "created_at": "2026-09-06T12:28:23Z",
+    "updated_at": "2026-09-11T10:25:24Z",
+    "pushed_at": "2026-09-08T15:09:02Z",
+    "git_url": "git://github.com/jtydhr88/screenwriting-skills.git",
+    "homepage": null,
+    "size": 285,
+    "stargazers_count": 690,
+    "watchers_count": 690,
+    "language": null,
+    "forks_count": 89,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1362122964,
+    "name": "tdt-nav-kit",
+    "owner": {
+      "id": 230106752,
+      "url": "https://api.github.com/users/T-DT-Algorithm-2026",
+      "html_url": "https://github.com/T-DT-Algorithm-2026",
+      "avatar_url": "https://avatars.githubusercontent.com/u/230106752?v=4"
+    },
+    "html_url": "https://github.com/T-DT-Algorithm-2026/tdt-nav-kit",
+    "description": null,
+    "created_at": "2026-09-09T02:44:21Z",
+    "updated_at": "2026-09-11T08:28:15Z",
+    "pushed_at": "2026-09-09T08:48:08Z",
+    "git_url": "git://github.com/T-DT-Algorithm-2026/tdt-nav-kit.git",
+    "homepage": null,
+    "size": 344,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "C++",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
