@@ -75139,5 +75139,74 @@
     "language": "Python",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1350984217,
+    "name": "DLSS5-Swapper",
+    "owner": {
+      "id": 199753947,
+      "url": "https://api.github.com/users/rakanki911",
+      "html_url": "https://github.com/rakanki911",
+      "avatar_url": "https://avatars.githubusercontent.com/u/199753947?v=4"
+    },
+    "html_url": "https://github.com/rakanki911/DLSS5-Swapper",
+    "description": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
+    "created_at": "2026-08-29T23:51:32Z",
+    "updated_at": "2026-09-10T20:22:21Z",
+    "pushed_at": "2026-09-09T21:30:11Z",
+    "git_url": "git://github.com/rakanki911/DLSS5-Swapper.git",
+    "homepage": "",
+    "size": 33600,
+    "stargazers_count": 3464,
+    "watchers_count": 3464,
+    "language": "JavaScript",
+    "forks_count": 173,
+    "open_issues_count": 65
+  },
+  {
+    "id": 1348253680,
+    "name": "ABot-Recon",
+    "owner": {
+      "id": 207984189,
+      "url": "https://api.github.com/users/amap-cvlab",
+      "html_url": "https://github.com/amap-cvlab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/207984189?v=4"
+    },
+    "html_url": "https://github.com/amap-cvlab/ABot-Recon",
+    "description": "Streaming 3D reconstruction from only video input: Revisiting Local Context for Long-Horizon Streaming 3D Reconstruction",
+    "created_at": "2026-08-27T08:32:09Z",
+    "updated_at": "2026-09-10T19:54:18Z",
+    "pushed_at": "2026-09-09T15:30:10Z",
+    "git_url": "git://github.com/amap-cvlab/ABot-Recon.git",
+    "homepage": "https://amap-cvlab.github.io/ABot-Recon-html/",
+    "size": 20296,
+    "stargazers_count": 639,
+    "watchers_count": 639,
+    "language": "Python",
+    "forks_count": 45,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1360813538,
+    "name": "note-bridge-desktop",
+    "owner": {
+      "id": 275312785,
+      "url": "https://api.github.com/users/lingxuanqjc-alt",
+      "html_url": "https://github.com/lingxuanqjc-alt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/275312785?v=4"
+    },
+    "html_url": "https://github.com/lingxuanqjc-alt/note-bridge-desktop",
+    "description": "Windows 笔记导出与迁移工具：七平台适配、四格式导出、离线阅读，明确验证范围与失败状态。",
+    "created_at": "2026-09-08T01:44:22Z",
+    "updated_at": "2026-09-10T19:59:47Z",
+    "pushed_at": "2026-09-09T17:07:03Z",
+    "git_url": "git://github.com/lingxuanqjc-alt/note-bridge-desktop.git",
+    "homepage": "https://github.com/lingxuanqjc-alt/note-bridge-desktop#readme",
+    "size": 2620,
+    "stargazers_count": 72,
+    "watchers_count": 72,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
