@@ -75415,5 +75415,74 @@
     "language": "C++",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1312257227,
+    "name": "Claude-of-Duty",
+    "owner": {
+      "id": 41550495,
+      "url": "https://api.github.com/users/mshumer",
+      "html_url": "https://github.com/mshumer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41550495?v=4"
+    },
+    "html_url": "https://github.com/mshumer/Claude-of-Duty",
+    "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+    "created_at": "2026-07-25T19:32:36Z",
+    "updated_at": "2026-09-11T10:10:48Z",
+    "pushed_at": "2026-07-25T19:38:53Z",
+    "git_url": "git://github.com/mshumer/Claude-of-Duty.git",
+    "homepage": null,
+    "size": 876,
+    "stargazers_count": 3405,
+    "watchers_count": 3405,
+    "language": "JavaScript",
+    "forks_count": 515,
+    "open_issues_count": 25
+  },
+  {
+    "id": 1333156486,
+    "name": "FireRedTTS3",
+    "owner": {
+      "id": 178460259,
+      "url": "https://api.github.com/users/FireRedTeam",
+      "html_url": "https://github.com/FireRedTeam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/178460259?v=4"
+    },
+    "html_url": "https://github.com/FireRedTeam/FireRedTTS3",
+    "description": "FireRedTTS3: Multilingual and Multi-Dialect Voice Cloning with Instruction-Guided Voice Design and Speech Editing",
+    "created_at": "2026-08-13T13:36:57Z",
+    "updated_at": "2026-09-11T16:03:15Z",
+    "pushed_at": "2026-09-08T03:53:31Z",
+    "git_url": "git://github.com/FireRedTeam/FireRedTTS3.git",
+    "homepage": "",
+    "size": 808,
+    "stargazers_count": 670,
+    "watchers_count": 670,
+    "language": "Python",
+    "forks_count": 18,
+    "open_issues_count": 9
+  },
+  {
+    "id": 1366340994,
+    "name": "pubg-visual-toolkit",
+    "owner": {
+      "id": 307757794,
+      "url": "https://api.github.com/users/SwordsmithCanyon",
+      "html_url": "https://github.com/SwordsmithCanyon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/307757794?v=4"
+    },
+    "html_url": "https://github.com/SwordsmithCanyon/pubg-visual-toolkit",
+    "description": "PUBG Visual Toolkit 2026 | Player Tracker, Radar Overlay, Aim Assistant | Free, No key required",
+    "created_at": "2026-09-11T15:08:38Z",
+    "updated_at": "2026-09-11T15:37:12Z",
+    "pushed_at": "2026-09-11T15:08:56Z",
+    "git_url": "git://github.com/SwordsmithCanyon/pubg-visual-toolkit.git",
+    "homepage": null,
+    "size": 0,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": null,
+    "forks_count": 10,
+    "open_issues_count": 0
   }
 ]
