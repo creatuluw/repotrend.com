@@ -75599,5 +75599,74 @@
     "language": "Swift",
     "forks_count": 30,
     "open_issues_count": 2
+  },
+  {
+    "id": 1322651268,
+    "name": "Fuxi",
+    "owner": {
+      "id": 292959175,
+      "url": "https://api.github.com/users/fuxicodex",
+      "html_url": "https://github.com/fuxicodex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/292959175?v=4"
+    },
+    "html_url": "https://github.com/fuxicodex/Fuxi",
+    "description": "FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run commands, and drive tools, with cost-aware routing across LLM providers.",
+    "created_at": "2026-08-04T07:32:11Z",
+    "updated_at": "2026-09-11T19:24:11Z",
+    "pushed_at": "2026-09-09T17:44:24Z",
+    "git_url": "git://github.com/fuxicodex/Fuxi.git",
+    "homepage": "https://www.fuxicode.com",
+    "size": 3636,
+    "stargazers_count": 3405,
+    "watchers_count": 3405,
+    "language": "Python",
+    "forks_count": 229,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1357411595,
+    "name": "Microduck-build-tutorial",
+    "owner": {
+      "id": 202376609,
+      "url": "https://api.github.com/users/AI-FanGe",
+      "html_url": "https://github.com/AI-FanGe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/202376609?v=4"
+    },
+    "html_url": "https://github.com/AI-FanGe/Microduck-build-tutorial",
+    "description": "A practical hardware and software setup for a compact RL-powered biped robot.",
+    "created_at": "2026-09-04T17:18:43Z",
+    "updated_at": "2026-09-11T19:07:01Z",
+    "pushed_at": "2026-09-11T07:51:37Z",
+    "git_url": "git://github.com/AI-FanGe/Microduck-build-tutorial.git",
+    "homepage": null,
+    "size": 35418,
+    "stargazers_count": 714,
+    "watchers_count": 714,
+    "language": "Python",
+    "forks_count": 185,
+    "open_issues_count": 9
+  },
+  {
+    "id": 1366332318,
+    "name": "fivem-visual-enhancer",
+    "owner": {
+      "id": 307757719,
+      "url": "https://api.github.com/users/Infernalgrunozzle",
+      "html_url": "https://github.com/Infernalgrunozzle",
+      "avatar_url": "https://avatars.githubusercontent.com/u/307757719?v=4"
+    },
+    "html_url": "https://github.com/Infernalgrunozzle/fivem-visual-enhancer",
+    "description": "FiveM External Utility 2026 | Visual Overlay, Player Tracker, Aim Assistant | Free, No key required",
+    "created_at": "2026-09-11T15:01:23Z",
+    "updated_at": "2026-09-11T15:51:40Z",
+    "pushed_at": "2026-09-11T15:01:39Z",
+    "git_url": "git://github.com/Infernalgrunozzle/fivem-visual-enhancer.git",
+    "homepage": null,
+    "size": 5,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": null,
+    "forks_count": 10,
+    "open_issues_count": 0
   }
 ]
