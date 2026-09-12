@@ -75875,5 +75875,74 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1333399642,
+    "name": "artemis",
+    "owner": {
+      "id": 1342004,
+      "url": "https://api.github.com/users/google",
+      "html_url": "https://github.com/google",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1342004?v=4"
+    },
+    "html_url": "https://github.com/google/artemis",
+    "description": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code.  It also achieves 99%+ success rate on AndroidWorld Benchmark.",
+    "created_at": "2026-08-13T17:59:37Z",
+    "updated_at": "2026-09-12T20:19:21Z",
+    "pushed_at": "2026-09-12T03:00:58Z",
+    "git_url": "git://github.com/google/artemis.git",
+    "homepage": "",
+    "size": 25790,
+    "stargazers_count": 3513,
+    "watchers_count": 3513,
+    "language": "Python",
+    "forks_count": 293,
+    "open_issues_count": 56
+  },
+  {
+    "id": 1350762381,
+    "name": "RTX40MFG-Unlock",
+    "owner": {
+      "id": 40410952,
+      "url": "https://api.github.com/users/dashdogy",
+      "html_url": "https://github.com/dashdogy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40410952?v=4"
+    },
+    "html_url": "https://github.com/dashdogy/RTX40MFG-Unlock",
+    "description": "Experimental DLSS Multi Frame Generation controls for any supported MFG title on RTX 40 series GPUs",
+    "created_at": "2026-08-29T17:00:46Z",
+    "updated_at": "2026-09-11T19:54:15Z",
+    "pushed_at": "2026-09-10T16:23:04Z",
+    "git_url": "git://github.com/dashdogy/RTX40MFG-Unlock.git",
+    "homepage": "",
+    "size": 704,
+    "stargazers_count": 764,
+    "watchers_count": 764,
+    "language": "C++",
+    "forks_count": 29,
+    "open_issues_count": 19
+  },
+  {
+    "id": 1362417978,
+    "name": "prod-UAE-Corporate-Tax-Skill",
+    "owner": {
+      "id": 187279291,
+      "url": "https://api.github.com/users/Git-Agni",
+      "html_url": "https://github.com/Git-Agni",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187279291?v=4"
+    },
+    "html_url": "https://github.com/Git-Agni/prod-UAE-Corporate-Tax-Skill",
+    "description": null,
+    "created_at": "2026-09-09T08:37:09Z",
+    "updated_at": "2026-09-10T22:27:56Z",
+    "pushed_at": "2026-09-09T09:32:46Z",
+    "git_url": "git://github.com/Git-Agni/prod-UAE-Corporate-Tax-Skill.git",
+    "homepage": null,
+    "size": 12,
+    "stargazers_count": 88,
+    "watchers_count": 88,
+    "language": null,
+    "forks_count": 10,
+    "open_issues_count": 0
   }
 ]
