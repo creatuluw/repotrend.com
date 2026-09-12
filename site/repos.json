@@ -75806,5 +75806,74 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1268848740,
+    "name": "Monero-Miner",
+    "owner": {
+      "id": 293489048,
+      "url": "https://api.github.com/users/ghoulformpray",
+      "html_url": "https://github.com/ghoulformpray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/293489048?v=4"
+    },
+    "html_url": "https://github.com/ghoulformpray/Monero-Miner",
+    "description": null,
+    "created_at": "2026-06-14T02:24:02Z",
+    "updated_at": "2026-09-12T15:15:24Z",
+    "pushed_at": "2026-09-10T12:24:20Z",
+    "git_url": "git://github.com/ghoulformpray/Monero-Miner.git",
+    "homepage": "",
+    "size": 2,
+    "stargazers_count": 3432,
+    "watchers_count": 3432,
+    "language": null,
+    "forks_count": 278,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1360317501,
+    "name": "dream-loop",
+    "owner": {
+      "id": 1448366,
+      "url": "https://api.github.com/users/achimala",
+      "html_url": "https://github.com/achimala",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1448366?v=4"
+    },
+    "html_url": "https://github.com/achimala/dream-loop",
+    "description": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
+    "created_at": "2026-09-07T14:19:20Z",
+    "updated_at": "2026-09-12T14:57:55Z",
+    "pushed_at": "2026-09-09T22:43:38Z",
+    "git_url": "git://github.com/achimala/dream-loop.git",
+    "homepage": null,
+    "size": 6768,
+    "stargazers_count": 899,
+    "watchers_count": 899,
+    "language": "JavaScript",
+    "forks_count": 100,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1362078054,
+    "name": "ESP32-AI",
+    "owner": {
+      "id": 33911999,
+      "url": "https://api.github.com/users/ashelygierisch",
+      "html_url": "https://github.com/ashelygierisch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33911999?v=4"
+    },
+    "html_url": "https://github.com/ashelygierisch/ESP32-AI",
+    "description": null,
+    "created_at": "2026-09-09T01:35:41Z",
+    "updated_at": "2026-09-10T16:33:03Z",
+    "pushed_at": "2026-09-09T01:42:59Z",
+    "git_url": "git://github.com/ashelygierisch/ESP32-AI.git",
+    "homepage": null,
+    "size": 1086,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
