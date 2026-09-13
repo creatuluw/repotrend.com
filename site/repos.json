@@ -76128,5 +76128,51 @@
     "language": "HTML",
     "forks_count": 44,
     "open_issues_count": 0
+  },
+  {
+    "id": 1364767317,
+    "name": "Mac-Duo",
+    "owner": {
+      "id": 5277268,
+      "url": "https://api.github.com/users/sumimakito",
+      "html_url": "https://github.com/sumimakito",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5277268?v=4"
+    },
+    "html_url": "https://github.com/sumimakito/Mac-Duo",
+    "description": "Wish you could bring the iPhone Duo effect to your MacBook?",
+    "created_at": "2026-09-10T18:55:39Z",
+    "updated_at": "2026-09-12T20:20:01Z",
+    "pushed_at": "2026-09-12T14:26:09Z",
+    "git_url": "git://github.com/sumimakito/Mac-Duo.git",
+    "homepage": "",
+    "size": 531,
+    "stargazers_count": 678,
+    "watchers_count": 678,
+    "language": "Swift",
+    "forks_count": 53,
+    "open_issues_count": 22
+  },
+  {
+    "id": 1366699453,
+    "name": "rdr2-single-player-trainer-assistant",
+    "owner": {
+      "id": 322327527,
+      "url": "https://api.github.com/users/OliveFlamingoPivot10",
+      "html_url": "https://github.com/OliveFlamingoPivot10",
+      "avatar_url": "https://avatars.githubusercontent.com/u/322327527?v=4"
+    },
+    "html_url": "https://github.com/OliveFlamingoPivot10/rdr2-single-player-trainer-assistant",
+    "description": "A comprehensive single-player utility and trainer assistant for Red Dead Redemption 2 (2026). Customize your offline gameplay experience easily.",
+    "created_at": "2026-09-11T21:17:22Z",
+    "updated_at": "2026-09-12T08:11:19Z",
+    "pushed_at": "2026-09-11T21:17:43Z",
+    "git_url": "git://github.com/OliveFlamingoPivot10/rdr2-single-player-trainer-assistant.git",
+    "homepage": null,
+    "size": 2,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
