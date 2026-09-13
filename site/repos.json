@@ -75944,5 +75944,51 @@
     "language": null,
     "forks_count": 10,
     "open_issues_count": 0
+  },
+  {
+    "id": 1354267344,
+    "name": "recorder",
+    "owner": {
+      "id": 323863704,
+      "url": "https://api.github.com/users/sonicloudco",
+      "html_url": "https://github.com/sonicloudco",
+      "avatar_url": "https://avatars.githubusercontent.com/u/323863704?v=4"
+    },
+    "html_url": "https://github.com/sonicloudco/recorder",
+    "description": "声云录音卡 Recorder 是一套面向开发者和行业客户的智能录音硬件接入方案。 项目以录音卡片硬件为核心，开放 BLE 协议 SDK 及 Android、iOS、鸿蒙、Flutter 接入示例，���时提供 Windows/macOS 桌面端 Demo，支持设备连接、录音控制、实时音频、文件传输、OTA 升级和语音转写等能力，帮助开发者快速将录音硬件接入自己的 App、桌面软件或行业系统。 如需获取硬件规格、样机、完整协议、SDK 资料或定制服务，请联系安徽声云",
+    "created_at": "2026-09-02T03:32:02Z",
+    "updated_at": "2026-09-11T09:17:24Z",
+    "pushed_at": "2026-09-10T01:47:18Z",
+    "git_url": "git://github.com/sonicloudco/recorder.git",
+    "homepage": "https://www.sinicloud.com",
+    "size": 43186,
+    "stargazers_count": 824,
+    "watchers_count": 824,
+    "language": "HTML",
+    "forks_count": 56,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1366337254,
+    "name": "dota2-overlay-toolkit",
+    "owner": {
+      "id": 307757784,
+      "url": "https://api.github.com/users/PentagonTurtle",
+      "html_url": "https://github.com/PentagonTurtle",
+      "avatar_url": "https://avatars.githubusercontent.com/u/307757784?v=4"
+    },
+    "html_url": "https://github.com/PentagonTurtle/dota2-overlay-toolkit",
+    "description": "Dota 2 External Overlay Utility 2026 | Map Vision, Auto-Combo, Creep Tracker | Free, No key required",
+    "created_at": "2026-09-11T15:05:31Z",
+    "updated_at": "2026-09-11T15:44:26Z",
+    "pushed_at": "2026-09-11T15:05:49Z",
+    "git_url": "git://github.com/PentagonTurtle/dota2-overlay-toolkit.git",
+    "homepage": null,
+    "size": 5,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": null,
+    "forks_count": 10,
+    "open_issues_count": 0
   }
 ]
