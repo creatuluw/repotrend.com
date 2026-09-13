@@ -76082,5 +76082,51 @@
     "language": "C#",
     "forks_count": 13,
     "open_issues_count": 0
+  },
+  {
+    "id": 1335212031,
+    "name": "ooosplat",
+    "owner": {
+      "id": 105619733,
+      "url": "https://api.github.com/users/ooolabdev",
+      "html_url": "https://github.com/ooolabdev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105619733?v=4"
+    },
+    "html_url": "https://github.com/ooolabdev/ooosplat",
+    "description": "A local desktop app that turns videos and images into 3D Gaussian Splats in one click.",
+    "created_at": "2026-08-15T15:48:10Z",
+    "updated_at": "2026-09-13T11:04:14Z",
+    "pushed_at": "2026-09-12T15:18:02Z",
+    "git_url": "git://github.com/ooolabdev/ooosplat.git",
+    "homepage": "",
+    "size": 6581,
+    "stargazers_count": 909,
+    "watchers_count": 909,
+    "language": "Rust",
+    "forks_count": 131,
+    "open_issues_count": 10
+  },
+  {
+    "id": 1367446577,
+    "name": "CJ-DeFi-Handbook",
+    "owner": {
+      "id": 260079142,
+      "url": "https://api.github.com/users/suoha888",
+      "html_url": "https://github.com/suoha888",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260079142?v=4"
+    },
+    "html_url": "https://github.com/suoha888/CJ-DeFi-Handbook",
+    "description": "CJ DeFi 做市与套利实战手册 · 顶级高手 CJ（@gch_enbsbxbs）502篇推文体系化精解与全量开源数据集",
+    "created_at": "2026-09-12T15:54:13Z",
+    "updated_at": "2026-09-13T10:40:10Z",
+    "pushed_at": "2026-09-13T07:51:49Z",
+    "git_url": "git://github.com/suoha888/CJ-DeFi-Handbook.git",
+    "homepage": "https://suoha888.github.io/CJ-DeFi-Handbook/",
+    "size": 12057,
+    "stargazers_count": 81,
+    "watchers_count": 81,
+    "language": "HTML",
+    "forks_count": 44,
+    "open_issues_count": 0
   }
 ]
