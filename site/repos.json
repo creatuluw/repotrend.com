@@ -76174,5 +76174,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1360942455,
+    "name": "itsgiving",
+    "owner": {
+      "id": 32211479,
+      "url": "https://api.github.com/users/gazijarin",
+      "html_url": "https://github.com/gazijarin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32211479?v=4"
+    },
+    "html_url": "https://github.com/gazijarin/itsgiving",
+    "description": "Express yourself in meetings (with memes, of course).",
+    "created_at": "2026-09-08T05:02:01Z",
+    "updated_at": "2026-09-13T15:02:12Z",
+    "pushed_at": "2026-09-08T05:45:44Z",
+    "git_url": "git://github.com/gazijarin/itsgiving.git",
+    "homepage": "",
+    "size": 35429,
+    "stargazers_count": 809,
+    "watchers_count": 809,
+    "language": "Python",
+    "forks_count": 93,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1366695516,
+    "name": "cs2-movement-assistant",
+    "owner": {
+      "id": 322326979,
+      "url": "https://api.github.com/users/Matterilprotect",
+      "html_url": "https://github.com/Matterilprotect",
+      "avatar_url": "https://avatars.githubusercontent.com/u/322326979?v=4"
+    },
+    "html_url": "https://github.com/Matterilprotect/cs2-movement-assistant",
+    "description": "Premium CS2 movement utility and HUD overlay | 2026 | Free | No key required",
+    "created_at": "2026-09-11T21:11:21Z",
+    "updated_at": "2026-09-12T08:41:58Z",
+    "pushed_at": "2026-09-12T08:41:55Z",
+    "git_url": "git://github.com/Matterilprotect/cs2-movement-assistant.git",
+    "homepage": null,
+    "size": 13,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
