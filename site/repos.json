@@ -75990,5 +75990,51 @@
     "language": null,
     "forks_count": 10,
     "open_issues_count": 0
+  },
+  {
+    "id": 1342226102,
+    "name": "backpass",
+    "owner": {
+      "id": 3233006,
+      "url": "https://api.github.com/users/kunchenguid",
+      "html_url": "https://github.com/kunchenguid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3233006?v=4"
+    },
+    "html_url": "https://github.com/kunchenguid/backpass",
+    "description": "You don't write AGENTS.md. You train it with gradient descent.",
+    "created_at": "2026-08-21T21:12:31Z",
+    "updated_at": "2026-09-11T18:38:23Z",
+    "pushed_at": "2026-09-11T13:52:44Z",
+    "git_url": "git://github.com/kunchenguid/backpass.git",
+    "homepage": "",
+    "size": 3493,
+    "stargazers_count": 945,
+    "watchers_count": 945,
+    "language": "JavaScript",
+    "forks_count": 60,
+    "open_issues_count": 20
+  },
+  {
+    "id": 1362584328,
+    "name": "chatify",
+    "owner": {
+      "id": 33911999,
+      "url": "https://api.github.com/users/ashelygierisch",
+      "html_url": "https://github.com/ashelygierisch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33911999?v=4"
+    },
+    "html_url": "https://github.com/ashelygierisch/chatify",
+    "description": null,
+    "created_at": "2026-09-09T11:23:07Z",
+    "updated_at": "2026-09-10T16:33:16Z",
+    "pushed_at": "2026-09-09T11:28:09Z",
+    "git_url": "git://github.com/ashelygierisch/chatify.git",
+    "homepage": null,
+    "size": 435,
+    "stargazers_count": 59,
+    "watchers_count": 59,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
