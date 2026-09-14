@@ -76220,5 +76220,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1358571386,
+    "name": "okf-agent-memory",
+    "owner": {
+      "id": 322091575,
+      "url": "https://api.github.com/users/okf-memory",
+      "html_url": "https://github.com/okf-memory",
+      "avatar_url": "https://avatars.githubusercontent.com/u/322091575?v=4"
+    },
+    "html_url": "https://github.com/okf-memory/okf-agent-memory",
+    "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
+    "created_at": "2026-09-05T21:26:04Z",
+    "updated_at": "2026-09-13T20:03:37Z",
+    "pushed_at": "2026-09-13T17:31:23Z",
+    "git_url": "git://github.com/okf-memory/okf-agent-memory.git",
+    "homepage": "https://okf-memory.dev",
+    "size": 339,
+    "stargazers_count": 623,
+    "watchers_count": 623,
+    "language": "Go",
+    "forks_count": 44,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1366690119,
+    "name": "battlefield-overlay-and-assistant-tool",
+    "owner": {
+      "id": 307801630,
+      "url": "https://api.github.com/users/Sapphireeoevaluate",
+      "html_url": "https://github.com/Sapphireeoevaluate",
+      "avatar_url": "https://avatars.githubusercontent.com/u/307801630?v=4"
+    },
+    "html_url": "https://github.com/Sapphireeoevaluate/battlefield-overlay-and-assistant-tool",
+    "description": "Battlefield 2042 utility overlay and game assistant 2026 | Free | No key required",
+    "created_at": "2026-09-11T21:03:19Z",
+    "updated_at": "2026-09-12T08:41:58Z",
+    "pushed_at": "2026-09-12T08:41:55Z",
+    "git_url": "git://github.com/Sapphireeoevaluate/battlefield-overlay-and-assistant-tool.git",
+    "homepage": null,
+    "size": 12,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
