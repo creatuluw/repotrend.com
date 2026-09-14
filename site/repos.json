@@ -76358,5 +76358,74 @@
     "language": "Python",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1357699236,
+    "name": "human-atlas",
+    "owner": {
+      "id": 8096590,
+      "url": "https://api.github.com/users/ashemag",
+      "html_url": "https://github.com/ashemag",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8096590?v=4"
+    },
+    "html_url": "https://github.com/ashemag/human-atlas",
+    "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+    "created_at": "2026-09-05T00:24:43Z",
+    "updated_at": "2026-09-14T11:29:26Z",
+    "pushed_at": "2026-09-06T23:35:06Z",
+    "git_url": "git://github.com/ashemag/human-atlas.git",
+    "homepage": "https://human-atlas-seven.vercel.app",
+    "size": 104115,
+    "stargazers_count": 3402,
+    "watchers_count": 3402,
+    "language": "TypeScript",
+    "forks_count": 823,
+    "open_issues_count": 33
+  },
+  {
+    "id": 1341279150,
+    "name": "9r-bulk-add",
+    "owner": {
+      "id": 290566460,
+      "url": "https://api.github.com/users/capncodes69",
+      "html_url": "https://github.com/capncodes69",
+      "avatar_url": "https://avatars.githubusercontent.com/u/290566460?v=4"
+    },
+    "html_url": "https://github.com/capncodes69/9r-bulk-add",
+    "description": null,
+    "created_at": "2026-08-21T01:16:48Z",
+    "updated_at": "2026-09-13T01:47:30Z",
+    "pushed_at": "2026-08-26T04:56:50Z",
+    "git_url": "git://github.com/capncodes69/9r-bulk-add.git",
+    "homepage": null,
+    "size": 19,
+    "stargazers_count": 647,
+    "watchers_count": 647,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1365299085,
+    "name": "AutoApply",
+    "owner": {
+      "id": 124030213,
+      "url": "https://api.github.com/users/seanpushu",
+      "html_url": "https://github.com/seanpushu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124030213?v=4"
+    },
+    "html_url": "https://github.com/seanpushu/AutoApply",
+    "description": "Personal Summer 2027 AIE, SDE and MLE internship workspace with reviewed application assistance",
+    "created_at": "2026-09-11T04:09:32Z",
+    "updated_at": "2026-09-13T23:23:58Z",
+    "pushed_at": "2026-09-13T07:04:21Z",
+    "git_url": "git://github.com/seanpushu/AutoApply.git",
+    "homepage": null,
+    "size": 1594,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": "TypeScript",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
