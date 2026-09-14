@@ -76266,5 +76266,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1336092482,
+    "name": "dsh-worktable",
+    "owner": {
+      "id": 289419958,
+      "url": "https://api.github.com/users/Aisland-SJL",
+      "html_url": "https://github.com/Aisland-SJL",
+      "avatar_url": "https://avatars.githubusercontent.com/u/289419958?v=4"
+    },
+    "html_url": "https://github.com/Aisland-SJL/dsh-worktable",
+    "description": "🖥️ Agent-project workbench for DeepSeek Harness — sidebar app drawer + dockable split workspace + a live control room watching every project.",
+    "created_at": "2026-08-16T15:43:27Z",
+    "updated_at": "2026-09-13T14:42:54Z",
+    "pushed_at": "2026-09-06T06:28:21Z",
+    "git_url": "git://github.com/Aisland-SJL/dsh-worktable.git",
+    "homepage": null,
+    "size": 5054,
+    "stargazers_count": 600,
+    "watchers_count": 600,
+    "language": "JavaScript",
+    "forks_count": 75,
+    "open_issues_count": 9
+  },
+  {
+    "id": 1366690666,
+    "name": "dbd-match-assistant",
+    "owner": {
+      "id": 307801677,
+      "url": "https://api.github.com/users/SpherePrince",
+      "html_url": "https://github.com/SpherePrince",
+      "avatar_url": "https://avatars.githubusercontent.com/u/307801677?v=4"
+    },
+    "html_url": "https://github.com/SpherePrince/dbd-match-assistant",
+    "description": "Dead by Daylight Match Assistant 2026 | Free | No key required",
+    "created_at": "2026-09-11T21:04:09Z",
+    "updated_at": "2026-09-12T08:41:58Z",
+    "pushed_at": "2026-09-12T08:41:55Z",
+    "git_url": "git://github.com/SpherePrince/dbd-match-assistant.git",
+    "homepage": null,
+    "size": 12,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
