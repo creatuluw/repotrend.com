@@ -76312,5 +76312,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1344728230,
+    "name": "bytex",
+    "owner": {
+      "id": 320486355,
+      "url": "https://api.github.com/users/BYTEX-TRADE",
+      "html_url": "https://github.com/BYTEX-TRADE",
+      "avatar_url": "https://avatars.githubusercontent.com/u/320486355?v=4"
+    },
+    "html_url": "https://github.com/BYTEX-TRADE/bytex",
+    "description": null,
+    "created_at": "2026-08-24T08:39:30Z",
+    "updated_at": "2026-09-13T20:20:28Z",
+    "pushed_at": "2026-08-24T09:04:27Z",
+    "git_url": "git://github.com/BYTEX-TRADE/bytex.git",
+    "homepage": null,
+    "size": 296,
+    "stargazers_count": 612,
+    "watchers_count": 612,
+    "language": "C#",
+    "forks_count": 147,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1364101947,
+    "name": "freecad-mcp",
+    "owner": {
+      "id": 219986542,
+      "url": "https://api.github.com/users/HowCCC",
+      "html_url": "https://github.com/HowCCC",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219986542?v=4"
+    },
+    "html_url": "https://github.com/HowCCC/freecad-mcp",
+    "description": null,
+    "created_at": "2026-09-10T12:27:38Z",
+    "updated_at": "2026-09-13T13:25:15Z",
+    "pushed_at": "2026-09-10T12:47:20Z",
+    "git_url": "git://github.com/HowCCC/freecad-mcp.git",
+    "homepage": null,
+    "size": 611,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
