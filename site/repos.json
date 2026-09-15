@@ -76496,5 +76496,51 @@
     "language": "TypeScript",
     "forks_count": 9,
     "open_issues_count": 13
+  },
+  {
+    "id": 1348084390,
+    "name": "prod-FARM-IOS-Core",
+    "owner": {
+      "id": 187279291,
+      "url": "https://api.github.com/users/Git-Agni",
+      "html_url": "https://github.com/Git-Agni",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187279291?v=4"
+    },
+    "html_url": "https://github.com/Git-Agni/prod-FARM-IOS-Core",
+    "description": "A farm of real iPhones, run from your Mac. Open-source iOS device automation with live control, a Postgres-backed scheduler, and TikTok workflows. Self-hosted, Apache-2.0.",
+    "created_at": "2026-08-27T04:55:36Z",
+    "updated_at": "2026-09-13T20:29:45Z",
+    "pushed_at": "2026-09-07T10:50:41Z",
+    "git_url": "git://github.com/Git-Agni/prod-FARM-IOS-Core.git",
+    "homepage": "https://gethandler.ai/ios-farm",
+    "size": 231,
+    "stargazers_count": 972,
+    "watchers_count": 972,
+    "language": "TypeScript",
+    "forks_count": 187,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1368621889,
+    "name": "ghost-location",
+    "owner": {
+      "id": 114044325,
+      "url": "https://api.github.com/users/Blueturboguy07",
+      "html_url": "https://github.com/Blueturboguy07",
+      "avatar_url": "https://avatars.githubusercontent.com/u/114044325?v=4"
+    },
+    "html_url": "https://github.com/Blueturboguy07/ghost-location",
+    "description": "Free, open-source Electron app for USB phone location simulation and road route playback on macOS and Windows.",
+    "created_at": "2026-09-13T16:53:21Z",
+    "updated_at": "2026-09-14T21:11:34Z",
+    "pushed_at": "2026-09-14T10:04:03Z",
+    "git_url": "git://github.com/Blueturboguy07/ghost-location.git",
+    "homepage": "https://publikhq.com/ghost",
+    "size": 4185,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": "JavaScript",
+    "forks_count": 6,
+    "open_issues_count": 2
   }
 ]
