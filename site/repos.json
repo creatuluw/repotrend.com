@@ -76542,5 +76542,51 @@
     "language": "JavaScript",
     "forks_count": 6,
     "open_issues_count": 2
+  },
+  {
+    "id": 1338987521,
+    "name": "AuK",
+    "owner": {
+      "id": 210980732,
+      "url": "https://api.github.com/users/Tencent-Hunyuan",
+      "html_url": "https://github.com/Tencent-Hunyuan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210980732?v=4"
+    },
+    "html_url": "https://github.com/Tencent-Hunyuan/AuK",
+    "description": "AuK: An Open-Source Foundational Model for Speech Generation and Editing",
+    "created_at": "2026-08-19T01:39:24Z",
+    "updated_at": "2026-09-13T20:24:07Z",
+    "pushed_at": "2026-09-13T14:50:35Z",
+    "git_url": "git://github.com/Tencent-Hunyuan/AuK.git",
+    "homepage": "https://auk-project.github.io/",
+    "size": 22068,
+    "stargazers_count": 726,
+    "watchers_count": 726,
+    "language": "Python",
+    "forks_count": 49,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1365550050,
+    "name": "airspace",
+    "owner": {
+      "id": 28706372,
+      "url": "https://api.github.com/users/danielroe",
+      "html_url": "https://github.com/danielroe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28706372?v=4"
+    },
+    "html_url": "https://github.com/danielroe/airspace",
+    "description": "The database you already have.",
+    "created_at": "2026-09-11T07:21:52Z",
+    "updated_at": "2026-09-14T21:13:44Z",
+    "pushed_at": "2026-09-14T16:11:02Z",
+    "git_url": "git://github.com/danielroe/airspace.git",
+    "homepage": "https://getair.space",
+    "size": 782,
+    "stargazers_count": 68,
+    "watchers_count": 68,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 4
   }
 ]
