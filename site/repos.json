@@ -76588,5 +76588,74 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 4
+  },
+  {
+    "id": 1273427276,
+    "name": "security-audit-skill",
+    "owner": {
+      "id": 314135,
+      "url": "https://api.github.com/users/cloudflare",
+      "html_url": "https://github.com/cloudflare",
+      "avatar_url": "https://avatars.githubusercontent.com/u/314135?v=4"
+    },
+    "html_url": "https://github.com/cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "created_at": "2026-06-18T14:08:44Z",
+    "updated_at": "2026-09-14T21:37:01Z",
+    "pushed_at": "2026-09-14T19:29:02Z",
+    "git_url": "git://github.com/cloudflare/security-audit-skill.git",
+    "homepage": "",
+    "size": 143,
+    "stargazers_count": 3799,
+    "watchers_count": 3799,
+    "language": "JavaScript",
+    "forks_count": 259,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1340189836,
+    "name": "project_superdex",
+    "owner": {
+      "id": 16943930,
+      "url": "https://api.github.com/users/facebookresearch",
+      "html_url": "https://github.com/facebookresearch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16943930?v=4"
+    },
+    "html_url": "https://github.com/facebookresearch/project_superdex",
+    "description": "SuperDex brings together a purpose-built physics engine, robotics authoring tools, and a scalable reinforcement learning interface in a unified simulation platform, with VR-based teleoperation and additional capabilities planned for future releases.",
+    "created_at": "2026-08-20T02:04:05Z",
+    "updated_at": "2026-09-14T18:44:49Z",
+    "pushed_at": "2026-09-14T18:44:44Z",
+    "git_url": "git://github.com/facebookresearch/project_superdex.git",
+    "homepage": "https://projectsuperdex.com",
+    "size": 729538,
+    "stargazers_count": 647,
+    "watchers_count": 647,
+    "language": "C++",
+    "forks_count": 64,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1367379272,
+    "name": "easy-for-gaokun",
+    "owner": {
+      "id": 162766791,
+      "url": "https://api.github.com/users/aoripus",
+      "html_url": "https://github.com/aoripus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/162766791?v=4"
+    },
+    "html_url": "https://github.com/aoripus/easy-for-gaokun",
+    "description": "让 HUAWEI MateBook E Go 2022 性能版（GK-W76）在 Ubuntu 上获得完整的、全面适配，从能用到能日用的体验。并深度适配Linux，增强在Linux主系统下原生运行Windows应用和Android应用的流转能力。",
+    "created_at": "2026-09-12T14:35:15Z",
+    "updated_at": "2026-09-14T17:53:06Z",
+    "pushed_at": "2026-09-14T17:53:04Z",
+    "git_url": "git://github.com/aoripus/easy-for-gaokun.git",
+    "homepage": "",
+    "size": 632,
+    "stargazers_count": 77,
+    "watchers_count": 77,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 1
   }
 ]
