@@ -76795,5 +76795,51 @@
     "language": "Python",
     "forks_count": 18,
     "open_issues_count": 0
+  },
+  {
+    "id": 1351898444,
+    "name": "DLSS5oneclick",
+    "owner": {
+      "id": 246171974,
+      "url": "https://api.github.com/users/faisalkindi",
+      "html_url": "https://github.com/faisalkindi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/246171974?v=4"
+    },
+    "html_url": "https://github.com/faisalkindi/DLSS5oneclick",
+    "description": "One-click setup of the leaked DLSS 5 neural-rendering build for any DX11/DX12 game on RTX 20–50, with or without DLSS. ReShade + RenoDX add-on (or OptiScaler engine); DLSS5-Feeder + LumeniteFX for games without DLSS; dlss5-bridge for DX11. Rust, single exe.",
+    "created_at": "2026-08-31T02:12:29Z",
+    "updated_at": "2026-09-15T16:28:16Z",
+    "pushed_at": "2026-09-15T11:34:41Z",
+    "git_url": "git://github.com/faisalkindi/DLSS5oneclick.git",
+    "homepage": null,
+    "size": 357369,
+    "stargazers_count": 818,
+    "watchers_count": 818,
+    "language": "Rust",
+    "forks_count": 59,
+    "open_issues_count": 32
+  },
+  {
+    "id": 1365867810,
+    "name": "CVE-2026-41089-Netlogon-RCE-PoC",
+    "owner": {
+      "id": 327702698,
+      "url": "https://api.github.com/users/SyntaxMethod",
+      "html_url": "https://github.com/SyntaxMethod",
+      "avatar_url": "https://avatars.githubusercontent.com/u/327702698?v=4"
+    },
+    "html_url": "https://github.com/SyntaxMethod/CVE-2026-41089-Netlogon-RCE-PoC",
+    "description": "CVE-2026-41089 Netlogon RCE PoC — security research, vulnerability validation & defensive testing.",
+    "created_at": "2026-09-11T10:34:35Z",
+    "updated_at": "2026-09-14T20:16:30Z",
+    "pushed_at": "2026-09-11T18:14:44Z",
+    "git_url": "git://github.com/SyntaxMethod/CVE-2026-41089-Netlogon-RCE-PoC.git",
+    "homepage": "https://zerodayevil.github.io",
+    "size": 1930,
+    "stargazers_count": 89,
+    "watchers_count": 89,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
