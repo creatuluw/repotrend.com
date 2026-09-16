@@ -76933,5 +76933,51 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1352664466,
+    "name": "DLSS5-Autopilot",
+    "owner": {
+      "id": 154545455,
+      "url": "https://api.github.com/users/Kizzuwatnaa",
+      "html_url": "https://github.com/Kizzuwatnaa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/154545455?v=4"
+    },
+    "html_url": "https://github.com/Kizzuwatnaa/DLSS5-Autopilot",
+    "description": "Puts DLSS 5 neural rendering into games that never shipped it, and brings the game's own DLSS up to date - super resolution, ray reconstruction, frame generation. Scans your library, picks one of eight routes, fetches every part from its publisher at run time, then says what happened. One exe, no admin; uninstall puts the game back.",
+    "created_at": "2026-08-31T17:09:10Z",
+    "updated_at": "2026-09-15T19:43:05Z",
+    "pushed_at": "2026-09-15T18:13:05Z",
+    "git_url": "git://github.com/Kizzuwatnaa/DLSS5-Autopilot.git",
+    "homepage": "",
+    "size": 1694,
+    "stargazers_count": 633,
+    "watchers_count": 633,
+    "language": "Python",
+    "forks_count": 34,
+    "open_issues_count": 76
+  },
+  {
+    "id": 1368837058,
+    "name": "arsumbris",
+    "owner": {
+      "id": 293354238,
+      "url": "https://api.github.com/users/arsumbris",
+      "html_url": "https://github.com/arsumbris",
+      "avatar_url": "https://avatars.githubusercontent.com/u/293354238?v=4"
+    },
+    "html_url": "https://github.com/arsumbris/arsumbris",
+    "description": "A malleable, agent-native IDE for typed knowledge.",
+    "created_at": "2026-09-13T20:10:38Z",
+    "updated_at": "2026-09-14T21:37:51Z",
+    "pushed_at": "2026-09-13T20:25:28Z",
+    "git_url": "git://github.com/arsumbris/arsumbris.git",
+    "homepage": "https://arsumbris.ai",
+    "size": 1944,
+    "stargazers_count": 71,
+    "watchers_count": 71,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 0
   }
 ]
