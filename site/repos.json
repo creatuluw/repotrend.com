@@ -77025,5 +77025,51 @@
     "language": null,
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1355259034,
+    "name": "fable-orchestrator",
+    "owner": {
+      "id": 52658655,
+      "url": "https://api.github.com/users/codejunkie99",
+      "html_url": "https://github.com/codejunkie99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52658655?v=4"
+    },
+    "html_url": "https://github.com/codejunkie99/fable-orchestrator",
+    "description": "Fable 5.1 orchestrates. GPT-5.6 Luna and DeepSeek V4 Flash implement.",
+    "created_at": "2026-09-02T21:48:23Z",
+    "updated_at": "2026-09-15T18:29:28Z",
+    "pushed_at": "2026-09-04T19:50:23Z",
+    "git_url": "git://github.com/codejunkie99/fable-orchestrator.git",
+    "homepage": null,
+    "size": 11,
+    "stargazers_count": 604,
+    "watchers_count": 604,
+    "language": "Shell",
+    "forks_count": 107,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1368087950,
+    "name": "PMS_delivery",
+    "owner": {
+      "id": 302672718,
+      "url": "https://api.github.com/users/wangmumu311",
+      "html_url": "https://github.com/wangmumu311",
+      "avatar_url": "https://avatars.githubusercontent.com/u/302672718?v=4"
+    },
+    "html_url": "https://github.com/wangmumu311/PMS_delivery",
+    "description": null,
+    "created_at": "2026-09-13T06:00:07Z",
+    "updated_at": "2026-09-14T20:20:21Z",
+    "pushed_at": "2026-09-14T12:14:55Z",
+    "git_url": "git://github.com/wangmumu311/PMS_delivery.git",
+    "homepage": null,
+    "size": 850,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": "HTML",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
