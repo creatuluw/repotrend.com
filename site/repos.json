@@ -76979,5 +76979,51 @@
     "language": "Python",
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1337578818,
+    "name": "gpt6-Astra",
+    "owner": {
+      "id": 308364968,
+      "url": "https://api.github.com/users/3641397194-wq",
+      "html_url": "https://github.com/3641397194-wq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/308364968?v=4"
+    },
+    "html_url": "https://github.com/3641397194-wq/gpt6-Astra",
+    "description": "gpt6 Astra-claude-grok4.6-deepseekv4.1flash-glm5.3-gemini破甲越狱 · 冷咖啡 BREAK//OPEN 工作台",
+    "created_at": "2026-08-17T19:36:40Z",
+    "updated_at": "2026-09-16T11:01:55Z",
+    "pushed_at": "2026-09-16T11:01:50Z",
+    "git_url": "git://github.com/3641397194-wq/gpt6-Astra.git",
+    "homepage": "https://github.com/3641397194-wq/gpt6-Astra",
+    "size": 9416,
+    "stargazers_count": 612,
+    "watchers_count": 612,
+    "language": "JavaScript",
+    "forks_count": 113,
+    "open_issues_count": 11
+  },
+  {
+    "id": 1367193650,
+    "name": "Atria-Dawn-Preview",
+    "owner": {
+      "id": 326384621,
+      "url": "https://api.github.com/users/atria-asi",
+      "html_url": "https://github.com/atria-asi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/326384621?v=4"
+    },
+    "html_url": "https://github.com/atria-asi/Atria-Dawn-Preview",
+    "description": null,
+    "created_at": "2026-09-12T10:32:29Z",
+    "updated_at": "2026-09-14T21:32:17Z",
+    "pushed_at": "2026-09-14T18:20:29Z",
+    "git_url": "git://github.com/atria-asi/Atria-Dawn-Preview.git",
+    "homepage": "https://atria-asi.ai/",
+    "size": 10585,
+    "stargazers_count": 83,
+    "watchers_count": 83,
+    "language": null,
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
