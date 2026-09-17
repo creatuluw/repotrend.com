@@ -77278,5 +77278,74 @@
     "language": "Python",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1342461518,
+    "name": "FrontierAgent",
+    "owner": {
+      "id": 276468590,
+      "url": "https://api.github.com/users/ApodexAI",
+      "html_url": "https://github.com/ApodexAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/276468590?v=4"
+    },
+    "html_url": "https://github.com/ApodexAI/FrontierAgent",
+    "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+    "created_at": "2026-08-22T05:07:35Z",
+    "updated_at": "2026-09-17T16:08:39Z",
+    "pushed_at": "2026-09-17T13:25:17Z",
+    "git_url": "git://github.com/ApodexAI/FrontierAgent.git",
+    "homepage": "https://www.apodex.ai",
+    "size": 6362,
+    "stargazers_count": 3455,
+    "watchers_count": 3455,
+    "language": "Python",
+    "forks_count": 199,
+    "open_issues_count": 15
+  },
+  {
+    "id": 1362509712,
+    "name": "gongwen-gbt9704-skill",
+    "owner": {
+      "id": 220598337,
+      "url": "https://api.github.com/users/mizzlelover",
+      "html_url": "https://github.com/mizzlelover",
+      "avatar_url": "https://avatars.githubusercontent.com/u/220598337?v=4"
+    },
+    "html_url": "https://github.com/mizzlelover/gongwen-gbt9704-skill",
+    "description": "信息安全提醒：请勿上传企业禁止对外公开的文件；可在本地或企业内网部署大模型后使用。中文公文排版 Skill：按 GB/T 9704-2012 生成可编辑 DOCX。配套 CEB：https://github.com/mizzlelover/CEB",
+    "created_at": "2026-09-09T10:04:14Z",
+    "updated_at": "2026-09-17T15:59:50Z",
+    "pushed_at": "2026-09-13T00:12:46Z",
+    "git_url": "git://github.com/mizzlelover/gongwen-gbt9704-skill.git",
+    "homepage": "https://github.com/mizzlelover/CEB",
+    "size": 65261,
+    "stargazers_count": 665,
+    "watchers_count": 665,
+    "language": "JavaScript",
+    "forks_count": 130,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1368430011,
+    "name": "hot-wheels-infinite-rush-cheat-table-reference",
+    "owner": {
+      "id": 10184426,
+      "url": "https://api.github.com/users/ABTanjir",
+      "html_url": "https://github.com/ABTanjir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10184426?v=4"
+    },
+    "html_url": "https://github.com/ABTanjir/hot-wheels-infinite-rush-cheat-table-reference",
+    "description": "Hot Wheels Infinite Rush Cheat Engine table reference for Windows, covering game-build matching, value types and offline test records. No working table is verified.",
+    "created_at": "2026-09-13T13:49:32Z",
+    "updated_at": "2026-09-15T13:24:47Z",
+    "pushed_at": "2026-09-13T13:50:10Z",
+    "git_url": "git://github.com/ABTanjir/hot-wheels-infinite-rush-cheat-table-reference.git",
+    "homepage": "",
+    "size": 1387,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
