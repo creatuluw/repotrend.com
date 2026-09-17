@@ -77347,5 +77347,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1357282163,
+    "name": "Roam-Control",
+    "owner": {
+      "id": 324957424,
+      "url": "https://api.github.com/users/seanhowarthdev",
+      "html_url": "https://github.com/seanhowarthdev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/324957424?v=4"
+    },
+    "html_url": "https://github.com/seanhowarthdev/Roam-Control",
+    "description": "Choose, test and move an iPhone’s reported location.",
+    "created_at": "2026-09-04T15:09:22Z",
+    "updated_at": "2026-09-16T20:36:43Z",
+    "pushed_at": "2026-09-16T19:01:18Z",
+    "git_url": "git://github.com/seanhowarthdev/Roam-Control.git",
+    "homepage": "",
+    "size": 18380,
+    "stargazers_count": 610,
+    "watchers_count": 610,
+    "language": "Swift",
+    "forks_count": 109,
+    "open_issues_count": 9
+  },
+  {
+    "id": 1372016806,
+    "name": "expo-gpt-live",
+    "owner": {
+      "id": 22908592,
+      "url": "https://api.github.com/users/davidmokos",
+      "html_url": "https://github.com/davidmokos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22908592?v=4"
+    },
+    "html_url": "https://github.com/davidmokos/expo-gpt-live",
+    "description": "Expo SDK 57 voice app with GPT-Live 1 and AI Elements Persona.",
+    "created_at": "2026-09-15T19:33:02Z",
+    "updated_at": "2026-09-17T16:00:24Z",
+    "pushed_at": "2026-09-15T20:30:31Z",
+    "git_url": "git://github.com/davidmokos/expo-gpt-live.git",
+    "homepage": null,
+    "size": 2145,
+    "stargazers_count": 87,
+    "watchers_count": 87,
+    "language": "TypeScript",
+    "forks_count": 10,
+    "open_issues_count": 0
   }
 ]
