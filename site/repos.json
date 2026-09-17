@@ -77117,5 +77117,74 @@
     "language": "Python",
     "forks_count": 6,
     "open_issues_count": 1
+  },
+  {
+    "id": 1342935078,
+    "name": "ai-infra-book",
+    "owner": {
+      "id": 1421793,
+      "url": "https://api.github.com/users/bojieli",
+      "html_url": "https://github.com/bojieli",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1421793?v=4"
+    },
+    "html_url": "https://github.com/bojieli/ai-infra-book",
+    "description": "《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验",
+    "created_at": "2026-08-22T15:30:41Z",
+    "updated_at": "2026-09-15T20:50:13Z",
+    "pushed_at": "2026-09-15T01:34:21Z",
+    "git_url": "git://github.com/bojieli/ai-infra-book.git",
+    "homepage": "https://bojieli.github.io/ai-infra-book/",
+    "size": 1844121,
+    "stargazers_count": 3418,
+    "watchers_count": 3418,
+    "language": "Python",
+    "forks_count": 233,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1362204453,
+    "name": "one-ip",
+    "owner": {
+      "id": 272492715,
+      "url": "https://api.github.com/users/zhihui-hu",
+      "html_url": "https://github.com/zhihui-hu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/272492715?v=4"
+    },
+    "html_url": "https://github.com/zhihui-hu/one-ip",
+    "description": "瞬息洞察 IP 纯净底色与风险评级。仅需一键探寻，物理坐标、机房源流与代理轨迹尽收眼底。",
+    "created_at": "2026-09-09T04:38:32Z",
+    "updated_at": "2026-09-16T20:19:11Z",
+    "pushed_at": "2026-09-16T06:44:54Z",
+    "git_url": "git://github.com/zhihui-hu/one-ip.git",
+    "homepage": "https://ip.huzhihui.com",
+    "size": 4797,
+    "stargazers_count": 553,
+    "watchers_count": 553,
+    "language": "TypeScript",
+    "forks_count": 349,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1371089279,
+    "name": "cf-turnstile-token",
+    "owner": {
+      "id": 306849817,
+      "url": "https://api.github.com/users/janice20435",
+      "html_url": "https://github.com/janice20435",
+      "avatar_url": "https://avatars.githubusercontent.com/u/306849817?v=4"
+    },
+    "html_url": "https://github.com/janice20435/cf-turnstile-token",
+    "description": "Command-line Cloudflare Turnstile token generator: discover the sitekey on any page and print a cf-turnstile-response token for your scripts, tests and CI.",
+    "created_at": "2026-09-15T07:45:12Z",
+    "updated_at": "2026-09-15T23:54:45Z",
+    "pushed_at": "2026-09-15T08:27:45Z",
+    "git_url": "git://github.com/janice20435/cf-turnstile-token.git",
+    "homepage": null,
+    "size": 440,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": "Python",
+    "forks_count": 9,
+    "open_issues_count": 0
   }
 ]
