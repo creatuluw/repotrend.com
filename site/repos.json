@@ -77186,5 +77186,51 @@
     "language": "Python",
     "forks_count": 9,
     "open_issues_count": 0
+  },
+  {
+    "id": 1341603085,
+    "name": "ai-coding-welfare",
+    "owner": {
+      "id": 9162119,
+      "url": "https://api.github.com/users/panxunying",
+      "html_url": "https://github.com/panxunying",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9162119?v=4"
+    },
+    "html_url": "https://github.com/panxunying/ai-coding-welfare",
+    "description": "AI Coding 福利站导航：免费白嫖 Claude Code / Codex 的中转站与公益站合集，含额度、模型、价格自动更新与一键配置脚本",
+    "created_at": "2026-08-21T08:59:30Z",
+    "updated_at": "2026-09-17T03:14:04Z",
+    "pushed_at": "2026-09-16T21:20:09Z",
+    "git_url": "git://github.com/panxunying/ai-coding-welfare.git",
+    "homepage": "https://panxunying.github.io/ai-coding-welfare/",
+    "size": 1587,
+    "stargazers_count": 711,
+    "watchers_count": 711,
+    "language": "JavaScript",
+    "forks_count": 47,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1368436755,
+    "name": "fortnite-xp-map-codes-windows",
+    "owner": {
+      "id": 10184426,
+      "url": "https://api.github.com/users/ABTanjir",
+      "html_url": "https://github.com/ABTanjir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10184426?v=4"
+    },
+    "html_url": "https://github.com/ABTanjir/fortnite-xp-map-codes-windows",
+    "description": "Fortnite XP map codes directory concept for Windows: Creative island lookup, timer requirements, check dates and availability records, without guaranteed XP rewards.",
+    "created_at": "2026-09-13T13:56:57Z",
+    "updated_at": "2026-09-16T15:37:47Z",
+    "pushed_at": "2026-09-13T13:57:57Z",
+    "git_url": "git://github.com/ABTanjir/fortnite-xp-map-codes-windows.git",
+    "homepage": "",
+    "size": 1589,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
