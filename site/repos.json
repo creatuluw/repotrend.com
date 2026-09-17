@@ -77232,5 +77232,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1343167809,
+    "name": "BongoCat",
+    "owner": {
+      "id": 182907634,
+      "url": "https://api.github.com/users/vladelaina",
+      "html_url": "https://github.com/vladelaina",
+      "avatar_url": "https://avatars.githubusercontent.com/u/182907634?v=4"
+    },
+    "html_url": "https://github.com/vladelaina/BongoCat",
+    "description": "🩷 💘C × SDL3 × OpenGL — Three Mysterious Forces, United as One! Bong~ Bongocat!!!Don't be shy, Join Here🧸: https://discord.gg/vf8jqnattk",
+    "created_at": "2026-08-22T21:06:36Z",
+    "updated_at": "2026-09-16T18:45:36Z",
+    "pushed_at": "2026-09-16T05:09:07Z",
+    "git_url": "git://github.com/vladelaina/BongoCat.git",
+    "homepage": "https://bongocat.pet",
+    "size": 8066,
+    "stargazers_count": 793,
+    "watchers_count": 793,
+    "language": "C",
+    "forks_count": 22,
+    "open_issues_count": 13
+  },
+  {
+    "id": 1371713775,
+    "name": "awesome-android-apps",
+    "owner": {
+      "id": 182448227,
+      "url": "https://api.github.com/users/fiedri",
+      "html_url": "https://github.com/fiedri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/182448227?v=4"
+    },
+    "html_url": "https://github.com/fiedri/awesome-android-apps",
+    "description": "a list of awesome open source android apps 📱",
+    "created_at": "2026-09-15T15:35:20Z",
+    "updated_at": "2026-09-17T09:26:32Z",
+    "pushed_at": "2026-09-16T16:06:55Z",
+    "git_url": "git://github.com/fiedri/awesome-android-apps.git",
+    "homepage": "",
+    "size": 651,
+    "stargazers_count": 84,
+    "watchers_count": 84,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
