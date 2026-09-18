@@ -77577,5 +77577,51 @@
     "language": "JavaScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1358848972,
+    "name": "OpenWAM",
+    "owner": {
+      "id": 323902510,
+      "url": "https://api.github.com/users/OpenWAM-Official",
+      "html_url": "https://github.com/OpenWAM-Official",
+      "avatar_url": "https://avatars.githubusercontent.com/u/323902510?v=4"
+    },
+    "html_url": "https://github.com/OpenWAM-Official/OpenWAM",
+    "description": "Official repository for \"OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model Pretraining\".",
+    "created_at": "2026-09-06T06:21:09Z",
+    "updated_at": "2026-09-17T18:37:41Z",
+    "pushed_at": "2026-09-17T06:57:18Z",
+    "git_url": "git://github.com/OpenWAM-Official/OpenWAM.git",
+    "homepage": "https://openwam-official.github.io/",
+    "size": 15875,
+    "stargazers_count": 769,
+    "watchers_count": 769,
+    "language": "Python",
+    "forks_count": 36,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1371933737,
+    "name": "knoxmap",
+    "owner": {
+      "id": 308781539,
+      "url": "https://api.github.com/users/spytheeuclidean-a11y",
+      "html_url": "https://github.com/spytheeuclidean-a11y",
+      "avatar_url": "https://avatars.githubusercontent.com/u/308781539?v=4"
+    },
+    "html_url": "https://github.com/spytheeuclidean-a11y/knoxmap",
+    "description": "KnoxMap: turn any real place into a playable Project Zomboid Build 42 map (built on Knoxify)",
+    "created_at": "2026-09-15T18:20:45Z",
+    "updated_at": "2026-09-17T20:07:03Z",
+    "pushed_at": "2026-09-17T20:07:10Z",
+    "git_url": "git://github.com/spytheeuclidean-a11y/knoxmap.git",
+    "homepage": null,
+    "size": 8441,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": "Python",
+    "forks_count": 9,
+    "open_issues_count": 2
   }
 ]
