@@ -77623,5 +77623,74 @@
     "language": "Python",
     "forks_count": 9,
     "open_issues_count": 2
+  },
+  {
+    "id": 1351879111,
+    "name": "reef",
+    "owner": {
+      "id": 268553699,
+      "url": "https://api.github.com/users/Human-Agent-Society",
+      "html_url": "https://github.com/Human-Agent-Society",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268553699?v=4"
+    },
+    "html_url": "https://github.com/Human-Agent-Society/reef",
+    "description": "Continual learning infra for self-improving agents",
+    "created_at": "2026-08-31T01:39:18Z",
+    "updated_at": "2026-09-18T16:02:37Z",
+    "pushed_at": "2026-09-18T15:37:42Z",
+    "git_url": "git://github.com/Human-Agent-Society/reef.git",
+    "homepage": "reefinfra.ai",
+    "size": 28348,
+    "stargazers_count": 3535,
+    "watchers_count": 3535,
+    "language": "Python",
+    "forks_count": 286,
+    "open_issues_count": 56
+  },
+  {
+    "id": 1354422422,
+    "name": "Choruz",
+    "owner": {
+      "id": 199075982,
+      "url": "https://api.github.com/users/inclusionAI",
+      "html_url": "https://github.com/inclusionAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/199075982?v=4"
+    },
+    "html_url": "https://github.com/inclusionAI/Choruz",
+    "description": null,
+    "created_at": "2026-09-02T06:46:09Z",
+    "updated_at": "2026-09-18T15:59:35Z",
+    "pushed_at": "2026-09-16T05:24:10Z",
+    "git_url": "git://github.com/inclusionAI/Choruz.git",
+    "homepage": null,
+    "size": 27358,
+    "stargazers_count": 750,
+    "watchers_count": 750,
+    "language": "Rust",
+    "forks_count": 9,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1374194303,
+    "name": "templatesgrokbot.com",
+    "owner": {
+      "id": 330360501,
+      "url": "https://api.github.com/users/templatesgrokbot",
+      "html_url": "https://github.com/templatesgrokbot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/330360501?v=4"
+    },
+    "html_url": "https://github.com/templatesgrokbot/templatesgrokbot.com",
+    "description": "TemplatesGrokBot.com is a library of 3,000+ ready-made Grok Bot templates. Search by task or job title, install any bot in Grokbot in minutes, and connect the whole catalog to your agents via MCP. Made by Jeroen / Nexibeo.com to help anyone build a full team of AI agents for their job.",
+    "created_at": "2026-09-17T09:14:16Z",
+    "updated_at": "2026-09-18T15:55:48Z",
+    "pushed_at": "2026-09-18T15:55:42Z",
+    "git_url": "git://github.com/templatesgrokbot/templatesgrokbot.com.git",
+    "homepage": "https://templatesgrokbot.com/",
+    "size": 14649,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": null,
+    "forks_count": 11,
+    "open_issues_count": 0
   }
 ]
