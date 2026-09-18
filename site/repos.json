@@ -77393,5 +77393,74 @@
     "language": "TypeScript",
     "forks_count": 10,
     "open_issues_count": 0
+  },
+  {
+    "id": 1316470719,
+    "name": "hypit",
+    "owner": {
+      "id": 274059971,
+      "url": "https://api.github.com/users/hypit-ai",
+      "html_url": "https://github.com/hypit-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/274059971?v=4"
+    },
+    "html_url": "https://github.com/hypit-ai/hypit",
+    "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
+    "created_at": "2026-07-29T18:49:19Z",
+    "updated_at": "2026-09-17T21:05:57Z",
+    "pushed_at": "2026-09-17T20:47:47Z",
+    "git_url": "git://github.com/hypit-ai/hypit.git",
+    "homepage": "https://hypit.ai",
+    "size": 19275,
+    "stargazers_count": 8698,
+    "watchers_count": 8698,
+    "language": "TypeScript",
+    "forks_count": 1025,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1355349898,
+    "name": "mail",
+    "owner": {
+      "id": 92962995,
+      "url": "https://api.github.com/users/flectar",
+      "html_url": "https://github.com/flectar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92962995?v=4"
+    },
+    "html_url": "https://github.com/flectar/mail",
+    "description": "Built from the ground up for speed. Flectar Mail delivers native performance, instant startup, and as little as 20 MB of RAM.",
+    "created_at": "2026-09-03T00:12:32Z",
+    "updated_at": "2026-09-15T20:57:51Z",
+    "pushed_at": "2026-09-14T23:21:53Z",
+    "git_url": "git://github.com/flectar/mail.git",
+    "homepage": "http://flectar.com/mail/",
+    "size": 53884,
+    "stargazers_count": 699,
+    "watchers_count": 699,
+    "language": "Rust",
+    "forks_count": 41,
+    "open_issues_count": 9
+  },
+  {
+    "id": 1371263996,
+    "name": "is-gpt-nerfed",
+    "owner": {
+      "id": 34620384,
+      "url": "https://api.github.com/users/kiyoakii",
+      "html_url": "https://github.com/kiyoakii",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34620384?v=4"
+    },
+    "html_url": "https://github.com/kiyoakii/is-gpt-nerfed",
+    "description": "Shrinkflation detector for Codex",
+    "created_at": "2026-09-15T10:22:16Z",
+    "updated_at": "2026-09-17T20:39:30Z",
+    "pushed_at": "2026-09-17T17:33:26Z",
+    "git_url": "git://github.com/kiyoakii/is-gpt-nerfed.git",
+    "homepage": "",
+    "size": 15344,
+    "stargazers_count": 73,
+    "watchers_count": 73,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 2
   }
 ]
