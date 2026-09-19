@@ -77853,5 +77853,51 @@
     "language": null,
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1352223257,
+    "name": "easy-writing",
+    "owner": {
+      "id": 256557866,
+      "url": "https://api.github.com/users/yilujian",
+      "html_url": "https://github.com/yilujian",
+      "avatar_url": "https://avatars.githubusercontent.com/u/256557866?v=4"
+    },
+    "html_url": "https://github.com/yilujian/easy-writing",
+    "description": "易创：纯本地、开源的 AI 网文写作桌面软件，支持小说创作、AI 辅助写作、BYOK 与自定义提示词。",
+    "created_at": "2026-08-31T09:22:41Z",
+    "updated_at": "2026-09-18T15:16:11Z",
+    "pushed_at": "2026-09-13T12:44:12Z",
+    "git_url": "git://github.com/yilujian/easy-writing.git",
+    "homepage": null,
+    "size": 32375,
+    "stargazers_count": 598,
+    "watchers_count": 598,
+    "language": "Vue",
+    "forks_count": 95,
+    "open_issues_count": 18
+  },
+  {
+    "id": 1371536287,
+    "name": "WalletGen",
+    "owner": {
+      "id": 307211132,
+      "url": "https://api.github.com/users/walletgen-tony",
+      "html_url": "https://github.com/walletgen-tony",
+      "avatar_url": "https://avatars.githubusercontent.com/u/307211132?v=4"
+    },
+    "html_url": "https://github.com/walletgen-tony/WalletGen",
+    "description": "Generate and check Bitcoin and Ethereum wallets using BIP39, BIP44, and EVM protocols to identify balances and recover lost addresses across blockchain networks.",
+    "created_at": "2026-09-15T13:37:03Z",
+    "updated_at": "2026-09-16T13:26:32Z",
+    "pushed_at": "2026-09-15T13:51:49Z",
+    "git_url": "git://github.com/walletgen-tony/WalletGen.git",
+    "homepage": "",
+    "size": 1786,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "C++",
+    "forks_count": 6,
+    "open_issues_count": 0
   }
 ]
