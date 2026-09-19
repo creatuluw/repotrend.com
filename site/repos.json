@@ -77968,5 +77968,51 @@
     "language": "Python",
     "forks_count": 2,
     "open_issues_count": 1
+  },
+  {
+    "id": 1358635004,
+    "name": "OptiScaler-DLSSNR-PreSR-Multipass",
+    "owner": {
+      "id": 97138003,
+      "url": "https://api.github.com/users/wilsjo2",
+      "html_url": "https://github.com/wilsjo2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97138003?v=4"
+    },
+    "html_url": "https://github.com/wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass",
+    "description": "A game mod that uses NVIDIA AI to change lighting, detail and colour, with controls for strength and performance.",
+    "created_at": "2026-09-05T23:32:00Z",
+    "updated_at": "2026-09-17T18:20:58Z",
+    "pushed_at": "2026-09-15T00:36:59Z",
+    "git_url": "git://github.com/wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass.git",
+    "homepage": null,
+    "size": 167347,
+    "stargazers_count": 591,
+    "watchers_count": 591,
+    "language": "C++",
+    "forks_count": 34,
+    "open_issues_count": 44
+  },
+  {
+    "id": 1375175642,
+    "name": "pstack-codex",
+    "owner": {
+      "id": 25274700,
+      "url": "https://api.github.com/users/ScriptedAlchemy",
+      "html_url": "https://github.com/ScriptedAlchemy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25274700?v=4"
+    },
+    "html_url": "https://github.com/ScriptedAlchemy/pstack-codex",
+    "description": "Codex-native port of Lauren Tan's pstack: 47 skills, 23 playbooks, agent personas, multi-agent workflows, and Benny automation adapters. Includes a Codex marketplace and installer.",
+    "created_at": "2026-09-17T23:42:00Z",
+    "updated_at": "2026-09-18T20:08:33Z",
+    "pushed_at": "2026-09-18T00:12:58Z",
+    "git_url": "git://github.com/ScriptedAlchemy/pstack-codex.git",
+    "homepage": null,
+    "size": 2980,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "TypeScript",
+    "forks_count": 4,
+    "open_issues_count": 1
   }
 ]
