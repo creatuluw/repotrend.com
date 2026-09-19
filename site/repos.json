@@ -77738,5 +77738,51 @@
     "language": "JavaScript",
     "forks_count": 2,
     "open_issues_count": 1
+  },
+  {
+    "id": 1350871465,
+    "name": "DLSS5-Feeder",
+    "owner": {
+      "id": 57990274,
+      "url": "https://api.github.com/users/jlrouzies-fr",
+      "html_url": "https://github.com/jlrouzies-fr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57990274?v=4"
+    },
+    "html_url": "https://github.com/jlrouzies-fr/DLSS5-Feeder",
+    "description": "DLSS 5 neural rendering in D3D11/D12/Vulkan games that ship without any DLSS — feeds a synthetic DLAA contract (ReShade depth + motion vectors) to the DLSS 5 add-on via a private D3D12 device.",
+    "created_at": "2026-08-29T19:52:37Z",
+    "updated_at": "2026-09-15T15:51:17Z",
+    "pushed_at": "2026-09-14T06:18:25Z",
+    "git_url": "git://github.com/jlrouzies-fr/DLSS5-Feeder.git",
+    "homepage": "",
+    "size": 9117,
+    "stargazers_count": 946,
+    "watchers_count": 946,
+    "language": "C++",
+    "forks_count": 54,
+    "open_issues_count": 51
+  },
+  {
+    "id": 1373265937,
+    "name": "xiaohongshu-api",
+    "owner": {
+      "id": 330040735,
+      "url": "https://api.github.com/users/justoneapi-labs",
+      "html_url": "https://github.com/justoneapi-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/330040735?v=4"
+    },
+    "html_url": "https://github.com/justoneapi-labs/xiaohongshu-api",
+    "description": "小红书API、小红书接口：笔记搜索、笔记详情、评论查询的 Python 调用示例。Just One API。",
+    "created_at": "2026-09-16T15:39:38Z",
+    "updated_at": "2026-09-17T09:04:38Z",
+    "pushed_at": "2026-09-16T15:42:52Z",
+    "git_url": "git://github.com/justoneapi-labs/xiaohongshu-api.git",
+    "homepage": "https://justoneapi.com/zh/?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_labs_xiaohongshu_api&utm_content=repo_about_link",
+    "size": 6,
+    "stargazers_count": 72,
+    "watchers_count": 72,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
