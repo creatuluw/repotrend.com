@@ -77784,5 +77784,74 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1329272295,
+    "name": "unlazy",
+    "owner": {
+      "id": 219127460,
+      "url": "https://api.github.com/users/Leonxlnx",
+      "html_url": "https://github.com/Leonxlnx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219127460?v=4"
+    },
+    "html_url": "https://github.com/Leonxlnx/unlazy",
+    "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
+    "created_at": "2026-08-09T23:39:12Z",
+    "updated_at": "2026-09-17T21:03:56Z",
+    "pushed_at": "2026-09-03T09:31:17Z",
+    "git_url": "git://github.com/Leonxlnx/unlazy.git",
+    "homepage": null,
+    "size": 304,
+    "stargazers_count": 3442,
+    "watchers_count": 3442,
+    "language": "JavaScript",
+    "forks_count": 237,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1353975656,
+    "name": "bot-crossing",
+    "owner": {
+      "id": 240070536,
+      "url": "https://api.github.com/users/Station-Sciences",
+      "html_url": "https://github.com/Station-Sciences",
+      "avatar_url": "https://avatars.githubusercontent.com/u/240070536?v=4"
+    },
+    "html_url": "https://github.com/Station-Sciences/bot-crossing",
+    "description": "A video game for AI agents. Created by Jarren Rocks",
+    "created_at": "2026-09-01T19:56:46Z",
+    "updated_at": "2026-09-18T20:27:00Z",
+    "pushed_at": "2026-09-18T20:08:08Z",
+    "git_url": "git://github.com/Station-Sciences/bot-crossing.git",
+    "homepage": "https://botcrossing.com",
+    "size": 9451,
+    "stargazers_count": 615,
+    "watchers_count": 615,
+    "language": "JavaScript",
+    "forks_count": 194,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1372777245,
+    "name": "proxy-config-templates",
+    "owner": {
+      "id": 1725326,
+      "url": "https://api.github.com/users/forecho",
+      "html_url": "https://github.com/forecho",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1725326?v=4"
+    },
+    "html_url": "https://github.com/forecho/proxy-config-templates",
+    "description": null,
+    "created_at": "2026-09-16T09:00:14Z",
+    "updated_at": "2026-09-18T15:54:15Z",
+    "pushed_at": "2026-09-18T15:54:11Z",
+    "git_url": "git://github.com/forecho/proxy-config-templates.git",
+    "homepage": null,
+    "size": 344,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": null,
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
