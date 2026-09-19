@@ -77692,5 +77692,51 @@
     "language": null,
     "forks_count": 11,
     "open_issues_count": 0
+  },
+  {
+    "id": 1344693102,
+    "name": "Editable-Design",
+    "owner": {
+      "id": 83576010,
+      "url": "https://api.github.com/users/yejy53",
+      "html_url": "https://github.com/yejy53",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83576010?v=4"
+    },
+    "html_url": "https://github.com/yejy53/Editable-Design",
+    "description": "Agent-driven creation of editable, tastefully crafted visual artifacts.",
+    "created_at": "2026-08-24T07:59:40Z",
+    "updated_at": "2026-09-15T17:59:59Z",
+    "pushed_at": "2026-09-08T13:43:09Z",
+    "git_url": "git://github.com/yejy53/Editable-Design.git",
+    "homepage": "",
+    "size": 158566,
+    "stargazers_count": 898,
+    "watchers_count": 898,
+    "language": "Python",
+    "forks_count": 64,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1373617155,
+    "name": "jev-router",
+    "owner": {
+      "id": 75370041,
+      "url": "https://api.github.com/users/gargpratyush",
+      "html_url": "https://github.com/gargpratyush",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75370041?v=4"
+    },
+    "html_url": "https://github.com/gargpratyush/jev-router",
+    "description": "Route to the cheapest model in claude code for your task using jev-router",
+    "created_at": "2026-09-16T20:39:22Z",
+    "updated_at": "2026-09-17T21:01:32Z",
+    "pushed_at": "2026-09-17T19:13:20Z",
+    "git_url": "git://github.com/gargpratyush/jev-router.git",
+    "homepage": "",
+    "size": 444,
+    "stargazers_count": 62,
+    "watchers_count": 62,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 1
   }
 ]
