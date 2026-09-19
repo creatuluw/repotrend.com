@@ -77899,5 +77899,74 @@
     "language": "C++",
     "forks_count": 6,
     "open_issues_count": 0
+  },
+  {
+    "id": 1293600453,
+    "name": "Octop",
+    "owner": {
+      "id": 20101770,
+      "url": "https://api.github.com/users/TencentCloud",
+      "html_url": "https://github.com/TencentCloud",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20101770?v=4"
+    },
+    "html_url": "https://github.com/TencentCloud/Octop",
+    "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+    "created_at": "2026-07-08T12:54:20Z",
+    "updated_at": "2026-09-19T10:31:32Z",
+    "pushed_at": "2026-09-19T08:32:25Z",
+    "git_url": "git://github.com/TencentCloud/Octop.git",
+    "homepage": "https://octop.cloud",
+    "size": 27726,
+    "stargazers_count": 4088,
+    "watchers_count": 4088,
+    "language": "Python",
+    "forks_count": 429,
+    "open_issues_count": 270
+  },
+  {
+    "id": 1351701238,
+    "name": "dlss5-visual-enhancer",
+    "owner": {
+      "id": 119538451,
+      "url": "https://api.github.com/users/Merserk",
+      "html_url": "https://github.com/Merserk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119538451?v=4"
+    },
+    "html_url": "https://github.com/Merserk/dlss5-visual-enhancer",
+    "description": "DLSS 5 Neural Rendering for Images & Video with Frame Generation, RTX Video Super Resolution, HDR, and Live Playback",
+    "created_at": "2026-08-30T19:45:52Z",
+    "updated_at": "2026-09-17T18:36:25Z",
+    "pushed_at": "2026-09-17T18:52:47Z",
+    "git_url": "git://github.com/Merserk/dlss5-visual-enhancer.git",
+    "homepage": "",
+    "size": 8779,
+    "stargazers_count": 902,
+    "watchers_count": 902,
+    "language": "Python",
+    "forks_count": 73,
+    "open_issues_count": 27
+  },
+  {
+    "id": 1373287367,
+    "name": "techo5-dot",
+    "owner": {
+      "id": 28571744,
+      "url": "https://api.github.com/users/HuskerMinion",
+      "html_url": "https://github.com/HuskerMinion",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28571744?v=4"
+    },
+    "html_url": "https://github.com/HuskerMinion/techo5-dot",
+    "description": "Linux firmware for the Echo Dot (2nd gen): no Fire OS, no Alexa. A local Home Assistant voice satellite with all seven mics, Bluetooth speaker mode, signed A/B updates and SSH.",
+    "created_at": "2026-09-16T15:54:17Z",
+    "updated_at": "2026-09-19T08:47:15Z",
+    "pushed_at": "2026-09-19T08:47:11Z",
+    "git_url": "git://github.com/HuskerMinion/techo5-dot.git",
+    "homepage": null,
+    "size": 276,
+    "stargazers_count": 56,
+    "watchers_count": 56,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 1
   }
 ]
