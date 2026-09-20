@@ -78175,5 +78175,74 @@
     "language": "JavaScript",
     "forks_count": 4,
     "open_issues_count": 1
+  },
+  {
+    "id": 1373655162,
+    "name": "jev-ultrafast",
+    "owner": {
+      "id": 192012301,
+      "url": "https://api.github.com/users/browser-use",
+      "html_url": "https://github.com/browser-use",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192012301?v=4"
+    },
+    "html_url": "https://github.com/browser-use/jev-ultrafast",
+    "description": "i. am. speed.",
+    "created_at": "2026-09-16T21:30:12Z",
+    "updated_at": "2026-09-19T20:15:36Z",
+    "pushed_at": "2026-09-18T16:28:35Z",
+    "git_url": "git://github.com/browser-use/jev-ultrafast.git",
+    "homepage": "https://browser-use.com",
+    "size": 4457,
+    "stargazers_count": 7984,
+    "watchers_count": 7984,
+    "language": "Python",
+    "forks_count": 504,
+    "open_issues_count": 50
+  },
+  {
+    "id": 1347320778,
+    "name": "halogen-flash-server",
+    "owner": {
+      "id": 321219357,
+      "url": "https://api.github.com/users/peonist-ai",
+      "html_url": "https://github.com/peonist-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/321219357?v=4"
+    },
+    "html_url": "https://github.com/peonist-ai/halogen-flash-server",
+    "description": "The fastest way to run Qwen3.8-Flash-Next on Strix Halo (gfx1151)",
+    "created_at": "2026-08-26T12:41:30Z",
+    "updated_at": "2026-09-20T09:21:09Z",
+    "pushed_at": "2026-09-19T21:29:15Z",
+    "git_url": "git://github.com/peonist-ai/halogen-flash-server.git",
+    "homepage": "https://huggingface.co/peonist-ai/halogen-qwen3.8-flash-next",
+    "size": 1174,
+    "stargazers_count": 597,
+    "watchers_count": 597,
+    "language": "Shell",
+    "forks_count": 33,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1372587647,
+    "name": "pi-jev",
+    "owner": {
+      "id": 74448287,
+      "url": "https://api.github.com/users/y0usaf",
+      "html_url": "https://github.com/y0usaf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74448287?v=4"
+    },
+    "html_url": "https://github.com/y0usaf/pi-jev",
+    "description": "TypeSafe Jev as a decision layer for the Pi coding agent: a measured tool-call gate plus jev_ask for typed, calibrated answers",
+    "created_at": "2026-09-16T05:57:10Z",
+    "updated_at": "2026-09-19T19:45:42Z",
+    "pushed_at": "2026-09-19T19:45:38Z",
+    "git_url": "git://github.com/y0usaf/pi-jev.git",
+    "homepage": null,
+    "size": 43,
+    "stargazers_count": 77,
+    "watchers_count": 77,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
