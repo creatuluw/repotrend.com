@@ -78244,5 +78244,51 @@
     "language": "TypeScript",
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1363950922,
+    "name": "rune",
+    "owner": {
+      "id": 60412273,
+      "url": "https://api.github.com/users/unstablebuild",
+      "html_url": "https://github.com/unstablebuild",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60412273?v=4"
+    },
+    "html_url": "https://github.com/unstablebuild/rune",
+    "description": "the development environment for pros",
+    "created_at": "2026-09-10T10:50:03Z",
+    "updated_at": "2026-09-17T20:25:39Z",
+    "pushed_at": "2026-09-17T00:20:48Z",
+    "git_url": "git://github.com/unstablebuild/rune.git",
+    "homepage": "https://rune.build",
+    "size": 148942,
+    "stargazers_count": 806,
+    "watchers_count": 806,
+    "language": "Go",
+    "forks_count": 60,
+    "open_issues_count": 77
+  },
+  {
+    "id": 1374404623,
+    "name": "awesome-jev",
+    "owner": {
+      "id": 62269186,
+      "url": "https://api.github.com/users/AnotiaWang",
+      "html_url": "https://github.com/AnotiaWang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62269186?v=4"
+    },
+    "html_url": "https://github.com/AnotiaWang/awesome-jev",
+    "description": "A curated list of awesome Jev / TypeSafe System One applications, libraries, and resources.",
+    "created_at": "2026-09-17T12:30:31Z",
+    "updated_at": "2026-09-19T20:13:19Z",
+    "pushed_at": "2026-09-19T14:30:23Z",
+    "git_url": "git://github.com/AnotiaWang/awesome-jev.git",
+    "homepage": "",
+    "size": 461,
+    "stargazers_count": 83,
+    "watchers_count": 83,
+    "language": null,
+    "forks_count": 27,
+    "open_issues_count": 4
   }
 ]
