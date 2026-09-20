@@ -78106,5 +78106,74 @@
     "language": "Python",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1360432710,
+    "name": "dlssg_for_sm86",
+    "owner": {
+      "id": 28560351,
+      "url": "https://api.github.com/users/sdli1995",
+      "html_url": "https://github.com/sdli1995",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28560351?v=4"
+    },
+    "html_url": "https://github.com/sdli1995/dlssg_for_sm86",
+    "description": "Here is a dlssg for RTX30 Series GPU ",
+    "created_at": "2026-09-07T16:16:48Z",
+    "updated_at": "2026-09-20T04:02:19Z",
+    "pushed_at": "2026-09-19T20:03:40Z",
+    "git_url": "git://github.com/sdli1995/dlssg_for_sm86.git",
+    "homepage": null,
+    "size": 30816,
+    "stargazers_count": 3567,
+    "watchers_count": 3567,
+    "language": null,
+    "forks_count": 208,
+    "open_issues_count": 139
+  },
+  {
+    "id": 1367606050,
+    "name": "recurrent-looped-tranformer",
+    "owner": {
+      "id": 35550115,
+      "url": "https://api.github.com/users/yifanzhang-pro",
+      "html_url": "https://github.com/yifanzhang-pro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35550115?v=4"
+    },
+    "html_url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer",
+    "description": "Official Project Page for Recurrent Looped Transformer (RLT)",
+    "created_at": "2026-09-12T19:02:46Z",
+    "updated_at": "2026-09-19T13:38:04Z",
+    "pushed_at": "2026-09-18T02:33:40Z",
+    "git_url": "git://github.com/yifanzhang-pro/recurrent-looped-tranformer.git",
+    "homepage": "https://yifanzhang-pro.github.io/recurrent-looped-tranformer",
+    "size": 14938,
+    "stargazers_count": 881,
+    "watchers_count": 881,
+    "language": "HTML",
+    "forks_count": 86,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1374815225,
+    "name": "typesafe-adblock",
+    "owner": {
+      "id": 109552121,
+      "url": "https://api.github.com/users/realZachi",
+      "html_url": "https://github.com/realZachi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109552121?v=4"
+    },
+    "html_url": "https://github.com/realZachi/typesafe-adblock",
+    "description": "🧹 Fun project: a Chrome extension that asks a tiny AI decision model (TypeSafe Jev) \"is this DOM element an ad?\" and pops it off the page. BYOK, no backend, not a real ad blocker.",
+    "created_at": "2026-09-17T17:35:21Z",
+    "updated_at": "2026-09-20T03:21:35Z",
+    "pushed_at": "2026-09-17T17:35:25Z",
+    "git_url": "git://github.com/realZachi/typesafe-adblock.git",
+    "homepage": "",
+    "size": 59,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": "JavaScript",
+    "forks_count": 4,
+    "open_issues_count": 1
   }
 ]
