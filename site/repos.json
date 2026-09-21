@@ -78474,5 +78474,51 @@
     "language": null,
     "forks_count": 2,
     "open_issues_count": 2
+  },
+  {
+    "id": 1361525882,
+    "name": "short-video-generator-AI",
+    "owner": {
+      "id": 13252625,
+      "url": "https://api.github.com/users/Colafornia",
+      "html_url": "https://github.com/Colafornia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13252625?v=4"
+    },
+    "html_url": "https://github.com/Colafornia/short-video-generator-AI",
+    "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+    "created_at": "2026-09-08T14:55:47Z",
+    "updated_at": "2026-09-20T21:38:32Z",
+    "pushed_at": "2026-09-19T20:42:05Z",
+    "git_url": "git://github.com/Colafornia/short-video-generator-AI.git",
+    "homepage": "",
+    "size": 817,
+    "stargazers_count": 750,
+    "watchers_count": 750,
+    "language": "Python",
+    "forks_count": 114,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1373775501,
+    "name": "kalshi-trading-bot",
+    "owner": {
+      "id": 244664819,
+      "url": "https://api.github.com/users/lalouannabel0072",
+      "html_url": "https://github.com/lalouannabel0072",
+      "avatar_url": "https://avatars.githubusercontent.com/u/244664819?v=4"
+    },
+    "html_url": "https://github.com/lalouannabel0072/kalshi-trading-bot",
+    "description": "Kalshi trading bot for prediction markets — browse event contracts and watch the order book in real time, run market making and momentum/reversion strategies with paper trading, risk limits and position sizing. Educational toolkit — not financial advice. Unofficial community project, not affiliated with Kalshi.",
+    "created_at": "2026-09-17T00:51:51Z",
+    "updated_at": "2026-09-20T03:09:37Z",
+    "pushed_at": "2026-09-17T01:01:08Z",
+    "git_url": "git://github.com/lalouannabel0072/kalshi-trading-bot.git",
+    "homepage": "",
+    "size": 13629,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "Python",
+    "forks_count": 8,
+    "open_issues_count": 0
   }
 ]
