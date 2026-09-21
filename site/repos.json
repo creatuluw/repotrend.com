@@ -78589,5 +78589,51 @@
     "language": "Python",
     "forks_count": 96,
     "open_issues_count": 0
+  },
+  {
+    "id": 1341263178,
+    "name": "knap",
+    "owner": {
+      "id": 65011256,
+      "url": "https://api.github.com/users/obsidianmd",
+      "html_url": "https://github.com/obsidianmd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65011256?v=4"
+    },
+    "html_url": "https://github.com/obsidianmd/knap",
+    "description": "A simple template language that turns data into Markdown.",
+    "created_at": "2026-08-21T00:48:09Z",
+    "updated_at": "2026-09-20T19:43:18Z",
+    "pushed_at": "2026-09-15T15:33:53Z",
+    "git_url": "git://github.com/obsidianmd/knap.git",
+    "homepage": "https://knap.md",
+    "size": 3302,
+    "stargazers_count": 580,
+    "watchers_count": 580,
+    "language": "TypeScript",
+    "forks_count": 17,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1378447475,
+    "name": "LuauStore",
+    "owner": {
+      "id": 307800328,
+      "url": "https://api.github.com/users/Volumeyascoop",
+      "html_url": "https://github.com/Volumeyascoop",
+      "avatar_url": "https://avatars.githubusercontent.com/u/307800328?v=4"
+    },
+    "html_url": "https://github.com/Volumeyascoop/LuauStore",
+    "description": "DataStore wrapper for Roblox with retries, cache and autosave",
+    "created_at": "2026-09-20T14:50:54Z",
+    "updated_at": "2026-09-20T15:40:04Z",
+    "pushed_at": "2026-09-20T15:36:38Z",
+    "git_url": "git://github.com/Volumeyascoop/LuauStore.git",
+    "homepage": "",
+    "size": 14,
+    "stargazers_count": 96,
+    "watchers_count": 96,
+    "language": "Luau",
+    "forks_count": 96,
+    "open_issues_count": 0
   }
 ]
