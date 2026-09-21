@@ -78428,5 +78428,51 @@
     "language": "Python",
     "forks_count": 40,
     "open_issues_count": 0
+  },
+  {
+    "id": 1346230651,
+    "name": "open-steps",
+    "owner": {
+      "id": 145896518,
+      "url": "https://api.github.com/users/kharmanskyi",
+      "html_url": "https://github.com/kharmanskyi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/145896518?v=4"
+    },
+    "html_url": "https://github.com/kharmanskyi/open-steps",
+    "description": "Skills that translate your coding agent's output into plain language: honest reports, straight verdicts, steps you can follow. MIT.",
+    "created_at": "2026-08-25T14:24:24Z",
+    "updated_at": "2026-09-20T22:24:51Z",
+    "pushed_at": "2026-09-14T16:02:26Z",
+    "git_url": "git://github.com/kharmanskyi/open-steps.git",
+    "homepage": "https://opensteps.ai",
+    "size": 346,
+    "stargazers_count": 806,
+    "watchers_count": 806,
+    "language": "Shell",
+    "forks_count": 83,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1375761817,
+    "name": "jevcache",
+    "owner": {
+      "id": 12701374,
+      "url": "https://api.github.com/users/hyperspaceai",
+      "html_url": "https://github.com/hyperspaceai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12701374?v=4"
+    },
+    "html_url": "https://github.com/hyperspaceai/jevcache",
+    "description": "A decision cache for TypeSafe Jev-class models — memoize decisions so repeats are free, deterministic, and shareable. One 2 MB binary.",
+    "created_at": "2026-09-18T11:22:25Z",
+    "updated_at": "2026-09-21T03:25:45Z",
+    "pushed_at": "2026-09-19T17:57:32Z",
+    "git_url": "git://github.com/hyperspaceai/jevcache.git",
+    "homepage": "https://jevcache.sh",
+    "size": 232,
+    "stargazers_count": 60,
+    "watchers_count": 60,
+    "language": null,
+    "forks_count": 2,
+    "open_issues_count": 2
   }
 ]
