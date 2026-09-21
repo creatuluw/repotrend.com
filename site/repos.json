@@ -78520,5 +78520,74 @@
     "language": "Python",
     "forks_count": 8,
     "open_issues_count": 0
+  },
+  {
+    "id": 1374005005,
+    "name": "fast-jev-compaction",
+    "owner": {
+      "id": 65584429,
+      "url": "https://api.github.com/users/tamaratran",
+      "html_url": "https://github.com/tamaratran",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65584429?v=4"
+    },
+    "html_url": "https://github.com/tamaratran/fast-jev-compaction",
+    "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+    "created_at": "2026-09-17T05:57:20Z",
+    "updated_at": "2026-09-20T20:31:30Z",
+    "pushed_at": "2026-09-18T04:45:31Z",
+    "git_url": "git://github.com/tamaratran/fast-jev-compaction.git",
+    "homepage": "",
+    "size": 245,
+    "stargazers_count": 5032,
+    "watchers_count": 5032,
+    "language": "TypeScript",
+    "forks_count": 278,
+    "open_issues_count": 56
+  },
+  {
+    "id": 1369428487,
+    "name": "page-mascot",
+    "owner": {
+      "id": 4921183,
+      "url": "https://api.github.com/users/nilbuild",
+      "html_url": "https://github.com/nilbuild",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4921183?v=4"
+    },
+    "html_url": "https://github.com/nilbuild/page-mascot",
+    "description": "A mascot that watches the cursor and blinks when you poke it",
+    "created_at": "2026-09-14T06:55:59Z",
+    "updated_at": "2026-09-20T19:53:41Z",
+    "pushed_at": "2026-09-15T10:07:44Z",
+    "git_url": "git://github.com/nilbuild/page-mascot.git",
+    "homepage": "https://koboyo.com/page-mascot",
+    "size": 180170,
+    "stargazers_count": 746,
+    "watchers_count": 746,
+    "language": "Python",
+    "forks_count": 71,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1378448001,
+    "name": "RbxForge",
+    "owner": {
+      "id": 307800328,
+      "url": "https://api.github.com/users/Volumeyascoop",
+      "html_url": "https://github.com/Volumeyascoop",
+      "avatar_url": "https://avatars.githubusercontent.com/u/307800328?v=4"
+    },
+    "html_url": "https://github.com/Volumeyascoop/RbxForge",
+    "description": "CLI project generator for Roblox and Rojo",
+    "created_at": "2026-09-20T14:51:23Z",
+    "updated_at": "2026-09-20T15:40:13Z",
+    "pushed_at": "2026-09-20T15:36:41Z",
+    "git_url": "git://github.com/Volumeyascoop/RbxForge.git",
+    "homepage": "",
+    "size": 23,
+    "stargazers_count": 97,
+    "watchers_count": 97,
+    "language": "Python",
+    "forks_count": 96,
+    "open_issues_count": 0
   }
 ]
