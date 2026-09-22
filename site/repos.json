@@ -78681,5 +78681,74 @@
     "language": "Rust",
     "forks_count": 6,
     "open_issues_count": 2
+  },
+  {
+    "id": 1375382253,
+    "name": "laya",
+    "owner": {
+      "id": 48623612,
+      "url": "https://api.github.com/users/NandhaKishorM",
+      "html_url": "https://github.com/NandhaKishorM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48623612?v=4"
+    },
+    "html_url": "https://github.com/NandhaKishorM/laya",
+    "description": null,
+    "created_at": "2026-09-18T04:46:33Z",
+    "updated_at": "2026-09-22T04:00:07Z",
+    "pushed_at": "2026-09-21T18:18:43Z",
+    "git_url": "git://github.com/NandhaKishorM/laya.git",
+    "homepage": null,
+    "size": 2771,
+    "stargazers_count": 11398,
+    "watchers_count": 11398,
+    "language": "Python",
+    "forks_count": 931,
+    "open_issues_count": 56
+  },
+  {
+    "id": 1356886213,
+    "name": "dlss-unlocked",
+    "owner": {
+      "id": 111277410,
+      "url": "https://api.github.com/users/ShyVortex",
+      "html_url": "https://github.com/ShyVortex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111277410?v=4"
+    },
+    "html_url": "https://github.com/ShyVortex/dlss-unlocked",
+    "description": "Unlock DLSS Upscaler, Multi-Frame Generation (MFG) and DLSS Neural Rendering features on any NVIDIA RTX GPU in any DirectX 12 game that supports DLSS2 and DLSS3 natively.",
+    "created_at": "2026-09-04T08:19:52Z",
+    "updated_at": "2026-09-22T03:02:38Z",
+    "pushed_at": "2026-09-21T19:10:01Z",
+    "git_url": "git://github.com/ShyVortex/dlss-unlocked.git",
+    "homepage": "",
+    "size": 22576,
+    "stargazers_count": 604,
+    "watchers_count": 604,
+    "language": "Rich Text Format",
+    "forks_count": 28,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1376757283,
+    "name": "awesome-jev",
+    "owner": {
+      "id": 33251742,
+      "url": "https://api.github.com/users/heyjunpenn",
+      "html_url": "https://github.com/heyjunpenn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33251742?v=4"
+    },
+    "html_url": "https://github.com/heyjunpenn/awesome-jev",
+    "description": "A verified, community-maintained catalog of 530 open-source projects built with Jev.",
+    "created_at": "2026-09-19T05:14:36Z",
+    "updated_at": "2026-09-21T21:49:38Z",
+    "pushed_at": "2026-09-21T16:15:16Z",
+    "git_url": "git://github.com/heyjunpenn/awesome-jev.git",
+    "homepage": "https://jevbest.com/",
+    "size": 13163,
+    "stargazers_count": 76,
+    "watchers_count": 76,
+    "language": "Astro",
+    "forks_count": 3,
+    "open_issues_count": 1
   }
 ]
