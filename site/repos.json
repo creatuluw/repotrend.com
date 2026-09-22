@@ -78750,5 +78750,74 @@
     "language": "Astro",
     "forks_count": 3,
     "open_issues_count": 1
+  },
+  {
+    "id": 1378288598,
+    "name": "ZCode",
+    "owner": {
+      "id": 223098841,
+      "url": "https://api.github.com/users/zai-org",
+      "html_url": "https://github.com/zai-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223098841?v=4"
+    },
+    "html_url": "https://github.com/zai-org/ZCode",
+    "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+    "created_at": "2026-09-20T12:01:16Z",
+    "updated_at": "2026-09-21T21:47:50Z",
+    "pushed_at": "2026-09-21T00:02:36Z",
+    "git_url": "git://github.com/zai-org/ZCode.git",
+    "homepage": "https://zcode.z.ai/",
+    "size": 38620,
+    "stargazers_count": 5523,
+    "watchers_count": 5523,
+    "language": "TypeScript",
+    "forks_count": 1571,
+    "open_issues_count": 11
+  },
+  {
+    "id": 1360539092,
+    "name": "RhineLabUI",
+    "owner": {
+      "id": 74463574,
+      "url": "https://api.github.com/users/LBEILC",
+      "html_url": "https://github.com/LBEILC",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74463574?v=4"
+    },
+    "html_url": "https://github.com/LBEILC/RhineLabUI",
+    "description": "Rhine Lab archive interface built with TypeScript and Three.js",
+    "created_at": "2026-09-07T18:16:23Z",
+    "updated_at": "2026-09-20T16:13:25Z",
+    "pushed_at": "2026-09-20T08:23:35Z",
+    "git_url": "git://github.com/LBEILC/RhineLabUI.git",
+    "homepage": "https://rhine-lab-ui.vercel.app",
+    "size": 136486,
+    "stargazers_count": 574,
+    "watchers_count": 574,
+    "language": "TypeScript",
+    "forks_count": 83,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1377401228,
+    "name": "djev-dev",
+    "owner": {
+      "id": 22471119,
+      "url": "https://api.github.com/users/Davipar",
+      "html_url": "https://github.com/Davipar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22471119?v=4"
+    },
+    "html_url": "https://github.com/Davipar/djev-dev",
+    "description": "Structured decisions with DiffusionGemma and vLLM. Native image inputs, image choices, live camera sampling, and a compact one-step inference path.",
+    "created_at": "2026-09-19T16:50:46Z",
+    "updated_at": "2026-09-22T03:45:58Z",
+    "pushed_at": "2026-09-19T17:13:54Z",
+    "git_url": "git://github.com/Davipar/djev-dev.git",
+    "homepage": null,
+    "size": 1477,
+    "stargazers_count": 91,
+    "watchers_count": 91,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 1
   }
 ]
