@@ -78888,5 +78888,51 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 4
+  },
+  {
+    "id": 1367271141,
+    "name": "Awesome-Astra-Embodied-AI",
+    "owner": {
+      "id": 43678835,
+      "url": "https://api.github.com/users/zjwzcx",
+      "html_url": "https://github.com/zjwzcx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43678835?v=4"
+    },
+    "html_url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI",
+    "description": "GPT-6 Astra for embodied AI and robotics.",
+    "created_at": "2026-09-12T12:20:24Z",
+    "updated_at": "2026-09-22T15:05:12Z",
+    "pushed_at": "2026-09-21T13:38:56Z",
+    "git_url": "git://github.com/zjwzcx/Awesome-Astra-Embodied-AI.git",
+    "homepage": "",
+    "size": 5196,
+    "stargazers_count": 985,
+    "watchers_count": 985,
+    "language": null,
+    "forks_count": 20,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1376451543,
+    "name": "jev-voice",
+    "owner": {
+      "id": 129329982,
+      "url": "https://api.github.com/users/kevinbadi",
+      "html_url": "https://github.com/kevinbadi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129329982?v=4"
+    },
+    "html_url": "https://github.com/kevinbadi/jev-voice",
+    "description": "Talk to your Mac. Local whisper.cpp + one Jev (TypeSafe) call per command + macOS automation.",
+    "created_at": "2026-09-18T21:30:35Z",
+    "updated_at": "2026-09-21T21:34:40Z",
+    "pushed_at": "2026-09-18T21:30:40Z",
+    "git_url": "git://github.com/kevinbadi/jev-voice.git",
+    "homepage": null,
+    "size": 54,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": "Python",
+    "forks_count": 9,
+    "open_issues_count": 1
   }
 ]
