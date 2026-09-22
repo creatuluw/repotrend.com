@@ -78635,5 +78635,51 @@
     "language": "Luau",
     "forks_count": 96,
     "open_issues_count": 0
+  },
+  {
+    "id": 1343146307,
+    "name": "kimodo.cpp",
+    "owner": {
+      "id": 260893928,
+      "url": "https://api.github.com/users/localai-org",
+      "html_url": "https://github.com/localai-org",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260893928?v=4"
+    },
+    "html_url": "https://github.com/localai-org/kimodo.cpp",
+    "description": "Animate skeletons with natural language; NVIDIA's Kimodo ported to C++/GGML",
+    "created_at": "2026-08-22T20:26:58Z",
+    "updated_at": "2026-09-20T16:28:35Z",
+    "pushed_at": "2026-09-17T13:25:53Z",
+    "git_url": "git://github.com/localai-org/kimodo.cpp.git",
+    "homepage": "",
+    "size": 396,
+    "stargazers_count": 839,
+    "watchers_count": 839,
+    "language": "C++",
+    "forks_count": 95,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1374059973,
+    "name": "skillranker",
+    "owner": {
+      "id": 35050222,
+      "url": "https://api.github.com/users/Dicklesworthstone",
+      "html_url": "https://github.com/Dicklesworthstone",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35050222?v=4"
+    },
+    "html_url": "https://github.com/Dicklesworthstone/skillranker",
+    "description": "Rust CLI powered by Jev from TypeSafe.ai that ranks agent skills for the next step using live session context. Includes Claude Code hooks, structured JSON, abstention, and local feedback. Requires a TypeSafe API key.",
+    "created_at": "2026-09-17T06:58:19Z",
+    "updated_at": "2026-09-20T20:24:54Z",
+    "pushed_at": "2026-09-20T20:24:18Z",
+    "git_url": "git://github.com/Dicklesworthstone/skillranker.git",
+    "homepage": null,
+    "size": 12779,
+    "stargazers_count": 93,
+    "watchers_count": 93,
+    "language": "Rust",
+    "forks_count": 6,
+    "open_issues_count": 2
   }
 ]
