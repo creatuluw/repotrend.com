@@ -78819,5 +78819,74 @@
     "language": "Python",
     "forks_count": 5,
     "open_issues_count": 1
+  },
+  {
+    "id": 1356159928,
+    "name": "niubigeo",
+    "owner": {
+      "id": 186366929,
+      "url": "https://api.github.com/users/Albert-Weasker",
+      "html_url": "https://github.com/Albert-Weasker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/186366929?v=4"
+    },
+    "html_url": "https://github.com/Albert-Weasker/niubigeo",
+    "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
+    "created_at": "2026-09-03T15:55:54Z",
+    "updated_at": "2026-09-21T21:02:44Z",
+    "pushed_at": "2026-09-21T11:16:31Z",
+    "git_url": "git://github.com/Albert-Weasker/niubigeo.git",
+    "homepage": "https://niubigeo.ai/",
+    "size": 33725,
+    "stargazers_count": 4668,
+    "watchers_count": 4668,
+    "language": "TypeScript",
+    "forks_count": 246,
+    "open_issues_count": 11
+  },
+  {
+    "id": 1347791075,
+    "name": "GVS5H",
+    "owner": {
+      "id": 321786873,
+      "url": "https://api.github.com/users/slee-persis",
+      "html_url": "https://github.com/slee-persis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/321786873?v=4"
+    },
+    "html_url": "https://github.com/slee-persis/GVS5H",
+    "description": "GVS5H: Five Qwen3.8-27B Models Match Claude Fable 5 on LiveCodeBench Hard  |  Fable 5 Level Coding for a Fifth the Price - or on a Single GPU",
+    "created_at": "2026-08-26T20:56:52Z",
+    "updated_at": "2026-09-20T20:25:38Z",
+    "pushed_at": "2026-09-17T13:55:20Z",
+    "git_url": "git://github.com/slee-persis/GVS5H.git",
+    "homepage": "",
+    "size": 90213,
+    "stargazers_count": 664,
+    "watchers_count": 664,
+    "language": "Python",
+    "forks_count": 86,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1379547345,
+    "name": "monero-web-wallet",
+    "owner": {
+      "id": 196173917,
+      "url": "https://api.github.com/users/AMLChecker",
+      "html_url": "https://github.com/AMLChecker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196173917?v=4"
+    },
+    "html_url": "https://github.com/AMLChecker/monero-web-wallet",
+    "description": "Self-hosted, non-custodial Monero (XMR) web wallet: dark responsive UI on top of the official monero-wallet-rpc. Keys stay on your machine, two-phase sending with explicit fee review, Windows quick start.",
+    "created_at": "2026-09-21T10:53:14Z",
+    "updated_at": "2026-09-21T17:27:33Z",
+    "pushed_at": "2026-09-21T17:29:57Z",
+    "git_url": "git://github.com/AMLChecker/monero-web-wallet.git",
+    "homepage": "https://amlchecker.github.io/monero-web-wallet/",
+    "size": 4929,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 4
   }
 ]
