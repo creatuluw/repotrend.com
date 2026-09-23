@@ -79095,5 +79095,74 @@
     "language": null,
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1306722822,
+    "name": "goutoujunshi",
+    "owner": {
+      "id": 321343723,
+      "url": "https://api.github.com/users/shengjidaguai-china",
+      "html_url": "https://github.com/shengjidaguai-china",
+      "avatar_url": "https://avatars.githubusercontent.com/u/321343723?v=4"
+    },
+    "html_url": "https://github.com/shengjidaguai-china/goutoujunshi",
+    "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+    "created_at": "2026-07-20T14:58:48Z",
+    "updated_at": "2026-09-23T11:02:41Z",
+    "pushed_at": "2026-09-20T12:23:53Z",
+    "git_url": "git://github.com/shengjidaguai-china/goutoujunshi.git",
+    "homepage": null,
+    "size": 13393,
+    "stargazers_count": 4114,
+    "watchers_count": 4114,
+    "language": "Python",
+    "forks_count": 434,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1377399471,
+    "name": "awesome-jev-tools",
+    "owner": {
+      "id": 286898453,
+      "url": "https://api.github.com/users/v-modal",
+      "html_url": "https://github.com/v-modal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/286898453?v=4"
+    },
+    "html_url": "https://github.com/v-modal/awesome-jev-tools",
+    "description": "A curated list of tools  built for Jev — TypeSafe AI's System One model for typed decisions.",
+    "created_at": "2026-09-19T16:48:59Z",
+    "updated_at": "2026-09-23T10:45:04Z",
+    "pushed_at": "2026-09-19T17:02:33Z",
+    "git_url": "git://github.com/v-modal/awesome-jev-tools.git",
+    "homepage": "",
+    "size": 83,
+    "stargazers_count": 676,
+    "watchers_count": 676,
+    "language": null,
+    "forks_count": 23,
+    "open_issues_count": 17
+  },
+  {
+    "id": 1379915055,
+    "name": "laya-vs-jev",
+    "owner": {
+      "id": 56783451,
+      "url": "https://api.github.com/users/virajbhartiya",
+      "html_url": "https://github.com/virajbhartiya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56783451?v=4"
+    },
+    "html_url": "https://github.com/virajbhartiya/laya-vs-jev",
+    "description": "Laya vs Jev: local MLX and hosted AI decisions playing T-Rex side by side, with live metrics and replay recording",
+    "created_at": "2026-09-21T14:30:39Z",
+    "updated_at": "2026-09-23T08:50:40Z",
+    "pushed_at": "2026-09-21T14:37:49Z",
+    "git_url": "git://github.com/virajbhartiya/laya-vs-jev.git",
+    "homepage": null,
+    "size": 6032,
+    "stargazers_count": 90,
+    "watchers_count": 90,
+    "language": "Python",
+    "forks_count": 8,
+    "open_issues_count": 0
   }
 ]
