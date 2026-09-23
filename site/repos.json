@@ -79164,5 +79164,74 @@
     "language": "Python",
     "forks_count": 8,
     "open_issues_count": 0
+  },
+  {
+    "id": 1375069862,
+    "name": "kev",
+    "owner": {
+      "id": 4060187,
+      "url": "https://api.github.com/users/jaredpalmer",
+      "html_url": "https://github.com/jaredpalmer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4060187?v=4"
+    },
+    "html_url": "https://github.com/jaredpalmer/kev",
+    "description": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
+    "created_at": "2026-09-17T20:49:39Z",
+    "updated_at": "2026-09-22T21:02:13Z",
+    "pushed_at": "2026-09-22T20:55:54Z",
+    "git_url": "git://github.com/jaredpalmer/kev.git",
+    "homepage": "",
+    "size": 30747,
+    "stargazers_count": 4011,
+    "watchers_count": 4011,
+    "language": "Python",
+    "forks_count": 204,
+    "open_issues_count": 10
+  },
+  {
+    "id": 1361701013,
+    "name": "cloudflare-turnstile-bypass",
+    "owner": {
+      "id": 306806987,
+      "url": "https://api.github.com/users/henryzawadzki6542",
+      "html_url": "https://github.com/henryzawadzki6542",
+      "avatar_url": "https://avatars.githubusercontent.com/u/306806987?v=4"
+    },
+    "html_url": "https://github.com/henryzawadzki6542/cloudflare-turnstile-bypass",
+    "description": "Work with Cloudflare Turnstile in Python: find the sitekey, get a valid cf-turnstile-response token in seconds. Dependency-free library + CLI, built for CI and automation.",
+    "created_at": "2026-09-08T17:26:48Z",
+    "updated_at": "2026-09-21T06:51:21Z",
+    "pushed_at": "2026-09-15T08:35:33Z",
+    "git_url": "git://github.com/henryzawadzki6542/cloudflare-turnstile-bypass.git",
+    "homepage": null,
+    "size": 437,
+    "stargazers_count": 583,
+    "watchers_count": 583,
+    "language": "Python",
+    "forks_count": 36,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1376488452,
+    "name": "cli-faq-shortcuts",
+    "owner": {
+      "id": 39528161,
+      "url": "https://api.github.com/users/kishormorol",
+      "html_url": "https://github.com/kishormorol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39528161?v=4"
+    },
+    "html_url": "https://github.com/kishormorol/cli-faq-shortcuts",
+    "description": "An Agent Skill that turns the asks you keep typing into short commands, mined from your own Claude Code and Codex history. Works in Claude Code, Codex and Cursor.",
+    "created_at": "2026-09-18T22:23:41Z",
+    "updated_at": "2026-09-21T17:25:03Z",
+    "pushed_at": "2026-09-19T20:02:34Z",
+    "git_url": "git://github.com/kishormorol/cli-faq-shortcuts.git",
+    "homepage": null,
+    "size": 44,
+    "stargazers_count": 83,
+    "watchers_count": 83,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 4
   }
 ]
