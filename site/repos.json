@@ -78980,5 +78980,51 @@
     "language": "JavaScript",
     "forks_count": 6,
     "open_issues_count": 0
+  },
+  {
+    "id": 1362322371,
+    "name": "lunel",
+    "owner": {
+      "id": 308009703,
+      "url": "https://api.github.com/users/ArasTey",
+      "html_url": "https://github.com/ArasTey",
+      "avatar_url": "https://avatars.githubusercontent.com/u/308009703?v=4"
+    },
+    "html_url": "https://github.com/ArasTey/lunel",
+    "description": null,
+    "created_at": "2026-09-09T06:58:25Z",
+    "updated_at": "2026-09-22T19:07:29Z",
+    "pushed_at": "2026-09-17T16:59:36Z",
+    "git_url": "git://github.com/ArasTey/lunel.git",
+    "homepage": null,
+    "size": 343,
+    "stargazers_count": 898,
+    "watchers_count": 898,
+    "language": "Python",
+    "forks_count": 2134,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1374027232,
+    "name": "MacTV",
+    "owner": {
+      "id": 16513318,
+      "url": "https://api.github.com/users/pengchujin",
+      "html_url": "https://github.com/pengchujin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16513318?v=4"
+    },
+    "html_url": "https://github.com/pengchujin/MacTV",
+    "description": "MacTV · 电视遥控 — 让电视更好用作 Mac 显示器。通过 HDMI-CEC，在 Mac 上调节电视音量、切换输入源、操作菜单。",
+    "created_at": "2026-09-17T06:23:49Z",
+    "updated_at": "2026-09-20T07:40:09Z",
+    "pushed_at": "2026-09-17T13:43:03Z",
+    "git_url": "git://github.com/pengchujin/MacTV.git",
+    "homepage": null,
+    "size": 5129,
+    "stargazers_count": 74,
+    "watchers_count": 74,
+    "language": "Swift",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
