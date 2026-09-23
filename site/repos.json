@@ -78934,5 +78934,51 @@
     "language": "Python",
     "forks_count": 9,
     "open_issues_count": 1
+  },
+  {
+    "id": 1374503618,
+    "name": "gpt_sub_analysis",
+    "owner": {
+      "id": 139136586,
+      "url": "https://api.github.com/users/yynxxxxx",
+      "html_url": "https://github.com/yynxxxxx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139136586?v=4"
+    },
+    "html_url": "https://github.com/yynxxxxx/gpt_sub_analysis",
+    "description": "Security analysis of the ChatGPT iOS subscription / entitlement flow (internal draft, coordinated disclosure WIP)",
+    "created_at": "2026-09-17T13:43:00Z",
+    "updated_at": "2026-09-20T18:28:45Z",
+    "pushed_at": "2026-09-18T12:00:04Z",
+    "git_url": "git://github.com/yynxxxxx/gpt_sub_analysis.git",
+    "homepage": null,
+    "size": 26,
+    "stargazers_count": 567,
+    "watchers_count": 567,
+    "language": null,
+    "forks_count": 307,
+    "open_issues_count": 11
+  },
+  {
+    "id": 1375039364,
+    "name": "awesome-jev-gallery",
+    "owner": {
+      "id": 330584757,
+      "url": "https://api.github.com/users/OmniJev",
+      "html_url": "https://github.com/OmniJev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/330584757?v=4"
+    },
+    "html_url": "https://github.com/OmniJev/awesome-jev-gallery",
+    "description": "🔥🔥 Papers, open reproductions and independent evaluations behind System One models and Jev.",
+    "created_at": "2026-09-17T20:16:57Z",
+    "updated_at": "2026-09-20T20:28:18Z",
+    "pushed_at": "2026-09-20T10:20:14Z",
+    "git_url": "git://github.com/OmniJev/awesome-jev-gallery.git",
+    "homepage": "https://omnijev.github.io/awesome-jev-gallery/",
+    "size": 7179,
+    "stargazers_count": 93,
+    "watchers_count": 93,
+    "language": "JavaScript",
+    "forks_count": 6,
+    "open_issues_count": 0
   }
 ]
