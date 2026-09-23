@@ -79026,5 +79026,74 @@
     "language": "Swift",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1377211520,
+    "name": "laya-mlx",
+    "owner": {
+      "id": 252857002,
+      "url": "https://api.github.com/users/mizorewww",
+      "html_url": "https://github.com/mizorewww",
+      "avatar_url": "https://avatars.githubusercontent.com/u/252857002?v=4"
+    },
+    "html_url": "https://github.com/mizorewww/laya-mlx",
+    "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+    "created_at": "2026-09-19T13:50:26Z",
+    "updated_at": "2026-09-22T21:01:22Z",
+    "pushed_at": "2026-09-22T05:34:51Z",
+    "git_url": "git://github.com/mizorewww/laya-mlx.git",
+    "homepage": "https://pypi.org/project/laya-mlx/",
+    "size": 5915,
+    "stargazers_count": 5356,
+    "watchers_count": 5356,
+    "language": "Python",
+    "forks_count": 379,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1367044972,
+    "name": "birdview",
+    "owner": {
+      "id": 149919158,
+      "url": "https://api.github.com/users/Qiuner",
+      "html_url": "https://github.com/Qiuner",
+      "avatar_url": "https://avatars.githubusercontent.com/u/149919158?v=4"
+    },
+    "html_url": "https://github.com/Qiuner/birdview",
+    "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
+    "created_at": "2026-09-12T06:59:27Z",
+    "updated_at": "2026-09-23T02:59:29Z",
+    "pushed_at": "2026-09-22T01:12:54Z",
+    "git_url": "git://github.com/Qiuner/birdview.git",
+    "homepage": "https://qiuner.github.io/birdview/",
+    "size": 2308,
+    "stargazers_count": 592,
+    "watchers_count": 592,
+    "language": "TypeScript",
+    "forks_count": 55,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1380633782,
+    "name": "game-the-llm-reviewer",
+    "owner": {
+      "id": 70966491,
+      "url": "https://api.github.com/users/Michael-Jiahao-Zhang",
+      "html_url": "https://github.com/Michael-Jiahao-Zhang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70966491?v=4"
+    },
+    "html_url": "https://github.com/Michael-Jiahao-Zhang/game-the-llm-reviewer",
+    "description": "Defend sound research against LLM reviewer bias through meaning-preserving rewrites.",
+    "created_at": "2026-09-21T23:11:47Z",
+    "updated_at": "2026-09-22T20:24:23Z",
+    "pushed_at": "2026-09-22T18:55:19Z",
+    "git_url": "git://github.com/Michael-Jiahao-Zhang/game-the-llm-reviewer.git",
+    "homepage": "",
+    "size": 1592,
+    "stargazers_count": 90,
+    "watchers_count": 90,
+    "language": null,
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
