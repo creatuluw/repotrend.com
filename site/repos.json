@@ -79463,5 +79463,74 @@
     "language": "Python",
     "forks_count": 9,
     "open_issues_count": 0
+  },
+  {
+    "id": 1342876750,
+    "name": "chat-on-steroids",
+    "owner": {
+      "id": 227782719,
+      "url": "https://api.github.com/users/totec448-spec",
+      "html_url": "https://github.com/totec448-spec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/227782719?v=4"
+    },
+    "html_url": "https://github.com/totec448-spec/chat-on-steroids",
+    "description": "Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.",
+    "created_at": "2026-08-22T14:16:24Z",
+    "updated_at": "2026-09-24T10:22:03Z",
+    "pushed_at": "2026-09-22T11:55:37Z",
+    "git_url": "git://github.com/totec448-spec/chat-on-steroids.git",
+    "homepage": null,
+    "size": 69740,
+    "stargazers_count": 3993,
+    "watchers_count": 3993,
+    "language": "TypeScript",
+    "forks_count": 524,
+    "open_issues_count": 85
+  },
+  {
+    "id": 1348428036,
+    "name": "hello-sdd",
+    "owner": {
+      "id": 17043402,
+      "url": "https://api.github.com/users/mouredev",
+      "html_url": "https://github.com/mouredev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17043402?v=4"
+    },
+    "html_url": "https://github.com/mouredev/hello-sdd",
+    "description": "Curso de SDD (Spec-Driven Development) desde cero",
+    "created_at": "2026-08-27T11:49:48Z",
+    "updated_at": "2026-09-23T18:24:11Z",
+    "pushed_at": "2026-08-27T18:27:38Z",
+    "git_url": "git://github.com/mouredev/hello-sdd.git",
+    "homepage": "https://youtube.com/live/5HaOxAAA5qI",
+    "size": 75,
+    "stargazers_count": 615,
+    "watchers_count": 615,
+    "language": "Python",
+    "forks_count": 133,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1379139682,
+    "name": "polytech-tree",
+    "owner": {
+      "id": 42712024,
+      "url": "https://api.github.com/users/secwind7",
+      "html_url": "https://github.com/secwind7",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42712024?v=4"
+    },
+    "html_url": "https://github.com/secwind7/polytech-tree",
+    "description": "Interactive 3D map of the human tech tree, from the first stone tools to 2024: technologies stacked as a tower of eras in three.js, with prerequisite and relation edges, hover cards and a guided camera tour. All data lives in plain JSON, so adding a technology, era or domain is one pull request away.",
+    "created_at": "2026-09-21T05:28:58Z",
+    "updated_at": "2026-09-23T19:41:13Z",
+    "pushed_at": "2026-09-22T14:18:57Z",
+    "git_url": "git://github.com/secwind7/polytech-tree.git",
+    "homepage": null,
+    "size": 1983,
+    "stargazers_count": 99,
+    "watchers_count": 99,
+    "language": "Python",
+    "forks_count": 9,
+    "open_issues_count": 0
   }
 ]
