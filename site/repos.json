@@ -79532,5 +79532,74 @@
     "language": "Python",
     "forks_count": 9,
     "open_issues_count": 0
+  },
+  {
+    "id": 1379574728,
+    "name": "jev-chat-jarvis",
+    "owner": {
+      "id": 332283779,
+      "url": "https://api.github.com/users/jev-chat",
+      "html_url": "https://github.com/jev-chat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/332283779?v=4"
+    },
+    "html_url": "https://github.com/jev-chat/jev-chat-jarvis",
+    "description": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+    "created_at": "2026-09-21T11:12:53Z",
+    "updated_at": "2026-09-24T16:45:25Z",
+    "pushed_at": "2026-09-24T15:34:49Z",
+    "git_url": "git://github.com/jev-chat/jev-chat-jarvis.git",
+    "homepage": "",
+    "size": 20697,
+    "stargazers_count": 5910,
+    "watchers_count": 5910,
+    "language": "Kotlin",
+    "forks_count": 1089,
+    "open_issues_count": 34
+  },
+  {
+    "id": 1348701282,
+    "name": "GLM-5.3-Flash-EXL3-2x-DGX-Sparks",
+    "owner": {
+      "id": 83042094,
+      "url": "https://api.github.com/users/MiaAI-Lab",
+      "html_url": "https://github.com/MiaAI-Lab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83042094?v=4"
+    },
+    "html_url": "https://github.com/MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks",
+    "description": "GLM-5.3 Flash EXL3 for 2-4x DGX Sparks",
+    "created_at": "2026-08-27T16:22:58Z",
+    "updated_at": "2026-09-24T15:45:49Z",
+    "pushed_at": "2026-09-24T00:28:11Z",
+    "git_url": "git://github.com/MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks.git",
+    "homepage": "https://x.com/MiaAI_lab",
+    "size": 2935,
+    "stargazers_count": 622,
+    "watchers_count": 622,
+    "language": "Python",
+    "forks_count": 116,
+    "open_issues_count": 87
+  },
+  {
+    "id": 1373968205,
+    "name": "jev-eval-agent",
+    "owner": {
+      "id": 17963870,
+      "url": "https://api.github.com/users/vinilana",
+      "html_url": "https://github.com/vinilana",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17963870?v=4"
+    },
+    "html_url": "https://github.com/vinilana/jev-eval-agent",
+    "description": null,
+    "created_at": "2026-09-17T05:13:21Z",
+    "updated_at": "2026-09-20T10:30:40Z",
+    "pushed_at": "2026-09-17T11:07:31Z",
+    "git_url": "git://github.com/vinilana/jev-eval-agent.git",
+    "homepage": null,
+    "size": 326,
+    "stargazers_count": 96,
+    "watchers_count": 96,
+    "language": "HTML",
+    "forks_count": 10,
+    "open_issues_count": 1
   }
 ]
