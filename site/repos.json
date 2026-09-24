@@ -79279,5 +79279,74 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1373614120,
+    "name": "Compositor",
+    "owner": {
+      "id": 1269226,
+      "url": "https://api.github.com/users/robbietilton",
+      "html_url": "https://github.com/robbietilton",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1269226?v=4"
+    },
+    "html_url": "https://github.com/robbietilton/Compositor",
+    "description": "The Photoshop alternative for Mac",
+    "created_at": "2026-09-16T20:35:54Z",
+    "updated_at": "2026-09-22T20:57:34Z",
+    "pushed_at": "2026-09-22T20:52:27Z",
+    "git_url": "git://github.com/robbietilton/Compositor.git",
+    "homepage": null,
+    "size": 3873,
+    "stargazers_count": 4843,
+    "watchers_count": 4843,
+    "language": "Swift",
+    "forks_count": 510,
+    "open_issues_count": 30
+  },
+  {
+    "id": 1376970259,
+    "name": "AirCard-iOS",
+    "owner": {
+      "id": 98599732,
+      "url": "https://api.github.com/users/Mak5er",
+      "html_url": "https://github.com/Mak5er",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98599732?v=4"
+    },
+    "html_url": "https://github.com/Mak5er/AirCard-iOS",
+    "description": " Apple Wallet card skins and lock screen passcode themes on iOS 27. ",
+    "created_at": "2026-09-19T09:22:23Z",
+    "updated_at": "2026-09-23T20:58:39Z",
+    "pushed_at": "2026-09-20T21:01:12Z",
+    "git_url": "git://github.com/Mak5er/AirCard-iOS.git",
+    "homepage": "",
+    "size": 79375,
+    "stargazers_count": 603,
+    "watchers_count": 603,
+    "language": "Swift",
+    "forks_count": 47,
+    "open_issues_count": 14
+  },
+  {
+    "id": 1377007152,
+    "name": "ritridata",
+    "owner": {
+      "id": 248309487,
+      "url": "https://api.github.com/users/reco-tools",
+      "html_url": "https://github.com/reco-tools",
+      "avatar_url": "https://avatars.githubusercontent.com/u/248309487?v=4"
+    },
+    "html_url": "https://github.com/reco-tools/ritridata",
+    "description": "Read-only MBR/GPT inspection, public file signature definitions, and synthetic disk image tools. AGPL-3.0-only.",
+    "created_at": "2026-09-19T10:07:26Z",
+    "updated_at": "2026-09-21T20:17:37Z",
+    "pushed_at": "2026-09-19T10:07:39Z",
+    "git_url": "git://github.com/reco-tools/ritridata.git",
+    "homepage": null,
+    "size": 43,
+    "stargazers_count": 83,
+    "watchers_count": 83,
+    "language": "Rust",
+    "forks_count": 1,
+    "open_issues_count": 1
   }
 ]
