@@ -79762,5 +79762,74 @@
     "language": "Python",
     "forks_count": 11,
     "open_issues_count": 0
+  },
+  {
+    "id": 1372482979,
+    "name": "SemIf",
+    "owner": {
+      "id": 22087932,
+      "url": "https://api.github.com/users/TheoLeeCJ",
+      "html_url": "https://github.com/TheoLeeCJ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22087932?v=4"
+    },
+    "html_url": "https://github.com/TheoLeeCJ/SemIf",
+    "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+    "created_at": "2026-09-16T03:51:21Z",
+    "updated_at": "2026-09-22T21:00:05Z",
+    "pushed_at": "2026-09-21T20:07:30Z",
+    "git_url": "git://github.com/TheoLeeCJ/SemIf.git",
+    "homepage": "openjev.com",
+    "size": 9509,
+    "stargazers_count": 3792,
+    "watchers_count": 3792,
+    "language": "Python",
+    "forks_count": 243,
+    "open_issues_count": 21
+  },
+  {
+    "id": 1376169754,
+    "name": "Jev-cu",
+    "owner": {
+      "id": 270291518,
+      "url": "https://api.github.com/users/Sac-Y",
+      "html_url": "https://github.com/Sac-Y",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270291518?v=4"
+    },
+    "html_url": "https://github.com/Sac-Y/Jev-cu",
+    "description": null,
+    "created_at": "2026-09-18T16:56:08Z",
+    "updated_at": "2026-09-25T05:55:00Z",
+    "pushed_at": "2026-09-22T03:08:17Z",
+    "git_url": "git://github.com/Sac-Y/Jev-cu.git",
+    "homepage": null,
+    "size": 46,
+    "stargazers_count": 599,
+    "watchers_count": 599,
+    "language": "JavaScript",
+    "forks_count": 62,
+    "open_issues_count": 9
+  },
+  {
+    "id": 1382911422,
+    "name": "REx-skill",
+    "owner": {
+      "id": 62064939,
+      "url": "https://api.github.com/users/tihanyin",
+      "html_url": "https://github.com/tihanyin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62064939?v=4"
+    },
+    "html_url": "https://github.com/tihanyin/REx-skill",
+    "description": "REx@Skill - Agentic Reverse Engineering eXecution Skill for binary vulnerability discovery",
+    "created_at": "2026-09-23T06:49:12Z",
+    "updated_at": "2026-09-25T10:37:25Z",
+    "pushed_at": "2026-09-23T13:40:24Z",
+    "git_url": "git://github.com/tihanyin/REx-skill.git",
+    "homepage": "",
+    "size": 1213,
+    "stargazers_count": 85,
+    "watchers_count": 85,
+    "language": "Python",
+    "forks_count": 16,
+    "open_issues_count": 0
   }
 ]
