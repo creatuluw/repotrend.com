@@ -79601,5 +79601,74 @@
     "language": "HTML",
     "forks_count": 10,
     "open_issues_count": 1
+  },
+  {
+    "id": 1373687654,
+    "name": "AirCard",
+    "owner": {
+      "id": 98599732,
+      "url": "https://api.github.com/users/Mak5er",
+      "html_url": "https://github.com/Mak5er",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98599732?v=4"
+    },
+    "html_url": "https://github.com/Mak5er/AirCard",
+    "description": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
+    "created_at": "2026-09-16T22:20:15Z",
+    "updated_at": "2026-09-24T21:04:42Z",
+    "pushed_at": "2026-09-22T21:44:37Z",
+    "git_url": "git://github.com/Mak5er/AirCard.git",
+    "homepage": null,
+    "size": 3414,
+    "stargazers_count": 3905,
+    "watchers_count": 3905,
+    "language": "Swift",
+    "forks_count": 174,
+    "open_issues_count": 34
+  },
+  {
+    "id": 1365350772,
+    "name": "reelbench-skills",
+    "owner": {
+      "id": 5795147,
+      "url": "https://api.github.com/users/eternityspring",
+      "html_url": "https://github.com/eternityspring",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5795147?v=4"
+    },
+    "html_url": "https://github.com/eternityspring/reelbench-skills",
+    "description": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
+    "created_at": "2026-09-11T04:55:49Z",
+    "updated_at": "2026-09-23T20:29:32Z",
+    "pushed_at": "2026-09-21T08:57:13Z",
+    "git_url": "git://github.com/eternityspring/reelbench-skills.git",
+    "homepage": "",
+    "size": 100659,
+    "stargazers_count": 824,
+    "watchers_count": 824,
+    "language": "JavaScript",
+    "forks_count": 99,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1382156557,
+    "name": "warrenduffer",
+    "owner": {
+      "id": 35337366,
+      "url": "https://api.github.com/users/arimanyus",
+      "html_url": "https://github.com/arimanyus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35337366?v=4"
+    },
+    "html_url": "https://github.com/arimanyus/warrenduffer",
+    "description": "AI-driven intraday trading bot for Indian stocks. Jev ranks the Nifty 50 every 15s; code sizes each trade and places the stop; orders go live through Zerodha Kite or Kotak Neo. Day replay, kill switch, daily loss halt, terminal dashboard.",
+    "created_at": "2026-09-22T18:38:48Z",
+    "updated_at": "2026-09-24T18:14:42Z",
+    "pushed_at": "2026-09-23T05:00:33Z",
+    "git_url": "git://github.com/arimanyus/warrenduffer.git",
+    "homepage": "",
+    "size": 142,
+    "stargazers_count": 89,
+    "watchers_count": 89,
+    "language": "TypeScript",
+    "forks_count": 26,
+    "open_issues_count": 0
   }
 ]
