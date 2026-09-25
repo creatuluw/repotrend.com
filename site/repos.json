@@ -79670,5 +79670,51 @@
     "language": "TypeScript",
     "forks_count": 26,
     "open_issues_count": 0
+  },
+  {
+    "id": 1347774635,
+    "name": "nordef-matrix-open-control",
+    "owner": {
+      "id": 175750073,
+      "url": "https://api.github.com/users/MORTEN-BUUR",
+      "html_url": "https://github.com/MORTEN-BUUR",
+      "avatar_url": "https://avatars.githubusercontent.com/u/175750073?v=4"
+    },
+    "html_url": "https://github.com/MORTEN-BUUR/nordef-matrix-open-control",
+    "description": "NORDEF Matrix Open Control: model-independent AI safety belt with 0/1/2 decisions, Ed25519 root gate, replay protection, evidence chain, and incident-pattern eval bank",
+    "created_at": "2026-08-26T20:33:31Z",
+    "updated_at": "2026-09-24T20:43:09Z",
+    "pushed_at": "2026-08-26T20:33:34Z",
+    "git_url": "git://github.com/MORTEN-BUUR/nordef-matrix-open-control.git",
+    "homepage": null,
+    "size": 21,
+    "stargazers_count": 625,
+    "watchers_count": 625,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1380683591,
+    "name": "jev-seo",
+    "owner": {
+      "id": 223140489,
+      "url": "https://api.github.com/users/AgriciDaniel",
+      "html_url": "https://github.com/AgriciDaniel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/223140489?v=4"
+    },
+    "html_url": "https://github.com/AgriciDaniel/jev-seo",
+    "description": "Live SEO audit for any website from one homepage URL, judged by Jev. PDF, XLSX and Markdown reports.",
+    "created_at": "2026-09-22T00:33:54Z",
+    "updated_at": "2026-09-24T20:38:28Z",
+    "pushed_at": "2026-09-22T00:45:41Z",
+    "git_url": "git://github.com/AgriciDaniel/jev-seo.git",
+    "homepage": "skool.com/ai-marketing-hub-pro",
+    "size": 6620,
+    "stargazers_count": 90,
+    "watchers_count": 90,
+    "language": "Python",
+    "forks_count": 24,
+    "open_issues_count": 0
   }
 ]
