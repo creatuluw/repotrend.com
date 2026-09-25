@@ -79831,5 +79831,51 @@
     "language": "Python",
     "forks_count": 16,
     "open_issues_count": 0
+  },
+  {
+    "id": 1376380844,
+    "name": "splash",
+    "owner": {
+      "id": 282140180,
+      "url": "https://api.github.com/users/incoai",
+      "html_url": "https://github.com/incoai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/282140180?v=4"
+    },
+    "html_url": "https://github.com/incoai/splash",
+    "description": "A local inference engine for Apple silicon, built around the model.",
+    "created_at": "2026-09-18T20:01:48Z",
+    "updated_at": "2026-09-23T21:14:26Z",
+    "pushed_at": "2026-09-23T08:57:30Z",
+    "git_url": "git://github.com/incoai/splash.git",
+    "homepage": "https://inco.ai/blog/splash/",
+    "size": 1950,
+    "stargazers_count": 680,
+    "watchers_count": 680,
+    "language": "Python",
+    "forks_count": 65,
+    "open_issues_count": 40
+  },
+  {
+    "id": 1383475390,
+    "name": "MathmoBench",
+    "owner": {
+      "id": 332076600,
+      "url": "https://api.github.com/users/Simreal-AI",
+      "html_url": "https://github.com/Simreal-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/332076600?v=4"
+    },
+    "html_url": "https://github.com/Simreal-AI/MathmoBench",
+    "description": "[Public preview] An advanced AI Benchmark for math, produced by mathmo at St John's College, Cambridge.",
+    "created_at": "2026-09-23T13:11:34Z",
+    "updated_at": "2026-09-25T15:50:17Z",
+    "pushed_at": "2026-09-24T18:06:55Z",
+    "git_url": "git://github.com/Simreal-AI/MathmoBench.git",
+    "homepage": "https://simreal.co",
+    "size": 61,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
