@@ -79923,5 +79923,51 @@
     "language": "Python",
     "forks_count": 6,
     "open_issues_count": 1
+  },
+  {
+    "id": 1367068508,
+    "name": "llm-master",
+    "owner": {
+      "id": 8636020,
+      "url": "https://api.github.com/users/youngyangyang04",
+      "html_url": "https://github.com/youngyangyang04",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8636020?v=4"
+    },
+    "html_url": "https://github.com/youngyangyang04/llm-master",
+    "description": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
+    "created_at": "2026-09-12T07:33:31Z",
+    "updated_at": "2026-09-26T03:35:06Z",
+    "pushed_at": "2026-09-19T08:45:46Z",
+    "git_url": "git://github.com/youngyangyang04/llm-master.git",
+    "homepage": "https://notes.kamacoder.com/llm/",
+    "size": 974,
+    "stargazers_count": 951,
+    "watchers_count": 951,
+    "language": null,
+    "forks_count": 93,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1383122868,
+    "name": "SteamOS-ARM-SM8550",
+    "owner": {
+      "id": 56441695,
+      "url": "https://api.github.com/users/MaSieS4Fun",
+      "html_url": "https://github.com/MaSieS4Fun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56441695?v=4"
+    },
+    "html_url": "https://github.com/MaSieS4Fun/SteamOS-ARM-SM8550",
+    "description": "Official SteamOS ARM version, custom-adapted for SM8550 ARM devices.",
+    "created_at": "2026-09-23T09:12:43Z",
+    "updated_at": "2026-09-26T00:53:23Z",
+    "pushed_at": "2026-09-23T18:48:11Z",
+    "git_url": "git://github.com/MaSieS4Fun/SteamOS-ARM-SM8550.git",
+    "homepage": null,
+    "size": 53158,
+    "stargazers_count": 85,
+    "watchers_count": 85,
+    "language": "Shell",
+    "forks_count": 3,
+    "open_issues_count": 2
   }
 ]
