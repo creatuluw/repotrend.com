@@ -79877,5 +79877,51 @@
     "language": "Python",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1364080668,
+    "name": "NxMem",
+    "owner": {
+      "id": 316969989,
+      "url": "https://api.github.com/users/NxcoreAI",
+      "html_url": "https://github.com/NxcoreAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/316969989?v=4"
+    },
+    "html_url": "https://github.com/NxcoreAI/NxMem",
+    "description": null,
+    "created_at": "2026-09-10T12:14:47Z",
+    "updated_at": "2026-09-23T16:54:39Z",
+    "pushed_at": "2026-09-22T13:20:01Z",
+    "git_url": "git://github.com/NxcoreAI/NxMem.git",
+    "homepage": null,
+    "size": 13336,
+    "stargazers_count": 944,
+    "watchers_count": 944,
+    "language": "TypeScript",
+    "forks_count": 107,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1378973913,
+    "name": "jev-dataops",
+    "owner": {
+      "id": 61531139,
+      "url": "https://api.github.com/users/RenaGao",
+      "html_url": "https://github.com/RenaGao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61531139?v=4"
+    },
+    "html_url": "https://github.com/RenaGao/jev-dataops",
+    "description": "An open-source JEV-powered workbench for streaming data selection, quality evaluation, automatic LoRA training and held-out model evaluation.",
+    "created_at": "2026-09-21T02:15:56Z",
+    "updated_at": "2026-09-24T19:53:30Z",
+    "pushed_at": "2026-09-23T14:08:32Z",
+    "git_url": "git://github.com/RenaGao/jev-dataops.git",
+    "homepage": "https://jev-dataops.vercel.app",
+    "size": 602,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 1
   }
 ]
