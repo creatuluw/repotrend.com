@@ -80291,5 +80291,74 @@
     "language": "GDScript",
     "forks_count": 11,
     "open_issues_count": 0
+  },
+  {
+    "id": 1326531152,
+    "name": "anti-slop",
+    "owner": {
+      "id": 226378907,
+      "url": "https://api.github.com/users/miqdadbadjuber",
+      "html_url": "https://github.com/miqdadbadjuber",
+      "avatar_url": "https://avatars.githubusercontent.com/u/226378907?v=4"
+    },
+    "html_url": "https://github.com/miqdadbadjuber/anti-slop",
+    "description": "Rules for an AI coding agent to filter out generic AI-generated UI designs, text, and code.",
+    "created_at": "2026-08-07T10:29:56Z",
+    "updated_at": "2026-09-27T11:30:47Z",
+    "pushed_at": "2026-09-26T06:41:34Z",
+    "git_url": "git://github.com/miqdadbadjuber/anti-slop.git",
+    "homepage": "",
+    "size": 3626,
+    "stargazers_count": 3843,
+    "watchers_count": 3843,
+    "language": "JavaScript",
+    "forks_count": 255,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1361079582,
+    "name": "learn-from-materials",
+    "owner": {
+      "id": 310900852,
+      "url": "https://api.github.com/users/dmoshehun-prog",
+      "html_url": "https://github.com/dmoshehun-prog",
+      "avatar_url": "https://avatars.githubusercontent.com/u/310900852?v=4"
+    },
+    "html_url": "https://github.com/dmoshehun-prog/learn-from-materials",
+    "description": "Turn PDFs, books and papers into interactive learning webpages｜将复杂材料转化为可追溯、可测验、可做笔记的学习网页",
+    "created_at": "2026-09-08T07:48:21Z",
+    "updated_at": "2026-09-27T11:19:45Z",
+    "pushed_at": "2026-09-21T04:52:44Z",
+    "git_url": "git://github.com/dmoshehun-prog/learn-from-materials.git",
+    "homepage": "",
+    "size": 4666,
+    "stargazers_count": 612,
+    "watchers_count": 612,
+    "language": "Python",
+    "forks_count": 59,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1383184578,
+    "name": "WechatVibe",
+    "owner": {
+      "id": 317504988,
+      "url": "https://api.github.com/users/tswawa",
+      "html_url": "https://github.com/tswawa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/317504988?v=4"
+    },
+    "html_url": "https://github.com/tswawa/WechatVibe",
+    "description": "基于Lana模型实现的微信聊天情感分析客户端，支持意图识别、情绪感知、人物画像、群聊画像、好感度分析和 MBTI 聊天推测",
+    "created_at": "2026-09-23T09:59:24Z",
+    "updated_at": "2026-09-26T17:35:19Z",
+    "pushed_at": "2026-09-26T11:23:36Z",
+    "git_url": "git://github.com/tswawa/WechatVibe.git",
+    "homepage": "",
+    "size": 2853,
+    "stargazers_count": 97,
+    "watchers_count": 97,
+    "language": "Python",
+    "forks_count": 14,
+    "open_issues_count": 1
   }
 ]
