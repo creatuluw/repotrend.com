@@ -80245,5 +80245,51 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1350713137,
+    "name": "zapfast",
+    "owner": {
+      "id": 106617,
+      "url": "https://api.github.com/users/crmne",
+      "html_url": "https://github.com/crmne",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106617?v=4"
+    },
+    "html_url": "https://github.com/crmne/zapfast",
+    "description": "ZapFast: a fast, native WhatsApp client in Rust and egui",
+    "created_at": "2026-08-29T15:52:40Z",
+    "updated_at": "2026-09-27T03:47:13Z",
+    "pushed_at": "2026-09-26T20:32:35Z",
+    "git_url": "git://github.com/crmne/zapfast.git",
+    "homepage": "https://zapfast.rocks",
+    "size": 38925,
+    "stargazers_count": 866,
+    "watchers_count": 866,
+    "language": "Rust",
+    "forks_count": 87,
+    "open_issues_count": 42
+  },
+  {
+    "id": 1383179780,
+    "name": "yipiantian",
+    "owner": {
+      "id": 84775360,
+      "url": "https://api.github.com/users/henjicc",
+      "html_url": "https://github.com/henjicc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84775360?v=4"
+    },
+    "html_url": "https://github.com/henjicc/yipiantian",
+    "description": null,
+    "created_at": "2026-09-23T09:55:35Z",
+    "updated_at": "2026-09-26T16:15:52Z",
+    "pushed_at": "2026-09-24T18:46:50Z",
+    "git_url": "git://github.com/henjicc/yipiantian.git",
+    "homepage": null,
+    "size": 6898,
+    "stargazers_count": 59,
+    "watchers_count": 59,
+    "language": "GDScript",
+    "forks_count": 11,
+    "open_issues_count": 0
   }
 ]
