@@ -80199,5 +80199,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 5
+  },
+  {
+    "id": 1348316078,
+    "name": "ALTA",
+    "owner": {
+      "id": 152370606,
+      "url": "https://api.github.com/users/kyky2347",
+      "html_url": "https://github.com/kyky2347",
+      "avatar_url": "https://avatars.githubusercontent.com/u/152370606?v=4"
+    },
+    "html_url": "https://github.com/kyky2347/ALTA",
+    "description": "Autonomous LLM Trading Asterism — a research-only multi-agent trading platform with evidence-first research, an auditable console, Shadow simulation and explicitly authorized broker execution.",
+    "created_at": "2026-08-27T09:42:45Z",
+    "updated_at": "2026-09-25T21:06:41Z",
+    "pushed_at": "2026-09-13T09:11:07Z",
+    "git_url": "git://github.com/kyky2347/ALTA.git",
+    "homepage": null,
+    "size": 24909,
+    "stargazers_count": 760,
+    "watchers_count": 760,
+    "language": "Python",
+    "forks_count": 90,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1385271151,
+    "name": "jevry",
+    "owner": {
+      "id": 146683265,
+      "url": "https://api.github.com/users/michaelswissa",
+      "html_url": "https://github.com/michaelswissa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/146683265?v=4"
+    },
+    "html_url": "https://github.com/michaelswissa/jevry",
+    "description": "Your browser. Ready to act. An MIT-licensed desktop browser agent for website tasks, cited research, and supported games.",
+    "created_at": "2026-09-24T10:44:35Z",
+    "updated_at": "2026-09-24T21:16:57Z",
+    "pushed_at": "2026-09-24T20:04:18Z",
+    "git_url": "git://github.com/michaelswissa/jevry.git",
+    "homepage": null,
+    "size": 21746,
+    "stargazers_count": 99,
+    "watchers_count": 99,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
