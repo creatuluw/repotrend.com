@@ -80153,5 +80153,51 @@
     "language": "Python",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1363438862,
+    "name": "stonkfly",
+    "owner": {
+      "id": 2530972,
+      "url": "https://api.github.com/users/nftechie",
+      "html_url": "https://github.com/nftechie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2530972?v=4"
+    },
+    "html_url": "https://github.com/nftechie/stonkfly",
+    "description": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
+    "created_at": "2026-09-10T02:40:30Z",
+    "updated_at": "2026-09-26T18:46:54Z",
+    "pushed_at": "2026-09-10T02:40:34Z",
+    "git_url": "git://github.com/nftechie/stonkfly.git",
+    "homepage": null,
+    "size": 1388,
+    "stargazers_count": 836,
+    "watchers_count": 836,
+    "language": "Python",
+    "forks_count": 153,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1386190011,
+    "name": "Qpro-Enhanced-FT-Wireless",
+    "owner": {
+      "id": 123058221,
+      "url": "https://api.github.com/users/Fwooffy",
+      "html_url": "https://github.com/Fwooffy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123058221?v=4"
+    },
+    "html_url": "https://github.com/Fwooffy/Qpro-Enhanced-FT-Wireless",
+    "description": "Enables tongue tracking and eye convergence on a rooted Quest Pro over wifi",
+    "created_at": "2026-09-24T18:51:08Z",
+    "updated_at": "2026-09-26T19:44:21Z",
+    "pushed_at": "2026-09-26T06:27:01Z",
+    "git_url": "git://github.com/Fwooffy/Qpro-Enhanced-FT-Wireless.git",
+    "homepage": null,
+    "size": 58277,
+    "stargazers_count": 59,
+    "watchers_count": 59,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 5
   }
 ]
