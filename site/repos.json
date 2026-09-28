@@ -80498,5 +80498,51 @@
     "language": "HTML",
     "forks_count": 17,
     "open_issues_count": 0
+  },
+  {
+    "id": 1378880709,
+    "name": "rizzo-flow",
+    "owner": {
+      "id": 217188291,
+      "url": "https://api.github.com/users/Rizzo-AI-Academy",
+      "html_url": "https://github.com/Rizzo-AI-Academy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217188291?v=4"
+    },
+    "html_url": "https://github.com/Rizzo-AI-Academy/rizzo-flow",
+    "description": "The open, local take on Jev: typed decisions from an LLM, without generating a single token",
+    "created_at": "2026-09-21T00:00:02Z",
+    "updated_at": "2026-09-27T20:37:23Z",
+    "pushed_at": "2026-09-25T21:15:27Z",
+    "git_url": "git://github.com/Rizzo-AI-Academy/rizzo-flow.git",
+    "homepage": "https://rizzo-ai-academy.github.io/rizzo-flow/",
+    "size": 5025,
+    "stargazers_count": 684,
+    "watchers_count": 684,
+    "language": "Python",
+    "forks_count": 41,
+    "open_issues_count": 10
+  },
+  {
+    "id": 1389880010,
+    "name": "claude-launchvideo",
+    "owner": {
+      "id": 219127460,
+      "url": "https://api.github.com/users/Leonxlnx",
+      "html_url": "https://github.com/Leonxlnx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219127460?v=4"
+    },
+    "html_url": "https://github.com/Leonxlnx/claude-launchvideo",
+    "description": null,
+    "created_at": "2026-09-26T23:38:01Z",
+    "updated_at": "2026-09-28T04:05:30Z",
+    "pushed_at": "2026-09-27T11:01:50Z",
+    "git_url": "git://github.com/Leonxlnx/claude-launchvideo.git",
+    "homepage": null,
+    "size": 116320,
+    "stargazers_count": 87,
+    "watchers_count": 87,
+    "language": "TypeScript",
+    "forks_count": 8,
+    "open_issues_count": 0
   }
 ]
