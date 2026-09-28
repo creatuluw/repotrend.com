@@ -80452,5 +80452,51 @@
     "language": "JavaScript",
     "forks_count": 11,
     "open_issues_count": 0
+  },
+  {
+    "id": 1382888848,
+    "name": "claude-opus-5-5-demo",
+    "owner": {
+      "id": 26398978,
+      "url": "https://api.github.com/users/riba2534",
+      "html_url": "https://github.com/riba2534",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26398978?v=4"
+    },
+    "html_url": "https://github.com/riba2534/claude-opus-5-5-demo",
+    "description": "claude-opus-5-5-demo",
+    "created_at": "2026-09-23T06:31:00Z",
+    "updated_at": "2026-09-27T16:40:32Z",
+    "pushed_at": "2026-09-23T07:54:16Z",
+    "git_url": "git://github.com/riba2534/claude-opus-5-5-demo.git",
+    "homepage": null,
+    "size": 291,
+    "stargazers_count": 821,
+    "watchers_count": 821,
+    "language": "JavaScript",
+    "forks_count": 119,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1384482135,
+    "name": "mountain-flood-uav-optimization",
+    "owner": {
+      "id": 108323704,
+      "url": "https://api.github.com/users/Akun-python",
+      "html_url": "https://github.com/Akun-python",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108323704?v=4"
+    },
+    "html_url": "https://github.com/Akun-python/mountain-flood-uav-optimization",
+    "description": "开源免费，不断迭代更新！",
+    "created_at": "2026-09-24T02:34:21Z",
+    "updated_at": "2026-09-25T19:58:58Z",
+    "pushed_at": "2026-09-25T13:58:21Z",
+    "git_url": "git://github.com/Akun-python/mountain-flood-uav-optimization.git",
+    "homepage": null,
+    "size": 128477,
+    "stargazers_count": 91,
+    "watchers_count": 91,
+    "language": "HTML",
+    "forks_count": 17,
+    "open_issues_count": 0
   }
 ]
