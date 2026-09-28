@@ -80406,5 +80406,51 @@
     "language": "Shell",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1369171633,
+    "name": "kvmem-llama.cpp",
+    "owner": {
+      "id": 293385021,
+      "url": "https://api.github.com/users/kvmem",
+      "html_url": "https://github.com/kvmem",
+      "avatar_url": "https://avatars.githubusercontent.com/u/293385021?v=4"
+    },
+    "html_url": "https://github.com/kvmem/kvmem-llama.cpp",
+    "description": null,
+    "created_at": "2026-09-14T02:40:26Z",
+    "updated_at": "2026-09-27T20:02:07Z",
+    "pushed_at": "2026-09-27T07:45:16Z",
+    "git_url": "git://github.com/kvmem/kvmem-llama.cpp.git",
+    "homepage": null,
+    "size": 1409,
+    "stargazers_count": 676,
+    "watchers_count": 676,
+    "language": "C++",
+    "forks_count": 64,
+    "open_issues_count": 32
+  },
+  {
+    "id": 1386525398,
+    "name": "sakuragaoka-station",
+    "owner": {
+      "id": 310775475,
+      "url": "https://api.github.com/users/Kenton-GMI",
+      "html_url": "https://github.com/Kenton-GMI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/310775475?v=4"
+    },
+    "html_url": "https://github.com/Kenton-GMI/sakuragaoka-station",
+    "description": "A walkable first-person anime cel-shaded Japanese sakura station town, fully procedural in plain three.js",
+    "created_at": "2026-09-25T00:34:43Z",
+    "updated_at": "2026-09-27T18:46:23Z",
+    "pushed_at": "2026-09-25T00:39:08Z",
+    "git_url": "git://github.com/Kenton-GMI/sakuragaoka-station.git",
+    "homepage": "",
+    "size": 3604,
+    "stargazers_count": 67,
+    "watchers_count": 67,
+    "language": "JavaScript",
+    "forks_count": 11,
+    "open_issues_count": 0
   }
 ]
