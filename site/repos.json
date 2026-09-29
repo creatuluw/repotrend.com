@@ -80613,5 +80613,51 @@
     "language": "C#",
     "forks_count": 17,
     "open_issues_count": 1
+  },
+  {
+    "id": 1358459341,
+    "name": "real-api-pricing",
+    "owner": {
+      "id": 279467036,
+      "url": "https://api.github.com/users/FeiZhuLulu",
+      "html_url": "https://github.com/FeiZhuLulu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279467036?v=4"
+    },
+    "html_url": "https://github.com/FeiZhuLulu/real-api-pricing",
+    "description": "真实 API 定价：订阅月费 ÷ 实际可用 token，含额度、单价与分榜帕累托图。Real API pricing: subscription fee ÷ usable tokens, with allowance, unit-price, and leaderboard Pareto charts.",
+    "created_at": "2026-09-05T18:29:18Z",
+    "updated_at": "2026-09-27T20:49:26Z",
+    "pushed_at": "2026-09-27T13:43:27Z",
+    "git_url": "git://github.com/FeiZhuLulu/real-api-pricing.git",
+    "homepage": "https://real-api-pricing.vercel.app",
+    "size": 1053168,
+    "stargazers_count": 589,
+    "watchers_count": 589,
+    "language": "HTML",
+    "forks_count": 22,
+    "open_issues_count": 30
+  },
+  {
+    "id": 1386161878,
+    "name": "grokimagine2.0-grok-imagine-2.0-api-ko",
+    "owner": {
+      "id": 333311078,
+      "url": "https://api.github.com/users/rnzpezzb4ffdis0h",
+      "html_url": "https://github.com/rnzpezzb4ffdis0h",
+      "avatar_url": "https://avatars.githubusercontent.com/u/333311078?v=4"
+    },
+    "html_url": "https://github.com/rnzpezzb4ffdis0h/grokimagine2.0-grok-imagine-2.0-api-ko",
+    "description": "AI API 중계·게이트웨이 한국어 가이드 · grok-imagine-2.0 / grokimagine2.0 API：upload-image $0; default $0.015; region-edit $0.015。模型 ID、参数、curl 与 Python 示例，OpenAI 兼容接口，$1 起充。",
+    "created_at": "2026-09-24T18:33:40Z",
+    "updated_at": "2026-09-27T04:17:29Z",
+    "pushed_at": "2026-09-24T20:27:56Z",
+    "git_url": "git://github.com/rnzpezzb4ffdis0h/grokimagine2.0-grok-imagine-2.0-api-ko.git",
+    "homepage": "https://go.apimart.ai/k-b3541d",
+    "size": 6,
+    "stargazers_count": 56,
+    "watchers_count": 56,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
