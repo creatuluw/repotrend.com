@@ -81004,5 +81004,74 @@
     "language": "Python",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1375997079,
+    "name": "how-to-live-better",
+    "owner": {
+      "id": 11661030,
+      "url": "https://api.github.com/users/cdyforever",
+      "html_url": "https://github.com/cdyforever",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11661030?v=4"
+    },
+    "html_url": "https://github.com/cdyforever/how-to-live-better",
+    "description": "《高性价比人生指南》全书 528 条的在线单页阅读版：手机可读、可搜索、零依赖、支持离线",
+    "created_at": "2026-09-18T14:35:08Z",
+    "updated_at": "2026-09-29T21:46:06Z",
+    "pushed_at": "2026-09-29T01:20:02Z",
+    "git_url": "git://github.com/cdyforever/how-to-live-better.git",
+    "homepage": null,
+    "size": 3539,
+    "stargazers_count": 4871,
+    "watchers_count": 4871,
+    "language": "HTML",
+    "forks_count": 320,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1372665897,
+    "name": "decider",
+    "owner": {
+      "id": 47504066,
+      "url": "https://api.github.com/users/Mapika",
+      "html_url": "https://github.com/Mapika",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47504066?v=4"
+    },
+    "html_url": "https://github.com/Mapika/decider",
+    "description": "A family of System One-style models fine-tuned from Qwen3.5, designed for one-pass typed decisions with calibrated probabilities.",
+    "created_at": "2026-09-16T07:15:09Z",
+    "updated_at": "2026-09-29T21:54:52Z",
+    "pushed_at": "2026-09-29T21:54:47Z",
+    "git_url": "git://github.com/Mapika/decider.git",
+    "homepage": "",
+    "size": 29778,
+    "stargazers_count": 917,
+    "watchers_count": 917,
+    "language": "Python",
+    "forks_count": 44,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1394589800,
+    "name": "one-prompt-video-skills",
+    "owner": {
+      "id": 60601002,
+      "url": "https://api.github.com/users/huangbai-AI",
+      "html_url": "https://github.com/huangbai-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60601002?v=4"
+    },
+    "html_url": "https://github.com/huangbai-AI/one-prompt-video-skills",
+    "description": "一句话生成完整口播视频：写稿、口播数字人、B-roll、HyperFrames 合成、抽帧检查的 Claude Code Skills",
+    "created_at": "2026-09-29T07:09:37Z",
+    "updated_at": "2026-09-30T11:23:31Z",
+    "pushed_at": "2026-09-29T07:09:44Z",
+    "git_url": "git://github.com/huangbai-AI/one-prompt-video-skills.git",
+    "homepage": null,
+    "size": 107,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "JavaScript",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
