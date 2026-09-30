@@ -80889,5 +80889,74 @@
     "language": "Python",
     "forks_count": 144,
     "open_issues_count": 0
+  },
+  {
+    "id": 1346970181,
+    "name": "open-higgsfield",
+    "owner": {
+      "id": 321257738,
+      "url": "https://api.github.com/users/wide-trace",
+      "html_url": "https://github.com/wide-trace",
+      "avatar_url": "https://avatars.githubusercontent.com/u/321257738?v=4"
+    },
+    "html_url": "https://github.com/wide-trace/open-higgsfield",
+    "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
+    "created_at": "2026-08-26T06:09:58Z",
+    "updated_at": "2026-09-29T21:58:31Z",
+    "pushed_at": "2026-09-17T01:53:26Z",
+    "git_url": "git://github.com/wide-trace/open-higgsfield.git",
+    "homepage": "https://openhiggsfield.ai",
+    "size": 469,
+    "stargazers_count": 3865,
+    "watchers_count": 3865,
+    "language": "TypeScript",
+    "forks_count": 873,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1367091450,
+    "name": "awesome-fly",
+    "owner": {
+      "id": 29142615,
+      "url": "https://api.github.com/users/cobanov",
+      "html_url": "https://github.com/cobanov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29142615?v=4"
+    },
+    "html_url": "https://github.com/cobanov/awesome-fly",
+    "description": "A curated list of fruit fly connectome projects: MaleCNS, FlyWire, brain simulations, embodied models, games, and research tools.",
+    "created_at": "2026-09-12T08:08:00Z",
+    "updated_at": "2026-09-29T18:59:02Z",
+    "pushed_at": "2026-09-20T08:25:52Z",
+    "git_url": "git://github.com/cobanov/awesome-fly.git",
+    "homepage": null,
+    "size": 120,
+    "stargazers_count": 631,
+    "watchers_count": 631,
+    "language": null,
+    "forks_count": 54,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1388724753,
+    "name": "websitegenerator",
+    "owner": {
+      "id": 182107513,
+      "url": "https://api.github.com/users/albertshiney",
+      "html_url": "https://github.com/albertshiney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/182107513?v=4"
+    },
+    "html_url": "https://github.com/albertshiney/websitegenerator",
+    "description": null,
+    "created_at": "2026-09-26T06:55:12Z",
+    "updated_at": "2026-09-29T16:19:23Z",
+    "pushed_at": "2026-09-26T07:49:48Z",
+    "git_url": "git://github.com/albertshiney/websitegenerator.git",
+    "homepage": null,
+    "size": 3060,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": "JavaScript",
+    "forks_count": 11,
+    "open_issues_count": 0
   }
 ]
