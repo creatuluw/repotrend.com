@@ -80958,5 +80958,51 @@
     "language": "JavaScript",
     "forks_count": 11,
     "open_issues_count": 0
+  },
+  {
+    "id": 1381356320,
+    "name": "anidoodle",
+    "owner": {
+      "id": 210140430,
+      "url": "https://api.github.com/users/alexgreensh",
+      "html_url": "https://github.com/alexgreensh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210140430?v=4"
+    },
+    "html_url": "https://github.com/alexgreensh/anidoodle",
+    "description": "Art and animation, written as code. Illustrations, loops, interactive web art, launch-videos and scored films in dozens of styles, identical on every render.",
+    "created_at": "2026-09-22T11:20:47Z",
+    "updated_at": "2026-09-30T11:06:59Z",
+    "pushed_at": "2026-09-28T12:21:12Z",
+    "git_url": "git://github.com/alexgreensh/anidoodle.git",
+    "homepage": "https://alexgreenshpun.com",
+    "size": 44078,
+    "stargazers_count": 710,
+    "watchers_count": 710,
+    "language": "TypeScript",
+    "forks_count": 55,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1391903696,
+    "name": "aztree",
+    "owner": {
+      "id": 578450,
+      "url": "https://api.github.com/users/milanm",
+      "html_url": "https://github.com/milanm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/578450?v=4"
+    },
+    "html_url": "https://github.com/milanm/aztree",
+    "description": "Understand Azure billing",
+    "created_at": "2026-09-28T05:36:15Z",
+    "updated_at": "2026-09-30T11:14:14Z",
+    "pushed_at": "2026-09-30T11:14:10Z",
+    "git_url": "git://github.com/milanm/aztree.git",
+    "homepage": "https://milanm.github.io/aztree/",
+    "size": 5661,
+    "stargazers_count": 84,
+    "watchers_count": 84,
+    "language": "Python",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
