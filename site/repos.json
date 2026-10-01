@@ -81119,5 +81119,51 @@
     "language": "C++",
     "forks_count": 11,
     "open_issues_count": 0
+  },
+  {
+    "id": 1385817306,
+    "name": "DiPlay",
+    "owner": {
+      "id": 42039842,
+      "url": "https://api.github.com/users/shihabal3amri",
+      "html_url": "https://github.com/shihabal3amri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42039842?v=4"
+    },
+    "html_url": "https://github.com/shihabal3amri/DiPlay",
+    "description": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
+    "created_at": "2026-09-24T15:36:38Z",
+    "updated_at": "2026-09-29T21:58:43Z",
+    "pushed_at": "2026-09-29T17:19:12Z",
+    "git_url": "git://github.com/shihabal3amri/DiPlay.git",
+    "homepage": "https://shihabal3amri.github.io/DiPlay/",
+    "size": 4366,
+    "stargazers_count": 914,
+    "watchers_count": 914,
+    "language": "Kotlin",
+    "forks_count": 157,
+    "open_issues_count": 31
+  },
+  {
+    "id": 1396403260,
+    "name": "museai",
+    "owner": {
+      "id": 162569728,
+      "url": "https://api.github.com/users/d4ncboz",
+      "html_url": "https://github.com/d4ncboz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/162569728?v=4"
+    },
+    "html_url": "https://github.com/d4ncboz/museai",
+    "description": "High-performance OpenAI-compatible API gateway and bridge for muse.ai personal AI agents, ready for 9Router multi-model integration.",
+    "created_at": "2026-09-29T18:59:57Z",
+    "updated_at": "2026-09-30T19:41:49Z",
+    "pushed_at": "2026-09-29T19:12:14Z",
+    "git_url": "git://github.com/d4ncboz/museai.git",
+    "homepage": null,
+    "size": 66,
+    "stargazers_count": 90,
+    "watchers_count": 90,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 0
   }
 ]
