@@ -81165,5 +81165,74 @@
     "language": "Python",
     "forks_count": 6,
     "open_issues_count": 0
+  },
+  {
+    "id": 1393965829,
+    "name": "AIHOT",
+    "owner": {
+      "id": 239590580,
+      "url": "https://api.github.com/users/KKKKhazix",
+      "html_url": "https://github.com/KKKKhazix",
+      "avatar_url": "https://avatars.githubusercontent.com/u/239590580?v=4"
+    },
+    "html_url": "https://github.com/KKKKhazix/AIHOT",
+    "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+    "created_at": "2026-09-28T23:40:05Z",
+    "updated_at": "2026-09-30T21:49:17Z",
+    "pushed_at": "2026-09-30T13:41:03Z",
+    "git_url": "git://github.com/KKKKhazix/AIHOT.git",
+    "homepage": "https://aihot.news",
+    "size": 8447,
+    "stargazers_count": 4050,
+    "watchers_count": 4050,
+    "language": "TypeScript",
+    "forks_count": 1158,
+    "open_issues_count": 17
+  },
+  {
+    "id": 1355580513,
+    "name": "DSH-X",
+    "owner": {
+      "id": 52917381,
+      "url": "https://api.github.com/users/yyh-001",
+      "html_url": "https://github.com/yyh-001",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52917381?v=4"
+    },
+    "html_url": "https://github.com/yyh-001/DSH-X",
+    "description": "DeepSeek Harness 轻量启动器。选一个版本，启动 DSH web。A lightweight launcher for DeepSeek Harness. Pick a version, start DSH web.",
+    "created_at": "2026-09-03T06:07:15Z",
+    "updated_at": "2026-10-01T02:58:23Z",
+    "pushed_at": "2026-09-30T11:00:23Z",
+    "git_url": "git://github.com/yyh-001/DSH-X.git",
+    "homepage": "https://yyh-001.github.io/DSH-X/",
+    "size": 46402,
+    "stargazers_count": 611,
+    "watchers_count": 611,
+    "language": "JavaScript",
+    "forks_count": 18,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1390584057,
+    "name": "adeskills",
+    "owner": {
+      "id": 296433053,
+      "url": "https://api.github.com/users/Adversarial-Detection-Engineering",
+      "html_url": "https://github.com/Adversarial-Detection-Engineering",
+      "avatar_url": "https://avatars.githubusercontent.com/u/296433053?v=4"
+    },
+    "html_url": "https://github.com/Adversarial-Detection-Engineering/adeskills",
+    "description": "Adversarial Detection Engineering knowledge base — ADE taxonomy, worked technique files, platform bug patterns, mitigations, and purple-team scoping tooling.",
+    "created_at": "2026-09-27T09:48:39Z",
+    "updated_at": "2026-09-30T14:21:34Z",
+    "pushed_at": "2026-09-30T14:20:33Z",
+    "git_url": "git://github.com/Adversarial-Detection-Engineering/adeskills.git",
+    "homepage": null,
+    "size": 1137,
+    "stargazers_count": 69,
+    "watchers_count": 69,
+    "language": null,
+    "forks_count": 8,
+    "open_issues_count": 0
   }
 ]
