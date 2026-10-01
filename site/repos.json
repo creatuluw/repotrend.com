@@ -81073,5 +81073,51 @@
     "language": "JavaScript",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1375482713,
+    "name": "awesome-jev-projects",
+    "owner": {
+      "id": 34853455,
+      "url": "https://api.github.com/users/logicrw",
+      "html_url": "https://github.com/logicrw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34853455?v=4"
+    },
+    "html_url": "https://github.com/logicrw/awesome-jev-projects",
+    "description": "Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
+    "created_at": "2026-09-18T06:41:50Z",
+    "updated_at": "2026-09-30T20:34:20Z",
+    "pushed_at": "2026-09-30T08:12:13Z",
+    "git_url": "git://github.com/logicrw/awesome-jev-projects.git",
+    "homepage": "https://logicrw.github.io/awesome-jev-projects/",
+    "size": 16909,
+    "stargazers_count": 636,
+    "watchers_count": 636,
+    "language": "JavaScript",
+    "forks_count": 56,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1395798363,
+    "name": "CHOMPI",
+    "owner": {
+      "id": 107282329,
+      "url": "https://api.github.com/users/CHOMPI-Club",
+      "html_url": "https://github.com/CHOMPI-Club",
+      "avatar_url": "https://avatars.githubusercontent.com/u/107282329?v=4"
+    },
+    "html_url": "https://github.com/CHOMPI-Club/CHOMPI",
+    "description": "All of the production files, hardware and firmware, that make up the CHOMPI Sampler.",
+    "created_at": "2026-09-29T15:39:36Z",
+    "updated_at": "2026-09-30T21:57:40Z",
+    "pushed_at": "2026-09-29T15:40:48Z",
+    "git_url": "git://github.com/CHOMPI-Club/CHOMPI.git",
+    "homepage": null,
+    "size": 166370,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": "C++",
+    "forks_count": 11,
+    "open_issues_count": 0
   }
 ]
