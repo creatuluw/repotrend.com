@@ -81372,5 +81372,74 @@
     "language": "Python",
     "forks_count": 7,
     "open_issues_count": 0
+  },
+  {
+    "id": 1301657572,
+    "name": "treg",
+    "owner": {
+      "id": 217153862,
+      "url": "https://api.github.com/users/superdesigndev",
+      "html_url": "https://github.com/superdesigndev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217153862?v=4"
+    },
+    "html_url": "https://github.com/superdesigndev/treg",
+    "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+    "created_at": "2026-07-15T13:38:07Z",
+    "updated_at": "2026-09-30T21:52:39Z",
+    "pushed_at": "2026-09-30T21:57:43Z",
+    "git_url": "git://github.com/superdesigndev/treg.git",
+    "homepage": "https://treg.to",
+    "size": 87744,
+    "stargazers_count": 3934,
+    "watchers_count": 3934,
+    "language": "Python",
+    "forks_count": 324,
+    "open_issues_count": 99
+  },
+  {
+    "id": 1378958030,
+    "name": "JevRev",
+    "owner": {
+      "id": 237943795,
+      "url": "https://api.github.com/users/Alex314618-create",
+      "html_url": "https://github.com/Alex314618-create",
+      "avatar_url": "https://avatars.githubusercontent.com/u/237943795?v=4"
+    },
+    "html_url": "https://github.com/Alex314618-create/JevRev",
+    "description": "An LLM + Jev workflow that changes EVERYTHING. Boost your vertebrate brain with a spine inside. ",
+    "created_at": "2026-09-21T01:53:13Z",
+    "updated_at": "2026-09-30T18:08:54Z",
+    "pushed_at": "2026-09-29T01:33:12Z",
+    "git_url": "git://github.com/Alex314618-create/JevRev.git",
+    "homepage": "",
+    "size": 11531,
+    "stargazers_count": 700,
+    "watchers_count": 700,
+    "language": "TypeScript",
+    "forks_count": 29,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1391610195,
+    "name": "HV",
+    "owner": {
+      "id": 333290737,
+      "url": "https://api.github.com/users/elmdodnirbrimoj9390-blip",
+      "html_url": "https://github.com/elmdodnirbrimoj9390-blip",
+      "avatar_url": "https://avatars.githubusercontent.com/u/333290737?v=4"
+    },
+    "html_url": "https://github.com/elmdodnirbrimoj9390-blip/HV",
+    "description": null,
+    "created_at": "2026-09-28T02:19:06Z",
+    "updated_at": "2026-09-29T21:44:28Z",
+    "pushed_at": "2026-09-28T02:36:14Z",
+    "git_url": "git://github.com/elmdodnirbrimoj9390-blip/HV.git",
+    "homepage": null,
+    "size": 10518,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
