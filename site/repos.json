@@ -81510,5 +81510,74 @@
     "language": "JavaScript",
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1331261687,
+    "name": "OpenMausBot",
+    "owner": {
+      "id": 46266943,
+      "url": "https://api.github.com/users/milind-soni",
+      "html_url": "https://github.com/milind-soni",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46266943?v=4"
+    },
+    "html_url": "https://github.com/milind-soni/OpenMausBot",
+    "description": "Open Source Alternative to Grok Bot with a virtual machine that bots can use",
+    "created_at": "2026-08-11T18:58:55Z",
+    "updated_at": "2026-10-02T12:06:23Z",
+    "pushed_at": "2026-10-02T12:03:51Z",
+    "git_url": "git://github.com/milind-soni/OpenMausBot.git",
+    "homepage": "https://www.openmausbot.com/",
+    "size": 159414,
+    "stargazers_count": 3935,
+    "watchers_count": 3935,
+    "language": "TypeScript",
+    "forks_count": 671,
+    "open_issues_count": 335
+  },
+  {
+    "id": 1363399964,
+    "name": "3dviz-pro-max",
+    "owner": {
+      "id": 3197896,
+      "url": "https://api.github.com/users/viettranx",
+      "html_url": "https://github.com/viettranx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3197896?v=4"
+    },
+    "html_url": "https://github.com/viettranx/3dviz-pro-max",
+    "description": "Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
+    "created_at": "2026-09-10T01:42:59Z",
+    "updated_at": "2026-10-01T21:06:24Z",
+    "pushed_at": "2026-09-11T01:01:12Z",
+    "git_url": "git://github.com/viettranx/3dviz-pro-max.git",
+    "homepage": "https://3dviz.dev",
+    "size": 71449,
+    "stargazers_count": 621,
+    "watchers_count": 621,
+    "language": "JavaScript",
+    "forks_count": 82,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1397848182,
+    "name": "Administracion-fuentes-publicas",
+    "owner": {
+      "id": 122722084,
+      "url": "https://api.github.com/users/BquantFinance",
+      "html_url": "https://github.com/BquantFinance",
+      "avatar_url": "https://avatars.githubusercontent.com/u/122722084?v=4"
+    },
+    "html_url": "https://github.com/BquantFinance/Administracion-fuentes-publicas",
+    "description": null,
+    "created_at": "2026-09-30T12:18:56Z",
+    "updated_at": "2026-10-02T12:05:40Z",
+    "pushed_at": "2026-10-01T19:47:47Z",
+    "git_url": "git://github.com/BquantFinance/Administracion-fuentes-publicas.git",
+    "homepage": null,
+    "size": 9302,
+    "stargazers_count": 87,
+    "watchers_count": 87,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 6
   }
 ]
