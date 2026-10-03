@@ -81947,5 +81947,51 @@
     "language": "JavaScript",
     "forks_count": 84,
     "open_issues_count": 0
+  },
+  {
+    "id": 1360496175,
+    "name": "spoti.pw",
+    "owner": {
+      "id": 39000132,
+      "url": "https://api.github.com/users/skopevoj",
+      "html_url": "https://github.com/skopevoj",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39000132?v=4"
+    },
+    "html_url": "https://github.com/skopevoj/spoti.pw",
+    "description": "Liquid Glass UI for the Spotify iOS app, no jailbreak",
+    "created_at": "2026-09-07T17:27:05Z",
+    "updated_at": "2026-10-03T13:07:15Z",
+    "pushed_at": "2026-10-02T12:38:29Z",
+    "git_url": "git://github.com/skopevoj/spoti.pw.git",
+    "homepage": "https://spoti.pw",
+    "size": 7208,
+    "stargazers_count": 636,
+    "watchers_count": 636,
+    "language": "Objective-C",
+    "forks_count": 3902,
+    "open_issues_count": 68
+  },
+  {
+    "id": 1396853763,
+    "name": "Hyperliquid-Leaderboard-Analytics",
+    "owner": {
+      "id": 309157800,
+      "url": "https://api.github.com/users/Barbarakarlsson",
+      "html_url": "https://github.com/Barbarakarlsson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/309157800?v=4"
+    },
+    "html_url": "https://github.com/Barbarakarlsson/Hyperliquid-Leaderboard-Analytics",
+    "description": "Hyperliquid analytics right in your terminal. Track top traders by PnL, ROI, and account value, monitor ranking changes over time, and identify consistently profitable wallets while separating them from one-hit wonders.  Powered by Hyperliquid’s public, read-only info API. Unofficial community project, not affiliated with Hyperliquid.",
+    "created_at": "2026-09-30T02:35:45Z",
+    "updated_at": "2026-10-02T21:54:20Z",
+    "pushed_at": "2026-10-02T21:54:16Z",
+    "git_url": "git://github.com/Barbarakarlsson/Hyperliquid-Leaderboard-Analytics.git",
+    "homepage": "",
+    "size": 13637,
+    "stargazers_count": 60,
+    "watchers_count": 60,
+    "language": "Python",
+    "forks_count": 9,
+    "open_issues_count": 0
   }
 ]
