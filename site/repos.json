@@ -81809,5 +81809,74 @@
     "language": "C++",
     "forks_count": 6,
     "open_issues_count": 0
+  },
+  {
+    "id": 1314048518,
+    "name": "srt-whiteboard-animation",
+    "owner": {
+      "id": 3733996,
+      "url": "https://api.github.com/users/geeklee",
+      "html_url": "https://github.com/geeklee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3733996?v=4"
+    },
+    "html_url": "https://github.com/geeklee/srt-whiteboard-animation",
+    "description": "将 SRT 字幕做成暖米黄纸张底的流式笔迹白板手绘动画 skill：mask 分区遮罩编排 + stream 连续笔迹（ink→color）。",
+    "created_at": "2026-07-27T16:22:49Z",
+    "updated_at": "2026-10-03T11:12:49Z",
+    "pushed_at": "2026-07-27T16:24:52Z",
+    "git_url": "git://github.com/geeklee/srt-whiteboard-animation.git",
+    "homepage": null,
+    "size": 12316,
+    "stargazers_count": 3942,
+    "watchers_count": 3942,
+    "language": "Python",
+    "forks_count": 635,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1358633852,
+    "name": "macos-sysdata",
+    "owner": {
+      "id": 159762123,
+      "url": "https://api.github.com/users/Jarvis322",
+      "html_url": "https://github.com/Jarvis322",
+      "avatar_url": "https://avatars.githubusercontent.com/u/159762123?v=4"
+    },
+    "html_url": "https://github.com/Jarvis322/macos-sysdata",
+    "description": "See what is really inside macOS System Data and delete it item by item. A free menu bar app that explains every category and shows each command before it runs.",
+    "created_at": "2026-09-05T23:29:13Z",
+    "updated_at": "2026-10-01T18:03:19Z",
+    "pushed_at": "2026-09-28T10:55:01Z",
+    "git_url": "git://github.com/Jarvis322/macos-sysdata.git",
+    "homepage": "https://macos-sysdata.yigitech.dev",
+    "size": 3394,
+    "stargazers_count": 875,
+    "watchers_count": 875,
+    "language": "Swift",
+    "forks_count": 38,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1393862161,
+    "name": "Wind-Waker-Recomp",
+    "owner": {
+      "id": 25666454,
+      "url": "https://api.github.com/users/elliotttate",
+      "html_url": "https://github.com/elliotttate",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25666454?v=4"
+    },
+    "html_url": "https://github.com/elliotttate/Wind-Waker-Recomp",
+    "description": "Personal source fork of BlueWake for The Wind Waker on iPhone and iPad",
+    "created_at": "2026-09-28T21:28:48Z",
+    "updated_at": "2026-09-30T21:50:13Z",
+    "pushed_at": "2026-09-30T18:17:25Z",
+    "git_url": "git://github.com/elliotttate/Wind-Waker-Recomp.git",
+    "homepage": null,
+    "size": 6540,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "C",
+    "forks_count": 2,
+    "open_issues_count": 3
   }
 ]
