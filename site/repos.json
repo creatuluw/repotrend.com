@@ -81694,5 +81694,51 @@
     "language": "JavaScript",
     "forks_count": 16,
     "open_issues_count": 0
+  },
+  {
+    "id": 1356737807,
+    "name": "sell-sessions-skill",
+    "owner": {
+      "id": 236538330,
+      "url": "https://api.github.com/users/cookiy-ai",
+      "html_url": "https://github.com/cookiy-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/236538330?v=4"
+    },
+    "html_url": "https://github.com/cookiy-ai/sell-sessions-skill",
+    "description": null,
+    "created_at": "2026-09-04T05:37:34Z",
+    "updated_at": "2026-10-01T21:44:07Z",
+    "pushed_at": "2026-09-17T02:18:33Z",
+    "git_url": "git://github.com/cookiy-ai/sell-sessions-skill.git",
+    "homepage": null,
+    "size": 2360,
+    "stargazers_count": 825,
+    "watchers_count": 825,
+    "language": null,
+    "forks_count": 68,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1395765039,
+    "name": "nfsmw-android",
+    "owner": {
+      "id": 251194930,
+      "url": "https://api.github.com/users/codepdbh",
+      "html_url": "https://github.com/codepdbh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251194930?v=4"
+    },
+    "html_url": "https://github.com/codepdbh/nfsmw-android",
+    "description": null,
+    "created_at": "2026-09-29T15:29:54Z",
+    "updated_at": "2026-10-01T22:15:41Z",
+    "pushed_at": "2026-10-01T14:18:35Z",
+    "git_url": "git://github.com/codepdbh/nfsmw-android.git",
+    "homepage": null,
+    "size": 13928,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "C",
+    "forks_count": 3,
+    "open_issues_count": 53
   }
 ]
