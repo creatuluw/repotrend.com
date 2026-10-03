@@ -81740,5 +81740,74 @@
     "language": "C",
     "forks_count": 3,
     "open_issues_count": 53
+  },
+  {
+    "id": 1329849289,
+    "name": "moli",
+    "owner": {
+      "id": 231927209,
+      "url": "https://api.github.com/users/lexmount",
+      "html_url": "https://github.com/lexmount",
+      "avatar_url": "https://avatars.githubusercontent.com/u/231927209?v=4"
+    },
+    "html_url": "https://github.com/lexmount/moli",
+    "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
+    "created_at": "2026-08-10T13:20:30Z",
+    "updated_at": "2026-10-02T21:59:17Z",
+    "pushed_at": "2026-10-02T21:55:08Z",
+    "git_url": "git://github.com/lexmount/moli.git",
+    "homepage": "https://browser.lexmount.com",
+    "size": 83825,
+    "stargazers_count": 4381,
+    "watchers_count": 4381,
+    "language": "Rust",
+    "forks_count": 199,
+    "open_issues_count": 228
+  },
+  {
+    "id": 1372455596,
+    "name": "csapp-zh-markdown",
+    "owner": {
+      "id": 153619785,
+      "url": "https://api.github.com/users/SunnyMaria",
+      "html_url": "https://github.com/SunnyMaria",
+      "avatar_url": "https://avatars.githubusercontent.com/u/153619785?v=4"
+    },
+    "html_url": "https://github.com/SunnyMaria/csapp-zh-markdown",
+    "description": "CSAPP 中文文档与学习资料：《深入理解计算机系统》第三版全章节 Markdown，含练习题答案、八大实验中文翻译及官方自学实验包，方便在线阅读与离线学习。",
+    "created_at": "2026-09-16T03:17:00Z",
+    "updated_at": "2026-10-02T21:14:02Z",
+    "pushed_at": "2026-09-30T02:00:05Z",
+    "git_url": "git://github.com/SunnyMaria/csapp-zh-markdown.git",
+    "homepage": "",
+    "size": 45832,
+    "stargazers_count": 658,
+    "watchers_count": 658,
+    "language": "Python",
+    "forks_count": 73,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1400877599,
+    "name": "ArkWeb",
+    "owner": {
+      "id": 37488014,
+      "url": "https://api.github.com/users/luki-1",
+      "html_url": "https://github.com/luki-1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37488014?v=4"
+    },
+    "html_url": "https://github.com/luki-1/ArkWeb",
+    "description": "Spider-Man Remastered's web swinging in Batman: Arkham Knight's Gotham (experimental mod)",
+    "created_at": "2026-10-02T00:59:19Z",
+    "updated_at": "2026-10-02T21:57:39Z",
+    "pushed_at": "2026-10-02T15:32:18Z",
+    "git_url": "git://github.com/luki-1/ArkWeb.git",
+    "homepage": null,
+    "size": 262,
+    "stargazers_count": 83,
+    "watchers_count": 83,
+    "language": "C++",
+    "forks_count": 6,
+    "open_issues_count": 0
   }
 ]
