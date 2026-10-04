@@ -82085,5 +82085,74 @@
     "language": "Python",
     "forks_count": 8,
     "open_issues_count": 1
+  },
+  {
+    "id": 1337920628,
+    "name": "DeepSeek-Balance-Whale-Widget",
+    "owner": {
+      "id": 247166461,
+      "url": "https://api.github.com/users/MeteorNOX",
+      "html_url": "https://github.com/MeteorNOX",
+      "avatar_url": "https://avatars.githubusercontent.com/u/247166461?v=4"
+    },
+    "html_url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
+    "description": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
+    "created_at": "2026-08-18T03:13:51Z",
+    "updated_at": "2026-10-03T19:32:37Z",
+    "pushed_at": "2026-10-03T10:54:24Z",
+    "git_url": "git://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget.git",
+    "homepage": "",
+    "size": 29548,
+    "stargazers_count": 3938,
+    "watchers_count": 3938,
+    "language": "JavaScript",
+    "forks_count": 140,
+    "open_issues_count": 72
+  },
+  {
+    "id": 1378832559,
+    "name": "OpenDLSS-NR",
+    "owner": {
+      "id": 64527563,
+      "url": "https://api.github.com/users/maanHimself",
+      "html_url": "https://github.com/maanHimself",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64527563?v=4"
+    },
+    "html_url": "https://github.com/maanHimself/OpenDLSS-NR",
+    "description": "A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the original.",
+    "created_at": "2026-09-20T22:35:35Z",
+    "updated_at": "2026-10-02T18:20:23Z",
+    "pushed_at": "2026-09-21T16:16:55Z",
+    "git_url": "git://github.com/maanHimself/OpenDLSS-NR.git",
+    "homepage": null,
+    "size": 5249,
+    "stargazers_count": 775,
+    "watchers_count": 775,
+    "language": "JavaScript",
+    "forks_count": 63,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1398080271,
+    "name": "photocraft",
+    "owner": {
+      "id": 76897702,
+      "url": "https://api.github.com/users/storytold",
+      "html_url": "https://github.com/storytold",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
+    },
+    "html_url": "https://github.com/storytold/photocraft",
+    "description": null,
+    "created_at": "2026-09-30T13:37:48Z",
+    "updated_at": "2026-10-02T22:00:13Z",
+    "pushed_at": "2026-10-02T20:43:23Z",
+    "git_url": "git://github.com/storytold/photocraft.git",
+    "homepage": null,
+    "size": 12955,
+    "stargazers_count": 70,
+    "watchers_count": 70,
+    "language": "Rust",
+    "forks_count": 4,
+    "open_issues_count": 4
   }
 ]
