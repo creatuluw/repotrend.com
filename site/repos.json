@@ -82200,5 +82200,51 @@
     "language": "C",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1375071860,
+    "name": "cpu-performance-engineering",
+    "owner": {
+      "id": 39458672,
+      "url": "https://api.github.com/users/usamahz",
+      "html_url": "https://github.com/usamahz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39458672?v=4"
+    },
+    "html_url": "https://github.com/usamahz/cpu-performance-engineering",
+    "description": "A reading path for CPU performance engineering, from one instruction to production inference. Primary sources only, with a runnable benchmark for every section.",
+    "created_at": "2026-09-17T20:52:03Z",
+    "updated_at": "2026-10-04T16:42:53Z",
+    "pushed_at": "2026-10-02T22:22:27Z",
+    "git_url": "git://github.com/usamahz/cpu-performance-engineering.git",
+    "homepage": "",
+    "size": 1853,
+    "stargazers_count": 642,
+    "watchers_count": 642,
+    "language": "C",
+    "forks_count": 57,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1400880712,
+    "name": "intermission",
+    "owner": {
+      "id": 35651410,
+      "url": "https://api.github.com/users/jarrodwatts",
+      "html_url": "https://github.com/jarrodwatts",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35651410?v=4"
+    },
+    "html_url": "https://github.com/jarrodwatts/intermission",
+    "description": "Play Doom deathmatch while Claude works. A Claude Code plugin.",
+    "created_at": "2026-10-02T01:04:14Z",
+    "updated_at": "2026-10-04T11:40:33Z",
+    "pushed_at": "2026-10-02T04:15:08Z",
+    "git_url": "git://github.com/jarrodwatts/intermission.git",
+    "homepage": null,
+    "size": 1041,
+    "stargazers_count": 88,
+    "watchers_count": 88,
+    "language": "JavaScript",
+    "forks_count": 8,
+    "open_issues_count": 2
   }
 ]
