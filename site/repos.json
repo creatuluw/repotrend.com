@@ -82154,5 +82154,51 @@
     "language": "Rust",
     "forks_count": 4,
     "open_issues_count": 4
+  },
+  {
+    "id": 1363199101,
+    "name": "Serein",
+    "owner": {
+      "id": 106090820,
+      "url": "https://api.github.com/users/ViceVerse-cz",
+      "html_url": "https://github.com/ViceVerse-cz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106090820?v=4"
+    },
+    "html_url": "https://github.com/ViceVerse-cz/Serein",
+    "description": "Tiny, Performant & 100% Native client for Discord made in Rust",
+    "created_at": "2026-09-09T20:42:14Z",
+    "updated_at": "2026-10-04T10:40:13Z",
+    "pushed_at": "2026-10-04T02:37:02Z",
+    "git_url": "git://github.com/ViceVerse-cz/Serein.git",
+    "homepage": "https://discord.gg/UqTDGCENaN",
+    "size": 182341,
+    "stargazers_count": 654,
+    "watchers_count": 654,
+    "language": "Rust",
+    "forks_count": 30,
+    "open_issues_count": 32
+  },
+  {
+    "id": 1399188224,
+    "name": "XPSemu",
+    "owner": {
+      "id": 60833584,
+      "url": "https://api.github.com/users/ZiZc3",
+      "html_url": "https://github.com/ZiZc3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60833584?v=4"
+    },
+    "html_url": "https://github.com/ZiZc3/XPSemu",
+    "description": "Original Xbox emulator (Xemu) port for the PS5",
+    "created_at": "2026-10-01T05:24:35Z",
+    "updated_at": "2026-10-04T11:59:19Z",
+    "pushed_at": "2026-10-02T01:42:46Z",
+    "git_url": "git://github.com/ZiZc3/XPSemu.git",
+    "homepage": "",
+    "size": 48922,
+    "stargazers_count": 66,
+    "watchers_count": 66,
+    "language": "C",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
