@@ -82407,5 +82407,51 @@
     "language": "Go",
     "forks_count": 8,
     "open_issues_count": 12
+  },
+  {
+    "id": 1360961053,
+    "name": "motion-web",
+    "owner": {
+      "id": 251547459,
+      "url": "https://api.github.com/users/feitangyuan",
+      "html_url": "https://github.com/feitangyuan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/251547459?v=4"
+    },
+    "html_url": "https://github.com/feitangyuan/motion-web",
+    "description": "Build motion-first, high-touch creative websites on vanilla Three.js / Canvas 2D / WebGL / CSS. A Claude Agent Skill with real physics and automated verification.",
+    "created_at": "2026-09-08T05:28:57Z",
+    "updated_at": "2026-10-05T11:09:46Z",
+    "pushed_at": "2026-09-15T13:11:55Z",
+    "git_url": "git://github.com/feitangyuan/motion-web.git",
+    "homepage": null,
+    "size": 32445,
+    "stargazers_count": 629,
+    "watchers_count": 629,
+    "language": "HTML",
+    "forks_count": 49,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1403705886,
+    "name": "PS5X360",
+    "owner": {
+      "id": 126296596,
+      "url": "https://api.github.com/users/BrinooTk",
+      "html_url": "https://github.com/BrinooTk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126296596?v=4"
+    },
+    "html_url": "https://github.com/BrinooTk/PS5X360",
+    "description": "Experimental Xbox 360 emulator for PlayStation 5, built on Xenia Canary with native audio, DualSense input and RADV Vulkan graphics.",
+    "created_at": "2026-10-03T23:11:38Z",
+    "updated_at": "2026-10-04T20:04:32Z",
+    "pushed_at": "2026-10-03T23:19:43Z",
+    "git_url": "git://github.com/BrinooTk/PS5X360.git",
+    "homepage": null,
+    "size": 6159,
+    "stargazers_count": 74,
+    "watchers_count": 74,
+    "language": "C++",
+    "forks_count": 5,
+    "open_issues_count": 11
   }
 ]
