@@ -82292,5 +82292,74 @@
     "language": "Python",
     "forks_count": 21,
     "open_issues_count": 0
+  },
+  {
+    "id": 1359963149,
+    "name": "qingjian",
+    "owner": {
+      "id": 325692219,
+      "url": "https://api.github.com/users/qingjian-team",
+      "html_url": "https://github.com/qingjian-team",
+      "avatar_url": "https://avatars.githubusercontent.com/u/325692219?v=4"
+    },
+    "html_url": "https://github.com/qingjian-team/qingjian",
+    "description": "青简 Qingjian：用 Rust 写的拼音输入法，候选词旁多一条正在学的语言的译词",
+    "created_at": "2026-09-07T08:25:30Z",
+    "updated_at": "2026-10-04T20:57:24Z",
+    "pushed_at": "2026-09-29T07:39:30Z",
+    "git_url": "git://github.com/qingjian-team/qingjian.git",
+    "homepage": "https://qingjian.app",
+    "size": 20743,
+    "stargazers_count": 4210,
+    "watchers_count": 4210,
+    "language": "Rust",
+    "forks_count": 296,
+    "open_issues_count": 187
+  },
+  {
+    "id": 1397939439,
+    "name": "easyread",
+    "owner": {
+      "id": 130557749,
+      "url": "https://api.github.com/users/Edwardxlai",
+      "html_url": "https://github.com/Edwardxlai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130557749?v=4"
+    },
+    "html_url": "https://github.com/Edwardxlai/easyread",
+    "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
+    "created_at": "2026-09-30T12:52:24Z",
+    "updated_at": "2026-10-04T20:24:42Z",
+    "pushed_at": "2026-10-04T09:33:06Z",
+    "git_url": "git://github.com/Edwardxlai/easyread.git",
+    "homepage": "https://edwardxlai.github.io/easyread/",
+    "size": 16144,
+    "stargazers_count": 770,
+    "watchers_count": 770,
+    "language": "Python",
+    "forks_count": 54,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1400503319,
+    "name": "kindling-spark-os",
+    "owner": {
+      "id": 335081809,
+      "url": "https://api.github.com/users/kindlingai",
+      "html_url": "https://github.com/kindlingai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/335081809?v=4"
+    },
+    "html_url": "https://github.com/kindlingai/kindling-spark-os",
+    "description": "Minimal read-only OS image for GB10 (DGX Spark / ASUS GX10) boxes",
+    "created_at": "2026-10-01T17:56:25Z",
+    "updated_at": "2026-10-02T21:56:34Z",
+    "pushed_at": "2026-10-02T13:48:18Z",
+    "git_url": "git://github.com/kindlingai/kindling-spark-os.git",
+    "homepage": null,
+    "size": 450,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": "Shell",
+    "forks_count": 5,
+    "open_issues_count": 0
   }
 ]
