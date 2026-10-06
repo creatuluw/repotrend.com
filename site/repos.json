@@ -82660,5 +82660,74 @@
     "language": "TypeScript",
     "forks_count": 6,
     "open_issues_count": 3
+  },
+  {
+    "id": 1308631234,
+    "name": "e2e",
+    "owner": {
+      "id": 252887899,
+      "url": "https://api.github.com/users/tester-army",
+      "html_url": "https://github.com/tester-army",
+      "avatar_url": "https://avatars.githubusercontent.com/u/252887899?v=4"
+    },
+    "html_url": "https://github.com/tester-army/e2e",
+    "description": "Next generation e2e testing framework for web and mobile apps.",
+    "created_at": "2026-07-22T09:29:04Z",
+    "updated_at": "2026-10-05T23:52:30Z",
+    "pushed_at": "2026-10-05T21:55:17Z",
+    "git_url": "git://github.com/tester-army/e2e.git",
+    "homepage": "https://tester.army/e2e",
+    "size": 14586,
+    "stargazers_count": 4747,
+    "watchers_count": 4747,
+    "language": "TypeScript",
+    "forks_count": 196,
+    "open_issues_count": 49
+  },
+  {
+    "id": 1376258916,
+    "name": "NullMotion",
+    "owner": {
+      "id": 247529250,
+      "url": "https://api.github.com/users/blixvip",
+      "html_url": "https://github.com/blixvip",
+      "avatar_url": "https://avatars.githubusercontent.com/u/247529250?v=4"
+    },
+    "html_url": "https://github.com/blixvip/NullMotion",
+    "description": "Watch a finished motion-graphics ad play over the HyperFrames drafts it grew from, frame-synced, and export the breakdown as an MP4. Local, zero dependencies. Join the Discord: discord.gg/zEB4VjmfSb",
+    "created_at": "2026-09-18T18:09:18Z",
+    "updated_at": "2026-10-05T23:34:12Z",
+    "pushed_at": "2026-10-04T17:38:44Z",
+    "git_url": "git://github.com/blixvip/NullMotion.git",
+    "homepage": "https://www.nullmotion.com/",
+    "size": 50112,
+    "stargazers_count": 784,
+    "watchers_count": 784,
+    "language": "HTML",
+    "forks_count": 67,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1403262018,
+    "name": "prism-bridge",
+    "owner": {
+      "id": 185476113,
+      "url": "https://api.github.com/users/yyyllllming",
+      "html_url": "https://github.com/yyyllllming",
+      "avatar_url": "https://avatars.githubusercontent.com/u/185476113?v=4"
+    },
+    "html_url": "https://github.com/yyyllllming/prism-bridge",
+    "description": "prism方案解决chatgpt降智",
+    "created_at": "2026-10-03T14:11:08Z",
+    "updated_at": "2026-10-05T23:32:22Z",
+    "pushed_at": "2026-10-05T19:07:51Z",
+    "git_url": "git://github.com/yyyllllming/prism-bridge.git",
+    "homepage": null,
+    "size": 1326,
+    "stargazers_count": 60,
+    "watchers_count": 60,
+    "language": "Python",
+    "forks_count": 22,
+    "open_issues_count": 1
   }
 ]
