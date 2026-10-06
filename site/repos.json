@@ -82591,5 +82591,74 @@
     "language": "Go",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1350323171,
+    "name": "Research-Starter-Kit",
+    "owner": {
+      "id": 185795540,
+      "url": "https://api.github.com/users/LAMDA-NeSy",
+      "html_url": "https://github.com/LAMDA-NeSy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/185795540?v=4"
+    },
+    "html_url": "https://github.com/LAMDA-NeSy/Research-Starter-Kit",
+    "description": "从0开始，掌握做科研、写论文的基本流程。",
+    "created_at": "2026-08-29T06:04:35Z",
+    "updated_at": "2026-10-05T23:07:30Z",
+    "pushed_at": "2026-09-01T14:32:22Z",
+    "git_url": "git://github.com/LAMDA-NeSy/Research-Starter-Kit.git",
+    "homepage": "",
+    "size": 202,
+    "stargazers_count": 4130,
+    "watchers_count": 4130,
+    "language": null,
+    "forks_count": 146,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1384734543,
+    "name": "BeefTV",
+    "owner": {
+      "id": 58928515,
+      "url": "https://api.github.com/users/glanderness",
+      "html_url": "https://github.com/glanderness",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58928515?v=4"
+    },
+    "html_url": "https://github.com/glanderness/BeefTV",
+    "description": "Local-first, lightweight, AI-native video workspace.",
+    "created_at": "2026-09-24T05:20:03Z",
+    "updated_at": "2026-10-05T18:39:58Z",
+    "pushed_at": "2026-10-05T15:14:51Z",
+    "git_url": "git://github.com/glanderness/BeefTV.git",
+    "homepage": null,
+    "size": 78996,
+    "stargazers_count": 832,
+    "watchers_count": 832,
+    "language": "TypeScript",
+    "forks_count": 169,
+    "open_issues_count": 18
+  },
+  {
+    "id": 1404356927,
+    "name": "claude-kit",
+    "owner": {
+      "id": 82471643,
+      "url": "https://api.github.com/users/JohnnyVizz",
+      "html_url": "https://github.com/JohnnyVizz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82471643?v=4"
+    },
+    "html_url": "https://github.com/JohnnyVizz/claude-kit",
+    "description": "Public Claude Code skills and mods",
+    "created_at": "2026-10-04T12:13:50Z",
+    "updated_at": "2026-10-05T22:57:25Z",
+    "pushed_at": "2026-10-04T15:41:24Z",
+    "git_url": "git://github.com/JohnnyVizz/claude-kit.git",
+    "homepage": null,
+    "size": 29,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "TypeScript",
+    "forks_count": 6,
+    "open_issues_count": 3
   }
 ]
