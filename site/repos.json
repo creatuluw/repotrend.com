@@ -82890,5 +82890,74 @@
     "language": null,
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1407950271,
+    "name": "math",
+    "owner": {
+      "id": 14957082,
+      "url": "https://api.github.com/users/openai",
+      "html_url": "https://github.com/openai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "html_url": "https://github.com/openai/math",
+    "description": null,
+    "created_at": "2026-10-06T21:47:02Z",
+    "updated_at": "2026-10-07T12:55:05Z",
+    "pushed_at": "2026-10-06T22:01:11Z",
+    "git_url": "git://github.com/openai/math.git",
+    "homepage": null,
+    "size": 798943,
+    "stargazers_count": 7198,
+    "watchers_count": 7198,
+    "language": "Lean",
+    "forks_count": 676,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1366893424,
+    "name": "Husk",
+    "owner": {
+      "id": 281482210,
+      "url": "https://api.github.com/users/Leviidev",
+      "html_url": "https://github.com/Leviidev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/281482210?v=4"
+    },
+    "html_url": "https://github.com/Leviidev/Husk",
+    "description": "Android Emulator for iOS",
+    "created_at": "2026-09-12T03:08:51Z",
+    "updated_at": "2026-10-07T12:50:51Z",
+    "pushed_at": "2026-10-07T11:32:38Z",
+    "git_url": "git://github.com/Leviidev/Husk.git",
+    "homepage": "https://discord.gg/xApMHWAzkh",
+    "size": 15694,
+    "stargazers_count": 667,
+    "watchers_count": 667,
+    "language": "C",
+    "forks_count": 40,
+    "open_issues_count": 9
+  },
+  {
+    "id": 1404113489,
+    "name": "fm1-x0x",
+    "owner": {
+      "id": 1034155,
+      "url": "https://api.github.com/users/charlesvestal",
+      "html_url": "https://github.com/charlesvestal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1034155?v=4"
+    },
+    "html_url": "https://github.com/charlesvestal/fm1-x0x",
+    "description": "X0X: groovebox firmware for the M-VAVE FM-1 (909, 808, two 303s with TB-3PO, breakbeat generator, song mode). A fork of Felucca.",
+    "created_at": "2026-10-04T08:03:49Z",
+    "updated_at": "2026-10-06T22:15:17Z",
+    "pushed_at": "2026-10-06T17:35:04Z",
+    "git_url": "git://github.com/charlesvestal/fm1-x0x.git",
+    "homepage": null,
+    "size": 10588,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": "C",
+    "forks_count": 3,
+    "open_issues_count": 2
   }
 ]
