@@ -6964,5 +6964,11 @@
     "name": "CVE-2026-43499-popsicle",
     "html_url": "https://github.com/x-spy/CVE-2026-43499-popsicle",
     "posted_at": "2026-10-07T03:48:15.699Z"
+  },
+  {
+    "id": 1207073386,
+    "name": "ecoalign-forge",
+    "html_url": "https://github.com/dengxianghua888-ops/ecoalign-forge",
+    "posted_at": "2026-10-07T09:59:44.459Z"
   }
 ]
