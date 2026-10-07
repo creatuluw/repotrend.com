@@ -82775,5 +82775,74 @@
     "language": "Go",
     "forks_count": 6,
     "open_issues_count": 0
+  },
+  {
+    "id": 1397016507,
+    "name": "universal-modder",
+    "owner": {
+      "id": 173837546,
+      "url": "https://api.github.com/users/rehan-remade",
+      "html_url": "https://github.com/rehan-remade",
+      "avatar_url": "https://avatars.githubusercontent.com/u/173837546?v=4"
+    },
+    "html_url": "https://github.com/rehan-remade/universal-modder",
+    "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+    "created_at": "2026-09-30T05:00:35Z",
+    "updated_at": "2026-10-06T22:30:20Z",
+    "pushed_at": "2026-10-06T13:21:39Z",
+    "git_url": "git://github.com/rehan-remade/universal-modder.git",
+    "homepage": null,
+    "size": 35263,
+    "stargazers_count": 4545,
+    "watchers_count": 4545,
+    "language": "Python",
+    "forks_count": 399,
+    "open_issues_count": 31
+  },
+  {
+    "id": 1369353914,
+    "name": "kaogongzhentizhengliu",
+    "owner": {
+      "id": 90863968,
+      "url": "https://api.github.com/users/ERRRC",
+      "html_url": "https://github.com/ERRRC",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90863968?v=4"
+    },
+    "html_url": "https://github.com/ERRRC/kaogongzhentizhengliu",
+    "description": "2016–2026 国考/省考/联考真题按考点重组的深度标注笔记的判断推理和资料分析部分",
+    "created_at": "2026-09-14T05:53:17Z",
+    "updated_at": "2026-10-06T16:07:51Z",
+    "pushed_at": "2026-09-14T13:26:16Z",
+    "git_url": "git://github.com/ERRRC/kaogongzhentizhengliu.git",
+    "homepage": null,
+    "size": 214729,
+    "stargazers_count": 708,
+    "watchers_count": 708,
+    "language": null,
+    "forks_count": 110,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1402921700,
+    "name": "FlyDisk",
+    "owner": {
+      "id": 187122777,
+      "url": "https://api.github.com/users/youke1686",
+      "html_url": "https://github.com/youke1686",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187122777?v=4"
+    },
+    "html_url": "https://github.com/youke1686/FlyDisk",
+    "description": "Windows 上的开源硬盘加速器 · Open-source hard drive accelerator for Windows",
+    "created_at": "2026-10-03T09:00:16Z",
+    "updated_at": "2026-10-06T19:15:12Z",
+    "pushed_at": "2026-10-06T16:12:22Z",
+    "git_url": "git://github.com/youke1686/FlyDisk.git",
+    "homepage": null,
+    "size": 2383,
+    "stargazers_count": 50,
+    "watchers_count": 50,
+    "language": "C#",
+    "forks_count": 1,
+    "open_issues_count": 1
   }
 ]
