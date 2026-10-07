@@ -6958,5 +6958,11 @@
     "name": "xata",
     "html_url": "https://github.com/xataio/xata",
     "posted_at": "2026-10-07T00:12:20.105Z"
+  },
+  {
+    "id": 1298176632,
+    "name": "CVE-2026-43499-popsicle",
+    "html_url": "https://github.com/x-spy/CVE-2026-43499-popsicle",
+    "posted_at": "2026-10-07T03:48:15.699Z"
   }
 ]
