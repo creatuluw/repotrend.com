@@ -83005,5 +83005,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1401457273,
+    "name": "Stronghold-Protocol",
+    "owner": {
+      "id": 64717086,
+      "url": "https://api.github.com/users/sganggs",
+      "html_url": "https://github.com/sganggs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64717086?v=4"
+    },
+    "html_url": "https://github.com/sganggs/Stronghold-Protocol",
+    "description": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
+    "created_at": "2026-10-02T09:38:41Z",
+    "updated_at": "2026-10-06T21:43:12Z",
+    "pushed_at": "2026-10-06T17:19:13Z",
+    "git_url": "git://github.com/sganggs/Stronghold-Protocol.git",
+    "homepage": null,
+    "size": 12996,
+    "stargazers_count": 826,
+    "watchers_count": 826,
+    "language": "JavaScript",
+    "forks_count": 178,
+    "open_issues_count": 104
+  },
+  {
+    "id": 1403836744,
+    "name": "ecommerce-image-skills",
+    "owner": {
+      "id": 53889513,
+      "url": "https://api.github.com/users/xianyu110",
+      "html_url": "https://github.com/xianyu110",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53889513?v=4"
+    },
+    "html_url": "https://github.com/xianyu110/ecommerce-image-skills",
+    "description": "12 电商出图 Agent Skills for Claude Code / Codex / Cursor · GPT Image 2.5 (Flare/Sunburst) · Amazon 白底主图, A+, 场景图, 模特图, 小红书封面, 淘宝详情页",
+    "created_at": "2026-10-04T03:17:18Z",
+    "updated_at": "2026-10-06T20:38:59Z",
+    "pushed_at": "2026-10-04T12:40:18Z",
+    "git_url": "git://github.com/xianyu110/ecommerce-image-skills.git",
+    "homepage": "https://gptimage2.asia/ecommerce",
+    "size": 64,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": "Python",
+    "forks_count": 10,
+    "open_issues_count": 0
   }
 ]
