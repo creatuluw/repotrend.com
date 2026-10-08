@@ -83120,5 +83120,51 @@
     "language": "TypeScript",
     "forks_count": 54,
     "open_issues_count": 1
+  },
+  {
+    "id": 1369491776,
+    "name": "wx-cli-again",
+    "owner": {
+      "id": 30525741,
+      "url": "https://api.github.com/users/jackwener",
+      "html_url": "https://github.com/jackwener",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30525741?v=4"
+    },
+    "html_url": "https://github.com/jackwener/wx-cli-again",
+    "description": "WeChat local data CLI (query/decrypt/export) — fresh start from wx-cli",
+    "created_at": "2026-09-14T07:43:27Z",
+    "updated_at": "2026-10-07T13:38:23Z",
+    "pushed_at": "2026-09-14T07:43:38Z",
+    "git_url": "git://github.com/jackwener/wx-cli-again.git",
+    "homepage": null,
+    "size": 215,
+    "stargazers_count": 799,
+    "watchers_count": 799,
+    "language": "Rust",
+    "forks_count": 1734,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1405201042,
+    "name": "Prototype-SWRT-Hard-Shadows-For-UE5.7",
+    "owner": {
+      "id": 165843014,
+      "url": "https://api.github.com/users/ThreatInteractive",
+      "html_url": "https://github.com/ThreatInteractive",
+      "avatar_url": "https://avatars.githubusercontent.com/u/165843014?v=4"
+    },
+    "html_url": "https://github.com/ThreatInteractive/Prototype-SWRT-Hard-Shadows-For-UE5.7",
+    "description": "This is a prototype plugin for UE5.7 that integrates SWRT hard shadows in UE5.7 without DXR",
+    "created_at": "2026-10-05T05:43:57Z",
+    "updated_at": "2026-10-08T09:53:03Z",
+    "pushed_at": "2026-10-05T05:44:44Z",
+    "git_url": "git://github.com/ThreatInteractive/Prototype-SWRT-Hard-Shadows-For-UE5.7.git",
+    "homepage": "https://www.youtube.com/@ThreatInteractive",
+    "size": 112,
+    "stargazers_count": 71,
+    "watchers_count": 71,
+    "language": "C++",
+    "forks_count": 6,
+    "open_issues_count": 1
   }
 ]
