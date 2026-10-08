@@ -83166,5 +83166,74 @@
     "language": "C++",
     "forks_count": 6,
     "open_issues_count": 1
+  },
+  {
+    "id": 1371757322,
+    "name": "openmuse",
+    "owner": {
+      "id": 131273140,
+      "url": "https://api.github.com/users/CopilotKit",
+      "html_url": "https://github.com/CopilotKit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131273140?v=4"
+    },
+    "html_url": "https://github.com/CopilotKit/openmuse",
+    "description": "A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit and AG-UI.",
+    "created_at": "2026-09-15T16:05:44Z",
+    "updated_at": "2026-10-08T12:52:56Z",
+    "pushed_at": "2026-10-08T11:06:04Z",
+    "git_url": "git://github.com/CopilotKit/openmuse.git",
+    "homepage": "",
+    "size": 49092,
+    "stargazers_count": 4307,
+    "watchers_count": 4307,
+    "language": "TypeScript",
+    "forks_count": 582,
+    "open_issues_count": 43
+  },
+  {
+    "id": 1370747786,
+    "name": "window-sweaters",
+    "owner": {
+      "id": 329245707,
+      "url": "https://api.github.com/users/saragordic",
+      "html_url": "https://github.com/saragordic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/329245707?v=4"
+    },
+    "html_url": "https://github.com/saragordic/window-sweaters",
+    "description": "A macOS menu-bar app that dresses your windows in knitted borders.",
+    "created_at": "2026-09-15T01:51:36Z",
+    "updated_at": "2026-10-07T21:35:32Z",
+    "pushed_at": "2026-09-21T02:45:39Z",
+    "git_url": "git://github.com/saragordic/window-sweaters.git",
+    "homepage": null,
+    "size": 41825,
+    "stargazers_count": 746,
+    "watchers_count": 746,
+    "language": "C",
+    "forks_count": 24,
+    "open_issues_count": 10
+  },
+  {
+    "id": 1405607848,
+    "name": "toks",
+    "owner": {
+      "id": 200724634,
+      "url": "https://api.github.com/users/actual-computer",
+      "html_url": "https://github.com/actual-computer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/200724634?v=4"
+    },
+    "html_url": "https://github.com/actual-computer/toks",
+    "description": "exact tokenizers ids, as fast as the hardware allows",
+    "created_at": "2026-10-05T11:05:20Z",
+    "updated_at": "2026-10-07T21:02:30Z",
+    "pushed_at": "2026-10-07T08:50:04Z",
+    "git_url": "git://github.com/actual-computer/toks.git",
+    "homepage": "https://actual.inc",
+    "size": 10341,
+    "stargazers_count": 77,
+    "watchers_count": 77,
+    "language": "C",
+    "forks_count": 3,
+    "open_issues_count": 8
   }
 ]
