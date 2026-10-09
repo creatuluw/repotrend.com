@@ -83419,5 +83419,74 @@
     "language": "TypeScript",
     "forks_count": 42,
     "open_issues_count": 0
+  },
+  {
+    "id": 1398097510,
+    "name": "vectorcraft",
+    "owner": {
+      "id": 76897702,
+      "url": "https://api.github.com/users/storytold",
+      "html_url": "https://github.com/storytold",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
+    },
+    "html_url": "https://github.com/storytold/vectorcraft",
+    "description": "An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust.",
+    "created_at": "2026-09-30T13:43:03Z",
+    "updated_at": "2026-10-09T12:49:41Z",
+    "pushed_at": "2026-10-09T12:36:19Z",
+    "git_url": "git://github.com/storytold/vectorcraft.git",
+    "homepage": "https://getartcraft.com/apps/vectorcraft",
+    "size": 35094,
+    "stargazers_count": 4554,
+    "watchers_count": 4554,
+    "language": "Rust",
+    "forks_count": 1761,
+    "open_issues_count": 38
+  },
+  {
+    "id": 1370752473,
+    "name": "EvoOntology",
+    "owner": {
+      "id": 76154266,
+      "url": "https://api.github.com/users/ruc-datalab",
+      "html_url": "https://github.com/ruc-datalab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76154266?v=4"
+    },
+    "html_url": "https://github.com/ruc-datalab/EvoOntology",
+    "description": "EvoOntology: A Self-Evolving Ontology Layer for Data Agents ⚙️ EvoOntology插件为Claude Code/Codex 建立&进化本体层",
+    "created_at": "2026-09-15T01:57:40Z",
+    "updated_at": "2026-10-09T12:41:29Z",
+    "pushed_at": "2026-09-29T05:52:00Z",
+    "git_url": "git://github.com/ruc-datalab/EvoOntology.git",
+    "homepage": "",
+    "size": 15193,
+    "stargazers_count": 681,
+    "watchers_count": 681,
+    "language": "Python",
+    "forks_count": 57,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1408151439,
+    "name": "qqpet",
+    "owner": {
+      "id": 155616939,
+      "url": "https://api.github.com/users/AnkioTomas",
+      "html_url": "https://github.com/AnkioTomas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/155616939?v=4"
+    },
+    "html_url": "https://github.com/AnkioTomas/qqpet",
+    "description": "QQ宠物单机复刻版(AI)",
+    "created_at": "2026-10-07T02:41:52Z",
+    "updated_at": "2026-10-09T11:17:39Z",
+    "pushed_at": "2026-10-09T05:28:35Z",
+    "git_url": "git://github.com/AnkioTomas/qqpet.git",
+    "homepage": "https://pet.ankio.net/",
+    "size": 4945,
+    "stargazers_count": 68,
+    "watchers_count": 68,
+    "language": "TypeScript",
+    "forks_count": 19,
+    "open_issues_count": 0
   }
 ]
