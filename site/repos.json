@@ -83281,5 +83281,74 @@
     "language": "Rust",
     "forks_count": 3,
     "open_issues_count": 1
+  },
+  {
+    "id": 1398086162,
+    "name": "pdfcraft",
+    "owner": {
+      "id": 76897702,
+      "url": "https://api.github.com/users/storytold",
+      "html_url": "https://github.com/storytold",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
+    },
+    "html_url": "https://github.com/storytold/pdfcraft",
+    "description": "An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust",
+    "created_at": "2026-09-30T13:39:37Z",
+    "updated_at": "2026-10-08T23:04:17Z",
+    "pushed_at": "2026-10-08T22:58:17Z",
+    "git_url": "git://github.com/storytold/pdfcraft.git",
+    "homepage": "https://getartcraft.com/apps/printcraft",
+    "size": 22247,
+    "stargazers_count": 4393,
+    "watchers_count": 4393,
+    "language": "Rust",
+    "forks_count": 1475,
+    "open_issues_count": 130
+  },
+  {
+    "id": 1396584589,
+    "name": "jevbox",
+    "owner": {
+      "id": 124006768,
+      "url": "https://api.github.com/users/extend-hq",
+      "html_url": "https://github.com/extend-hq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124006768?v=4"
+    },
+    "html_url": "https://github.com/extend-hq/jevbox",
+    "description": null,
+    "created_at": "2026-09-29T20:54:42Z",
+    "updated_at": "2026-10-08T22:42:27Z",
+    "pushed_at": "2026-10-07T22:29:58Z",
+    "git_url": "git://github.com/extend-hq/jevbox.git",
+    "homepage": "jevbox.extend.ai",
+    "size": 2427,
+    "stargazers_count": 690,
+    "watchers_count": 690,
+    "language": "TypeScript",
+    "forks_count": 77,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1406194322,
+    "name": "gorex",
+    "owner": {
+      "id": 8784712,
+      "url": "https://api.github.com/users/egoist",
+      "html_url": "https://github.com/egoist",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8784712?v=4"
+    },
+    "html_url": "https://github.com/egoist/gorex",
+    "description": "Rex terminal clone in MyGo native UI",
+    "created_at": "2026-10-05T18:04:34Z",
+    "updated_at": "2026-10-07T18:18:45Z",
+    "pushed_at": "2026-10-06T12:01:30Z",
+    "git_url": "git://github.com/egoist/gorex.git",
+    "homepage": null,
+    "size": 929,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "Go",
+    "forks_count": 4,
+    "open_issues_count": 1
   }
 ]
