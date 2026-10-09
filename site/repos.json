@@ -83350,5 +83350,74 @@
     "language": "Go",
     "forks_count": 4,
     "open_issues_count": 1
+  },
+  {
+    "id": 1398185212,
+    "name": "lightcraft",
+    "owner": {
+      "id": 76897702,
+      "url": "https://api.github.com/users/storytold",
+      "html_url": "https://github.com/storytold",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
+    },
+    "html_url": "https://github.com/storytold/lightcraft",
+    "description": "An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.",
+    "created_at": "2026-09-30T14:09:27Z",
+    "updated_at": "2026-10-08T23:05:34Z",
+    "pushed_at": "2026-10-08T22:48:39Z",
+    "git_url": "git://github.com/storytold/lightcraft.git",
+    "homepage": "https://getartcraft.com/apps/lightcraft",
+    "size": 31512,
+    "stargazers_count": 5426,
+    "watchers_count": 5426,
+    "language": "Rust",
+    "forks_count": 1561,
+    "open_issues_count": 85
+  },
+  {
+    "id": 1373084533,
+    "name": "youtube-agent-skill",
+    "owner": {
+      "id": 196724947,
+      "url": "https://api.github.com/users/Jakeschincariol",
+      "html_url": "https://github.com/Jakeschincariol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196724947?v=4"
+    },
+    "html_url": "https://github.com/Jakeschincariol/youtube-agent-skill",
+    "description": "Eleven Claude skills that run a YouTube channel: scripts off 21 hook formulas with a scored hook, title and thumbnail linted as one pairing, an edit decision list from your transcript, a retention reader that finds where viewers actually leave, a Shorts cutter, and a virality engine. Free, MIT.",
+    "created_at": "2026-09-16T13:32:05Z",
+    "updated_at": "2026-10-09T12:50:12Z",
+    "pushed_at": "2026-09-16T13:32:08Z",
+    "git_url": "git://github.com/Jakeschincariol/youtube-agent-skill.git",
+    "homepage": null,
+    "size": 32,
+    "stargazers_count": 831,
+    "watchers_count": 831,
+    "language": "Python",
+    "forks_count": 235,
+    "open_issues_count": 15
+  },
+  {
+    "id": 1409795533,
+    "name": "Haimiya-Mio",
+    "owner": {
+      "id": 121714623,
+      "url": "https://api.github.com/users/Itz-Anya",
+      "html_url": "https://github.com/Itz-Anya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121714623?v=4"
+    },
+    "html_url": "https://github.com/Itz-Anya/Haimiya-Mio",
+    "description": "My Portfolio v2 version ",
+    "created_at": "2026-10-08T05:41:03Z",
+    "updated_at": "2026-10-09T05:41:43Z",
+    "pushed_at": "2026-10-08T06:19:23Z",
+    "git_url": "git://github.com/Itz-Anya/Haimiya-Mio.git",
+    "homepage": "https://haimiya-mio.vercel.app/",
+    "size": 3365,
+    "stargazers_count": 78,
+    "watchers_count": 78,
+    "language": "TypeScript",
+    "forks_count": 42,
+    "open_issues_count": 0
   }
 ]
