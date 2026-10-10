@@ -83672,5 +83672,51 @@
     "language": "TypeScript",
     "forks_count": 9,
     "open_issues_count": 0
+  },
+  {
+    "id": 1381743704,
+    "name": "compiler",
+    "owner": {
+      "id": 322252511,
+      "url": "https://api.github.com/users/edgcpp",
+      "html_url": "https://github.com/edgcpp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/322252511?v=4"
+    },
+    "html_url": "https://github.com/edgcpp/compiler",
+    "description": "The Open EDG C & C++ Compiler Project",
+    "created_at": "2026-09-22T14:46:27Z",
+    "updated_at": "2026-10-10T09:26:34Z",
+    "pushed_at": "2026-10-09T19:50:07Z",
+    "git_url": "git://github.com/edgcpp/compiler.git",
+    "homepage": "https://edgcpp.org",
+    "size": 201981,
+    "stargazers_count": 900,
+    "watchers_count": 900,
+    "language": "C",
+    "forks_count": 100,
+    "open_issues_count": 129
+  },
+  {
+    "id": 1406142272,
+    "name": "labcop",
+    "owner": {
+      "id": 196919403,
+      "url": "https://api.github.com/users/Zzy522",
+      "html_url": "https://github.com/Zzy522",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196919403?v=4"
+    },
+    "html_url": "https://github.com/Zzy522/labcop",
+    "description": "Lab Copilot community edition: self-hosted laboratory collaboration and AI assistance.",
+    "created_at": "2026-10-05T17:24:46Z",
+    "updated_at": "2026-10-07T22:36:44Z",
+    "pushed_at": "2026-10-06T17:34:47Z",
+    "git_url": "git://github.com/Zzy522/labcop.git",
+    "homepage": null,
+    "size": 19817,
+    "stargazers_count": 52,
+    "watchers_count": 52,
+    "language": "TypeScript",
+    "forks_count": 3,
+    "open_issues_count": 1
   }
 ]
