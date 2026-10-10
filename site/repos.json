@@ -83557,5 +83557,74 @@
     "language": "TypeScript",
     "forks_count": 37,
     "open_issues_count": 0
+  },
+  {
+    "id": 1391438314,
+    "name": "coucou",
+    "owner": {
+      "id": 72659375,
+      "url": "https://api.github.com/users/Louis-CFM",
+      "html_url": "https://github.com/Louis-CFM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72659375?v=4"
+    },
+    "html_url": "https://github.com/Louis-CFM/coucou",
+    "description": "A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Screen.",
+    "created_at": "2026-09-27T21:54:12Z",
+    "updated_at": "2026-10-09T22:22:14Z",
+    "pushed_at": "2026-10-09T22:09:49Z",
+    "git_url": "git://github.com/Louis-CFM/coucou.git",
+    "homepage": "https://louis-cfm.github.io/coucou/",
+    "size": 18751,
+    "stargazers_count": 4505,
+    "watchers_count": 4505,
+    "language": "Swift",
+    "forks_count": 751,
+    "open_issues_count": 208
+  },
+  {
+    "id": 1377318357,
+    "name": "laya",
+    "owner": {
+      "id": 168242058,
+      "url": "https://api.github.com/users/receptron",
+      "html_url": "https://github.com/receptron",
+      "avatar_url": "https://avatars.githubusercontent.com/u/168242058?v=4"
+    },
+    "html_url": "https://github.com/receptron/laya",
+    "description": "Run Laya, the open-source Jev-compatible System-1 decision model, from Node.js / TypeScript via ONNX Runtime",
+    "created_at": "2026-09-19T15:30:52Z",
+    "updated_at": "2026-10-07T20:00:25Z",
+    "pushed_at": "2026-09-21T13:16:59Z",
+    "git_url": "git://github.com/receptron/laya.git",
+    "homepage": null,
+    "size": 730,
+    "stargazers_count": 824,
+    "watchers_count": 824,
+    "language": "TypeScript",
+    "forks_count": 72,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1411936494,
+    "name": "VoiceChanger",
+    "owner": {
+      "id": 292108097,
+      "url": "https://api.github.com/users/Crestchadome",
+      "html_url": "https://github.com/Crestchadome",
+      "avatar_url": "https://avatars.githubusercontent.com/u/292108097?v=4"
+    },
+    "html_url": "https://github.com/Crestchadome/VoiceChanger",
+    "description": "Voicechanger optimizes desktop utility configurations through a dedicated professional software application that streamlines and enhances user experiences.",
+    "created_at": "2026-10-09T13:58:45Z",
+    "updated_at": "2026-10-09T17:29:25Z",
+    "pushed_at": "2026-10-09T13:58:51Z",
+    "git_url": "git://github.com/Crestchadome/VoiceChanger.git",
+    "homepage": "",
+    "size": 2,
+    "stargazers_count": 98,
+    "watchers_count": 98,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
