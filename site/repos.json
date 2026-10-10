@@ -83488,5 +83488,74 @@
     "language": "TypeScript",
     "forks_count": 19,
     "open_issues_count": 0
+  },
+  {
+    "id": 1398091865,
+    "name": "filmcraft",
+    "owner": {
+      "id": 76897702,
+      "url": "https://api.github.com/users/storytold",
+      "html_url": "https://github.com/storytold",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
+    },
+    "html_url": "https://github.com/storytold/filmcraft",
+    "description": "An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.",
+    "created_at": "2026-09-30T13:41:20Z",
+    "updated_at": "2026-10-09T22:25:08Z",
+    "pushed_at": "2026-10-09T15:02:47Z",
+    "git_url": "git://github.com/storytold/filmcraft.git",
+    "homepage": "https://getartcraft.com/apps/filmcraft",
+    "size": 22144,
+    "stargazers_count": 6976,
+    "watchers_count": 6976,
+    "language": "Rust",
+    "forks_count": 2423,
+    "open_issues_count": 205
+  },
+  {
+    "id": 1400018213,
+    "name": "designcraft",
+    "owner": {
+      "id": 76897702,
+      "url": "https://api.github.com/users/storytold",
+      "html_url": "https://github.com/storytold",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
+    },
+    "html_url": "https://github.com/storytold/designcraft",
+    "description": null,
+    "created_at": "2026-10-01T13:13:14Z",
+    "updated_at": "2026-10-07T22:50:12Z",
+    "pushed_at": "2026-10-07T18:55:11Z",
+    "git_url": "git://github.com/storytold/designcraft.git",
+    "homepage": null,
+    "size": 13208,
+    "stargazers_count": 939,
+    "watchers_count": 939,
+    "language": "Rust",
+    "forks_count": 497,
+    "open_issues_count": 61
+  },
+  {
+    "id": 1410427905,
+    "name": "Portfolio_series",
+    "owner": {
+      "id": 147468660,
+      "url": "https://api.github.com/users/Sushmitadasari",
+      "html_url": "https://github.com/Sushmitadasari",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147468660?v=4"
+    },
+    "html_url": "https://github.com/Sushmitadasari/Portfolio_series",
+    "description": null,
+    "created_at": "2026-10-08T13:54:18Z",
+    "updated_at": "2026-10-09T20:00:22Z",
+    "pushed_at": "2026-10-08T14:12:00Z",
+    "git_url": "git://github.com/Sushmitadasari/Portfolio_series.git",
+    "homepage": null,
+    "size": 1826,
+    "stargazers_count": 74,
+    "watchers_count": 74,
+    "language": "TypeScript",
+    "forks_count": 37,
+    "open_issues_count": 0
   }
 ]
