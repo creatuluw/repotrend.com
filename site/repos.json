@@ -83810,5 +83810,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1395172468,
+    "name": "Meltype",
+    "owner": {
+      "id": 182478812,
+      "url": "https://api.github.com/users/yksr-melt",
+      "html_url": "https://github.com/yksr-melt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/182478812?v=4"
+    },
+    "html_url": "https://github.com/yksr-melt/Meltype",
+    "description": null,
+    "created_at": "2026-09-29T12:14:03Z",
+    "updated_at": "2026-10-10T21:09:30Z",
+    "pushed_at": "2026-10-10T13:46:20Z",
+    "git_url": "git://github.com/yksr-melt/Meltype.git",
+    "homepage": null,
+    "size": 5077,
+    "stargazers_count": 786,
+    "watchers_count": 786,
+    "language": "C#",
+    "forks_count": 45,
+    "open_issues_count": 155
+  },
+  {
+    "id": 1408023234,
+    "name": "ftop",
+    "owner": {
+      "id": 28521152,
+      "url": "https://api.github.com/users/Nongfsq",
+      "html_url": "https://github.com/Nongfsq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28521152?v=4"
+    },
+    "html_url": "https://github.com/Nongfsq/ftop",
+    "description": "A small, quiet system monitor for Apple Silicon Macs: one floating glass panel that works at any size.",
+    "created_at": "2026-10-06T23:36:34Z",
+    "updated_at": "2026-10-08T22:55:00Z",
+    "pushed_at": "2026-10-08T22:54:58Z",
+    "git_url": "git://github.com/Nongfsq/ftop.git",
+    "homepage": null,
+    "size": 17191,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "Swift",
+    "forks_count": 1,
+    "open_issues_count": 2
   }
 ]
