@@ -83971,5 +83971,51 @@
     "language": "C#",
     "forks_count": 7,
     "open_issues_count": 2
+  },
+  {
+    "id": 1374986657,
+    "name": "Study-Mate",
+    "owner": {
+      "id": 196646782,
+      "url": "https://api.github.com/users/Miaotofu01",
+      "html_url": "https://github.com/Miaotofu01",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196646782?v=4"
+    },
+    "html_url": "https://github.com/Miaotofu01/Study-Mate",
+    "description": "你的AI学习搭档：定路线、讲知识、做项目，边学边做，学透一门科目",
+    "created_at": "2026-09-17T19:36:05Z",
+    "updated_at": "2026-10-11T11:51:37Z",
+    "pushed_at": "2026-10-11T07:13:36Z",
+    "git_url": "git://github.com/Miaotofu01/Study-Mate.git",
+    "homepage": "",
+    "size": 35661,
+    "stargazers_count": 839,
+    "watchers_count": 839,
+    "language": "JavaScript",
+    "forks_count": 40,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1408255336,
+    "name": "Paleblood",
+    "owner": {
+      "id": 338729867,
+      "url": "https://api.github.com/users/Yharnam-Hunters",
+      "html_url": "https://github.com/Yharnam-Hunters",
+      "avatar_url": "https://avatars.githubusercontent.com/u/338729867?v=4"
+    },
+    "html_url": "https://github.com/Yharnam-Hunters/Paleblood",
+    "description": "A decompilation of Bloodborne (CUSA03173 v1.09) with its own runtime: the game's code rewritten as readable C++, one verified function at a time. The game doesn't run on it yet; 21 functions verified. No game files included.",
+    "created_at": "2026-10-07T04:45:21Z",
+    "updated_at": "2026-10-10T18:23:29Z",
+    "pushed_at": "2026-10-10T06:58:41Z",
+    "git_url": "git://github.com/Yharnam-Hunters/Paleblood.git",
+    "homepage": "https://yharnam-hunters.github.io/byrgenwerth-site/",
+    "size": 1192,
+    "stargazers_count": 79,
+    "watchers_count": 79,
+    "language": "Python",
+    "forks_count": 3,
+    "open_issues_count": 37
   }
 ]
