@@ -83764,5 +83764,51 @@
     "language": "Go",
     "forks_count": 7,
     "open_issues_count": 0
+  },
+  {
+    "id": 1397906178,
+    "name": "Autoloom",
+    "owner": {
+      "id": 203426402,
+      "url": "https://api.github.com/users/GanyuanRan",
+      "html_url": "https://github.com/GanyuanRan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/203426402?v=4"
+    },
+    "html_url": "https://github.com/GanyuanRan/Autoloom",
+    "description": "AI coding with Aegis governance built into execution: baseline-aware changes, evidence-backed delivery. Free desktop client, your choice of model. 将哲科思维融入 AI 开发执行，让变更有依据、交付有证据。用创意编织现实。",
+    "created_at": "2026-09-30T12:40:15Z",
+    "updated_at": "2026-10-10T21:15:37Z",
+    "pushed_at": "2026-10-10T15:28:47Z",
+    "git_url": "git://github.com/GanyuanRan/Autoloom.git",
+    "homepage": "autoloom.codes/",
+    "size": 8819,
+    "stargazers_count": 679,
+    "watchers_count": 679,
+    "language": "JavaScript",
+    "forks_count": 11,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1411932497,
+    "name": "PHP-Storm",
+    "owner": {
+      "id": 292111321,
+      "url": "https://api.github.com/users/UnicornShade",
+      "html_url": "https://github.com/UnicornShade",
+      "avatar_url": "https://avatars.githubusercontent.com/u/292111321?v=4"
+    },
+    "html_url": "https://github.com/UnicornShade/PHP-Storm",
+    "description": "Php Storm optimizes your workflow by providing a seamless professional desktop utility configuration for PHP developers to streamline their coding...",
+    "created_at": "2026-10-09T13:55:58Z",
+    "updated_at": "2026-10-09T17:28:33Z",
+    "pushed_at": "2026-10-09T13:56:09Z",
+    "git_url": "git://github.com/UnicornShade/PHP-Storm.git",
+    "homepage": "",
+    "size": 2,
+    "stargazers_count": 98,
+    "watchers_count": 98,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
