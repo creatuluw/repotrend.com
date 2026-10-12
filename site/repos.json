@@ -84086,5 +84086,74 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1385776214,
+    "name": "DroidDeck",
+    "owner": {
+      "id": 333418672,
+      "url": "https://api.github.com/users/Droid-Deck",
+      "html_url": "https://github.com/Droid-Deck",
+      "avatar_url": "https://avatars.githubusercontent.com/u/333418672?v=4"
+    },
+    "html_url": "https://github.com/Droid-Deck/DroidDeck",
+    "description": "DroidDeck brings the SteamOS experience to Android",
+    "created_at": "2026-09-24T15:14:13Z",
+    "updated_at": "2026-10-11T21:39:14Z",
+    "pushed_at": "2026-10-11T21:37:48Z",
+    "git_url": "git://github.com/Droid-Deck/DroidDeck.git",
+    "homepage": "",
+    "size": 80668,
+    "stargazers_count": 4746,
+    "watchers_count": 4746,
+    "language": "Kotlin",
+    "forks_count": 191,
+    "open_issues_count": 151
+  },
+  {
+    "id": 1410787228,
+    "name": "photo-frame-dashboard",
+    "owner": {
+      "id": 176013,
+      "url": "https://api.github.com/users/wesbos",
+      "html_url": "https://github.com/wesbos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/176013?v=4"
+    },
+    "html_url": "https://github.com/wesbos/photo-frame-dashboard",
+    "description": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
+    "created_at": "2026-10-08T18:22:19Z",
+    "updated_at": "2026-10-11T21:36:57Z",
+    "pushed_at": "2026-10-11T17:00:50Z",
+    "git_url": "git://github.com/wesbos/photo-frame-dashboard.git",
+    "homepage": null,
+    "size": 664,
+    "stargazers_count": 736,
+    "watchers_count": 736,
+    "language": "Python",
+    "forks_count": 52,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1410174400,
+    "name": "Valorant-External-Undetected-2026",
+    "owner": {
+      "id": 318077941,
+      "url": "https://api.github.com/users/Matterofpergola",
+      "html_url": "https://github.com/Matterofpergola",
+      "avatar_url": "https://avatars.githubusercontent.com/u/318077941?v=4"
+    },
+    "html_url": "https://github.com/Matterofpergola/Valorant-External-Undetected-2026",
+    "description": "This Valorant cheat enhances gameplay with smooth aim, enemy visibility, instant shooting, and guaranteed hits, providing players with a tactical edge without detection for an improved experience",
+    "created_at": "2026-10-08T10:57:29Z",
+    "updated_at": "2026-10-11T13:34:47Z",
+    "pushed_at": "2026-10-11T13:34:44Z",
+    "git_url": "git://github.com/Matterofpergola/Valorant-External-Undetected-2026.git",
+    "homepage": "",
+    "size": 193,
+    "stargazers_count": 69,
+    "watchers_count": 69,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
