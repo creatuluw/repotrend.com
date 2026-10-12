@@ -84017,5 +84017,74 @@
     "language": "Python",
     "forks_count": 3,
     "open_issues_count": 37
+  },
+  {
+    "id": 1408489772,
+    "name": "wordcraft",
+    "owner": {
+      "id": 76897702,
+      "url": "https://api.github.com/users/storytold",
+      "html_url": "https://github.com/storytold",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
+    },
+    "html_url": "https://github.com/storytold/wordcraft",
+    "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+    "created_at": "2026-10-07T08:34:24Z",
+    "updated_at": "2026-10-11T21:39:24Z",
+    "pushed_at": "2026-10-11T21:36:30Z",
+    "git_url": "git://github.com/storytold/wordcraft.git",
+    "homepage": "https://getartcraft.com/apps/wordcraft",
+    "size": 10893,
+    "stargazers_count": 5591,
+    "watchers_count": 5591,
+    "language": "Rust",
+    "forks_count": 1664,
+    "open_issues_count": 321
+  },
+  {
+    "id": 1368340387,
+    "name": "iw4L",
+    "owner": {
+      "id": 25867395,
+      "url": "https://api.github.com/users/vladtrc",
+      "html_url": "https://github.com/vladtrc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25867395?v=4"
+    },
+    "html_url": "https://github.com/vladtrc/iw4L",
+    "description": "Standalone experimental Call of Duty runtime in Rust, built on bevy and wgpu",
+    "created_at": "2026-09-13T11:54:59Z",
+    "updated_at": "2026-10-10T21:18:33Z",
+    "pushed_at": "2026-10-10T21:19:24Z",
+    "git_url": "git://github.com/vladtrc/iw4L.git",
+    "homepage": null,
+    "size": 8055,
+    "stargazers_count": 922,
+    "watchers_count": 922,
+    "language": "Rust",
+    "forks_count": 105,
+    "open_issues_count": 14
+  },
+  {
+    "id": 1411922170,
+    "name": "Designcenter-NX",
+    "owner": {
+      "id": 292109258,
+      "url": "https://api.github.com/users/frostaxetrough",
+      "html_url": "https://github.com/frostaxetrough",
+      "avatar_url": "https://avatars.githubusercontent.com/u/292109258?v=4"
+    },
+    "html_url": "https://github.com/frostaxetrough/Designcenter-NX",
+    "description": "Designcenter Nx optimizes professional desktop software utilities by providing a comprehensive configuration platform that streamlines and enhances...",
+    "created_at": "2026-10-09T13:49:08Z",
+    "updated_at": "2026-10-09T17:26:04Z",
+    "pushed_at": "2026-10-09T13:49:15Z",
+    "git_url": "git://github.com/frostaxetrough/Designcenter-NX.git",
+    "homepage": "",
+    "size": 2,
+    "stargazers_count": 98,
+    "watchers_count": 98,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
