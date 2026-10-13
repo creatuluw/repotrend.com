@@ -84362,5 +84362,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1366072565,
+    "name": "workbuddy-manager",
+    "owner": {
+      "id": 107445493,
+      "url": "https://api.github.com/users/ithtelab",
+      "html_url": "https://github.com/ithtelab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/107445493?v=4"
+    },
+    "html_url": "https://github.com/ithtelab/workbuddy-manager",
+    "description": "腾讯 CodeBuddy 账号池管理控制台，内置 OpenAI 兼容反代网关：扫码批量纳管账号、定时签到与保活、密钥分组分发、IP 与模型白名单、调用日志与用量统计；支持带签名校验的一键更新。",
+    "created_at": "2026-09-11T12:37:03Z",
+    "updated_at": "2026-10-10T20:09:19Z",
+    "pushed_at": "2026-10-10T14:13:00Z",
+    "git_url": "git://github.com/ithtelab/workbuddy-manager.git",
+    "homepage": null,
+    "size": 34500,
+    "stargazers_count": 935,
+    "watchers_count": 935,
+    "language": "Python",
+    "forks_count": 216,
+    "open_issues_count": 10
+  },
+  {
+    "id": 1411939166,
+    "name": "WinUtilits",
+    "owner": {
+      "id": 292115227,
+      "url": "https://api.github.com/users/EastCobblerJerk",
+      "html_url": "https://github.com/EastCobblerJerk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/292115227?v=4"
+    },
+    "html_url": "https://github.com/EastCobblerJerk/WinUtilits",
+    "description": "Winutilits optimizes desktop software utility configurations by providing a comprehensive and efficient solution to manage complex setups without...",
+    "created_at": "2026-10-09T14:00:36Z",
+    "updated_at": "2026-10-09T17:29:38Z",
+    "pushed_at": "2026-10-09T14:00:43Z",
+    "git_url": "git://github.com/EastCobblerJerk/WinUtilits.git",
+    "homepage": "",
+    "size": 2,
+    "stargazers_count": 98,
+    "watchers_count": 98,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
