@@ -84316,5 +84316,51 @@
     "language": "JavaScript",
     "forks_count": 40,
     "open_issues_count": 0
+  },
+  {
+    "id": 1386778170,
+    "name": "ai-system-design",
+    "owner": {
+      "id": 9877145,
+      "url": "https://api.github.com/users/amitshekhariitbhu",
+      "html_url": "https://github.com/amitshekhariitbhu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9877145?v=4"
+    },
+    "html_url": "https://github.com/amitshekhariitbhu/ai-system-design",
+    "description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
+    "created_at": "2026-09-25T04:50:06Z",
+    "updated_at": "2026-10-12T21:06:43Z",
+    "pushed_at": "2026-10-12T02:35:32Z",
+    "git_url": "git://github.com/amitshekhariitbhu/ai-system-design.git",
+    "homepage": "https://outcomeschool.com/program/ai-and-machine-learning",
+    "size": 149,
+    "stargazers_count": 659,
+    "watchers_count": 659,
+    "language": "Markdown",
+    "forks_count": 94,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1411918216,
+    "name": "Autodesk-Inventor",
+    "owner": {
+      "id": 292115291,
+      "url": "https://api.github.com/users/LimitBlacksmith",
+      "html_url": "https://github.com/LimitBlacksmith",
+      "avatar_url": "https://avatars.githubusercontent.com/u/292115291?v=4"
+    },
+    "html_url": "https://github.com/LimitBlacksmith/Autodesk-Inventor",
+    "description": "Autodesk Inventor optimizes professional desktop software utility configurations by providing a comprehensive and efficient design solution that...",
+    "created_at": "2026-10-09T13:46:18Z",
+    "updated_at": "2026-10-09T17:23:15Z",
+    "pushed_at": "2026-10-09T13:46:24Z",
+    "git_url": "git://github.com/LimitBlacksmith/Autodesk-Inventor.git",
+    "homepage": "",
+    "size": 2,
+    "stargazers_count": 98,
+    "watchers_count": 98,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
