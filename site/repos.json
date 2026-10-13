@@ -84201,5 +84201,51 @@
     "language": "TypeScript",
     "forks_count": 16,
     "open_issues_count": 5
+  },
+  {
+    "id": 1381783784,
+    "name": "lcu",
+    "owner": {
+      "id": 337367162,
+      "url": "https://api.github.com/users/amontlabs",
+      "html_url": "https://github.com/amontlabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/337367162?v=4"
+    },
+    "html_url": "https://github.com/amontlabs/lcu",
+    "description": "Codex computer use, decoupled from the app, for usage inside any harness.",
+    "created_at": "2026-09-22T15:08:18Z",
+    "updated_at": "2026-10-10T20:51:22Z",
+    "pushed_at": "2026-10-10T20:51:18Z",
+    "git_url": "git://github.com/amontlabs/lcu.git",
+    "homepage": "https://lcu.amontlabs.com",
+    "size": 13442,
+    "stargazers_count": 887,
+    "watchers_count": 887,
+    "language": "JavaScript",
+    "forks_count": 46,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1412679017,
+    "name": "qiaomu-cover-fonts",
+    "owner": {
+      "id": 3236682,
+      "url": "https://api.github.com/users/joeseesun",
+      "html_url": "https://github.com/joeseesun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3236682?v=4"
+    },
+    "html_url": "https://github.com/joeseesun/qiaomu-cover-fonts",
+    "description": "乔木封面设计的默认开源字库：中文与英文 OFL 字体，子集化并附授权 · Default open-licence font library for Qiaomu Cover Design",
+    "created_at": "2026-10-10T02:48:39Z",
+    "updated_at": "2026-10-10T18:23:06Z",
+    "pushed_at": "2026-10-10T03:10:04Z",
+    "git_url": "git://github.com/joeseesun/qiaomu-cover-fonts.git",
+    "homepage": null,
+    "size": 32797,
+    "stargazers_count": 91,
+    "watchers_count": 91,
+    "language": null,
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
