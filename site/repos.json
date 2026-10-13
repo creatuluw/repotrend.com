@@ -84247,5 +84247,74 @@
     "language": null,
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1410124849,
+    "name": "anatomy",
+    "owner": {
+      "id": 96392276,
+      "url": "https://api.github.com/users/wheresryan22",
+      "html_url": "https://github.com/wheresryan22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96392276?v=4"
+    },
+    "html_url": "https://github.com/wheresryan22/anatomy",
+    "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+    "created_at": "2026-10-08T10:12:49Z",
+    "updated_at": "2026-10-13T00:19:33Z",
+    "pushed_at": "2026-10-12T22:40:08Z",
+    "git_url": "git://github.com/wheresryan22/anatomy.git",
+    "homepage": "https://skills.wheresryan.sh/anatomy",
+    "size": 1811,
+    "stargazers_count": 6207,
+    "watchers_count": 6207,
+    "language": "JavaScript",
+    "forks_count": 437,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1402504227,
+    "name": "agentcraft",
+    "owner": {
+      "id": 173838289,
+      "url": "https://api.github.com/users/blendi-remade",
+      "html_url": "https://github.com/blendi-remade",
+      "avatar_url": "https://avatars.githubusercontent.com/u/173838289?v=4"
+    },
+    "html_url": "https://github.com/blendi-remade/agentcraft",
+    "description": null,
+    "created_at": "2026-10-03T00:59:54Z",
+    "updated_at": "2026-10-10T21:16:43Z",
+    "pushed_at": "2026-10-08T02:19:41Z",
+    "git_url": "git://github.com/blendi-remade/agentcraft.git",
+    "homepage": null,
+    "size": 28217,
+    "stargazers_count": 679,
+    "watchers_count": 679,
+    "language": "Java",
+    "forks_count": 91,
+    "open_issues_count": 9
+  },
+  {
+    "id": 1414448376,
+    "name": "dailyred",
+    "owner": {
+      "id": 341016820,
+      "url": "https://api.github.com/users/amoi-builds",
+      "html_url": "https://github.com/amoi-builds",
+      "avatar_url": "https://avatars.githubusercontent.com/u/341016820?v=4"
+    },
+    "html_url": "https://github.com/amoi-builds/dailyred",
+    "description": "A daily Pokémon FireRed battle against RED in the browser. Unofficial fan project; this repo holds only the patches and site code, no ROM.",
+    "created_at": "2026-10-11T14:51:26Z",
+    "updated_at": "2026-10-13T00:01:11Z",
+    "pushed_at": "2026-10-11T15:17:16Z",
+    "git_url": "git://github.com/amoi-builds/dailyred.git",
+    "homepage": null,
+    "size": 76,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "JavaScript",
+    "forks_count": 40,
+    "open_issues_count": 0
   }
 ]
