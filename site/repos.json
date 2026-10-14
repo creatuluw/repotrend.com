@@ -84569,5 +84569,74 @@
     "language": "C++",
     "forks_count": 10,
     "open_issues_count": 0
+  },
+  {
+    "id": 1390273274,
+    "name": "awesome-opus5-5-videos",
+    "owner": {
+      "id": 26054274,
+      "url": "https://api.github.com/users/yihui-dev",
+      "html_url": "https://github.com/yihui-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26054274?v=4"
+    },
+    "html_url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
+    "description": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
+    "created_at": "2026-09-27T06:19:36Z",
+    "updated_at": "2026-10-14T11:17:32Z",
+    "pushed_at": "2026-10-13T14:46:44Z",
+    "git_url": "git://github.com/yihui-dev/awesome-opus5-5-videos.git",
+    "homepage": "https://skillry.dev/ai-videos/opus-5-5",
+    "size": 834,
+    "stargazers_count": 4938,
+    "watchers_count": 4938,
+    "language": null,
+    "forks_count": 520,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1377039457,
+    "name": "ZygiskNext",
+    "owner": {
+      "id": 75879071,
+      "url": "https://api.github.com/users/LSPosed",
+      "html_url": "https://github.com/LSPosed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75879071?v=4"
+    },
+    "html_url": "https://github.com/LSPosed/ZygiskNext",
+    "description": "Standalone implementation of Zygisk",
+    "created_at": "2026-09-19T10:48:59Z",
+    "updated_at": "2026-10-11T21:13:41Z",
+    "pushed_at": "2026-10-11T08:46:09Z",
+    "git_url": "git://github.com/LSPosed/ZygiskNext.git",
+    "homepage": "",
+    "size": 690,
+    "stargazers_count": 771,
+    "watchers_count": 771,
+    "language": "C",
+    "forks_count": 16,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1416859969,
+    "name": "HAST-SEC",
+    "owner": {
+      "id": 149643286,
+      "url": "https://api.github.com/users/sola1039",
+      "html_url": "https://github.com/sola1039",
+      "avatar_url": "https://avatars.githubusercontent.com/u/149643286?v=4"
+    },
+    "html_url": "https://github.com/sola1039/HAST-SEC",
+    "description": "武汉光影流明科技有限公司 | 本地中文交互与连续角色运动 | 非商业早期研究版 | 寻求技术合作与融资",
+    "created_at": "2026-10-13T10:42:22Z",
+    "updated_at": "2026-10-14T11:23:42Z",
+    "pushed_at": "2026-10-14T09:04:59Z",
+    "git_url": "git://github.com/sola1039/HAST-SEC.git",
+    "homepage": "https://47.113.224.57/company/",
+    "size": 10227,
+    "stargazers_count": 59,
+    "watchers_count": 59,
+    "language": "JavaScript",
+    "forks_count": 5,
+    "open_issues_count": 0
   }
 ]
