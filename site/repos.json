@@ -84638,5 +84638,74 @@
     "language": "JavaScript",
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1361439328,
+    "name": "Edge0",
+    "owner": {
+      "id": 310437271,
+      "url": "https://api.github.com/users/Edge0-AI",
+      "html_url": "https://github.com/Edge0-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/310437271?v=4"
+    },
+    "html_url": "https://github.com/Edge0-AI/Edge0",
+    "description": "Run 35B MoE models in ~2.5 GB of RAM. Weights stream from SSD; a trained router predicts loads a step ahead. Mac, iPhone, Android, Windows supported",
+    "created_at": "2026-09-08T13:41:47Z",
+    "updated_at": "2026-10-14T16:35:01Z",
+    "pushed_at": "2026-10-12T14:34:52Z",
+    "git_url": "git://github.com/Edge0-AI/Edge0.git",
+    "homepage": "",
+    "size": 4230,
+    "stargazers_count": 4853,
+    "watchers_count": 4853,
+    "language": "Python",
+    "forks_count": 837,
+    "open_issues_count": 18
+  },
+  {
+    "id": 1395987291,
+    "name": "open-dot",
+    "owner": {
+      "id": 267807433,
+      "url": "https://api.github.com/users/composio-community",
+      "html_url": "https://github.com/composio-community",
+      "avatar_url": "https://avatars.githubusercontent.com/u/267807433?v=4"
+    },
+    "html_url": "https://github.com/composio-community/open-dot",
+    "description": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
+    "created_at": "2026-09-29T16:34:16Z",
+    "updated_at": "2026-10-12T14:04:29Z",
+    "pushed_at": "2026-09-30T13:08:59Z",
+    "git_url": "git://github.com/composio-community/open-dot.git",
+    "homepage": null,
+    "size": 490,
+    "stargazers_count": 630,
+    "watchers_count": 630,
+    "language": "TypeScript",
+    "forks_count": 104,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1416341587,
+    "name": "cjkfold",
+    "owner": {
+      "id": 31536977,
+      "url": "https://api.github.com/users/cdcailf",
+      "html_url": "https://github.com/cdcailf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31536977?v=4"
+    },
+    "html_url": "https://github.com/cdcailf/cjkfold",
+    "description": "Fold look-alike CJK glyphs (Kangxi radicals, CJK radical supplements) so text extracted from PDFs matches again.",
+    "created_at": "2026-10-13T02:16:26Z",
+    "updated_at": "2026-10-14T16:43:11Z",
+    "pushed_at": "2026-10-14T01:07:35Z",
+    "git_url": "git://github.com/cdcailf/cjkfold.git",
+    "homepage": null,
+    "size": 71,
+    "stargazers_count": 89,
+    "watchers_count": 89,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
