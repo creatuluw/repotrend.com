@@ -84408,5 +84408,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1391423600,
+    "name": "neonplan3d",
+    "owner": {
+      "id": 4759859,
+      "url": "https://api.github.com/users/Mastershort",
+      "html_url": "https://github.com/Mastershort",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4759859?v=4"
+    },
+    "html_url": "https://github.com/Mastershort/neonplan3d",
+    "description": "3D floor plan for Home Assistant: draw your home in the built-in editor (rooms, walls, doors, windows, furniture, roof) and see and control lights, covers, windows, climate, media, sensors and cameras live in a neon 3D view – as a sidebar panel and dashboard card.",
+    "created_at": "2026-09-27T21:31:26Z",
+    "updated_at": "2026-10-13T22:24:00Z",
+    "pushed_at": "2026-10-13T22:23:53Z",
+    "git_url": "git://github.com/Mastershort/neonplan3d.git",
+    "homepage": null,
+    "size": 44851,
+    "stargazers_count": 740,
+    "watchers_count": 740,
+    "language": "TypeScript",
+    "forks_count": 68,
+    "open_issues_count": 10
+  },
+  {
+    "id": 1410570717,
+    "name": "Motion-graphics-skill",
+    "owner": {
+      "id": 224967049,
+      "url": "https://api.github.com/users/Miftahul-Islam-Efaz",
+      "html_url": "https://github.com/Miftahul-Islam-Efaz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/224967049?v=4"
+    },
+    "html_url": "https://github.com/Miftahul-Islam-Efaz/Motion-graphics-skill",
+    "description": "Best Motion graphics and video editing skill for Claude Code, Codex and Cursor. Plan, animate, edit, caption and sound-design complete videos, rendered locally without After Effects.",
+    "created_at": "2026-10-08T15:29:41Z",
+    "updated_at": "2026-10-10T19:12:08Z",
+    "pushed_at": "2026-10-10T10:00:03Z",
+    "git_url": "git://github.com/Miftahul-Islam-Efaz/Motion-graphics-skill.git",
+    "homepage": "https://www.instagram.com/miftahul_islam_efaz/",
+    "size": 13680,
+    "stargazers_count": 88,
+    "watchers_count": 88,
+    "language": "Shell",
+    "forks_count": 12,
+    "open_issues_count": 0
   }
 ]
