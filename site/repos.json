@@ -84523,5 +84523,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1409890709,
+    "name": "ps2-web-recomp",
+    "owner": {
+      "id": 142660054,
+      "url": "https://api.github.com/users/snuri00",
+      "html_url": "https://github.com/snuri00",
+      "avatar_url": "https://avatars.githubusercontent.com/u/142660054?v=4"
+    },
+    "html_url": "https://github.com/snuri00/ps2-web-recomp",
+    "description": "PS2 games in the browser: static recompilation to WebAssembly with a native runtime",
+    "created_at": "2026-10-08T07:06:56Z",
+    "updated_at": "2026-10-13T22:22:08Z",
+    "pushed_at": "2026-10-13T21:55:09Z",
+    "git_url": "git://github.com/snuri00/ps2-web-recomp.git",
+    "homepage": "",
+    "size": 13005,
+    "stargazers_count": 687,
+    "watchers_count": 687,
+    "language": "C++",
+    "forks_count": 59,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1416064607,
+    "name": "valorant-aimx",
+    "owner": {
+      "id": 337036025,
+      "url": "https://api.github.com/users/digitalgnatcleanse",
+      "html_url": "https://github.com/digitalgnatcleanse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/337036025?v=4"
+    },
+    "html_url": "https://github.com/digitalgnatcleanse/valorant-aimx",
+    "description": "External aimbot toolkit for Valorant - aimbot, silent aim, triggerbot, no recoil, no spread. Fully external, no driver, undetected",
+    "created_at": "2026-10-12T19:50:07Z",
+    "updated_at": "2026-10-13T14:34:06Z",
+    "pushed_at": "2026-10-12T19:50:42Z",
+    "git_url": "git://github.com/digitalgnatcleanse/valorant-aimx.git",
+    "homepage": null,
+    "size": 16,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "C++",
+    "forks_count": 10,
+    "open_issues_count": 0
   }
 ]
