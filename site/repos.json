@@ -84454,5 +84454,74 @@
     "language": "Shell",
     "forks_count": 12,
     "open_issues_count": 0
+  },
+  {
+    "id": 1339256252,
+    "name": "dsh-purge",
+    "owner": {
+      "id": 188421097,
+      "url": "https://api.github.com/users/YuJunZhiXue",
+      "html_url": "https://github.com/YuJunZhiXue",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188421097?v=4"
+    },
+    "html_url": "https://github.com/YuJunZhiXue/dsh-purge",
+    "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
+    "created_at": "2026-08-19T07:41:12Z",
+    "updated_at": "2026-10-12T14:48:21Z",
+    "pushed_at": "2026-10-12T06:10:34Z",
+    "git_url": "git://github.com/YuJunZhiXue/dsh-purge.git",
+    "homepage": "",
+    "size": 3215,
+    "stargazers_count": 4842,
+    "watchers_count": 4842,
+    "language": "JavaScript",
+    "forks_count": 578,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1376174149,
+    "name": "localjev",
+    "owner": {
+      "id": 89615882,
+      "url": "https://api.github.com/users/githubnext",
+      "html_url": "https://github.com/githubnext",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89615882?v=4"
+    },
+    "html_url": "https://github.com/githubnext/localjev",
+    "description": null,
+    "created_at": "2026-09-18T16:59:55Z",
+    "updated_at": "2026-10-10T21:37:22Z",
+    "pushed_at": "2026-09-18T20:19:02Z",
+    "git_url": "git://github.com/githubnext/localjev.git",
+    "homepage": null,
+    "size": 296,
+    "stargazers_count": 823,
+    "watchers_count": 823,
+    "language": "TypeScript",
+    "forks_count": 55,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1416165678,
+    "name": "9router-custome-NIKA",
+    "owner": {
+      "id": 120337999,
+      "url": "https://api.github.com/users/KorekKayu",
+      "html_url": "https://github.com/KorekKayu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/120337999?v=4"
+    },
+    "html_url": "https://github.com/KorekKayu/9router-custome-NIKA",
+    "description": null,
+    "created_at": "2026-10-12T21:50:45Z",
+    "updated_at": "2026-10-13T15:42:15Z",
+    "pushed_at": "2026-10-13T09:14:33Z",
+    "git_url": "git://github.com/KorekKayu/9router-custome-NIKA.git",
+    "homepage": null,
+    "size": 3,
+    "stargazers_count": 74,
+    "watchers_count": 74,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
