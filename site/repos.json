@@ -84707,5 +84707,74 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1306733753,
+    "name": "asd-ste100-skill",
+    "owner": {
+      "id": 130748619,
+      "url": "https://api.github.com/users/danyuchn",
+      "html_url": "https://github.com/danyuchn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130748619?v=4"
+    },
+    "html_url": "https://github.com/danyuchn/asd-ste100-skill",
+    "description": "ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English.",
+    "created_at": "2026-07-20T15:10:41Z",
+    "updated_at": "2026-10-14T21:08:45Z",
+    "pushed_at": "2026-10-14T00:44:29Z",
+    "git_url": "git://github.com/danyuchn/asd-ste100-skill.git",
+    "homepage": null,
+    "size": 57,
+    "stargazers_count": 4867,
+    "watchers_count": 4867,
+    "language": "Python",
+    "forks_count": 278,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1374928133,
+    "name": "herdr-web-ui",
+    "owner": {
+      "id": 25837994,
+      "url": "https://api.github.com/users/devswha",
+      "html_url": "https://github.com/devswha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25837994?v=4"
+    },
+    "html_url": "https://github.com/devswha/herdr-web-ui",
+    "description": "Browser and phone client for herdr: chat and live terminal for every agent pane, remote PCs over SSH, web push alerts",
+    "created_at": "2026-09-17T18:52:07Z",
+    "updated_at": "2026-10-12T14:49:45Z",
+    "pushed_at": "2026-10-12T09:31:31Z",
+    "git_url": "git://github.com/devswha/herdr-web-ui.git",
+    "homepage": "https://herdrweb.dev/",
+    "size": 67354,
+    "stargazers_count": 854,
+    "watchers_count": 854,
+    "language": "TypeScript",
+    "forks_count": 107,
+    "open_issues_count": 102
+  },
+  {
+    "id": 1416995599,
+    "name": "BBSC",
+    "owner": {
+      "id": 130563892,
+      "url": "https://api.github.com/users/Classmg22",
+      "html_url": "https://github.com/Classmg22",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130563892?v=4"
+    },
+    "html_url": "https://github.com/Classmg22/BBSC",
+    "description": "Bloodborne Seamless Co-op: a shadPS4 mod that keeps co-op alive through deaths, lamps, areas, bosses and the Hunter's Dream - up to 5 hunters.",
+    "created_at": "2026-10-13T12:23:47Z",
+    "updated_at": "2026-10-14T20:47:09Z",
+    "pushed_at": "2026-10-14T12:34:49Z",
+    "git_url": "git://github.com/Classmg22/BBSC.git",
+    "homepage": "https://discord.gg/Df7BCmfWdt",
+    "size": 30664,
+    "stargazers_count": 92,
+    "watchers_count": 92,
+    "language": "C++",
+    "forks_count": 1,
+    "open_issues_count": 3
   }
 ]
