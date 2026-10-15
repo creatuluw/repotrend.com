@@ -84776,5 +84776,51 @@
     "language": "C++",
     "forks_count": 1,
     "open_issues_count": 3
+  },
+  {
+    "id": 1382110717,
+    "name": "rankme.fast",
+    "owner": {
+      "id": 65101059,
+      "url": "https://api.github.com/users/SelmiAbderrahim",
+      "html_url": "https://github.com/SelmiAbderrahim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65101059?v=4"
+    },
+    "html_url": "https://github.com/SelmiAbderrahim/rankme.fast",
+    "description": "The self-hosted SEO platform. ",
+    "created_at": "2026-09-22T18:10:17Z",
+    "updated_at": "2026-10-15T02:21:40Z",
+    "pushed_at": "2026-10-09T07:16:27Z",
+    "git_url": "git://github.com/SelmiAbderrahim/rankme.fast.git",
+    "homepage": "https://rankme.fast/",
+    "size": 12244,
+    "stargazers_count": 740,
+    "watchers_count": 740,
+    "language": "TypeScript",
+    "forks_count": 29,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1414718338,
+    "name": "BloodBorneButPc",
+    "owner": {
+      "id": 93601997,
+      "url": "https://api.github.com/users/Awakenchan",
+      "html_url": "https://github.com/Awakenchan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93601997?v=4"
+    },
+    "html_url": "https://github.com/Awakenchan/BloodBorneButPc",
+    "description": "Bloodborne on Windows in one package: launcher and engine. Bring your own game dump.",
+    "created_at": "2026-10-11T19:52:46Z",
+    "updated_at": "2026-10-13T22:23:48Z",
+    "pushed_at": "2026-10-13T13:08:45Z",
+    "git_url": "git://github.com/Awakenchan/BloodBorneButPc.git",
+    "homepage": "",
+    "size": 2813,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": "C#",
+    "forks_count": 0,
+    "open_issues_count": 17
   }
 ]
