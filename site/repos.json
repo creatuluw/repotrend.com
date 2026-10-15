@@ -84960,5 +84960,51 @@
     "language": "JavaScript",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1373922460,
+    "name": "PixelBoard",
+    "owner": {
+      "id": 97009989,
+      "url": "https://api.github.com/users/Akshayykadam",
+      "html_url": "https://github.com/Akshayykadam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97009989?v=4"
+    },
+    "html_url": "https://github.com/Akshayykadam/PixelBoard",
+    "description": "Unlock Google 11's Gemini \"Rambler\" Natural Voice Dictation & AI Writing Tools on ANY Android phone. No root required.",
+    "created_at": "2026-09-17T04:23:43Z",
+    "updated_at": "2026-10-14T21:16:26Z",
+    "pushed_at": "2026-10-14T18:47:39Z",
+    "git_url": "git://github.com/Akshayykadam/PixelBoard.git",
+    "homepage": "",
+    "size": 200286,
+    "stargazers_count": 819,
+    "watchers_count": 819,
+    "language": "Java",
+    "forks_count": 31,
+    "open_issues_count": 12
+  },
+  {
+    "id": 1416428935,
+    "name": "BirriaSDR",
+    "owner": {
+      "id": 6627901,
+      "url": "https://api.github.com/users/luigifcruz",
+      "html_url": "https://github.com/luigifcruz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6627901?v=4"
+    },
+    "html_url": "https://github.com/luigifcruz/BirriaSDR",
+    "description": null,
+    "created_at": "2026-10-13T04:02:43Z",
+    "updated_at": "2026-10-15T13:44:26Z",
+    "pushed_at": "2026-10-14T17:56:09Z",
+    "git_url": "git://github.com/luigifcruz/BirriaSDR.git",
+    "homepage": null,
+    "size": 296,
+    "stargazers_count": 82,
+    "watchers_count": 82,
+    "language": "C",
+    "forks_count": 8,
+    "open_issues_count": 2
   }
 ]
