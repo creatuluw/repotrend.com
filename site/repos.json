@@ -84822,5 +84822,74 @@
     "language": "C#",
     "forks_count": 0,
     "open_issues_count": 17
+  },
+  {
+    "id": 1408289866,
+    "name": "cadcraft",
+    "owner": {
+      "id": 76897702,
+      "url": "https://api.github.com/users/storytold",
+      "html_url": "https://github.com/storytold",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
+    },
+    "html_url": "https://github.com/storytold/cadcraft",
+    "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+    "created_at": "2026-10-07T05:22:31Z",
+    "updated_at": "2026-10-15T10:52:04Z",
+    "pushed_at": "2026-10-14T15:29:49Z",
+    "git_url": "git://github.com/storytold/cadcraft.git",
+    "homepage": null,
+    "size": 6254,
+    "stargazers_count": 4979,
+    "watchers_count": 4979,
+    "language": "Rust",
+    "forks_count": 2216,
+    "open_issues_count": 535
+  },
+  {
+    "id": 1402525166,
+    "name": "Papermorph",
+    "owner": {
+      "id": 26440117,
+      "url": "https://api.github.com/users/DozenTwelve",
+      "html_url": "https://github.com/DozenTwelve",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26440117?v=4"
+    },
+    "html_url": "https://github.com/DozenTwelve/Papermorph",
+    "description": "An AI skill that turns books into animated, narrated, interactive web experiences",
+    "created_at": "2026-10-03T01:38:22Z",
+    "updated_at": "2026-10-14T21:02:05Z",
+    "pushed_at": "2026-10-12T22:23:28Z",
+    "git_url": "git://github.com/DozenTwelve/Papermorph.git",
+    "homepage": null,
+    "size": 182493,
+    "stargazers_count": 721,
+    "watchers_count": 721,
+    "language": "HTML",
+    "forks_count": 95,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1417882268,
+    "name": "polestar",
+    "owner": {
+      "id": 146554352,
+      "url": "https://api.github.com/users/fitzforge",
+      "html_url": "https://github.com/fitzforge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/146554352?v=4"
+    },
+    "html_url": "https://github.com/fitzforge/polestar",
+    "description": "Leveling guides for World of Warcraft: Forever: an in-game guide addon with simulated 1-60 routes, a waypoint arrow and travel planner, plus the data pipeline and authoring toolchain.",
+    "created_at": "2026-10-13T19:56:58Z",
+    "updated_at": "2026-10-15T11:04:01Z",
+    "pushed_at": "2026-10-15T11:03:56Z",
+    "git_url": "git://github.com/fitzforge/polestar.git",
+    "homepage": "https://discord.gg/vMbee6F2e9",
+    "size": 26985,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "JavaScript",
+    "forks_count": 16,
+    "open_issues_count": 11
   }
 ]
