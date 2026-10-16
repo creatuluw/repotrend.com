@@ -85006,5 +85006,74 @@
     "language": "C",
     "forks_count": 8,
     "open_issues_count": 2
+  },
+  {
+    "id": 1408285582,
+    "name": "gridcraft",
+    "owner": {
+      "id": 76897702,
+      "url": "https://api.github.com/users/storytold",
+      "html_url": "https://github.com/storytold",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
+    },
+    "html_url": "https://github.com/storytold/gridcraft",
+    "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+    "created_at": "2026-10-07T05:18:16Z",
+    "updated_at": "2026-10-15T21:03:38Z",
+    "pushed_at": "2026-10-15T19:39:29Z",
+    "git_url": "git://github.com/storytold/gridcraft.git",
+    "homepage": "",
+    "size": 6296,
+    "stargazers_count": 5145,
+    "watchers_count": 5145,
+    "language": "Rust",
+    "forks_count": 2327,
+    "open_issues_count": 913
+  },
+  {
+    "id": 1372648198,
+    "name": "xingcezhenti",
+    "owner": {
+      "id": 90863968,
+      "url": "https://api.github.com/users/ERRRC",
+      "html_url": "https://github.com/ERRRC",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90863968?v=4"
+    },
+    "html_url": "https://github.com/ERRRC/xingcezhenti",
+    "description": "2016-2026年中国公务员考试国考＋省考全部行测真题",
+    "created_at": "2026-09-16T06:57:38Z",
+    "updated_at": "2026-10-14T18:27:51Z",
+    "pushed_at": "2026-09-16T08:44:44Z",
+    "git_url": "git://github.com/ERRRC/xingcezhenti.git",
+    "homepage": null,
+    "size": 347644,
+    "stargazers_count": 955,
+    "watchers_count": 955,
+    "language": null,
+    "forks_count": 165,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1415636770,
+    "name": "Grand-V",
+    "owner": {
+      "id": 24513137,
+      "url": "https://api.github.com/users/SebasKitten",
+      "html_url": "https://github.com/SebasKitten",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24513137?v=4"
+    },
+    "html_url": "https://github.com/SebasKitten/Grand-V",
+    "description": "GTA V reverse engineered to run natviely in an chromium based web browser, Using WebaAssembly and WebGPU,",
+    "created_at": "2026-10-12T13:24:03Z",
+    "updated_at": "2026-10-14T20:44:56Z",
+    "pushed_at": "2026-10-13T14:06:53Z",
+    "git_url": "git://github.com/SebasKitten/Grand-V.git",
+    "homepage": "",
+    "size": 929,
+    "stargazers_count": 92,
+    "watchers_count": 92,
+    "language": null,
+    "forks_count": 11,
+    "open_issues_count": 0
   }
 ]
