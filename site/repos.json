@@ -85213,5 +85213,51 @@
     "language": "C++",
     "forks_count": 1,
     "open_issues_count": 1
+  },
+  {
+    "id": 1408371739,
+    "name": "ascii",
+    "owner": {
+      "id": 196133609,
+      "url": "https://api.github.com/users/bas3line",
+      "html_url": "https://github.com/bas3line",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196133609?v=4"
+    },
+    "html_url": "https://github.com/bas3line/ascii",
+    "description": "Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag",
+    "created_at": "2026-10-07T06:48:54Z",
+    "updated_at": "2026-10-14T19:53:27Z",
+    "pushed_at": "2026-10-13T19:50:21Z",
+    "git_url": "git://github.com/bas3line/ascii.git",
+    "homepage": "https://ascii.rest",
+    "size": 3438,
+    "stargazers_count": 849,
+    "watchers_count": 849,
+    "language": "TypeScript",
+    "forks_count": 48,
+    "open_issues_count": 11
+  },
+  {
+    "id": 1414469721,
+    "name": "orion2re",
+    "owner": {
+      "id": 322178782,
+      "url": "https://api.github.com/users/orion2re",
+      "html_url": "https://github.com/orion2re",
+      "avatar_url": "https://avatars.githubusercontent.com/u/322178782?v=4"
+    },
+    "html_url": "https://github.com/orion2re/orion2re",
+    "description": "Orion2 Redone",
+    "created_at": "2026-10-11T15:13:36Z",
+    "updated_at": "2026-10-14T20:30:27Z",
+    "pushed_at": "2026-10-14T20:30:21Z",
+    "git_url": "git://github.com/orion2re/orion2re.git",
+    "homepage": null,
+    "size": 11282,
+    "stargazers_count": 63,
+    "watchers_count": 63,
+    "language": "C++",
+    "forks_count": 13,
+    "open_issues_count": 0
   }
 ]
