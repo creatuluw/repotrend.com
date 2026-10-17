@@ -85397,5 +85397,74 @@
     "language": "Python",
     "forks_count": 1,
     "open_issues_count": 2
+  },
+  {
+    "id": 1394989252,
+    "name": "RemoveMacAI",
+    "owner": {
+      "id": 119071446,
+      "url": "https://api.github.com/users/omlahore",
+      "html_url": "https://github.com/omlahore",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119071446?v=4"
+    },
+    "html_url": "https://github.com/omlahore/RemoveMacAI",
+    "description": "Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone.",
+    "created_at": "2026-09-29T11:02:39Z",
+    "updated_at": "2026-10-16T20:26:00Z",
+    "pushed_at": "2026-10-16T07:47:06Z",
+    "git_url": "git://github.com/omlahore/RemoveMacAI.git",
+    "homepage": "https://omlahore.github.io/RemoveMacAI/",
+    "size": 5963,
+    "stargazers_count": 4841,
+    "watchers_count": 4841,
+    "language": "Swift",
+    "forks_count": 141,
+    "open_issues_count": 15
+  },
+  {
+    "id": 1379929433,
+    "name": "jev-chat-windows",
+    "owner": {
+      "id": 332283779,
+      "url": "https://api.github.com/users/jev-chat",
+      "html_url": "https://github.com/jev-chat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/332283779?v=4"
+    },
+    "html_url": "https://github.com/jev-chat/jev-chat-windows",
+    "description": "JevChat-Windows：聊天窗口旁挂的回复辅助。窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动",
+    "created_at": "2026-09-21T14:37:14Z",
+    "updated_at": "2026-10-16T12:34:08Z",
+    "pushed_at": "2026-09-28T11:44:27Z",
+    "git_url": "git://github.com/jev-chat/jev-chat-windows.git",
+    "homepage": null,
+    "size": 1871,
+    "stargazers_count": 814,
+    "watchers_count": 814,
+    "language": "Python",
+    "forks_count": 177,
+    "open_issues_count": 30
+  },
+  {
+    "id": 1422308829,
+    "name": "FiveM-Respocket-AIO-Soft",
+    "owner": {
+      "id": 340105249,
+      "url": "https://api.github.com/users/Infernopeak",
+      "html_url": "https://github.com/Infernopeak",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340105249?v=4"
+    },
+    "html_url": "https://github.com/Infernopeak/FiveM-Respocket-AIO-Soft",
+    "description": "Best Software For FiveM Yet",
+    "created_at": "2026-10-16T15:02:30Z",
+    "updated_at": "2026-10-16T19:41:57Z",
+    "pushed_at": "2026-10-16T15:02:44Z",
+    "git_url": "git://github.com/Infernopeak/FiveM-Respocket-AIO-Soft.git",
+    "homepage": "",
+    "size": 8,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
