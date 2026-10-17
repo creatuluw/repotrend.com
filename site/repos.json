@@ -85351,5 +85351,51 @@
     "language": "Rust",
     "forks_count": 8,
     "open_issues_count": 0
+  },
+  {
+    "id": 1396004915,
+    "name": "Tov",
+    "owner": {
+      "id": 33632126,
+      "url": "https://api.github.com/users/richiemcilroy",
+      "html_url": "https://github.com/richiemcilroy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33632126?v=4"
+    },
+    "html_url": "https://github.com/richiemcilroy/Tov",
+    "description": "A TypeScript-shaped language built for coding agents. It compiles to small, fast native binaries.",
+    "created_at": "2026-09-29T16:39:23Z",
+    "updated_at": "2026-10-16T20:45:46Z",
+    "pushed_at": "2026-10-13T17:03:56Z",
+    "git_url": "git://github.com/richiemcilroy/Tov.git",
+    "homepage": "https://tov.sh",
+    "size": 12983,
+    "stargazers_count": 707,
+    "watchers_count": 707,
+    "language": "JavaScript",
+    "forks_count": 28,
+    "open_issues_count": 53
+  },
+  {
+    "id": 1418500084,
+    "name": "FlashVSR_Plus",
+    "owner": {
+      "id": 158265856,
+      "url": "https://api.github.com/users/OpenImagingLab",
+      "html_url": "https://github.com/OpenImagingLab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/158265856?v=4"
+    },
+    "html_url": "https://github.com/OpenImagingLab/FlashVSR_Plus",
+    "description": "This is the official repo of FlashVSR+: Efficient Video Super-Resolution via Hybrid Attention and Reward-Yield Distribution Matching.",
+    "created_at": "2026-10-14T06:54:09Z",
+    "updated_at": "2026-10-16T11:07:09Z",
+    "pushed_at": "2026-10-16T10:56:17Z",
+    "git_url": "git://github.com/OpenImagingLab/FlashVSR_Plus.git",
+    "homepage": null,
+    "size": 8721,
+    "stargazers_count": 93,
+    "watchers_count": 93,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 2
   }
 ]
