@@ -85305,5 +85305,51 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1410177931,
+    "name": "ARTEX",
+    "owner": {
+      "id": 70831136,
+      "url": "https://api.github.com/users/Hinln",
+      "html_url": "https://github.com/Hinln",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70831136?v=4"
+    },
+    "html_url": "https://github.com/Hinln/ARTEX",
+    "description": "ARTEX 源码备份：基于 Autumn-27/ARTEX v0.3.15，保留原始提交历史与 AGPL-3.0 许可证。",
+    "created_at": "2026-10-08T11:00:36Z",
+    "updated_at": "2026-10-16T11:01:06Z",
+    "pushed_at": "2026-10-08T11:06:03Z",
+    "git_url": "git://github.com/Hinln/ARTEX.git",
+    "homepage": null,
+    "size": 9601,
+    "stargazers_count": 777,
+    "watchers_count": 777,
+    "language": "Go",
+    "forks_count": 1200,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1416523643,
+    "name": "pgsync",
+    "owner": {
+      "id": 300654937,
+      "url": "https://api.github.com/users/pgrundev",
+      "html_url": "https://github.com/pgrundev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/300654937?v=4"
+    },
+    "html_url": "https://github.com/pgrundev/pgsync",
+    "description": "PGSync — Real-time PostgreSQL replication",
+    "created_at": "2026-10-13T05:44:49Z",
+    "updated_at": "2026-10-16T17:28:52Z",
+    "pushed_at": "2026-10-14T02:13:49Z",
+    "git_url": "git://github.com/pgrundev/pgsync.git",
+    "homepage": null,
+    "size": 486,
+    "stargazers_count": 85,
+    "watchers_count": 85,
+    "language": "Rust",
+    "forks_count": 8,
+    "open_issues_count": 0
   }
 ]
