@@ -85512,5 +85512,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1374667371,
+    "name": "topconf-paper-figure-gallery",
+    "owner": {
+      "id": 166132677,
+      "url": "https://api.github.com/users/qwdwqfwq",
+      "html_url": "https://github.com/qwdwqfwq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/166132677?v=4"
+    },
+    "html_url": "https://github.com/qwdwqfwq/topconf-paper-figure-gallery",
+    "description": "3,516 curated Figure 1 / teasers from ICLR, ICML, NeurIPS, CVPR, ACL, AAAI (2023-2026), with tier badges and FigureForge retrieval-augmented figure drafting",
+    "created_at": "2026-09-17T15:40:52Z",
+    "updated_at": "2026-10-17T12:34:13Z",
+    "pushed_at": "2026-10-17T11:41:13Z",
+    "git_url": "git://github.com/qwdwqfwq/topconf-paper-figure-gallery.git",
+    "homepage": "https://qwdwqfwq.github.io/topconf-paper-figure-gallery/",
+    "size": 563855,
+    "stargazers_count": 994,
+    "watchers_count": 994,
+    "language": "HTML",
+    "forks_count": 60,
+    "open_issues_count": 10
+  },
+  {
+    "id": 1414942519,
+    "name": "EdenLive",
+    "owner": {
+      "id": 149052137,
+      "url": "https://api.github.com/users/VAST-AI-Research",
+      "html_url": "https://github.com/VAST-AI-Research",
+      "avatar_url": "https://avatars.githubusercontent.com/u/149052137?v=4"
+    },
+    "html_url": "https://github.com/VAST-AI-Research/EdenLive",
+    "description": "Real-time generative rendering for interactive worlds, from any reference.",
+    "created_at": "2026-10-12T01:57:33Z",
+    "updated_at": "2026-10-15T10:58:05Z",
+    "pushed_at": "2026-10-12T03:05:53Z",
+    "git_url": "git://github.com/VAST-AI-Research/EdenLive.git",
+    "homepage": "https://vast-eden.ai/?p=edenlive",
+    "size": 295,
+    "stargazers_count": 79,
+    "watchers_count": 79,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
