@@ -85604,5 +85604,51 @@
     "language": "TypeScript",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1391384546,
+    "name": "Offensive-Security-AI-Models",
+    "owner": {
+      "id": 34966120,
+      "url": "https://api.github.com/users/JoasASantos",
+      "html_url": "https://github.com/JoasASantos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34966120?v=4"
+    },
+    "html_url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
+    "description": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
+    "created_at": "2026-09-27T20:36:30Z",
+    "updated_at": "2026-10-17T19:15:01Z",
+    "pushed_at": "2026-09-28T14:34:47Z",
+    "git_url": "git://github.com/JoasASantos/Offensive-Security-AI-Models.git",
+    "homepage": null,
+    "size": 1064,
+    "stargazers_count": 695,
+    "watchers_count": 695,
+    "language": null,
+    "forks_count": 80,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1419195633,
+    "name": "DocKit",
+    "owner": {
+      "id": 299128880,
+      "url": "https://api.github.com/users/cryptoangelito",
+      "html_url": "https://github.com/cryptoangelito",
+      "avatar_url": "https://avatars.githubusercontent.com/u/299128880?v=4"
+    },
+    "html_url": "https://github.com/cryptoangelito/DocKit",
+    "description": "Бесплатная программа для самозанятых: счета и акты в PDF, клиенты и история. Windows 10/11, Go, Fyne, SQLite.",
+    "created_at": "2026-10-14T14:53:31Z",
+    "updated_at": "2026-10-16T18:05:28Z",
+    "pushed_at": "2026-10-14T14:56:13Z",
+    "git_url": "git://github.com/cryptoangelito/DocKit.git",
+    "homepage": "https://cryptoangelito.github.io/DocKit/",
+    "size": 184,
+    "stargazers_count": 64,
+    "watchers_count": 64,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
