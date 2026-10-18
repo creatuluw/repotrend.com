@@ -85650,5 +85650,51 @@
     "language": "Go",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1408082051,
+    "name": "founder-skill",
+    "owner": {
+      "id": 196724947,
+      "url": "https://api.github.com/users/Jakeschincariol",
+      "html_url": "https://github.com/Jakeschincariol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196724947?v=4"
+    },
+    "html_url": "https://github.com/Jakeschincariol/founder-skill",
+    "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
+    "created_at": "2026-10-07T01:07:13Z",
+    "updated_at": "2026-10-18T09:43:06Z",
+    "pushed_at": "2026-10-07T01:07:17Z",
+    "git_url": "git://github.com/Jakeschincariol/founder-skill.git",
+    "homepage": null,
+    "size": 51,
+    "stargazers_count": 933,
+    "watchers_count": 933,
+    "language": "Python",
+    "forks_count": 108,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1420979969,
+    "name": "uxed",
+    "owner": {
+      "id": 156700887,
+      "url": "https://api.github.com/users/MK27MK",
+      "html_url": "https://github.com/MK27MK",
+      "avatar_url": "https://avatars.githubusercontent.com/u/156700887?v=4"
+    },
+    "html_url": "https://github.com/MK27MK/uxed",
+    "description": "Agent skills that get you into flow state.",
+    "created_at": "2026-10-15T15:55:36Z",
+    "updated_at": "2026-10-17T17:41:12Z",
+    "pushed_at": "2026-10-16T20:14:46Z",
+    "git_url": "git://github.com/MK27MK/uxed.git",
+    "homepage": "",
+    "size": 12028,
+    "stargazers_count": 56,
+    "watchers_count": 56,
+    "language": "JavaScript",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
