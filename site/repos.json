@@ -86064,5 +86064,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1402218524,
+    "name": "SeeCode",
+    "owner": {
+      "id": 106980972,
+      "url": "https://api.github.com/users/Aryanutkarsh",
+      "html_url": "https://github.com/Aryanutkarsh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106980972?v=4"
+    },
+    "html_url": "https://github.com/Aryanutkarsh/SeeCode",
+    "description": "Animated, explorable diagrams for Claude and other coding agents, from a short JSON spec.",
+    "created_at": "2026-10-02T18:41:07Z",
+    "updated_at": "2026-10-19T12:33:01Z",
+    "pushed_at": "2026-10-17T12:20:30Z",
+    "git_url": "git://github.com/Aryanutkarsh/SeeCode.git",
+    "homepage": null,
+    "size": 22703,
+    "stargazers_count": 671,
+    "watchers_count": 671,
+    "language": "JavaScript",
+    "forks_count": 37,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1425076363,
+    "name": "css-animation-snippets",
+    "owner": {
+      "id": 253620089,
+      "url": "https://api.github.com/users/aidenleads",
+      "html_url": "https://github.com/aidenleads",
+      "avatar_url": "https://avatars.githubusercontent.com/u/253620089?v=4"
+    },
+    "html_url": "https://github.com/aidenleads/css-animation-snippets",
+    "description": "Free copy-paste CSS animations for business websites. No frameworks, no build step, accessible by default. Love Yall ❤️",
+    "created_at": "2026-10-19T03:47:01Z",
+    "updated_at": "2026-10-19T09:25:45Z",
+    "pushed_at": "2026-10-19T03:55:49Z",
+    "git_url": "git://github.com/aidenleads/css-animation-snippets.git",
+    "homepage": "https://aidenleads.github.io/css-animation-snippets/",
+    "size": 21,
+    "stargazers_count": 75,
+    "watchers_count": 75,
+    "language": "CSS",
+    "forks_count": 16,
+    "open_issues_count": 0
   }
 ]
