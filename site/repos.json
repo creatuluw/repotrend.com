@@ -86018,5 +86018,51 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1404197626,
+    "name": "openfilm",
+    "owner": {
+      "id": 336853193,
+      "url": "https://api.github.com/users/openfilm",
+      "html_url": "https://github.com/openfilm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/336853193?v=4"
+    },
+    "html_url": "https://github.com/openfilm/openfilm",
+    "description": "The open source AI video agent: turns any coding agent into a video agent, with an editor to change anything it makes.",
+    "created_at": "2026-10-04T09:29:07Z",
+    "updated_at": "2026-10-18T19:10:27Z",
+    "pushed_at": "2026-10-18T18:50:37Z",
+    "git_url": "git://github.com/openfilm/openfilm.git",
+    "homepage": "https://openfilm.dev",
+    "size": 11499,
+    "stargazers_count": 951,
+    "watchers_count": 951,
+    "language": "TypeScript",
+    "forks_count": 99,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1424804128,
+    "name": "Minecraft-Advanced-Client-Module-Smooth-Tracking-Auto-Aim-System-1.20-",
+    "owner": {
+      "id": 279158153,
+      "url": "https://api.github.com/users/lukem-io1995n1",
+      "html_url": "https://github.com/lukem-io1995n1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279158153?v=4"
+    },
+    "html_url": "https://github.com/lukem-io1995n1/Minecraft-Advanced-Client-Module-Smooth-Tracking-Auto-Aim-System-1.20-",
+    "description": "High-performance Minecraft client module with smooth tracking, adaptive auto-aim, and modular configuration. Clean source, easy setup, fully open structure for 1.20–1.21.",
+    "created_at": "2026-10-18T20:43:18Z",
+    "updated_at": "2026-10-19T08:30:34Z",
+    "pushed_at": "2026-10-18T20:43:27Z",
+    "git_url": "git://github.com/lukem-io1995n1/Minecraft-Advanced-Client-Module-Smooth-Tracking-Auto-Aim-System-1.20-.git",
+    "homepage": null,
+    "size": 13,
+    "stargazers_count": 71,
+    "watchers_count": 71,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
