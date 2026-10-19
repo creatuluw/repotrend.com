@@ -85972,5 +85972,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1420743720,
+    "name": "Hy-Memory",
+    "owner": {
+      "id": 210980732,
+      "url": "https://api.github.com/users/Tencent-Hunyuan",
+      "html_url": "https://github.com/Tencent-Hunyuan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210980732?v=4"
+    },
+    "html_url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
+    "description": null,
+    "created_at": "2026-10-15T13:06:56Z",
+    "updated_at": "2026-10-19T03:51:32Z",
+    "pushed_at": "2026-10-18T14:30:24Z",
+    "git_url": "git://github.com/Tencent-Hunyuan/Hy-Memory.git",
+    "homepage": null,
+    "size": 19599,
+    "stargazers_count": 829,
+    "watchers_count": 829,
+    "language": "Python",
+    "forks_count": 71,
+    "open_issues_count": 26
+  },
+  {
+    "id": 1423614409,
+    "name": "FinestHourRemastered",
+    "owner": {
+      "id": 185976514,
+      "url": "https://api.github.com/users/crazyriddler",
+      "html_url": "https://github.com/crazyriddler",
+      "avatar_url": "https://avatars.githubusercontent.com/u/185976514?v=4"
+    },
+    "html_url": "https://github.com/crazyriddler/FinestHourRemastered",
+    "description": "A native PC port of Call of Duty: Finest Hour (original Xbox) with a remastered renderer",
+    "created_at": "2026-10-17T18:14:38Z",
+    "updated_at": "2026-10-19T02:14:56Z",
+    "pushed_at": "2026-10-19T00:39:56Z",
+    "git_url": "git://github.com/crazyriddler/FinestHourRemastered.git",
+    "homepage": null,
+    "size": 25828,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
