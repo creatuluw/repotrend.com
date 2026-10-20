@@ -7306,5 +7306,11 @@
     "name": "llm-sast-scanner",
     "html_url": "https://github.com/SunWeb3Sec/llm-sast-scanner",
     "posted_at": "2026-10-20T13:19:50.102Z"
+  },
+  {
+    "id": 1326531152,
+    "name": "anti-slop",
+    "html_url": "https://github.com/miqdadbadjuber/anti-slop",
+    "posted_at": "2026-10-20T18:10:58.194Z"
   }
 ]
