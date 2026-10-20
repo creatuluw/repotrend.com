@@ -86156,5 +86156,74 @@
     "language": null,
     "forks_count": 7,
     "open_issues_count": 1
+  },
+  {
+    "id": 1423101235,
+    "name": "cleanyourtv",
+    "owner": {
+      "id": 94786511,
+      "url": "https://api.github.com/users/Gathin23",
+      "html_url": "https://github.com/Gathin23",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94786511?v=4"
+    },
+    "html_url": "https://github.com/Gathin23/cleanyourtv",
+    "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+    "created_at": "2026-10-17T08:12:35Z",
+    "updated_at": "2026-10-20T04:03:50Z",
+    "pushed_at": "2026-10-20T03:57:28Z",
+    "git_url": "git://github.com/Gathin23/cleanyourtv.git",
+    "homepage": "https://cleanyour.tv",
+    "size": 9058,
+    "stargazers_count": 6184,
+    "watchers_count": 6184,
+    "language": "Java",
+    "forks_count": 740,
+    "open_issues_count": 57
+  },
+  {
+    "id": 1405556861,
+    "name": "HelixSR",
+    "owner": {
+      "id": 308567310,
+      "url": "https://api.github.com/users/lonewolf0622",
+      "html_url": "https://github.com/lonewolf0622",
+      "avatar_url": "https://avatars.githubusercontent.com/u/308567310?v=4"
+    },
+    "html_url": "https://github.com/lonewolf0622/HelixSR",
+    "description": "Drop-in FSR 3.1 upscaler for Direct3D 12 that runs DLSS's network (Model E) on AMD GPUs",
+    "created_at": "2026-10-05T10:19:07Z",
+    "updated_at": "2026-10-19T21:59:22Z",
+    "pushed_at": "2026-10-19T14:39:36Z",
+    "git_url": "git://github.com/lonewolf0622/HelixSR.git",
+    "homepage": null,
+    "size": 118,
+    "stargazers_count": 702,
+    "watchers_count": 702,
+    "language": null,
+    "forks_count": 15,
+    "open_issues_count": 23
+  },
+  {
+    "id": 1424230883,
+    "name": "Imei-Repair",
+    "owner": {
+      "id": 296668083,
+      "url": "https://api.github.com/users/Desertreflow",
+      "html_url": "https://github.com/Desertreflow",
+      "avatar_url": "https://avatars.githubusercontent.com/u/296668083?v=4"
+    },
+    "html_url": "https://github.com/Desertreflow/Imei-Repair",
+    "description": "Imei Repair Free 2025: Full working installer for a comprehensive solution to manage device identifiers.",
+    "created_at": "2026-10-18T10:02:50Z",
+    "updated_at": "2026-10-18T12:36:09Z",
+    "pushed_at": "2026-10-18T10:02:57Z",
+    "git_url": "git://github.com/Desertreflow/Imei-Repair.git",
+    "homepage": "",
+    "size": 2,
+    "stargazers_count": 97,
+    "watchers_count": 97,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
