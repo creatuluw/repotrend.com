@@ -7300,5 +7300,11 @@
     "name": "textual-diff-view",
     "html_url": "https://github.com/batrachianai/textual-diff-view",
     "posted_at": "2026-10-20T08:26:19.146Z"
+  },
+  {
+    "id": 1195037206,
+    "name": "llm-sast-scanner",
+    "html_url": "https://github.com/SunWeb3Sec/llm-sast-scanner",
+    "posted_at": "2026-10-20T13:19:50.102Z"
   }
 ]
