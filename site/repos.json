@@ -86110,5 +86110,51 @@
     "language": "CSS",
     "forks_count": 16,
     "open_issues_count": 0
+  },
+  {
+    "id": 1407754231,
+    "name": "motionmaxxing",
+    "owner": {
+      "id": 89969328,
+      "url": "https://api.github.com/users/Tejashmakwana",
+      "html_url": "https://github.com/Tejashmakwana",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89969328?v=4"
+    },
+    "html_url": "https://github.com/Tejashmakwana/motionmaxxing",
+    "description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
+    "created_at": "2026-10-06T18:18:49Z",
+    "updated_at": "2026-10-18T19:52:54Z",
+    "pushed_at": "2026-10-06T18:20:43Z",
+    "git_url": "git://github.com/Tejashmakwana/motionmaxxing.git",
+    "homepage": null,
+    "size": 21795,
+    "stargazers_count": 865,
+    "watchers_count": 865,
+    "language": "JavaScript",
+    "forks_count": 81,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1418231693,
+    "name": "HGTV",
+    "owner": {
+      "id": 104513085,
+      "url": "https://api.github.com/users/SkillGodAk",
+      "html_url": "https://github.com/SkillGodAk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104513085?v=4"
+    },
+    "html_url": "https://github.com/SkillGodAk/HGTV",
+    "description": "HONGGUO TV · 為電視遙設計的追劇 App",
+    "created_at": "2026-10-14T01:55:27Z",
+    "updated_at": "2026-10-17T20:06:35Z",
+    "pushed_at": "2026-10-17T09:10:08Z",
+    "git_url": "git://github.com/SkillGodAk/HGTV.git",
+    "homepage": null,
+    "size": 1144,
+    "stargazers_count": 75,
+    "watchers_count": 75,
+    "language": null,
+    "forks_count": 7,
+    "open_issues_count": 1
   }
 ]
