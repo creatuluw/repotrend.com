@@ -86547,5 +86547,51 @@
     "language": "HTML",
     "forks_count": 8,
     "open_issues_count": 1
+  },
+  {
+    "id": 1382111737,
+    "name": "zulu",
+    "owner": {
+      "id": 321831328,
+      "url": "https://api.github.com/users/slop-place",
+      "html_url": "https://github.com/slop-place",
+      "avatar_url": "https://avatars.githubusercontent.com/u/321831328?v=4"
+    },
+    "html_url": "https://github.com/slop-place/zulu",
+    "description": "A sensible Zulip client",
+    "created_at": "2026-09-22T18:10:56Z",
+    "updated_at": "2026-10-19T17:12:16Z",
+    "pushed_at": "2026-10-19T17:12:21Z",
+    "git_url": "git://github.com/slop-place/zulu.git",
+    "homepage": null,
+    "size": 2609,
+    "stargazers_count": 888,
+    "watchers_count": 888,
+    "language": "Swift",
+    "forks_count": 3,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1427126014,
+    "name": "day-trader-skill",
+    "owner": {
+      "id": 196724947,
+      "url": "https://api.github.com/users/Jakeschincariol",
+      "html_url": "https://github.com/Jakeschincariol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196724947?v=4"
+    },
+    "html_url": "https://github.com/Jakeschincariol/day-trader-skill",
+    "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+    "created_at": "2026-10-20T14:17:54Z",
+    "updated_at": "2026-10-21T11:03:50Z",
+    "pushed_at": "2026-10-20T14:18:00Z",
+    "git_url": "git://github.com/Jakeschincariol/day-trader-skill.git",
+    "homepage": null,
+    "size": 414,
+    "stargazers_count": 93,
+    "watchers_count": 93,
+    "language": "Python",
+    "forks_count": 21,
+    "open_issues_count": 0
   }
 ]
