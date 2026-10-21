@@ -86478,5 +86478,74 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 7
+  },
+  {
+    "id": 1396526702,
+    "name": "Filee",
+    "owner": {
+      "id": 13937016,
+      "url": "https://api.github.com/users/KnifeLemon",
+      "html_url": "https://github.com/KnifeLemon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13937016?v=4"
+    },
+    "html_url": "https://github.com/KnifeLemon/Filee",
+    "description": "Free, open-source file converter. Convert 244+ formats offline by drag & drop �� images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.",
+    "created_at": "2026-09-29T20:05:15Z",
+    "updated_at": "2026-10-20T21:22:06Z",
+    "pushed_at": "2026-10-20T21:21:59Z",
+    "git_url": "git://github.com/KnifeLemon/Filee.git",
+    "homepage": "https://filee.sh",
+    "size": 12115,
+    "stargazers_count": 7921,
+    "watchers_count": 7921,
+    "language": "C#",
+    "forks_count": 483,
+    "open_issues_count": 79
+  },
+  {
+    "id": 1414876018,
+    "name": "skills",
+    "owner": {
+      "id": 68253526,
+      "url": "https://api.github.com/users/juliobsz",
+      "html_url": "https://github.com/juliobsz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68253526?v=4"
+    },
+    "html_url": "https://github.com/juliobsz/skills",
+    "description": "An agent skill that builds award-caliber websites from one line",
+    "created_at": "2026-10-12T00:07:32Z",
+    "updated_at": "2026-10-21T02:53:38Z",
+    "pushed_at": "2026-10-20T00:06:53Z",
+    "git_url": "git://github.com/juliobsz/skills.git",
+    "homepage": "",
+    "size": 1107,
+    "stargazers_count": 793,
+    "watchers_count": 793,
+    "language": "JavaScript",
+    "forks_count": 28,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1424538181,
+    "name": "decks",
+    "owner": {
+      "id": 46465406,
+      "url": "https://api.github.com/users/paulmil11",
+      "html_url": "https://github.com/paulmil11",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46465406?v=4"
+    },
+    "html_url": "https://github.com/paulmil11/decks",
+    "description": "Agent-first slide decks: comment under a slide, and your coding agent (Claude Code or Codex) makes the change and replies on the slide.",
+    "created_at": "2026-10-18T15:45:43Z",
+    "updated_at": "2026-10-20T19:53:15Z",
+    "pushed_at": "2026-10-20T14:08:37Z",
+    "git_url": "git://github.com/paulmil11/decks.git",
+    "homepage": null,
+    "size": 2128,
+    "stargazers_count": 88,
+    "watchers_count": 88,
+    "language": "HTML",
+    "forks_count": 8,
+    "open_issues_count": 1
   }
 ]
