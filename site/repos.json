@@ -86593,5 +86593,51 @@
     "language": "Python",
     "forks_count": 21,
     "open_issues_count": 0
+  },
+  {
+    "id": 1417155242,
+    "name": "eleven",
+    "owner": {
+      "id": 25801929,
+      "url": "https://api.github.com/users/Zfinix",
+      "html_url": "https://github.com/Zfinix",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25801929?v=4"
+    },
+    "html_url": "https://github.com/Zfinix/eleven",
+    "description": "Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
+    "created_at": "2026-10-13T13:47:31Z",
+    "updated_at": "2026-10-19T21:50:20Z",
+    "pushed_at": "2026-10-19T16:38:29Z",
+    "git_url": "git://github.com/Zfinix/eleven.git",
+    "homepage": "https://eleven.chizi.app",
+    "size": 8614,
+    "stargazers_count": 791,
+    "watchers_count": 791,
+    "language": "TypeScript",
+    "forks_count": 122,
+    "open_issues_count": 12
+  },
+  {
+    "id": 1422185390,
+    "name": "DreamStory",
+    "owner": {
+      "id": 334406944,
+      "url": "https://api.github.com/users/JJFlyaways",
+      "html_url": "https://github.com/JJFlyaways",
+      "avatar_url": "https://avatars.githubusercontent.com/u/334406944?v=4"
+    },
+    "html_url": "https://github.com/JJFlyaways/DreamStory",
+    "description": "DreamStory - 本地优先的 AI 小说创作工作台",
+    "created_at": "2026-10-16T13:15:29Z",
+    "updated_at": "2026-10-18T19:42:32Z",
+    "pushed_at": "2026-10-16T14:03:25Z",
+    "git_url": "git://github.com/JJFlyaways/DreamStory.git",
+    "homepage": null,
+    "size": 2,
+    "stargazers_count": 64,
+    "watchers_count": 64,
+    "language": null,
+    "forks_count": 5,
+    "open_issues_count": 0
   }
 ]
