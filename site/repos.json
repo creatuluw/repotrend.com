@@ -86409,5 +86409,74 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1409246014,
+    "name": "solidcraft",
+    "owner": {
+      "id": 343519248,
+      "url": "https://api.github.com/users/tangency-labs",
+      "html_url": "https://github.com/tangency-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/343519248?v=4"
+    },
+    "html_url": "https://github.com/tangency-labs/solidcraft",
+    "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
+    "created_at": "2026-10-07T18:57:48Z",
+    "updated_at": "2026-10-18T20:18:15Z",
+    "pushed_at": "2026-10-18T20:18:05Z",
+    "git_url": "git://github.com/tangency-labs/solidcraft.git",
+    "homepage": "solidcraft.io",
+    "size": 126272,
+    "stargazers_count": 5411,
+    "watchers_count": 5411,
+    "language": "Rust",
+    "forks_count": 640,
+    "open_issues_count": 1062
+  },
+  {
+    "id": 1402121018,
+    "name": "genex-desktop",
+    "owner": {
+      "id": 329987112,
+      "url": "https://api.github.com/users/genex-games",
+      "html_url": "https://github.com/genex-games",
+      "avatar_url": "https://avatars.githubusercontent.com/u/329987112?v=4"
+    },
+    "html_url": "https://github.com/genex-games/genex-desktop",
+    "description": "Desktop app for game dev with AI. macOS, Windows and Linux.",
+    "created_at": "2026-10-02T17:17:59Z",
+    "updated_at": "2026-10-20T21:20:11Z",
+    "pushed_at": "2026-10-20T21:20:06Z",
+    "git_url": "git://github.com/genex-games/genex-desktop.git",
+    "homepage": "https://genex.games/desktop",
+    "size": 61767,
+    "stargazers_count": 721,
+    "watchers_count": 721,
+    "language": "TypeScript",
+    "forks_count": 89,
+    "open_issues_count": 51
+  },
+  {
+    "id": 1422507308,
+    "name": "ArmyOfTwoRecompilation",
+    "owner": {
+      "id": 338058622,
+      "url": "https://api.github.com/users/OpenPortroid",
+      "html_url": "https://github.com/OpenPortroid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/338058622?v=4"
+    },
+    "html_url": "https://github.com/OpenPortroid/ArmyOfTwoRecompilation",
+    "description": "Unofficial PC port of the Xbox 360 version of Army of Two (2008). Online co-op supported.",
+    "created_at": "2026-10-16T18:05:56Z",
+    "updated_at": "2026-10-19T20:10:58Z",
+    "pushed_at": "2026-10-19T17:30:37Z",
+    "git_url": "git://github.com/OpenPortroid/ArmyOfTwoRecompilation.git",
+    "homepage": "",
+    "size": 7595,
+    "stargazers_count": 80,
+    "watchers_count": 80,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 7
   }
 ]
