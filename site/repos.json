@@ -86823,5 +86823,51 @@
     "language": "C#",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1415354043,
+    "name": "baoyan-agent-benchmark",
+    "owner": {
+      "id": 32065217,
+      "url": "https://api.github.com/users/yeyuxin777",
+      "html_url": "https://github.com/yeyuxin777",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32065217?v=4"
+    },
+    "html_url": "https://github.com/yeyuxin777/baoyan-agent-benchmark",
+    "description": "Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.",
+    "created_at": "2026-10-12T09:15:11Z",
+    "updated_at": "2026-10-20T19:20:44Z",
+    "pushed_at": "2026-10-19T11:22:01Z",
+    "git_url": "git://github.com/yeyuxin777/baoyan-agent-benchmark.git",
+    "homepage": "",
+    "size": 16731,
+    "stargazers_count": 699,
+    "watchers_count": 699,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1428564210,
+    "name": "Champagne",
+    "owner": {
+      "id": 3109144,
+      "url": "https://api.github.com/users/unixzii",
+      "html_url": "https://github.com/unixzii",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3109144?v=4"
+    },
+    "html_url": "https://github.com/unixzii/Champagne",
+    "description": "Run applications from Mac OS X 10.6 Snow Leopard on anywhere.",
+    "created_at": "2026-10-21T15:20:49Z",
+    "updated_at": "2026-10-22T03:26:50Z",
+    "pushed_at": "2026-10-21T15:21:13Z",
+    "git_url": "git://github.com/unixzii/Champagne.git",
+    "homepage": "",
+    "size": 1585,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": "C++",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
