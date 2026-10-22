@@ -86915,5 +86915,51 @@
     "language": "Kotlin",
     "forks_count": 6,
     "open_issues_count": 0
+  },
+  {
+    "id": 1425469723,
+    "name": "UniXNU",
+    "owner": {
+      "id": 344663807,
+      "url": "https://api.github.com/users/UniXNU",
+      "html_url": "https://github.com/UniXNU",
+      "avatar_url": "https://avatars.githubusercontent.com/u/344663807?v=4"
+    },
+    "html_url": "https://github.com/UniXNU/UniXNU",
+    "description": "Run iOS and macOS on non-Apple ARM64 hardware through UEFI.",
+    "created_at": "2026-10-19T10:46:55Z",
+    "updated_at": "2026-10-22T16:51:32Z",
+    "pushed_at": "2026-10-22T16:26:45Z",
+    "git_url": "git://github.com/UniXNU/UniXNU.git",
+    "homepage": "https://unixnu.com",
+    "size": 2013,
+    "stargazers_count": 702,
+    "watchers_count": 702,
+    "language": "Python",
+    "forks_count": 111,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1426958142,
+    "name": "dll-decryptor",
+    "owner": {
+      "id": 312920123,
+      "url": "https://api.github.com/users/Networkapbridge",
+      "html_url": "https://github.com/Networkapbridge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/312920123?v=4"
+    },
+    "html_url": "https://github.com/Networkapbridge/dll-decryptor",
+    "description": "dll decryptor — dumps encrypted DLL payloads, resolves imports, rebuilds PE headers, exports or memory-maps the decrypted module",
+    "created_at": "2026-10-20T11:55:37Z",
+    "updated_at": "2026-10-20T21:31:47Z",
+    "pushed_at": "2026-10-20T11:58:05Z",
+    "git_url": "git://github.com/Networkapbridge/dll-decryptor.git",
+    "homepage": null,
+    "size": 484,
+    "stargazers_count": 72,
+    "watchers_count": 72,
+    "language": "HTML",
+    "forks_count": 31,
+    "open_issues_count": 0
   }
 ]
