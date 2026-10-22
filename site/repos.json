@@ -86754,5 +86754,74 @@
     "language": "Python",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1332781509,
+    "name": "rakazo",
+    "owner": {
+      "id": 3090527,
+      "url": "https://api.github.com/users/elie222",
+      "html_url": "https://github.com/elie222",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3090527?v=4"
+    },
+    "html_url": "https://github.com/elie222/rakazo",
+    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+    "created_at": "2026-08-13T06:28:56Z",
+    "updated_at": "2026-10-21T20:57:24Z",
+    "pushed_at": "2026-10-21T21:18:22Z",
+    "git_url": "git://github.com/elie222/rakazo.git",
+    "homepage": "https://rakazo.com",
+    "size": 103401,
+    "stargazers_count": 5104,
+    "watchers_count": 5104,
+    "language": "TypeScript",
+    "forks_count": 917,
+    "open_issues_count": 74
+  },
+  {
+    "id": 1418054191,
+    "name": "iss_pc",
+    "owner": {
+      "id": 22659047,
+      "url": "https://api.github.com/users/HayatoG",
+      "html_url": "https://github.com/HayatoG",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22659047?v=4"
+    },
+    "html_url": "https://github.com/HayatoG/iss_pc",
+    "description": "Native PC port (Linux/Windows) of inFAMOUS Second Son (PS4, CUSA00223) — in development, playable; runs your own game dump; no game or firmware files included. Motion sensor emulation. | Port nativo para PC de inFAMOUS Second Son (em desenvolvimento) — usa o seu próprio dump.",
+    "created_at": "2026-10-13T21:48:17Z",
+    "updated_at": "2026-10-21T21:05:25Z",
+    "pushed_at": "2026-10-21T06:05:11Z",
+    "git_url": "git://github.com/HayatoG/iss_pc.git",
+    "homepage": "https://www.youtube.com/@hayatog-dev",
+    "size": 17021,
+    "stargazers_count": 758,
+    "watchers_count": 758,
+    "language": "C++",
+    "forks_count": 49,
+    "open_issues_count": 279
+  },
+  {
+    "id": 1426378857,
+    "name": "one-click-eu-lord",
+    "owner": {
+      "id": 200456337,
+      "url": "https://api.github.com/users/PZW152",
+      "html_url": "https://github.com/PZW152",
+      "avatar_url": "https://avatars.githubusercontent.com/u/200456337?v=4"
+    },
+    "html_url": "https://github.com/PZW152/one-click-eu-lord",
+    "description": "一鍵轉生歐爺 · 一键转生欧爷 · One-Click EU Lord — give Windows 11 every gain from Ireland's EU/EEA (DMA) policy without the features the EU build removes, and keep it across updates. One 166 KB exe, no runtime, fully reversible. 繁中 / 简中 / English.",
+    "created_at": "2026-10-20T01:47:16Z",
+    "updated_at": "2026-10-22T02:20:20Z",
+    "pushed_at": "2026-10-21T12:25:40Z",
+    "git_url": "git://github.com/PZW152/one-click-eu-lord.git",
+    "homepage": "",
+    "size": 746,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": "C#",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
