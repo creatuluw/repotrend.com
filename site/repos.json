@@ -87145,5 +87145,74 @@
     "language": "JavaScript",
     "forks_count": 8,
     "open_issues_count": 0
+  },
+  {
+    "id": 1339970099,
+    "name": "peach",
+    "owner": {
+      "id": 335372553,
+      "url": "https://api.github.com/users/peach-mitao",
+      "html_url": "https://github.com/peach-mitao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/335372553?v=4"
+    },
+    "html_url": "https://github.com/peach-mitao/peach",
+    "description": "Peach 蜜桃：单用户、本地优先的个人媒体系统 · Single-user, local-first personal media system",
+    "created_at": "2026-08-19T19:48:30Z",
+    "updated_at": "2026-10-23T16:43:36Z",
+    "pushed_at": "2026-10-19T11:43:21Z",
+    "git_url": "git://github.com/peach-mitao/peach.git",
+    "homepage": "https://peach.video",
+    "size": 72875,
+    "stargazers_count": 7808,
+    "watchers_count": 7808,
+    "language": "Python",
+    "forks_count": 919,
+    "open_issues_count": 38
+  },
+  {
+    "id": 1414851145,
+    "name": "w1700k-sdr",
+    "owner": {
+      "id": 8192706,
+      "url": "https://api.github.com/users/h0m3us3r",
+      "html_url": "https://github.com/h0m3us3r",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8192706?v=4"
+    },
+    "html_url": "https://github.com/h0m3us3r/w1700k-sdr",
+    "description": null,
+    "created_at": "2026-10-11T23:21:22Z",
+    "updated_at": "2026-10-22T18:12:16Z",
+    "pushed_at": "2026-10-13T03:25:43Z",
+    "git_url": "git://github.com/h0m3us3r/w1700k-sdr.git",
+    "homepage": null,
+    "size": 21336,
+    "stargazers_count": 878,
+    "watchers_count": 878,
+    "language": "C",
+    "forks_count": 91,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1425037321,
+    "name": "android-tv-toolkit",
+    "owner": {
+      "id": 10486415,
+      "url": "https://api.github.com/users/VictorTran1023",
+      "html_url": "https://github.com/VictorTran1023",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10486415?v=4"
+    },
+    "html_url": "https://github.com/VictorTran1023/android-tv-toolkit",
+    "description": "品牌无关的 Android TV 调试与调优工具箱：ADB 授权、分品牌侧载、去广告、状态 HUD、回归测试 | Brand-agnostic Android TV toolkit: ADB auth, per-brand sideloading, debloat, status HUD, regression tests",
+    "created_at": "2026-10-19T02:53:28Z",
+    "updated_at": "2026-10-21T14:58:39Z",
+    "pushed_at": "2026-10-21T14:49:16Z",
+    "git_url": "git://github.com/VictorTran1023/android-tv-toolkit.git",
+    "homepage": null,
+    "size": 6987,
+    "stargazers_count": 79,
+    "watchers_count": 79,
+    "language": "Java",
+    "forks_count": 9,
+    "open_issues_count": 0
   }
 ]
