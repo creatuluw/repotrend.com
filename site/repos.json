@@ -87053,5 +87053,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1401942165,
+    "name": "scopeweaver",
+    "owner": {
+      "id": 76669236,
+      "url": "https://api.github.com/users/cskwork",
+      "html_url": "https://github.com/cskwork",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76669236?v=4"
+    },
+    "html_url": "https://github.com/cskwork/scopeweaver",
+    "description": "ScopeWeaver: English and Korean localization of ARTEX, with preserved AGPL-3.0 attribution.",
+    "created_at": "2026-10-02T14:58:04Z",
+    "updated_at": "2026-10-21T18:39:39Z",
+    "pushed_at": "2026-10-21T10:05:24Z",
+    "git_url": "git://github.com/cskwork/scopeweaver.git",
+    "homepage": "https://cskwork.github.io/scopeweaver/",
+    "size": 14422,
+    "stargazers_count": 740,
+    "watchers_count": 740,
+    "language": "Go",
+    "forks_count": 628,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1426228730,
+    "name": ".github",
+    "owner": {
+      "id": 345019839,
+      "url": "https://api.github.com/users/cod-tool",
+      "html_url": "https://github.com/cod-tool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/345019839?v=4"
+    },
+    "html_url": "https://github.com/cod-tool/.github",
+    "description": "🔥 call-of-duty-cheats-cod-mod-menu-hacks-warzone-and-black-ops",
+    "created_at": "2026-10-19T22:05:01Z",
+    "updated_at": "2026-10-20T22:53:57Z",
+    "pushed_at": "2026-10-19T22:05:16Z",
+    "git_url": "git://github.com/cod-tool/.github.git",
+    "homepage": null,
+    "size": 156,
+    "stargazers_count": 72,
+    "watchers_count": 72,
+    "language": "HTML",
+    "forks_count": 70,
+    "open_issues_count": 0
   }
 ]
