@@ -87007,5 +87007,51 @@
     "language": "TypeScript",
     "forks_count": 1,
     "open_issues_count": 4
+  },
+  {
+    "id": 1397088773,
+    "name": "bug-bounty-hunting-prompts",
+    "owner": {
+      "id": 330721921,
+      "url": "https://api.github.com/users/mdpsec",
+      "html_url": "https://github.com/mdpsec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/330721921?v=4"
+    },
+    "html_url": "https://github.com/mdpsec/bug-bounty-hunting-prompts",
+    "description": "Reusable prompts for a structured, evidence-first bug bounty hunting workflow",
+    "created_at": "2026-09-30T05:43:35Z",
+    "updated_at": "2026-10-22T20:20:30Z",
+    "pushed_at": "2026-10-03T06:57:03Z",
+    "git_url": "git://github.com/mdpsec/bug-bounty-hunting-prompts.git",
+    "homepage": "https://mdpsec.com",
+    "size": 182,
+    "stargazers_count": 741,
+    "watchers_count": 741,
+    "language": null,
+    "forks_count": 152,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1424580504,
+    "name": "mcd-timetravel-game",
+    "owner": {
+      "id": 9009558,
+      "url": "https://api.github.com/users/EliasCai",
+      "html_url": "https://github.com/EliasCai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9009558?v=4"
+    },
+    "html_url": "https://github.com/EliasCai/mcd-timetravel-game",
+    "description": "推门 · 麦记穿越局：接入麦当劳 MCP 实时数据的像素风记价凑单小游戏（麦当劳程序员创意开发大赛参赛作品）",
+    "created_at": "2026-10-18T16:28:51Z",
+    "updated_at": "2026-10-21T21:21:49Z",
+    "pushed_at": "2026-10-21T15:56:35Z",
+    "git_url": "git://github.com/EliasCai/mcd-timetravel-game.git",
+    "homepage": null,
+    "size": 18610,
+    "stargazers_count": 81,
+    "watchers_count": 81,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
