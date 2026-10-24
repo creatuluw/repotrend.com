@@ -87444,5 +87444,51 @@
     "language": "JavaScript",
     "forks_count": 6,
     "open_issues_count": 0
+  },
+  {
+    "id": 1418878693,
+    "name": "house-control",
+    "owner": {
+      "id": 342495785,
+      "url": "https://api.github.com/users/0xProbabillity",
+      "html_url": "https://github.com/0xProbabillity",
+      "avatar_url": "https://avatars.githubusercontent.com/u/342495785?v=4"
+    },
+    "html_url": "https://github.com/0xProbabillity/house-control",
+    "description": "Your home as a live 3D model in the Mac menu bar and on iPhone — lights and ACs via Smart Life, Home Assistant, Philips Hue and Apple Home.",
+    "created_at": "2026-10-14T12:32:21Z",
+    "updated_at": "2026-10-23T19:42:04Z",
+    "pushed_at": "2026-10-23T20:01:09Z",
+    "git_url": "git://github.com/0xProbabillity/house-control.git",
+    "homepage": null,
+    "size": 10644,
+    "stargazers_count": 739,
+    "watchers_count": 739,
+    "language": "Swift",
+    "forks_count": 102,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1427862314,
+    "name": "ShaolinMonks-Android",
+    "owner": {
+      "id": 76829603,
+      "url": "https://api.github.com/users/RanggaCasper",
+      "html_url": "https://github.com/RanggaCasper",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76829603?v=4"
+    },
+    "html_url": "https://github.com/RanggaCasper/ShaolinMonks-Android",
+    "description": "Unofficial Android (arm64) port of Mortal Kombat: Shaolin Monks (Xbox), statically recompiled with XboxXBE-Recomp. Vulkan renderer, touch controls, gamepad support, optional CRT/scanline filters, FXAA/SSAA and cheats. No game files included — bring your own disc image.",
+    "created_at": "2026-10-21T04:10:20Z",
+    "updated_at": "2026-10-23T16:23:34Z",
+    "pushed_at": "2026-10-22T22:27:33Z",
+    "git_url": "git://github.com/RanggaCasper/ShaolinMonks-Android.git",
+    "homepage": null,
+    "size": 12353,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "C++",
+    "forks_count": 6,
+    "open_issues_count": 11
   }
 ]
