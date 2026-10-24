@@ -87306,5 +87306,51 @@
     "language": "Python",
     "forks_count": 8,
     "open_issues_count": 0
+  },
+  {
+    "id": 1395995350,
+    "name": "strands-decider",
+    "owner": {
+      "id": 257848598,
+      "url": "https://api.github.com/users/strands-labs",
+      "html_url": "https://github.com/strands-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/257848598?v=4"
+    },
+    "html_url": "https://github.com/strands-labs/strands-decider",
+    "description": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.",
+    "created_at": "2026-09-29T16:36:38Z",
+    "updated_at": "2026-10-22T18:58:41Z",
+    "pushed_at": "2026-10-21T16:23:09Z",
+    "git_url": "git://github.com/strands-labs/strands-decider.git",
+    "homepage": "https://strandsagents.com/docs/labs/",
+    "size": 30583,
+    "stargazers_count": 693,
+    "watchers_count": 693,
+    "language": "Python",
+    "forks_count": 96,
+    "open_issues_count": 48
+  },
+  {
+    "id": 1425293365,
+    "name": "QingMusicPC",
+    "owner": {
+      "id": 59428088,
+      "url": "https://api.github.com/users/kejichangqing",
+      "html_url": "https://github.com/kejichangqing",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59428088?v=4"
+    },
+    "html_url": "https://github.com/kejichangqing/QingMusicPC",
+    "description": "青听音乐电脑版",
+    "created_at": "2026-10-19T07:57:56Z",
+    "updated_at": "2026-10-22T14:53:49Z",
+    "pushed_at": "2026-10-20T05:30:58Z",
+    "git_url": "git://github.com/kejichangqing/QingMusicPC.git",
+    "homepage": null,
+    "size": 1204,
+    "stargazers_count": 62,
+    "watchers_count": 62,
+    "language": null,
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
