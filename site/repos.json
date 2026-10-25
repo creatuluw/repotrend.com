@@ -87536,5 +87536,51 @@
     "language": "HTML",
     "forks_count": 52,
     "open_issues_count": 0
+  },
+  {
+    "id": 1393935935,
+    "name": "cinetic",
+    "owner": {
+      "id": 219127460,
+      "url": "https://api.github.com/users/Leonxlnx",
+      "html_url": "https://github.com/Leonxlnx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219127460?v=4"
+    },
+    "html_url": "https://github.com/Leonxlnx/cinetic",
+    "description": "Cinematic launch films and motion design from code, directed by your coding agent.",
+    "created_at": "2026-09-28T22:57:22Z",
+    "updated_at": "2026-10-22T19:31:38Z",
+    "pushed_at": "2026-10-18T00:26:40Z",
+    "git_url": "git://github.com/Leonxlnx/cinetic.git",
+    "homepage": "",
+    "size": 51768,
+    "stargazers_count": 791,
+    "watchers_count": 791,
+    "language": "Python",
+    "forks_count": 48,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1427362051,
+    "name": "geckobox",
+    "owner": {
+      "id": 195101006,
+      "url": "https://api.github.com/users/migasrias2",
+      "html_url": "https://github.com/migasrias2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/195101006?v=4"
+    },
+    "html_url": "https://github.com/migasrias2/geckobox",
+    "description": "Run Claude Code, Codex or any coding agent on any of your computers, and jobs across all of them at once. Free, MIT, no relay, no limits.",
+    "created_at": "2026-10-20T17:39:42Z",
+    "updated_at": "2026-10-22T19:39:54Z",
+    "pushed_at": "2026-10-20T19:51:40Z",
+    "git_url": "git://github.com/migasrias2/geckobox.git",
+    "homepage": null,
+    "size": 8313,
+    "stargazers_count": 68,
+    "watchers_count": 68,
+    "language": "TypeScript",
+    "forks_count": 8,
+    "open_issues_count": 0
   }
 ]
