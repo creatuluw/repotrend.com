@@ -87582,5 +87582,51 @@
     "language": "TypeScript",
     "forks_count": 8,
     "open_issues_count": 0
+  },
+  {
+    "id": 1426220635,
+    "name": "ascii-sharks",
+    "owner": {
+      "id": 59258883,
+      "url": "https://api.github.com/users/stackedlol",
+      "html_url": "https://github.com/stackedlol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59258883?v=4"
+    },
+    "html_url": "https://github.com/stackedlol/ascii-sharks",
+    "description": "ascii shark components in typescript",
+    "created_at": "2026-10-19T21:54:19Z",
+    "updated_at": "2026-10-25T03:11:34Z",
+    "pushed_at": "2026-10-24T16:07:32Z",
+    "git_url": "git://github.com/stackedlol/ascii-sharks.git",
+    "homepage": null,
+    "size": 12,
+    "stargazers_count": 809,
+    "watchers_count": 809,
+    "language": "TypeScript",
+    "forks_count": 62,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1431469939,
+    "name": "flag.txt",
+    "owner": {
+      "id": 32233573,
+      "url": "https://api.github.com/users/e14tech",
+      "html_url": "https://github.com/e14tech",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32233573?v=4"
+    },
+    "html_url": "https://github.com/e14tech/flag.txt",
+    "description": "flag.txt file to deter AI agents",
+    "created_at": "2026-10-23T19:33:46Z",
+    "updated_at": "2026-10-25T01:51:32Z",
+    "pushed_at": "2026-10-23T20:19:07Z",
+    "git_url": "git://github.com/e14tech/flag.txt.git",
+    "homepage": null,
+    "size": 1,
+    "stargazers_count": 75,
+    "watchers_count": 75,
+    "language": null,
+    "forks_count": 5,
+    "open_issues_count": 0
   }
 ]
