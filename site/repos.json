@@ -87674,5 +87674,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1411491009,
+    "name": "FinderSearch",
+    "owner": {
+      "id": 176775140,
+      "url": "https://api.github.com/users/zeusinsight",
+      "html_url": "https://github.com/zeusinsight",
+      "avatar_url": "https://avatars.githubusercontent.com/u/176775140?v=4"
+    },
+    "html_url": "https://github.com/zeusinsight/FinderSearch",
+    "description": "A native macOS file browser with fast fuzzy filename search, powered by fsearch.",
+    "created_at": "2026-10-09T08:01:38Z",
+    "updated_at": "2026-10-23T19:42:48Z",
+    "pushed_at": "2026-10-15T07:51:24Z",
+    "git_url": "git://github.com/zeusinsight/FinderSearch.git",
+    "homepage": null,
+    "size": 3489,
+    "stargazers_count": 683,
+    "watchers_count": 683,
+    "language": "Swift",
+    "forks_count": 22,
+    "open_issues_count": 21
+  },
+  {
+    "id": 1432663105,
+    "name": "free-claude-code",
+    "owner": {
+      "id": 347546139,
+      "url": "https://api.github.com/users/aideveloper-web",
+      "html_url": "https://github.com/aideveloper-web",
+      "avatar_url": "https://avatars.githubusercontent.com/u/347546139?v=4"
+    },
+    "html_url": "https://github.com/aideveloper-web/free-claude-code",
+    "description": "Explore Free Claude Code Fable 5.1 and discover AI-powered coding workflows, developer tools, and resources for modern software development.",
+    "created_at": "2026-10-24T22:59:40Z",
+    "updated_at": "2026-10-25T00:09:30Z",
+    "pushed_at": "2026-10-24T23:54:30Z",
+    "git_url": "git://github.com/aideveloper-web/free-claude-code.git",
+    "homepage": "",
+    "size": 44,
+    "stargazers_count": 62,
+    "watchers_count": 62,
+    "language": null,
+    "forks_count": 11,
+    "open_issues_count": 0
   }
 ]
