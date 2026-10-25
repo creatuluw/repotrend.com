@@ -87628,5 +87628,51 @@
     "language": null,
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1425658028,
+    "name": "spritefusion-sprite-normals",
+    "owner": {
+      "id": 30731578,
+      "url": "https://api.github.com/users/Hugo-Dz",
+      "html_url": "https://github.com/Hugo-Dz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30731578?v=4"
+    },
+    "html_url": "https://github.com/Hugo-Dz/spritefusion-sprite-normals",
+    "description": "A tool to generate normal maps from any sprite and animated sprite sheet.",
+    "created_at": "2026-10-19T13:26:45Z",
+    "updated_at": "2026-10-25T03:19:27Z",
+    "pushed_at": "2026-10-20T10:31:00Z",
+    "git_url": "git://github.com/Hugo-Dz/spritefusion-sprite-normals.git",
+    "homepage": "https://www.spritefusion.com/sprite-normals",
+    "size": 736,
+    "stargazers_count": 660,
+    "watchers_count": 660,
+    "language": "Rust",
+    "forks_count": 48,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1431793016,
+    "name": "mcd-coupon-assistant",
+    "owner": {
+      "id": 73376609,
+      "url": "https://api.github.com/users/tian1326",
+      "html_url": "https://github.com/tian1326",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73376609?v=4"
+    },
+    "html_url": "https://github.com/tian1326/mcd-coupon-assistant",
+    "description": "麦当劳优惠券省钱助手 — 基于麦当劳中国官方 MCP 的 WorkBuddy Skill：查门店/查券/带券算价/比价推荐。默认不下单、不自动领券。",
+    "created_at": "2026-10-24T03:58:29Z",
+    "updated_at": "2026-10-25T03:37:01Z",
+    "pushed_at": "2026-10-24T13:46:30Z",
+    "git_url": "git://github.com/tian1326/mcd-coupon-assistant.git",
+    "homepage": null,
+    "size": 19,
+    "stargazers_count": 95,
+    "watchers_count": 95,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
