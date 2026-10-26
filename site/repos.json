@@ -87904,5 +87904,74 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1403115747,
+    "name": "replica-skill",
+    "owner": {
+      "id": 196724947,
+      "url": "https://api.github.com/users/Jakeschincariol",
+      "html_url": "https://github.com/Jakeschincariol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196724947?v=4"
+    },
+    "html_url": "https://github.com/Jakeschincariol/replica-skill",
+    "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+    "created_at": "2026-10-03T12:07:49Z",
+    "updated_at": "2026-10-25T20:34:07Z",
+    "pushed_at": "2026-10-03T12:07:53Z",
+    "git_url": "git://github.com/Jakeschincariol/replica-skill.git",
+    "homepage": "https://opusjake.ai",
+    "size": 66,
+    "stargazers_count": 5463,
+    "watchers_count": 5463,
+    "language": "Python",
+    "forks_count": 959,
+    "open_issues_count": 13
+  },
+  {
+    "id": 1420177366,
+    "name": "PaidToStudyAbroad",
+    "owner": {
+      "id": 342797272,
+      "url": "https://api.github.com/users/BeckyGlobal",
+      "html_url": "https://github.com/BeckyGlobal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/342797272?v=4"
+    },
+    "html_url": "https://github.com/BeckyGlobal/PaidToStudyAbroad",
+    "description": "高性价比人生指南·海外版：高性价比留学。出国留学奖学金、免学费、政府全奖、带薪读博，德国日本学手艺有人发钱，美加澳奖学金单独成节。不是你花钱去留学，是你拿钱去留学。71 条，只引官方来源。关注作者：微信视频号 Becky在地球村",
+    "created_at": "2026-10-15T04:42:09Z",
+    "updated_at": "2026-10-23T20:44:06Z",
+    "pushed_at": "2026-10-21T23:15:53Z",
+    "git_url": "git://github.com/BeckyGlobal/PaidToStudyAbroad.git",
+    "homepage": "https://beckyglobal.github.io/PaidToStudyAbroad/",
+    "size": 2431,
+    "stargazers_count": 799,
+    "watchers_count": 799,
+    "language": "HTML",
+    "forks_count": 51,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1429973002,
+    "name": "Onimusha-Way-of-the-Sword-FPS-Optimizer",
+    "owner": {
+      "id": 319657319,
+      "url": "https://api.github.com/users/Needlepewall",
+      "html_url": "https://github.com/Needlepewall",
+      "avatar_url": "https://avatars.githubusercontent.com/u/319657319?v=4"
+    },
+    "html_url": "https://github.com/Needlepewall/Onimusha-Way-of-the-Sword-FPS-Optimizer",
+    "description": "Lightweight desktop tool for Onimusha: Way of the Sword. Smart FPS optimization, performance tuning, process management and real-time monitoring. Designed to improve frame rates and stability in Capcom’s action-adventure title. Regularly updated",
+    "created_at": "2026-10-22T16:05:38Z",
+    "updated_at": "2026-10-22T16:32:18Z",
+    "pushed_at": "2026-10-22T16:08:24Z",
+    "git_url": "git://github.com/Needlepewall/Onimusha-Way-of-the-Sword-FPS-Optimizer.git",
+    "homepage": "",
+    "size": 5,
+    "stargazers_count": 84,
+    "watchers_count": 84,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
