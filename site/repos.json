@@ -87720,5 +87720,51 @@
     "language": null,
     "forks_count": 11,
     "open_issues_count": 0
+  },
+  {
+    "id": 1405283311,
+    "name": "Grandet",
+    "owner": {
+      "id": 120188782,
+      "url": "https://api.github.com/users/hanzohanzhe",
+      "html_url": "https://github.com/hanzohanzhe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/120188782?v=4"
+    },
+    "html_url": "https://github.com/hanzohanzhe/Grandet",
+    "description": "Find the cheapest API for any model and connect it from your AI agent: Grandet Skill and an anonymous MCP server, backed by listed prices from 1,800+ official, inference and relay providers on grandet.ai.",
+    "created_at": "2026-10-05T06:50:33Z",
+    "updated_at": "2026-10-24T19:01:36Z",
+    "pushed_at": "2026-10-19T22:32:19Z",
+    "git_url": "git://github.com/hanzohanzhe/Grandet.git",
+    "homepage": "https://grandet.ai",
+    "size": 10356,
+    "stargazers_count": 725,
+    "watchers_count": 725,
+    "language": "JavaScript",
+    "forks_count": 66,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1429387161,
+    "name": "contextcraft",
+    "owner": {
+      "id": 345208720,
+      "url": "https://api.github.com/users/khanhtq29vn",
+      "html_url": "https://github.com/khanhtq29vn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/345208720?v=4"
+    },
+    "html_url": "https://github.com/khanhtq29vn/contextcraft",
+    "description": "AST-Aware, Personalized-PageRank-Ranked, Token-Budgeted Codebase Compressor for LLMs",
+    "created_at": "2026-10-22T07:20:53Z",
+    "updated_at": "2026-10-25T20:28:37Z",
+    "pushed_at": "2026-10-25T02:15:06Z",
+    "git_url": "git://github.com/khanhtq29vn/contextcraft.git",
+    "homepage": "https://khanhtq29vn.github.io/contextcraft/",
+    "size": 511,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": "Python",
+    "forks_count": 6,
+    "open_issues_count": 8
   }
 ]
