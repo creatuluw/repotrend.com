@@ -88065,5 +88065,51 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1402021312,
+    "name": "Lyapunov",
+    "owner": {
+      "id": 126967181,
+      "url": "https://api.github.com/users/ManfredCh",
+      "html_url": "https://github.com/ManfredCh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126967181?v=4"
+    },
+    "html_url": "https://github.com/ManfredCh/Lyapunov",
+    "description": "LLM-first, 3D-native robotics and simulation workspace.",
+    "created_at": "2026-10-02T15:45:56Z",
+    "updated_at": "2026-10-27T04:16:36Z",
+    "pushed_at": "2026-10-23T19:18:15Z",
+    "git_url": "git://github.com/ManfredCh/Lyapunov.git",
+    "homepage": "https://vorynel.com/lyapunov/",
+    "size": 45237,
+    "stargazers_count": 774,
+    "watchers_count": 774,
+    "language": "TypeScript",
+    "forks_count": 59,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1431932080,
+    "name": "TokenBar",
+    "owner": {
+      "id": 79432134,
+      "url": "https://api.github.com/users/lwh0630",
+      "html_url": "https://github.com/lwh0630",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79432134?v=4"
+    },
+    "html_url": "https://github.com/lwh0630/TokenBar",
+    "description": "Open-source, cross-platform AI quota monitor (Codex, Claude, Cursor and 47 more). Windows, macOS, Linux, Android and iOS. Built with Flutter.",
+    "created_at": "2026-10-24T07:30:31Z",
+    "updated_at": "2026-10-26T21:51:39Z",
+    "pushed_at": "2026-10-26T03:31:34Z",
+    "git_url": "git://github.com/lwh0630/TokenBar.git",
+    "homepage": null,
+    "size": 4215,
+    "stargazers_count": 83,
+    "watchers_count": 83,
+    "language": "Dart",
+    "forks_count": 6,
+    "open_issues_count": 0
   }
 ]
