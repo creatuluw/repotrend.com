@@ -88180,5 +88180,74 @@
     "language": "Rust",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1426780056,
+    "name": "aerial-tv",
+    "owner": {
+      "id": 16513318,
+      "url": "https://api.github.com/users/pengchujin",
+      "html_url": "https://github.com/pengchujin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16513318?v=4"
+    },
+    "html_url": "https://github.com/pengchujin/aerial-tv",
+    "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+    "created_at": "2026-10-20T09:13:06Z",
+    "updated_at": "2026-10-27T17:42:16Z",
+    "pushed_at": "2026-10-27T15:40:02Z",
+    "git_url": "git://github.com/pengchujin/aerial-tv.git",
+    "homepage": "https://aerial.qust.me",
+    "size": 8409,
+    "stargazers_count": 6675,
+    "watchers_count": 6675,
+    "language": "Kotlin",
+    "forks_count": 555,
+    "open_issues_count": 254
+  },
+  {
+    "id": 1401538687,
+    "name": "ai_goodpractice",
+    "owner": {
+      "id": 73129829,
+      "url": "https://api.github.com/users/xop01",
+      "html_url": "https://github.com/xop01",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73129829?v=4"
+    },
+    "html_url": "https://github.com/xop01/ai_goodpractice",
+    "description": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
+    "created_at": "2026-10-02T11:01:25Z",
+    "updated_at": "2026-10-27T17:08:19Z",
+    "pushed_at": "2026-10-02T13:40:21Z",
+    "git_url": "git://github.com/xop01/ai_goodpractice.git",
+    "homepage": "",
+    "size": 12,
+    "stargazers_count": 777,
+    "watchers_count": 777,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1432610421,
+    "name": "302api-developer-kit",
+    "owner": {
+      "id": 219129385,
+      "url": "https://api.github.com/users/XinchengLabs",
+      "html_url": "https://github.com/XinchengLabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219129385?v=4"
+    },
+    "html_url": "https://github.com/XinchengLabs/302api-developer-kit",
+    "description": "302API 开发者资料与接入示例：Python / Node.js / cURL、客户端配置、前端组件与本地账单验算器。Apache-2.0 开源，再分发请保留 NOTICE 署名。",
+    "created_at": "2026-10-24T21:30:09Z",
+    "updated_at": "2026-10-27T17:28:45Z",
+    "pushed_at": "2026-10-25T09:10:35Z",
+    "git_url": "git://github.com/XinchengLabs/302api-developer-kit.git",
+    "homepage": "https://302api.com",
+    "size": 80,
+    "stargazers_count": 87,
+    "watchers_count": 87,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
