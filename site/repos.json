@@ -88410,5 +88410,74 @@
     "language": null,
     "forks_count": 10,
     "open_issues_count": 1
+  },
+  {
+    "id": 1406706284,
+    "name": "huashu-art-motion",
+    "owner": {
+      "id": 127714341,
+      "url": "https://api.github.com/users/alchaincyf",
+      "html_url": "https://github.com/alchaincyf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127714341?v=4"
+    },
+    "html_url": "https://github.com/alchaincyf/huashu-art-motion",
+    "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+    "created_at": "2026-10-06T04:49:37Z",
+    "updated_at": "2026-10-28T11:49:03Z",
+    "pushed_at": "2026-10-16T17:03:31Z",
+    "git_url": "git://github.com/alchaincyf/huashu-art-motion.git",
+    "homepage": null,
+    "size": 78640,
+    "stargazers_count": 5645,
+    "watchers_count": 5645,
+    "language": "JavaScript",
+    "forks_count": 577,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1421186614,
+    "name": "franco",
+    "owner": {
+      "id": 291426032,
+      "url": "https://api.github.com/users/GortexAI",
+      "html_url": "https://github.com/GortexAI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/291426032?v=4"
+    },
+    "html_url": "https://github.com/GortexAI/franco",
+    "description": "Franco: an outbound sales agent that runs on your Claude Code or Codex subscription",
+    "created_at": "2026-10-15T18:41:56Z",
+    "updated_at": "2026-10-26T22:10:51Z",
+    "pushed_at": "2026-10-26T15:00:17Z",
+    "git_url": "git://github.com/GortexAI/franco.git",
+    "homepage": "https://gortex.ai",
+    "size": 8513,
+    "stargazers_count": 807,
+    "watchers_count": 807,
+    "language": "Python",
+    "forks_count": 314,
+    "open_issues_count": 9
+  },
+  {
+    "id": 1433061317,
+    "name": "Riposte-Frontline-Source",
+    "owner": {
+      "id": 200756874,
+      "url": "https://api.github.com/users/BenDBSS",
+      "html_url": "https://github.com/BenDBSS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/200756874?v=4"
+    },
+    "html_url": "https://github.com/BenDBSS/Riposte-Frontline-Source",
+    "description": "Source code of Riposte: Frontline, a free FPS that runs in the browser on desktop and mobile. Play at https://www.playriposte.com",
+    "created_at": "2026-10-25T10:10:59Z",
+    "updated_at": "2026-10-27T19:54:59Z",
+    "pushed_at": "2026-10-25T12:44:41Z",
+    "git_url": "git://github.com/BenDBSS/Riposte-Frontline-Source.git",
+    "homepage": null,
+    "size": 54036,
+    "stargazers_count": 69,
+    "watchers_count": 69,
+    "language": "JavaScript",
+    "forks_count": 21,
+    "open_issues_count": 0
   }
 ]
