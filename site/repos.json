@@ -88249,5 +88249,51 @@
     "language": "Python",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1415404414,
+    "name": "miner",
+    "owner": {
+      "id": 334615534,
+      "url": "https://api.github.com/users/flybrainlabs",
+      "html_url": "https://github.com/flybrainlabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/334615534?v=4"
+    },
+    "html_url": "https://github.com/flybrainlabs/miner",
+    "description": "flybrainlabs native and WebAssembly simulation engines and browser mining.",
+    "created_at": "2026-10-12T10:01:05Z",
+    "updated_at": "2026-10-27T21:41:20Z",
+    "pushed_at": "2026-10-23T08:44:48Z",
+    "git_url": "git://github.com/flybrainlabs/miner.git",
+    "homepage": "https://flybrain.work/",
+    "size": 1512,
+    "stargazers_count": 717,
+    "watchers_count": 717,
+    "language": "JavaScript",
+    "forks_count": 26,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1432050645,
+    "name": "aion-2-enhancement-suite",
+    "owner": {
+      "id": 230362490,
+      "url": "https://api.github.com/users/vojnovicaroslav-cmyk",
+      "html_url": "https://github.com/vojnovicaroslav-cmyk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/230362490?v=4"
+    },
+    "html_url": "https://github.com/vojnovicaroslav-cmyk/aion-2-enhancement-suite",
+    "description": "AION 2 Trainer: Reusable Profiles, Configurable Hotkeys, Game-Specific Dashboard",
+    "created_at": "2026-10-24T10:08:12Z",
+    "updated_at": "2026-10-27T21:39:11Z",
+    "pushed_at": "2026-10-27T21:39:07Z",
+    "git_url": "git://github.com/vojnovicaroslav-cmyk/aion-2-enhancement-suite.git",
+    "homepage": null,
+    "size": 201,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
