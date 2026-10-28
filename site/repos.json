@@ -88364,5 +88364,51 @@
     "language": "C",
     "forks_count": 11,
     "open_issues_count": 2
+  },
+  {
+    "id": 1394129213,
+    "name": "DiPlay-CN",
+    "owner": {
+      "id": 42286729,
+      "url": "https://api.github.com/users/serein-morii",
+      "html_url": "https://github.com/serein-morii",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42286729?v=4"
+    },
+    "html_url": "https://github.com/serein-morii/DiPlay-CN",
+    "description": "DiPlay 加强版",
+    "created_at": "2026-09-29T02:54:09Z",
+    "updated_at": "2026-10-27T19:41:40Z",
+    "pushed_at": "2026-10-26T19:05:54Z",
+    "git_url": "git://github.com/serein-morii/DiPlay-CN.git",
+    "homepage": "",
+    "size": 17190,
+    "stargazers_count": 838,
+    "watchers_count": 838,
+    "language": "Kotlin",
+    "forks_count": 47,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1434313169,
+    "name": "HGTV",
+    "owner": {
+      "id": 10355764,
+      "url": "https://api.github.com/users/pan8664716",
+      "html_url": "https://github.com/pan8664716",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10355764?v=4"
+    },
+    "html_url": "https://github.com/pan8664716/HGTV",
+    "description": "短剧客户端（Android TV / 手机 / 平板）",
+    "created_at": "2026-10-26T11:52:54Z",
+    "updated_at": "2026-10-28T03:34:52Z",
+    "pushed_at": "2026-10-27T14:21:52Z",
+    "git_url": "git://github.com/pan8664716/HGTV.git",
+    "homepage": "https://t.me/hgtvhub",
+    "size": 1990,
+    "stargazers_count": 90,
+    "watchers_count": 90,
+    "language": null,
+    "forks_count": 10,
+    "open_issues_count": 1
   }
 ]
