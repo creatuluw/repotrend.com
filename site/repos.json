@@ -88617,5 +88617,51 @@
     "language": "Python",
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1428714029,
+    "name": "supermimic_vibed",
+    "owner": {
+      "id": 54518250,
+      "url": "https://api.github.com/users/zita-ch",
+      "html_url": "https://github.com/zita-ch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54518250?v=4"
+    },
+    "html_url": "https://github.com/zita-ch/supermimic_vibed",
+    "description": "vibe coded supermimic within 1h, LAFAN passed within 1.5 gpuh training",
+    "created_at": "2026-10-21T17:29:28Z",
+    "updated_at": "2026-10-29T12:29:39Z",
+    "pushed_at": "2026-10-28T22:39:49Z",
+    "git_url": "git://github.com/zita-ch/supermimic_vibed.git",
+    "homepage": null,
+    "size": 5592,
+    "stargazers_count": 717,
+    "watchers_count": 717,
+    "language": "Python",
+    "forks_count": 71,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1438078848,
+    "name": "FL-Studio",
+    "owner": {
+      "id": 295661641,
+      "url": "https://api.github.com/users/WyvernProvost",
+      "html_url": "https://github.com/WyvernProvost",
+      "avatar_url": "https://avatars.githubusercontent.com/u/295661641?v=4"
+    },
+    "html_url": "https://github.com/WyvernProvost/FL-Studio",
+    "description": "Complete standalone setup for FL Studio 2026, your go-to digital audio workstation, ready to run with all features unlocked.",
+    "created_at": "2026-10-29T07:18:24Z",
+    "updated_at": "2026-10-29T08:45:59Z",
+    "pushed_at": "2026-10-29T07:18:32Z",
+    "git_url": "git://github.com/WyvernProvost/FL-Studio.git",
+    "homepage": "",
+    "size": 2,
+    "stargazers_count": 99,
+    "watchers_count": 99,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
