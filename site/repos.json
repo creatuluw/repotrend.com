@@ -88663,5 +88663,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1432875224,
+    "name": "gdirect",
+    "owner": {
+      "id": 252857002,
+      "url": "https://api.github.com/users/mizorewww",
+      "html_url": "https://github.com/mizorewww",
+      "avatar_url": "https://avatars.githubusercontent.com/u/252857002?v=4"
+    },
+    "html_url": "https://github.com/mizorewww/gdirect",
+    "description": "Rust Google Drive direct downloader using pinned libaria2",
+    "created_at": "2026-10-25T05:52:22Z",
+    "updated_at": "2026-10-26T21:42:28Z",
+    "pushed_at": "2026-10-26T11:07:58Z",
+    "git_url": "git://github.com/mizorewww/gdirect.git",
+    "homepage": "https://mizore.blog/posts/gdirect/",
+    "size": 4103,
+    "stargazers_count": 703,
+    "watchers_count": 703,
+    "language": "Rust",
+    "forks_count": 44,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1438080001,
+    "name": "LANDR-Plugin-Bundle",
+    "owner": {
+      "id": 295661468,
+      "url": "https://api.github.com/users/GasClerkNurse",
+      "html_url": "https://github.com/GasClerkNurse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/295661468?v=4"
+    },
+    "html_url": "https://github.com/GasClerkNurse/LANDR-Plugin-Bundle",
+    "description": "Landr Plugin Bundle 2026: Full working installer with all plugins pre-installed and ready to run on your desktop.",
+    "created_at": "2026-10-29T07:19:42Z",
+    "updated_at": "2026-10-29T09:04:48Z",
+    "pushed_at": "2026-10-29T07:19:50Z",
+    "git_url": "git://github.com/GasClerkNurse/LANDR-Plugin-Bundle.git",
+    "homepage": "",
+    "size": 2,
+    "stargazers_count": 92,
+    "watchers_count": 92,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
