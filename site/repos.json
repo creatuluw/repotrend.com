@@ -88525,5 +88525,51 @@
     "language": "Go",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1411113692,
+    "name": "ARTEX",
+    "owner": {
+      "id": 79234113,
+      "url": "https://api.github.com/users/RuoJi6",
+      "html_url": "https://github.com/RuoJi6",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79234113?v=4"
+    },
+    "html_url": "https://github.com/RuoJi6/ARTEX",
+    "description": "Autumn-27/ARTEX 持续维护开源版本",
+    "created_at": "2026-10-09T00:56:36Z",
+    "updated_at": "2026-10-26T18:30:54Z",
+    "pushed_at": "2026-10-26T09:16:56Z",
+    "git_url": "git://github.com/RuoJi6/ARTEX.git",
+    "homepage": "https://artex-demo-ruoji6.vercel.app/",
+    "size": 9789,
+    "stargazers_count": 701,
+    "watchers_count": 701,
+    "language": "Go",
+    "forks_count": 455,
+    "open_issues_count": 11
+  },
+  {
+    "id": 1432049251,
+    "name": "enshrouded-tool-fix",
+    "owner": {
+      "id": 271314008,
+      "url": "https://api.github.com/users/dz333444555-ship-it",
+      "html_url": "https://github.com/dz333444555-ship-it",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271314008?v=4"
+    },
+    "html_url": "https://github.com/dz333444555-ship-it/enshrouded-tool-fix",
+    "description": "Enshrouded-Tool-Fix: Utility for Resolving Various Game Issues - LiaNdrY",
+    "created_at": "2026-10-24T10:06:19Z",
+    "updated_at": "2026-10-27T19:18:34Z",
+    "pushed_at": "2026-10-27T19:17:58Z",
+    "git_url": "git://github.com/dz333444555-ship-it/enshrouded-tool-fix.git",
+    "homepage": null,
+    "size": 288,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
