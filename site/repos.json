@@ -88479,5 +88479,51 @@
     "language": "JavaScript",
     "forks_count": 21,
     "open_issues_count": 0
+  },
+  {
+    "id": 1434017230,
+    "name": "claude-skill",
+    "owner": {
+      "id": 348156401,
+      "url": "https://api.github.com/users/Motionsites-AI",
+      "html_url": "https://github.com/Motionsites-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/348156401?v=4"
+    },
+    "html_url": "https://github.com/Motionsites-AI/claude-skill",
+    "description": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
+    "created_at": "2026-10-26T06:58:45Z",
+    "updated_at": "2026-10-28T12:23:04Z",
+    "pushed_at": "2026-10-26T07:04:24Z",
+    "git_url": "git://github.com/Motionsites-AI/claude-skill.git",
+    "homepage": "https://motionsites.ai/?utm_source=github&utm_medium=claude-skill&utm_campaign=web-builder",
+    "size": 1942,
+    "stargazers_count": 732,
+    "watchers_count": 732,
+    "language": "Python",
+    "forks_count": 75,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1432038992,
+    "name": "ea-fc-27-pc-setup-gameplay-hub",
+    "owner": {
+      "id": 62800570,
+      "url": "https://api.github.com/users/weed99",
+      "html_url": "https://github.com/weed99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62800570?v=4"
+    },
+    "html_url": "https://github.com/weed99/ea-fc-27-pc-setup-gameplay-hub",
+    "description": "EA FC 27 PC Setup Hub: Gameplay, Graphics, Controllers, Stats",
+    "created_at": "2026-10-24T09:52:43Z",
+    "updated_at": "2026-10-27T16:23:59Z",
+    "pushed_at": "2026-10-27T16:23:54Z",
+    "git_url": "git://github.com/weed99/ea-fc-27-pc-setup-gameplay-hub.git",
+    "homepage": null,
+    "size": 79,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "Go",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
