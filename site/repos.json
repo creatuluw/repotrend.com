@@ -88916,5 +88916,51 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1430208916,
+    "name": "tellyscope",
+    "owner": {
+      "id": 13364153,
+      "url": "https://api.github.com/users/man15h",
+      "html_url": "https://github.com/man15h",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13364153?v=4"
+    },
+    "html_url": "https://github.com/man15h/tellyscope",
+    "description": "Debloat your Android TV, install apps, browse and transfer files on it, all from your phone. Under 3 MB, no tracking, no root, no PC.",
+    "created_at": "2026-10-22T19:51:46Z",
+    "updated_at": "2026-10-30T12:22:13Z",
+    "pushed_at": "2026-10-30T12:06:06Z",
+    "git_url": "git://github.com/man15h/tellyscope.git",
+    "homepage": "https://man15h.github.io/tellyscope/",
+    "size": 16313,
+    "stargazers_count": 831,
+    "watchers_count": 831,
+    "language": "Kotlin",
+    "forks_count": 48,
+    "open_issues_count": 14
+  },
+  {
+    "id": 1435939287,
+    "name": "m7-mcp-oss",
+    "owner": {
+      "id": 51200688,
+      "url": "https://api.github.com/users/DukeDeSouth",
+      "html_url": "https://github.com/DukeDeSouth",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51200688?v=4"
+    },
+    "html_url": "https://github.com/DukeDeSouth/m7-mcp-oss",
+    "description": "MCP server that makes an AI coding agent work through a fixed 7-phase cycle with enforced reflection gates, persistent project memory and multi-model Hive",
+    "created_at": "2026-10-27T15:45:11Z",
+    "updated_at": "2026-10-30T12:04:06Z",
+    "pushed_at": "2026-10-30T04:26:03Z",
+    "git_url": "git://github.com/DukeDeSouth/m7-mcp-oss.git",
+    "homepage": null,
+    "size": 1401,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "TypeScript",
+    "forks_count": 16,
+    "open_issues_count": 0
   }
 ]
