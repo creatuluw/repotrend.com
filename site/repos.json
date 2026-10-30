@@ -88847,5 +88847,74 @@
     "language": null,
     "forks_count": 6,
     "open_issues_count": 0
+  },
+  {
+    "id": 1368596582,
+    "name": "elephant-goldfish-model",
+    "owner": {
+      "id": 1342004,
+      "url": "https://api.github.com/users/google",
+      "html_url": "https://github.com/google",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1342004?v=4"
+    },
+    "html_url": "https://github.com/google/elephant-goldfish-model",
+    "description": "Open-source skills for designing and reviewing software with AI agents",
+    "created_at": "2026-09-13T16:31:06Z",
+    "updated_at": "2026-10-29T22:32:39Z",
+    "pushed_at": "2026-10-29T10:23:12Z",
+    "git_url": "git://github.com/google/elephant-goldfish-model.git",
+    "homepage": "https://egm.dev",
+    "size": 11082,
+    "stargazers_count": 5858,
+    "watchers_count": 5858,
+    "language": "Python",
+    "forks_count": 358,
+    "open_issues_count": 58
+  },
+  {
+    "id": 1412834960,
+    "name": "ExaltHelper",
+    "owner": {
+      "id": 198279942,
+      "url": "https://api.github.com/users/dach6",
+      "html_url": "https://github.com/dach6",
+      "avatar_url": "https://avatars.githubusercontent.com/u/198279942?v=4"
+    },
+    "html_url": "https://github.com/dach6/ExaltHelper",
+    "description": "A C# Windows companion for Realm of the Mad God Exalt featuring real-time DPS tracking, player/party overlays, ability & loot logs, and gameplay utilities with updated combat calculation fixes.",
+    "created_at": "2026-10-10T06:14:15Z",
+    "updated_at": "2026-10-28T05:30:25Z",
+    "pushed_at": "2026-10-14T19:32:17Z",
+    "git_url": "git://github.com/dach6/ExaltHelper.git",
+    "homepage": null,
+    "size": 43738,
+    "stargazers_count": 845,
+    "watchers_count": 845,
+    "language": "C#",
+    "forks_count": 52,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1434035901,
+    "name": "Fortnite-Respocket-AIO-Soft",
+    "owner": {
+      "id": 341169837,
+      "url": "https://api.github.com/users/CWraith44357",
+      "html_url": "https://github.com/CWraith44357",
+      "avatar_url": "https://avatars.githubusercontent.com/u/341169837?v=4"
+    },
+    "html_url": "https://github.com/CWraith44357/Fortnite-Respocket-AIO-Soft",
+    "description": "Best Software For Fortnite Yet",
+    "created_at": "2026-10-26T07:19:03Z",
+    "updated_at": "2026-10-29T15:48:51Z",
+    "pushed_at": "2026-10-26T07:19:14Z",
+    "git_url": "git://github.com/CWraith44357/Fortnite-Respocket-AIO-Soft.git",
+    "homepage": "",
+    "size": 8,
+    "stargazers_count": 64,
+    "watchers_count": 64,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
