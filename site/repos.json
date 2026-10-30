@@ -88801,5 +88801,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1418805110,
+    "name": "motion-prompt",
+    "owner": {
+      "id": 41701394,
+      "url": "https://api.github.com/users/showheyohtaki",
+      "html_url": "https://github.com/showheyohtaki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41701394?v=4"
+    },
+    "html_url": "https://github.com/showheyohtaki/motion-prompt",
+    "description": null,
+    "created_at": "2026-10-14T11:34:19Z",
+    "updated_at": "2026-10-30T04:35:12Z",
+    "pushed_at": "2026-10-29T12:52:08Z",
+    "git_url": "git://github.com/showheyohtaki/motion-prompt.git",
+    "homepage": "https://showheyohtaki.github.io/motion-prompt/",
+    "size": 32948,
+    "stargazers_count": 774,
+    "watchers_count": 774,
+    "language": "JavaScript",
+    "forks_count": 98,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1435984873,
+    "name": "jev-guide",
+    "owner": {
+      "id": 47433490,
+      "url": "https://api.github.com/users/theNetworkChuck",
+      "html_url": "https://github.com/theNetworkChuck",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47433490?v=4"
+    },
+    "html_url": "https://github.com/theNetworkChuck/jev-guide",
+    "description": "Companion guide for the NetworkChuck video 'You need to learn Jev RIGHT NOW': try Jev in the Playground, call the API, let your coding agent use it, build a model router. Tested on jev-1.14.0.",
+    "created_at": "2026-10-27T16:22:28Z",
+    "updated_at": "2026-10-30T03:40:03Z",
+    "pushed_at": "2026-10-27T16:24:01Z",
+    "git_url": "git://github.com/theNetworkChuck/jev-guide.git",
+    "homepage": null,
+    "size": 16,
+    "stargazers_count": 55,
+    "watchers_count": 55,
+    "language": null,
+    "forks_count": 6,
+    "open_issues_count": 0
   }
 ]
