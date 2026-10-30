@@ -88755,5 +88755,51 @@
     "language": "HTML",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1402554491,
+    "name": "claude-share",
+    "owner": {
+      "id": 188510655,
+      "url": "https://api.github.com/users/Paradigm-Study",
+      "html_url": "https://github.com/Paradigm-Study",
+      "avatar_url": "https://avatars.githubusercontent.com/u/188510655?v=4"
+    },
+    "html_url": "https://github.com/Paradigm-Study/claude-share",
+    "description": "Multiplayer sessions for Claude Code. Share a link, work together live, and review the same replies, tools and previews.",
+    "created_at": "2026-10-03T02:19:00Z",
+    "updated_at": "2026-10-29T21:36:53Z",
+    "pushed_at": "2026-10-29T21:47:25Z",
+    "git_url": "git://github.com/Paradigm-Study/claude-share.git",
+    "homepage": "https://claude-share.proud-limit-da0a.workers.dev",
+    "size": 7078,
+    "stargazers_count": 742,
+    "watchers_count": 742,
+    "language": "TypeScript",
+    "forks_count": 6,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1433774296,
+    "name": "dark-factory",
+    "owner": {
+      "id": 261623814,
+      "url": "https://api.github.com/users/ELU-Labs",
+      "html_url": "https://github.com/ELU-Labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/261623814?v=4"
+    },
+    "html_url": "https://github.com/ELU-Labs/dark-factory",
+    "description": "One prompt that sets up a dark factory for your repository with Grok Bots and ELU.",
+    "created_at": "2026-10-26T01:21:24Z",
+    "updated_at": "2026-10-27T04:39:40Z",
+    "pushed_at": "2026-10-27T04:39:36Z",
+    "git_url": "git://github.com/ELU-Labs/dark-factory.git",
+    "homepage": null,
+    "size": 10,
+    "stargazers_count": 94,
+    "watchers_count": 94,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
