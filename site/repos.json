@@ -88709,5 +88709,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1418815593,
+    "name": "claude-desktop-multiple-windows-different-api",
+    "owner": {
+      "id": 266329044,
+      "url": "https://api.github.com/users/TonF1917",
+      "html_url": "https://github.com/TonF1917",
+      "avatar_url": "https://avatars.githubusercontent.com/u/266329044?v=4"
+    },
+    "html_url": "https://github.com/TonF1917/claude-desktop-multiple-windows-different-api",
+    "description": "Multiple windows for Claude Desktop with different APIs at the same time: keep your official Claude subscription in one window and run other windows on custom / third-party APIs (cc-switch). Windows. 多开 Claude Desktop,多个窗口同时使用不同 API(官方订阅 + 第三方 API 同时工作)。",
+    "created_at": "2026-10-14T11:42:15Z",
+    "updated_at": "2026-10-27T21:46:09Z",
+    "pushed_at": "2026-10-27T12:44:54Z",
+    "git_url": "git://github.com/TonF1917/claude-desktop-multiple-windows-different-api.git",
+    "homepage": "",
+    "size": 399,
+    "stargazers_count": 742,
+    "watchers_count": 742,
+    "language": "PowerShell",
+    "forks_count": 27,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1435348900,
+    "name": "Insav-releases",
+    "owner": {
+      "id": 338882408,
+      "url": "https://api.github.com/users/ios151",
+      "html_url": "https://github.com/ios151",
+      "avatar_url": "https://avatars.githubusercontent.com/u/338882408?v=4"
+    },
+    "html_url": "https://github.com/ios151/Insav-releases",
+    "description": "INSAV 的安装包发布页（只发布 IPA，不含源码）",
+    "created_at": "2026-10-27T06:39:01Z",
+    "updated_at": "2026-10-29T17:52:39Z",
+    "pushed_at": "2026-10-28T00:05:01Z",
+    "git_url": "git://github.com/ios151/Insav-releases.git",
+    "homepage": null,
+    "size": 26,
+    "stargazers_count": 71,
+    "watchers_count": 71,
+    "language": "HTML",
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
