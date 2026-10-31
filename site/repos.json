@@ -89008,5 +89008,51 @@
     "language": "C",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1432512301,
+    "name": "survival-llm",
+    "owner": {
+      "id": 120387240,
+      "url": "https://api.github.com/users/anonnerdfrenzy",
+      "html_url": "https://github.com/anonnerdfrenzy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/120387240?v=4"
+    },
+    "html_url": "https://github.com/anonnerdfrenzy/survival-llm",
+    "description": "A free AI assistant and survival library that runs on your own computer, with no internet needed. Shows the source of every answer.",
+    "created_at": "2026-10-24T19:12:41Z",
+    "updated_at": "2026-10-30T22:01:41Z",
+    "pushed_at": "2026-10-29T22:21:56Z",
+    "git_url": "git://github.com/anonnerdfrenzy/survival-llm.git",
+    "homepage": "https://brangus.io/survival-llm",
+    "size": 1337,
+    "stargazers_count": 938,
+    "watchers_count": 938,
+    "language": "Python",
+    "forks_count": 76,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1440027958,
+    "name": "CapCut-for-Windows",
+    "owner": {
+      "id": 292564988,
+      "url": "https://api.github.com/users/ByteMidgePleat",
+      "html_url": "https://github.com/ByteMidgePleat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/292564988?v=4"
+    },
+    "html_url": "https://github.com/ByteMidgePleat/CapCut-for-Windows",
+    "description": "Capcut For Windows 2026 complete standalone setup. Ready-to-run, fully functional video editing and screen recording solution.",
+    "created_at": "2026-10-30T17:21:17Z",
+    "updated_at": "2026-10-30T19:07:18Z",
+    "pushed_at": "2026-10-30T17:21:25Z",
+    "git_url": "git://github.com/ByteMidgePleat/CapCut-for-Windows.git",
+    "homepage": "",
+    "size": 2,
+    "stargazers_count": 83,
+    "watchers_count": 83,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
