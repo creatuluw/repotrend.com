@@ -89054,5 +89054,74 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1349328247,
+    "name": "Jantt",
+    "owner": {
+      "id": 123323526,
+      "url": "https://api.github.com/users/AhmadHassan-BTed",
+      "html_url": "https://github.com/AhmadHassan-BTed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123323526?v=4"
+    },
+    "html_url": "https://github.com/AhmadHassan-BTed/Jantt",
+    "description": "The AI-native JSON Gantt chart engine. Dependency-free interactive timelines with React, script-tag, CLI, topological DAG solver, and formal JSON schema.",
+    "created_at": "2026-08-28T07:32:35Z",
+    "updated_at": "2026-10-30T21:43:08Z",
+    "pushed_at": "2026-10-30T17:25:45Z",
+    "git_url": "git://github.com/AhmadHassan-BTed/Jantt.git",
+    "homepage": "https://ahmadhassan-bted.github.io/Jantt/",
+    "size": 3302,
+    "stargazers_count": 5610,
+    "watchers_count": 5610,
+    "language": "TypeScript",
+    "forks_count": 17,
+    "open_issues_count": 13
+  },
+  {
+    "id": 1423566397,
+    "name": "dsh-bili-whale",
+    "owner": {
+      "id": 49617268,
+      "url": "https://api.github.com/users/Alterssss",
+      "html_url": "https://github.com/Alterssss",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49617268?v=4"
+    },
+    "html_url": "https://github.com/Alterssss/dsh-bili-whale",
+    "description": "给 DSH 装一条有日子的鱼：自己按作息刷 B 站、真看懂视频、写两本日记，把值得的 @ 你。",
+    "created_at": "2026-10-17T17:17:20Z",
+    "updated_at": "2026-10-31T11:54:43Z",
+    "pushed_at": "2026-10-25T10:17:11Z",
+    "git_url": "git://github.com/Alterssss/dsh-bili-whale.git",
+    "homepage": null,
+    "size": 751,
+    "stargazers_count": 802,
+    "watchers_count": 802,
+    "language": "JavaScript",
+    "forks_count": 80,
+    "open_issues_count": 25
+  },
+  {
+    "id": 1437295838,
+    "name": "dsh-familiar-memory",
+    "owner": {
+      "id": 265467032,
+      "url": "https://api.github.com/users/Elio896",
+      "html_url": "https://github.com/Elio896",
+      "avatar_url": "https://avatars.githubusercontent.com/u/265467032?v=4"
+    },
+    "html_url": "https://github.com/Elio896/dsh-familiar-memory",
+    "description": "给 DeepSeek Harness 的本地记忆层：养大肥鱼的可以下载来玩，经过测试下载之后比单纯用RAG和外部记忆库更有人情味更自然了。",
+    "created_at": "2026-10-28T15:47:07Z",
+    "updated_at": "2026-10-31T11:36:49Z",
+    "pushed_at": "2026-10-29T11:58:18Z",
+    "git_url": "git://github.com/Elio896/dsh-familiar-memory.git",
+    "homepage": "",
+    "size": 99,
+    "stargazers_count": 90,
+    "watchers_count": 90,
+    "language": "JavaScript",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
