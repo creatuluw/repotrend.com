@@ -89376,5 +89376,74 @@
     "language": "Go",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1424183124,
+    "name": "cn-math-taxonomy",
+    "owner": {
+      "id": 79557224,
+      "url": "https://api.github.com/users/xiaoyang111222",
+      "html_url": "https://github.com/xiaoyang111222",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79557224?v=4"
+    },
+    "html_url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+    "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
+    "created_at": "2026-10-18T09:04:43Z",
+    "updated_at": "2026-11-01T12:51:33Z",
+    "pushed_at": "2026-10-31T12:38:42Z",
+    "git_url": "git://github.com/xiaoyang111222/cn-math-taxonomy.git",
+    "homepage": "https://math.pansgo.com/",
+    "size": 39003,
+    "stargazers_count": 5773,
+    "watchers_count": 5773,
+    "language": "Python",
+    "forks_count": 1485,
+    "open_issues_count": 19
+  },
+  {
+    "id": 1404241593,
+    "name": "steamac",
+    "owner": {
+      "id": 4425268,
+      "url": "https://api.github.com/users/fxgl",
+      "html_url": "https://github.com/fxgl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4425268?v=4"
+    },
+    "html_url": "https://github.com/fxgl/steamac",
+    "description": "Valve's official ARM64 SteamOS in a lightweight VM on Apple Silicon: libkrun + Venus + MoltenVK, controllers, CoreAudio sound",
+    "created_at": "2026-10-04T10:23:35Z",
+    "updated_at": "2026-10-31T21:11:39Z",
+    "pushed_at": "2026-10-24T11:09:44Z",
+    "git_url": "git://github.com/fxgl/steamac.git",
+    "homepage": "https://fxgl.github.io/steamac/",
+    "size": 25535,
+    "stargazers_count": 972,
+    "watchers_count": 972,
+    "language": "Swift",
+    "forks_count": 44,
+    "open_issues_count": 27
+  },
+  {
+    "id": 1439121890,
+    "name": "MeerCut",
+    "owner": {
+      "id": 213194625,
+      "url": "https://api.github.com/users/CodeWithAmeer",
+      "html_url": "https://github.com/CodeWithAmeer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/213194625?v=4"
+    },
+    "html_url": "https://github.com/CodeWithAmeer/MeerCut",
+    "description": "Free, open-source video editor for Windows 11: multitrack editing, titles, transitions, effects, colour grading, audio mixing and local AI tools.",
+    "created_at": "2026-10-30T00:56:41Z",
+    "updated_at": "2026-11-01T12:04:20Z",
+    "pushed_at": "2026-10-30T02:01:28Z",
+    "git_url": "git://github.com/CodeWithAmeer/MeerCut.git",
+    "homepage": "",
+    "size": 40654,
+    "stargazers_count": 92,
+    "watchers_count": 92,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
