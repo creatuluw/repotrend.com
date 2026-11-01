@@ -89261,5 +89261,74 @@
     "language": "Python",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1433377156,
+    "name": "ub-mode",
+    "owner": {
+      "id": 36901,
+      "url": "https://api.github.com/users/unclebob",
+      "html_url": "https://github.com/unclebob",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36901?v=4"
+    },
+    "html_url": "https://github.com/unclebob/ub-mode",
+    "description": null,
+    "created_at": "2026-10-25T16:04:09Z",
+    "updated_at": "2026-10-31T21:11:22Z",
+    "pushed_at": "2026-10-25T16:07:59Z",
+    "git_url": "git://github.com/unclebob/ub-mode.git",
+    "homepage": null,
+    "size": 4,
+    "stargazers_count": 5714,
+    "watchers_count": 5714,
+    "language": null,
+    "forks_count": 314,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1409138084,
+    "name": "EdgeRock",
+    "owner": {
+      "id": 339013215,
+      "url": "https://api.github.com/users/rockmatrix-ai",
+      "html_url": "https://github.com/rockmatrix-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/339013215?v=4"
+    },
+    "html_url": "https://github.com/rockmatrix-ai/EdgeRock",
+    "description": "EdgeRock: Strong Reasoning at Constant Memory. Multimodal models with O(N) generation and O(1) persistent history. Inference and evaluation code.",
+    "created_at": "2026-10-07T17:21:11Z",
+    "updated_at": "2026-10-30T21:36:24Z",
+    "pushed_at": "2026-10-23T10:52:31Z",
+    "git_url": "git://github.com/rockmatrix-ai/EdgeRock.git",
+    "homepage": "https://huggingface.co/rockmatrix-ai/EdgeRock",
+    "size": 31599,
+    "stargazers_count": 820,
+    "watchers_count": 820,
+    "language": "Python",
+    "forks_count": 7,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1438715357,
+    "name": "sega-activator-to-usb",
+    "owner": {
+      "id": 49858476,
+      "url": "https://api.github.com/users/DurgeshDhyani123",
+      "html_url": "https://github.com/DurgeshDhyani123",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49858476?v=4"
+    },
+    "html_url": "https://github.com/DurgeshDhyani123/sega-activator-to-usb",
+    "description": "Sega Activator to USB Adapter: Desktop Firmware and Mapping Tool for Development",
+    "created_at": "2026-10-29T17:01:08Z",
+    "updated_at": "2026-10-31T19:48:03Z",
+    "pushed_at": "2026-10-31T19:48:00Z",
+    "git_url": "git://github.com/DurgeshDhyani123/sega-activator-to-usb.git",
+    "homepage": null,
+    "size": 79,
+    "stargazers_count": 82,
+    "watchers_count": 82,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
