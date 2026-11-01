@@ -89445,5 +89445,51 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1422357371,
+    "name": "bluntcore-intimacy-lab",
+    "owner": {
+      "id": 217260810,
+      "url": "https://api.github.com/users/VITASID57",
+      "html_url": "https://github.com/VITASID57",
+      "avatar_url": "https://avatars.githubusercontent.com/u/217260810?v=4"
+    },
+    "html_url": "https://github.com/VITASID57/bluntcore-intimacy-lab",
+    "description": "🧬 钝核｜人机亲密实验室 · Bluntcore Intimacy Lab｜人机恋、成人 AI、Prompt、Memory、Agent、模型床测与实验记录。https://x.com/QloveDudu",
+    "created_at": "2026-10-16T15:46:10Z",
+    "updated_at": "2026-11-01T11:50:58Z",
+    "pushed_at": "2026-11-01T09:58:11Z",
+    "git_url": "git://github.com/VITASID57/bluntcore-intimacy-lab.git",
+    "homepage": "",
+    "size": 420,
+    "stargazers_count": 836,
+    "watchers_count": 836,
+    "language": null,
+    "forks_count": 137,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1438681307,
+    "name": "gtweak-portable",
+    "owner": {
+      "id": 220466451,
+      "url": "https://api.github.com/users/Jerry24655",
+      "html_url": "https://github.com/Jerry24655",
+      "avatar_url": "https://avatars.githubusercontent.com/u/220466451?v=4"
+    },
+    "html_url": "https://github.com/Jerry24655/gtweak-portable",
+    "description": "GTweak: Portable Configuration Manager for Streamlined Windows Setup and System Tuning",
+    "created_at": "2026-10-29T16:31:30Z",
+    "updated_at": "2026-11-01T09:19:10Z",
+    "pushed_at": "2026-11-01T09:19:06Z",
+    "git_url": "git://github.com/Jerry24655/gtweak-portable.git",
+    "homepage": null,
+    "size": 91,
+    "stargazers_count": 83,
+    "watchers_count": 83,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
