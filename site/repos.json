@@ -89537,5 +89537,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1432883796,
+    "name": "agent-purge",
+    "owner": {
+      "id": 139305401,
+      "url": "https://api.github.com/users/ZiChuanLan",
+      "html_url": "https://github.com/ZiChuanLan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139305401?v=4"
+    },
+    "html_url": "https://github.com/ZiChuanLan/agent-purge",
+    "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
+    "created_at": "2026-10-25T06:06:02Z",
+    "updated_at": "2026-11-01T20:47:20Z",
+    "pushed_at": "2026-11-01T19:21:59Z",
+    "git_url": "git://github.com/ZiChuanLan/agent-purge.git",
+    "homepage": "",
+    "size": 801,
+    "stargazers_count": 961,
+    "watchers_count": 961,
+    "language": "JavaScript",
+    "forks_count": 684,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1438075107,
+    "name": "Ableton-Live-12",
+    "owner": {
+      "id": 295660381,
+      "url": "https://api.github.com/users/ClipTerrapin48",
+      "html_url": "https://github.com/ClipTerrapin48",
+      "avatar_url": "https://avatars.githubusercontent.com/u/295660381?v=4"
+    },
+    "html_url": "https://github.com/ClipTerrapin48/Ableton-Live-12",
+    "description": "Complete Ableton Live 12 standalone setup for professional audio production, pre-activated and ready to run.",
+    "created_at": "2026-10-29T07:14:22Z",
+    "updated_at": "2026-10-30T19:07:06Z",
+    "pushed_at": "2026-10-29T07:14:30Z",
+    "git_url": "git://github.com/ClipTerrapin48/Ableton-Live-12.git",
+    "homepage": null,
+    "size": 2,
+    "stargazers_count": 99,
+    "watchers_count": 99,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
