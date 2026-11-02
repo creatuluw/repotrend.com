@@ -89491,5 +89491,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1409660690,
+    "name": "WinShun",
+    "owner": {
+      "id": 53141949,
+      "url": "https://api.github.com/users/LingCore",
+      "html_url": "https://github.com/LingCore",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53141949?v=4"
+    },
+    "html_url": "https://github.com/LingCore/WinShun",
+    "description": "Win顺：免费开源的 Windows 快速搜索启动器。双击 Ctrl，拼音秒搜文件、全文搜索 Word/Excel/PDF、剪贴板历史（代替 Win+V）、对话框搜索、任务栏搜索、插件、AI 助手 MCP。Free Windows search launcher: pinyin file search, full-text search, clipboard history, MCP server. Everything/Listary alternative.",
+    "created_at": "2026-10-08T03:18:00Z",
+    "updated_at": "2026-11-01T15:05:35Z",
+    "pushed_at": "2026-11-01T09:41:31Z",
+    "git_url": "git://github.com/LingCore/WinShun.git",
+    "homepage": null,
+    "size": 122296,
+    "stargazers_count": 785,
+    "watchers_count": 785,
+    "language": "C++",
+    "forks_count": 53,
+    "open_issues_count": 42
+  },
+  {
+    "id": 1438685072,
+    "name": "aki-rar-license-manager",
+    "owner": {
+      "id": 250209691,
+      "url": "https://api.github.com/users/agenciaolamundodigital-pixel",
+      "html_url": "https://github.com/agenciaolamundodigital-pixel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/250209691?v=4"
+    },
+    "html_url": "https://github.com/agenciaolamundodigital-pixel/aki-rar-license-manager",
+    "description": "AkiRAR-Activator: Desktop utility for rapid WinRAR setup and deactivation management",
+    "created_at": "2026-10-29T16:34:54Z",
+    "updated_at": "2026-10-31T19:44:39Z",
+    "pushed_at": "2026-10-31T19:44:35Z",
+    "git_url": "git://github.com/agenciaolamundodigital-pixel/aki-rar-license-manager.git",
+    "homepage": null,
+    "size": 82,
+    "stargazers_count": 82,
+    "watchers_count": 82,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
