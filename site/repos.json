@@ -89583,5 +89583,74 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1440705679,
+    "name": "dsh-superagent-prototype",
+    "owner": {
+      "id": 148330874,
+      "url": "https://api.github.com/users/deepseek-ai",
+      "html_url": "https://github.com/deepseek-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148330874?v=4"
+    },
+    "html_url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+    "description": "Towards a More Autonomous Agent System",
+    "created_at": "2026-10-31T09:32:46Z",
+    "updated_at": "2026-11-02T05:06:33Z",
+    "pushed_at": "2026-10-31T12:05:51Z",
+    "git_url": "git://github.com/deepseek-ai/dsh-superagent-prototype.git",
+    "homepage": null,
+    "size": 775,
+    "stargazers_count": 9188,
+    "watchers_count": 9188,
+    "language": "TypeScript",
+    "forks_count": 931,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1429213407,
+    "name": "php2shell-scanner",
+    "owner": {
+      "id": 35264812,
+      "url": "https://api.github.com/users/assetnote",
+      "html_url": "https://github.com/assetnote",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35264812?v=4"
+    },
+    "html_url": "https://github.com/assetnote/php2shell-scanner",
+    "description": "High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)",
+    "created_at": "2026-10-22T03:53:20Z",
+    "updated_at": "2026-11-01T20:07:34Z",
+    "pushed_at": "2026-10-24T03:40:18Z",
+    "git_url": "git://github.com/assetnote/php2shell-scanner.git",
+    "homepage": null,
+    "size": 48,
+    "stargazers_count": 973,
+    "watchers_count": 973,
+    "language": "Python",
+    "forks_count": 143,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1440698390,
+    "name": "QwenPU",
+    "owner": {
+      "id": 114850579,
+      "url": "https://api.github.com/users/divagr18",
+      "html_url": "https://github.com/divagr18",
+      "avatar_url": "https://avatars.githubusercontent.com/u/114850579?v=4"
+    },
+    "html_url": "https://github.com/divagr18/QwenPU",
+    "description": "An LLM running on an NPU inside an LLM. Karpathy's stories260K writing stories on a vector unit compiled into Qwen3.5-4B's weights.",
+    "created_at": "2026-10-31T09:22:47Z",
+    "updated_at": "2026-11-01T18:09:27Z",
+    "pushed_at": "2026-10-31T15:17:16Z",
+    "git_url": "git://github.com/divagr18/QwenPU.git",
+    "homepage": "",
+    "size": 11231,
+    "stargazers_count": 86,
+    "watchers_count": 86,
+    "language": "Python",
+    "forks_count": 8,
+    "open_issues_count": 0
   }
 ]
