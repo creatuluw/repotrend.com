@@ -89652,5 +89652,74 @@
     "language": "Python",
     "forks_count": 8,
     "open_issues_count": 0
+  },
+  {
+    "id": 1327932937,
+    "name": "OpenHeart",
+    "owner": {
+      "id": 123323526,
+      "url": "https://api.github.com/users/AhmadHassan-BTed",
+      "html_url": "https://github.com/AhmadHassan-BTed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123323526?v=4"
+    },
+    "html_url": "https://github.com/AhmadHassan-BTed/OpenHeart",
+    "description": "Succinct Compositional Program Graph (SCPG) static analysis engine & 14-diagram UML generator in Rust.",
+    "created_at": "2026-08-08T16:11:06Z",
+    "updated_at": "2026-11-01T21:47:33Z",
+    "pushed_at": "2026-11-01T10:16:47Z",
+    "git_url": "git://github.com/AhmadHassan-BTed/OpenHeart.git",
+    "homepage": "https://ahmadhassan-bted.github.io/OpenHeart/",
+    "size": 2713,
+    "stargazers_count": 5742,
+    "watchers_count": 5742,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1414050342,
+    "name": "rea-cn",
+    "owner": {
+      "id": 30594873,
+      "url": "https://api.github.com/users/bbylw",
+      "html_url": "https://github.com/bbylw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30594873?v=4"
+    },
+    "html_url": "https://github.com/bbylw/rea-cn",
+    "description": "REA：逆向一切 通过一个 MCP 服务，逆向分析二进制文件、应用程序和运行时行为。 看到喜欢的功能，弄清它的工作原理，深入到二进制层面。",
+    "created_at": "2026-10-11T07:15:07Z",
+    "updated_at": "2026-11-02T14:11:20Z",
+    "pushed_at": "2026-10-11T07:42:39Z",
+    "git_url": "git://github.com/bbylw/rea-cn.git",
+    "homepage": "https://rea.ndjp.net/",
+    "size": 198,
+    "stargazers_count": 774,
+    "watchers_count": 774,
+    "language": "Astro",
+    "forks_count": 248,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1440184002,
+    "name": "gow-pc-port",
+    "owner": {
+      "id": 62755605,
+      "url": "https://api.github.com/users/danielalves96",
+      "html_url": "https://github.com/danielalves96",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62755605?v=4"
+    },
+    "html_url": "https://github.com/danielalves96/gow-pc-port",
+    "description": "Unofficial native PC port of God of War (2005, PS2) for Windows, with experimental Linux support. Statically recompiled to C++, not an emulator. OpenGL renderer, launcher, cheat menu, widescreen, 60 FPS. Bring your own game dump: no game files included.",
+    "created_at": "2026-10-30T20:08:03Z",
+    "updated_at": "2026-11-01T20:43:16Z",
+    "pushed_at": "2026-11-01T20:46:29Z",
+    "git_url": "git://github.com/danielalves96/gow-pc-port.git",
+    "homepage": "",
+    "size": 16368,
+    "stargazers_count": 85,
+    "watchers_count": 85,
+    "language": "C++",
+    "forks_count": 2,
+    "open_issues_count": 10
   }
 ]
