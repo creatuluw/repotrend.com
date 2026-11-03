@@ -89813,5 +89813,51 @@
     "language": "JavaScript",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1408042332,
+    "name": "hongguo-drama",
+    "owner": {
+      "id": 282187345,
+      "url": "https://api.github.com/users/jackotom",
+      "html_url": "https://github.com/jackotom",
+      "avatar_url": "https://avatars.githubusercontent.com/u/282187345?v=4"
+    },
+    "html_url": "https://github.com/jackotom/hongguo-drama",
+    "description": "红果短剧桌面版 · 支持 M 系列 Mac、Intel Mac 和 Windows · 三来源搜索、播放、下载与追剧 · GPL-3.0 开源",
+    "created_at": "2026-10-07T00:06:45Z",
+    "updated_at": "2026-11-02T14:54:19Z",
+    "pushed_at": "2026-11-02T12:44:38Z",
+    "git_url": "git://github.com/jackotom/hongguo-drama.git",
+    "homepage": "https://github.com/jackotom/hongguo-drama/releases/latest",
+    "size": 8187,
+    "stargazers_count": 758,
+    "watchers_count": 758,
+    "language": "JavaScript",
+    "forks_count": 117,
+    "open_issues_count": 10
+  },
+  {
+    "id": 1440983183,
+    "name": "koppar-lte-modem",
+    "owner": {
+      "id": 341913241,
+      "url": "https://api.github.com/users/Koppar-AI",
+      "html_url": "https://github.com/Koppar-AI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/341913241?v=4"
+    },
+    "html_url": "https://github.com/Koppar-AI/koppar-lte-modem",
+    "description": "A phone line over USB-C: LTE data, SMS and voice calls with the call audio on USB. A 4-layer KiCad board designed by Koppar from a one-page spec.",
+    "created_at": "2026-10-31T15:20:09Z",
+    "updated_at": "2026-11-03T10:25:25Z",
+    "pushed_at": "2026-10-31T15:20:15Z",
+    "git_url": "git://github.com/Koppar-AI/koppar-lte-modem.git",
+    "homepage": "https://koppar.ai/?ref=gh-lte",
+    "size": 6887,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
