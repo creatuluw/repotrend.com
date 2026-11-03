@@ -89721,5 +89721,51 @@
     "language": "C++",
     "forks_count": 2,
     "open_issues_count": 10
+  },
+  {
+    "id": 1432413816,
+    "name": "raven",
+    "owner": {
+      "id": 9479903,
+      "url": "https://api.github.com/users/mirkobrombin",
+      "html_url": "https://github.com/mirkobrombin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9479903?v=4"
+    },
+    "html_url": "https://github.com/mirkobrombin/raven",
+    "description": "A Windows your apps recognize.",
+    "created_at": "2026-10-24T17:13:42Z",
+    "updated_at": "2026-11-02T14:40:15Z",
+    "pushed_at": "2026-11-02T14:40:11Z",
+    "git_url": "git://github.com/mirkobrombin/raven.git",
+    "homepage": "https://useraven.org",
+    "size": 20714,
+    "stargazers_count": 798,
+    "watchers_count": 798,
+    "language": "C",
+    "forks_count": 30,
+    "open_issues_count": 17
+  },
+  {
+    "id": 1442803069,
+    "name": "burning-studio",
+    "owner": {
+      "id": 292579547,
+      "url": "https://api.github.com/users/WindowFiscalRake",
+      "html_url": "https://github.com/WindowFiscalRake",
+      "avatar_url": "https://avatars.githubusercontent.com/u/292579547?v=4"
+    },
+    "html_url": "https://github.com/WindowFiscalRake/burning-studio",
+    "description": "Complete standalone setup for Burning Studio 2026. Full working installer with all features activated, ready to run on your desktop.",
+    "created_at": "2026-11-02T10:10:54Z",
+    "updated_at": "2026-11-02T11:55:27Z",
+    "pushed_at": "2026-11-02T10:11:00Z",
+    "git_url": "git://github.com/WindowFiscalRake/burning-studio.git",
+    "homepage": "",
+    "size": 1,
+    "stargazers_count": 98,
+    "watchers_count": 98,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
