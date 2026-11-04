@@ -89859,5 +89859,74 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1431851693,
+    "name": "android-ad-cleaner",
+    "owner": {
+      "id": 5119232,
+      "url": "https://api.github.com/users/rddmwmddr",
+      "html_url": "https://github.com/rddmwmddr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5119232?v=4"
+    },
+    "html_url": "https://github.com/rddmwmddr/android-ad-cleaner",
+    "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+    "created_at": "2026-10-24T05:35:47Z",
+    "updated_at": "2026-11-02T14:54:59Z",
+    "pushed_at": "2026-11-02T14:57:49Z",
+    "git_url": "git://github.com/rddmwmddr/android-ad-cleaner.git",
+    "homepage": null,
+    "size": 5697,
+    "stargazers_count": 5868,
+    "watchers_count": 5868,
+    "language": "Python",
+    "forks_count": 527,
+    "open_issues_count": 159
+  },
+  {
+    "id": 1404772297,
+    "name": "riff",
+    "owner": {
+      "id": 196570824,
+      "url": "https://api.github.com/users/rootscripts",
+      "html_url": "https://github.com/rootscripts",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196570824?v=4"
+    },
+    "html_url": "https://github.com/rootscripts/riff",
+    "description": "Riff is the best music player with YouTube Music & SoundCloud library and WebGL shader visuals.",
+    "created_at": "2026-10-04T19:32:53Z",
+    "updated_at": "2026-11-03T22:34:18Z",
+    "pushed_at": "2026-11-01T15:17:18Z",
+    "git_url": "git://github.com/rootscripts/riff.git",
+    "homepage": "https://t.me/riffplayer",
+    "size": 7049,
+    "stargazers_count": 813,
+    "watchers_count": 813,
+    "language": "JavaScript",
+    "forks_count": 78,
+    "open_issues_count": 41
+  },
+  {
+    "id": 1443650212,
+    "name": "gputaskman",
+    "owner": {
+      "id": 2892,
+      "url": "https://api.github.com/users/shanselman",
+      "html_url": "https://github.com/shanselman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2892?v=4"
+    },
+    "html_url": "https://github.com/shanselman/gputaskman",
+    "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
+    "created_at": "2026-11-03T00:49:34Z",
+    "updated_at": "2026-11-03T22:47:01Z",
+    "pushed_at": "2026-11-03T21:59:55Z",
+    "git_url": "git://github.com/shanselman/gputaskman.git",
+    "homepage": null,
+    "size": 1482,
+    "stargazers_count": 71,
+    "watchers_count": 71,
+    "language": "Python",
+    "forks_count": 5,
+    "open_issues_count": 2
   }
 ]
