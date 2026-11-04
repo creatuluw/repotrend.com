@@ -90066,5 +90066,74 @@
     "language": "Python",
     "forks_count": 4,
     "open_issues_count": 0
+  },
+  {
+    "id": 1343344945,
+    "name": "DiscImageStudio",
+    "owner": {
+      "id": 60653106,
+      "url": "https://api.github.com/users/JiaFeiMiao-K-Cat",
+      "html_url": "https://github.com/JiaFeiMiao-K-Cat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60653106?v=4"
+    },
+    "html_url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+    "description": null,
+    "created_at": "2026-08-23T03:40:14Z",
+    "updated_at": "2026-11-04T13:57:51Z",
+    "pushed_at": "2026-11-04T07:27:28Z",
+    "git_url": "git://github.com/JiaFeiMiao-K-Cat/DiscImageStudio.git",
+    "homepage": null,
+    "size": 30379,
+    "stargazers_count": 6087,
+    "watchers_count": 6087,
+    "language": "C#",
+    "forks_count": 209,
+    "open_issues_count": 62
+  },
+  {
+    "id": 1416766144,
+    "name": "scout",
+    "owner": {
+      "id": 326615483,
+      "url": "https://api.github.com/users/outcrawlai",
+      "html_url": "https://github.com/outcrawlai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/326615483?v=4"
+    },
+    "html_url": "https://github.com/outcrawlai/scout",
+    "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+    "created_at": "2026-10-13T09:18:55Z",
+    "updated_at": "2026-11-01T09:51:34Z",
+    "pushed_at": "2026-11-01T09:51:30Z",
+    "git_url": "git://github.com/outcrawlai/scout.git",
+    "homepage": "https://outcrawl.ai",
+    "size": 19326,
+    "stargazers_count": 948,
+    "watchers_count": 948,
+    "language": "TypeScript",
+    "forks_count": 32,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1442164279,
+    "name": "ads-blocker-desktop",
+    "owner": {
+      "id": 212022206,
+      "url": "https://api.github.com/users/nIkTaCo",
+      "html_url": "https://github.com/nIkTaCo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/212022206?v=4"
+    },
+    "html_url": "https://github.com/nIkTaCo/ads-blocker-desktop",
+    "description": "Standalone desktop ad-blocking utility with complete installer and full setup",
+    "created_at": "2026-11-01T19:31:11Z",
+    "updated_at": "2026-11-02T12:10:01Z",
+    "pushed_at": "2026-11-02T12:09:57Z",
+    "git_url": "git://github.com/nIkTaCo/ads-blocker-desktop.git",
+    "homepage": null,
+    "size": 216,
+    "stargazers_count": 93,
+    "watchers_count": 93,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
