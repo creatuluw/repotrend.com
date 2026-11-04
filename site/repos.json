@@ -89928,5 +89928,74 @@
     "language": "Python",
     "forks_count": 5,
     "open_issues_count": 2
+  },
+  {
+    "id": 1403446451,
+    "name": "horizon",
+    "owner": {
+      "id": 349008135,
+      "url": "https://api.github.com/users/horizon-rust",
+      "html_url": "https://github.com/horizon-rust",
+      "avatar_url": "https://avatars.githubusercontent.com/u/349008135?v=4"
+    },
+    "html_url": "https://github.com/horizon-rust/horizon",
+    "description": "Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.",
+    "created_at": "2026-10-03T17:08:48Z",
+    "updated_at": "2026-11-02T15:06:34Z",
+    "pushed_at": "2026-11-02T15:05:59Z",
+    "git_url": "git://github.com/horizon-rust/horizon.git",
+    "homepage": "https://playhorizon.dev",
+    "size": 276019,
+    "stargazers_count": 5873,
+    "watchers_count": 5873,
+    "language": "Rust",
+    "forks_count": 766,
+    "open_issues_count": 414
+  },
+  {
+    "id": 1417558351,
+    "name": "wxa-runner",
+    "owner": {
+      "id": 341914348,
+      "url": "https://api.github.com/users/open-wxa",
+      "html_url": "https://github.com/open-wxa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/341914348?v=4"
+    },
+    "html_url": "https://github.com/open-wxa/wxa-runner",
+    "description": "在浏览器中用微信官方基础库运行小程序，支持 Chrome DevTools 调试与 Playwright E2E 测试",
+    "created_at": "2026-10-13T17:06:51Z",
+    "updated_at": "2026-11-03T23:00:03Z",
+    "pushed_at": "2026-11-03T04:08:30Z",
+    "git_url": "git://github.com/open-wxa/wxa-runner.git",
+    "homepage": "https://open-wxa.github.io/wxa-runner/",
+    "size": 2017,
+    "stargazers_count": 731,
+    "watchers_count": 731,
+    "language": "TypeScript",
+    "forks_count": 95,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1443421007,
+    "name": "crusader-kings-3-menu-d28d94",
+    "owner": {
+      "id": 344595200,
+      "url": "https://api.github.com/users/AzureLegislator",
+      "html_url": "https://github.com/AzureLegislator",
+      "avatar_url": "https://avatars.githubusercontent.com/u/344595200?v=4"
+    },
+    "html_url": "https://github.com/AzureLegislator/crusader-kings-3-menu-d28d94",
+    "description": "Collection of open-source tools for Crusader Kings 3 — ESP, wallhack, and cheat notes. For educational and single-player use only.",
+    "created_at": "2026-11-02T19:55:26Z",
+    "updated_at": "2026-11-02T20:25:43Z",
+    "pushed_at": "2026-11-02T19:56:29Z",
+    "git_url": "git://github.com/AzureLegislator/crusader-kings-3-menu-d28d94.git",
+    "homepage": null,
+    "size": 8,
+    "stargazers_count": 58,
+    "watchers_count": 58,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
