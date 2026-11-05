@@ -90181,5 +90181,74 @@
     "language": "Java",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1432967563,
+    "name": "dsh-Go",
+    "owner": {
+      "id": 268149062,
+      "url": "https://api.github.com/users/ccch1mneyyy",
+      "html_url": "https://github.com/ccch1mneyyy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268149062?v=4"
+    },
+    "html_url": "https://github.com/ccch1mneyyy/dsh-Go",
+    "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+    "created_at": "2026-10-25T08:09:52Z",
+    "updated_at": "2026-11-03T22:59:49Z",
+    "pushed_at": "2026-11-03T20:08:30Z",
+    "git_url": "git://github.com/ccch1mneyyy/dsh-Go.git",
+    "homepage": "",
+    "size": 412373,
+    "stargazers_count": 7384,
+    "watchers_count": 7384,
+    "language": "Dart",
+    "forks_count": 356,
+    "open_issues_count": 263
+  },
+  {
+    "id": 1420397852,
+    "name": "all",
+    "owner": {
+      "id": 341423112,
+      "url": "https://api.github.com/users/motiontemplates",
+      "html_url": "https://github.com/motiontemplates",
+      "avatar_url": "https://avatars.githubusercontent.com/u/341423112?v=4"
+    },
+    "html_url": "https://github.com/motiontemplates/all",
+    "description": "MotionGit 模板合集 · 技术资料、素材要求、GitHub 地址与完整 Demo 视频。",
+    "created_at": "2026-10-15T08:22:25Z",
+    "updated_at": "2026-11-05T05:34:46Z",
+    "pushed_at": "2026-11-05T03:27:09Z",
+    "git_url": "git://github.com/motiontemplates/all.git",
+    "homepage": "https://motiongit.com",
+    "size": 2387,
+    "stargazers_count": 754,
+    "watchers_count": 754,
+    "language": "HTML",
+    "forks_count": 79,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1440790848,
+    "name": "tdt-local",
+    "owner": {
+      "id": 4579387,
+      "url": "https://api.github.com/users/cibernicola",
+      "html_url": "https://github.com/cibernicola",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4579387?v=4"
+    },
+    "html_url": "https://github.com/cibernicola/tdt-local",
+    "description": "Visor local de la TDT española y la radio (TDTChannels): guía, multivisión, subtítulos y asistente de IA locales",
+    "created_at": "2026-10-31T11:29:15Z",
+    "updated_at": "2026-11-02T22:40:34Z",
+    "pushed_at": "2026-11-01T21:35:28Z",
+    "git_url": "git://github.com/cibernicola/tdt-local.git",
+    "homepage": null,
+    "size": 1546,
+    "stargazers_count": 75,
+    "watchers_count": 75,
+    "language": "Python",
+    "forks_count": 8,
+    "open_issues_count": 5
   }
 ]
