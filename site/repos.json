@@ -90250,5 +90250,74 @@
     "language": "Python",
     "forks_count": 8,
     "open_issues_count": 5
+  },
+  {
+    "id": 1428347546,
+    "name": "openidea",
+    "owner": {
+      "id": 24760907,
+      "url": "https://api.github.com/users/l0ng-ai",
+      "html_url": "https://github.com/l0ng-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24760907?v=4"
+    },
+    "html_url": "https://github.com/l0ng-ai/openidea",
+    "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.",
+    "created_at": "2026-10-21T12:23:14Z",
+    "updated_at": "2026-11-04T23:07:02Z",
+    "pushed_at": "2026-11-04T23:13:55Z",
+    "git_url": "git://github.com/l0ng-ai/openidea.git",
+    "homepage": null,
+    "size": 31281,
+    "stargazers_count": 6124,
+    "watchers_count": 6124,
+    "language": "TypeScript",
+    "forks_count": 520,
+    "open_issues_count": 233
+  },
+  {
+    "id": 1437555556,
+    "name": "idol-sdk",
+    "owner": {
+      "id": 207595948,
+      "url": "https://api.github.com/users/speridlabs",
+      "html_url": "https://github.com/speridlabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/207595948?v=4"
+    },
+    "html_url": "https://github.com/speridlabs/idol-sdk",
+    "description": "Idol: a single image to 3D Gaussians. Inference SDK and demo.",
+    "created_at": "2026-10-28T19:44:27Z",
+    "updated_at": "2026-11-03T22:43:09Z",
+    "pushed_at": "2026-10-29T20:45:34Z",
+    "git_url": "git://github.com/speridlabs/idol-sdk.git",
+    "homepage": null,
+    "size": 6867,
+    "stargazers_count": 723,
+    "watchers_count": 723,
+    "language": "Python",
+    "forks_count": 55,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1444556376,
+    "name": "tts-director",
+    "owner": {
+      "id": 10244953,
+      "url": "https://api.github.com/users/aligh98",
+      "html_url": "https://github.com/aligh98",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10244953?v=4"
+    },
+    "html_url": "https://github.com/aligh98/tts-director",
+    "description": "Agent skill that directs scripts for TTS (ElevenLabs v3/v4 tags): rewrite for the ear, tag budget, free linter, A/B tester. | اسکیلی برای کارگردانی متن قبل از TTS: بازنویسی برای گوش، تگ‌گذاری بدون زیاده‌روی، لینتر رایگان و تست A/B. فارسی‌محور.",
+    "created_at": "2026-11-03T16:36:08Z",
+    "updated_at": "2026-11-05T12:30:02Z",
+    "pushed_at": "2026-11-04T17:28:18Z",
+    "git_url": "git://github.com/aligh98/tts-director.git",
+    "homepage": null,
+    "size": 105,
+    "stargazers_count": 74,
+    "watchers_count": 74,
+    "language": "Python",
+    "forks_count": 2,
+    "open_issues_count": 0
   }
 ]
