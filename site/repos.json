@@ -90319,5 +90319,74 @@
     "language": "Python",
     "forks_count": 2,
     "open_issues_count": 0
+  },
+  {
+    "id": 1375615157,
+    "name": "geo-sleuth",
+    "owner": {
+      "id": 72587513,
+      "url": "https://api.github.com/users/Oldcircle",
+      "html_url": "https://github.com/Oldcircle",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72587513?v=4"
+    },
+    "html_url": "https://github.com/Oldcircle/geo-sleuth",
+    "description": "An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini CLI, OpenCode and GitHub Copilot.",
+    "created_at": "2026-09-18T08:51:34Z",
+    "updated_at": "2026-11-05T14:17:10Z",
+    "pushed_at": "2026-11-05T08:11:52Z",
+    "git_url": "git://github.com/Oldcircle/geo-sleuth.git",
+    "homepage": null,
+    "size": 18340,
+    "stargazers_count": 6076,
+    "watchers_count": 6076,
+    "language": "Python",
+    "forks_count": 753,
+    "open_issues_count": 24
+  },
+  {
+    "id": 1439244319,
+    "name": "autopilot",
+    "owner": {
+      "id": 48219470,
+      "url": "https://api.github.com/users/ramenvr",
+      "html_url": "https://github.com/ramenvr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48219470?v=4"
+    },
+    "html_url": "https://github.com/ramenvr/autopilot",
+    "description": "Play any game",
+    "created_at": "2026-10-30T03:47:28Z",
+    "updated_at": "2026-11-05T14:15:40Z",
+    "pushed_at": "2026-11-04T21:46:43Z",
+    "git_url": "git://github.com/ramenvr/autopilot.git",
+    "homepage": "https://tryaura.dev/autopilot",
+    "size": 5000,
+    "stargazers_count": 767,
+    "watchers_count": 767,
+    "language": "Python",
+    "forks_count": 65,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1443784148,
+    "name": "comic-story-video",
+    "owner": {
+      "id": 1232260,
+      "url": "https://api.github.com/users/liangdabiao",
+      "html_url": "https://github.com/liangdabiao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1232260?v=4"
+    },
+    "html_url": "https://github.com/liangdabiao/comic-story-video",
+    "description": "类似混子哥边画边说那种卡通解说视频效果的agent skill  。漫画面讲故事 · comic-story-video 把任何选题做成 60–90 秒竖屏漫画短视频：线稿被一笔笔描出来，台词气泡逐个弹入，配音加大字幕。  图片在讲故事，不是给旁白配插图。",
+    "created_at": "2026-11-03T03:54:59Z",
+    "updated_at": "2026-11-04T14:58:59Z",
+    "pushed_at": "2026-11-04T00:11:55Z",
+    "git_url": "git://github.com/liangdabiao/comic-story-video.git",
+    "homepage": "https://agents.liangdabiao.com/",
+    "size": 6295,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "Python",
+    "forks_count": 12,
+    "open_issues_count": 0
   }
 ]
