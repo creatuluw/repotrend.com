@@ -90388,5 +90388,74 @@
     "language": "Python",
     "forks_count": 12,
     "open_issues_count": 0
+  },
+  {
+    "id": 1438540053,
+    "name": "Mika",
+    "owner": {
+      "id": 102038245,
+      "url": "https://api.github.com/users/wangzan101",
+      "html_url": "https://github.com/wangzan101",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102038245?v=4"
+    },
+    "html_url": "https://github.com/wangzan101/Mika",
+    "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+    "created_at": "2026-10-29T14:34:07Z",
+    "updated_at": "2026-11-05T23:18:12Z",
+    "pushed_at": "2026-11-05T15:46:37Z",
+    "git_url": "git://github.com/wangzan101/Mika.git",
+    "homepage": "",
+    "size": 85615,
+    "stargazers_count": 7076,
+    "watchers_count": 7076,
+    "language": "Kotlin",
+    "forks_count": 1601,
+    "open_issues_count": 122
+  },
+  {
+    "id": 1436993930,
+    "name": "ff-ruyijs",
+    "owner": {
+      "id": 212403118,
+      "url": "https://api.github.com/users/cutetailbud",
+      "html_url": "https://github.com/cutetailbud",
+      "avatar_url": "https://avatars.githubusercontent.com/u/212403118?v=4"
+    },
+    "html_url": "https://github.com/cutetailbud/ff-ruyijs",
+    "description": "A AI Browser run any site JavaScript from Python with the real Firefox engine. Headless SpiderMonkey + Necko for automation and scraping.",
+    "created_at": "2026-10-28T11:31:41Z",
+    "updated_at": "2026-11-05T22:26:17Z",
+    "pushed_at": "2026-11-04T19:21:40Z",
+    "git_url": "git://github.com/cutetailbud/ff-ruyijs.git",
+    "homepage": "https://cutetailbud.github.io/ff-ruyijs/",
+    "size": 8414,
+    "stargazers_count": 754,
+    "watchers_count": 754,
+    "language": "C++",
+    "forks_count": 316,
+    "open_issues_count": 11
+  },
+  {
+    "id": 1443122680,
+    "name": "ascii-diorama",
+    "owner": {
+      "id": 112489039,
+      "url": "https://api.github.com/users/JDhruv14",
+      "html_url": "https://github.com/JDhruv14",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112489039?v=4"
+    },
+    "html_url": "https://github.com/JDhruv14/ascii-diorama",
+    "description": "Claude Code skill for tilt-shift ASCII miniature videos rendered with Three.js",
+    "created_at": "2026-11-02T15:15:24Z",
+    "updated_at": "2026-11-05T20:26:17Z",
+    "pushed_at": "2026-11-02T15:22:37Z",
+    "git_url": "git://github.com/JDhruv14/ascii-diorama.git",
+    "homepage": null,
+    "size": 26,
+    "stargazers_count": 91,
+    "watchers_count": 91,
+    "language": "JavaScript",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
