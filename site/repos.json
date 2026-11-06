@@ -90457,5 +90457,74 @@
     "language": "JavaScript",
     "forks_count": 3,
     "open_issues_count": 0
+  },
+  {
+    "id": 1440956372,
+    "name": "craft-anything",
+    "owner": {
+      "id": 76897702,
+      "url": "https://api.github.com/users/storytold",
+      "html_url": "https://github.com/storytold",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76897702?v=4"
+    },
+    "html_url": "https://github.com/storytold/craft-anything",
+    "description": "Craft Anything: understand how any software works, and craft your own.",
+    "created_at": "2026-10-31T14:50:00Z",
+    "updated_at": "2026-11-04T23:24:07Z",
+    "pushed_at": "2026-11-04T22:45:59Z",
+    "git_url": "git://github.com/storytold/craft-anything.git",
+    "homepage": "",
+    "size": 9820,
+    "stargazers_count": 11563,
+    "watchers_count": 11563,
+    "language": "Rust",
+    "forks_count": 1894,
+    "open_issues_count": 199
+  },
+  {
+    "id": 1414674472,
+    "name": "ElixirOffice",
+    "owner": {
+      "id": 57147261,
+      "url": "https://api.github.com/users/leag1234",
+      "html_url": "https://github.com/leag1234",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57147261?v=4"
+    },
+    "html_url": "https://github.com/leag1234/ElixirOffice",
+    "description": "Open Source Office suite for users used to MS Office - multi-platform, tuned for performance ",
+    "created_at": "2026-10-11T18:56:51Z",
+    "updated_at": "2026-11-05T20:22:49Z",
+    "pushed_at": "2026-11-02T20:44:34Z",
+    "git_url": "git://github.com/leag1234/ElixirOffice.git",
+    "homepage": null,
+    "size": 21532,
+    "stargazers_count": 713,
+    "watchers_count": 713,
+    "language": "JavaScript",
+    "forks_count": 20,
+    "open_issues_count": 39
+  },
+  {
+    "id": 1444498878,
+    "name": "mobius-code",
+    "owner": {
+      "id": 130121344,
+      "url": "https://api.github.com/users/JiazhiShu",
+      "html_url": "https://github.com/JiazhiShu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130121344?v=4"
+    },
+    "html_url": "https://github.com/JiazhiShu/mobius-code",
+    "description": "Möbius: A Unified Motion-Language Model Bridging Understanding and Generation. Code availability is under internal review.",
+    "created_at": "2026-11-03T15:47:22Z",
+    "updated_at": "2026-11-06T13:35:04Z",
+    "pushed_at": "2026-11-06T08:15:04Z",
+    "git_url": "git://github.com/JiazhiShu/mobius-code.git",
+    "homepage": "https://jiazhishu.github.io/mobius/",
+    "size": 923,
+    "stargazers_count": 75,
+    "watchers_count": 75,
+    "language": null,
+    "forks_count": 4,
+    "open_issues_count": 0
   }
 ]
