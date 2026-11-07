@@ -90687,5 +90687,74 @@
     "language": "C#",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1332461149,
+    "name": "openbot",
+    "owner": {
+      "id": 100160810,
+      "url": "https://api.github.com/users/nightly-labs",
+      "html_url": "https://github.com/nightly-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100160810?v=4"
+    },
+    "html_url": "https://github.com/nightly-labs/openbot",
+    "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+    "created_at": "2026-08-12T21:32:03Z",
+    "updated_at": "2026-11-06T22:52:37Z",
+    "pushed_at": "2026-11-06T22:51:45Z",
+    "git_url": "git://github.com/nightly-labs/openbot.git",
+    "homepage": "https://openbot.run/",
+    "size": 243152,
+    "stargazers_count": 6042,
+    "watchers_count": 6042,
+    "language": "TypeScript",
+    "forks_count": 620,
+    "open_issues_count": 611
+  },
+  {
+    "id": 1413525193,
+    "name": "Lemon-Studio",
+    "owner": {
+      "id": 102443376,
+      "url": "https://api.github.com/users/ItsAlphaNeon",
+      "html_url": "https://github.com/ItsAlphaNeon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102443376?v=4"
+    },
+    "html_url": "https://github.com/ItsAlphaNeon/Lemon-Studio",
+    "description": "A free and open-source digital audio workspace that you already know how to use.",
+    "created_at": "2026-10-10T18:20:54Z",
+    "updated_at": "2026-11-07T12:38:21Z",
+    "pushed_at": "2026-11-07T03:00:07Z",
+    "git_url": "git://github.com/ItsAlphaNeon/Lemon-Studio.git",
+    "homepage": "",
+    "size": 25301,
+    "stargazers_count": 814,
+    "watchers_count": 814,
+    "language": "Rust",
+    "forks_count": 116,
+    "open_issues_count": 26
+  },
+  {
+    "id": 1444067330,
+    "name": "sweety-statechart-video",
+    "owner": {
+      "id": 16551316,
+      "url": "https://api.github.com/users/threerocks",
+      "html_url": "https://github.com/threerocks",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16551316?v=4"
+    },
+    "html_url": "https://github.com/threerocks/sweety-statechart-video",
+    "description": "格物 · 蜡笔状态图：一句话做一部会动的蜡笔状态图短片。3:4、2-3 分钟、四款合成旁白（可加自己的声音）、每章一张海报；支持 Codex、Claude Code、Grok 等，可批量出片。",
+    "created_at": "2026-11-03T09:24:43Z",
+    "updated_at": "2026-11-06T16:36:53Z",
+    "pushed_at": "2026-11-04T05:52:50Z",
+    "git_url": "git://github.com/threerocks/sweety-statechart-video.git",
+    "homepage": "https://github.com/threerocks/sweety-statechart-video/releases",
+    "size": 21014,
+    "stargazers_count": 60,
+    "watchers_count": 60,
+    "language": "Python",
+    "forks_count": 12,
+    "open_issues_count": 0
   }
 ]
