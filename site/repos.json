@@ -90595,5 +90595,51 @@
     "language": "HTML",
     "forks_count": 6,
     "open_issues_count": 1
+  },
+  {
+    "id": 1419850273,
+    "name": "Uncharted-The-Nathan-Drake-Collection-PC-port",
+    "owner": {
+      "id": 41289168,
+      "url": "https://api.github.com/users/bc160201983",
+      "html_url": "https://github.com/bc160201983",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41289168?v=4"
+    },
+    "html_url": "https://github.com/bc160201983/Uncharted-The-Nathan-Drake-Collection-PC-port",
+    "description": "Uncharted: The Nathan Drake Collection PC port (no game files)",
+    "created_at": "2026-10-14T21:04:05Z",
+    "updated_at": "2026-11-06T15:35:40Z",
+    "pushed_at": "2026-11-06T09:45:22Z",
+    "git_url": "git://github.com/bc160201983/Uncharted-The-Nathan-Drake-Collection-PC-port.git",
+    "homepage": "https://www.patreon.com/cw/bilalreloaded",
+    "size": 6161,
+    "stargazers_count": 759,
+    "watchers_count": 759,
+    "language": "C++",
+    "forks_count": 22,
+    "open_issues_count": 145
+  },
+  {
+    "id": 1442637098,
+    "name": "talking-explainer",
+    "owner": {
+      "id": 250745658,
+      "url": "https://api.github.com/users/brewed-ops",
+      "html_url": "https://github.com/brewed-ops",
+      "avatar_url": "https://avatars.githubusercontent.com/u/250745658?v=4"
+    },
+    "html_url": "https://github.com/brewed-ops/talking-explainer",
+    "description": "A Claude Code skill that turns a topic into a narrated motion-design explainer, presented by a cartoon that lip-syncs to your voice.",
+    "created_at": "2026-11-02T07:19:33Z",
+    "updated_at": "2026-11-05T15:08:21Z",
+    "pushed_at": "2026-11-02T07:20:50Z",
+    "git_url": "git://github.com/brewed-ops/talking-explainer.git",
+    "homepage": null,
+    "size": 28367,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": "Python",
+    "forks_count": 20,
+    "open_issues_count": 0
   }
 ]
