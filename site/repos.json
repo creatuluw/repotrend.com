@@ -90641,5 +90641,51 @@
     "language": "Python",
     "forks_count": 20,
     "open_issues_count": 0
+  },
+  {
+    "id": 1426877531,
+    "name": "harp",
+    "owner": {
+      "id": 4389660,
+      "url": "https://api.github.com/users/dominikmartn",
+      "html_url": "https://github.com/dominikmartn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4389660?v=4"
+    },
+    "html_url": "https://github.com/dominikmartn/harp",
+    "description": "Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
+    "created_at": "2026-10-20T10:39:43Z",
+    "updated_at": "2026-11-07T00:17:06Z",
+    "pushed_at": "2026-10-29T06:58:25Z",
+    "git_url": "git://github.com/dominikmartn/harp.git",
+    "homepage": null,
+    "size": 222720,
+    "stargazers_count": 709,
+    "watchers_count": 709,
+    "language": "Rust",
+    "forks_count": 46,
+    "open_issues_count": 10
+  },
+  {
+    "id": 1445456094,
+    "name": "Flash-is-all-local-need",
+    "owner": {
+      "id": 234763320,
+      "url": "https://api.github.com/users/WHY-fly",
+      "html_url": "https://github.com/WHY-fly",
+      "avatar_url": "https://avatars.githubusercontent.com/u/234763320?v=4"
+    },
+    "html_url": "https://github.com/WHY-fly/Flash-is-all-local-need",
+    "description": null,
+    "created_at": "2026-11-04T09:57:39Z",
+    "updated_at": "2026-11-06T15:26:22Z",
+    "pushed_at": "2026-11-05T14:14:15Z",
+    "git_url": "git://github.com/WHY-fly/Flash-is-all-local-need.git",
+    "homepage": null,
+    "size": 30,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "C#",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
