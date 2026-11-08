@@ -90940,5 +90940,74 @@
     "language": "Python",
     "forks_count": 17,
     "open_issues_count": 0
+  },
+  {
+    "id": 1440927503,
+    "name": "Lichii",
+    "owner": {
+      "id": 65777760,
+      "url": "https://api.github.com/users/zortos293",
+      "html_url": "https://github.com/zortos293",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65777760?v=4"
+    },
+    "html_url": "https://github.com/zortos293/Lichii",
+    "description": "VERY experimental Nintendo Switch 2 emulator",
+    "created_at": "2026-10-31T14:17:26Z",
+    "updated_at": "2026-11-08T12:54:39Z",
+    "pushed_at": "2026-11-08T12:57:38Z",
+    "git_url": "git://github.com/zortos293/Lichii.git",
+    "homepage": "",
+    "size": 268772,
+    "stargazers_count": 6325,
+    "watchers_count": 6325,
+    "language": "C++",
+    "forks_count": 957,
+    "open_issues_count": 387
+  },
+  {
+    "id": 1444005452,
+    "name": "sand3d",
+    "owner": {
+      "id": 335944997,
+      "url": "https://api.github.com/users/Sandflow-ai",
+      "html_url": "https://github.com/Sandflow-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/335944997?v=4"
+    },
+    "html_url": "https://github.com/Sandflow-ai/sand3d",
+    "description": "3D modeling in Python, built for LLMs.",
+    "created_at": "2026-11-03T08:23:03Z",
+    "updated_at": "2026-11-06T22:51:19Z",
+    "pushed_at": "2026-11-06T11:03:55Z",
+    "git_url": "git://github.com/Sandflow-ai/sand3d.git",
+    "homepage": "https://sandflow.ai/sand3d/",
+    "size": 24254,
+    "stargazers_count": 771,
+    "watchers_count": 771,
+    "language": "HTML",
+    "forks_count": 91,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1448896104,
+    "name": "xmimic",
+    "owner": {
+      "id": 34777138,
+      "url": "https://api.github.com/users/nico-bohlinger",
+      "html_url": "https://github.com/nico-bohlinger",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34777138?v=4"
+    },
+    "html_url": "https://github.com/nico-bohlinger/xmimic",
+    "description": "Whole-body motion tracking for the Unitree G1 in under a minute. BlinkMimic's world-model trainer rebuilt in JAX, 3.5x faster on four H100s.",
+    "created_at": "2026-11-07T00:46:23Z",
+    "updated_at": "2026-11-08T12:25:38Z",
+    "pushed_at": "2026-11-07T10:48:49Z",
+    "git_url": "git://github.com/nico-bohlinger/xmimic.git",
+    "homepage": null,
+    "size": 3168,
+    "stargazers_count": 72,
+    "watchers_count": 72,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
