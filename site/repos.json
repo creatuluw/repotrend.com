@@ -91009,5 +91009,74 @@
     "language": "Python",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1422597771,
+    "name": "learnharness",
+    "owner": {
+      "id": 255718537,
+      "url": "https://api.github.com/users/amosblomqvist",
+      "html_url": "https://github.com/amosblomqvist",
+      "avatar_url": "https://avatars.githubusercontent.com/u/255718537?v=4"
+    },
+    "html_url": "https://github.com/amosblomqvist/learnharness",
+    "description": "Agent harness for learning difficult things.",
+    "created_at": "2026-10-16T19:35:33Z",
+    "updated_at": "2026-11-08T12:57:50Z",
+    "pushed_at": "2026-11-07T07:50:13Z",
+    "git_url": "git://github.com/amosblomqvist/learnharness.git",
+    "homepage": "learnharness.ai",
+    "size": 11436,
+    "stargazers_count": 6320,
+    "watchers_count": 6320,
+    "language": "TypeScript",
+    "forks_count": 989,
+    "open_issues_count": 425
+  },
+  {
+    "id": 1439006206,
+    "name": "open-pose-costume",
+    "owner": {
+      "id": 12199008,
+      "url": "https://api.github.com/users/hongye007",
+      "html_url": "https://github.com/hongye007",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12199008?v=4"
+    },
+    "html_url": "https://github.com/hongye007/open-pose-costume",
+    "description": "A bilingual reference studio for poses, costumes, and AI character creation.",
+    "created_at": "2026-10-29T22:05:35Z",
+    "updated_at": "2026-11-08T12:19:46Z",
+    "pushed_at": "2026-11-08T07:50:26Z",
+    "git_url": "git://github.com/hongye007/open-pose-costume.git",
+    "homepage": "https://omilic.com",
+    "size": 2565031,
+    "stargazers_count": 760,
+    "watchers_count": 760,
+    "language": "TypeScript",
+    "forks_count": 195,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1446937764,
+    "name": "Coclico-resocket",
+    "owner": {
+      "id": 350771436,
+      "url": "https://api.github.com/users/EdgeuaquartzSamurai",
+      "html_url": "https://github.com/EdgeuaquartzSamurai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/350771436?v=4"
+    },
+    "html_url": "https://github.com/EdgeuaquartzSamurai/Coclico-resocket",
+    "description": "The honest Windows companion: cleaning, repair, network & power tuning, disk analysis, app installer and a 100% local AI assistant. No placebo tweaks. · Le compagnon Windows honnête : nettoyage, réparation, réglages réseau et alimentation, analyse disque, installeur d'apps et IA 100 % locale. Zéro placebo.",
+    "created_at": "2026-11-05T11:54:20Z",
+    "updated_at": "2026-11-08T12:47:48Z",
+    "pushed_at": "2026-11-05T11:54:28Z",
+    "git_url": "git://github.com/EdgeuaquartzSamurai/Coclico-resocket.git",
+    "homepage": "",
+    "size": 13,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
