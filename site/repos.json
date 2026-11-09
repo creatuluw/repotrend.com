@@ -91147,5 +91147,51 @@
     "language": "TypeScript",
     "forks_count": 45,
     "open_issues_count": 0
+  },
+  {
+    "id": 1427329124,
+    "name": "spark-local-inference",
+    "owner": {
+      "id": 1728152,
+      "url": "https://api.github.com/users/NVIDIA",
+      "html_url": "https://github.com/NVIDIA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1728152?v=4"
+    },
+    "html_url": "https://github.com/NVIDIA/spark-local-inference",
+    "description": null,
+    "created_at": "2026-10-20T17:09:40Z",
+    "updated_at": "2026-11-06T15:58:52Z",
+    "pushed_at": "2026-11-06T18:24:54Z",
+    "git_url": "git://github.com/NVIDIA/spark-local-inference.git",
+    "homepage": null,
+    "size": 27554,
+    "stargazers_count": 780,
+    "watchers_count": 780,
+    "language": "Rust",
+    "forks_count": 94,
+    "open_issues_count": 77
+  },
+  {
+    "id": 1448598817,
+    "name": "ai-manus",
+    "owner": {
+      "id": 304612911,
+      "url": "https://api.github.com/users/osarhiemenaiyevbosa-cloud",
+      "html_url": "https://github.com/osarhiemenaiyevbosa-cloud",
+      "avatar_url": "https://avatars.githubusercontent.com/u/304612911?v=4"
+    },
+    "html_url": "https://github.com/osarhiemenaiyevbosa-cloud/ai-manus",
+    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "created_at": "2026-11-06T18:16:55Z",
+    "updated_at": "2026-11-08T13:20:12Z",
+    "pushed_at": "2026-11-08T13:07:34Z",
+    "git_url": "git://github.com/osarhiemenaiyevbosa-cloud/ai-manus.git",
+    "homepage": "",
+    "size": 122,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "Python",
+    "forks_count": 46,
+    "open_issues_count": 0
   }
 ]
