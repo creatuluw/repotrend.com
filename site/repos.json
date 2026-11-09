@@ -91078,5 +91078,74 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1409013846,
+    "name": "DS-Bot",
+    "owner": {
+      "id": 279467036,
+      "url": "https://api.github.com/users/Fei2411",
+      "html_url": "https://github.com/Fei2411",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279467036?v=4"
+    },
+    "html_url": "https://github.com/Fei2411/DS-Bot",
+    "description": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
+    "created_at": "2026-10-07T15:37:36Z",
+    "updated_at": "2026-11-07T21:25:12Z",
+    "pushed_at": "2026-11-07T14:44:54Z",
+    "git_url": "git://github.com/Fei2411/DS-Bot.git",
+    "homepage": null,
+    "size": 15915,
+    "stargazers_count": 6156,
+    "watchers_count": 6156,
+    "language": "JavaScript",
+    "forks_count": 574,
+    "open_issues_count": 253
+  },
+  {
+    "id": 1421347073,
+    "name": "artcraft-android",
+    "owner": {
+      "id": 73547259,
+      "url": "https://api.github.com/users/MostafaXS1",
+      "html_url": "https://github.com/MostafaXS1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73547259?v=4"
+    },
+    "html_url": "https://github.com/MostafaXS1/artcraft-android",
+    "description": null,
+    "created_at": "2026-10-15T21:33:51Z",
+    "updated_at": "2026-11-05T22:54:00Z",
+    "pushed_at": "2026-11-05T20:17:05Z",
+    "git_url": "git://github.com/MostafaXS1/artcraft-android.git",
+    "homepage": null,
+    "size": 2919,
+    "stargazers_count": 733,
+    "watchers_count": 733,
+    "language": "Shell",
+    "forks_count": 59,
+    "open_issues_count": 26
+  },
+  {
+    "id": 1446119977,
+    "name": "shorts-kit",
+    "owner": {
+      "id": 54036529,
+      "url": "https://api.github.com/users/howznguyen",
+      "html_url": "https://github.com/howznguyen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54036529?v=4"
+    },
+    "html_url": "https://github.com/howznguyen/shorts-kit",
+    "description": "Make narrated vertical shorts (TikTok, YouTube Shorts, Reels) with a coding agent and Remotion. 9+ agent skills, 20+ story flows, fact ledger, CC0 SFX.",
+    "created_at": "2026-11-04T19:41:42Z",
+    "updated_at": "2026-11-06T19:33:16Z",
+    "pushed_at": "2026-11-05T12:50:43Z",
+    "git_url": "git://github.com/howznguyen/shorts-kit.git",
+    "homepage": "https://howznguyen.dev/projects/shorts-kit",
+    "size": 3404,
+    "stargazers_count": 97,
+    "watchers_count": 97,
+    "language": "TypeScript",
+    "forks_count": 45,
+    "open_issues_count": 0
   }
 ]
