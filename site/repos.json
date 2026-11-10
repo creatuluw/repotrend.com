@@ -91285,5 +91285,74 @@
     "language": "C++",
     "forks_count": 2,
     "open_issues_count": 12
+  },
+  {
+    "id": 1439372976,
+    "name": "pixelfx",
+    "owner": {
+      "id": 337959018,
+      "url": "https://api.github.com/users/patch-gg",
+      "html_url": "https://github.com/patch-gg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/337959018?v=4"
+    },
+    "html_url": "https://github.com/patch-gg/pixelfx",
+    "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+    "created_at": "2026-10-30T06:43:25Z",
+    "updated_at": "2026-11-10T01:17:18Z",
+    "pushed_at": "2026-11-09T09:51:43Z",
+    "git_url": "git://github.com/patch-gg/pixelfx.git",
+    "homepage": "https://patch-gg.github.io/pixelfx/",
+    "size": 25357,
+    "stargazers_count": 6333,
+    "watchers_count": 6333,
+    "language": "JavaScript",
+    "forks_count": 832,
+    "open_issues_count": 11
+  },
+  {
+    "id": 1424968343,
+    "name": "editonny",
+    "owner": {
+      "id": 11700039,
+      "url": "https://api.github.com/users/soumatheusgomes",
+      "html_url": "https://github.com/soumatheusgomes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11700039?v=4"
+    },
+    "html_url": "https://github.com/soumatheusgomes/editonny",
+    "description": "Local video editing through conversation. Created by Matheus Gomes.",
+    "created_at": "2026-10-19T01:09:26Z",
+    "updated_at": "2026-11-09T16:47:25Z",
+    "pushed_at": "2026-10-21T03:51:22Z",
+    "git_url": "git://github.com/soumatheusgomes/editonny.git",
+    "homepage": "https://instagram.com/matheusgomes",
+    "size": 486028,
+    "stargazers_count": 799,
+    "watchers_count": 799,
+    "language": "Python",
+    "forks_count": 92,
+    "open_issues_count": 13
+  },
+  {
+    "id": 1448252199,
+    "name": "utreexo-utreexod",
+    "owner": {
+      "id": 39321265,
+      "url": "https://api.github.com/users/kcalvinaIvin",
+      "html_url": "https://github.com/kcalvinaIvin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39321265?v=4"
+    },
+    "html_url": "https://github.com/kcalvinaIvin/utreexo-utreexod",
+    "description": "A fully validating Bitcoin node with Utreexo support",
+    "created_at": "2026-11-06T12:45:51Z",
+    "updated_at": "2026-11-09T01:27:21Z",
+    "pushed_at": "2026-10-24T08:58:23Z",
+    "git_url": "git://github.com/kcalvinaIvin/utreexo-utreexod.git",
+    "homepage": "",
+    "size": 23405,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": null,
+    "forks_count": 11,
+    "open_issues_count": 0
   }
 ]
