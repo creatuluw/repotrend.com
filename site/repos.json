@@ -91354,5 +91354,74 @@
     "language": null,
     "forks_count": 11,
     "open_issues_count": 0
+  },
+  {
+    "id": 1444372497,
+    "name": "HGhub",
+    "owner": {
+      "id": 328980256,
+      "url": "https://api.github.com/users/Minireel",
+      "html_url": "https://github.com/Minireel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/328980256?v=4"
+    },
+    "html_url": "https://github.com/Minireel/HGhub",
+    "description": "YellowFruit third-party client",
+    "created_at": "2026-11-03T14:04:27Z",
+    "updated_at": "2026-11-10T14:33:08Z",
+    "pushed_at": "2026-11-10T13:42:26Z",
+    "git_url": "git://github.com/Minireel/HGhub.git",
+    "homepage": "",
+    "size": 1448,
+    "stargazers_count": 7888,
+    "watchers_count": 7888,
+    "language": null,
+    "forks_count": 3043,
+    "open_issues_count": 15
+  },
+  {
+    "id": 1428047292,
+    "name": "Deepscient",
+    "owner": {
+      "id": 240646866,
+      "url": "https://api.github.com/users/yzlin286-wq",
+      "html_url": "https://github.com/yzlin286-wq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/240646866?v=4"
+    },
+    "html_url": "https://github.com/yzlin286-wq/Deepscient",
+    "description": "让 AI 与人类一起攻克真正的科学难题 —— 12 阶段 55 门 · 36 工具 · 98 条技能 · 证据链与可复现",
+    "created_at": "2026-10-21T07:44:10Z",
+    "updated_at": "2026-11-10T10:51:46Z",
+    "pushed_at": "2026-10-25T17:34:43Z",
+    "git_url": "git://github.com/yzlin286-wq/Deepscient.git",
+    "homepage": "deepscient.com",
+    "size": 231962,
+    "stargazers_count": 975,
+    "watchers_count": 975,
+    "language": "JavaScript",
+    "forks_count": 18,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1449695486,
+    "name": "rustyfiles",
+    "owner": {
+      "id": 193025872,
+      "url": "https://api.github.com/users/gelenmedya",
+      "html_url": "https://github.com/gelenmedya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/193025872?v=4"
+    },
+    "html_url": "https://github.com/gelenmedya/rustyfiles",
+    "description": "A file manager for Windows that never freezes. Written in Rust.",
+    "created_at": "2026-11-07T19:58:59Z",
+    "updated_at": "2026-11-10T13:49:23Z",
+    "pushed_at": "2026-11-10T13:49:18Z",
+    "git_url": "git://github.com/gelenmedya/rustyfiles.git",
+    "homepage": null,
+    "size": 5664,
+    "stargazers_count": 65,
+    "watchers_count": 65,
+    "language": "Rust",
+    "forks_count": 9,
+    "open_issues_count": 1
   }
 ]
