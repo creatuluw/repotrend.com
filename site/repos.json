@@ -91239,5 +91239,51 @@
     "language": null,
     "forks_count": 6,
     "open_issues_count": 0
+  },
+  {
+    "id": 1416164428,
+    "name": "LYNX-SHARE",
+    "owner": {
+      "id": 74749206,
+      "url": "https://api.github.com/users/Ka1-S",
+      "html_url": "https://github.com/Ka1-S",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74749206?v=4"
+    },
+    "html_url": "https://github.com/Ka1-S/LYNX-SHARE",
+    "description": "LYNX SHARE — lightweight open-source DAW in C++20/JUCE with the FL Studio workflow: Channel Rack, Piano Roll, Playlist, Mixer and .flp import",
+    "created_at": "2026-10-12T21:49:02Z",
+    "updated_at": "2026-11-09T15:37:17Z",
+    "pushed_at": "2026-11-09T15:35:50Z",
+    "git_url": "git://github.com/Ka1-S/LYNX-SHARE.git",
+    "homepage": "https://lynx-share.com",
+    "size": 446689,
+    "stargazers_count": 808,
+    "watchers_count": 808,
+    "language": "C++",
+    "forks_count": 95,
+    "open_issues_count": 23
+  },
+  {
+    "id": 1449770510,
+    "name": "fefw-recomp",
+    "owner": {
+      "id": 84254875,
+      "url": "https://api.github.com/users/Goldoire",
+      "html_url": "https://github.com/Goldoire",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84254875?v=4"
+    },
+    "html_url": "https://github.com/Goldoire/fefw-recomp",
+    "description": "Native Windows PC port of Fire Emblem: Fortune's Weave by static recompilation. Bring your own dump; no game files included.",
+    "created_at": "2026-11-07T21:58:07Z",
+    "updated_at": "2026-11-08T21:50:12Z",
+    "pushed_at": "2026-11-08T19:38:15Z",
+    "git_url": "git://github.com/Goldoire/fefw-recomp.git",
+    "homepage": null,
+    "size": 5839,
+    "stargazers_count": 57,
+    "watchers_count": 57,
+    "language": "C++",
+    "forks_count": 2,
+    "open_issues_count": 12
   }
 ]
