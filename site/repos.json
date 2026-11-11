@@ -91584,5 +91584,74 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1446962520,
+    "name": "Hookshot",
+    "owner": {
+      "id": 179062254,
+      "url": "https://api.github.com/users/NotRexed",
+      "html_url": "https://github.com/NotRexed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/179062254?v=4"
+    },
+    "html_url": "https://github.com/NotRexed/Hookshot",
+    "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+    "created_at": "2026-11-05T12:18:58Z",
+    "updated_at": "2026-11-11T13:47:10Z",
+    "pushed_at": "2026-11-11T12:33:58Z",
+    "git_url": "git://github.com/NotRexed/Hookshot.git",
+    "homepage": "",
+    "size": 15318,
+    "stargazers_count": 7188,
+    "watchers_count": 7188,
+    "language": "C++",
+    "forks_count": 625,
+    "open_issues_count": 351
+  },
+  {
+    "id": 1419708427,
+    "name": "blender-skills",
+    "owner": {
+      "id": 215285446,
+      "url": "https://api.github.com/users/EL4CTEO",
+      "html_url": "https://github.com/EL4CTEO",
+      "avatar_url": "https://avatars.githubusercontent.com/u/215285446?v=4"
+    },
+    "html_url": "https://github.com/EL4CTEO/blender-skills",
+    "description": "Professional Blender 5.2 workflows as Agent Skills for Claude Code, Codex, Gemini CLI, Copilot and Cursor: modeling, UVs, PBR, baking, rigging, animation, export and QA.",
+    "created_at": "2026-10-14T19:08:14Z",
+    "updated_at": "2026-11-10T22:08:11Z",
+    "pushed_at": "2026-11-07T19:16:32Z",
+    "git_url": "git://github.com/EL4CTEO/blender-skills.git",
+    "homepage": null,
+    "size": 6042,
+    "stargazers_count": 949,
+    "watchers_count": 949,
+    "language": "Python",
+    "forks_count": 92,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1452175380,
+    "name": "linger",
+    "owner": {
+      "id": 257494383,
+      "url": "https://api.github.com/users/simplexai-labs",
+      "html_url": "https://github.com/simplexai-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/257494383?v=4"
+    },
+    "html_url": "https://github.com/simplexai-labs/linger",
+    "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing powerful local AI to everyday computers through efficient model–harness co-design, so everyone can run their own.",
+    "created_at": "2026-11-10T03:50:38Z",
+    "updated_at": "2026-11-11T13:34:33Z",
+    "pushed_at": "2026-11-11T13:28:15Z",
+    "git_url": "git://github.com/simplexai-labs/linger.git",
+    "homepage": "",
+    "size": 31342,
+    "stargazers_count": 54,
+    "watchers_count": 54,
+    "language": "TypeScript",
+    "forks_count": 15,
+    "open_issues_count": 7
   }
 ]
