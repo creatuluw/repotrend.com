@@ -91469,5 +91469,74 @@
     "language": "Python",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1438394948,
+    "name": "totk-pc-recomp",
+    "owner": {
+      "id": 41872026,
+      "url": "https://api.github.com/users/valentderah",
+      "html_url": "https://github.com/valentderah",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41872026?v=4"
+    },
+    "html_url": "https://github.com/valentderah/totk-pc-recomp",
+    "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
+    "created_at": "2026-10-29T12:32:46Z",
+    "updated_at": "2026-11-10T22:57:13Z",
+    "pushed_at": "2026-11-10T16:35:34Z",
+    "git_url": "git://github.com/valentderah/totk-pc-recomp.git",
+    "homepage": "",
+    "size": 4691,
+    "stargazers_count": 6430,
+    "watchers_count": 6430,
+    "language": "C",
+    "forks_count": 532,
+    "open_issues_count": 381
+  },
+  {
+    "id": 1426441603,
+    "name": "Bridgeplay",
+    "owner": {
+      "id": 12913191,
+      "url": "https://api.github.com/users/raymondchins",
+      "html_url": "https://github.com/raymondchins",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12913191?v=4"
+    },
+    "html_url": "https://github.com/raymondchins/Bridgeplay",
+    "description": "Free fork of NotProton: Windows Steam games in Mac Steam, on CodeWeavers' Wine and Apple's Game Porting Toolkit",
+    "created_at": "2026-10-20T03:13:58Z",
+    "updated_at": "2026-11-10T20:16:20Z",
+    "pushed_at": "2026-11-10T15:17:12Z",
+    "git_url": "git://github.com/raymondchins/Bridgeplay.git",
+    "homepage": "https://bridgeplay.dev",
+    "size": 92791,
+    "stargazers_count": 930,
+    "watchers_count": 930,
+    "language": "Scala",
+    "forks_count": 150,
+    "open_issues_count": 8
+  },
+  {
+    "id": 1450544472,
+    "name": "lag-compensator",
+    "owner": {
+      "id": 317179815,
+      "url": "https://api.github.com/users/PlateBossRivet",
+      "html_url": "https://github.com/PlateBossRivet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/317179815?v=4"
+    },
+    "html_url": "https://github.com/PlateBossRivet/lag-compensator",
+    "description": "Reduce input lag, lower ping, fix jitter in competitive Windows games",
+    "created_at": "2026-11-08T18:22:11Z",
+    "updated_at": "2026-11-09T14:29:00Z",
+    "pushed_at": "2026-11-09T11:54:58Z",
+    "git_url": "git://github.com/PlateBossRivet/lag-compensator.git",
+    "homepage": null,
+    "size": 5067,
+    "stargazers_count": 82,
+    "watchers_count": 82,
+    "language": "Rust",
+    "forks_count": 11,
+    "open_issues_count": 0
   }
 ]
