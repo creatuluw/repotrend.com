@@ -91423,5 +91423,51 @@
     "language": "Rust",
     "forks_count": 9,
     "open_issues_count": 1
+  },
+  {
+    "id": 1438135351,
+    "name": "gen-ai-pose-image",
+    "owner": {
+      "id": 69044080,
+      "url": "https://api.github.com/users/wzc520pyfm",
+      "html_url": "https://github.com/wzc520pyfm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69044080?v=4"
+    },
+    "html_url": "https://github.com/wzc520pyfm/gen-ai-pose-image",
+    "description": "澜姿：从姿势线稿和衣装集给社区鲸鱼娘大肥鱼模特出图，调整姿势加变装，也可装进 DeepSeek Harness。Lanpose generates images of the community whale-girl Dafeiyu from pose sketches and costumes, and installs into DeepSeek Harness.",
+    "created_at": "2026-10-29T08:20:20Z",
+    "updated_at": "2026-11-09T15:27:34Z",
+    "pushed_at": "2026-11-09T03:00:43Z",
+    "git_url": "git://github.com/wzc520pyfm/gen-ai-pose-image.git",
+    "homepage": "https://gen-ai-pose-image.vercel.app/",
+    "size": 29039,
+    "stargazers_count": 829,
+    "watchers_count": 829,
+    "language": "JavaScript",
+    "forks_count": 70,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1447847580,
+    "name": "AegisOps",
+    "owner": {
+      "id": 353187258,
+      "url": "https://api.github.com/users/knot07",
+      "html_url": "https://github.com/knot07",
+      "avatar_url": "https://avatars.githubusercontent.com/u/353187258?v=4"
+    },
+    "html_url": "https://github.com/knot07/AegisOps",
+    "description": "御枢 · AegisOps — AI 安全运营工作台：告警研判、应急响应、漏洞整改，连接 Atlas、模型、工具与工作流。",
+    "created_at": "2026-11-06T04:58:11Z",
+    "updated_at": "2026-11-08T16:03:40Z",
+    "pushed_at": "2026-11-08T08:45:51Z",
+    "git_url": "git://github.com/knot07/AegisOps.git",
+    "homepage": null,
+    "size": 30935,
+    "stargazers_count": 98,
+    "watchers_count": 98,
+    "language": "Python",
+    "forks_count": 1,
+    "open_issues_count": 0
   }
 ]
