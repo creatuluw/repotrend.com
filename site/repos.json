@@ -91653,5 +91653,74 @@
     "language": "TypeScript",
     "forks_count": 15,
     "open_issues_count": 7
+  },
+  {
+    "id": 1421822085,
+    "name": "dsh-purge",
+    "owner": {
+      "id": 260348840,
+      "url": "https://api.github.com/users/kingcharleslzy-ai",
+      "html_url": "https://github.com/kingcharleslzy-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260348840?v=4"
+    },
+    "html_url": "https://github.com/kingcharleslzy-ai/dsh-purge",
+    "description": "dsh-purge Community · DeepSeek Harness 社区维护版：宿主兼容、状态诊断、提示词管理、更新与本机备份回滚。基于小杨 / YuJunZhiXue 的 dsh-purge。",
+    "created_at": "2026-10-16T07:44:27Z",
+    "updated_at": "2026-11-10T22:57:38Z",
+    "pushed_at": "2026-11-10T16:37:21Z",
+    "git_url": "git://github.com/kingcharleslzy-ai/dsh-purge.git",
+    "homepage": "https://github.com/kingcharleslzy-ai/dsh-purge/releases",
+    "size": 6488,
+    "stargazers_count": 6545,
+    "watchers_count": 6545,
+    "language": "JavaScript",
+    "forks_count": 2994,
+    "open_issues_count": 20
+  },
+  {
+    "id": 1448755173,
+    "name": "on1-photo-raw-max-config",
+    "owner": {
+      "id": 75119630,
+      "url": "https://api.github.com/users/Eriazeri",
+      "html_url": "https://github.com/Eriazeri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75119630?v=4"
+    },
+    "html_url": "https://github.com/Eriazeri/on1-photo-raw-max-config",
+    "description": "on1-photo-raw-max: complete standalone setup with advanced image tools",
+    "created_at": "2026-11-06T21:14:39Z",
+    "updated_at": "2026-11-10T21:58:56Z",
+    "pushed_at": "2026-11-10T20:16:00Z",
+    "git_url": "git://github.com/Eriazeri/on1-photo-raw-max-config.git",
+    "homepage": null,
+    "size": 236,
+    "stargazers_count": 773,
+    "watchers_count": 773,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1452549625,
+    "name": "GameTranslator",
+    "owner": {
+      "id": 107546244,
+      "url": "https://api.github.com/users/Sefflex",
+      "html_url": "https://github.com/Sefflex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/107546244?v=4"
+    },
+    "html_url": "https://github.com/Sefflex/GameTranslator",
+    "description": "GameTranslate for PS5",
+    "created_at": "2026-11-10T11:05:19Z",
+    "updated_at": "2026-11-11T13:45:50Z",
+    "pushed_at": "2026-11-11T13:28:10Z",
+    "git_url": "git://github.com/Sefflex/GameTranslator.git",
+    "homepage": null,
+    "size": 27238,
+    "stargazers_count": 61,
+    "watchers_count": 61,
+    "language": "C#",
+    "forks_count": 4,
+    "open_issues_count": 2
   }
 ]
