@@ -91722,5 +91722,74 @@
     "language": "C#",
     "forks_count": 4,
     "open_issues_count": 2
+  },
+  {
+    "id": 1438661890,
+    "name": "rea-video",
+    "owner": {
+      "id": 60815510,
+      "url": "https://api.github.com/users/JuneYaooo",
+      "html_url": "https://github.com/JuneYaooo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60815510?v=4"
+    },
+    "html_url": "https://github.com/JuneYaooo/rea-video",
+    "description": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻。",
+    "created_at": "2026-10-29T16:15:01Z",
+    "updated_at": "2026-11-11T13:45:21Z",
+    "pushed_at": "2026-11-11T08:55:41Z",
+    "git_url": "git://github.com/JuneYaooo/rea-video.git",
+    "homepage": "https://www.reavideo.ai/",
+    "size": 115622,
+    "stargazers_count": 6883,
+    "watchers_count": 6883,
+    "language": "Python",
+    "forks_count": 994,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1424563458,
+    "name": "pi-purge",
+    "owner": {
+      "id": 139305401,
+      "url": "https://api.github.com/users/ZiChuanLan",
+      "html_url": "https://github.com/ZiChuanLan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139305401?v=4"
+    },
+    "html_url": "https://github.com/ZiChuanLan/pi-purge",
+    "description": "pi extension: /purge swaps pi's built-in assistant persona for your own prompt file",
+    "created_at": "2026-10-18T16:11:03Z",
+    "updated_at": "2026-11-11T21:47:56Z",
+    "pushed_at": "2026-11-06T11:27:43Z",
+    "git_url": "git://github.com/ZiChuanLan/pi-purge.git",
+    "homepage": null,
+    "size": 79,
+    "stargazers_count": 781,
+    "watchers_count": 781,
+    "language": "JavaScript",
+    "forks_count": 314,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1452526744,
+    "name": "Acrobat-Pro-For-Windows",
+    "owner": {
+      "id": 184000032,
+      "url": "https://api.github.com/users/Vig-13",
+      "html_url": "https://github.com/Vig-13",
+      "avatar_url": "https://avatars.githubusercontent.com/u/184000032?v=4"
+    },
+    "html_url": "https://github.com/Vig-13/Acrobat-Pro-For-Windows",
+    "description": "Acrobat Pro for Windows — professional PDF editor for editing text and images, converting files, OCR, forms, document protection and electronic signatures.Markdown",
+    "created_at": "2026-11-10T10:41:53Z",
+    "updated_at": "2026-11-11T11:55:46Z",
+    "pushed_at": "2026-11-10T10:42:26Z",
+    "git_url": "git://github.com/Vig-13/Acrobat-Pro-For-Windows.git",
+    "homepage": "",
+    "size": 4,
+    "stargazers_count": 93,
+    "watchers_count": 93,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
