@@ -92320,5 +92320,74 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1366593263,
+    "name": "aws-emulator",
+    "owner": {
+      "id": 2232217,
+      "url": "https://api.github.com/users/aws",
+      "html_url": "https://github.com/aws",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2232217?v=4"
+    },
+    "html_url": "https://github.com/aws/aws-emulator",
+    "description": "AWS Emulator is a local emulator of the AWS APIs.",
+    "created_at": "2026-09-11T19:01:12Z",
+    "updated_at": "2026-11-13T23:20:57Z",
+    "pushed_at": "2026-11-13T23:18:31Z",
+    "git_url": "git://github.com/aws/aws-emulator.git",
+    "homepage": "https://docs.aws.amazon.com/emulator/latest/userguide/what-is-service.html",
+    "size": 1281581,
+    "stargazers_count": 7092,
+    "watchers_count": 7092,
+    "language": "Rust",
+    "forks_count": 276,
+    "open_issues_count": 384
+  },
+  {
+    "id": 1429490473,
+    "name": "claude-video-effects",
+    "owner": {
+      "id": 279949030,
+      "url": "https://api.github.com/users/Vibha-Ramprakash",
+      "html_url": "https://github.com/Vibha-Ramprakash",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279949030?v=4"
+    },
+    "html_url": "https://github.com/Vibha-Ramprakash/claude-video-effects",
+    "description": "51 free video effects for Claude Code: drop in a talking-head clip, type /effects orbit. Face tracking, behind-your-head layers. From Hop Studio by @vibha.in.progress",
+    "created_at": "2026-10-22T08:59:18Z",
+    "updated_at": "2026-11-14T12:17:22Z",
+    "pushed_at": "2026-11-12T11:12:40Z",
+    "git_url": "git://github.com/Vibha-Ramprakash/claude-video-effects.git",
+    "homepage": "https://vibha.is/ai-video-studio?source=effects-repo",
+    "size": 2981,
+    "stargazers_count": 938,
+    "watchers_count": 938,
+    "language": "Python",
+    "forks_count": 221,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1454910962,
+    "name": "agent-shared-facts",
+    "owner": {
+      "id": 210254748,
+      "url": "https://api.github.com/users/siwen-121",
+      "html_url": "https://github.com/siwen-121",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210254748?v=4"
+    },
+    "html_url": "https://github.com/siwen-121/agent-shared-facts",
+    "description": "An agent-first reference implementation for sharing reviewed facts across devices with Git and read-only MCP.",
+    "created_at": "2026-11-12T06:22:10Z",
+    "updated_at": "2026-11-12T21:44:28Z",
+    "pushed_at": "2026-11-12T15:02:19Z",
+    "git_url": "git://github.com/siwen-121/agent-shared-facts.git",
+    "homepage": null,
+    "size": 112,
+    "stargazers_count": 53,
+    "watchers_count": 53,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1
   }
 ]
