@@ -92251,5 +92251,74 @@
     "language": "JavaScript",
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1437814166,
+    "name": "misterdownloadmanager",
+    "owner": {
+      "id": 1832078,
+      "url": "https://api.github.com/users/anefzaoui",
+      "html_url": "https://github.com/anefzaoui",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1832078?v=4"
+    },
+    "html_url": "https://github.com/anefzaoui/misterdownloadmanager",
+    "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
+    "created_at": "2026-10-29T01:25:19Z",
+    "updated_at": "2026-11-12T23:20:29Z",
+    "pushed_at": "2026-11-12T23:05:33Z",
+    "git_url": "git://github.com/anefzaoui/misterdownloadmanager.git",
+    "homepage": "https://misterdownloadmanager.com",
+    "size": 530042,
+    "stargazers_count": 7830,
+    "watchers_count": 7830,
+    "language": "Rust",
+    "forks_count": 629,
+    "open_issues_count": 202
+  },
+  {
+    "id": 1433970549,
+    "name": "github_",
+    "owner": {
+      "id": 283891358,
+      "url": "https://api.github.com/users/Fractal-Compute-Orchestrations",
+      "html_url": "https://github.com/Fractal-Compute-Orchestrations",
+      "avatar_url": "https://avatars.githubusercontent.com/u/283891358?v=4"
+    },
+    "html_url": "https://github.com/Fractal-Compute-Orchestrations/github_",
+    "description": "Official Fractal Compute Orchestrations ecosystem hub (v3.1 non-commercial source-available): FractalWorkspace, FractalCore (v1.0.0), and FractalAndroid.",
+    "created_at": "2026-10-26T06:04:48Z",
+    "updated_at": "2026-11-13T09:31:12Z",
+    "pushed_at": "2026-11-13T11:37:07Z",
+    "git_url": "git://github.com/Fractal-Compute-Orchestrations/github_.git",
+    "homepage": "https://github.com/Fractal-Compute-Orchestrations/FractalWorkspace",
+    "size": 1431,
+    "stargazers_count": 773,
+    "watchers_count": 773,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1456852291,
+    "name": "ai--manus",
+    "owner": {
+      "id": 342259504,
+      "url": "https://api.github.com/users/AvenueBudgieShop",
+      "html_url": "https://github.com/AvenueBudgieShop",
+      "avatar_url": "https://avatars.githubusercontent.com/u/342259504?v=4"
+    },
+    "html_url": "https://github.com/AvenueBudgieShop/ai--manus",
+    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "created_at": "2026-11-13T16:46:03Z",
+    "updated_at": "2026-11-13T19:50:48Z",
+    "pushed_at": "2026-11-13T16:46:11Z",
+    "git_url": "git://github.com/AvenueBudgieShop/ai--manus.git",
+    "homepage": "",
+    "size": 10,
+    "stargazers_count": 87,
+    "watchers_count": 87,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
