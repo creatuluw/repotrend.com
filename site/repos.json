@@ -92182,5 +92182,74 @@
     "language": "Rust",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1429303647,
+    "name": "rune",
+    "owner": {
+      "id": 66570915,
+      "url": "https://api.github.com/users/anomalyco",
+      "html_url": "https://github.com/anomalyco",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66570915?v=4"
+    },
+    "html_url": "https://github.com/anomalyco/rune",
+    "description": "Rune: Native UI framework",
+    "created_at": "2026-10-22T05:51:40Z",
+    "updated_at": "2026-11-14T05:34:52Z",
+    "pushed_at": "2026-11-14T05:27:28Z",
+    "git_url": "git://github.com/anomalyco/rune.git",
+    "homepage": "",
+    "size": 162521,
+    "stargazers_count": 7055,
+    "watchers_count": 7055,
+    "language": "Rust",
+    "forks_count": 267,
+    "open_issues_count": 377
+  },
+  {
+    "id": 1424291110,
+    "name": "arman-vpn-client",
+    "owner": {
+      "id": 33343170,
+      "url": "https://api.github.com/users/armanlife",
+      "html_url": "https://github.com/armanlife",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33343170?v=4"
+    },
+    "html_url": "https://github.com/armanlife/arman-vpn-client",
+    "description": "Unofficial Firefox VPN client for Android, Windows, macOS, and Linux. Open-source and works with your own Mozilla account.",
+    "created_at": "2026-10-18T11:20:02Z",
+    "updated_at": "2026-11-13T22:23:02Z",
+    "pushed_at": "2026-11-10T10:19:38Z",
+    "git_url": "git://github.com/armanlife/arman-vpn-client.git",
+    "homepage": "https://t.me/ArmanVPNClient",
+    "size": 5655,
+    "stargazers_count": 866,
+    "watchers_count": 866,
+    "language": "Go",
+    "forks_count": 70,
+    "open_issues_count": 13
+  },
+  {
+    "id": 1454366269,
+    "name": "elu",
+    "owner": {
+      "id": 261623814,
+      "url": "https://api.github.com/users/ELU-Labs",
+      "html_url": "https://github.com/ELU-Labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/261623814?v=4"
+    },
+    "html_url": "https://github.com/ELU-Labs/elu",
+    "description": "A full-screen terminal app that runs coding sessions on the AI command lines you already use, with bots that review and do work, and teammates you can ask.",
+    "created_at": "2026-11-11T18:45:47Z",
+    "updated_at": "2026-11-13T15:28:25Z",
+    "pushed_at": "2026-11-13T21:08:03Z",
+    "git_url": "git://github.com/ELU-Labs/elu.git",
+    "homepage": null,
+    "size": 7211,
+    "stargazers_count": 88,
+    "watchers_count": 88,
+    "language": "JavaScript",
+    "forks_count": 5,
+    "open_issues_count": 0
   }
 ]
