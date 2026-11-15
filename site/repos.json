@@ -92550,5 +92550,51 @@
     "language": "TypeScript",
     "forks_count": 67,
     "open_issues_count": 1
+  },
+  {
+    "id": 1439161577,
+    "name": "zigzag",
+    "owner": {
+      "id": 704152,
+      "url": "https://api.github.com/users/simpsoka",
+      "html_url": "https://github.com/simpsoka",
+      "avatar_url": "https://avatars.githubusercontent.com/u/704152?v=4"
+    },
+    "html_url": "https://github.com/simpsoka/zigzag",
+    "description": "Free, open-source embroidery software for Mac and Windows. Turn SVG artwork into machine embroidery, edit stitches visually, and create designs with AI agents via MCP.",
+    "created_at": "2026-10-30T01:53:39Z",
+    "updated_at": "2026-11-14T22:06:14Z",
+    "pushed_at": "2026-11-14T21:49:25Z",
+    "git_url": "git://github.com/simpsoka/zigzag.git",
+    "homepage": "https://zigzag.diy/",
+    "size": 19106,
+    "stargazers_count": 720,
+    "watchers_count": 720,
+    "language": "Rust",
+    "forks_count": 36,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1458775262,
+    "name": "ableton-production-bench",
+    "owner": {
+      "id": 321958311,
+      "url": "https://api.github.com/users/philipb7681",
+      "html_url": "https://github.com/philipb7681",
+      "avatar_url": "https://avatars.githubusercontent.com/u/321958311?v=4"
+    },
+    "html_url": "https://github.com/philipb7681/ableton-production-bench",
+    "description": "Production bench for Ableton Live — racks, sampling tricks, mixdown chain.",
+    "created_at": "2026-11-15T12:25:29Z",
+    "updated_at": "2026-11-15T12:56:16Z",
+    "pushed_at": "2026-11-15T12:26:14Z",
+    "git_url": "git://github.com/philipb7681/ableton-production-bench.git",
+    "homepage": null,
+    "size": 2,
+    "stargazers_count": 96,
+    "watchers_count": 96,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
