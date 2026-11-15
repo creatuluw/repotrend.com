@@ -92504,5 +92504,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1452450730,
+    "name": "line-art-animation",
+    "owner": {
+      "id": 112489039,
+      "url": "https://api.github.com/users/JDhruv14",
+      "html_url": "https://github.com/JDhruv14",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112489039?v=4"
+    },
+    "html_url": "https://github.com/JDhruv14/line-art-animation",
+    "description": "A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.",
+    "created_at": "2026-11-10T09:25:25Z",
+    "updated_at": "2026-11-15T04:58:40Z",
+    "pushed_at": "2026-11-10T09:25:38Z",
+    "git_url": "git://github.com/JDhruv14/line-art-animation.git",
+    "homepage": null,
+    "size": 7308,
+    "stargazers_count": 779,
+    "watchers_count": 779,
+    "language": "TypeScript",
+    "forks_count": 125,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1457214763,
+    "name": "parallax",
+    "owner": {
+      "id": 143043823,
+      "url": "https://api.github.com/users/nickvasilescu",
+      "html_url": "https://github.com/nickvasilescu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143043823?v=4"
+    },
+    "html_url": "https://github.com/nickvasilescu/parallax",
+    "description": "Open-source AI image, video and audio studio, with an agent chat you can run on your own Hermes agent on Orgo.",
+    "created_at": "2026-11-13T23:49:19Z",
+    "updated_at": "2026-11-15T05:30:59Z",
+    "pushed_at": "2026-11-14T00:05:43Z",
+    "git_url": "git://github.com/nickvasilescu/parallax.git",
+    "homepage": null,
+    "size": 14514,
+    "stargazers_count": 94,
+    "watchers_count": 94,
+    "language": "TypeScript",
+    "forks_count": 67,
+    "open_issues_count": 1
   }
 ]
