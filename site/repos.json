@@ -92389,5 +92389,74 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 1
+  },
+  {
+    "id": 1368447577,
+    "name": "instagram-agent-skill",
+    "owner": {
+      "id": 196724947,
+      "url": "https://api.github.com/users/Jakeschincariol",
+      "html_url": "https://github.com/Jakeschincariol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/196724947?v=4"
+    },
+    "html_url": "https://github.com/Jakeschincariol/instagram-agent-skill",
+    "description": "Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formulas, a viral research skill, a caption linter, and a humanizer. Free, MIT.",
+    "created_at": "2026-09-13T14:09:50Z",
+    "updated_at": "2026-11-14T22:02:42Z",
+    "pushed_at": "2026-09-13T14:10:31Z",
+    "git_url": "git://github.com/Jakeschincariol/instagram-agent-skill.git",
+    "homepage": null,
+    "size": 75,
+    "stargazers_count": 6440,
+    "watchers_count": 6440,
+    "language": "Python",
+    "forks_count": 1264,
+    "open_issues_count": 60
+  },
+  {
+    "id": 1431690119,
+    "name": "BOTWRecompAndroid",
+    "owner": {
+      "id": 26612066,
+      "url": "https://api.github.com/users/mamcjr",
+      "html_url": "https://github.com/mamcjr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26612066?v=4"
+    },
+    "html_url": "https://github.com/mamcjr/BOTWRecompAndroid",
+    "description": "Static recompilation of The Legend of Zelda: Breath of the Wild (Switch 1.0.0 / 1.6.0 / 1.8.2) for Android - no game files included",
+    "created_at": "2026-10-24T00:53:21Z",
+    "updated_at": "2026-11-14T22:04:46Z",
+    "pushed_at": "2026-11-14T20:49:35Z",
+    "git_url": "git://github.com/mamcjr/BOTWRecompAndroid.git",
+    "homepage": null,
+    "size": 23269,
+    "stargazers_count": 826,
+    "watchers_count": 826,
+    "language": "C",
+    "forks_count": 57,
+    "open_issues_count": 162
+  },
+  {
+    "id": 1457960465,
+    "name": "GitHub-Copilot-app",
+    "owner": {
+      "id": 342261450,
+      "url": "https://api.github.com/users/RedCartwright",
+      "html_url": "https://github.com/RedCartwright",
+      "avatar_url": "https://avatars.githubusercontent.com/u/342261450?v=4"
+    },
+    "html_url": "https://github.com/RedCartwright/GitHub-Copilot-app",
+    "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+    "created_at": "2026-11-14T16:46:45Z",
+    "updated_at": "2026-11-14T18:26:41Z",
+    "pushed_at": "2026-11-14T16:47:36Z",
+    "git_url": "git://github.com/RedCartwright/GitHub-Copilot-app.git",
+    "homepage": "",
+    "size": 274,
+    "stargazers_count": 94,
+    "watchers_count": 94,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
