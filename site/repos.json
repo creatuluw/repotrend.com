@@ -92596,5 +92596,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1421473890,
+    "name": "kapitsa",
+    "owner": {
+      "id": 167709996,
+      "url": "https://api.github.com/users/nace-ai",
+      "html_url": "https://github.com/nace-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/167709996?v=4"
+    },
+    "html_url": "https://github.com/nace-ai/kapitsa",
+    "description": "Blazing fast Apple Silicon inference engine optimized for Qwen & Nemotron. OpenAI + Anthropic API compatible. Built by folks from nace.ai",
+    "created_at": "2026-10-16T00:41:59Z",
+    "updated_at": "2026-11-14T17:12:06Z",
+    "pushed_at": "2026-11-14T17:50:27Z",
+    "git_url": "git://github.com/nace-ai/kapitsa.git",
+    "homepage": "https://kapitsa.vercel.app",
+    "size": 113296,
+    "stargazers_count": 795,
+    "watchers_count": 795,
+    "language": "C++",
+    "forks_count": 105,
+    "open_issues_count": 35
+  },
+  {
+    "id": 1455093821,
+    "name": "sitrep",
+    "owner": {
+      "id": 28491847,
+      "url": "https://api.github.com/users/IluvatarLabs",
+      "html_url": "https://github.com/IluvatarLabs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28491847?v=4"
+    },
+    "html_url": "https://github.com/IluvatarLabs/sitrep",
+    "description": "One live console to monitor Claude Code and Codex agents across machines, track context and spend, and unblock sessions that need you.",
+    "created_at": "2026-11-12T09:34:39Z",
+    "updated_at": "2026-11-14T11:37:46Z",
+    "pushed_at": "2026-11-12T21:37:10Z",
+    "git_url": "git://github.com/IluvatarLabs/sitrep.git",
+    "homepage": null,
+    "size": 16612,
+    "stargazers_count": 91,
+    "watchers_count": 91,
+    "language": "TypeScript",
+    "forks_count": 17,
+    "open_issues_count": 0
   }
 ]
