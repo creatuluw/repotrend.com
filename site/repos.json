@@ -92642,5 +92642,51 @@
     "language": "TypeScript",
     "forks_count": 17,
     "open_issues_count": 0
+  },
+  {
+    "id": 1423413755,
+    "name": "awesome-chinese-secondhand-slang",
+    "owner": {
+      "id": 19463076,
+      "url": "https://api.github.com/users/Domainsun",
+      "html_url": "https://github.com/Domainsun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19463076?v=4"
+    },
+    "html_url": "https://github.com/Domainsun/awesome-chinese-secondhand-slang",
+    "description": "🐟 中国二手交易暗语全书与避坑合规指南 (闲鱼 / 转转 / 小红书 4,476+ 条实战暗号变体、卖家潜台词透视与买家验货防割指南)",
+    "created_at": "2026-10-17T14:29:01Z",
+    "updated_at": "2026-11-15T17:27:32Z",
+    "pushed_at": "2026-10-19T11:19:14Z",
+    "git_url": "git://github.com/Domainsun/awesome-chinese-secondhand-slang.git",
+    "homepage": "https://anyu.luckhub.cc",
+    "size": 217,
+    "stargazers_count": 797,
+    "watchers_count": 797,
+    "language": null,
+    "forks_count": 51,
+    "open_issues_count": 1
+  },
+  {
+    "id": 1457959246,
+    "name": "IPTV_Player_2.0",
+    "owner": {
+      "id": 342268717,
+      "url": "https://api.github.com/users/restraintstageheal",
+      "html_url": "https://github.com/restraintstageheal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/342268717?v=4"
+    },
+    "html_url": "https://github.com/restraintstageheal/IPTV_Player_2.0",
+    "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+    "created_at": "2026-11-14T16:45:32Z",
+    "updated_at": "2026-11-15T18:30:18Z",
+    "pushed_at": "2026-11-15T10:33:18Z",
+    "git_url": "git://github.com/restraintstageheal/IPTV_Player_2.0.git",
+    "homepage": "",
+    "size": 626,
+    "stargazers_count": 87,
+    "watchers_count": 87,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
