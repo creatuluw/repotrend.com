@@ -230,6 +230,29 @@
     "open_issues_count": 0
   },
   {
+    "id": 1458684694,
+    "name": "Parallax",
+    "owner": {
+      "id": 199689343,
+      "url": "https://api.github.com/users/AI4XE",
+      "html_url": "https://github.com/AI4XE",
+      "avatar_url": "https://avatars.githubusercontent.com/u/199689343?v=4"
+    },
+    "html_url": "https://github.com/AI4XE/Parallax",
+    "description": "A hands-off development plugin for AI coding agents (Claude Code, DeepSeek Harness, GitHub Copilot and more)",
+    "created_at": "2026-11-15T10:31:00Z",
+    "updated_at": "2026-11-16T15:08:14Z",
+    "pushed_at": "2026-11-16T13:29:29Z",
+    "git_url": "git://github.com/AI4XE/Parallax.git",
+    "homepage": "",
+    "size": 1613,
+    "stargazers_count": 98,
+    "watchers_count": 98,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1
+  },
+  {
     "id": 1459057894,
     "name": "retro-handheld-corner",
     "owner": {
@@ -345,6 +368,29 @@
     "open_issues_count": 0
   },
   {
+    "id": 1458515843,
+    "name": "mixbar",
+    "owner": {
+      "id": 142634204,
+      "url": "https://api.github.com/users/lishuangqiang",
+      "html_url": "https://github.com/lishuangqiang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/142634204?v=4"
+    },
+    "html_url": "https://github.com/lishuangqiang/mixbar",
+    "description": "Per-app volume mixer for macOS — no driver, no account. Built on Core Audio Process Tap.",
+    "created_at": "2026-11-15T06:32:00Z",
+    "updated_at": "2026-11-16T15:11:50Z",
+    "pushed_at": "2026-11-15T06:54:35Z",
+    "git_url": "git://github.com/lishuangqiang/mixbar.git",
+    "homepage": null,
+    "size": 2178,
+    "stargazers_count": 96,
+    "watchers_count": 96,
+    "language": "Swift",
+    "forks_count": 1,
+    "open_issues_count": 0
+  },
+  {
     "id": 1458775262,
     "name": "ableton-production-bench",
     "owner": {
@@ -379,7 +425,7 @@
     "html_url": "https://github.com/freebarddesignate/IPTV_Player2.0",
     "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
     "created_at": "2026-11-13T16:55:54Z",
-    "updated_at": "2026-11-15T17:02:35Z",
+    "updated_at": "2026-11-16T11:21:46Z",
     "pushed_at": "2026-11-15T10:32:41Z",
     "git_url": "git://github.com/freebarddesignate/IPTV_Player2.0.git",
     "homepage": "",
@@ -460,6 +506,29 @@
     "open_issues_count": 0
   },
   {
+    "id": 1458020317,
+    "name": "dsh-infinite-gen-n",
+    "owner": {
+      "id": 108618469,
+      "url": "https://api.github.com/users/Minglink",
+      "html_url": "https://github.com/Minglink",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108618469?v=4"
+    },
+    "html_url": "https://github.com/Minglink/dsh-infinite-gen-n",
+    "description": "无限N代 - DeepSeek Harness 破甲插件（无限一代至四代原作者维护）| 288+ 道测试题全过 · DeepSeek V4.1-Flash 1017 实测适配         如果对你的研究有帮助的话，求一个star 支持一下开源技术分享！",
+    "created_at": "2026-11-14T17:52:48Z",
+    "updated_at": "2026-11-16T15:00:33Z",
+    "pushed_at": "2026-11-16T14:19:46Z",
+    "git_url": "git://github.com/Minglink/dsh-infinite-gen-n.git",
+    "homepage": "",
+    "size": 680,
+    "stargazers_count": 95,
+    "watchers_count": 95,
+    "language": "JavaScript",
+    "forks_count": 51,
+    "open_issues_count": 0
+  },
+  {
     "id": 1456642892,
     "name": "loupe-osint-image-verification",
     "owner": {
@@ -480,29 +549,6 @@
     "watchers_count": 95,
     "language": "JavaScript",
     "forks_count": 5,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1456864130,
-    "name": "ai--manus",
-    "owner": {
-      "id": 342288612,
-      "url": "https://api.github.com/users/grabsparrowangular",
-      "html_url": "https://github.com/grabsparrowangular",
-      "avatar_url": "https://avatars.githubusercontent.com/u/342288612?v=4"
-    },
-    "html_url": "https://github.com/grabsparrowangular/ai--manus",
-    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-    "created_at": "2026-11-13T16:56:21Z",
-    "updated_at": "2026-11-15T17:02:40Z",
-    "pushed_at": "2026-11-15T10:32:37Z",
-    "git_url": "git://github.com/grabsparrowangular/ai--manus.git",
-    "homepage": "",
-    "size": 196,
-    "stargazers_count": 95,
-    "watchers_count": 95,
-    "language": null,
-    "forks_count": 0,
     "open_issues_count": 0
   },
   {
@@ -552,6 +598,29 @@
     "open_issues_count": 0
   },
   {
+    "id": 1456864130,
+    "name": "ai--manus",
+    "owner": {
+      "id": 342288612,
+      "url": "https://api.github.com/users/grabsparrowangular",
+      "html_url": "https://github.com/grabsparrowangular",
+      "avatar_url": "https://avatars.githubusercontent.com/u/342288612?v=4"
+    },
+    "html_url": "https://github.com/grabsparrowangular/ai--manus",
+    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "created_at": "2026-11-13T16:56:21Z",
+    "updated_at": "2026-11-16T11:22:39Z",
+    "pushed_at": "2026-11-15T10:32:37Z",
+    "git_url": "git://github.com/grabsparrowangular/ai--manus.git",
+    "homepage": "",
+    "size": 196,
+    "stargazers_count": 94,
+    "watchers_count": 94,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
     "id": 1455973228,
     "name": "civ7-fs-kaihen",
     "owner": {
@@ -563,16 +632,39 @@
     "html_url": "https://github.com/s8n/civ7-fs-kaihen",
     "description": "CivSwitch + CivSwitch-kit + civ7-fs + kaiHEN",
     "created_at": "2026-11-13T00:21:04Z",
-    "updated_at": "2026-11-16T02:01:02Z",
+    "updated_at": "2026-11-16T15:10:14Z",
     "pushed_at": "2026-11-15T20:17:02Z",
     "git_url": "git://github.com/s8n/civ7-fs-kaihen.git",
     "homepage": "",
     "size": 622,
-    "stargazers_count": 92,
-    "watchers_count": 92,
+    "stargazers_count": 93,
+    "watchers_count": 93,
     "language": "JavaScript",
     "forks_count": 16,
     "open_issues_count": 6
+  },
+  {
+    "id": 1459485844,
+    "name": "mate-wayland-desktop",
+    "owner": {
+      "id": 71678663,
+      "url": "https://api.github.com/users/scottsturrock",
+      "html_url": "https://github.com/scottsturrock",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71678663?v=4"
+    },
+    "html_url": "https://github.com/scottsturrock/mate-wayland-desktop",
+    "description": "MATE Wayland Desktop: the MATE desktop on Wayland with labwc, on an Ubuntu 26.04 base. Sources and build system.",
+    "created_at": "2026-11-16T03:12:11Z",
+    "updated_at": "2026-11-16T12:25:56Z",
+    "pushed_at": "2026-11-16T11:25:51Z",
+    "git_url": "git://github.com/scottsturrock/mate-wayland-desktop.git",
+    "homepage": "https://mate-wayland.org/",
+    "size": 25880,
+    "stargazers_count": 91,
+    "watchers_count": 91,
+    "language": "Shell",
+    "forks_count": 0,
+    "open_issues_count": 0
   },
   {
     "id": 1456864356,
@@ -595,6 +687,52 @@
     "watchers_count": 91,
     "language": null,
     "forks_count": 0,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1457340838,
+    "name": "clash-verge-static-ip",
+    "owner": {
+      "id": 13111768,
+      "url": "https://api.github.com/users/dingxiaopi",
+      "html_url": "https://github.com/dingxiaopi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13111768?v=4"
+    },
+    "html_url": "https://github.com/dingxiaopi/clash-verge-static-ip",
+    "description": "Clash Verge Rev 电脑版静态 IP 分流脚本，支持 X、AI 和 YouTube 分流及自动选线",
+    "created_at": "2026-11-14T03:24:34Z",
+    "updated_at": "2026-11-16T13:50:38Z",
+    "pushed_at": "2026-11-15T14:57:16Z",
+    "git_url": "git://github.com/dingxiaopi/clash-verge-static-ip.git",
+    "homepage": null,
+    "size": 1310,
+    "stargazers_count": 91,
+    "watchers_count": 91,
+    "language": "JavaScript",
+    "forks_count": 29,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1459252611,
+    "name": "sakuga-vfx",
+    "owner": {
+      "id": 120680146,
+      "url": "https://api.github.com/users/finktheartist",
+      "html_url": "https://github.com/finktheartist",
+      "avatar_url": "https://avatars.githubusercontent.com/u/120680146?v=4"
+    },
+    "html_url": "https://github.com/finktheartist/sakuga-vfx",
+    "description": "Twelve ordinary UI controls that react like anime. One file each, no dependencies.",
+    "created_at": "2026-11-15T21:19:28Z",
+    "updated_at": "2026-11-16T14:47:10Z",
+    "pushed_at": "2026-11-15T21:19:34Z",
+    "git_url": "git://github.com/finktheartist/sakuga-vfx.git",
+    "homepage": "https://sakuga-vfx.vercel.app",
+    "size": 930,
+    "stargazers_count": 90,
+    "watchers_count": 90,
+    "language": "HTML",
+    "forks_count": 10,
     "open_issues_count": 0
   },
   {
@@ -663,29 +801,6 @@
     "stargazers_count": 89,
     "watchers_count": 89,
     "language": "Rust",
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1459089855,
-    "name": "xfer-serum-desktop",
-    "owner": {
-      "id": 342009011,
-      "url": "https://api.github.com/users/the-phil-lambert",
-      "html_url": "https://github.com/the-phil-lambert",
-      "avatar_url": "https://avatars.githubusercontent.com/u/342009011?v=4"
-    },
-    "html_url": "https://github.com/the-phil-lambert/xfer-serum-desktop",
-    "description": "Xfer Serum",
-    "created_at": "2026-11-15T18:02:03Z",
-    "updated_at": "2026-11-16T05:32:29Z",
-    "pushed_at": "2026-11-16T05:16:58Z",
-    "git_url": "git://github.com/the-phil-lambert/xfer-serum-desktop.git",
-    "homepage": "https://the-phil-lambert.github.io/xfer-serum-desktop/",
-    "size": 114,
-    "stargazers_count": 88,
-    "watchers_count": 88,
-    "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
   },
@@ -801,29 +916,6 @@
     "stargazers_count": 87,
     "watchers_count": 87,
     "language": null,
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1459088829,
-    "name": "steinberg-cubase-desktop",
-    "owner": {
-      "id": 342007513,
-      "url": "https://api.github.com/users/the-owen-walker",
-      "html_url": "https://github.com/the-owen-walker",
-      "avatar_url": "https://avatars.githubusercontent.com/u/342007513?v=4"
-    },
-    "html_url": "https://github.com/the-owen-walker/steinberg-cubase-desktop",
-    "description": "Steinberg Cubase",
-    "created_at": "2026-11-15T18:00:55Z",
-    "updated_at": "2026-11-16T05:31:33Z",
-    "pushed_at": "2026-11-16T04:16:48Z",
-    "git_url": "git://github.com/the-owen-walker/steinberg-cubase-desktop.git",
-    "homepage": "https://the-owen-walker.github.io/steinberg-cubase-desktop/",
-    "size": 125,
-    "stargazers_count": 87,
-    "watchers_count": 87,
-    "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
   },
@@ -1123,29 +1215,6 @@
     "stargazers_count": 87,
     "watchers_count": 87,
     "language": null,
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1459088560,
-    "name": "microsoft-project-plan-3-desktop",
-    "owner": {
-      "id": 342026979,
-      "url": "https://api.github.com/users/todd-bowen-79",
-      "html_url": "https://github.com/todd-bowen-79",
-      "avatar_url": "https://avatars.githubusercontent.com/u/342026979?v=4"
-    },
-    "html_url": "https://github.com/todd-bowen-79/microsoft-project-plan-3-desktop",
-    "description": "Microsoft Project Plan 3 2026 desktop setup with Gantt scheduling, resource management, report templates and portable mode for Windows 11",
-    "created_at": "2026-11-15T18:00:35Z",
-    "updated_at": "2026-11-16T05:32:28Z",
-    "pushed_at": "2026-11-16T03:19:51Z",
-    "git_url": "git://github.com/todd-bowen-79/microsoft-project-plan-3-desktop.git",
-    "homepage": "https://todd-bowen-79.github.io/microsoft-project-plan-3-desktop/",
-    "size": 131,
-    "stargazers_count": 87,
-    "watchers_count": 87,
-    "language": "C++",
     "forks_count": 0,
     "open_issues_count": 0
   },
@@ -2227,75 +2296,6 @@
     "stargazers_count": 87,
     "watchers_count": 87,
     "language": null,
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1457959107,
-    "name": "IPTV_Player_2.0",
-    "owner": {
-      "id": 342288532,
-      "url": "https://api.github.com/users/ProtonDonorLure",
-      "html_url": "https://github.com/ProtonDonorLure",
-      "avatar_url": "https://avatars.githubusercontent.com/u/342288532?v=4"
-    },
-    "html_url": "https://github.com/ProtonDonorLure/IPTV_Player_2.0",
-    "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
-    "created_at": "2026-11-14T16:45:27Z",
-    "updated_at": "2026-11-15T18:30:06Z",
-    "pushed_at": "2026-11-15T10:33:19Z",
-    "git_url": "git://github.com/ProtonDonorLure/IPTV_Player_2.0.git",
-    "homepage": "",
-    "size": 626,
-    "stargazers_count": 87,
-    "watchers_count": 87,
-    "language": "Rust",
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1457959246,
-    "name": "IPTV_Player_2.0",
-    "owner": {
-      "id": 342268717,
-      "url": "https://api.github.com/users/restraintstageheal",
-      "html_url": "https://github.com/restraintstageheal",
-      "avatar_url": "https://avatars.githubusercontent.com/u/342268717?v=4"
-    },
-    "html_url": "https://github.com/restraintstageheal/IPTV_Player_2.0",
-    "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
-    "created_at": "2026-11-14T16:45:32Z",
-    "updated_at": "2026-11-15T18:30:18Z",
-    "pushed_at": "2026-11-15T10:33:18Z",
-    "git_url": "git://github.com/restraintstageheal/IPTV_Player_2.0.git",
-    "homepage": "",
-    "size": 626,
-    "stargazers_count": 87,
-    "watchers_count": 87,
-    "language": "Rust",
-    "forks_count": 0,
-    "open_issues_count": 0
-  },
-  {
-    "id": 1457959040,
-    "name": "IPTV_Player_2.0",
-    "owner": {
-      "id": 342289889,
-      "url": "https://api.github.com/users/Mergechopuzzle",
-      "html_url": "https://github.com/Mergechopuzzle",
-      "avatar_url": "https://avatars.githubusercontent.com/u/342289889?v=4"
-    },
-    "html_url": "https://github.com/Mergechopuzzle/IPTV_Player_2.0",
-    "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
-    "created_at": "2026-11-14T16:45:25Z",
-    "updated_at": "2026-11-15T18:30:02Z",
-    "pushed_at": "2026-11-15T10:33:15Z",
-    "git_url": "git://github.com/Mergechopuzzle/IPTV_Player_2.0.git",
-    "homepage": "",
-    "size": 626,
-    "stargazers_count": 87,
-    "watchers_count": 87,
-    "language": "Rust",
     "forks_count": 0,
     "open_issues_count": 0
   }
