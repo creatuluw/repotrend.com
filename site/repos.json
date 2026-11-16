@@ -92688,5 +92688,74 @@
     "language": "Rust",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1416442720,
+    "name": "TokenEconomizer",
+    "owner": {
+      "id": 6154722,
+      "url": "https://api.github.com/users/microsoft",
+      "html_url": "https://github.com/microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
+    },
+    "html_url": "https://github.com/microsoft/TokenEconomizer",
+    "description": "Experience-Driven Black-Box Cost Control for Coding Agents",
+    "created_at": "2026-10-13T04:16:50Z",
+    "updated_at": "2026-11-15T22:37:15Z",
+    "pushed_at": "2026-11-12T21:48:20Z",
+    "git_url": "git://github.com/microsoft/TokenEconomizer.git",
+    "homepage": "",
+    "size": 6928,
+    "stargazers_count": 6461,
+    "watchers_count": 6461,
+    "language": "Python",
+    "forks_count": 416,
+    "open_issues_count": 44
+  },
+  {
+    "id": 1432397417,
+    "name": "cyber-xiaoya-live",
+    "owner": {
+      "id": 347483596,
+      "url": "https://api.github.com/users/cyber-xiaoya",
+      "html_url": "https://github.com/cyber-xiaoya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/347483596?v=4"
+    },
+    "html_url": "https://github.com/cyber-xiaoya/cyber-xiaoya-live",
+    "description": "赛博小雅直播版 · 组件版数字人（Vidu s2）· 免费开源 AGPL-3.0 · 作者：天工开帧（抖音/B站/YouTube 同名）",
+    "created_at": "2026-10-24T16:54:32Z",
+    "updated_at": "2026-11-15T18:14:15Z",
+    "pushed_at": "2026-11-12T18:05:03Z",
+    "git_url": "git://github.com/cyber-xiaoya/cyber-xiaoya-live.git",
+    "homepage": "https://www.19980303.xyz/",
+    "size": 5632,
+    "stargazers_count": 882,
+    "watchers_count": 882,
+    "language": "Python",
+    "forks_count": 366,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1457958832,
+    "name": "ai--manus2.0",
+    "owner": {
+      "id": 342268717,
+      "url": "https://api.github.com/users/restraintstageheal",
+      "html_url": "https://github.com/restraintstageheal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/342268717?v=4"
+    },
+    "html_url": "https://github.com/restraintstageheal/ai--manus2.0",
+    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "created_at": "2026-11-14T16:45:12Z",
+    "updated_at": "2026-11-15T18:29:56Z",
+    "pushed_at": "2026-11-15T10:33:16Z",
+    "git_url": "git://github.com/restraintstageheal/ai--manus2.0.git",
+    "homepage": "",
+    "size": 176,
+    "stargazers_count": 87,
+    "watchers_count": 87,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
