@@ -92872,5 +92872,51 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1444635695,
+    "name": "muse4ai",
+    "owner": {
+      "id": 204065716,
+      "url": "https://api.github.com/users/andrew-babo",
+      "html_url": "https://github.com/andrew-babo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/204065716?v=4"
+    },
+    "html_url": "https://github.com/andrew-babo/muse4ai",
+    "description": "Muse4AI — let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth.",
+    "created_at": "2026-11-03T17:45:18Z",
+    "updated_at": "2026-11-15T22:22:25Z",
+    "pushed_at": "2026-11-13T17:36:17Z",
+    "git_url": "git://github.com/andrew-babo/muse4ai.git",
+    "homepage": null,
+    "size": 20307,
+    "stargazers_count": 913,
+    "watchers_count": 913,
+    "language": "TypeScript",
+    "forks_count": 65,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1457959176,
+    "name": "IPTV_Player_2.0",
+    "owner": {
+      "id": 342285035,
+      "url": "https://api.github.com/users/Maroonforcavity",
+      "html_url": "https://github.com/Maroonforcavity",
+      "avatar_url": "https://avatars.githubusercontent.com/u/342285035?v=4"
+    },
+    "html_url": "https://github.com/Maroonforcavity/IPTV_Player_2.0",
+    "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+    "created_at": "2026-11-14T16:45:30Z",
+    "updated_at": "2026-11-16T16:28:02Z",
+    "pushed_at": "2026-11-15T10:33:15Z",
+    "git_url": "git://github.com/Maroonforcavity/IPTV_Player_2.0.git",
+    "homepage": "",
+    "size": 626,
+    "stargazers_count": 86,
+    "watchers_count": 86,
+    "language": "Rust",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
