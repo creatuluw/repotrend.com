@@ -92803,5 +92803,74 @@
     "language": "Rust",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1438478196,
+    "name": "apkstart",
+    "owner": {
+      "id": 52089759,
+      "url": "https://api.github.com/users/RoutineMiku",
+      "html_url": "https://github.com/RoutineMiku",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52089759?v=4"
+    },
+    "html_url": "https://github.com/RoutineMiku/apkstart",
+    "description": "Windows 上的安卓应用运行器：双击 APK 即装，应用以独立窗口与桌面图标运行，自持 QEMU 运行时",
+    "created_at": "2026-10-29T13:44:03Z",
+    "updated_at": "2026-11-17T01:42:06Z",
+    "pushed_at": "2026-11-17T01:23:50Z",
+    "git_url": "git://github.com/RoutineMiku/apkstart.git",
+    "homepage": null,
+    "size": 14739,
+    "stargazers_count": 6608,
+    "watchers_count": 6608,
+    "language": "JavaScript",
+    "forks_count": 618,
+    "open_issues_count": 88
+  },
+  {
+    "id": 1448383153,
+    "name": "WowType",
+    "owner": {
+      "id": 88082356,
+      "url": "https://api.github.com/users/Gloridust",
+      "html_url": "https://github.com/Gloridust",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88082356?v=4"
+    },
+    "html_url": "https://github.com/Gloridust/WowType",
+    "description": "像微信输入法一样顺手的Linux输入法：长句一次打完、按错键也能认出来、纯离线语音输入、实时翻译，越用越懂你。",
+    "created_at": "2026-11-06T14:48:19Z",
+    "updated_at": "2026-11-16T14:57:51Z",
+    "pushed_at": "2026-11-16T14:58:49Z",
+    "git_url": "git://github.com/Gloridust/WowType.git",
+    "homepage": "",
+    "size": 5798,
+    "stargazers_count": 987,
+    "watchers_count": 987,
+    "language": "Rust",
+    "forks_count": 53,
+    "open_issues_count": 33
+  },
+  {
+    "id": 1457958754,
+    "name": "ai--manus2.0",
+    "owner": {
+      "id": 342287352,
+      "url": "https://api.github.com/users/PhotonFollower",
+      "html_url": "https://github.com/PhotonFollower",
+      "avatar_url": "https://avatars.githubusercontent.com/u/342287352?v=4"
+    },
+    "html_url": "https://github.com/PhotonFollower/ai--manus2.0",
+    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "created_at": "2026-11-14T16:45:11Z",
+    "updated_at": "2026-11-16T16:27:33Z",
+    "pushed_at": "2026-11-15T10:33:15Z",
+    "git_url": "git://github.com/PhotonFollower/ai--manus2.0.git",
+    "homepage": "",
+    "size": 176,
+    "stargazers_count": 86,
+    "watchers_count": 86,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
