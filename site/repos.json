@@ -92918,5 +92918,51 @@
     "language": "Rust",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1421606394,
+    "name": "Awesome-CUA",
+    "owner": {
+      "id": 68239571,
+      "url": "https://api.github.com/users/reacher-z",
+      "html_url": "https://github.com/reacher-z",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68239571?v=4"
+    },
+    "html_url": "https://github.com/reacher-z/Awesome-CUA",
+    "description": "Open, source-backed catalog of computer-use agents: reviewed papers, GUI models, datasets, benchmarks, tools, and reusable JSONL/SQLite data.",
+    "created_at": "2026-10-16T03:46:44Z",
+    "updated_at": "2026-11-15T22:26:19Z",
+    "pushed_at": "2026-11-15T16:26:43Z",
+    "git_url": "git://github.com/reacher-z/Awesome-CUA.git",
+    "homepage": "https://awesomecua.com",
+    "size": 470386,
+    "stargazers_count": 945,
+    "watchers_count": 945,
+    "language": "Python",
+    "forks_count": 147,
+    "open_issues_count": 1942
+  },
+  {
+    "id": 1459182854,
+    "name": "elden-ring-esp",
+    "owner": {
+      "id": 93719162,
+      "url": "https://api.github.com/users/gimsarabandara",
+      "html_url": "https://github.com/gimsarabandara",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93719162?v=4"
+    },
+    "html_url": "https://github.com/gimsarabandara/elden-ring-esp",
+    "description": "Elden Ring ESP: See Every Enemy, Item, and Threat First",
+    "created_at": "2026-11-15T19:49:46Z",
+    "updated_at": "2026-11-17T15:41:14Z",
+    "pushed_at": "2026-11-17T13:59:15Z",
+    "git_url": "git://github.com/gimsarabandara/elden-ring-esp.git",
+    "homepage": null,
+    "size": 220,
+    "stargazers_count": 93,
+    "watchers_count": 93,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
