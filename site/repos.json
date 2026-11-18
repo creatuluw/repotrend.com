@@ -92964,5 +92964,74 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1410961834,
+    "name": "ARTEX",
+    "owner": {
+      "id": 130491490,
+      "url": "https://api.github.com/users/BaaRai",
+      "html_url": "https://github.com/BaaRai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130491490?v=4"
+    },
+    "html_url": "https://github.com/BaaRai/ARTEX",
+    "description": "ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0)",
+    "created_at": "2026-10-08T21:14:39Z",
+    "updated_at": "2026-11-18T00:44:26Z",
+    "pushed_at": "2026-11-18T00:42:50Z",
+    "git_url": "git://github.com/BaaRai/ARTEX.git",
+    "homepage": null,
+    "size": 12662,
+    "stargazers_count": 6819,
+    "watchers_count": 6819,
+    "language": "Go",
+    "forks_count": 2982,
+    "open_issues_count": 13
+  },
+  {
+    "id": 1441507782,
+    "name": "looseleaf",
+    "owner": {
+      "id": 345203353,
+      "url": "https://api.github.com/users/kevintngo",
+      "html_url": "https://github.com/kevintngo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/345203353?v=4"
+    },
+    "html_url": "https://github.com/kevintngo/looseleaf",
+    "description": "shadcn/ui, drawn by hand: 123 accessible React components that look drawn on paper, with a shadcn registry.",
+    "created_at": "2026-11-01T05:16:00Z",
+    "updated_at": "2026-11-18T00:28:52Z",
+    "pushed_at": "2026-11-01T18:25:55Z",
+    "git_url": "git://github.com/kevintngo/looseleaf.git",
+    "homepage": "https://kevintngo.github.io/looseleaf/",
+    "size": 31524,
+    "stargazers_count": 708,
+    "watchers_count": 708,
+    "language": "TypeScript",
+    "forks_count": 40,
+    "open_issues_count": 3
+  },
+  {
+    "id": 1458747499,
+    "name": "photo-studio-setup-notes",
+    "owner": {
+      "id": 321938624,
+      "url": "https://api.github.com/users/elizturner-99",
+      "html_url": "https://github.com/elizturner-99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/321938624?v=4"
+    },
+    "html_url": "https://github.com/elizturner-99/photo-studio-setup-notes",
+    "description": "Setup companion for Adobe Photoshop workflows — presets, docs and launcher.",
+    "created_at": "2026-11-15T11:51:34Z",
+    "updated_at": "2026-11-15T12:46:44Z",
+    "pushed_at": "2026-11-15T11:51:59Z",
+    "git_url": "git://github.com/elizturner-99/photo-studio-setup-notes.git",
+    "homepage": null,
+    "size": 2,
+    "stargazers_count": 95,
+    "watchers_count": 95,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
