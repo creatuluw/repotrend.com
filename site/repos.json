@@ -93102,5 +93102,74 @@
     "language": "Rust",
     "forks_count": 5,
     "open_issues_count": 0
+  },
+  {
+    "id": 1358237117,
+    "name": "YunX-Desktop",
+    "owner": {
+      "id": 143770458,
+      "url": "https://api.github.com/users/tidain",
+      "html_url": "https://github.com/tidain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143770458?v=4"
+    },
+    "html_url": "https://github.com/tidain/YunX-Desktop",
+    "description": "YunX（云析）的官方 windows 桌面端",
+    "created_at": "2026-09-05T13:47:32Z",
+    "updated_at": "2026-11-17T15:41:11Z",
+    "pushed_at": "2026-11-13T11:44:07Z",
+    "git_url": "git://github.com/tidain/YunX-Desktop.git",
+    "homepage": null,
+    "size": 7980,
+    "stargazers_count": 6579,
+    "watchers_count": 6579,
+    "language": "Kotlin",
+    "forks_count": 515,
+    "open_issues_count": 64
+  },
+  {
+    "id": 1439854729,
+    "name": "dsh-guizang-design",
+    "owner": {
+      "id": 13505770,
+      "url": "https://api.github.com/users/op7418",
+      "html_url": "https://github.com/op7418",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13505770?v=4"
+    },
+    "html_url": "https://github.com/op7418/dsh-guizang-design",
+    "description": "歸藏设计 · DeepSeek Harness 插件：网页 PPT、图文卡片、网页排版、去 AI 味四个 skill，一套设计系统；作品库、内容生产工作流、语气档案",
+    "created_at": "2026-10-30T14:45:30Z",
+    "updated_at": "2026-11-18T14:24:57Z",
+    "pushed_at": "2026-11-05T07:44:48Z",
+    "git_url": "git://github.com/op7418/dsh-guizang-design.git",
+    "homepage": null,
+    "size": 6286,
+    "stargazers_count": 971,
+    "watchers_count": 971,
+    "language": "HTML",
+    "forks_count": 54,
+    "open_issues_count": 5
+  },
+  {
+    "id": 1459046194,
+    "name": "jellyfin-media-notebook",
+    "owner": {
+      "id": 350978396,
+      "url": "https://api.github.com/users/EmissaryHike",
+      "html_url": "https://github.com/EmissaryHike",
+      "avatar_url": "https://avatars.githubusercontent.com/u/350978396?v=4"
+    },
+    "html_url": "https://github.com/EmissaryHike/jellyfin-media-notebook",
+    "description": "Open-source alternative to paid media servers — complete Jellyfin notebook.",
+    "created_at": "2026-11-15T17:15:08Z",
+    "updated_at": "2026-11-18T15:15:40Z",
+    "pushed_at": "2026-11-15T17:16:01Z",
+    "git_url": "git://github.com/EmissaryHike/jellyfin-media-notebook.git",
+    "homepage": null,
+    "size": 4,
+    "stargazers_count": 99,
+    "watchers_count": 99,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
