@@ -93033,5 +93033,74 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1401476500,
+    "name": "answer-me-with-html",
+    "owner": {
+      "id": 41177312,
+      "url": "https://api.github.com/users/QingYunA",
+      "html_url": "https://github.com/QingYunA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41177312?v=4"
+    },
+    "html_url": "https://github.com/QingYunA/answer-me-with-html",
+    "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+    "created_at": "2026-10-02T09:57:40Z",
+    "updated_at": "2026-11-17T15:41:42Z",
+    "pushed_at": "2026-11-17T10:14:14Z",
+    "git_url": "git://github.com/QingYunA/answer-me-with-html.git",
+    "homepage": "https://answer-me-with-html.com/",
+    "size": 26117,
+    "stargazers_count": 6475,
+    "watchers_count": 6475,
+    "language": "JavaScript",
+    "forks_count": 437,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1423810590,
+    "name": "athenaion",
+    "owner": {
+      "id": 219127460,
+      "url": "https://api.github.com/users/Leonxlnx",
+      "html_url": "https://github.com/Leonxlnx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219127460?v=4"
+    },
+    "html_url": "https://github.com/Leonxlnx/athenaion",
+    "description": "A massive ancient Greek world built entirely in code with three.js. Zero assets, made with Claude Code (Opus 5.5)",
+    "created_at": "2026-10-17T22:42:57Z",
+    "updated_at": "2026-11-16T11:31:02Z",
+    "pushed_at": "2026-10-17T22:58:02Z",
+    "git_url": "git://github.com/Leonxlnx/athenaion.git",
+    "homepage": null,
+    "size": 62135,
+    "stargazers_count": 714,
+    "watchers_count": 714,
+    "language": "JavaScript",
+    "forks_count": 92,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1461748827,
+    "name": "IPTV_Player_2.0",
+    "owner": {
+      "id": 221067350,
+      "url": "https://api.github.com/users/meirz911",
+      "html_url": "https://github.com/meirz911",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221067350?v=4"
+    },
+    "html_url": "https://github.com/meirz911/IPTV_Player_2.0",
+    "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+    "created_at": "2026-11-17T17:31:29Z",
+    "updated_at": "2026-11-17T18:31:53Z",
+    "pushed_at": "2026-11-17T17:32:20Z",
+    "git_url": "git://github.com/meirz911/IPTV_Player_2.0.git",
+    "homepage": "",
+    "size": 609,
+    "stargazers_count": 62,
+    "watchers_count": 62,
+    "language": "Rust",
+    "forks_count": 5,
+    "open_issues_count": 0
   }
 ]
