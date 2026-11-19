@@ -93240,5 +93240,74 @@
     "language": null,
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1443186633,
+    "name": "kiri",
+    "owner": {
+      "id": 32944039,
+      "url": "https://api.github.com/users/libracoder",
+      "html_url": "https://github.com/libracoder",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32944039?v=4"
+    },
+    "html_url": "https://github.com/libracoder/kiri",
+    "description": "A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",
+    "created_at": "2026-11-02T16:11:30Z",
+    "updated_at": "2026-11-16T15:10:30Z",
+    "pushed_at": "2026-11-16T14:40:09Z",
+    "git_url": "git://github.com/libracoder/kiri.git",
+    "homepage": "https://runkiri.com",
+    "size": 2345,
+    "stargazers_count": 8230,
+    "watchers_count": 8230,
+    "language": "Rust",
+    "forks_count": 362,
+    "open_issues_count": 152
+  },
+  {
+    "id": 1431583874,
+    "name": "procraft",
+    "owner": {
+      "id": 340751658,
+      "url": "https://api.github.com/users/artcraft-android",
+      "html_url": "https://github.com/artcraft-android",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340751658?v=4"
+    },
+    "html_url": "https://github.com/artcraft-android/procraft",
+    "description": "An open-source painting app for Android tablets, Windows and Linux: pressure-sensitive brushes, layers, adjustments, animation and 3D painting on its own Rust engine and GPU renderer.",
+    "created_at": "2026-10-23T21:52:24Z",
+    "updated_at": "2026-11-16T15:10:03Z",
+    "pushed_at": "2026-11-16T13:49:53Z",
+    "git_url": "git://github.com/artcraft-android/procraft.git",
+    "homepage": null,
+    "size": 29436,
+    "stargazers_count": 834,
+    "watchers_count": 834,
+    "language": "Rust",
+    "forks_count": 73,
+    "open_issues_count": 154
+  },
+  {
+    "id": 1458746422,
+    "name": "win11-performance-toolkit",
+    "owner": {
+      "id": 321626755,
+      "url": "https://api.github.com/users/connormartin16",
+      "html_url": "https://github.com/connormartin16",
+      "avatar_url": "https://avatars.githubusercontent.com/u/321626755?v=4"
+    },
+    "html_url": "https://github.com/connormartin16/win11-performance-toolkit",
+    "description": "Performance tweaks & cleaner setup kit for Windows 11 gaming and everyday speed.",
+    "created_at": "2026-11-15T11:50:16Z",
+    "updated_at": "2026-11-18T06:32:21Z",
+    "pushed_at": "2026-11-15T11:50:44Z",
+    "git_url": "git://github.com/connormartin16/win11-performance-toolkit.git",
+    "homepage": null,
+    "size": 2,
+    "stargazers_count": 94,
+    "watchers_count": 94,
+    "language": null,
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
