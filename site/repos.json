@@ -93401,5 +93401,74 @@
     "language": "Go",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1440971520,
+    "name": "Claude-Cage",
+    "owner": {
+      "id": 120454108,
+      "url": "https://api.github.com/users/Lee-xeo",
+      "html_url": "https://github.com/Lee-xeo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/120454108?v=4"
+    },
+    "html_url": "https://github.com/Lee-xeo/Claude-Cage",
+    "description": "Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。",
+    "created_at": "2026-10-31T15:07:08Z",
+    "updated_at": "2026-11-19T22:21:23Z",
+    "pushed_at": "2026-11-19T22:08:26Z",
+    "git_url": "git://github.com/Lee-xeo/Claude-Cage.git",
+    "homepage": "https://lee-xeo.github.io/Claude-Cage/",
+    "size": 56501,
+    "stargazers_count": 6866,
+    "watchers_count": 6866,
+    "language": "Go",
+    "forks_count": 805,
+    "open_issues_count": 123
+  },
+  {
+    "id": 1436875616,
+    "name": "vibe-knowledge",
+    "owner": {
+      "id": 187917479,
+      "url": "https://api.github.com/users/andyhuo520",
+      "html_url": "https://github.com/andyhuo520",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187917479?v=4"
+    },
+    "html_url": "https://github.com/andyhuo520/vibe-knowledge",
+    "description": "Vibe 知识大赏：一个知识点 → 一条有旁白、每句有出处的精品知识短片（Claude Code skill · 44 套风格 · 代码逐帧成片）",
+    "created_at": "2026-10-28T09:37:45Z",
+    "updated_at": "2026-11-20T00:13:40Z",
+    "pushed_at": "2026-10-28T15:30:54Z",
+    "git_url": "git://github.com/andyhuo520/vibe-knowledge.git",
+    "homepage": null,
+    "size": 50510,
+    "stargazers_count": 726,
+    "watchers_count": 726,
+    "language": "JavaScript",
+    "forks_count": 113,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1462885033,
+    "name": "joplin-arvella-notes",
+    "owner": {
+      "id": 340267723,
+      "url": "https://api.github.com/users/dynamicdeblackice-commits",
+      "html_url": "https://github.com/dynamicdeblackice-commits",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340267723?v=4"
+    },
+    "html_url": "https://github.com/dynamicdeblackice-commits/joplin-arvella-notes",
+    "description": "Structured Markdown note-taking with hierarchical notebooks, tagging, and full-text search.",
+    "created_at": "2026-11-18T14:08:45Z",
+    "updated_at": "2026-11-19T22:58:43Z",
+    "pushed_at": "2026-11-19T21:02:35Z",
+    "git_url": "git://github.com/dynamicdeblackice-commits/joplin-arvella-notes.git",
+    "homepage": null,
+    "size": 338,
+    "stargazers_count": 94,
+    "watchers_count": 94,
+    "language": "TypeScript",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
