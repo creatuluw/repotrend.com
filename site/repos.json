@@ -93608,5 +93608,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1434244891,
+    "name": "google-qr-sms-helper",
+    "owner": {
+      "id": 97464823,
+      "url": "https://api.github.com/users/havenicec",
+      "html_url": "https://github.com/havenicec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97464823?v=4"
+    },
+    "html_url": "https://github.com/havenicec/google-qr-sms-helper",
+    "description": "Chrome Extension (MV3) to switch Google's mandatory QR code verification back to standard 6-digit SMS verification via iPad Mini profile & [3,null,4] RPC fallback.",
+    "created_at": "2026-10-26T10:44:47Z",
+    "updated_at": "2026-11-20T23:46:55Z",
+    "pushed_at": "2026-10-28T15:43:15Z",
+    "git_url": "git://github.com/havenicec/google-qr-sms-helper.git",
+    "homepage": null,
+    "size": 99,
+    "stargazers_count": 880,
+    "watchers_count": 880,
+    "language": "JavaScript",
+    "forks_count": 197,
+    "open_issues_count": 13
+  },
+  {
+    "id": 1462222533,
+    "name": "claude-best-practices-zh",
+    "owner": {
+      "id": 365484,
+      "url": "https://api.github.com/users/yibie",
+      "html_url": "https://github.com/yibie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/365484?v=4"
+    },
+    "html_url": "https://github.com/yibie/claude-best-practices-zh",
+    "description": "Claude 官方最佳实践全集：173 篇中文译文 + 100 个概念的 LLM Wiki 知识网 + 交互式知识图谱/思维导图",
+    "created_at": "2026-11-18T02:32:07Z",
+    "updated_at": "2026-11-20T08:53:57Z",
+    "pushed_at": "2026-11-19T13:00:50Z",
+    "git_url": "git://github.com/yibie/claude-best-practices-zh.git",
+    "homepage": "https://claude-best-practices-zh.vercel.app",
+    "size": 3128,
+    "stargazers_count": 98,
+    "watchers_count": 98,
+    "language": "HTML",
+    "forks_count": 12,
+    "open_issues_count": 1
   }
 ]
