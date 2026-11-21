@@ -93654,5 +93654,51 @@
     "language": "HTML",
     "forks_count": 12,
     "open_issues_count": 1
+  },
+  {
+    "id": 1461522454,
+    "name": "WinRust",
+    "owner": {
+      "id": 183076981,
+      "url": "https://api.github.com/users/Lemxy",
+      "html_url": "https://github.com/Lemxy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/183076981?v=4"
+    },
+    "html_url": "https://github.com/Lemxy/WinRust",
+    "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
+    "created_at": "2026-11-17T14:27:06Z",
+    "updated_at": "2026-11-20T23:47:27Z",
+    "pushed_at": "2026-11-20T21:30:08Z",
+    "git_url": "git://github.com/Lemxy/WinRust.git",
+    "homepage": "",
+    "size": 1947,
+    "stargazers_count": 737,
+    "watchers_count": 737,
+    "language": "Rust",
+    "forks_count": 39,
+    "open_issues_count": 29
+  },
+  {
+    "id": 1463278301,
+    "name": "ui-diff",
+    "owner": {
+      "id": 53991708,
+      "url": "https://api.github.com/users/imuratalpay",
+      "html_url": "https://github.com/imuratalpay",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53991708?v=4"
+    },
+    "html_url": "https://github.com/imuratalpay/ui-diff",
+    "description": "Before/after screenshots, pixel diffs and a UX summary for UI changes in a PR (agent skill)",
+    "created_at": "2026-11-18T20:02:22Z",
+    "updated_at": "2026-11-21T06:04:45Z",
+    "pushed_at": "2026-11-20T14:00:38Z",
+    "git_url": "git://github.com/imuratalpay/ui-diff.git",
+    "homepage": "https://skills.muratalpay.me/ui-diff",
+    "size": 6127,
+    "stargazers_count": 69,
+    "watchers_count": 69,
+    "language": "TypeScript",
+    "forks_count": 6,
+    "open_issues_count": 1
   }
 ]
