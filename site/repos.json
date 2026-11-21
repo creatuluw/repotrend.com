@@ -93539,5 +93539,74 @@
     "language": "TypeScript",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1459971684,
+    "name": "rust-anything",
+    "owner": {
+      "id": 88717125,
+      "url": "https://api.github.com/users/erkamyaman",
+      "html_url": "https://github.com/erkamyaman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88717125?v=4"
+    },
+    "html_url": "https://github.com/erkamyaman/rust-anything",
+    "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+    "created_at": "2026-11-16T12:10:36Z",
+    "updated_at": "2026-11-20T23:45:08Z",
+    "pushed_at": "2026-11-20T23:24:40Z",
+    "git_url": "git://github.com/erkamyaman/rust-anything.git",
+    "homepage": "https://www.npmjs.com/package/rust-anything",
+    "size": 11704,
+    "stargazers_count": 6618,
+    "watchers_count": 6618,
+    "language": "Rust",
+    "forks_count": 520,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1426047615,
+    "name": "skullet",
+    "owner": {
+      "id": 1930210,
+      "url": "https://api.github.com/users/lochie",
+      "html_url": "https://github.com/lochie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1930210?v=4"
+    },
+    "html_url": "https://github.com/lochie/skullet",
+    "description": "Smart skeleton states",
+    "created_at": "2026-10-19T18:56:04Z",
+    "updated_at": "2026-11-18T09:06:59Z",
+    "pushed_at": "2026-11-16T03:11:20Z",
+    "git_url": "git://github.com/lochie/skullet.git",
+    "homepage": "https://skullet.lochie.me",
+    "size": 4631,
+    "stargazers_count": 967,
+    "watchers_count": 967,
+    "language": "TypeScript",
+    "forks_count": 23,
+    "open_issues_count": 36
+  },
+  {
+    "id": 1461695121,
+    "name": "traxagent-claude-plugin",
+    "owner": {
+      "id": 103133220,
+      "url": "https://api.github.com/users/ccarter01011",
+      "html_url": "https://github.com/ccarter01011",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103133220?v=4"
+    },
+    "html_url": "https://github.com/ccarter01011/traxagent-claude-plugin",
+    "description": "Ask Claude, ChatGPT, Claude Code, Cursor or VS Code who spent your AI budget and what to fix. TraxAgent's read-only MCP server and Claude Code plugin.",
+    "created_at": "2026-11-17T16:45:33Z",
+    "updated_at": "2026-11-20T23:47:22Z",
+    "pushed_at": "2026-11-20T16:10:01Z",
+    "git_url": "git://github.com/ccarter01011/traxagent-claude-plugin.git",
+    "homepage": "https://www.traxagent.io",
+    "size": 789,
+    "stargazers_count": 89,
+    "watchers_count": 89,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
