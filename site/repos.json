@@ -93792,5 +93792,74 @@
     "language": "JavaScript",
     "forks_count": 23,
     "open_issues_count": 0
+  },
+  {
+    "id": 1465855400,
+    "name": "Leonida",
+    "owner": {
+      "id": 300290919,
+      "url": "https://api.github.com/users/ItsNotRexed",
+      "html_url": "https://github.com/ItsNotRexed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/300290919?v=4"
+    },
+    "html_url": "https://github.com/ItsNotRexed/Leonida",
+    "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+    "created_at": "2026-11-20T20:07:13Z",
+    "updated_at": "2026-11-22T05:47:58Z",
+    "pushed_at": "2026-11-22T05:43:55Z",
+    "git_url": "git://github.com/ItsNotRexed/Leonida.git",
+    "homepage": "",
+    "size": 5066,
+    "stargazers_count": 7316,
+    "watchers_count": 7316,
+    "language": "Python",
+    "forks_count": 570,
+    "open_issues_count": 167
+  },
+  {
+    "id": 1438330757,
+    "name": "product-engineering",
+    "owner": {
+      "id": 7837354,
+      "url": "https://api.github.com/users/phuryn",
+      "html_url": "https://github.com/phuryn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7837354?v=4"
+    },
+    "html_url": "https://github.com/phuryn/product-engineering",
+    "description": "45 agent skills from shipping three live products: decide what to build, build it with Claude Code or Codex, have a second model review it, release it.",
+    "created_at": "2026-10-29T11:32:54Z",
+    "updated_at": "2026-11-21T18:40:51Z",
+    "pushed_at": "2026-11-21T18:34:25Z",
+    "git_url": "git://github.com/phuryn/product-engineering.git",
+    "homepage": "https://www.productcompass.pm/p/product-engineering-skills",
+    "size": 6593,
+    "stargazers_count": 729,
+    "watchers_count": 729,
+    "language": "Python",
+    "forks_count": 92,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1466323036,
+    "name": "music-maker",
+    "owner": {
+      "id": 230600013,
+      "url": "https://api.github.com/users/Hashem-Al-Ghaili",
+      "html_url": "https://github.com/Hashem-Al-Ghaili",
+      "avatar_url": "https://avatars.githubusercontent.com/u/230600013?v=4"
+    },
+    "html_url": "https://github.com/Hashem-Al-Ghaili/music-maker",
+    "description": "Stretch strings in the air, give each one an instrument and play them with your fingers, live in the browser through your webcam.",
+    "created_at": "2026-11-21T08:05:10Z",
+    "updated_at": "2026-11-22T05:11:43Z",
+    "pushed_at": "2026-11-21T08:34:19Z",
+    "git_url": "git://github.com/Hashem-Al-Ghaili/music-maker.git",
+    "homepage": "https://hashem-al-ghaili.github.io/music-maker/",
+    "size": 106,
+    "stargazers_count": 51,
+    "watchers_count": 51,
+    "language": "HTML",
+    "forks_count": 12,
+    "open_issues_count": 0
   }
 ]
