@@ -93746,5 +93746,51 @@
     "language": "JavaScript",
     "forks_count": 18,
     "open_issues_count": 0
+  },
+  {
+    "id": 1450480356,
+    "name": "worse_query",
+    "owner": {
+      "id": 62081155,
+      "url": "https://api.github.com/users/forcequitOS",
+      "html_url": "https://github.com/forcequitOS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62081155?v=4"
+    },
+    "html_url": "https://github.com/forcequitOS/worse_query",
+    "description": "A sandbox escape for iOS 26 and 27, again",
+    "created_at": "2026-11-08T17:00:03Z",
+    "updated_at": "2026-11-20T23:10:55Z",
+    "pushed_at": "2026-11-08T20:05:55Z",
+    "git_url": "git://github.com/forcequitOS/worse_query.git",
+    "homepage": "",
+    "size": 24,
+    "stargazers_count": 745,
+    "watchers_count": 745,
+    "language": "Objective-C",
+    "forks_count": 169,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1465342782,
+    "name": "dsh-workbuddy",
+    "owner": {
+      "id": 238615551,
+      "url": "https://api.github.com/users/LIUFelix2004",
+      "html_url": "https://github.com/LIUFelix2004",
+      "avatar_url": "https://avatars.githubusercontent.com/u/238615551?v=4"
+    },
+    "html_url": "https://github.com/LIUFelix2004/dsh-workbuddy",
+    "description": "Import WorkBuddy accounts into DeepSeek Harness as model providers: one route per account, full model list, per-account credit balance, and an automatic workaround for the gateway 11128 channel check.",
+    "created_at": "2026-11-20T11:22:44Z",
+    "updated_at": "2026-11-21T18:46:20Z",
+    "pushed_at": "2026-11-21T08:21:43Z",
+    "git_url": "git://github.com/LIUFelix2004/dsh-workbuddy.git",
+    "homepage": null,
+    "size": 109,
+    "stargazers_count": 64,
+    "watchers_count": 64,
+    "language": "JavaScript",
+    "forks_count": 23,
+    "open_issues_count": 0
   }
 ]
