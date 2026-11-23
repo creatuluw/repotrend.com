@@ -93999,5 +93999,74 @@
     "language": "Python",
     "forks_count": 2,
     "open_issues_count": 4
+  },
+  {
+    "id": 1437869585,
+    "name": "SoduWork",
+    "owner": {
+      "id": 342439292,
+      "url": "https://api.github.com/users/mdiri-ai",
+      "html_url": "https://github.com/mdiri-ai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/342439292?v=4"
+    },
+    "html_url": "https://github.com/mdiri-ai/SoduWork",
+    "description": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.",
+    "created_at": "2026-10-29T02:43:14Z",
+    "updated_at": "2026-11-23T06:32:12Z",
+    "pushed_at": "2026-11-23T06:32:51Z",
+    "git_url": "git://github.com/mdiri-ai/SoduWork.git",
+    "homepage": "https://www.soduwork.ai",
+    "size": 79071,
+    "stargazers_count": 6847,
+    "watchers_count": 6847,
+    "language": "JavaScript",
+    "forks_count": 550,
+    "open_issues_count": 408
+  },
+  {
+    "id": 1440759001,
+    "name": "Moect",
+    "owner": {
+      "id": 88974174,
+      "url": "https://api.github.com/users/mofan6",
+      "html_url": "https://github.com/mofan6",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88974174?v=4"
+    },
+    "html_url": "https://github.com/mofan6/Moect",
+    "description": "Windows 微信 4.x 聊天记录导出、备份与离线归档工具 · WeChat chat history exporter & backup. 支持好友/群聊、头像、图片、GIF 表情、音视频、文件、链接、小程序、引用回复和合并转发；支持 HTML、JSON、JSONL、TXT、CSV、Markdown 导出、批量任务、消息搜索及时间筛选，提供一键安装包。",
+    "created_at": "2026-10-31T10:45:53Z",
+    "updated_at": "2026-11-23T06:06:13Z",
+    "pushed_at": "2026-11-20T03:44:25Z",
+    "git_url": "git://github.com/mofan6/Moect.git",
+    "homepage": "https://mofan6.github.io/moect/",
+    "size": 27275,
+    "stargazers_count": 871,
+    "watchers_count": 871,
+    "language": "Python",
+    "forks_count": 198,
+    "open_issues_count": 4
+  },
+  {
+    "id": 1467035512,
+    "name": "portwatch-vi",
+    "owner": {
+      "id": 359682649,
+      "url": "https://api.github.com/users/4lwayz",
+      "html_url": "https://github.com/4lwayz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/359682649?v=4"
+    },
+    "html_url": "https://github.com/4lwayz/portwatch-vi",
+    "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+    "created_at": "2026-11-21T23:16:41Z",
+    "updated_at": "2026-11-22T23:24:28Z",
+    "pushed_at": "2026-11-22T21:57:32Z",
+    "git_url": "git://github.com/4lwayz/portwatch-vi.git",
+    "homepage": "https://4lwayz.github.io/portwatch-vi/",
+    "size": 1468,
+    "stargazers_count": 55,
+    "watchers_count": 55,
+    "language": "JavaScript",
+    "forks_count": 4,
+    "open_issues_count": 2
   }
 ]
