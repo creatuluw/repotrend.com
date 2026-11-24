@@ -94183,5 +94183,51 @@
     "language": "JavaScript",
     "forks_count": 1,
     "open_issues_count": 1
+  },
+  {
+    "id": 1433010899,
+    "name": "capri-desktop",
+    "owner": {
+      "id": 321940728,
+      "url": "https://api.github.com/users/mochiiwuff",
+      "html_url": "https://github.com/mochiiwuff",
+      "avatar_url": "https://avatars.githubusercontent.com/u/321940728?v=4"
+    },
+    "html_url": "https://github.com/mochiiwuff/capri-desktop",
+    "description": "Capri, the Project Capricorn construct from Cyberpunk: Edgerunners 2, living on your desktop and narrating what Claude Code is doing.",
+    "created_at": "2026-10-25T09:07:06Z",
+    "updated_at": "2026-11-24T08:30:00Z",
+    "pushed_at": "2026-11-09T17:06:11Z",
+    "git_url": "git://github.com/mochiiwuff/capri-desktop.git",
+    "homepage": null,
+    "size": 9354,
+    "stargazers_count": 661,
+    "watchers_count": 661,
+    "language": "JavaScript",
+    "forks_count": 127,
+    "open_issues_count": 55
+  },
+  {
+    "id": 1469150078,
+    "name": "project-stark-free-hub",
+    "owner": {
+      "id": 330617278,
+      "url": "https://api.github.com/users/Stephanez58",
+      "html_url": "https://github.com/Stephanez58",
+      "avatar_url": "https://avatars.githubusercontent.com/u/330617278?v=4"
+    },
+    "html_url": "https://github.com/Stephanez58/project-stark-free-hub",
+    "description": "Project Stark | Free Hub — Keyless Roblox LuaU Script Hub & Auto-Farm (2026): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+    "created_at": "2026-11-23T18:24:36Z",
+    "updated_at": "2026-11-23T19:22:55Z",
+    "pushed_at": "2026-11-23T18:25:08Z",
+    "git_url": "git://github.com/Stephanez58/project-stark-free-hub.git",
+    "homepage": "https://Stephanez58.github.io/project-stark-free-hub/",
+    "size": 82,
+    "stargazers_count": 97,
+    "watchers_count": 97,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 1
   }
 ]
