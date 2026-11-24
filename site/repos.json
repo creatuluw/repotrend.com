@@ -94114,5 +94114,74 @@
     "language": "Lean",
     "forks_count": 1,
     "open_issues_count": 0
+  },
+  {
+    "id": 1434724807,
+    "name": "ui",
+    "owner": {
+      "id": 108547162,
+      "url": "https://api.github.com/users/vercel-labs",
+      "html_url": "https://github.com/vercel-labs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108547162?v=4"
+    },
+    "html_url": "https://github.com/vercel-labs/ui",
+    "description": "A library of behaviors for agents to build the next generation of user interfaces.",
+    "created_at": "2026-10-26T17:39:27Z",
+    "updated_at": "2026-11-24T08:56:39Z",
+    "pushed_at": "2026-11-24T04:05:38Z",
+    "git_url": "git://github.com/vercel-labs/ui.git",
+    "homepage": "https://ui-sdk.dev",
+    "size": 19784,
+    "stargazers_count": 6974,
+    "watchers_count": 6974,
+    "language": "TypeScript",
+    "forks_count": 246,
+    "open_issues_count": 151
+  },
+  {
+    "id": 1450525814,
+    "name": "Arke",
+    "owner": {
+      "id": 132542914,
+      "url": "https://api.github.com/users/Koimsurai",
+      "html_url": "https://github.com/Koimsurai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/132542914?v=4"
+    },
+    "html_url": "https://github.com/Koimsurai/Arke",
+    "description": "A fast, beautiful file explorer for Windows that never makes you wait. Built with Rust and GPUI.",
+    "created_at": "2026-11-08T17:57:47Z",
+    "updated_at": "2026-11-24T08:54:26Z",
+    "pushed_at": "2026-11-24T08:08:34Z",
+    "git_url": "git://github.com/Koimsurai/Arke.git",
+    "homepage": null,
+    "size": 9355,
+    "stargazers_count": 781,
+    "watchers_count": 781,
+    "language": "Rust",
+    "forks_count": 35,
+    "open_issues_count": 68
+  },
+  {
+    "id": 1464881957,
+    "name": "agy-monitor",
+    "owner": {
+      "id": 110751900,
+      "url": "https://api.github.com/users/aishadiaodeqishui",
+      "html_url": "https://github.com/aishadiaodeqishui",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110751900?v=4"
+    },
+    "html_url": "https://github.com/aishadiaodeqishui/agy-monitor",
+    "description": "AGY Console (AGY 控制台): Antigravity 零侵入侧边控制台插件（上下文遥测 / 多 Agent 掌握协作网 / 主题与整机壁纸美化）",
+    "created_at": "2026-11-20T02:16:52Z",
+    "updated_at": "2026-11-21T18:39:09Z",
+    "pushed_at": "2026-11-21T15:50:26Z",
+    "git_url": "git://github.com/aishadiaodeqishui/agy-monitor.git",
+    "homepage": null,
+    "size": 2103,
+    "stargazers_count": 86,
+    "watchers_count": 86,
+    "language": "JavaScript",
+    "forks_count": 1,
+    "open_issues_count": 1
   }
 ]
