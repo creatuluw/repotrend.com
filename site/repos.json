@@ -94275,5 +94275,51 @@
     "language": "Cuda",
     "forks_count": 17,
     "open_issues_count": 5
+  },
+  {
+    "id": 1457919852,
+    "name": "tiny-voca",
+    "owner": {
+      "id": 39720973,
+      "url": "https://api.github.com/users/n4ze3m",
+      "html_url": "https://github.com/n4ze3m",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39720973?v=4"
+    },
+    "html_url": "https://github.com/n4ze3m/tiny-voca",
+    "description": "A 4.5M-parameter two-voice English text-to-speech model, trained from scratch",
+    "created_at": "2026-11-14T16:02:56Z",
+    "updated_at": "2026-11-25T05:41:49Z",
+    "pushed_at": "2026-11-23T16:51:11Z",
+    "git_url": "git://github.com/n4ze3m/tiny-voca.git",
+    "homepage": "https://tiny-voca.n4ze3m.com",
+    "size": 264,
+    "stargazers_count": 894,
+    "watchers_count": 894,
+    "language": "Python",
+    "forks_count": 105,
+    "open_issues_count": 2
+  },
+  {
+    "id": 1469133081,
+    "name": "blue-lock-rivals-auto-goal-script",
+    "owner": {
+      "id": 330582142,
+      "url": "https://api.github.com/users/ChristinaOkada530",
+      "html_url": "https://github.com/ChristinaOkada530",
+      "avatar_url": "https://avatars.githubusercontent.com/u/330582142?v=4"
+    },
+    "html_url": "https://github.com/ChristinaOkada530/blue-lock-rivals-auto-goal-script",
+    "description": "Blue Lock: Rivals Script 2026 — Auto-Goal, Infinite Stamina, Style Spin & Hitbox: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+    "created_at": "2026-11-23T18:08:44Z",
+    "updated_at": "2026-11-23T19:21:49Z",
+    "pushed_at": "2026-11-23T18:09:19Z",
+    "git_url": "git://github.com/ChristinaOkada530/blue-lock-rivals-auto-goal-script.git",
+    "homepage": "https://ChristinaOkada530.github.io/blue-lock-rivals-auto-goal-script/",
+    "size": 72,
+    "stargazers_count": 93,
+    "watchers_count": 93,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 1
   }
 ]
