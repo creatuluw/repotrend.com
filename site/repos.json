@@ -94229,5 +94229,51 @@
     "language": "C++",
     "forks_count": 0,
     "open_issues_count": 1
+  },
+  {
+    "id": 1433846971,
+    "name": "GEOInflow",
+    "owner": {
+      "id": 266242792,
+      "url": "https://api.github.com/users/yaojingang",
+      "html_url": "https://github.com/yaojingang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/266242792?v=4"
+    },
+    "html_url": "https://github.com/yaojingang/GEOInflow",
+    "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
+    "created_at": "2026-10-26T03:12:45Z",
+    "updated_at": "2026-11-23T02:58:31Z",
+    "pushed_at": "2026-11-14T09:00:15Z",
+    "git_url": "git://github.com/yaojingang/GEOInflow.git",
+    "homepage": null,
+    "size": 46811,
+    "stargazers_count": 866,
+    "watchers_count": 866,
+    "language": "TypeScript",
+    "forks_count": 262,
+    "open_issues_count": 7
+  },
+  {
+    "id": 1466453544,
+    "name": "maya-inkling-mini",
+    "owner": {
+      "id": 68546545,
+      "url": "https://api.github.com/users/alesha-pro",
+      "html_url": "https://github.com/alesha-pro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68546545?v=4"
+    },
+    "html_url": "https://github.com/alesha-pro/maya-inkling-mini",
+    "description": "Inkling 2 Mini on one RTX 3090: 128 tok/s, 344K context, images and tools. A Project Maya engine (maya-ik2) with every expert in VRAM.",
+    "created_at": "2026-11-21T11:02:11Z",
+    "updated_at": "2026-11-22T22:36:38Z",
+    "pushed_at": "2026-11-22T18:39:34Z",
+    "git_url": "git://github.com/alesha-pro/maya-inkling-mini.git",
+    "homepage": null,
+    "size": 43100,
+    "stargazers_count": 95,
+    "watchers_count": 95,
+    "language": "Cuda",
+    "forks_count": 17,
+    "open_issues_count": 5
   }
 ]
