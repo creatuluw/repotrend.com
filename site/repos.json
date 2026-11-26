@@ -94367,5 +94367,74 @@
     "language": "HTML",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1469344551,
+    "name": "VIctory",
+    "owner": {
+      "id": 60314886,
+      "url": "https://api.github.com/users/Marvisak",
+      "html_url": "https://github.com/Marvisak",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60314886?v=4"
+    },
+    "html_url": "https://github.com/Marvisak/VIctory",
+    "description": "An attempt at running GTA VI on PC",
+    "created_at": "2026-11-23T21:47:25Z",
+    "updated_at": "2026-11-24T22:04:57Z",
+    "pushed_at": "2026-11-24T21:37:26Z",
+    "git_url": "git://github.com/Marvisak/VIctory.git",
+    "homepage": null,
+    "size": 546,
+    "stargazers_count": 11087,
+    "watchers_count": 11087,
+    "language": "Rust",
+    "forks_count": 1608,
+    "open_issues_count": 1460
+  },
+  {
+    "id": 1466700014,
+    "name": "kurocat",
+    "owner": {
+      "id": 77205788,
+      "url": "https://api.github.com/users/qianyiai",
+      "html_url": "https://github.com/qianyiai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77205788?v=4"
+    },
+    "html_url": "https://github.com/qianyiai/kurocat",
+    "description": "KuroCat — Free open-source desktop typing cat pet & OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透明源 / AI捏猫 / Win·Mac·Linux·Android）",
+    "created_at": "2026-11-21T15:49:31Z",
+    "updated_at": "2026-11-25T19:30:48Z",
+    "pushed_at": "2026-11-25T17:42:56Z",
+    "git_url": "git://github.com/qianyiai/kurocat.git",
+    "homepage": "https://qianyi.one/kurocat/",
+    "size": 11380,
+    "stargazers_count": 945,
+    "watchers_count": 945,
+    "language": "TypeScript",
+    "forks_count": 146,
+    "open_issues_count": 34
+  },
+  {
+    "id": 1469372028,
+    "name": "pump-fun-volume-bump-bot-fajamar",
+    "owner": {
+      "id": 319676419,
+      "url": "https://api.github.com/users/andrewzziwa4-ship-it",
+      "html_url": "https://github.com/andrewzziwa4-ship-it",
+      "avatar_url": "https://avatars.githubusercontent.com/u/319676419?v=4"
+    },
+    "html_url": "https://github.com/andrewzziwa4-ship-it/pump-fun-volume-bump-bot-fajamar",
+    "description": "Explore token launches and bump activity together with Fajamar’s community-focused bot.",
+    "created_at": "2026-11-23T22:21:23Z",
+    "updated_at": "2026-11-24T22:52:54Z",
+    "pushed_at": "2026-11-25T12:00:40Z",
+    "git_url": "git://github.com/andrewzziwa4-ship-it/pump-fun-volume-bump-bot-fajamar.git",
+    "homepage": null,
+    "size": 323,
+    "stargazers_count": 87,
+    "watchers_count": 87,
+    "language": "HTML",
+    "forks_count": 0,
+    "open_issues_count": 0
   }
 ]
