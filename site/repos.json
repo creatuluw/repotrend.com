@@ -94436,5 +94436,74 @@
     "language": "HTML",
     "forks_count": 0,
     "open_issues_count": 0
+  },
+  {
+    "id": 1465852099,
+    "name": "xcl",
+    "owner": {
+      "id": 360790281,
+      "url": "https://api.github.com/users/xcl-dev",
+      "html_url": "https://github.com/xcl-dev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/360790281?v=4"
+    },
+    "html_url": "https://github.com/xcl-dev/xcl",
+    "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+    "created_at": "2026-11-20T20:03:21Z",
+    "updated_at": "2026-11-26T07:21:09Z",
+    "pushed_at": "2026-11-26T06:10:46Z",
+    "git_url": "git://github.com/xcl-dev/xcl.git",
+    "homepage": "https://discord.gg/xcl",
+    "size": 9057,
+    "stargazers_count": 8389,
+    "watchers_count": 8389,
+    "language": "Rust",
+    "forks_count": 1160,
+    "open_issues_count": 1716
+  },
+  {
+    "id": 1456290080,
+    "name": "kraken-mount",
+    "owner": {
+      "id": 63728788,
+      "url": "https://api.github.com/users/quer3q",
+      "html_url": "https://github.com/quer3q",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63728788?v=4"
+    },
+    "html_url": "https://github.com/quer3q/kraken-mount",
+    "description": "Minimalist PS5 game mounter supporting PKG, folder dumps, zstd and lz4",
+    "created_at": "2026-11-13T07:25:37Z",
+    "updated_at": "2026-11-26T07:27:30Z",
+    "pushed_at": "2026-11-25T10:14:09Z",
+    "git_url": "git://github.com/quer3q/kraken-mount.git",
+    "homepage": "",
+    "size": 2770,
+    "stargazers_count": 642,
+    "watchers_count": 642,
+    "language": "Rust",
+    "forks_count": 54,
+    "open_issues_count": 12
+  },
+  {
+    "id": 1470624637,
+    "name": "berachain-bgt-infrared-kodiak-bot",
+    "owner": {
+      "id": 322829711,
+      "url": "https://api.github.com/users/Caroline27881",
+      "html_url": "https://github.com/Caroline27881",
+      "avatar_url": "https://avatars.githubusercontent.com/u/322829711?v=4"
+    },
+    "html_url": "https://github.com/Caroline27881/berachain-bgt-infrared-kodiak-bot",
+    "description": "Berachain Bgt Infrared Kodiak Bot [2026] — Standalone Windows 10/11 (x64) Release & Config",
+    "created_at": "2026-11-24T18:34:07Z",
+    "updated_at": "2026-11-24T21:58:15Z",
+    "pushed_at": "2026-11-24T19:25:13Z",
+    "git_url": "git://github.com/Caroline27881/berachain-bgt-infrared-kodiak-bot.git",
+    "homepage": "https://Caroline27881.github.io/berachain-bgt-infrared-kodiak-bot/",
+    "size": 77,
+    "stargazers_count": 95,
+    "watchers_count": 95,
+    "language": "Python",
+    "forks_count": 0,
+    "open_issues_count": 1
   }
 ]
