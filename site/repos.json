@@ -94505,5 +94505,51 @@
     "language": "Python",
     "forks_count": 0,
     "open_issues_count": 1
+  },
+  {
+    "id": 1452639214,
+    "name": "artex",
+    "owner": {
+      "id": 93018630,
+      "url": "https://api.github.com/users/failsafe-security",
+      "html_url": "https://github.com/failsafe-security",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93018630?v=4"
+    },
+    "html_url": "https://github.com/failsafe-security/artex",
+    "description": "Source-built, locally bound FailSafe distribution of ARTEX (v0.3.15)",
+    "created_at": "2026-11-10T12:33:18Z",
+    "updated_at": "2026-11-26T20:55:10Z",
+    "pushed_at": "2026-11-17T06:08:13Z",
+    "git_url": "git://github.com/failsafe-security/artex.git",
+    "homepage": null,
+    "size": 6684,
+    "stargazers_count": 988,
+    "watchers_count": 988,
+    "language": "Go",
+    "forks_count": 341,
+    "open_issues_count": 10
+  },
+  {
+    "id": 1470841108,
+    "name": "pinkie-promise-script",
+    "owner": {
+      "id": 302756953,
+      "url": "https://api.github.com/users/sita494",
+      "html_url": "https://github.com/sita494",
+      "avatar_url": "https://avatars.githubusercontent.com/u/302756953?v=4"
+    },
+    "html_url": "https://github.com/sita494/pinkie-promise-script",
+    "description": "Pinkie Promise Script [2026] — Standalone Windows 10/11 (x64) Release & Config",
+    "created_at": "2026-11-24T21:16:07Z",
+    "updated_at": "2026-11-24T21:57:49Z",
+    "pushed_at": "2026-11-24T21:16:43Z",
+    "git_url": "git://github.com/sita494/pinkie-promise-script.git",
+    "homepage": "https://sita494.github.io/pinkie-promise-script/",
+    "size": 0,
+    "stargazers_count": 92,
+    "watchers_count": 92,
+    "language": "C++",
+    "forks_count": 0,
+    "open_issues_count": 1
   }
 ]
