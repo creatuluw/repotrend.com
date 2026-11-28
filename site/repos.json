@@ -94620,5 +94620,74 @@
     "language": "Python",
     "forks_count": 22,
     "open_issues_count": 1
+  },
+  {
+    "id": 1449548089,
+    "name": "phonebox",
+    "owner": {
+      "id": 408479,
+      "url": "https://api.github.com/users/ersinkoc",
+      "html_url": "https://github.com/ersinkoc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/408479?v=4"
+    },
+    "html_url": "https://github.com/ersinkoc/phonebox",
+    "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widgets and 30 templates for system stats, AI coding, media and automation, in 13 languages. USB or paired Wi-Fi. No cloud required.",
+    "created_at": "2026-11-07T16:45:16Z",
+    "updated_at": "2026-11-26T21:05:51Z",
+    "pushed_at": "2026-11-26T21:06:19Z",
+    "git_url": "git://github.com/ersinkoc/phonebox.git",
+    "homepage": "https://ersinkoc.github.io/phonebox/",
+    "size": 33565,
+    "stargazers_count": 7151,
+    "watchers_count": 7151,
+    "language": "JavaScript",
+    "forks_count": 820,
+    "open_issues_count": 6
+  },
+  {
+    "id": 1437167819,
+    "name": "her-words",
+    "owner": {
+      "id": 232451312,
+      "url": "https://api.github.com/users/CUDADA-jpg",
+      "html_url": "https://github.com/CUDADA-jpg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/232451312?v=4"
+    },
+    "html_url": "https://github.com/CUDADA-jpg/her-words",
+    "description": "一个关于好好提��的游戏",
+    "created_at": "2026-10-28T14:03:48Z",
+    "updated_at": "2026-11-27T20:24:20Z",
+    "pushed_at": "2026-10-29T10:28:43Z",
+    "git_url": "git://github.com/CUDADA-jpg/her-words.git",
+    "homepage": null,
+    "size": 71,
+    "stargazers_count": 722,
+    "watchers_count": 722,
+    "language": "JavaScript",
+    "forks_count": 9,
+    "open_issues_count": 0
+  },
+  {
+    "id": 1470987789,
+    "name": "google-unlocked",
+    "owner": {
+      "id": 192038783,
+      "url": "https://api.github.com/users/Magerko",
+      "html_url": "https://github.com/Magerko",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192038783?v=4"
+    },
+    "html_url": "https://github.com/Magerko/google-unlocked",
+    "description": "Google search DMCA notice viewer for Firefox, Chrome and Edge with local ONNX captcha recognition",
+    "created_at": "2026-11-24T23:35:53Z",
+    "updated_at": "2026-11-26T20:23:32Z",
+    "pushed_at": "2026-11-24T23:36:06Z",
+    "git_url": "git://github.com/Magerko/google-unlocked.git",
+    "homepage": null,
+    "size": 48221,
+    "stargazers_count": 96,
+    "watchers_count": 96,
+    "language": "JavaScript",
+    "forks_count": 3,
+    "open_issues_count": 0
   }
 ]
